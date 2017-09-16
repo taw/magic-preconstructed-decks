@@ -1,0 +1,31 @@
+<cockatrice_deck>
+  <deckname>Liliana, Death Wielder</deckname>
+  <comments>https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19</comments>
+  <zone name='main'>
+    <card name='Baleful Ammit' number='2' price='0'/>
+    <card name='Cartouche of Ambition' number='2' price='0'/>
+    <card name='Cartouche of Strength' number='2' price='0'/>
+    <card name='Channeler Initiate' number='1' price='0'/>
+    <card name='Crocodile of the Crossing' number='1' price='0'/>
+    <card name='Decimator Beetle' number='2' price='0'/>
+    <card name='Desiccated Naga' number='3' price='0'/>
+    <card name='Dune Beetle' number='2' price='0'/>
+    <card name='Edifice of Authority' number='1' price='0'/>
+    <card name='Festering Mummy' number='1' price='0'/>
+    <card name='Forest' number='9' price='0'/>
+    <card name='Foul Orchard' number='4' price='0'/>
+    <card name='Giant Spider' number='2' price='0'/>
+    <card name='Gift of Paradise' number='1' price='0'/>
+    <card name='Grasping Dunes' number='1' price='0'/>
+    <card name='Gravedigger' number='2' price='0'/>
+    <card name='Liliana&apos;s Influence' number='2' price='0'/>
+    <card name='Liliana, Death Wielder' number='1' price='0'/>
+    <card name='Luxa River Shrine' number='1' price='0'/>
+    <card name='Oracle&apos;s Vault' number='1' price='0'/>
+    <card name='Splendid Agony' number='2' price='0'/>
+    <card name='Swamp' number='11' price='0'/>
+    <card name='Tattered Mummy' number='4' price='0'/>
+    <card name='Trial of Ambition' number='2' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

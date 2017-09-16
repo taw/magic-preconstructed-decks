@@ -1,0 +1,32 @@
+<cockatrice_deck>
+  <deckname>Chandra, Pyrogenius</deckname>
+  <comments>https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21</comments>
+  <zone name='main'>
+    <card name='Aerial Responder' number='2' price='0'/>
+    <card name='Bomat Bazaar Barge' number='1' price='0'/>
+    <card name='Brazen Scourge' number='1' price='0'/>
+    <card name='Built to Last' number='2' price='0'/>
+    <card name='Cathartic Reunion' number='1' price='0'/>
+    <card name='Chandra, Pyrogenius' number='1' price='0'/>
+    <card name='Fateful Showdown' number='1' price='0'/>
+    <card name='Flame Lash' number='4' price='0'/>
+    <card name='Fleetwheel Cruiser' number='1' price='0'/>
+    <card name='Gearshift Ace' number='1' price='0'/>
+    <card name='Liberating Combustion' number='2' price='0'/>
+    <card name='Mountain' number='11' price='0'/>
+    <card name='Ovalchase Dragster' number='1' price='0'/>
+    <card name='Plains' number='10' price='0'/>
+    <card name='Renegade Firebrand' number='3' price='0'/>
+    <card name='Renegade Freighter' number='2' price='0'/>
+    <card name='Sky Skiff' number='2' price='0'/>
+    <card name='Skyswirl Harrier' number='1' price='0'/>
+    <card name='Snare Thopter' number='1' price='0'/>
+    <card name='Speedway Fanatic' number='1' price='0'/>
+    <card name='Spireside Infiltrator' number='2' price='0'/>
+    <card name='Stone Quarry' number='4' price='0'/>
+    <card name='Trusty Companion' number='2' price='0'/>
+    <card name='Veteran Motorist' number='2' price='0'/>
+    <card name='Weldfast Monitor' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

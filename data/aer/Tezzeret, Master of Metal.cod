@@ -1,0 +1,32 @@
+<cockatrice_deck>
+  <deckname>Tezzeret, Master of Metal</deckname>
+  <comments>https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11</comments>
+  <zone name='main'>
+    <card name='Augmenting Automaton' number='2' price='0'/>
+    <card name='Barricade Breaker' number='1' price='0'/>
+    <card name='Bastion Inventor' number='2' price='0'/>
+    <card name='Dhund Operative' number='2' price='0'/>
+    <card name='Dukhara Peafowl' number='1' price='0'/>
+    <card name='Essence Extraction' number='1' price='0'/>
+    <card name='Fen Hauler' number='1' price='0'/>
+    <card name='Foundry Assembler' number='1' price='0'/>
+    <card name='Implement of Examination' number='2' price='0'/>
+    <card name='Ironclad Revolutionary' number='1' price='0'/>
+    <card name='Island' number='11' price='0'/>
+    <card name='Merchant&apos;s Dockhand' number='1' price='0'/>
+    <card name='Ornithopter' number='1' price='0'/>
+    <card name='Pendulum of Patterns' number='4' price='0'/>
+    <card name='Quicksmith Spy' number='1' price='0'/>
+    <card name='Reverse Engineer' number='1' price='0'/>
+    <card name='Submerged Boneyard' number='4' price='0'/>
+    <card name='Swamp' number='10' price='0'/>
+    <card name='Tezzeret&apos;s Betrayal' number='2' price='0'/>
+    <card name='Tezzeret&apos;s Simulacrum' number='3' price='0'/>
+    <card name='Tezzeret&apos;s Touch' number='2' price='0'/>
+    <card name='Tezzeret, Master of Metal' number='1' price='0'/>
+    <card name='Treasure Keeper' number='1' price='0'/>
+    <card name='Universal Solvent' number='2' price='0'/>
+    <card name='Wind-Kin Raiders' number='2' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>
