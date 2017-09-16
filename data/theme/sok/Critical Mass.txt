@@ -1,0 +1,31 @@
+// NAME: Critical Mass
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=1&lang=en
+1 Ghost-Lit Stalker
+2 Gnat Miser
+1 Cruel Deceiver*
+1 Hand of Cruelty
+3 Deathmask Nezumi
+1 Skull Collector
+1 Akuta, Born of Ash
+1 Locust Miser
+2 Kemuri-Onna
+1 Okiba-Gang Shinobi*
+1 Goblin Cohort*
+2 Godo's Irregulars
+3 Akki Underling
+1 Sokenzan Renegade
+1 Sokenzan Spellblade
+1 Honden of Night's Reach*
+1 Kagemaro's Clutch
+2 Sink into Takenuma
+1 Death of a Thousand Stings
+3 Barrel Down Sokenzan
+1 Flames of the Blood Hand*
+1 Honden of Infinite Rage*
+2 Spiraling Embers
+1 Thoughts of Ruin
+1 Shuko*
+13 Swamp*
+11 Mountain*
+
+Sideboard

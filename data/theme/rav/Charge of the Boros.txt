@@ -1,0 +1,29 @@
+// NAME: Charge of the Boros
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=3&lang=en
+2 War-Torch Goblin
+2 Viashino Slasher
+2 Ordruun Commando
+1 Greater Forgeling
+2 Nightguard Patrol
+1 Screeching Griffin
+2 Boros Swiftblade
+3 Thundersong Trumpeter
+3 Skyknight Legionnaire
+2 Flame-Kin Zealot
+1 Agrus Kos, Wojek Veteran
+3 Boros Recruit
+1 Boros Guildmage
+2 Dogpile
+2 Cleansing Beam
+1 Bathe in Light
+2 Lightning Helix
+2 Rally the Righteous
+1 Terrarion
+1 Cyclopean Snare
+1 Sunforger
+10 Mountain
+10 Plains
+2 Boros Garrison
+1 Sunhome, Fortress of the Legion
+
+Sideboard

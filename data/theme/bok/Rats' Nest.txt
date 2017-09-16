@@ -1,0 +1,27 @@
+// NAME: Rats' Nest
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=3&lang=en
+1 Nezumi Shadow-Watcher
+2 Nezumi Bone-Reader*
+3 Nezumi Cutthroat*
+1 Nezumi Graverobber*
+4 Skullsnatcher
+4 Nezumi Ronin*
+2 Numai Outcast*
+2 Throat Slitter
+1 Okiba-Gang Shinobi
+1 Patron of the Nezumi
+1 Genju of the Fens
+1 Psychic Spear
+1 Midnight Covenant*
+1 Ragged Veins*
+1 Rend Flesh*
+2 Horobi's Whisper
+2 Befoul*
+1 Dance of Shadows*
+2 Three Tragedies
+1 Stir the Grave
+1 Shuko
+1 Umezawa's Jitte
+24 Swamp*
+
+Sideboard

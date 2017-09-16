@@ -1,0 +1,30 @@
+// NAME: Golgari Deathcreep
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=1&lang=en
+1 Thoughtpicker Witch
+2 Infectious Host
+2 Stinkweed Imp
+2 Elves of Deep Shadow
+1 Elvish Skysweeper
+2 Golgari Brownscale
+3 Greater Mossdog
+1 Golgari Grave-Troll
+1 Savra, Queen of the Golgari
+2 Shambling Shell
+2 Woodwraith Strangler
+2 Golgari Rotwurm
+2 Drooling Groodion
+1 Golgari Guildmage
+2 Darkblast
+2 Last Gasp
+1 Necromantic Thirst
+1 Vigor Mortis
+1 Moldervine Cloak
+2 Recollect
+1 Rolling Spoil
+2 Putrefy
+11 Swamp
+11 Forest
+1 Golgari Rot Farm
+1 Svogthos, the Restless Tomb
+
+Sideboard

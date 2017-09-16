@@ -1,0 +1,31 @@
+// NAME: Truth Seekers
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=4&lang=en
+3 Ghost-Lit Redeemer
+2 Silent-Chant Zubera*
+1 Nikko-Onna
+1 Rune-Tail, Kitsune Ascendant
+1 Shinen of Stars' Light
+2 Moonwing Moth
+1 Eiganjo Free-Riders
+2 Torii Watchward
+1 Kami of the Honored Dead*
+2 Dripping-Tongue Zubera*
+1 Shinen of Life's Roar
+2 Elder Pine of Jukai
+1 Gnarled Mass*
+2 Haru-Onna
+2 Briarknit Kami
+2 Nightsoil Kami
+1 Bounteous Kirin
+2 Spiritual Visit
+1 Terashi's Grasp*
+1 Honden of Cleansing Fire*
+1 Kodama's Might*
+2 Vital Surge*
+1 Dosan's Oldest Chant
+1 Honden of Life's Web*
+11 Plains*
+12 Forest*
+1 Tranquil Garden*
+
+Sideboard

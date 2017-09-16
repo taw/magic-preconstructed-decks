@@ -1,0 +1,30 @@
+// NAME: Code of the Orzhov
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=1&lang=en
+1 Martyred Rusalka
+2 Shrieking Grotesque
+1 Belfry Spirit
+1 Plagued Rusalka
+2 Thoughtpicker Witch*
+2 Infectious Host*
+2 Orzhov Euthanist
+2 Ostiary Thrull
+2 Poisonbelly Ogre
+1 Skeletal Vampire
+1 Teysa, Orzhov Scion
+2 Souls of the Faultless
+2 Blind Hunter
+2 Agent of Masks
+2 Mourning Thrull
+1 Orzhov Guildmage
+1 Festival of the Guildpact*
+2 Hissing Miasma
+2 Strands of Undeath*
+2 Castigate
+1 Mortify
+2 Pillory of the Sleepless
+10 Plains*
+11 Swamp*
+2 Orzhov Basilica
+1 Orzhova, the Church of Deals
+
+Sideboard

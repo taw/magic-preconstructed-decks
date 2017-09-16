@@ -1,0 +1,30 @@
+// NAME: Spirit Flames
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=3&lang=en
+1 Frostling*
+1 Glitterfang
+2 Ghost-Lit Raider
+1 Jiwari, the Earth Aflame
+1 Hana Kami*
+3 Promised Kannushi
+2 Petalmane Baku*
+1 Shinen of Life's Roar
+2 Elder Pine of Jukai
+2 Ghost-Lit Nourisher
+2 Burr Grafter*
+2 Kami of the Tended Garden
+1 Venerable Kumo*
+1 Arashi, the Sky Asunder
+1 Briarknit Kami
+2 Forked-Branch Garami*
+2 Crushing Pain*
+1 Glacial Ray*
+1 Devouring Rage*
+1 Kodama's Might*
+2 Inner Calm, Outer Strength
+2 Unchecked Growth*
+1 Rending Vines
+1 Strength of Cedars*
+11 Mountain*
+13 Forest*
+
+Sideboard

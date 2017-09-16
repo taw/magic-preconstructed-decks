@@ -1,0 +1,24 @@
+// NAME: Snake's Path
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=2&lang=en
+3 Orochi Leafcaller
+3 Orochi Ranger
+4 Orochi Sustainer
+3 Sakura-Tribe Elder
+3 Matsu-Tribe Decoy
+1 Orochi Eggwatcher
+3 Kashi-Tribe Reaver
+1 Sachi, Daughter of Seshiro
+1 Sosuke, Son of Seshiro
+2 Kashi-Tribe Warriors
+1 Time of Need
+1 Wear Away
+2 Serpent Skin
+1 Lure
+2 Strength of Cedars
+1 Orochi Hatchery
+2 Hankyu
+1 Sensei's Divining Top
+1 Junkyo Bell
+24 Forest
+
+Sideboard

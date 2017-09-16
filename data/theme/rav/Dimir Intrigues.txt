@@ -1,0 +1,28 @@
+// NAME: Dimir Intrigues
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=2&lang=en
+2 Lore Broker
+3 Vedalken Entrancer
+2 Wizened Snitches
+2 Belltower Sphinx
+2 Dimir House Guard
+1 Mausoleum Turnkey
+2 Sewerdreg
+2 Dimir Infiltrator
+1 Szadek, Lord of Secrets
+3 Lurking Informant
+1 Dimir Guildmage
+2 Induce Paranoia
+1 Dream Leash
+2 Last Gasp
+1 Ribbons of Night
+2 Disembowel
+3 Consult the Necrosages
+1 Clutch of the Undercity
+2 Psychic Drain
+1 Dimir Signet
+11 Island
+10 Swamp
+2 Dimir Aqueduct
+1 Duskmantle, House of Shadow
+
+Sideboard

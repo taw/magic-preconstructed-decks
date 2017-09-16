@@ -1,0 +1,28 @@
+// NAME: Spiritcraft
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=4&lang=en
+1 Traproot Kami
+2 Loam Dweller
+2 Petalmane Baku
+3 Kami of the Hunt*
+1 Budoka Pupil
+1 Kodama of the Center Tree
+2 Scaled Hulk
+1 Orbweaver Kumo*
+2 Lantern Kami*
+2 Waxmane Baku
+2 Faithful Squire
+2 Horizon Seed*
+1 Kami of Tattered Shoji
+1 Oyobi, Who Split the Heavens
+2 Kodama's Might*
+2 Vital Surge
+1 Wear Away*
+1 Roar of Jukai
+2 Unchecked Growth
+2 Blessed Breath*
+1 Otherworldly Journey*
+2 Terashi's Verdict
+14 Forest*
+10 Plains*
+
+Sideboard

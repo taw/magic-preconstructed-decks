@@ -44,7 +44,10 @@ class BuildJsons
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
     when "intro"
       warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Decks")
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Deck")
+    when "theme"
+      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
     else
       raise
     end

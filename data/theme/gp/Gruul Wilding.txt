@@ -1,0 +1,30 @@
+// NAME: Gruul Wilding
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=2&lang=en
+1 Scorched Rusalka
+2 Sparkmage Apprentice*
+2 Bloodscale Prowler
+1 Indentured Oaf*
+2 Dryad Sophisticate
+2 Gatherer of Graces
+2 Gruul Scrapper
+2 Dowsing Shaman*
+2 Bramble Elemental*
+1 Gruul Nodorog
+1 Battering Wurm
+1 Scab-Clan Mauler
+1 Burning-Tree Bloodscale
+1 Streetbreaker Wurm
+2 Skarrgan Skybreaker
+1 Borborygmos
+1 Wild Cantor
+1 Gruul Guildmage
+3 Fencer's Magemark
+2 Fists of Ironwood*
+3 Beastmaster's Magemark
+1 Wildsize
+1 Wurmweaver Coil
+11 Mountain*
+12 Forest*
+1 Skarrg, the Rage Pits
+
+Sideboard

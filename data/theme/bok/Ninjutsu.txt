@@ -1,0 +1,26 @@
+// NAME: Ninjutsu
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=2&lang=en
+1 Teardrop Kami
+2 Kaijin of the Vanishing Touch
+2 Minamo Sightbender
+2 Soratami Cloudskater*
+2 Student of Elements*
+3 Mistblade Shinobi
+3 River Kaijin*
+1 Walker of Secret Ways
+3 Ninja of the Deep Hours
+1 Soratami Mirror-Guard*
+1 Higure, the Still Wind
+1 Tomorrow, Azami's Familiar
+2 Genju of the Falls
+2 Phantom Wings
+1 Field of Reality*
+1 Lifted by Clouds*
+1 Hinder*
+1 Minamo's Meddling
+3 Mystic Restraints*
+1 Shuriken
+2 Ronin Warclub
+24 Island*
+
+Sideboard

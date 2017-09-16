@@ -1,0 +1,28 @@
+// NAME: Selesnya United
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=4&lang=en
+2 Elvish Skysweeper
+1 Scion of the Wild
+2 Nullmage Shepherd
+1 Dowsing Shaman
+2 Root-Kin Ally
+3 Siege Wurm
+2 Caregiver
+2 Sandsower
+2 Conclave Phalanx
+2 Selesnya Evangel
+1 Watchwolf
+1 Tolsimir Wolfblood
+1 Selesnya Guildmage
+2 Centaur Safeguard
+3 Gather Courage
+4 Fists of Ironwood
+2 Scatter the Seeds
+1 Dryad's Caress
+1 Overwhelm
+1 Conclave's Blessing
+11 Forest
+10 Plains
+2 Selesnya Sanctuary
+1 Vitu-Ghazi, the City-Tree
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: Azorius Ascendant
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=1&lang=en
+3 Beacon Hawk
+2 Mistral Charger
+2 Benevolent Ancestor*
+3 Soulsworn Jury
+2 Stoic Ephemera
+1 Wakestone Gargoyle
+1 Paladin of Prahv
+3 Tidewater Minion*
+1 Zephyr Spirit*
+2 Azorius First-Wing
+2 Sky Hussar
+1 Isperia the Inscrutable
+2 Minister of Impediments
+1 Azorius Guildmage
+1 To Arms!**
+1 Steeling Stance
+1 Faith's Fetters*
+1 Sinstriker's Will**
+1 Halcyon Glaze*
+2 Ocular Halo
+2 Plumes of Peace
+1 Palliation Accord
+12 Plains*
+9 Island*
+2 Azorius Chancery
+1 Prahv, Spires of Order
+
+Sideboard

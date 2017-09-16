@@ -1,0 +1,23 @@
+// NAME: Way of the Warrior
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=4&lang=en
+1 Bushi Tenderfoot
+4 Devoted Retainer
+3 Konda's Hatamoto
+4 Kitsune Blademaster
+4 Mothrider Samurai
+1 Nagao, Bound by Honor
+1 Takeno, Samurai General
+2 Samurai Enforcers
+1 Blessed Breath
+2 Reciprocate
+2 Vigilance
+2 Call to Glory
+1 Candles' Glow
+2 Indomitable Will
+1 Otherworldly Journey
+2 Cage of Hands
+1 Hold the Line
+2 No-Dachi
+24 Plains
+
+Sideboard

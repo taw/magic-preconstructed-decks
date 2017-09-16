@@ -1,0 +1,27 @@
+// NAME: Kami Reborn
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=1&lang=en
+2 Ashen-Skin Zubera
+2 Thief of Hope
+2 Gibbering Kami
+2 Scuttling Death
+1 Iname, Death Aspect
+2 Kami of Lunacy
+2 Hana Kami
+2 Dripping-Tongue Zubera
+2 Soilshaper
+2 Kami of the Hunt
+2 Burr Grafter
+2 Venerable Kumo
+2 Swallowing Plague
+1 Honden of Night's Reach
+1 Devouring Greed
+1 Dance of Shadows
+2 Pull Under
+2 Kodama's Might
+2 Kodama's Reach
+1 Honden of Life's Web
+1 Long-Forgotten Gohei
+12 Swamp
+12 Forest
+
+Sideboard

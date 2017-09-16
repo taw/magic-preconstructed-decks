@@ -1,0 +1,28 @@
+// NAME: Dark Devotion
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=1&lang=en
+2 Bile Urchin
+1 Bloodthirsty Ogre*
+3 Takenuma Bleeder
+3 Villainous Ogre*
+1 Blood Speaker*
+2 Scourge of Numai
+1 Yukora, the Prisoner
+2 Painwracker Oni*
+1 Deathcurse Ogre*
+3 Hearth Kami*
+1 Shinka Gatekeeper
+1 Initiate of Blood*
+1 Sokenzan Bruiser*
+2 Frost Ogre
+1 Heartless Hidetsugu
+1 Mark of the Oni
+2 Oni Possession*
+2 Call for Blood
+2 Swallowing Plague*
+1 Kumano's Blessing
+1 Overblaze
+2 Torrent of Stone
+14 Swamp*
+10 Mountain*
+
+Sideboard

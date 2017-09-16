@@ -1,0 +1,28 @@
+// NAME: Rakdos Bloodsport
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=2&lang=en
+2 Slithering Shade
+2 Drekavac
+2 Ragamuffyn
+2 Sadistic Augermage*
+2 Demon's Jester
+1 Slaughterhouse Bouncer
+2 Scorched Rusalka**
+2 Torpid Moloch*
+3 Gobhobbler Rats
+1 Lyzolda, the Blood Witch
+1 Rakdos Ickspitter
+1 Rakdos Guildmage
+1 Douse in Gloom**
+1 Nihilistic Glee
+3 Seal of Fire
+2 Taste for Mayhem
+2 Ignorant Bliss
+2 Cackling Flames
+1 Wrecking Ball
+1 Twinstrike
+2 Rakdos Signet
+12 Swamp*
+11 Mountain*
+1 Rix Maadi, Dungeon Palace
+
+Sideboard
