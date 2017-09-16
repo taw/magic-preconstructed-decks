@@ -1,0 +1,31 @@
+// NAME: Assemble Victory
+// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+1 Pia and Kiran Nalaar
+2 Bonded Construct
+1 Runed Servitor
+1 Subterranean Scout
+1 Bellows Lizard
+2 Chief of the Foundry
+1 Maritime Guard
+2 Ghirapur Gearcrafter
+1 Ramroller
+1 Thopter Engineer
+2 Guardian Automaton
+2 Aspiring Aeronaut
+1 Separatist Voidmage
+1 Whirler Rogue
+2 Reclusive Artificer
+2 Volcanic Rambler
+1 Mage-Ring Responder
+1 Disperse
+2 Artificer's Epiphany
+1 Prism Ring
+2 Alchemist's Vial
+1 Meteorite
+3 Infectious Bloodlust
+2 Ghirapur AEther Grid
+1 Evolving Wilds
+13 Mountain
+10 Island
+
+Sideboard

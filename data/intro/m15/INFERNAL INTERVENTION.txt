@@ -1,0 +1,28 @@
+// NAME: INFERNAL INTERVENTION
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+3 Typhoid Rats
+2 Torch Fiend
+2 Gargoyle Sentinel
+2 Goblin Roughrider
+1 Wall of Fire
+1 Gravedigger
+1 Zof Shade
+1 Thundering Giant
+2 Carrion Crow
+1 Indulgent Tormentor
+2 Nightfire Giant
+1 Clear a Path
+1 Cone of Flame
+1 Festergloom
+2 Lightning Strike
+2 Heat Ray
+2 Blastfire Bolt
+2 Flesh to Dust
+2 Profane Memento
+1 Stab Wound
+1 Caustic Tar
+1 Burning Anger
+13 Swamp
+13 Mountain
+
+Sideboard

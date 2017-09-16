@@ -1,0 +1,27 @@
+// NAME: Entangling Webs
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+3 Llanowar Elves
+1 Runeclaw Bear
+2 Crimson Mage
+1 Garruk's Companion
+3 Giant Spider
+1 Lightning Elemental
+2 Stampeding Rhino
+2 Stingerfling Spider
+2 Acidic Slime
+1 Arachnus Spinner
+1 Vastwood Gorger
+1 Garruk's Horde
+3 Rampant Growth
+1 Overrun
+1 Fireball
+1 Titanic Growth
+1 Fling
+2 Hunter's Insight
+1 Slaughter Cry
+2 Greatsword
+3 Arachnus Web
+18 Forest
+7 Mountain
+
+Sideboard

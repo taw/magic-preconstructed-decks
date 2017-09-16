@@ -1,0 +1,29 @@
+// NAME: Blood and Fire
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+1 Goblin Arsonist
+2 Goblin Fireslinger
+1 Tormented Soul
+1 Goblin Tunneler
+2 Stormblood Berserker
+3 Duskhunter Bat
+1 Onyx Mage
+3 Blood Ogre
+1 Manic Vandal
+2 Bloodrage Vampire
+1 Goblin Bangchuckers
+2 Gorehorn Minotaurs
+2 Vampire Outcasts
+2 Crumbling Colossus
+1 Flameblast Dragon
+1 Volcanic Dragon
+1 Taste of Blood
+1 Hideous Visage
+2 Tectonic Rift
+3 Shock
+1 Incinerate
+1 Swiftfoot Boots
+1 Warstorm Surge
+14 Mountain
+10 Swamp
+
+Sideboard

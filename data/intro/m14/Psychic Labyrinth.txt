@@ -1,0 +1,27 @@
+// NAME: Psychic Labyrinth
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+3 Coral Merfolk
+2 Scroll Thief
+1 Clone
+1 Archaeomancer
+1 Water Servant
+2 Air Servant
+2 Seacoast Drake
+2 Warden of Evos Isle
+2 Master of Diversion
+1 Messenger Drake
+2 Stonehorn Chanter
+1 Jace's Mindseeker
+1 Divination
+1 Solemn Offering
+1 Glimpse the Future
+3 Show of Valor
+2 Frost Breath
+1 Rod of Ruin
+1 Staff of the Mind Magus
+3 Claustrophobia
+2 Illusionary Armor
+16 Island
+9 Plains
+
+Sideboard

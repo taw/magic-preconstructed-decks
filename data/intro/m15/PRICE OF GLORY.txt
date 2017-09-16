@@ -1,0 +1,30 @@
+// NAME: PRICE OF GLORY
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+3 Soulmender
+1 Kinsbaile Skirmisher
+1 Wall of Essence
+2 Child of Night
+1 Accursed Spirit
+1 Tireless Missionaries
+2 Ajani's Pridemate
+1 Blood Host
+1 Geist of the Moors
+1 Resolute Archangel
+2 Shadowcloak Vampire
+2 Sungrace Pegasus
+2 Wall of Limbs
+2 Witch's Familiar
+3 Sign in Blood
+1 Solemn Offering
+1 Mass Calcify
+1 Pillar of Light
+2 Ulcerate
+1 Staff of the Death Magus
+1 Staff of the Sun Magus
+1 Crippling Blight
+1 Divine Favor
+1 First Response
+12 Plains
+13 Swamp
+
+Sideboard

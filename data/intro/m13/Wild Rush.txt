@@ -1,0 +1,31 @@
+// NAME: Wild Rush
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+3 Arbor Elf
+2 Deadly Recluse
+2 Centaur Courser
+1 Yeva's Forcemage
+1 Mwonvuli Beast Tracker
+1 Primal Huntbeast
+2 Spiked Baloth
+1 Yeva, Nature's Herald
+2 Garruk's Packleader
+1 Acidic Slime
+1 Sentinel Spider
+2 Vastwood Gorger
+2 Duskdale Wurm
+1 Prey Upon
+1 Fungal Sprouting
+2 Ranger's Path
+2 Essence Drain
+1 Rise from the Grave
+1 Predatory Rampage
+1 Naturalize
+2 Public Execution
+1 Ring of Kalonia
+1 Rancor
+1 Crippling Blight
+1 Evolving Wilds
+16 Forest
+8 Swamp
+
+Sideboard

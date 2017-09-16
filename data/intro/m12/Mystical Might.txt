@@ -1,0 +1,27 @@
+// NAME: Mystical Might
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+3 Phantasmal Bear
+3 Coral Merfolk
+2 Stormfront Pegasus
+1 Lord of the Unreal
+3 Skywinder Drake
+2 Benalish Veteran
+1 AEther Adept
+2 Rusted Sentinel
+2 Aven Fleetwing
+2 Phantasmal Dragon
+1 Arbalest Elite
+1 Siege Mastodon
+1 Serra Angel
+1 Sphinx of Uthuun
+2 Unsummon
+1 Negate
+2 Cancel
+2 Elixir of Immortality
+2 Oblivion Ring
+1 Levitation
+1 Mind Control
+14 Island
+10 Plains
+
+Sideboard

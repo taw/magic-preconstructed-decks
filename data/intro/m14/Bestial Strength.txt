@@ -1,0 +1,28 @@
+// NAME: Bestial Strength
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+2 Deadly Recluse
+2 Brindle Boar
+2 Rootwalla
+2 Briarpack Alpha
+2 Giant Spider
+1 Elvish Mystic
+1 Corpse Hauler
+2 Kalonian Tusker
+1 Advocate of the Beast
+2 Accursed Spirit
+2 Rumbling Baloth
+2 Woodborn Behemoth
+1 Garruk's Horde
+1 Mind Rot
+1 Enlarge
+1 Fog
+2 Giant Growth
+1 Plummet
+2 Doom Blade
+2 Vial of Poison
+1 Staff of the Wild Magus
+1 Into the Wilds
+17 Forest
+9 Swamp
+
+Sideboard

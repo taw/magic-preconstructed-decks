@@ -1,0 +1,28 @@
+// NAME: FLAMES OF THE DRAGON
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+2 Ornithopter
+3 Bronze Sable
+2 Welkin Tern
+1 Rummaging Goblin
+3 Aeronaut Tinkerer
+2 Krenko's Enforcer
+2 Wall of Frost
+2 Juggernaut
+3 Scrapyard Mongrel
+1 Hoarding Dragon
+2 Glacial Crasher
+1 Siege Dragon
+2 Lava Axe
+1 Shrapnel Blast
+1 Rogue's Gloves
+1 Sacred Armory
+1 Tyrant's Machine
+1 Brawler's Plate
+1 Staff of the Flame Magus
+1 Staff of the Mind Magus
+1 Darksteel Citadel
+2 Ensoul Artifact
+12 Mountain
+12 Island
+
+Sideboard

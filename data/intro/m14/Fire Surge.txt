@@ -1,0 +1,25 @@
+// NAME: Fire Surge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+2 Dragon Hatchling
+3 Goblin Shortcutter
+2 Phantom Warrior
+2 Nephalia Seakite
+1 Shivan Dragon
+3 Regathan Firecat
+2 Trained Condor
+1 Chandra's Phoenix
+2 Fleshpulper Giant
+2 Flames of the Firebrand
+3 Lava Axe
+2 Disperse
+1 Essence Scatter
+1 Negate
+2 Opportunity
+1 Volcanic Geyser
+1 Chandra's Outrage
+1 Staff of the Flame Magus
+2 Shiv's Embrace
+16 Mountain
+10 Island
+
+Sideboard

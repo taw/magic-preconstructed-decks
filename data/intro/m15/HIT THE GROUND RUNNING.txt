@@ -1,0 +1,29 @@
+// NAME: HIT THE GROUND RUNNING
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+2 Runeclaw Bear
+1 Illusory Angel
+2 Roaring Primadox
+1 Stormtide Leviathan
+1 Carnivorous Moss-Beast
+2 Coral Barrier
+2 Frost Lynx
+1 Fugitive Wizard
+2 Invasive Species
+2 Kapsho Kitefins
+1 Mercurial Pretender
+2 Reclamation Sage
+1 Research Assistant
+2 Satyr Wayfinder
+3 Shaman of Spring
+2 Into the Void
+1 Restock
+1 Negate
+2 Peel from Reality
+1 Turn to Frog
+1 Plummet
+1 Meteorite
+1 Encrust
+13 Island
+12 Forest
+
+Sideboard

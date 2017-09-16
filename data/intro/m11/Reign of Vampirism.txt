@@ -1,0 +1,26 @@
+// NAME: Reign of Vampirism
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+3 Viscera Seer
+3 Bloodthrone Vampire
+3 Child of Night
+2 Reassembling Skeleton
+3 Barony Vampire
+1 Captivating Vampire
+1 Royal Assassin
+2 Howling Banshee
+1 Giant Spider
+1 Spined Wurm
+1 Nature's Spiral
+1 Cultivate
+2 Diabolic Tutor
+2 Rise from the Grave
+2 Corrupt
+1 Giant Growth
+2 Doom Blade
+1 Naturalize
+1 Sorcerer's Strongbox
+2 Quag Sickness
+16 Swamp
+9 Forest
+
+Sideboard

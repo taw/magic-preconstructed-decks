@@ -1,0 +1,31 @@
+// NAME: Mob Rule
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+3 Goblin Arsonist
+2 Dragon Hatchling
+2 Mogg Flunkies
+1 Torch Fiend
+2 Flinthoof Boar
+1 Arms Dealer
+2 Reckless Brute
+1 Rummaging Goblin
+1 Bladetusk Boar
+1 Goblin Battle Jester
+2 Furnace Whelp
+1 Krenko, Mob Boss
+2 Fire Elemental
+2 Krenko's Command
+2 Flames of the Firebrand
+1 Cleaver Riot
+1 Kindled Fury
+2 Titanic Growth
+1 Trumpet Blast
+1 Serpent's Gift
+1 Chandra's Fury
+2 Volcanic Geyser
+1 Ring of Valkas
+1 Fervor
+1 Evolving Wilds
+15 Mountain
+8 Forest
+
+Sideboard

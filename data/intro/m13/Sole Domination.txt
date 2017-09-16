@@ -1,0 +1,31 @@
+// NAME: Sole Domination
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+2 Duty-Bound Dead
+2 Tormented Soul
+1 Warclamp Mastiff
+2 Knight of Infamy
+2 Walking Corpse
+2 Aven Squire
+1 Knight of Glory
+3 Servant of Nefarox
+1 Guardians of Akrasa
+1 Vampire Nighthawk
+2 Bloodhunter Bat
+2 Duskmantle Prowler
+1 Liliana's Shade
+1 Veilborn Ghoul
+1 Zombie Goliath
+1 Xathrid Gorgon
+1 Nefarox, Overlord of Grixis
+2 Cower in Fear
+2 Murder
+1 Ring of Xathrid
+2 Pacifism
+1 Blood Reckoning
+1 Mark of the Vampire
+1 Angelic Benediction
+1 Evolving Wilds
+15 Swamp
+8 Plains
+
+Sideboard

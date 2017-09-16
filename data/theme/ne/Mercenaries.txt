@@ -26,9 +26,6 @@
 1 Dark Triumph
 1 Intimidation
 1 Belbe's Portal
-0 
-0 Card
--23 Lands
 23 Swamp
 
 Sideboard

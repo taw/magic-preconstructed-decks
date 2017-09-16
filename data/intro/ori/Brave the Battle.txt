@@ -1,0 +1,28 @@
+// NAME: Brave the Battle
+// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+1 Hixus, Prison Warden
+2 Anointer of Champions
+3 Cleric of the Forward Order
+2 Knight of the Pilgrim's Road
+2 Stalwart Aven
+2 Topan Freeblade
+2 Valeron Wardens
+1 Heavy Infantry
+2 Citadel Castellan
+1 Patron of the Valiant
+1 Outland Colossus
+2 Sentinel of the Eternal Watch
+1 Vastwood Gorger
+2 Wild Instincts
+2 Enshrouding Mist
+2 Mighty Leap
+1 Titanic Growth
+1 Vine Snare
+2 Grasp of the Hieromancer
+1 Valor in Akros
+2 Knightly Valor
+1 Evolving Wilds
+14 Plains
+10 Forest
+
+Sideboard

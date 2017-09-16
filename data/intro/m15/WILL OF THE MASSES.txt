@@ -1,0 +1,28 @@
+// NAME: WILL OF THE MASSES
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+2 Selfless Cathar
+1 Wall of Mulch
+2 Midnight Guard
+2 Siege Wurm
+1 Hornet Queen
+2 Living Totem
+2 Oreskos Swiftclaw
+1 Phytotitan
+2 Seraph of the Masses
+2 Sunblade Elf
+2 Will-Forged Golem
+1 Overwhelm
+2 Feral Incarnation
+1 Nissa's Expedition
+2 Triplicate Spirits
+1 Gather Courage
+1 Naturalize
+1 Titanic Growth
+3 Raise the Alarm
+2 Devouring Light
+1 Meditation Puzzle
+1 Sanctified Charge
+13 Forest
+12 Plains
+
+Sideboard

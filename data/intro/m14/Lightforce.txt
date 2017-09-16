@@ -1,0 +1,27 @@
+// NAME: Lightforce
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+2 Capashen Knight
+1 Auramancer
+3 Pillarfield Ox
+2 Serra Angel
+2 Soulmender
+2 Voracious Wurm
+2 Banisher Priest
+1 Charging Griffin
+1 Ajani's Chosen
+2 Dawnstrike Paladin
+1 Hunt the Weak
+2 Brave the Elements
+2 Fortify
+1 Congregate
+1 Elixir of Immortality
+1 Staff of the Sun Magus
+1 Divine Favor
+3 Pacifism
+3 Trollhide
+1 Angelic Accord
+1 Indestructibility
+16 Plains
+9 Forest
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Hunting Pack
+// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+1 Dwynen, Gilt-Leaf Daen
+2 Dwynen's Elite
+2 Elvish Visionary
+2 Thornbow Archer
+3 Timberpack Wolf
+2 Leaf Gilder
+1 Hitchclaw Recluse
+2 Yeva's Forcemage
+1 Managorger Hydra
+2 Deadbridge Shaman
+2 Eyeblight Assassin
+2 Shaman of the Pack
+2 Sylvan Messenger
+1 Skysnare Spider
+1 Macabre Waltz
+1 Nightsnare
+2 Eyeblight Massacre
+2 Joraga Invocation
+2 Might of the Masses
+2 Weight of the Underworld
+1 Consecrated by Blood
+1 Evolving Wilds
+11 Forest
+12 Swamp
+
+Sideboard

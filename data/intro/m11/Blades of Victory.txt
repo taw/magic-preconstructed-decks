@@ -1,0 +1,31 @@
+// NAME: Blades of Victory
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+2 Elite Vanguard
+2 Infantry Veteran
+2 Ajani's Pridemate
+1 Silvercoat Lion
+1 War Priest of Thune
+1 White Knight
+2 Palace Guard
+2 Cloud Crusader
+2 Siege Mastodon
+2 Serra Angel
+1 Angelic Arbiter
+1 Vengeful Archon
+1 Duress
+1 Assassinate
+1 Mind Rot
+1 Condemn
+1 Stabbing Pain
+1 Mighty Leap
+1 Doom Blade
+1 Safe Passage
+2 Inspired Charge
+1 Warlord's Axe
+1 Ajani's Mantra
+2 Pacifism
+2 Armored Ascension
+16 Plains
+9 Swamp
+
+Sideboard

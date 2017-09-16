@@ -1,0 +1,28 @@
+// NAME: Take to the Sky
+// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+1 Alhammarret, High Arbiter
+3 Faerie Miscreant
+2 Sigiled Starfish
+2 Yoked Ox
+2 Watercourser
+2 Tower Geist
+2 Nivix Barrier
+2 Charging Griffin
+2 Thunderclap Wyvern
+2 Totem-Guide Hartebeest
+1 Soulblade Djinn
+1 Aven Battle Priest
+2 Healing Hands
+1 Negate
+1 Turn to Frog
+1 Celestial Flare
+2 Hydrolash
+1 Stratus Walk
+1 Murder Investigation
+2 Claustrophobia
+2 Suppression Bonds
+1 Evolving Wilds
+14 Island
+10 Plains
+
+Sideboard

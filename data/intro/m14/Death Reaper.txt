@@ -1,0 +1,27 @@
+// NAME: Death Reaper
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+2 Child of Night
+2 Sengir Vampire
+3 Festering Newt
+2 Gnawing Zombie
+2 Tenacious Dead
+2 Blood Bairn
+2 Undead Minotaur
+2 Academy Raider
+1 Bogbrew Witch
+1 Deathgaze Cockatrice
+1 Liliana's Reaver
+1 Vampire Warlord
+1 Minotaur Abomination
+1 Act of Treason
+2 Corrupt
+3 Wring Flesh
+1 Smelt
+3 Thunder Strike
+1 Bubbling Cauldron
+1 Staff of the Death Magus
+1 Barrage of Expendables
+17 Swamp
+8 Mountain
+
+Sideboard

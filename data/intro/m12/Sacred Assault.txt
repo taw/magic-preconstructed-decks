@@ -1,0 +1,27 @@
+// NAME: Sacred Assault
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+2 Elite Vanguard
+1 Gladecover Scout
+2 Alabaster Mage
+2 Griffin Rider
+1 Jade Mage
+2 Auramancer
+2 Griffin Sentinel
+2 Sacred Wolf
+1 Mesa Enchantress
+3 Assault Griffin
+2 Cudgel Troll
+2 Thran Golem
+2 Peregrine Griffin
+1 Aegis Angel
+1 Naturalize
+1 Lifelink
+2 Divine Favor
+3 Pacifism
+2 Spirit Mantle
+1 Trollhide
+1 Lure
+14 Plains
+10 Forest
+
+Sideboard

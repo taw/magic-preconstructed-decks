@@ -1,0 +1,29 @@
+// NAME: Grab for Power
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+2 Child of Night
+2 Reassembling Skeleton
+2 Azure Mage
+2 Merfolk Looter
+3 Warpath Ghoul
+1 Devouring Swarm
+1 Drifting Shade
+1 Gravedigger
+2 Zombie Goliath
+2 Belltower Sphinx
+1 Rune-Scarred Demon
+1 Disentomb
+1 Ponder
+2 Divination
+1 Diabolic Tutor
+3 Doom Blade
+1 Sorin's Thirst
+1 Frost Breath
+2 Crown of Empires
+2 Scepter of Empires
+1 Throne of Empires
+1 Brink of Disaster
+1 Buried Ruin
+14 Swamp
+10 Island
+
+Sideboard

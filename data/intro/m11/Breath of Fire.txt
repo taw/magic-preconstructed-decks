@@ -1,0 +1,30 @@
+// NAME: Breath of Fire
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+1 Goblin Piker
+2 Goblin Tunneler
+2 Ember Hauler
+1 Augury Owl
+2 Chandra's Spitfire
+2 Prodigal Pyromancer
+2 Fiery Hellhound
+1 Canyon Minotaur
+1 Cyclops Gladiator
+1 Stone Golem
+2 Berserkers of Blood Ridge
+1 Fire Servant
+1 Earth Servant
+1 Ancient Hellkite
+1 Preordain
+1 Call to Mind
+1 Foresee
+2 Lava Axe
+1 Fireball
+3 Lightning Bolt
+1 Unsummon
+1 Negate
+3 Chandra's Outrage
+1 Shiv's Embrace
+16 Mountain
+9 Island
+
+Sideboard

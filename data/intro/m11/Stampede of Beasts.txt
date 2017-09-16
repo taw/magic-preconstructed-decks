@@ -1,0 +1,32 @@
+// NAME: Stampede of Beasts
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+2 Llanowar Elves
+2 Runeclaw Bear
+2 Sylvan Ranger
+2 Awakener Druid
+1 Sacred Wolf
+2 Giant Spider
+2 Prized Unicorn
+2 Garruk's Packleader
+1 Spined Wurm
+1 Greater Basilisk
+2 Yavimaya Wurm
+2 Duskdale Wurm
+1 Protean Hydra
+1 Nature's Spiral
+1 Cultivate
+1 Act of Treason
+1 Lava Axe
+1 Overwhelming Stampede
+1 Fireball
+2 Giant Growth
+1 Lightning Bolt
+1 Back to Nature
+1 Plummet
+1 Fling
+1 Chandra's Outrage
+1 Whispersilk Cloak
+16 Forest
+8 Mountain
+
+Sideboard
