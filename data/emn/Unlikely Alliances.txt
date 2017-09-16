@@ -1,0 +1,29 @@
+// NAME: Unlikely Alliances
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+1 Sanitarium Skeleton
+2 Unruly Mob
+3 Desperate Sentry
+2 Skirsdag Supplicant
+1 Vampire Noble
+1 Nearheath Chaplain
+1 Sanctifier of Souls
+1 Gavony Unhallowed
+2 Haunted Dead
+1 Emissary of the Sleepless
+1 Morkrut Necropod
+2 Angelic Purge
+2 Spectral Reserves
+2 Ruthless Disposal
+1 Providence
+1 Borrowed Malevolence
+2 Blessed Alliance
+1 Repel the Abominable
+1 Borrowed Grace
+2 Lunarch Mantle
+2 Vessel of Ephemera
+1 Bound by Moonsilver
+2 Campaign of Vengeance
+13 Plains
+12 Swamp
+
+Sideboard

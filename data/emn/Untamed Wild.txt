@@ -1,0 +1,28 @@
+// NAME: Untamed Wild
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+2 Bold Impaler
+2 Furyblade Vampire
+1 Noose Constrictor
+2 Primal Druid
+2 Quilled Wolf
+3 Brazen Wolves
+2 Howlpack Wolf
+1 Silverfur Partisan
+1 Mad Prophet
+1 Voldaren Duelist
+2 Somberwald Stag
+1 Assembled Alphas
+2 Prey Upon
+1 Magmatic Chasm
+1 Lightning Axe
+1 Rush of Adrenaline
+1 Clip Wings
+1 Uncaged Fury
+1 Clear Shot
+2 Spreading Flames
+2 Blood Mist
+3 Wolfkin Bond
+13 Mountain
+12 Forest
+
+Sideboard

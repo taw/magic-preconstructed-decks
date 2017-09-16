@@ -1,0 +1,29 @@
+// NAME: Ghostly Tide
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+1 Rattlechains
+2 Seagraf Skaab
+2 Dauntless Cathar
+2 Niblis of Dusk
+2 Spectral Shepherd
+1 Reckless Scholar
+2 Apothecary Geist
+2 Nearheath Chaplain
+1 Silent Observer
+2 Emissary of the Sleepless
+2 Stormrider Spirit
+1 Drogskol Cavalry
+1 Chaplain's Blessing
+2 Not Forgotten
+1 Pore Over the Pages
+1 Essence Flux
+2 Puncturing Light
+1 Silverstrike
+1 Catalog
+1 Deny Existence
+2 Vessel of Ephemera
+2 Bound by Moonsilver
+1 Sleep Paralysis
+13 Plains
+12 Island
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Vampiric Thirst
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+2 Ravenous Bloodseeker
+2 Indulgent Aristocrat
+1 Olivia's Bloodsworn
+2 Sanguinary Mage
+2 Vampire Noble
+2 Bloodmad Vampire
+2 Stromkirk Mentor
+1 Mad Prophet
+2 Voldaren Duelist
+2 Twins of Maurer Estate
+1 Markov Dreadknight
+2 Incorrigible Youths
+1 Macabre Waltz
+1 Murderous Compulsion
+2 Tormenting Voice
+2 Alms of the Vein
+2 Malevolent Whispers
+1 Burn from Within
+2 Fiery Temper
+1 Sinister Concoction
+1 Senseless Rage
+1 Creeping Dread
+13 Swamp
+12 Mountain
+
+Sideboard

@@ -1,0 +1,27 @@
+// NAME: Angelic Fury
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+3 Devilthorn Fox
+2 Stern Constable
+2 Ember-Eye Wolf
+1 Unruly Mob
+2 Howlpack Wolf
+3 Cathar's Companion
+2 Pyre Hound
+1 Runaway Carriage
+2 Inspiring Captain
+1 Flameblade Angel
+1 Magmatic Chasm
+1 Angelic Purge
+1 Devils' Playground
+2 Lightning Axe
+2 Rush of Adrenaline
+2 Dance with Devils
+2 Inner Struggle
+1 Dissension in the Ranks
+1 Murderer's Axe
+1 Gryff's Boon
+2 Nahiri's Machinations
+12 Plains
+13 Mountain
+
+Sideboard

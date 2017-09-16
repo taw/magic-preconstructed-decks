@@ -28,7 +28,16 @@ class BuildJsons
     dir.glob("*.txt").each do |path|
       deck = Deck.new(path)
       warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
-      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Planeswalker")
+      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Planeswalker Deck")
+    end
+  end
+
+  def build_intro_decks(set_code)
+    dir = Pathname(__dir__) + "../data/#{set_code}"
+    dir.glob("*.txt").each do |path|
+      deck = Deck.new(path)
+      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Intro Decks")
     end
   end
 
@@ -37,7 +46,7 @@ class BuildJsons
     dir.glob("*.txt").each do |path|
       deck = Deck.new(path)
       warn "#{path}: Expected 100 cards" unless deck.size == 100 and deck.sideboard_size == 0
-      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Commander")
+      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
     end
   end
 
@@ -54,6 +63,8 @@ class BuildJsons
     build_cmd_decks "c13"
     build_cmd_decks "c14"
     build_cmd_decks "c15"
+    build_intro_decks "soi"
+    build_intro_decks "emn"
     save_jsons
   end
 end

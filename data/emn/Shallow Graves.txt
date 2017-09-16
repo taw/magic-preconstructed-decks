@@ -1,0 +1,30 @@
+// NAME: Shallow Graves
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+1 Cryptbreaker
+1 Wailing Ghoul
+2 Seagraf Skaab
+2 Tattered Haunter
+1 Crow of Dark Tidings
+2 Liliana's Elite
+2 Exultant Cultist
+1 Reckless Scholar
+2 Stitched Mangler
+1 Laboratory Brute
+1 Stitchwing Skaab
+1 Lamplighter of Selhoff
+2 Advanced Stitchwing
+1 Noosegraf Mob
+3 Cemetery Recruitment
+1 Liliana's Indignation
+2 Compelling Deterrence
+1 Succumb to Temptation
+1 Murder
+1 Throttle
+2 Graf Harvest
+2 Spontaneous Mutation
+1 Ghostly Wings
+1 Boon of Emrakul
+13 Swamp
+12 Island
+
+Sideboard

@@ -1,0 +1,33 @@
+// NAME: Horrific Visions
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+2 Groundskeeper
+1 Loam Dryad
+3 Moldgraf Scavenger
+2 Obsessive Skinner
+2 Wicker Witch
+1 Wild-Field Scarecrow
+1 Inexorable Blob
+1 Crow of Dark Tidings
+2 Tooth Collector
+2 Stallion of Ashmouth
+1 Soul Swallower
+1 Ghoulsteed
+1 Hound of the Farbogs
+1 Morkrut Necropod
+1 Kessig Dire Swine
+1 Fork in the Road
+1 Rabid Bite
+1 Liliana's Indignation
+1 Merciless Resolve
+1 Might Beyond Reason
+1 Throttle
+2 Explosive Apparatus
+2 Dead Weight
+2 Vessel of Nascency
+1 Crawling Sensation
+1 Foul Orchard
+1 Warped Landscape
+12 Forest
+11 Swamp
+
+Sideboard

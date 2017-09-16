@@ -1,0 +1,30 @@
+// NAME: Dangerous Knowledge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+1 Sanguinary Mage
+2 Thermo-Alchemist
+2 Ingenious Skaab
+1 Niblis of Dusk
+2 Weaver of Lightning
+1 Pyre Hound
+1 Niblis of Frost
+2 Mercurial Geists
+1 Silburlind Snapper
+1 Bedlam Reveler
+3 Take Inventory
+1 Incendiary Flow
+1 Drag Under
+1 Pieces of the Puzzle
+2 Make Mischief
+2 Shreds of Sanity
+1 Reduce to Ashes
+1 Pore Over the Pages
+1 Rise from the Tides
+1 Turn Aside
+3 Galvanic Bombardment
+1 Convolute
+2 Geistblast
+1 Dance with Devils
+13 Island
+12 Mountain
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: Weapons and Wards
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+2 Crossroads Consecrator
+2 Thraben Standard Bearer
+2 Hamlet Captain
+1 Sigardian Priest
+1 Steadfast Cathar
+1 Emrakul's Evangel
+2 Ironclad Slayer
+1 Militant Inquisitor
+2 Intrepid Provisioner
+1 Courageous Outrider
+2 Fiend Binder
+1 Inspiring Captain
+1 Ulvenwald Observer
+2 Subjugator Angel
+1 Open the Armory
+1 Ironwright's Cleansing
+2 Strength of Arms
+2 Cultist's Staff
+2 Slayer's Cleaver
+1 Gryff's Boon
+1 Choking Restraints
+1 Hope Against Hope
+1 Equestrian Skill
+2 Faith Unbroken
+12 Forest
+13 Plains
+
+Sideboard
