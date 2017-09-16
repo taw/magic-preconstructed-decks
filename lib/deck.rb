@@ -10,7 +10,7 @@ class Deck
         next
       end
       count, name = line.split(" ", 2)
-      target << [count.to_i, name]
+      target << [count.to_i, name.sub(/\*\z/, "")]
     end
   end
 
