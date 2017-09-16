@@ -1,0 +1,31 @@
+// NAME: Turnaround
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=4&lang=en
+1 Crossbow Infantry*
+1 Sword Dancer
+1 Defiant Vanguard**
+2 Glittering Lion
+2 Mine Bearer
+3 Shield Dancer
+1 Chieftain en-Dal**
+2 Diving Griffin
+1 Reveille Squad
+2 Trap Runner*
+1 Mageta the Lion
+3 Spiketail Hatchling
+2 Waterfront Bouncer*
+1 Stronghold Machinist**
+3 Ribbon Snake
+1 Disenchant*
+1 Rhystic Shield
+1 Seal of Cleansing**
+1 Topple**
+1 Rhystic Circle
+1 Daze**
+1 Rethink
+1 Rhystic Study
+1 Foil
+1 Heightened Awareness
+14 Plains*
+10 Island*
+
+Sideboard

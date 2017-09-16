@@ -1,0 +1,30 @@
+// NAME: Tidal Mastery
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=1&lang=en
+2 Crossbow Infantry
+2 Alabaster Wall
+1 Cho-Arrim Legate
+1 Devout Witness
+1 Ballista Squad
+1 Cloud Sprite
+2 Darting Merfolk
+1 Diplomatic Escort
+1 Overtaker
+2 Drake Hatchling
+2 Saprazzan Legate
+3 Stinging Barrier
+2 Disenchant
+2 Afterlife
+1 Story Circle
+1 Ramosian Rally
+1 Noble Purpose
+1 Customs Depot
+2 Counterspell
+1 War Tax
+1 Coastal Piracy
+1 Thwart
+1 Kyren Archive
+1 Puffer Extract
+10 Plains
+16 Island
+
+Sideboard

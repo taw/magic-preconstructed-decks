@@ -1,0 +1,25 @@
+// NAME: Deepwood Menace
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=4&lang=en
+2 Kris Mage
+2 Cinder Elemental
+2 Shock Troops
+1 Battle Squadron
+3 Deepwood Wolverine
+2 Deepwood Drummer
+3 Vine Trellis
+3 Horned Troll
+2 Saber Ants
+2 Squallmonger
+2 Deepwood Tantiv
+3 Thunderclap
+1 Lunge
+1 Volcanic Wind
+2 Revive
+1 Natural Affinity
+1 Tiger Claws
+1 Tranquility
+2 Desert Twister
+13 Mountain
+11 Forest
+
+Sideboard

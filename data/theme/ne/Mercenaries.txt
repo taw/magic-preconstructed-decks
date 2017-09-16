@@ -1,0 +1,34 @@
+// NAME: Mercenaries
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=2&lang=en
+1 Rampart Crawler
+3 Misshapen Fiend
+4 Spineless Thug
+1 Cateran Brute
+2 Phyrexian Driver
+1 Skulking Fugitive
+2 Strongarm Thug
+1 Alley Grifters
+1 Carrion Wall
+1 Rathi Intimidator
+1 Phyrexian Prowler
+1 Rathi Fiend
+1 Cateran Kidnappers
+1 Rathi Assassin
+1 Battlefield Percher
+1 Cateran Enforcer
+1 Cateran Summons
+2 Dark Ritual
+2 Mind Swords
+3 Parallax Dementia
+1 Haunted Crossroads
+1 Seal of Doom
+1 Massacre
+1 Dark Triumph
+1 Intimidation
+1 Belbe's Portal
+0 
+0 Card
+-23 Lands
+23 Swamp
+
+Sideboard

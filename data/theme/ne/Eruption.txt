@@ -1,0 +1,32 @@
+// NAME: Eruption
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=3&lang=en
+1 Kris Mage
+2 Laccolith Whelp
+1 Arc Mage
+3 Laccolith Grunt
+2 Laccolith Warrior
+2 Flowstone Crusher
+1 Flowstone Overseer
+2 Alabaster Wall
+2 Chieftan en-Dal
+1 Defender en-Vec
+1 Oracle's Attendants
+2 Trap Runner
+1 Crenellated Wall
+3 Seal of Fire
+1 Flaming Sword
+1 Downhill Charge
+1 Thunderclap
+1 Volcanic Wind
+1 Disenchant
+1 Inviolability
+1 Seal of Cleansing
+1 Romosian Rally
+1 Sivvi's Ruse
+1 Belbe's Armor
+1 Flowstone Armor
+1 Iron Lance
+14 Mountain
+10 Plains
+
+Sideboard

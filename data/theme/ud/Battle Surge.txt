@@ -1,0 +1,27 @@
+// NAME: Battle Surge
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=3&lang=en
+1 Raven Familiar**
+3 Kingfisher
+2 Thieving Magpie
+2 Goblin War Buggy*
+3 Viashino Sandscout**
+4 Wild Colos
+2 Goblin Berserker
+2 Keldon Champion
+2 Viashino Cutthroat**
+1 Thundering Giant*
+1 Goblin Marshal
+2 Curfew*
+2 Fatigue
+1 Mark of Fury
+1 Parch**
+3 Arc Lightning*
+1 Ghitu War Cry**
+1 Trumpet Blast
+1 AEther Sting
+1 Jagged Lightning*
+1 Urza's Incubator
+9 Island
+14 Mountain
+
+Sideboard

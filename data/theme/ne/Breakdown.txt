@@ -1,0 +1,27 @@
+// NAME: Breakdown
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=4&lang=en
+4 Skyshroud Ridgeback
+1 Vine Trellis
+2 Blastoderm
+2 Woodripper
+1 Skyshroud Behemoth
+4 Cloudskate
+3 Waterfront Bouncer
+2 Stronghold Zepplin
+2 Rusting Golem
+1 Seal of Strength
+2 Revive
+1 Seal of Removal
+4 Accumulated Knowledge
+1 False Demise
+1 War Tax
+1 Dehydration
+2 Ensnare
+1 Parallax Inhibitor
+1 Puffer Extract
+10 Forest
+10 Island
+2 Hickory Woodlot
+2 Saprazzan Skerry
+
+Sideboard

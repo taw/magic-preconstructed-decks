@@ -1,0 +1,24 @@
+// NAME: Replicator
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=1&lang=en
+2 Cackling Witch
+2 Plague Witch
+1 Bog Witch
+2 Stampede Driver
+2 Deepwood Drummer
+1 Coiling Woodworm
+4 Skyshroud Sentinel
+1 Hunted Wumpus
+1 Squallmonger
+4 Blastoderm
+4 Howling Wolf
+4 Nesting Wurm
+2 Seal of Doom
+1 Saproling Cluster
+2 Invigorate
+1 Saproling Burst
+1 Flowstone Armor
+17 Forest
+7 Swamp
+1 Subterranean Hangar
+
+Sideboard

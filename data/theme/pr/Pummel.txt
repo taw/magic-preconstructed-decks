@@ -1,0 +1,31 @@
+// NAME: Pummel
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=1&lang=en
+2 Deepwood Wolverine*
+2 Spore Frog
+1 Stampede Driver**
+2 Pygmy Razorback
+2 Vine Trellis*
+2 Darba
+2 Hunted Wumpus*
+2 Blastoderm**
+1 Lumbering Satyr*
+1 Silverglade Elemental*
+1 Vintara Elephant
+1 Spitting Spider
+3 Thresher Beast
+1 Avatar of Might
+2 Animate Land**
+1 Seal of Strength**
+1 Jolreal's Favor
+1 Treetop Bracers**
+2 Wild Might
+1 Invigorate*
+1 Tranquility*
+1 Skyshroud Claim**
+2 Snag
+2 Living Terrain
+1 Vitalizing Wind
+20 Forest*
+2 Hickory Woodlot*
+
+Sideboard

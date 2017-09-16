@@ -1,0 +1,33 @@
+// NAME: Fiendish Nature
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=2&lang=en
+1 Phyrexian Monitor
+2 Plague Dogs
+2 Elvish Lyrist*
+3 Heart Warden
+1 Goliath Beetle
+2 Hunting Moa
+1 Cradle Guard*
+1 Marker Beetles
+3 Yavimaya Elder
+2 Gamekeeper
+3 Plated Spider
+1 Winding Wurm*
+1 Ancient Silverback
+1 Phyrexian Reclamation**
+1 Chime of Night
+1 No Rest for the Wicked*
+2 Twisted Experiment
+2 Expunge*
+1 Victimize*
+1 Diabolic Servitude*
+1 Rancor**
+2 Symbiosis*
+1 Pattern of Rebirth
+1 Splinter
+1 Braidwood Cup
+1 Polluted Mire*
+2 Slippery Karst*
+13 Forest
+6 Swamp
+
+Sideboard

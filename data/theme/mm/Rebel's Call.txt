@@ -1,0 +1,27 @@
+// NAME: Rebel's Call
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=2&lang=en
+2 Charm Peddler
+3 Ramosian Sergeant
+2 Ramosian Lieutenant
+2 Steadfast Guard
+2 Devout Witness
+2 Nightwind Glider
+2 Task Force
+2 Thermal Glider
+2 Ramosian Captain
+2 Ballista Squad
+2 Pious Warrior
+1 Cho-Manno, Revolutionary
+2 Ramosian Commander
+2 Jhovall Rider
+1 Ramosian Sky Marshall
+2 Disenchant
+2 Cho-Manno's Blessing
+1 Afterlife
+2 Arrest
+1 Moonlit Wake
+2 Ramosian Rally
+1 Fountain of Cho
+20 Plains
+
+Sideboard

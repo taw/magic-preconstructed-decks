@@ -1,0 +1,35 @@
+// NAME: Enchanter
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=1&lang=en
+1 Mother of Runes**
+1 Monk Realist*
+1 Wall of Glare
+2 Tormented Angel
+3 Fledgling Osprey
+1 Horseshoe Crab*
+1 Rayne, Academy Chancellor
+3 Metathran Elite
+2 Thornwind Faeries**
+2 Thieving Magpie
+1 Vigilant Drake**
+1 Thran Golem
+1 Archery Training
+1 Capashen Standard
+1 Mask of Law and Grace
+2 Brilliant Halo*
+1 Disenchant*
+1 Humble*
+1 Radiant's Judgment**
+1 Private Research
+1 Sigil of Sleep
+1 Hermetic Study*
+2 Miscalculation**
+1 Quash
+1 Zephid's Embrace*
+1 Confiscate*
+1 Opportunity**
+2 Drifting Meadow*
+2 Remote Isle*
+7 Plains
+13 Island
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Slither
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=2&lang=en
+4 Spur Grappler
+3 Keldon Berskerker
+1 Zerapa Minotaur
+1 Latulla, Keldon Overseer
+2 Scoria Cat
+1 Stampede Driver**
+2 Vine Trellis*
+1 Vintara Snapper
+4 Silt Crawler
+2 Squallmonger*
+1 Mungha Wurm
+2 Seal of Fire**
+1 Citadel of Pain
+2 Rhystic Lightning
+1 War Cadence*
+1 Flameshot
+1 Barbed Field
+1 Kyren Negotiations*
+2 Invigorate*
+1 Reverent Silence**
+1 Desert Twister*
+1 Chimeric Idol
+10 Forest*
+14 Mountain*
+
+Sideboard

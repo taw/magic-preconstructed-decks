@@ -1,0 +1,32 @@
+// NAME: Assassin
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=4&lang=en
+4 Ravenous Rats
+2 Squirming Mass
+1 Bone Shredder**
+2 Looming Shade*
+1 Sanguine Guard*
+2 Nightshade Seer
+2 Slinking Skirge
+1 Body Snatcher
+2 Disease Carriers
+2 Order of Yawgmoth*
+1 Plague Dogs
+1 Mantis Engine
+2 Dark Ritual*
+2 Duress*
+1 Ostracize**
+2 Sicken*
+1 Despondency*
+1 Dying Wail
+1 Festering Wound
+2 Scent of Nightshade
+1 Engineered Plague**
+1 Attrition
+2 Unnerve*
+1 Eradicate
+1 Soul Feast
+4 Polluted Mire*
+1 Spawning Pool**
+16 Swamp
+
+Sideboard
