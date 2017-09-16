@@ -1,0 +1,61 @@
+#!/usr/bin/env ruby
+
+require "json"
+require "pathname"
+require "pathname-glob"
+require_relative "../lib/deck"
+require_relative "../lib/sets"
+
+class BuildJsons
+  def initialize
+    @decks = []
+  end
+
+  def add_deck(path, deck, set_code, set_name, deck_type)
+    deck_data = {
+      name: path.basename(".txt").to_s,
+      type: deck_type,
+      set_name: set_name,
+      set_code: set_code,
+      cards: deck.card_data,
+      sideboard: deck.sideboard_data,
+    }
+    @decks << deck_data
+  end
+
+  def build_pw_decks(set_code)
+    dir = Pathname(__dir__) + "../data/#{set_code}"
+    dir.glob("*.txt").each do |path|
+      deck = Deck.new(path)
+      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Planeswalker")
+    end
+  end
+
+  def build_cmd_decks(set_code)
+    dir = Pathname(__dir__) + "../data/#{set_code}"
+    dir.glob("*.txt").each do |path|
+      deck = Deck.new(path)
+      warn "#{path}: Expected 100 cards" unless deck.size == 100 and deck.sideboard_size == 0
+      add_deck(path, deck, set_code, MagicSets.fetch(set_code), "Commander")
+    end
+  end
+
+  def save_jsons
+    puts JSON.pretty_generate(@decks)
+  end
+
+  def build
+    build_pw_decks "kld"
+    build_pw_decks "aer"
+    build_pw_decks "akh"
+    build_pw_decks "hoe"
+    build_cmd_decks "cmd"
+    build_cmd_decks "c13"
+    build_cmd_decks "c14"
+    build_cmd_decks "c15"
+    save_jsons
+  end
+end
+
+BuildJsons.new.build
