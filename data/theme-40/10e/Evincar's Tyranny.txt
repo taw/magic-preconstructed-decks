@@ -1,0 +1,25 @@
+// NAME: Evincar's Tyranny
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=3&lang=en
+2 Vampire Bats
+1 Drudge Skeletons
+1 Thrull Surgeon
+1 Looming Shade
+2 Severed Legion
+1 Dross Crocodile
+1 Gravedigger
+1 Mortivore
+1 Mass of Ghouls
+1 Ascendant Evincar
+1 Bottle Gnomes
+1 Unholy Strength
+1 Cruel Edict
+1 Terror
+1 Assassinate
+2 Mind Rot
+1 Diabolic Tutor
+1 Essence Drain
+1 Consume Spirit
+1 Demon's Horn
+17 Swamp
+
+Sideboard

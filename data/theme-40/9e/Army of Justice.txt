@@ -1,0 +1,21 @@
+// NAME: Army of Justice
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=9e&decknum=1&lang=en
+1 Infantry Veteran
+2 Suntail Hawk
+3 Crossbow Infantry
+2 Master Decoy
+2 Veteran Cavalier
+1 Skyhunter Prowler
+1 Venerable Monk
+1 Ballista Squad
+3 Angel of Mercy
+1 Phyrexian Hulk
+1 Mending Hands
+1 Righteousness
+2 Pacifism
+1 Glorious Anthem
+1 Chastise
+1 Angel's Feather
+16 Plains
+
+Sideboard

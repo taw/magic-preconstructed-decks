@@ -1,0 +1,22 @@
+// NAME: Kamahl's Temper
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=4&lang=en
+1 Raging Goblin
+1 Viashino Sandscout
+2 Bloodrock Cyclops
+2 Bogardan Firefiend
+1 Prodigal Pyromancer
+2 Lightning Elemental
+1 Furnace Whelp
+2 Thundering Giant
+1 Kamahl, Pit Fighter
+1 Shock
+2 Incinerate
+2 Spitting Earth
+1 Threaten
+1 Beacon of Destruction
+1 Blaze
+1 Dragon's Claw
+1 Phyrexian Vault
+17 Mountain
+
+Sideboard

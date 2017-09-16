@@ -1,0 +1,25 @@
+// NAME: Way Wild
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=5&lang=en
+2 Llanowar Elves
+3 Grizzly Bears
+1 Fyndhorn Elder
+1 Wood Elves
+2 Trained Armodon
+2 Giant Spider
+1 Gorilla Chieftan
+1 Redwood Treefolk
+1 Spined Wurm
+1 Pride of Lions
+1 Ancient Silverback
+1 Thorn Elemental
+1 Giant Growth
+1 Wild Growth
+1 Regeneration
+1 Blanchwood Armor
+1 Lure
+2 Creeping Mold
+1 Stream of Life
+1 Rod of Ruin
+14 Forest
+
+Sideboard

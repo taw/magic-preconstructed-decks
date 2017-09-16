@@ -1,0 +1,22 @@
+// NAME: Armada
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=1&lang=en
+2 Eager Cadet
+1 Angelic Page
+1 Crossbow Infantry
+2 Knight Errant
+2 Samite Healer
+2 Longbow Archer
+2 Standby Troops
+1 Heavy Ballista
+1 Razorfoot Griffin
+1 Serra Advocate
+1 Master Healer
+2 Healing Salve
+1 Spirit Link
+1 Disenchant
+2 Pacifism
+1 Glorious Anthem
+2 Serra's Embrace
+15 Plains
+
+Sideboard

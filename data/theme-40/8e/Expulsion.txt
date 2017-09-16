@@ -1,0 +1,17 @@
+// NAME: Expulsion
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=8e&decknum=1&lang=en
+3 Maggot Carrier
+4 Ravenous Rats
+2 Dusk Imp
+2 Severed Legion
+2 Deathgazer
+2 Abyssal Specter
+1 Coercion
+2 Dark Banishing
+2 Megrim
+1 Larceny
+1 Sever Soul
+1 Disrupting Scepter
+17 Swamp
+
+Sideboard

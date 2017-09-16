@@ -1,0 +1,25 @@
+// NAME: Decay
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=3&lang=en
+2 Blood Pet
+1 Bog Imp
+2 Drudge Skeletons
+1 Foul Imp
+1 Crypt Rats
+1 Looming Shade
+1 Serpent Warrior
+2 Gravedigger
+1 Abyssal Specter
+1 Fallen Angel
+1 Dakmor Lancer
+1 Phyrexian Hulk
+1 Duress
+1 Ostracize
+2 Dark Banishing
+1 Mind Rot
+1 Greed
+1 Befoul
+1 Corrupt
+1 Charcoal Diamond
+16 Swamp
+
+Sideboard

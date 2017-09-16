@@ -1,0 +1,23 @@
+// NAME: Lofty Heights
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=9e&decknum=2&lang=en
+1 Storm Crow
+3 Horned Turtle
+1 Puppeteer
+3 Wind Drake
+1 Aven Fisher
+1 Azure Drake
+1 Archivist
+1 Thieving Magpie
+1 Aven Windreader
+1 Mahamoti Djinn
+1 Sleight of Hand
+1 Telepathy
+1 Mana Leak
+1 Remove Soul
+2 Boomerang
+1 Confiscate
+1 Kraken's Eye
+1 Rod of Ruin
+17 Island
+
+Sideboard

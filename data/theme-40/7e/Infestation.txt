@@ -1,0 +1,21 @@
+// NAME: Infestation
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=4&lang=en
+2 Goblin Digging Team
+2 Raging Goblin
+1 Goblin Glider
+2 Goblin Raider
+2 Goblin Chariot
+1 Goblin Matron
+1 Goblin King
+2 Goblin Gardener
+1 Fire Elemental
+1 Trained Orgg
+1 Patagia Golem
+2 Shock
+2 Spitting Earth
+2 Pillage
+1 Lightning Blast
+1 Blaze
+16 Mountain
+
+Sideboard

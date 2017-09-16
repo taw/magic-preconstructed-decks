@@ -1,0 +1,21 @@
+// NAME: Cho-Manno's Resolve
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=1&lang=en
+1 Ghost Warden
+2 Youthful Knight
+2 Benalish Knight
+1 Venerable Monk
+2 Wild Griffin
+1 Cho-Manno, Revolutionary
+2 Skyhunter Patrol
+2 Angel of Mercy
+2 Loxodon Mystic
+1 Ancestor's Chosen
+1 Condemn
+2 Pacifism
+1 Pariah
+1 Serra's Embrace
+1 Angel's Feather
+1 Icy Manipulator
+17 Plains
+
+Sideboard

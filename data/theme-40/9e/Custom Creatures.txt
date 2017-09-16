@@ -1,0 +1,23 @@
+// NAME: Custom Creatures
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=9e&decknum=5&lang=en
+1 Llanowar Elves
+2 Norwood Ranger
+2 Elvish Warrior
+1 Yavimaya Enchantress
+2 Trained Armodon
+1 Verduran Enchantress
+1 Emperor Crocodile
+1 Giant Spider
+1 Kavu Climber
+2 Craw Wurm
+1 Bottle Gnomes
+1 Web
+1 Naturalize
+1 Regeneration
+1 Treetop Bracers
+2 Blanchwood Armor
+2 Overgrowth
+1 Wurm's Tooth
+16 Forest
+
+Sideboard

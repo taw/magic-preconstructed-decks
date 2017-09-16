@@ -1,0 +1,19 @@
+// NAME: Speed Scorch
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=8e&decknum=5&lang=en
+1 Mogg Sentry
+4 Raging Goblin
+1 Goblin Glider
+4 Goblin Raider
+4 Goblin Chariot
+1 Goblin King
+1 Shock
+1 Guerrilla Tactics
+1 Volcanic Hammer
+1 Demolish
+1 Lightning Blast
+1 Blaze
+1 Enrage
+1 Fodder Cannon
+17 Mountain
+
+Sideboard

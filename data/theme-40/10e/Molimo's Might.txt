@@ -1,0 +1,22 @@
+// NAME: Molimo's Might
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=5&lang=en
+2 Canopy Spider
+2 Civic Wayfinder
+2 Rootwalla
+1 Stampeding Wildebeests
+2 Spined Wurm
+1 Kavu Climber
+1 Craw Wurm
+1 Enormous Baloth
+1 Molimo, Maro-Sorcerer
+1 Mantis Engine
+2 Commune with Nature
+1 Giant Growth
+2 Rampant Growth
+2 Blanchwood Armor
+1 Overrun
+1 Hurricane
+1 Wurm's Tooth
+16 Forest
+
+Sideboard

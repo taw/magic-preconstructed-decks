@@ -1,0 +1,18 @@
+// NAME: World Aflame
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=9e&decknum=4&lang=en
+3 Balduvian Barbarians
+3 Hill Giant
+1 Magnivore
+2 Anarchist
+1 Dancing Scimitar
+3 Volcanic Hammer
+1 Panic Attack
+2 Stone Rain
+2 Demolish
+2 Lava Axe
+1 Wildfire
+1 Blaze
+1 Dragon's Claw
+17 Mountain
+
+Sideboard

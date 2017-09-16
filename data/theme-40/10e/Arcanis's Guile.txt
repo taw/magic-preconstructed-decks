@@ -1,0 +1,22 @@
+// NAME: Arcanis's Guile
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=2&lang=en
+2 Sage Owl
+2 Cloud Elemental
+1 Phantom Warrior
+1 Aven Fisher
+1 Thieving Magpie
+1 Air Elemental
+1 Arcanis the Omnipotent
+1 Denizen of the Deep
+2 Unsummon
+2 Remove Soul
+1 Telling Time
+1 Boomerang
+2 Counsel of the Soratami
+2 Cancel
+1 Tidings
+1 Kraken's Eye
+1 Rod of Ruin
+17 Island
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Heavy Hitters
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=8e&decknum=2&lang=en
+2 Elvish Pioneer
+1 Fyndhorn Elder
+2 Lone Wolf
+2 Wood Elves
+2 Hunted Wumpus
+1 Nantuko Disciple
+2 Spined Wurm
+1 Llanowar Behemoth
+1 Primeval Force
+1 Rhox
+2 Giant Growth
+1 Naturalize
+2 Rampant Growth
+1 Wing Snare
+1 Lure
+1 Rod of Ruin
+17 Forest
+
+Sideboard

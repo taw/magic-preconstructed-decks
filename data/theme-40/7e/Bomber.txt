@@ -1,0 +1,25 @@
+// NAME: Bomber
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=2&lang=en
+1 Merfolk of the Pearl Trident
+1 Coral Merfolk
+1 Merfolk Looter
+1 Sage Owl
+1 Glacial Wall
+1 Horned Turtle
+1 Prodigal Sorcerer
+2 Wind Drake
+1 Daring Apprentice
+1 Wall of Air
+1 Fighting Drake
+1 Thieving Magpie
+1 Air Elemental
+1 Force Spike
+1 Unsummon
+2 Boomerang
+2 Counterspell
+1 Inspiration
+1 Ancestral Memories
+1 Confiscate
+17 Island
+
+Sideboard
