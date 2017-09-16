@@ -1,0 +1,25 @@
+// NAME: The Adventurers
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+2 Oran-Rief Survivalist
+2 Highland Berserker
+1 Stonework Puma
+1 Greenweaver Druid
+1 Tajuru Archer
+1 Joraga Bard
+1 Kazuul Warlord
+2 Tuktuk Grunts
+1 Murasa Pyromancer
+1 Turntimber Ranger
+1 Awakener Druid
+1 Borderland Ranger
+1 Beast Hunt
+1 Act of Treason
+1 Overrun
+1 Fireball
+2 Giant Growth
+2 Lightning Bolt
+9 Forest
+8 Mountain
+1 Terramorphic Expanse
+
+Sideboard

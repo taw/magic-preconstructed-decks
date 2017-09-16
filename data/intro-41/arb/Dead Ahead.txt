@@ -1,0 +1,26 @@
+// NAME: Dead Ahead
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/alara-reborn-intro-pack-decklists-2009-04-02
+1 Blister Beetle
+2 Dregscape Zombie
+1 Blood Cultist
+2 Sanity Gnawers
+1 Bog Wraith
+1 Viscera Dragger
+1 Viashino Skeleton
+1 Singe-Mind Ogre
+1 Lightning Reaver
+1 Monstrous Carabid
+1 Dreg Reaver
+1 Deathbringer Thoctar
+2 Igneous Pouncer
+1 Cruel Edict
+1 Blightning
+2 Terminate
+1 Bituminous Blast
+1 Breath of Malfegor
+1 Leonin Scimitar
+8 Swamp
+8 Mountain
+2 Terramorphic Expanse
+
+Sideboard

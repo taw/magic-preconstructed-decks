@@ -1,0 +1,29 @@
+// NAME: Relic Breaker
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+2 Copper Myr
+2 Iron Myr
+2 Sylvok Replica
+3 Vulshok Replica
+1 Prodigal Pyromancer
+2 Vulshok Heartstoker
+1 Cudgel Troll
+2 Molder Beast
+2 Barrage Ogre
+1 Acid Web Spider
+2 Flameborn Hellion
+1 Hoard-Smelter Dragon
+2 Arc Trail
+1 Turn to Slag
+1 Fireball
+2 Shatter
+2 Untamed Might
+1 Horizon Spellbomb
+1 Panic Spellbomb
+1 Barbed Battlegear
+1 Viridian Revel
+1 Asceticism
+12 Mountain
+12 Forest
+2 idda Scrapmelter
+
+Sideboard

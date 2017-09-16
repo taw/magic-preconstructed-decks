@@ -1,0 +1,27 @@
+// NAME: Grixis Undead (UBR)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
+1 Dregscape Zombie
+1 Vithian Stinger
+1 Hidden Horror
+1 Blood Cultist
+2 Kederekt Creeper
+1 Fleshbag Marauder
+1 Gravedigger
+2 Incurable Ogre
+2 Fire-Field Ogre
+1 Dreg Reaver
+1 Vein Drinker
+1 Bone Splinters
+2 Blightning
+1 Essence Drain
+1 Cruel Ultimatum
+2 Terror
+2 Agony Warp
+1 Obelisk of Grixis
+3 Island
+7 Swamp
+3 Mountain
+2 Crumbling Necropolis
+2 Grixis Panorama
+
+Sideboard

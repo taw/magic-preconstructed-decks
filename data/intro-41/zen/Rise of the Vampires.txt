@@ -1,0 +1,22 @@
+// NAME: Rise of the Vampires
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+2 Guul Draz Vampire
+1 Gatekeeper of Malakir
+1 Mindless Null
+2 Vampire Nighthawk
+1 Heartstabber Mosquito
+1 Malakir Bloodwitch
+2 Acolyte of Xathrid
+2 Child of Night
+2 Vampire Aristocrat
+1 Zombie Goliath
+2 Feast of Blood
+1 Blood Tribute
+1 Diabolic Tutor
+1 Rise from the Grave
+2 Vampire's Bite
+1 Hideous End
+16 Swamp
+2 Piranha Marsh
+
+Sideboard

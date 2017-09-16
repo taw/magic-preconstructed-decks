@@ -1,0 +1,29 @@
+// NAME: Esper Air Assault
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
+2 Court Homunculus
+1 Darklit Gargoyle
+1 Salvage Slasher
+2 Vedalken Outlander
+1 Tidehollow Sculler
+1 Esperzoa
+2 Parasitic Strix
+1 Windwright Mage
+1 Esper Cormorants
+1 Faerie Mechanist
+1 Scornful AEther-Lich
+1 Sludge Strider
+1 Vectis Agents
+1 Magister Sphinx
+1 Inkwell Leviathan
+1 Remove Soul
+2 Traumatic Visions
+1 Executioner's Capsule
+1 Rod of Ruin
+1 Dehydration
+3 Plains
+7 Island
+3 Swamp
+2 Arcane Sanctum
+2 Terramorphic Expanse
+
+Sideboard

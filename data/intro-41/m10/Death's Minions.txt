@@ -1,0 +1,27 @@
+// NAME: Death's Minions
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2010-intro-pack-decklists-2009-07-13-0
+1 Drudge Skeletons
+1 Looming Shade
+1 Warpath Ghoul
+1 Wall of Bone
+1 Cemetery Reaper
+1 Bog Wraith
+1 Gravedigger
+1 Howling Banshee
+2 Zombie Goliath
+1 Nightmare
+1 Enormous Baloth
+1 Assassinate
+2 Mind Rot
+1 Diabolic Tutor
+1 Rise from the Grave
+1 Consume Spirit
+1 Giant Growth
+2 Doom Blade
+1 Naturalize
+1 Tendrils of Corruption
+12 Swamp
+5 Forest
+1 Terramorphic Expanse
+
+Sideboard

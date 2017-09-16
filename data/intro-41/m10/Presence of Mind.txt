@@ -1,0 +1,27 @@
+// NAME: Presence of Mind
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2010-intro-pack-decklists-2009-07-13-0
+1 Zephyr Sprite
+1 Coral Merfolk
+2 Sage Owl
+1 Horned Turtle
+1 Phantom Warrior
+1 Wall of Frost
+1 Clone
+2 Snapping Drake
+1 Air Elemental
+1 Djinn of Wishes
+2 Divination
+1 Mind Rot
+1 Sleep
+1 Rise from the Grave
+1 Essence Scatter
+1 Negate
+1 Doom Blade
+1 Cancel
+1 Telepathy
+1 Mind Control
+12 Island
+5 Swamp
+1 Terramorphic Expanse
+
+Sideboard

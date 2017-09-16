@@ -1,0 +1,27 @@
+// NAME: Grixis Shambling Army
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
+1 Dregscape Zombie
+2 Zombie Outlander
+1 Brackwater Elemental
+2 Kathari Screecher
+1 Pestilent Kathari
+2 Sedraxis Alchemist
+1 Kederekt Creeper
+1 Fire-Field Ogre
+2 Grixis Slavedriver
+1 Extractor Demon
+1 Blood Tyrant
+1 Infest
+2 Absorb Vis
+2 Shock
+1 Terror
+1 Agony Warp
+1 Bone Saw
+1 Elder Mastery
+3 Island
+7 Swamp
+3 Mountain
+2 Crumbling Necropolis
+2 Terramorphic Expanse
+
+Sideboard

@@ -1,0 +1,29 @@
+// NAME: Deadspread
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+2 Fume Spitter
+2 Leaden Myr
+2 Silver Myr
+2 Maritime Guard
+2 Moriok Reaver
+1 Darkslick Drake
+1 Skinrender
+2 Sky-Eel School
+1 Harbor Serpent
+1 Carnifex Demon
+1 Twisted Image
+1 Doom Blade
+2 Steady Progress
+2 Instill Infection
+2 Contagion Clasp
+1 Culling Dais
+1 Throne of Geth
+2 Necrogen Censer
+1 Trigon of Corruption
+1 Contagion Engine
+13 Island
+13 Swamp
+2 Th rummingbird
+1 Sorcerer's Strongb
+1 Trigon of Th ought
+
+Sideboard

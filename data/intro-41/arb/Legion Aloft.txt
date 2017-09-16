@@ -1,0 +1,25 @@
+// NAME: Legion Aloft
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/alara-reborn-intro-pack-decklists-2009-04-02
+1 Metallurgeon
+1 Etherium Sculptor
+2 Ethercaste Knight
+1 Aven Mimeomancer
+1 Wall of Denial
+1 Bottle Gnomes
+1 Esper Cormorants
+2 Arsenal Thresher
+2 Glassdust Hulk
+2 Sanctum Plowbeast
+1 Filigree Angel
+1 Kiss of the Amesha
+1 Path to Exile
+1 Offering to Asha
+1 Protomatter Powder
+1 Whispersilk Cloak
+2 Pacifism
+1 Stormcaller's Boon
+8 Plains
+8 Island
+2 Terramorphic Expanse
+
+Sideboard

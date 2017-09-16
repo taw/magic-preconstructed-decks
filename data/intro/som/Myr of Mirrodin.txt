@@ -1,0 +1,24 @@
+// NAME: Myr of Mirrodin
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+3 Gold Myr
+2 Perilous Myr
+2 Myrsmith
+1 Auriok Edgewright
+2 Darksteel Myr
+2 Myr Galvanizer
+2 Palladium Myr
+2 Kemba's Skyguard
+2 Ghalma's Warden
+1 Razor Hippogriff
+1 Darksteel Sentinel
+1 Sunblast Angel
+1 Myr Battlesphere
+3 Revoke Existence
+2 Seize the Initiative
+1 Dispense Justice
+2 Inspired Charge
+3 Origin Spellbomb
+3 Arrest
+24 Plains
+
+Sideboard

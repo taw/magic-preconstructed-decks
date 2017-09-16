@@ -1,0 +1,28 @@
+// NAME: Nature's Fury
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2010-intro-pack-decklists-2009-07-13-0
+2 Llanowar Elves
+1 Elvish Visionary
+1 Runeclaw Bear
+1 Awakener Druid
+2 Borderland Ranger
+1 Giant Spider
+1 Prized Unicorn
+1 Bramble Creeper
+1 Stampeding Rhino
+1 Enormous Baloth
+1 Kalonian Behemoth
+1 Nature's Spiral
+1 Overrun
+2 Giant Growth
+1 Harm's Way
+1 Naturalize
+1 Might of Oaks
+1 Divine Verdict
+1 Windstorm
+1 Pacifism
+1 Oakenform
+11 Forest
+5 Plains
+1 Terramorphic Expanse
+
+Sideboard

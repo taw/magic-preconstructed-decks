@@ -1,0 +1,26 @@
+// NAME: Unstable Terrain
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+1 Frontier Guide
+1 Gomazoa
+1 Merfolk Wayfinder
+1 Grazing Gladehart
+1 Turntimber Basilisk
+2 Windrider Eel
+1 Living Tsunami
+1 Territorial Baloth
+1 Sphinx of Jwar Isle
+1 Baloth Woodcrasher
+1 Roil Elemental
+1 Coral Merfolk
+2 Sage Owl
+1 Unsummon
+1 Giant Growth
+1 Harrow
+2 Ior Ruin Expedition
+2 Paralyzing Grasp
+1 Mind Control
+10 Island
+7 Forest
+1 Terramorphic Expanse
+
+Sideboard

@@ -1,0 +1,23 @@
+// NAME: Kor Armory
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+1 Kor Duelist
+2 Kor Skyfisher
+1 Armament Master
+2 Kor Aeronaut
+2 Kor Hookmaster
+2 Kor Sanctifiers
+2 Kor Cartographer
+1 Serra Angel
+1 Windborne Charge
+1 Landbind Ritual
+1 Conqueror's Pledge
+1 Narrow Escape
+1 Divine Verdict
+1 Spidersilk Net
+1 Explorer's Scope
+1 Trusty Machete
+2 Pacifism
+16 Plains
+2 Kabira Crossroads
+
+Sideboard

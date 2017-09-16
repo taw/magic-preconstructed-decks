@@ -1,0 +1,26 @@
+// NAME: Phyrexian Poison
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+3 Ichorclaw Myr
+2 Necropede
+3 Plague Stinger
+1 Contagious Nim
+2 Cystbearer
+2 Ichor Rats
+2 Corpse Cur
+1 Blackcleave Goblin
+1 Hand of the Praetors
+2 Tangle Angler
+1 Putrefax
+2 Assassinate
+1 Rise from the Grave
+2 Giant Growth
+2 Carrion Call
+2 Slice in Twain
+2 Bladed Pinions
+1 Heavy Arbalest
+1 Strider Harness
+1 Relic Putrescence
+13 Swamp
+13 Forest
+
+Sideboard

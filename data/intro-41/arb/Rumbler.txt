@@ -1,0 +1,26 @@
+// NAME: Rumbler
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/alara-reborn-intro-pack-decklists-2009-04-02
+1 Tukatongue Thallid
+1 Elvish Visionary
+1 Rockslide Elemental
+1 Thunder-Thrash Elder
+1 Gluttonous Slime
+1 Godtracker of Jund
+1 Algae Gharial
+1 Bloodbraid Elf
+1 Rhox Brute
+1 Spellbreaker Behemoth
+1 Blitz Hellion
+1 Gorger Wurm
+2 Valley Rannet
+2 Dragon Fodder
+1 Sangrite Surge
+1 Vengeful Rebirth
+2 Shock
+2 Incinerate
+1 Colossal Might
+8 Mountain
+8 Forest
+2 Terramorphic Expanse
+
+Sideboard

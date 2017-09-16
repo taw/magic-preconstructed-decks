@@ -1,0 +1,24 @@
+// NAME: Primordial Jund (BRG)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/more-intro-packs-alara-2008-09-23
+2 Goblin Piker
+2 Goblin Deathraiders
+1 Rip-Clan Crasher
+2 Jund Battlemage
+1 Thunder-Thrash Elder
+2 Hissing Iguanar
+2 Sprouting Thrinax
+2 Thorn-Thrash Viashino
+1 Mycoloth
+2 Carrion Thrash
+1 Flameblast Dragon
+2 Dragon Fodder
+2 Shock
+1 Resounding Thunder
+1 Obelisk of Jund
+3 Forest
+7 Mountain
+3 Swamp
+2 Jund Panorama
+2 Savage Lands
+
+Sideboard

@@ -1,0 +1,25 @@
+// NAME: Pumped Up
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+2 Welkin Tern
+2 Molten Ravager
+2 Torch Slinger
+1 Hellkite Charger
+1 Raging Goblin
+1 Goblin Piker
+1 Prodigal Pyromancer
+1 Phantom Warrior
+1 Canyon Minotaur
+1 Dragon Whelp
+1 Rite of Replication
+2 Spire Barrage
+1 Act of Treason
+1 Sleep
+1 Fireball
+2 Burst Lightning
+1 Into the Roil
+10 Mountain
+7 Island
+1 Terramorphic Expanse
+1 AEther Figment
+
+Sideboard

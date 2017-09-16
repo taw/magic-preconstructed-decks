@@ -1,0 +1,24 @@
+// NAME: Bant Exalted (GWU)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
+2 Akrasan Squire
+2 Suntail Hawk
+2 Knight of the Skyward Eye
+1 Sigiled Paladin
+2 Steward of Valeron
+2 Guardians of Akrasa
+2 Wild Griffin
+2 Rhox War Monk
+1 Knight-Captain of Eos
+1 Waveskimmer Aven
+1 Battlegrace Angel
+2 Excommunicate
+1 Kiss of the Amesha
+2 Pacifism
+1 Angelic Benediction
+3 Forest
+7 Plains
+3 Island
+2 Bant Panorama
+2 Seaside Citadel
+
+Sideboard

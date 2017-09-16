@@ -1,0 +1,27 @@
+// NAME: Metalcraft
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+2 Memnite
+2 Iron Myr
+2 Silver Myr
+2 Riddlesmith
+2 Embersmith
+1 Etched Champion
+3 Snapsail Glider
+2 Trinket Mage
+3 Chrome Steed
+2 Lumengrid Drake
+2 Blade-Tribe Berserkers
+1 Argent Sphinx
+3 Galvanic Blast
+1 Disperse
+1 Accorder's Shield
+1 Darksteel Axe
+1 Sylvok Lifestaff
+1 Echo Circlet
+1 Golem's Heart
+1 Golem Foundry
+2 Rusted Relic
+12 Island
+12 Mountain
+
+Sideboard

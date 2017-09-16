@@ -1,0 +1,25 @@
+// NAME: Naya Behemoths (RGW)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/more-intro-packs-alara-2008-09-23
+2 Wild Nacatl
+2 Cylian Elf
+2 Druid of the Anima
+1 Naya Battlemage
+2 Woolly Thoctar
+1 Mosstodon
+2 Rakeclaw Gargantuan
+1 Cavern Thoctar
+1 Bull Cerodon
+1 Spearbreaker Behemoth
+2 Rampant Growth
+2 Gift of the Gargantuan
+1 Titanic Ultimatum
+1 Blaze
+2 Giant Growth
+1 Naturalize
+3 Mountain
+7 Forest
+3 Plains
+2 Jungle Shrine
+2 Naya Panorama
+
+Sideboard

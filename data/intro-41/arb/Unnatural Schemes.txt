@@ -1,0 +1,23 @@
+// NAME: Unnatural Schemes
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/alara-reborn-intro-pack-decklists-2009-04-02
+2 Tidehollow Strix
+1 Vedalken Ghoul
+2 Nantuko Husk
+1 Phantom Warrior
+1 Lich Lord of Unx
+1 Fatestitcher
+2 Architects of Will
+1 Nemesis of Reason
+2 Grixis Slavedriver
+2 Jhessian Zombies
+1 Brainbite
+2 Essence Drain
+1 Deny Reality
+2 Agony Warp
+1 Countersquall
+1 Soul Manipulation
+8 Island
+8 Swamp
+2 Terramorphic Expanse
+
+Sideboard
