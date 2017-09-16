@@ -70,3 +70,4 @@
 32 Plains
 
 Sideboard
+1 Nahiri, the Lithomancer

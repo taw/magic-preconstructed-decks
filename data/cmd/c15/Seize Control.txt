@@ -76,3 +76,4 @@
 13 Mountain
 
 Sideboard
+1 Mizzix of the Izmagnus

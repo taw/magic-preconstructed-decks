@@ -1,8 +1,17 @@
 class Deck
   def initialize(path)
-    @lines = Pathname(path).readlines.map(&:chomp).grep_v(%r[^\s*/]).grep(/\S/)
-    raise unless @lines.pop == "Sideboard"
-    @cards = @lines.map{|c| c.split(" ", 2)}.map{|c,n| [c.to_i, n]}
+    @cards = []
+    @sideboard = []
+    lines = Pathname(path).readlines.map(&:chomp).grep_v(%r[^\s*/]).grep(/\S/)
+    target = @cards
+    lines.each do |line|
+      if line == "Sideboard"
+        target = @sideboard
+        next
+      end
+      count, name = line.split(" ", 2)
+      target << [count.to_i, name]
+    end
   end
 
   def size
@@ -10,7 +19,7 @@ class Deck
   end
 
   def sideboard_size
-    0
+    @sideboard.map(&:first).inject(0, &:+)
   end
 
   def card_data
@@ -23,6 +32,11 @@ class Deck
   end
 
   def sideboard_data
-    []
+    @sideboard.map{|c,n|
+      {
+        name: n,
+        count: c,
+      }
+    }
   end
 end

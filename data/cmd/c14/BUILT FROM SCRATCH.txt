@@ -73,3 +73,4 @@
 29 Mountain
 
 Sideboard
+1 Daretti, Scrap Savant

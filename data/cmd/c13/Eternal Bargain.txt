@@ -80,3 +80,4 @@
 1 Transguild Promenade
 
 Sideboard
+1 Oloro, Ageless Ascetic

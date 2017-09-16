@@ -71,3 +71,4 @@
 31 Island
 
 Sideboard
+1 Teferi, Temporal Archmage

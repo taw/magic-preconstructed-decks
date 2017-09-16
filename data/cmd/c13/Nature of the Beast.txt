@@ -87,3 +87,4 @@
 1 Vivid Crag
 
 Sideboard
+1 Marath, Will of the Wild

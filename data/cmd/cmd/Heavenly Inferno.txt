@@ -80,3 +80,4 @@
 8 Mountain
 
 Sideboard
+1 Kaalia of the Vast

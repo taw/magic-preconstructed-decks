@@ -77,3 +77,4 @@
 25 Forest
 
 Sideboard
+1 Freyalise, Llanowar's Fury

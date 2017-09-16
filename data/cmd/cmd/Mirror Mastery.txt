@@ -76,3 +76,4 @@
 1 Fire // Ice
 
 Sideboard
+1 Riku of Two Reflections

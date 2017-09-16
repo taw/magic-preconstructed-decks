@@ -70,3 +70,4 @@
 32 Swamp
 
 Sideboard
+1 Ob Nixilis of the Black Oath

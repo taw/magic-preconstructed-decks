@@ -40,13 +40,19 @@ class BuildJsons
       warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planeswalker Deck")
     when "cmd"
-      warn "#{path}: Expected 100 cards, not #{deck.size}" unless deck.size == 100 and deck.sideboard_size == 0
+      warn "#{path}: Expected 99+1 cards, not #{deck.size}" unless deck.size == 99 and deck.sideboard_size == 1
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
     when "intro"
       warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Deck")
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+    when "intro-41"
+      warn "#{path}: Expected 41 cards, not #{deck.size}" unless deck.size == 41 and deck.sideboard_size == 0
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
     when "theme"
       warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+    when "theme-40"
+      warn "#{path}: Expected 40 cards, not #{deck.size}" unless deck.size == 40 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
     else
       raise

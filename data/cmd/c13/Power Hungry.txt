@@ -84,3 +84,4 @@
 1 Vivid Grove
 
 Sideboard
+1 Prossh, Skyraider of Kher
