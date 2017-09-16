@@ -1,0 +1,27 @@
+// NAME: Little Bashers
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=2&lang=en
+2 Auriok Transfixer
+2 Auriok Bladewarden
+1 Auriok Steelshaper
+4 Leonin Den-Guard
+2 Leonin Skyhunter
+3 Skyhunter Cub
+2 Slith Ascendant
+1 Loxodon Punisher
+1 Taj-Nar Swordsmith
+1 Skyhunter Patrol
+2 Gold Myr
+2 Myr Adapter
+2 Soldier Replica
+1 Roar of the Kha
+2 Arrest
+2 Altar's Light
+2 Bonesplitter
+2 Leonin Scimitar
+1 Viridian Longbow
+1 Banshee's Blade
+1 Fireshrieker
+1 Loxodon Warhammer
+22 Plains
+
+Sideboard

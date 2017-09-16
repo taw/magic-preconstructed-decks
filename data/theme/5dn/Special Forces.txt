@@ -1,0 +1,30 @@
+// NAME: Special Forces
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=2&lang=en
+2 Plasma Elemental
+1 Ebon Drake
+2 Emissary of Despair**
+3 Dross Crocodile
+1 Steel Wall*
+3 Leaden Myr*
+1 Silver Myr*
+1 Wizard Replica*
+3 Yotian Soldier*
+2 Myr Quadropod
+1 Pewter Golem*
+2 Arachnoid
+1 Annul*
+1 Acquire
+1 Shattered Dreams
+1 Plunge into Darkness
+2 Devour in Shadow
+1 Murderous Spoils**
+2 Consume Spirit*
+1 Slagwurm Armor*
+1 Vulshok Gauntlets*
+1 Ensouled Scimitar
+1 Loxodon Warhammer*
+1 Whispersilk Cloak**
+8 Island*
+16 Swamp*
+
+Sideboard

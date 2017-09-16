@@ -1,0 +1,31 @@
+// NAME: Snowscape
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=4&lang=en
+3 Rimewind Taskmage
+1 Viscerid Drone*
+2 Mistfolk*
+1 Balduvian Frostwaker
+2 Frost Raptor
+2 Rimewind Cryomancer
+1 Heidar, Rimewind Master
+1 Storm Elemental*
+1 Rimefeather Owl
+3 Rimebound Dead
+1 Chilling Shade
+1 Gangrenous Zombies*
+2 Legions of Lim-Dûl*
+2 Drift of the Dead*
+1 Phantasmal Fiend*
+2 Zombie Musher
+1 Blizzard Specter
+2 Essence Flare*
+2 Snow Devil*
+1 Browse*
+1 Iceberg*
+1 Chill to the Bone
+1 Arcum's Weathervane*
+1 Coldsteel Heart
+12 Snow-Covered Island
+11 Snow-Covered Swamp
+1 Frost Marsh
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Kjeldoran Cunning
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=3&lang=en
+1 Jötun Grunt
+3 Kjeldoran Outrider
+1 Jötun Owl Keeper
+4 Surging Sentinels
+1 Field Marshal
+2 Kjeldoran Elite Guard*
+1 Kjeldoran Home Guard*
+1 Kjeldoran Gargoyle
+1 Darien, King of Kjeldor
+2 Zuran Spellcaster*
+1 Reinforcements*
+1 Swords to Plowshares*
+1 Disenchant*
+1 Kjeldoran Pride*
+1 Scars of the Veteran*
+3 Brainstorm*
+2 Portent*
+2 Lat-Nam's Legacy*
+1 Binding Grasp*
+4 Surging AEther
+2 Wings of Aesthir*
+11 Plains*
+11 Island*
+2 Boreal Shelf
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: Sunburst
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=4&lang=en
+1 Viridian Acolyte**
+1 Joiner Adept
+2 Sylvok Explorer
+3 Suntouched Myr
+2 Etched Oracle
+3 Skyreach Manta
+2 Spinal Parasite
+1 Sawtooth Thresher
+1 Lunar Avenger
+1 Suncrusher
+2 Tel-Jilad Justice
+1 Journey of Discovery*
+1 Dawn's Reflection
+2 Chromatic Sphere*
+1 Wayfarer's Bauble
+2 Darksteel Pendant**
+2 Energy Chamber
+2 Pentad Prism
+3 Darksteel Ingot**
+2 Infused Arrows
+2 Heliophial
+3 Plains*
+3 Island*
+3 Swamp*
+3 Mountain*
+9 Forest*
+2 Mirrodin's Core**
+
+Sideboard

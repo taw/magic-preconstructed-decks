@@ -1,0 +1,28 @@
+// NAME: Aurochs Stampede
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=1&lang=en
+1 Gorilla Shaman*
+1 Orcish Lumberjack*
+2 Earthen Goo
+1 Stalking Yeti
+2 Boreal Druid
+2 Tinder Wall*
+4 Bull Aurochs
+2 Frostweb Spider
+2 Woolly Mammoths*
+3 Aurochs*
+1 Deadly Insect*
+2 Rimehorn Aurochs
+3 Aurochs Herd
+1 Giant Trap Door Spider*
+2 Incinerate*
+2 Balduvian Rage
+1 Resize
+1 Hibernation's End
+1 Bounty of the Hunt*
+1 Shape of the Wiitigo
+1 Whalebone Glider*
+8 Snow-Covered Mountain
+14 Snow-Covered Forest
+2 Highland Weald
+
+Sideboard

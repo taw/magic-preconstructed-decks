@@ -1,0 +1,29 @@
+// NAME: Master Blaster
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=darksteel&decknum=1&lang=en
+1 Krark-Clan Grunt*
+3 Krark-Clan Stoker
+2 Vulshok War Boar
+1 Rustmouth Ogre*
+2 Steel Wall*
+2 Iron Myr*
+1 Goblin Replica*
+2 Duskworker*
+2 Hematite Golem*
+1 Gemini Engine
+3 Oxidda Golem
+2 Electrostatic Bolt*
+2 Barbed Lightning
+1 Molten Rain*
+1 Pulse of the Forge
+1 Grab the Reins*
+1 Detonate*
+1 Fireball
+2 Pyrite Spellbomb*
+2 Darksteel Brute
+1 Granite Shard*
+2 Talon of Pain
+18 Mountain*
+3 Darksteel Citadel
+3 Great Furnace*
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Sacrificial Bam
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=4&lang=en
+3 Disciple of the Vault
+2 Atog
+2 Krark-Clan Grunt
+1 Megatog
+2 Iron Myr
+2 Leaden Myr
+2 Myr Retriever
+2 Cathodion
+3 Goblin Replica
+3 Nim Replica
+1 Dross Scorpion
+2 Rust Elemental
+1 Pentavus
+2 Irradiate
+1 Shrapnel Blast
+2 Necrogen Spellbomb
+2 Pyrite Spellbomb
+2 Talisman of Indulgence
+1 Nuisance Engine
+1 Skeleton Shard
+8 Mountain
+7 Swamp
+4 Great Furnace
+4 Vault of Whispers
+
+Sideboard

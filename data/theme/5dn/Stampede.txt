@@ -1,0 +1,35 @@
+// NAME: Stampede
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=3&lang=en
+1 Spark Elemental
+1 Slith Firewalker*
+2 Goblin Brawler
+2 Spikeshot Goblin*
+1 Cosmic Larva
+1 Vulshok Sorcerer
+1 Vulshok Berserker*
+1 Iron-Barb Hellion
+2 Sylvok Explorer
+1 Tangle Asp
+1 Tel-Jilad Chosen*
+1 Eternal Witness
+2 Tel-Jilad Exile*
+2 Viridian Lorebearers
+1 Tel-Jilad Lifebreather
+1 Fangren Hunter*
+2 Fangren Pathcutter
+2 Tyrranax
+1 Goblin Replica*
+1 Magma Jet
+1 Barbed Lightning**
+1 Grab the Reins*
+1 Rain of Rust
+1 Tel-Jilad Justice
+1 Ferocious Charge
+1 Rite of Passage
+1 Pyrite Spellbomb*
+2 Talisman of Impulse*
+1 Goblin Cannon
+12 Mountain*
+11 Forest*
+
+Sideboard

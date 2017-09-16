@@ -1,0 +1,28 @@
+// NAME: Bait and Bludgeon
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=1&lang=en
+2 Somber Hoverguard
+1 Broodstar
+2 Nim Shrieker
+2 Steel Wall
+2 Leaden Myr
+2 Myr Retriever
+2 Silver Myr
+2 Bottle Gnomes
+3 Frogmite
+1 Lodestone Myr
+3 Myr Enforcer
+2 Thirst for Knowledge
+1 Thoughtcast
+2 Assert Authority
+2 Irradiate
+2 AEther Spellbomb
+4 Talisman of Dominance
+1 Scale of Chiss-Goria
+1 Serum Tank
+1 Tooth of Chiss-Goria
+11 Island
+3 Swamp
+4 Seat of the Synod
+4 Vault of Whispers
+
+Sideboard

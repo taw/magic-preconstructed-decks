@@ -1,0 +1,29 @@
+// NAME: Beyond The Grave
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=2&lang=en
+2 Insidious Bookworms*
+1 Kjeldoran Dead*
+3 Gutless Ghoul
+1 Ashen Ghoul*
+2 Balduvian Dead*
+2 Disciple of Tevesh Szat
+2 Gristle Grinner
+1 Void Maw
+1 Orcish Healer*
+2 Orcish Bloodpainter
+1 Deepfire Elemental
+1 Sek'Kuar, Deathkeeper
+1 Dark Ritual*
+3 Grim Harvest
+2 Casting of Bones*
+2 Dark Banishing*
+2 Krovikan Rot
+1 Soul Burn*
+2 Death Spark*
+2 Barbed Sextant*
+1 Coldsteel Heart
+1 Skull Catapult*
+12 Swamp*
+9 Mountain*
+3 Forest*
+
+Sideboard

@@ -1,0 +1,34 @@
+// NAME: Nuts and Bolts
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=1&lang=en
+1 Auriok Glaivemaster**
+2 Leonin Elder*
+3 Leonin Squire
+2 Skyhunter Prowler
+1 Skyhunter Skirmisher
+2 Auriok Salvagers
+1 Auriok Windwalker
+3 Trinket Mage
+2 Qumulox
+1 Ornithopter*
+1 Myr Moonvessel**
+1 Ferropede
+2 Synod Centurion
+1 Steelshaper's Gift
+1 Vanquish
+1 Fold into Aether
+1 AEther Spellbomb*
+1 Bonesplitter*
+3 Chromatic Sphere*
+1 Conjurer's Bauble
+1 Leonin Bola**
+1 Skullclamp**
+1 Sunbeam Spellbomb*
+1 Viridian Longbow*
+1 Healer's Headdress
+1 Salvaging Station
+12 Plains*
+7 Island*
+2 Ancient Den*
+2 Seat of the Synod*
+
+Sideboard
