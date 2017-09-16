@@ -1,0 +1,28 @@
+// NAME: Reality Fracture
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=3&lang=en
+1 Sage of Epityr
+2 Giant Oyster
+3 Viscerid Deepwalker
+3 Riftwing Cloudskate
+1 Errant Ephemeron
+1 Deep-Sea Kraken
+2 Coal Stoker
+2 Keldon Halberdier
+1 Pardic Dragon
+1 Jhoira's Timebug
+1 Clockwork Hydra
+2 Clockspinning
+1 Whispers of the Muse
+1 Careful Consideration
+1 Ground Rift
+4 Grapeshot
+1 Rift Bolt
+3 Empty the Warrens
+2 Ignite Memories
+2 Claws of Gix
+1 Serrated Arrows
+12 Island
+11 Mountain
+1 Dreadship Reef
+
+Sideboard

@@ -1,0 +1,26 @@
+// NAME: Hope's Crusaders
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=2&lang=en
+3 Icatian Javelineers
+3 Benalish Cavalry
+2 Errant Doomsayers
+3 Knight of the Holy Nimbus
+1 Icatian Crier
+2 Outrider en-Kor
+2 Zhalfirin Commander
+1 Cloudchaser Kestrel
+2 D'Avenant Healer
+2 Foriysian Interceptor
+2 Cavalry Master
+1 Celestial Crusader
+1 Gustcloak Cavalier
+1 Pentarch Paladin
+1 Ivory Giant
+2 Brass Gnat
+3 Gaze of Justice
+1 Fortify
+1 Divine Congregation
+1 Sarpadian Empires, Vol. VII
+2 Thunder Totem
+23 Plains
+
+Sideboard

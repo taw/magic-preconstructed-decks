@@ -1,0 +1,28 @@
+// NAME: Fun With Fungus
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=1&lang=en
+3 Deathspore Thallid
+2 Thallid
+2 Pendelhaven Elder
+3 Thallid Shell-Dweller
+1 Thelon of Havenwood
+3 Thallid Germinator
+1 Wormwood Dryad
+2 Herd Gnarr
+2 Sporesower Thallid
+2 Savage Thallid
+1 Feebleness
+1 Assassinate
+2 Fallen Ideal
+2 Sudden Death
+1 Dread Return
+1 Might of Old Krosa
+2 Sprout
+2 Strength in Numbers
+1 Krosan Grip
+1 Verdant Embrace
+1 Claws of Gix
+10 Swamp
+13 Forest
+1 Pendelhaven
+
+Sideboard

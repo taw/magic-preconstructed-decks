@@ -1,0 +1,26 @@
+// NAME: Sliver Evolution
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=4&lang=en
+2 Two-Headed Sliver
+3 Bonesplitter Sliver
+2 Fury Sliver
+4 Gemhide Sliver
+1 Fungus Sliver
+2 Might Sliver
+3 Sidewinder Sliver
+3 Quilled Sliver
+3 Watcher Sliver
+1 Pulmonic Sliver
+2 Spined Sliver
+1 Harmonic Sliver
+2 Venser's Sliver
+1 Avoid Fate
+2 Strength in Numbers
+1 Molder
+2 Spirit Loop
+6 Mountain
+8 Forest
+8 Plains
+1 Gemstone Mine
+2 Terramorphic Expanse
+
+Sideboard
