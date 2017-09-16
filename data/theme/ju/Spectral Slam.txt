@@ -1,0 +1,28 @@
+// NAME: Spectral Slam
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=4&lang=en
+1 Forcemage Advocate
+2 Ironshell Beetle
+1 Phantom Nantuko
+3 Phantom Tiger
+2 Phantom Centaur
+2 Benevolent Bodyguard
+1 Patrol Hound*
+4 Phantom Nomad
+2 Hallowed Healer*
+1 Battlewise Aven
+2 Blessed Orator*
+2 Phantom Flock
+1 Exoskeletal Armor
+2 Elephant Guide
+2 Seton's Desire*
+1 Guided Strike
+1 Strength of Isolation**
+1 Spirit Flare**
+2 Second Thoughts*
+1 Mirari's Wake
+12 Forest*
+12 Plains*
+1 Krosan Verge
+1 Nantuko Monastery
+
+Sideboard

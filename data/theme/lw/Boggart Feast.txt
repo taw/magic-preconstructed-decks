@@ -1,0 +1,28 @@
+// NAME: Boggart Feast
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=2&lang=en
+3 Facevaulter
+2 Exiled Boggart
+1 Squeaking Pie Sneak
+2 Boggart Harbinger
+2 Ghostly Changeling
+1 Mad Auntie
+1 Spiderwig Boggart
+1 Boggart Mob
+2 Marsh Flitter
+2 Hornet Harasser
+2 Warren Pilferers
+3 Adder-Staff Boggart
+1 Goatnapper
+2 Mudbutton Torchrunner
+2 Lowland Oaf
+1 Tar Pitcher
+2 Boggart Birth Rite
+1 Fodder Launch
+1 Hoarder's Greed
+2 Tarfire
+2 Boggart Shenanigans
+12 Swamp
+10 Mountain
+2 Shimmering Grotto
+
+Sideboard

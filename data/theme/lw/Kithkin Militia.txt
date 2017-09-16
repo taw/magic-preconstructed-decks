@@ -1,0 +1,26 @@
+// NAME: Kithkin Militia
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=3&lang=en
+1 Goldmeadow Dodger
+3 Goldmeadow Harrier
+1 Goldmeadow Stalwart
+1 Cenn's Heir
+4 Kithkin Greatheart
+1 Knight of Meadowgrain
+2 Wizened Cenn
+2 Avian Changeling
+1 Kithkin Harbinger
+2 Kinsbaile Balloonist
+1 Brigid, Hero of Kinsbaile
+1 Thoughtweft Trio
+2 Changeling Hero
+2 Cloudgoat Ranger
+1 Shields of Velis Vel
+1 Pollen Lullaby
+3 Surge of Thoughtweft
+1 Battle Mastery
+2 Crib Swap
+3 Oblivion Ring
+1 Runed Stalactite
+24 Plains
+
+Sideboard

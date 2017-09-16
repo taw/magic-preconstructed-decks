@@ -1,0 +1,30 @@
+// NAME: Trounce-O-Matic
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=4&lang=en
+2 Cephalid Looter
+2 Crashing Centaur
+2 Diligent Farmhand
+1 Ivy Elemental
+2 Krosan Avenger
+2 Metamorphic Wurm
+2 Nimble Mongoose
+2 Springing Tiger
+1 Stone-Tongue Basilisk
+1 Twigwalker
+2 Werebear
+2 Wild Mongrel
+2 Careful Study
+1 Deluge
+2 Muscle Burst
+1 Overrun
+2 Peek
+2 Predict
+2 Repel
+1 Roar of the Wurm
+1 Seton's Desire
+1 Sylvan Might
+1 Timberland Ruins
+1 Seafloor Debris
+13 Forest
+9 Island
+
+Sideboard

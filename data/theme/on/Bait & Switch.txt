@@ -1,0 +1,30 @@
+// NAME: Bait & Switch
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=1&lang=en
+4 Imagecrafter
+1 Information Dealer
+2 Mistform Stalker
+1 Ghosthelm Courier
+3 Mistform Dreamer
+4 Mistform Wall
+2 Mistform Shrieker
+1 Mistform Mutant
+2 Boneknitter
+2 Cabal Slaver
+1 Frightshroud Courier
+1 Fallen Cleric
+1 Trickery Charm
+1 Mage's Guile
+1 Ixidor's Will
+1 Peer Pressure
+1 Misery Charm
+1 Crown of Suspicion
+1 Smother
+1 Feeding Frenzy
+3 Swat
+1 Endemic Plague
+11 Island
+9 Swamp
+2 Barren Moor
+2 Lonely Sandbar
+
+Sideboard

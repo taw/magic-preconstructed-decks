@@ -1,0 +1,32 @@
+// NAME: Pressure Cooker
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=2&lang=en
+2 Barbarian Lunatic
+1 Braids, Cabal Minion
+2 Childhood Horror
+1 Crypt Creeper
+1 Dwarven Strike Force
+1 Face of Fear
+2 Famished Ghoul
+1 Frightcrawler
+2 Chainflinger
+1 Halbardier
+3 Pardic Firecat
+1 Repentant Vampire
+2 Engulfing Flames
+2 Firebolt
+3 Flame Burst
+2 Ghastly Demise
+1 Innocent Blood
+1 Liquid Fire
+2 Morbid Hunger
+1 Morgue Theft
+1 Reckless Charge
+2 Shadowblood Egg
+1 Thermal Blast
+1 Bog Wreckage
+2 Cabal Pit
+1 Ravaged Highlands
+11 Swamp
+9 Mountain
+
+Sideboard

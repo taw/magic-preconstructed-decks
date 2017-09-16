@@ -1,0 +1,27 @@
+// NAME: Air Razers
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=1&lang=en
+2 Hapless Researcher
+2 Skywing Aven**
+2 Wormfang Turtle
+2 Aven Fisher*
+1 Wonder
+1 Scalpelexis
+1 Aven Windreader*
+2 Dwarven Scorcher
+2 Barbarian Bully
+2 Barbarian Lunatic*
+1 Chainflinger*
+1 Worldgorger Dragon
+2 Compulsion**
+2 Churning Eddy**
+1 Concentrate*
+2 Flash of Insight
+3 Lava Dart
+2 Fiery Temper**
+2 Swelter
+1 Violent Eruption**
+2 Shower of Coals*
+12 Island*
+12 Mountain*
+
+Sideboard

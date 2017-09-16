@@ -1,0 +1,27 @@
+// NAME: Merrow Riverways
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=4&lang=en
+3 Judge of Currents
+2 Avian Changeling
+2 Harpoon Sniper
+2 Tideshaper Mystic
+2 Silvergill Adept
+3 Silvergill Douser
+2 Stonybrook Angler
+2 Drowner of Secrets
+2 Merrow Reejerey
+3 Streambed Aquitects
+1 Fallowsage
+1 Merrow Harbinger
+1 Wanderwine Prophets
+1 Sygg, River Guide
+3 Oblivion Ring
+2 Summon the School
+1 Ponder
+1 Merrow Commerce
+1 Whirlpool Whelm
+1 Broken Ambitions
+2 Springleaf Drum
+9 Plains
+13 Island
+
+Sideboard

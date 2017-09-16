@@ -37,16 +37,16 @@ class BuildJsons
     deck_type = path.parent.parent.basename.to_s
     case deck_type
     when "pw"
-      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planeswalker Deck")
     when "cmd"
-      warn "#{path}: Expected 100 cards" unless deck.size == 100 and deck.sideboard_size == 0
+      warn "#{path}: Expected 100 cards, not #{deck.size}" unless deck.size == 100 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
     when "intro"
-      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Deck")
     when "theme"
-      warn "#{path}: Expected 60 cards" unless deck.size == 60 and deck.sideboard_size == 0
+      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
     else
       raise

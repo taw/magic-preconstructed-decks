@@ -1,0 +1,31 @@
+// NAME: Celestial Assault
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=2&lang=en
+2 Gustcloak Runner
+1 Pearlspear Courier
+1 Gustcloak Harrier
+2 Daru Cavalier
+2 Dive Bomber
+1 Gustcloak Skirmisher
+1 Gustcloak Sentinel
+1 Gustcloak Savior
+2 Ironfist Crusher
+2 Ascending Aven
+2 Screaming Seahawk
+2 Piety Charm
+2 Unified Strike
+1 Akroma's Blessing
+2 Inspirit
+1 Oblation
+2 Sandskin
+1 Sunfire Balm
+1 Defensive Maneuvers
+2 Mage's Guile
+1 Meddle
+2 Airborne Aid
+1 Dispersing Orb
+1 Essence Fracture
+13 Plains
+10 Island
+1 Seaside Haven
+
+Sideboard

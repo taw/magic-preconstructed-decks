@@ -1,0 +1,28 @@
+// NAME: Elvish Rage
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=1&lang=en is missing a card
+// COMMENTS: so getting it from http://mtg.gamepedia.com/Legions/Theme_decks
+25 Forest
+1 Birchlore Rangers
+1 Bloodline Shaman
+3 Defiant Elf
+2 Elven Riders
+1 Elvish Pathcutter
+1 Elvish Pioneer
+1 Elvish Scrapper
+1 Elvish Soultiller
+1 Elvish Warrior
+2 Everglove Courier
+2 Gempalm Strider
+1 Heedless One
+3 Patron of the Wild
+3 Stonewood Invoker
+1 Snarling Undorak
+1 Taunting Elf
+2 Timberwatch Elf
+1 Tribal Forcemage
+1 Wellwisher
+2 Wirewood Channeler
+2 Wirewood Elf
+2 Wirewood Hivemaster
+
+Sideboard

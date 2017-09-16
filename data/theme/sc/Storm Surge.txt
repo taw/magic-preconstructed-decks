@@ -1,0 +1,33 @@
+// NAME: Storm Surge
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=4&lang=en
+1 Daru Mender**
+1 Deftblade Elite**
+3 Frontline Strategist
+2 Aven Farseer
+2 Silver Knight
+1 Whipcorder*
+1 White Knight**
+2 Zealous Inquisitor
+1 Ageless Sentinels
+2 Aven Liberator
+1 Noble Templar
+1 Coast Watcher
+1 Willbender**
+1 Echo Tracer**
+1 Shoreline Ranger
+1 Rain of Blades
+2 Reward the Faithful
+3 Astral Steel
+3 Wing Shards
+1 Chain of Vapor*
+1 Spy Network*
+2 Hindering Touch
+1 Temporal Fissure
+1 Mind's Desire
+0 
+14 Plains*
+6 Island*
+2 Lonely Sandbar*
+2 Secluded Steppe*
+
+Sideboard

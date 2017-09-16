@@ -1,0 +1,28 @@
+// NAME: Sacrilege
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=3&lang=en
+3 Mystic Familiar
+1 Auramancer*
+1 Stern Judge
+1 Aven Cloudchaser*
+3 Teroh's Faithful
+1 Teroh's Vanguard
+1 Angel of Retribution
+3 Putrid Imp
+1 Crypt Creeper*
+4 Gravedigger*
+1 Ichorid
+1 Whispering Shade*
+2 Cabal Surgeon
+1 Grotesque Hybrid
+1 Carrion Wurm
+1 Hypochondria
+1 Strength of Isolation
+3 Buried Alive*
+4 Crippling Fatigue
+1 Malevolent Awakening*
+1 Zombify*
+10 Plains*
+12 Swamp*
+2 Tainted Field
+
+Sideboard

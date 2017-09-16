@@ -1,0 +1,33 @@
+// NAME: Liftoff
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=1&lang=en
+1 Angelic Wall
+2 Aven Windreader
+1 Beloved Chaplain
+2 Blessed Orator
+2 Cephalid Broker
+2 Cephalid Looter
+1 Cephalid Retainer
+2 Cephalid Scout
+2 Hallowed Healer
+2 Millikin
+1 Mystic Crusader
+1 Mystic Penitent
+2 Mystic Visionary
+3 Mystic Zealot
+1 Nomad Decoy
+1 Pilgrim of Justice
+1 Puppeteer
+1 Embolden
+3 Kirtar's Desire
+1 Peek
+1 Second Thoughts
+1 Shelter
+1 Skycloud Egg
+2 Syncopate
+2 Think Tank
+1 Abandoned Outpost
+1 Seafloor Debris
+10 Plains
+9 Island
+
+Sideboard

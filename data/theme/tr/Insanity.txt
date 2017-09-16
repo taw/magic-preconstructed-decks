@@ -1,0 +1,26 @@
+// NAME: Insanity
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=2&lang=en
+2 Carrion Rats
+3 Putrid Imp
+2 Boneshard Slasher
+1 Grotesque Hybrid
+3 Basking Rootwalla
+3 Wild Mongrel*
+1 Anurid Scavenger
+1 Nantuko Blightcutter
+2 Krosan Archer*
+2 Krosan Constrictor
+1 Nantuko Cultivator
+2 Arrogant Wurm
+2 Centaur Veteran
+2 Strength of Lunacy
+2 Waste Away
+2 Muscle Burst*
+2 Sylvan Might*
+1 Narcissism
+2 Acorn Harvest
+12 Swamp*
+10 Forest*
+2 Tainted Wood
+
+Sideboard

@@ -1,0 +1,27 @@
+// NAME: Elvish Predation
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=1&lang=en
+3 Scarred Vinebreeder
+1 Lys Alana Scarblade
+3 Moonglove Winnower
+1 Hunter of Eyeblights
+2 Elvish Eulogist
+2 Leaf Gilder
+1 Wren's Run Vanquisher
+2 Elvish Harbinger
+3 Gilt-Leaf Seer
+2 Imperious Perfect
+2 Jagged-Scar Archers
+1 Immaculate Magistrate
+2 Lys Alana Huntmaster
+2 Nath's Elite
+1 Nath of the Gilt-Leaf
+1 Prowess of the Fair
+2 Eyeblight's Ending
+1 Lammastide Weave
+2 Gilt-Leaf Ambush
+2 Elvish Promenade
+1 Wanderer's Twig
+9 Swamp
+14 Forest
+
+Sideboard

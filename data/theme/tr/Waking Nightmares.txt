@@ -1,0 +1,28 @@
+// NAME: Waking Nightmares
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=4&lang=en
+3 Mesmeric Fiend
+1 Gravegouger
+1 Slithery Stalker
+3 Faceless Butcher
+3 Soul Scourge
+1 Chainer, Dementia Master
+1 Enslaved Dwarf
+3 Barbarian Outcast
+2 Pardic Collaborator
+3 Petravark
+1 Petradon
+1 Malevolent Awakening*
+2 Rancid Earth
+1 Shade's Form
+1 Caustic Tar*
+2 Firebolt*
+2 Flame Burst*
+2 Pyromania
+1 Demolish*
+2 Temporary Insanity
+1 Flaming Gambit
+12 Swamp*
+9 Mountain*
+2 Tainted Peak
+
+Sideboard

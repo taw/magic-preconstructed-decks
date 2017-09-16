@@ -1,0 +1,27 @@
+// NAME: Zombies Unleashed
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=2&lang=en
+1 Festering Goblin*
+1 Boneknitter*
+2 Shepherd of Rot*
+4 Skinthinner
+2 Withered Wretch
+1 Aphetto Exterminator
+2 Embalmed Brawler
+2 Frightshroud Courier*
+3 Smokespew Invoker
+1 Ghastly Remains
+2 Deathmark Prelate
+2 Infernal Caretaker
+1 Soulless One*
+1 Graveborn Muse
+2 Corpse Harvester
+1 Noxious Ghoul
+2 Gempalm Polluter
+2 Dripping Dead
+1 Dirge of Dread*
+1 Feeding Frenzy*
+1 Cruel Revival*
+23 Swamp*
+2 Barren Moor*
+
+Sideboard

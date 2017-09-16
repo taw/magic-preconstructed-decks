@@ -1,0 +1,30 @@
+// NAME: Devastation
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=3&lang=en
+1 Battering Craghorn
+1 Charging Slateback
+1 Snapping Thragg
+1 Tephraderm
+1 Shaleskin Bruiser
+3 Elvish Pioneer
+3 Wirewood Elf
+3 Wirewood Savage
+3 Snarling Undorak
+2 Barkhide Mauler
+1 Venomspout Brackus
+1 Krosan Groundshaker
+1 Towering Baloth
+2 Chain of Plasma
+1 Erratic Explosion
+1 Solar Blast
+1 Thunder of Hooves
+1 AEther Charge
+1 Naturalize
+1 Primal Boost
+3 Explosive Vegetation
+1 Cryptic Gateway
+9 Mountain
+13 Forest
+2 Forgotten Cave
+2 Tranquil Thicket
+
+Sideboard

@@ -1,0 +1,34 @@
+// NAME: Elementals' Path
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=5&lang=en
+1 Wispmare
+1 Dawnfluke
+1 Mulldrifter
+2 AEthersnipe
+1 Shriekmaw
+2 Mournwhelk
+1 Flamekin Bladewhirl
+2 Flamekin Brawler
+2 Flamekin Harbinger
+3 Smokebraider
+3 Soulbright Flamekin
+1 Incandescent Soulstoke
+2 Inner-Flame Igniter
+1 Inner-Flame Acolyte
+2 Ceaseless Scarblades
+2 Changeling Berserker
+1 Faultgrinder
+1 Briarhorn
+1 Changeling Titan
+1 Horde of Notions
+3 Consuming Bonfire
+2 Springleaf Drum
+3 Wanderer's Twig
+1 Plains
+2 Island
+2 Swamp
+12 Mountain
+1 Forest
+2 Shimmering Grotto
+1 Vivid Crag
+
+Sideboard

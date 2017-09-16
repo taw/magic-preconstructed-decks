@@ -1,0 +1,23 @@
+// NAME: Sliver Shivers
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=4&lang=en
+4 Quick Sliver
+1 Root Sliver
+1 Brood Sliver
+4 Plated Sliver
+1 Essence Sliver
+3 Ward Sliver
+3 Mistform Dreamer*
+3 Shifting Sliver
+1 Crown of Vigor*
+2 Explosive Vegetation*
+2 Tribal Unity*
+4 Pacifism*
+2 Akroma's Blessing*
+2 Mage's Guile*
+7 Forest*
+9 Plains*
+5 Island*
+2 Lonely Sandbar*
+4 Secluded Steppe*
+
+Sideboard

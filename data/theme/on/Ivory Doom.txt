@@ -1,0 +1,29 @@
+// NAME: Ivory Doom
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=4&lang=en
+3 Foothill Guide
+2 Battlefield Medic
+2 Disciple of Grace
+3 Daru Healer
+2 Doubtless One
+1 Daunting Defender
+1 Aven Soulgazer
+4 Disciple of Malice
+1 Headhunter
+2 Cabal Archon
+1 Cabal Executioner
+1 Gangrenous Goliath
+2 Pacifism
+1 Akroma's Blessing
+1 Astral Slide
+1 Sigil of the New Dawn
+2 Smother
+2 Swat
+1 Death Pulse
+2 Profane Prayers
+8 Plains
+8 Swamp
+4 Barren Moor
+4 Secluded Steppe
+1 Starlit Sanctum
+
+Sideboard

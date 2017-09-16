@@ -1,0 +1,28 @@
+// NAME: One-Two Punch
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=3&lang=en
+2 Druid Lyrist
+1 Gorilla Titan
+1 Krosan Archer
+2 Leaf Dancer
+1 Nantuko Mentor
+1 Rabid Elephants
+2 Beast Attack
+3 Chatter of the Squirrel
+2 Deep Reconnaissance
+1 Earth Rift
+3 Elephant Ambush
+2 Engulfing Flames
+1 Firebolt
+1 Howling Gale
+1 Moment's Peace
+2 Reckless Charge
+1 Refresh
+2 Roar of the Wurm
+2 Scorching Missile
+1 Seize the Day
+2 Sylvan Might
+1 Volcanic Spray
+15 Forest
+10 Mountain
+
+Sideboard

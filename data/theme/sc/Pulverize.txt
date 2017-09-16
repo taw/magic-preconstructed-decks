@@ -1,0 +1,27 @@
+// NAME: Pulverize
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=3&lang=en
+2 Mistform Warchief
+1 Mischievous Quanar
+2 Shoreline Ranger
+1 Aven Fateshaper*
+1 Thundercloud Elemental
+3 Scornful Egotist
+2 Goblin Machinist*
+1 Bloodstoke Howler**
+3 Chartooth Cougar
+1 Frenetic Raptor**
+1 Macetail Hystrodon**
+1 Skittish Valesk*
+2 Dispersal Shield
+2 Rush of Knowledge
+1 Parallel Thoughts
+2 Dragon Breath
+2 Pyrostatic Pillar
+2 Carbonize
+2 Erratic Explosion*
+3 Torrent of Fire
+1 Slice and Dice*
+12 Island*
+12 Mountain*
+
+Sideboard

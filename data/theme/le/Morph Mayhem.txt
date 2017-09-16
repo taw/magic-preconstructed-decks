@@ -1,0 +1,32 @@
+// NAME: Morph Mayhem
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=3&lang=en
+1 Daru Mender
+2 Deftblade Elite
+4 Glory Seeker*
+1 Whipcorder*
+2 Wingbeat Warrior
+1 Aven Redeemer
+1 Liege of the Axe
+1 Ironfist Crusher*
+1 Daru Lancer*
+1 Swooping Talon
+1 Imagecrafter*
+2 Voidmage Apprentice
+1 Wall of Deceit
+2 Willbender
+2 Echo Tracer
+2 Ascending Aven*
+1 Master of the Veil
+1 Chromeshell Crab
+1 Mistform Mutant*
+1 Weaver of Lies
+2 Pacifism*
+1 Akroma's Blessing*
+1 Improvised Armor*
+1 Discombobulate*
+11 Plains*
+11 Island*
+2 Lonely Sandbar*
+2 Secluded Steppe*
+
+Sideboard

@@ -1,0 +1,29 @@
+// NAME: Grave Danger
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=1&lang=en
+3 Aquamoeba
+1 Cephalid Illusionist
+1 Cephalid Vandal
+2 Cephalid Looter*
+1 Skywing Aven
+1 Balshan Collaborator
+1 Cephalid Broker*
+1 Cephalid Aristocrat
+2 Crypt Creeper*
+4 Organ Grinder
+1 Painbringer*
+1 Zombie Assassin*
+2 Psychatog*
+2 Careful Study*
+2 Obsessive Search
+2 Compulsion
+1 False Memories
+2 Churning Eddy
+1 Breakthrough
+2 Chainer's Edict
+1 Morgue Theft*
+2 Afflict*
+11 Island*
+11 Swamp*
+2 Tainted Isle
+
+Sideboard
