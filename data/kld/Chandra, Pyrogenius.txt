@@ -1,0 +1,29 @@
+// NAME: Chandra, Pyrogenius
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21
+1 Chandra, Pyrogenius
+1 Speedway Fanatic
+1 Gearshift Ace
+2 Trusty Companion
+2 Veteran Motorist
+1 Weldfast Monitor
+3 Renegade Firebrand
+2 Spireside Infiltrator
+1 Brazen Scourge
+2 Aerial Responder
+1 Snare Thopter
+1 Skyswirl Harrier
+1 Cathartic Reunion
+2 Liberating Combustion
+2 Built to Last
+4 Flame Lash
+1 Fateful Showdown
+2 Sky Skiff
+2 Renegade Freighter
+1 Bomat Bazaar Barge
+1 Fleetwheel Cruiser
+1 Ovalchase Dragster
+4 Stone Quarry
+11 Mountain
+10 Plains
+
+Sideboard

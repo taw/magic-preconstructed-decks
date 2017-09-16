@@ -1,0 +1,25 @@
+// NAME: Nicol Bolas, the Deceiver
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/hour-devastation-planeswalker-deck-lists-2017-07-05
+1 Nicol Bolas, the Deceiver
+3 Wasp of the Bitter End
+3 Khenra Eternal
+2 Burning-Fist Minotaur
+2 Aerial Guide
+2 Eternal of Harsh Truths
+1 Ammit Eternal
+2 Marauding Boneslasher
+4 Zealot of the God-Pharaoh
+2 Manticore Eternal
+2 Supernatural Stamina
+2 Magma Spray
+2 Open Fire
+3 Final Reward
+1 Throne of the God-Pharaoh
+2 Visage of Bolas
+4 Cinder Barrens
+4 Crypt of the Eternals
+5 Island
+6 Swamp
+7 Mountain
+
+Sideboard

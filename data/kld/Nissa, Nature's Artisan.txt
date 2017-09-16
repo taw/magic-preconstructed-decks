@@ -1,0 +1,26 @@
+// NAME: Nissa, Nature's Artisan
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21
+1 Nissa, Nature's Artisan
+2 Thriving Turtle
+2 Longtusk Cub
+1 Sage of Shaila's Claim
+2 Servant of the Conduit
+4 Terrain Elemental
+2 Thriving Rhino
+2 Janjeet Sentry
+2 Empyreal Voyager
+3 Guardian of the Great Conduit
+1 Bristling Hydra
+2 Long-Finned Skywhale
+2 Arborback Stomper
+1 Riparian Tiger
+1 AEthersquall Ancient
+3 Attune with Aether
+2 Verdant Crescendo
+2 Appetite for the Unnatural
+2 Malfunction
+4 Woodland Stream
+11 Forest
+8 Island
+
+Sideboard

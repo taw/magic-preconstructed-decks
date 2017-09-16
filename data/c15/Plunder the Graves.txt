@@ -1,0 +1,80 @@
+// NAME: Plunder the Graves
+// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Viridian Emissary
+1 Wall of Blossoms
+1 Viridian Zealot
+1 Korozda Guildmage
+1 Lotleth Troll
+1 Blood Bairn
+1 Phyrexian Rager
+1 Skullwinder
+1 Wood Elves
+1 Eternal Witness
+1 Corpse Augur
+1 Centaur Vinecrasher
+1 Bloodspore Thrinax
+1 Jarad, Golgari Lich Lord
+1 Shriekmaw
+1 Indrik Stomphowler
+1 Kessig Cagebreakers
+1 Banshee of the Dread Choir
+1 Phyrexian Plaguelord
+1 Acidic Slime
+1 Mycoloth
+1 Mazirek, Kraul Death Priest
+1 Vulturous Zombie
+1 Great Oak Guardian
+1 Champion of Stray Souls
+1 Extractor Demon
+1 Thief of Blood
+1 Pathbreaker Ibex
+1 Cloudthresher
+1 Butcher of Malakir
+1 Eater of Hope
+1 Scourge of Nel Toth
+1 Caller of the Pack
+1 Terastodon
+1 Verdant Force
+1 Mulch
+1 Victimize
+1 Primal Growth
+1 Ambition's Cost
+1 Sever the Bloodline
+1 Barter in Blood
+1 Rise from the Grave
+1 Spider Spawning
+1 Overwhelming Stampede
+1 Dread Summons
+1 Altar's Reap
+1 Tribute to the Wild
+1 Golgari Charm
+1 Grisly Salvage
+1 Putrefy
+1 Wretched Confluence
+1 Skullclamp
+1 Sol Ring
+1 Golgari Signet
+1 Lightning Greaves
+1 Thought Vessel
+1 Bonehoard
+1 Eldrazi Monument
+1 Diabolic Servitude
+1 Command Tower
+1 Evolving Wilds
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Grim Backwoods
+1 High Market
+1 Jungle Hollow
+1 Polluted Mire
+1 Slippery Karst
+1 Tainted Wood
+1 Terramorphic Expanse
+1 Vivid Grove
+1 Vivid Marsh
+13 Swamp
+12 Forest
+
+Sideboard

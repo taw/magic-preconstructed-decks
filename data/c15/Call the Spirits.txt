@@ -1,0 +1,81 @@
+// NAME: Call the Spirits
+// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+1 Oreskos Explorer
+1 Karlov of the Ghost Council
+1 Underworld Coinsmith
+1 Burnished Hart
+1 Bastion Protector
+1 Dawnglare Invoker
+1 Ghostblade Eidolon
+1 Kor Sanctifiers
+1 Monk Idealist
+1 Mesa Enchantress
+1 Nighthowler
+1 Corpse Augur
+1 Fate Unraveler
+1 Ajani's Chosen
+1 Doomwake Giant
+1 Dreadbringer Lampads
+1 Celestial Ancient
+1 Celestial Archon
+1 Herald of the Host
+1 Banshee of the Dread Choir
+1 Thief of Blood
+1 Treasury Thrull
+1 Sandstone Oracle
+1 Silent Sentinel
+1 Teysa, Envoy of Ghosts
+1 Ancient Craving
+1 Gild
+1 Dawn to Dusk
+1 Righteous Confluence
+1 Open the Vaults
+1 Deadly Tempest
+1 Death Grasp
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Lightning Greaves
+1 Orzhov Signet
+1 Thought Vessel
+1 Crystal Chimes
+1 Orzhov Cluestone
+1 Phyrexian Reclamation
+1 Seal of Cleansing
+1 Grave Peril
+1 Banishing Light
+1 Cage of Hands
+1 Karmic Justice
+1 Vow of Duty
+1 Fallen Ideal
+1 Seal of Doom
+1 Vow of Malice
+1 Aura of Silence
+1 Grasp of Fate
+1 Shielded by Faith
+1 Phyrexian Arena
+1 Underworld Connections
+1 Daxos's Torment
+1 Marshal's Anthem
+1 Dictate of Heliod
+1 Sigil of the Empty Throne
+1 Black Market
+1 Necromancer's Covenant
+1 Barren Moor
+1 Command Tower
+1 Evolving Wilds
+1 Ghost Quarter
+1 New Benalia
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Rogue's Passage
+1 Scoured Barrens
+1 Secluded Steppe
+1 Tainted Field
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Vivid Marsh
+1 Vivid Meadow
+11 Plains
+13 Swamp
+
+Sideboard

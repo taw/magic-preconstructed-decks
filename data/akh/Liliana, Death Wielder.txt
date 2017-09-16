@@ -1,0 +1,28 @@
+// NAME: Liliana, Death Wielder
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19
+1 Liliana, Death Wielder
+1 Festering Mummy
+2 Dune Beetle
+4 Tattered Mummy
+1 Channeler Initiate
+2 Baleful Ammit
+3 Desiccated Naga
+2 Gravedigger
+1 Crocodile of the Crossing
+2 Giant Spider
+2 Decimator Beetle
+2 Liliana's Influence
+2 Splendid Agony
+1 Edifice of Authority
+1 Luxa River Shrine
+1 Oracle's Vault
+2 Trial of Ambition
+2 Cartouche of Ambition
+2 Cartouche of Strength
+1 Gift of Paradise
+4 Foul Orchard
+1 Grasping Dunes
+11 Swamp
+9 Forest
+
+Sideboard

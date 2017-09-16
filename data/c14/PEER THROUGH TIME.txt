@@ -1,0 +1,73 @@
+// NAME: PEER THROUGH TIME
+// COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/peer-through-time
+1 Azure Mage
+1 Fathom Seer
+1 Fog Bank
+1 Willbender
+1 Dulcet Sirens
+1 Riptide Survivor
+1 Sea Gate Oracle
+1 Shaper Parasite
+1 Reef Worm
+1 Mulldrifter
+1 Ixidron
+1 Stitcher Geralf
+1 Stormsurge Kraken
+1 Steel Hellkite
+1 Brine Elemental
+1 Frost Titan
+1 Sphinx of Jwar Isle
+1 Sphinx of Magosi
+1 Phyrexian Ingester
+1 Sphinx of Uthuun
+1 Hoverguard Sweepers
+1 Lorthos, the Tidemaker
+1 Artisan of Kozilek
+1 Breaching Leviathan
+1 Deep-Sea Kraken
+1 Call to Mind
+1 Compulsive Research
+1 Concentrate
+1 Rite of Replication
+1 Rush of Knowledge
+1 AEther Gale
+1 Distorting Wake
+1 Pongify
+1 Cyclonic Rift
+1 Into the Roil
+1 Turn to Frog
+1 Exclude
+1 Cackling Counterpart
+1 Domineering Will
+1 Dismiss
+1 Intellectual Offering
+1 Stroke of Genius
+1 Everflowing Chalice
+1 Sol Ring
+1 Mind Stone
+1 Sapphire Medallion
+1 Sky Diamond
+1 Swiftfoot Boots
+1 Crown of Doom
+1 Unstable Obelisk
+1 Worn Powerstone
+1 Assault Suit
+1 Thran Dynamo
+1 Dreamstone Hedron
+1 Tormod's Crypt
+1 Commander's Sphere
+1 Nevinyrral's Disk
+1 Ur-Golem's Eye
+1 Infinite Reflection
+1 Well of Ideas
+1 Fool's Demise
+1 Coral Atoll
+1 Ghost Quarter
+1 Lonely Sandbar
+1 Myriad Landscape
+1 Remote Isle
+1 Tectonic Edge
+1 Zoetic Cavern
+31 Island
+
+Sideboard

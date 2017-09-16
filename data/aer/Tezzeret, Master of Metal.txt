@@ -1,0 +1,29 @@
+// NAME: Tezzeret, Master of Metal
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11
+1 Tezzeret, Master of Metal
+1 Ornithopter
+2 Augmenting Automaton
+1 Merchant's Dockhand
+2 Dhund Operative
+3 Tezzeret's Simulacrum
+1 Dukhara Peafowl
+1 Treasure Keeper
+1 Quicksmith Spy
+1 Foundry Assembler
+2 Bastion Inventor
+2 Wind-Kin Raiders
+1 Ironclad Revolutionary
+1 Barricade Breaker
+1 Fen Hauler
+1 Reverse Engineer
+2 Tezzeret's Betrayal
+1 Essence Extraction
+2 Universal Solvent
+4 Pendulum of Patterns
+2 Implement of Examination
+2 Tezzeret's Touch
+4 Submerged Boneyard
+11 Island
+10 Swamp
+
+Sideboard

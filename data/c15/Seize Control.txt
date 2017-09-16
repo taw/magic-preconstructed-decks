@@ -1,0 +1,78 @@
+// NAME: Seize Control
+// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+1 Goblin Electromancer
+1 Jace's Archivist
+1 Gigantoplasm
+1 Talrand, Sky Summoner
+1 Psychosis Crawler
+1 Broodbirth Viper
+1 Illusory Ambusher
+1 Lone Revenant
+1 Warchief Giant
+1 Charmbreaker Devils
+1 Arjun, the Shifting Flame
+1 Etherium-Horn Sorcerer
+1 Melek, Izzet Paragon
+1 Dragon Mage
+1 Preordain
+1 Faithless Looting
+1 Vandalblast
+1 Mizzium Mortars
+1 Windfall
+1 Mystic Retrieval
+1 Stolen Goods
+1 Mizzix's Mastery
+1 Rite of Replication
+1 Sleep
+1 Chain Reaction
+1 Call the Skybreaker
+1 Blatant Thievery
+1 Epic Experiment
+1 Meteor Blast
+1 Blustersquall
+1 Brainstorm
+1 Echoing Truth
+1 Desperate Ravings
+1 Urza's Rage
+1 Counterflux
+1 AEtherize
+1 Fact or Fiction
+1 Reins of Power
+1 Steam Augury
+1 Mystic Confluence
+1 Word of Seizing
+1 Act of Aggression
+1 Prophetic Bolt
+1 AEthersnatch
+1 Mirror Match
+1 Firemind's Foresight
+1 Repeal
+1 Comet Storm
+1 Magmaquake
+1 Stroke of Genius
+1 Dominate
+1 Blue Sun's Zenith
+1 Sol Ring
+1 Izzet Signet
+1 Thought Vessel
+1 Worn Powerstone
+1 Seal of the Guildpact
+1 Awaken the Sky Tyrant
+1 Rite of the Raging Storm
+1 Thought Reflection
+1 Command Tower
+1 Evolving Wilds
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Reliquary Tower
+1 Rogue's Passage
+1 Spinerock Knoll
+1 Swiftwater Cliffs
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Vivid Crag
+1 Vivid Creek
+14 Island
+13 Mountain
+
+Sideboard

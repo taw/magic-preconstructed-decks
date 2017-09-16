@@ -1,0 +1,23 @@
+// NAME: Nissa, Genesis Mage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/hour-devastation-planeswalker-deck-lists-2017-07-05
+1 Nissa, Genesis Mage
+2 River Hoopoe
+2 Feral Prowler
+3 Avid Reclaimer
+3 Pouncing Cheetah
+2 Aerial Guide
+2 Weaver of Currents
+2 Aven Reedstalker
+4 Brambleweft Behemoth
+2 Angler Drake
+1 Reason // Believe
+2 Spring // Mind
+2 Nissa's Encouragement
+3 Unsummon
+2 Ambuscade
+1 Bounty of the Luxa
+4 Woodland Stream
+14 Forest
+8 Island
+
+Sideboard

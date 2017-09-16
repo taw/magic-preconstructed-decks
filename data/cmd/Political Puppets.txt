@@ -1,0 +1,78 @@
+// NAME: Political Puppets
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
+1 Goblin Cadets
+1 Spurnmage Advocate
+1 Jötun Grunt
+1 Wall of Omens
+1 Fog Bank
+1 Nin, the Pain Artist
+1 Azorius Guildmage
+1 Court Hussar
+1 Gomazoa
+1 Guard Gomazoa
+1 Vedalken Plotter
+1 Wall of Denial
+1 Plumeveil
+1 Flametongue Kavu
+1 Windborn Muse
+1 False Prophet
+1 Brion Stoutarm
+1 Ruhan of the Fomori
+1 Chromeshell Crab
+1 Izzet Chronarch
+1 Dominus of Fealty
+1 Rapacious One
+1 Numot, the Devastator
+1 Arbiter of Knollridge
+1 Breath of Darigaaz
+1 Trade Secrets
+1 Death by Dragons
+1 Austere Command
+1 Insurrection
+1 Skyscribing
+1 Brainstorm
+1 Flusterstorm
+1 Lash Out
+1 Punishing Fire
+1 Pollen Lullaby
+1 Perilous Research
+1 Vision Skeins
+1 Whirlpool Whelm
+1 Chaos Warp
+1 Oblation
+1 Murmurs from Beyond
+1 Repulse
+1 Spell Crumple
+1 Wild Ricochet
+1 Reins of Power
+1 Scattering Stroke
+1 Sol Ring
+1 Armillary Sphere
+1 Fellwar Stone
+1 Howling Mine
+1 Lightning Greaves
+1 Prophetic Prism
+1 Champion's Helm
+1 Darksteel Ingot
+1 Dreamstone Hedron
+1 Soul Snare
+1 Journey to Nowhere
+1 Vow of Lightning
+1 Ghostly Prison
+1 Vow of Duty
+1 Propaganda
+1 Vow of Flight
+1 Prison Term
+1 Crescendo of War
+1 Martyr's Bond
+1 Azorius Chancery
+1 Boros Garrison
+1 Command Tower
+1 Evolving Wilds
+1 Izzet Boilerworks
+1 Terramorphic Expanse
+8 Mountain
+8 Plains
+12 Island
+
+Sideboard

@@ -1,0 +1,72 @@
+// NAME: FORGED IN STONE
+// COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
+1 Containment Priest
+1 Whitemane Lion
+1 Grand Abolisher
+1 Kor Sanctifiers
+1 Mentor of the Meek
+1 Flickerwisp
+1 Hallowed Spiritkeeper
+1 Kemba, Kha Regent
+1 Silverblade Paladin
+1 Skyhunter Skirmisher
+1 Angelic Field Marshal
+1 Celestial Crusader
+1 Jazal Goldmane
+1 Geist-Honored Monk
+1 Requiem Angel
+1 Adarkar Valkyrie
+1 Sun Titan
+1 Sunblast Angel
+1 Twilight Shepherd
+1 Angel of the Dire Hour
+1 Serra Avatar
+1 Gift of Estates
+1 Spectral Procession
+1 Fell the Mighty
+1 Nomads' Assembly
+1 Deploy to the Front
+1 Martial Coup
+1 Decree of Justice
+1 Brave the Elements
+1 Condemn
+1 Afterlife
+1 Midnight Haunting
+1 Oblation
+1 Wing Shards
+1 Benevolent Offering
+1 Comeuppance
+1 Return to Dust
+1 White Sun's Zenith
+1 Masterwork of Ingenuity
+1 Skullclamp
+1 Sol Ring
+1 Marble Diamond
+1 Mask of Memory
+1 Pearl Medallion
+1 Swiftfoot Boots
+1 Commander's Sphere
+1 Loxodon Warhammer
+1 Strata Scythe
+1 Sword of Vengeance
+1 Assault Suit
+1 Bonehoard
+1 Moonsilver Spear
+1 Argentum Armor
+1 Loreseeker's Stone
+1 Armistice
+1 Mobilization
+1 Sacred Mesa
+1 Marshal's Anthem
+1 Cathars' Crusade
+1 True Conviction
+1 Arcane Lighthouse
+1 Drifting Meadow
+1 Emeria, the Sky Ruin
+1 Ghost Quarter
+1 Karoo
+1 Secluded Steppe
+1 Temple of the False God
+32 Plains
+
+Sideboard

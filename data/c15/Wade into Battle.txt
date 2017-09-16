@@ -1,0 +1,80 @@
+// NAME: Wade into Battle
+// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+1 Oreskos Explorer
+1 Magus of the Wheel
+1 Stinkdrinker Daredevil
+1 Taurean Mauler
+1 Dawnglare Invoker
+1 Desolation Giant
+1 Fumiko the Lowblood
+1 Hunted Dragon
+1 Stoneshock Giant
+1 Thundercloud Shaman
+1 Warchief Giant
+1 Herald of the Host
+1 Kalemne's Captain
+1 Anya, Merciless Angel
+1 Sunrise Sovereign
+1 Hammerfist Giant
+1 Inferno Titan
+1 Dawnbreak Reclaimer
+1 Sun Titan
+1 Hostility
+1 Jareth, Leonine Titan
+1 Victory's Herald
+1 Sandstone Oracle
+1 Hamletback Goliath
+1 Arbiter of Knollridge
+1 Borderland Behemoth
+1 Dream Pillager
+1 Magma Giant
+1 Angel of Serenity
+1 Gisela, Blade of Goldnight
+1 Breath of Darigaaz
+1 Fiery Confluence
+1 Disaster Radius
+1 Earthquake
+1 Meteor Blast
+1 Fall of the Hammer
+1 Orim's Thunder
+1 Sol Ring
+1 Blade of Selves
+1 Boros Signet
+1 Coldsteel Heart
+1 Fellwar Stone
+1 Lightning Greaves
+1 Mind Stone
+1 Thought Vessel
+1 Basalt Monolith
+1 Boros Cluestone
+1 Darksteel Ingot
+1 Loxodon Warhammer
+1 Urza's Incubator
+1 Worn Powerstone
+1 Seer's Sundial
+1 Dreamstone Hedron
+1 Staff of Nin
+1 Curse of the Nightly Hunt
+1 Banishing Light
+1 Faith's Fetters
+1 Rite of the Raging Storm
+1 Warstorm Surge
+1 Ancient Amphitheater
+1 Blasted Landscape
+1 Boros Garrison
+1 Boros Guildgate
+1 Command Tower
+1 Drifting Meadow
+1 Evolving Wilds
+1 Forgotten Cave
+1 Secluded Steppe
+1 Smoldering Crater
+1 Terramorphic Expanse
+1 Vivid Crag
+1 Vivid Meadow
+1 Wind-Scarred Crag
+14 Mountain
+11 Plains
+1 Crib Swap
+
+Sideboard

@@ -1,0 +1,26 @@
+// NAME: Gideon, Martial Paragon
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19
+1 Gideon, Martial Paragon
+1 Glory-Bound Initiate
+3 Gust Walker
+1 Nef-Crop Entangler
+1 Pathmaker Initiate
+2 Honored Crop-Captain
+3 Companion of the Trials
+1 Devoted Crop-Mate
+4 Graceful Cat
+3 Ahn-Crop Crasher
+2 Sparring Mummy
+1 Tah-Crop Elite
+2 Hyena Pack
+1 Impeccable Timing
+2 Electrify
+2 Cartouche of Zeal
+1 Hazoret's Favor
+3 Trial of Zeal
+2 Gideon's Resolve
+4 Stone Quarry
+10 Plains
+10 Mountain
+
+Sideboard

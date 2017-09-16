@@ -1,0 +1,80 @@
+// NAME: Swell the Host
+// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+1 Experiment One
+1 Elvish Visionary
+1 Sakura-Tribe Elder
+1 Plaxmanta
+1 Coiling Oracle
+1 Caller of the Claw
+1 Loaming Shaman
+1 Noble Quarry
+1 Skullwinder
+1 Viridian Shaman
+1 Eternal Witness
+1 Ohran Viper
+1 Kaseto, Orochi Archmage
+1 Lorescale Coatl
+1 Trygon Predator
+1 Cold-Eyed Selkie
+1 Wistful Selkie
+1 Solemn Simulacrum
+1 Forgotten Ancient
+1 Patagia Viper
+1 Thelonite Hermit
+1 Ninja of the Deep Hours
+1 Chameleon Colossus
+1 Mystic Snake
+1 Stingerfling Spider
+1 Broodbirth Viper
+1 Illusory Ambusher
+1 Mulldrifter
+1 Arbor Colossus
+1 Great Oak Guardian
+1 Bane of Progress
+1 Prime Speaker Zegana
+1 Caller of the Pack
+1 Rampant Growth
+1 Kodama's Reach
+1 Overrun
+1 Desert Twister
+1 Verdant Confluence
+1 Biomantic Mastery
+1 Ezuri's Predation
+1 Rapid Hybridization
+1 Arachnogenesis
+1 Krosan Grip
+1 Snakeform
+1 Cobra Trap
+1 Mirror Match
+1 Synthetic Destiny
+1 Sol Ring
+1 Simic Signet
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Simic Keyrune
+1 Sword of Vengeance
+1 Bident of Thassa
+1 Scytheclaw
+1 Orochi Hatchery
+1 Beastmaster Ascension
+1 Day of the Dragons
+1 Command Beacon
+1 Command Tower
+1 Evolving Wilds
+1 High Market
+1 Llanowar Reborn
+1 Mosswort Bridge
+1 Novijen, Heart of Progress
+1 Oran-Rief, the Vastwood
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Vivid Creek
+1 Vivid Grove
+1 Zoetic Cavern
+14 Forest
+11 Island
+
+Sideboard

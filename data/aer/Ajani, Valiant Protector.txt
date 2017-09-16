@@ -1,0 +1,29 @@
+// NAME: Ajani, Valiant Protector
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11
+1 Ajani, Valiant Protector
+2 Narnam Renegade
+2 Verdant Automaton
+3 Ajani's Comrade
+3 Audacious Infiltrator
+1 Ghirapur Guide
+2 Silkweaver Elite
+1 Deadeye Harpooner
+1 Solemn Recruit
+2 Armorcraft Judge
+2 Lifecraft Cavalry
+1 Ridgescale Tusker
+1 Airdrop Aeronauts
+1 Prey Upon
+4 Inspiring Roar
+1 Engineered Might
+1 Natural Obsolescence
+3 Renegade Map
+1 Daredevil Dragster
+2 Unbridled Growth
+2 Ajani's Aid
+1 Aid from the Cowl
+4 Tranquil Expanse
+9 Forest
+9 Plains
+
+Sideboard
