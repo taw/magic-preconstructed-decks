@@ -1,0 +1,81 @@
+<cockatrice_deck>
+  <deckname>Seize Control</deckname>
+  <comments>https://magic.wizards.com/en/content/commander-2015-decklists</comments>
+  <zone name='main'>
+    <card name='AEtherize' number='1' price='0'/>
+    <card name='AEthersnatch' number='1' price='0'/>
+    <card name='Act of Aggression' number='1' price='0'/>
+    <card name='Arjun, the Shifting Flame' number='1' price='0'/>
+    <card name='Awaken the Sky Tyrant' number='1' price='0'/>
+    <card name='Blatant Thievery' number='1' price='0'/>
+    <card name='Blue Sun&apos;s Zenith' number='1' price='0'/>
+    <card name='Blustersquall' number='1' price='0'/>
+    <card name='Brainstorm' number='1' price='0'/>
+    <card name='Broodbirth Viper' number='1' price='0'/>
+    <card name='Call the Skybreaker' number='1' price='0'/>
+    <card name='Chain Reaction' number='1' price='0'/>
+    <card name='Charmbreaker Devils' number='1' price='0'/>
+    <card name='Comet Storm' number='1' price='0'/>
+    <card name='Command Tower' number='1' price='0'/>
+    <card name='Counterflux' number='1' price='0'/>
+    <card name='Desperate Ravings' number='1' price='0'/>
+    <card name='Dominate' number='1' price='0'/>
+    <card name='Dragon Mage' number='1' price='0'/>
+    <card name='Echoing Truth' number='1' price='0'/>
+    <card name='Epic Experiment' number='1' price='0'/>
+    <card name='Etherium-Horn Sorcerer' number='1' price='0'/>
+    <card name='Evolving Wilds' number='1' price='0'/>
+    <card name='Fact or Fiction' number='1' price='0'/>
+    <card name='Faithless Looting' number='1' price='0'/>
+    <card name='Firemind&apos;s Foresight' number='1' price='0'/>
+    <card name='Gigantoplasm' number='1' price='0'/>
+    <card name='Goblin Electromancer' number='1' price='0'/>
+    <card name='Illusory Ambusher' number='1' price='0'/>
+    <card name='Island' number='14' price='0'/>
+    <card name='Izzet Boilerworks' number='1' price='0'/>
+    <card name='Izzet Guildgate' number='1' price='0'/>
+    <card name='Izzet Signet' number='1' price='0'/>
+    <card name='Jace&apos;s Archivist' number='1' price='0'/>
+    <card name='Lone Revenant' number='1' price='0'/>
+    <card name='Magmaquake' number='1' price='0'/>
+    <card name='Melek, Izzet Paragon' number='1' price='0'/>
+    <card name='Meteor Blast' number='1' price='0'/>
+    <card name='Mirror Match' number='1' price='0'/>
+    <card name='Mizzium Mortars' number='1' price='0'/>
+    <card name='Mizzix&apos;s Mastery' number='1' price='0'/>
+    <card name='Mountain' number='13' price='0'/>
+    <card name='Mystic Confluence' number='1' price='0'/>
+    <card name='Mystic Retrieval' number='1' price='0'/>
+    <card name='Preordain' number='1' price='0'/>
+    <card name='Prophetic Bolt' number='1' price='0'/>
+    <card name='Psychosis Crawler' number='1' price='0'/>
+    <card name='Reins of Power' number='1' price='0'/>
+    <card name='Reliquary Tower' number='1' price='0'/>
+    <card name='Repeal' number='1' price='0'/>
+    <card name='Rite of Replication' number='1' price='0'/>
+    <card name='Rite of the Raging Storm' number='1' price='0'/>
+    <card name='Rogue&apos;s Passage' number='1' price='0'/>
+    <card name='Seal of the Guildpact' number='1' price='0'/>
+    <card name='Sleep' number='1' price='0'/>
+    <card name='Sol Ring' number='1' price='0'/>
+    <card name='Spinerock Knoll' number='1' price='0'/>
+    <card name='Steam Augury' number='1' price='0'/>
+    <card name='Stolen Goods' number='1' price='0'/>
+    <card name='Stroke of Genius' number='1' price='0'/>
+    <card name='Swiftwater Cliffs' number='1' price='0'/>
+    <card name='Talrand, Sky Summoner' number='1' price='0'/>
+    <card name='Temple of the False God' number='1' price='0'/>
+    <card name='Terramorphic Expanse' number='1' price='0'/>
+    <card name='Thought Reflection' number='1' price='0'/>
+    <card name='Thought Vessel' number='1' price='0'/>
+    <card name='Urza&apos;s Rage' number='1' price='0'/>
+    <card name='Vandalblast' number='1' price='0'/>
+    <card name='Vivid Crag' number='1' price='0'/>
+    <card name='Vivid Creek' number='1' price='0'/>
+    <card name='Warchief Giant' number='1' price='0'/>
+    <card name='Windfall' number='1' price='0'/>
+    <card name='Word of Seizing' number='1' price='0'/>
+    <card name='Worn Powerstone' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

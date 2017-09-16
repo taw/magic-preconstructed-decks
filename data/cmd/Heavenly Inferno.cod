@@ -1,0 +1,85 @@
+<cockatrice_deck>
+  <deckname>Heavenly Inferno</deckname>
+  <comments>https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14#Heavenly_Inferno</comments>
+  <zone name='main'>
+    <card name='Akoum Refuge' number='1' price='0'/>
+    <card name='Akroma&apos;s Vengeance' number='1' price='0'/>
+    <card name='Akroma, Angel of Fury' number='1' price='0'/>
+    <card name='Angel of Despair' number='1' price='0'/>
+    <card name='Angelic Arbiter' number='1' price='0'/>
+    <card name='Anger' number='1' price='0'/>
+    <card name='Archangel of Strife' number='1' price='0'/>
+    <card name='Armillary Sphere' number='1' price='0'/>
+    <card name='Avatar of Slaughter' number='1' price='0'/>
+    <card name='Barren Moor' number='1' price='0'/>
+    <card name='Basandra, Battle Seraph' number='1' price='0'/>
+    <card name='Bathe in Light' number='1' price='0'/>
+    <card name='Bladewing the Risen' number='1' price='0'/>
+    <card name='Bojuka Bog' number='1' price='0'/>
+    <card name='Boros Garrison' number='1' price='0'/>
+    <card name='Boros Guildmage' number='1' price='0'/>
+    <card name='Boros Signet' number='1' price='0'/>
+    <card name='Cleansing Beam' number='1' price='0'/>
+    <card name='Comet Storm' number='1' price='0'/>
+    <card name='Command Tower' number='1' price='0'/>
+    <card name='Congregate' number='1' price='0'/>
+    <card name='Darksteel Ingot' number='1' price='0'/>
+    <card name='Death by Dragons' number='1' price='0'/>
+    <card name='Diabolic Tutor' number='1' price='0'/>
+    <card name='Dragon Whelp' number='1' price='0'/>
+    <card name='Dread Cacodemon' number='1' price='0'/>
+    <card name='Duergar Hedge-Mage' number='1' price='0'/>
+    <card name='Earthquake' number='1' price='0'/>
+    <card name='Evincar&apos;s Justice' number='1' price='0'/>
+    <card name='Evolving Wilds' number='1' price='0'/>
+    <card name='Fallen Angel' number='1' price='0'/>
+    <card name='Forgotten Cave' number='1' price='0'/>
+    <card name='Furnace Whelp' number='1' price='0'/>
+    <card name='Gwyllion Hedge-Mage' number='1' price='0'/>
+    <card name='Lightkeeper of Emeria' number='1' price='0'/>
+    <card name='Lightning Greaves' number='1' price='0'/>
+    <card name='Malfegor' number='1' price='0'/>
+    <card name='Mana-Charged Dragon' number='1' price='0'/>
+    <card name='Master Warcraft' number='1' price='0'/>
+    <card name='Molten Slagheap' number='1' price='0'/>
+    <card name='Mortify' number='1' price='0'/>
+    <card name='Mother of Runes' number='1' price='0'/>
+    <card name='Mountain' number='8' price='0'/>
+    <card name='Oni of Wild Places' number='1' price='0'/>
+    <card name='Orim&apos;s Thunder' number='1' price='0'/>
+    <card name='Oros, the Avenger' number='1' price='0'/>
+    <card name='Orzhov Basilica' number='1' price='0'/>
+    <card name='Orzhov Guildmage' number='1' price='0'/>
+    <card name='Orzhov Signet' number='1' price='0'/>
+    <card name='Path to Exile' number='1' price='0'/>
+    <card name='Plains' number='8' price='0'/>
+    <card name='Pyrohemia' number='1' price='0'/>
+    <card name='Rakdos Carnarium' number='1' price='0'/>
+    <card name='Rakdos Signet' number='1' price='0'/>
+    <card name='Razorjaw Oni' number='1' price='0'/>
+    <card name='Reiver Demon' number='1' price='0'/>
+    <card name='Return to Dust' number='1' price='0'/>
+    <card name='Righteous Cause' number='1' price='0'/>
+    <card name='Rupture Spire' number='1' price='0'/>
+    <card name='Secluded Steppe' number='1' price='0'/>
+    <card name='Serra Angel' number='1' price='0'/>
+    <card name='Shattered Angel' number='1' price='0'/>
+    <card name='Sol Ring' number='1' price='0'/>
+    <card name='Soul Snare' number='1' price='0'/>
+    <card name='Stranglehold' number='1' price='0'/>
+    <card name='Sulfurous Blast' number='1' price='0'/>
+    <card name='Swamp' number='8' price='0'/>
+    <card name='Syphon Flesh' number='1' price='0'/>
+    <card name='Syphon Mind' number='1' price='0'/>
+    <card name='Tariel, Reckoner of Souls' number='1' price='0'/>
+    <card name='Terminate' number='1' price='0'/>
+    <card name='Vivid Meadow' number='1' price='0'/>
+    <card name='Voice of All' number='1' price='0'/>
+    <card name='Vow of Duty' number='1' price='0'/>
+    <card name='Vow of Lightning' number='1' price='0'/>
+    <card name='Vow of Malice' number='1' price='0'/>
+    <card name='Wrecking Ball' number='1' price='0'/>
+    <card name='Zoetic Cavern' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

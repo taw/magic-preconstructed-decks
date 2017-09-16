@@ -1,0 +1,81 @@
+<cockatrice_deck>
+  <deckname>Political Puppets</deckname>
+  <comments>https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14#Heavenly_Inferno</comments>
+  <zone name='main'>
+    <card name='Arbiter of Knollridge' number='1' price='0'/>
+    <card name='Armillary Sphere' number='1' price='0'/>
+    <card name='Austere Command' number='1' price='0'/>
+    <card name='Azorius Chancery' number='1' price='0'/>
+    <card name='Azorius Guildmage' number='1' price='0'/>
+    <card name='Boros Garrison' number='1' price='0'/>
+    <card name='Brainstorm' number='1' price='0'/>
+    <card name='Breath of Darigaaz' number='1' price='0'/>
+    <card name='Brion Stoutarm' number='1' price='0'/>
+    <card name='Champion&apos;s Helm' number='1' price='0'/>
+    <card name='Chaos Warp' number='1' price='0'/>
+    <card name='Chromeshell Crab' number='1' price='0'/>
+    <card name='Command Tower' number='1' price='0'/>
+    <card name='Court Hussar' number='1' price='0'/>
+    <card name='Crescendo of War' number='1' price='0'/>
+    <card name='Darksteel Ingot' number='1' price='0'/>
+    <card name='Death by Dragons' number='1' price='0'/>
+    <card name='Dominus of Fealty' number='1' price='0'/>
+    <card name='Dreamstone Hedron' number='1' price='0'/>
+    <card name='Evolving Wilds' number='1' price='0'/>
+    <card name='False Prophet' number='1' price='0'/>
+    <card name='Fellwar Stone' number='1' price='0'/>
+    <card name='Flametongue Kavu' number='1' price='0'/>
+    <card name='Flusterstorm' number='1' price='0'/>
+    <card name='Fog Bank' number='1' price='0'/>
+    <card name='Ghostly Prison' number='1' price='0'/>
+    <card name='Goblin Cadets' number='1' price='0'/>
+    <card name='Gomazoa' number='1' price='0'/>
+    <card name='Guard Gomazoa' number='1' price='0'/>
+    <card name='Howling Mine' number='1' price='0'/>
+    <card name='Insurrection' number='1' price='0'/>
+    <card name='Island' number='12' price='0'/>
+    <card name='Izzet Boilerworks' number='1' price='0'/>
+    <card name='Izzet Chronarch' number='1' price='0'/>
+    <card name='Journey to Nowhere' number='1' price='0'/>
+    <card name='Jötun Grunt' number='1' price='0'/>
+    <card name='Lash Out' number='1' price='0'/>
+    <card name='Lightning Greaves' number='1' price='0'/>
+    <card name='Martyr&apos;s Bond' number='1' price='0'/>
+    <card name='Mountain' number='8' price='0'/>
+    <card name='Murmurs from Beyond' number='1' price='0'/>
+    <card name='Nin, the Pain Artist' number='1' price='0'/>
+    <card name='Numot, the Devastator' number='1' price='0'/>
+    <card name='Oblation' number='1' price='0'/>
+    <card name='Perilous Research' number='1' price='0'/>
+    <card name='Plains' number='8' price='0'/>
+    <card name='Plumeveil' number='1' price='0'/>
+    <card name='Pollen Lullaby' number='1' price='0'/>
+    <card name='Prison Term' number='1' price='0'/>
+    <card name='Propaganda' number='1' price='0'/>
+    <card name='Prophetic Prism' number='1' price='0'/>
+    <card name='Punishing Fire' number='1' price='0'/>
+    <card name='Rapacious One' number='1' price='0'/>
+    <card name='Reins of Power' number='1' price='0'/>
+    <card name='Repulse' number='1' price='0'/>
+    <card name='Ruhan of the Fomori' number='1' price='0'/>
+    <card name='Scattering Stroke' number='1' price='0'/>
+    <card name='Skyscribing' number='1' price='0'/>
+    <card name='Sol Ring' number='1' price='0'/>
+    <card name='Soul Snare' number='1' price='0'/>
+    <card name='Spell Crumple' number='1' price='0'/>
+    <card name='Spurnmage Advocate' number='1' price='0'/>
+    <card name='Terramorphic Expanse' number='1' price='0'/>
+    <card name='Trade Secrets' number='1' price='0'/>
+    <card name='Vedalken Plotter' number='1' price='0'/>
+    <card name='Vision Skeins' number='1' price='0'/>
+    <card name='Vow of Duty' number='1' price='0'/>
+    <card name='Vow of Flight' number='1' price='0'/>
+    <card name='Vow of Lightning' number='1' price='0'/>
+    <card name='Wall of Denial' number='1' price='0'/>
+    <card name='Wall of Omens' number='1' price='0'/>
+    <card name='Whirlpool Whelm' number='1' price='0'/>
+    <card name='Wild Ricochet' number='1' price='0'/>
+    <card name='Windborn Muse' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

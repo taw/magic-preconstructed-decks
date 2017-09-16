@@ -1,0 +1,83 @@
+<cockatrice_deck>
+  <deckname>Wade into Battle</deckname>
+  <comments>https://magic.wizards.com/en/content/commander-2015-decklists</comments>
+  <zone name='main'>
+    <card name='Ancient Amphitheater' number='1' price='0'/>
+    <card name='Angel of Serenity' number='1' price='0'/>
+    <card name='Anya, Merciless Angel' number='1' price='0'/>
+    <card name='Arbiter of Knollridge' number='1' price='0'/>
+    <card name='Banishing Light' number='1' price='0'/>
+    <card name='Basalt Monolith' number='1' price='0'/>
+    <card name='Blade of Selves' number='1' price='0'/>
+    <card name='Blasted Landscape' number='1' price='0'/>
+    <card name='Borderland Behemoth' number='1' price='0'/>
+    <card name='Boros Cluestone' number='1' price='0'/>
+    <card name='Boros Garrison' number='1' price='0'/>
+    <card name='Boros Guildgate' number='1' price='0'/>
+    <card name='Boros Signet' number='1' price='0'/>
+    <card name='Breath of Darigaaz' number='1' price='0'/>
+    <card name='Coldsteel Heart' number='1' price='0'/>
+    <card name='Command Tower' number='1' price='0'/>
+    <card name='Crib Swap' number='1' price='0'/>
+    <card name='Curse of the Nightly Hunt' number='1' price='0'/>
+    <card name='Darksteel Ingot' number='1' price='0'/>
+    <card name='Dawnbreak Reclaimer' number='1' price='0'/>
+    <card name='Dawnglare Invoker' number='1' price='0'/>
+    <card name='Desolation Giant' number='1' price='0'/>
+    <card name='Disaster Radius' number='1' price='0'/>
+    <card name='Dream Pillager' number='1' price='0'/>
+    <card name='Dreamstone Hedron' number='1' price='0'/>
+    <card name='Drifting Meadow' number='1' price='0'/>
+    <card name='Earthquake' number='1' price='0'/>
+    <card name='Evolving Wilds' number='1' price='0'/>
+    <card name='Faith&apos;s Fetters' number='1' price='0'/>
+    <card name='Fall of the Hammer' number='1' price='0'/>
+    <card name='Fellwar Stone' number='1' price='0'/>
+    <card name='Fiery Confluence' number='1' price='0'/>
+    <card name='Forgotten Cave' number='1' price='0'/>
+    <card name='Fumiko the Lowblood' number='1' price='0'/>
+    <card name='Gisela, Blade of Goldnight' number='1' price='0'/>
+    <card name='Hamletback Goliath' number='1' price='0'/>
+    <card name='Hammerfist Giant' number='1' price='0'/>
+    <card name='Herald of the Host' number='1' price='0'/>
+    <card name='Hostility' number='1' price='0'/>
+    <card name='Hunted Dragon' number='1' price='0'/>
+    <card name='Inferno Titan' number='1' price='0'/>
+    <card name='Jareth, Leonine Titan' number='1' price='0'/>
+    <card name='Kalemne&apos;s Captain' number='1' price='0'/>
+    <card name='Lightning Greaves' number='1' price='0'/>
+    <card name='Loxodon Warhammer' number='1' price='0'/>
+    <card name='Magma Giant' number='1' price='0'/>
+    <card name='Magus of the Wheel' number='1' price='0'/>
+    <card name='Meteor Blast' number='1' price='0'/>
+    <card name='Mind Stone' number='1' price='0'/>
+    <card name='Mountain' number='14' price='0'/>
+    <card name='Oreskos Explorer' number='1' price='0'/>
+    <card name='Orim&apos;s Thunder' number='1' price='0'/>
+    <card name='Plains' number='11' price='0'/>
+    <card name='Rite of the Raging Storm' number='1' price='0'/>
+    <card name='Sandstone Oracle' number='1' price='0'/>
+    <card name='Secluded Steppe' number='1' price='0'/>
+    <card name='Seer&apos;s Sundial' number='1' price='0'/>
+    <card name='Smoldering Crater' number='1' price='0'/>
+    <card name='Sol Ring' number='1' price='0'/>
+    <card name='Staff of Nin' number='1' price='0'/>
+    <card name='Stinkdrinker Daredevil' number='1' price='0'/>
+    <card name='Stoneshock Giant' number='1' price='0'/>
+    <card name='Sun Titan' number='1' price='0'/>
+    <card name='Sunrise Sovereign' number='1' price='0'/>
+    <card name='Taurean Mauler' number='1' price='0'/>
+    <card name='Terramorphic Expanse' number='1' price='0'/>
+    <card name='Thought Vessel' number='1' price='0'/>
+    <card name='Thundercloud Shaman' number='1' price='0'/>
+    <card name='Urza&apos;s Incubator' number='1' price='0'/>
+    <card name='Victory&apos;s Herald' number='1' price='0'/>
+    <card name='Vivid Crag' number='1' price='0'/>
+    <card name='Vivid Meadow' number='1' price='0'/>
+    <card name='Warchief Giant' number='1' price='0'/>
+    <card name='Warstorm Surge' number='1' price='0'/>
+    <card name='Wind-Scarred Crag' number='1' price='0'/>
+    <card name='Worn Powerstone' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>

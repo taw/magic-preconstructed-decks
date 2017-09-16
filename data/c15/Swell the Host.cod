@@ -1,0 +1,83 @@
+<cockatrice_deck>
+  <deckname>Swell the Host</deckname>
+  <comments>https://magic.wizards.com/en/content/commander-2015-decklists</comments>
+  <zone name='main'>
+    <card name='Arachnogenesis' number='1' price='0'/>
+    <card name='Arbor Colossus' number='1' price='0'/>
+    <card name='Bane of Progress' number='1' price='0'/>
+    <card name='Beastmaster Ascension' number='1' price='0'/>
+    <card name='Bident of Thassa' number='1' price='0'/>
+    <card name='Biomantic Mastery' number='1' price='0'/>
+    <card name='Broodbirth Viper' number='1' price='0'/>
+    <card name='Caller of the Claw' number='1' price='0'/>
+    <card name='Caller of the Pack' number='1' price='0'/>
+    <card name='Chameleon Colossus' number='1' price='0'/>
+    <card name='Cobra Trap' number='1' price='0'/>
+    <card name='Coiling Oracle' number='1' price='0'/>
+    <card name='Cold-Eyed Selkie' number='1' price='0'/>
+    <card name='Command Beacon' number='1' price='0'/>
+    <card name='Command Tower' number='1' price='0'/>
+    <card name='Day of the Dragons' number='1' price='0'/>
+    <card name='Desert Twister' number='1' price='0'/>
+    <card name='Elvish Visionary' number='1' price='0'/>
+    <card name='Eternal Witness' number='1' price='0'/>
+    <card name='Evolving Wilds' number='1' price='0'/>
+    <card name='Experiment One' number='1' price='0'/>
+    <card name='Ezuri&apos;s Predation' number='1' price='0'/>
+    <card name='Forest' number='14' price='0'/>
+    <card name='Forgotten Ancient' number='1' price='0'/>
+    <card name='Great Oak Guardian' number='1' price='0'/>
+    <card name='High Market' number='1' price='0'/>
+    <card name='Illusory Ambusher' number='1' price='0'/>
+    <card name='Island' number='11' price='0'/>
+    <card name='Kaseto, Orochi Archmage' number='1' price='0'/>
+    <card name='Kodama&apos;s Reach' number='1' price='0'/>
+    <card name='Krosan Grip' number='1' price='0'/>
+    <card name='Llanowar Reborn' number='1' price='0'/>
+    <card name='Loaming Shaman' number='1' price='0'/>
+    <card name='Lorescale Coatl' number='1' price='0'/>
+    <card name='Mirror Match' number='1' price='0'/>
+    <card name='Mosswort Bridge' number='1' price='0'/>
+    <card name='Mulldrifter' number='1' price='0'/>
+    <card name='Mystic Snake' number='1' price='0'/>
+    <card name='Ninja of the Deep Hours' number='1' price='0'/>
+    <card name='Noble Quarry' number='1' price='0'/>
+    <card name='Novijen, Heart of Progress' number='1' price='0'/>
+    <card name='Ohran Viper' number='1' price='0'/>
+    <card name='Oran-Rief, the Vastwood' number='1' price='0'/>
+    <card name='Orochi Hatchery' number='1' price='0'/>
+    <card name='Overrun' number='1' price='0'/>
+    <card name='Patagia Viper' number='1' price='0'/>
+    <card name='Plaxmanta' number='1' price='0'/>
+    <card name='Prime Speaker Zegana' number='1' price='0'/>
+    <card name='Rampant Growth' number='1' price='0'/>
+    <card name='Rapid Hybridization' number='1' price='0'/>
+    <card name='Reliquary Tower' number='1' price='0'/>
+    <card name='Sakura-Tribe Elder' number='1' price='0'/>
+    <card name='Scytheclaw' number='1' price='0'/>
+    <card name='Simic Growth Chamber' number='1' price='0'/>
+    <card name='Simic Guildgate' number='1' price='0'/>
+    <card name='Simic Keyrune' number='1' price='0'/>
+    <card name='Simic Signet' number='1' price='0'/>
+    <card name='Skullwinder' number='1' price='0'/>
+    <card name='Snakeform' number='1' price='0'/>
+    <card name='Sol Ring' number='1' price='0'/>
+    <card name='Solemn Simulacrum' number='1' price='0'/>
+    <card name='Stingerfling Spider' number='1' price='0'/>
+    <card name='Swiftfoot Boots' number='1' price='0'/>
+    <card name='Sword of Vengeance' number='1' price='0'/>
+    <card name='Synthetic Destiny' number='1' price='0'/>
+    <card name='Terramorphic Expanse' number='1' price='0'/>
+    <card name='Thelonite Hermit' number='1' price='0'/>
+    <card name='Thornwood Falls' number='1' price='0'/>
+    <card name='Thought Vessel' number='1' price='0'/>
+    <card name='Trygon Predator' number='1' price='0'/>
+    <card name='Verdant Confluence' number='1' price='0'/>
+    <card name='Viridian Shaman' number='1' price='0'/>
+    <card name='Vivid Creek' number='1' price='0'/>
+    <card name='Vivid Grove' number='1' price='0'/>
+    <card name='Wistful Selkie' number='1' price='0'/>
+    <card name='Zoetic Cavern' number='1' price='0'/>
+  </zone>
+  <zone name='side'/>
+</cockatrice_deck>
