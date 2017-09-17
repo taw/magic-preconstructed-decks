@@ -22,7 +22,6 @@
 4 Izzet Guildgate
 12 Mountain
 9 Island
-1 Event Deck
 
 Sideboard
 2 Flames of the Firebrand
