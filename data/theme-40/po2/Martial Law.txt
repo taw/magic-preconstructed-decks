@@ -1,0 +1,16 @@
+// NAME: Martial Law
+// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
+15 Plains
+2 Alaborn Cavalier
+2 Alaborn Grenadier
+3 Alaborn Trooper
+1 Alaborn Veteran
+1 Angel of Fury
+2 Armored Griffin
+2 Temple Acolyte
+2 Volunteer Militia
+3 Wild Griffin
+1 Armageddon
+2 Path of Peace
+2 Righteous Charge
+2 Vengeance

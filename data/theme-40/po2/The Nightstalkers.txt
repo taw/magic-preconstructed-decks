@@ -1,0 +1,16 @@
+// NAME: The Nightstalkers
+// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
+15 Swamp
+2 Abyssal Nightstalker
+2 Brutal Nightstalker
+2 Dakmor Bat
+3 Lurking Nightstalker
+1 Nightstalker Engine
+2 Predatory Nightstalker
+3 Prowling Nightstalker
+2 Raiding Nightstalker
+1 Ancient Craving
+2 Cruel Edict
+2 Hand of Death
+2 Mind Rot
+1 Return of the Nightstalkers

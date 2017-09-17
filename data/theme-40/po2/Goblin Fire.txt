@@ -1,0 +1,16 @@
+// NAME: Goblin Fire
+// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
+15 Mountain
+2 Goblin Cavaliers
+2 Goblin Firestarter
+1 Goblin General
+2 Goblin Glider
+2 Goblin Matron
+2 Goblin Piker
+2 Goblin Raider
+3 Raging Goblin
+2 Blaze
+2 Goblin War Strike
+1 Relentless Assault
+3 Volcanic Hammer
+1 Wildfire
