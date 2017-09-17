@@ -1,0 +1,27 @@
+// NAME: Legion of Glory
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=1&lang=en
+1 Zhalfirin Crusader
+1 Longbow Archer
+2 Vigilant Martyr*
+2 Zhalfirin Commander*
+3 Infantry Veteran
+2 Jamuraan Lion
+2 Knight of Valor
+1 Resistance Fighter
+2 Femeref Healer*
+3 Femeref Scouts*
+1 Retribution of the Meek
+2 Magma Mine
+2 Miraculous Recovery
+1 Afterlife*
+1 Blinding Light*
+2 Favorable Destiny*
+2 Remedy
+2 Sun Clasp
+1 Warrior's Honor
+1 Hope Charm
+2 Pacifism*
+1 Ward of Lights*
+23 Plains*
+
+Sideboard

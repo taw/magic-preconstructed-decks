@@ -1,0 +1,28 @@
+// NAME: Night Terrors
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=3&lang=en
+1 Blighted Shaman
+2 Restless Dead
+2 Skulking Ghost
+3 Breathstealer
+3 Feral Shadow
+3 Urborg Panther
+2 Dread Specter
+1 Fetid Horror
+1 Gravebane Zombie
+1 Ravenous Vampire
+1 Spirit of the Night
+1 Soulshriek
+1 Shallow Grave
+2 Wall of Corpses
+1 Withering Boon
+2 Bone Harvest
+2 Dark Banishing
+2 Stupor
+1 Kaervek's Hex
+1 Nocturnal Raid
+1 Drain Life
+3 Charcoal Diamond
+1 Phyrexian Vault
+22 Swamp
+
+Sideboard

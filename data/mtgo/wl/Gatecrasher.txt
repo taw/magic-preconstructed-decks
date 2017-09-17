@@ -1,0 +1,25 @@
+// NAME: Gatecrasher
+// COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+15 Forest
+7 Mountain
+1 Aboroth
+3 Arctic Wolves
+1 Bogardan Firefiend
+2 Granger Guildmage
+1 Llanowar Behemoth
+3 Llanowar Sentinel
+1 Maraxus of Keld
+2 Redwood Treefolk
+2 Stampeding Wildebeests
+2 Striped Bears
+2 Uktabi Efreet
+1 Uktabi Orangutan
+3 Wall of Roots
+2 Fire Whip
+2 Incinerate
+2 Cone of Flame
+1 Creeping Mold
+1 Kaervek's Torch
+3 Rampant Growth
+1 Savage Twister
+2 Dragon Mask

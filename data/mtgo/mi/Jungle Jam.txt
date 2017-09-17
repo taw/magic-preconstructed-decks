@@ -1,0 +1,30 @@
+// NAME: Jungle Jam
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=2&lang=en
+3 Quirion Elves
+2 Foratog
+3 Gibbering Hyenas
+3 Jolrael's Centaur
+2 Nettletooth Djinn
+1 Benevolent Unicorn
+2 Ekundu Griffin
+2 Mtenda Griffin
+2 Teremko Griffin
+2 Unyaro Griffin
+1 Zuberi, Golden Feather
+1 Worldly Tutor
+3 Rampant Growth
+2 Armor of Thorns
+1 Ivory Charm
+1 Disenchant
+2 Pacifism
+1 Ritual of Steel
+1 Afterlife
+1 Sawback Manticore
+1 Vitalizing Cascade
+1 Mountain
+10 Forest
+10 Plains
+1 Grasslands
+1 Mountain Valley
+
+Sideboard

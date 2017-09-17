@@ -1,0 +1,29 @@
+// NAME: Burning Sky
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=1&lang=en
+3 Bay Falcon
+2 Azimaet Drake
+1 Dream Fighter
+3 Teferi's Drake
+1 Suq'Ata Firewalker
+1 Harmattan Efreet
+1 Vaporous Djinn
+1 Mist Dragon
+3 Pyric Salamander
+2 Wildfire Emissary
+1 Burning Palm Efreet
+2 Flame Elemental
+2 Talruum Minotaur
+1 Subterranean Spirit
+1 Mystical Tutor
+2 Meddle
+2 Boomerang
+2 Dream Cache
+1 Dissipate
+1 Power Sink
+1 Incinerate
+1 Goblin Scouts
+1 Kaervek's Torch
+12 Island
+12 Mountain
+
+Sideboard

@@ -1,0 +1,25 @@
+// NAME: Dead and Alive
+// COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+24 Swamp
+1 Barrow Ghoul
+1 Circling Vultures
+3 Crypt Rats
+2 Fallen Askari
+2 Fledgling Djinn
+1 Hidden Horror
+1 Mischievous Poltergeist
+1 Morinfen
+3 Necratog
+2 Nekrataal
+2 Sewer Rats
+2 Shadow Rider
+1 Skulking Ghost
+1 Zombie Scavengers
+1 Infernal Tribute
+2 Necromancy
+1 Strands of Night
+1 Shattered Crypt
+2 Spinning Darkness
+2 Buried Alive
+2 Dark Banishing
+2 Drain Life

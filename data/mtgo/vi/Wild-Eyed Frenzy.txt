@@ -1,0 +1,24 @@
+// NAME: Wild-Eyed Frenzy
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=4&lang=en
+1 Kookus
+1 Ogre Enforcer
+2 Goblin Recruiter
+2 Goblin Soothsayer*
+2 Talruum Piper
+1 Flame Elemental*
+1 Viashino Sandstalker
+3 Keeper of Kookus
+3 Goblin Swine-Rider
+2 Goblin Elite Infantry*
+2 Goblin Tinkerer*
+2 Talruum Champion
+2 Mob Mentality
+2 Goblin Scouts*
+1 Unerring Sling*
+3 Chaos Charm*
+3 Flare*
+2 Fireblast
+2 Song of Blood
+23 Mountain*
+
+Sideboard

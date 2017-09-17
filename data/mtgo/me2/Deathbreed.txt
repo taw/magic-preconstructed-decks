@@ -1,0 +1,27 @@
+// NAME: Deathbreed
+// COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+24 Snow-Covered Swamp
+3 Armor Thrull
+2 Ashen Ghoul
+1 Basal Thrull
+1 Cuombajj Witches
+1 Derelor
+3 Drift of the Dead
+1 Ebon Praetor
+2 Gangrenous Zombies
+1 Kjeldoran Dead
+1 Knight of Stromgald
+2 Mindstab Thrull
+1 Minion of Leshrac
+2 Nether Shadow
+2 Necrite
+3 Breeding Pit
+1 Phyrexian Boon
+1 Oubliette
+1 Thrull Retainer
+1 Withering Wisps
+1 Dark Banishing
+1 Feast or Famine
+1 Hymn to Tourach
+1 Ritual of the Machine
+2 Soul Exchange

@@ -1,0 +1,31 @@
+// NAME: Band Together
+// COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+21 Plains
+1 Kjeldoran Outpost
+1 Mishra's Factory
+1 Ruins of Trokair
+1 Adarkar Sentinel
+1 Angel of Light
+2 Aysen Crusader
+2 Benalish Hero
+2 Combat Medic
+2 Icatian Javelineers
+2 Icatian Lieutenant
+1 Icatian Phalanx
+1 Icatian Scout
+1 Kjeldoran Elite Guard
+2 Kjeldoran Home Guard
+1 Kjeldoran Skycaptain
+1 Order of the White Shield
+1 Royal Trooper
+2 Shield Bearer
+2 Soldevi Simulacrum
+2 Aeolipile
+1 Divine Transformation
+1 Inheritance
+2 Disenchant
+1 Reprisal
+1 Exile
+1 Scars of the Veteran
+2 Swords to Plowshares
+1 Righteous Fury

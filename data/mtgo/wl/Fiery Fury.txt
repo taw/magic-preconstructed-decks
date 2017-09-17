@@ -1,0 +1,22 @@
+// NAME: Fiery Fury
+// COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+23 Mountain
+1 Crystal Vein
+3 Bloodrock Cyclops
+3 Goblin Vandal
+1 Hulking Cyclops
+3 Lava Hounds
+2 Roc Hatchling
+1 Suq'Ata Lancer
+2 Talruum Minotaur
+2 Viashino Sandstalker
+1 Wildfire Emissary
+2 Fireblast
+1 Firestorm
+3 Incinerate
+1 Thunderbolt
+2 Spitting Earth
+3 Cone of Flame
+2 Kaervek's Torch
+1 Heart of Bogardan
+3 Mind Stone

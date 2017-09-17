@@ -1,0 +1,26 @@
+// NAME: Air Forces
+// COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+14 Island
+10 Plains
+1 Alabaster Dragon
+3 Benalish Knight
+1 Cloud Djinn
+1 Fog Elemental
+2 Heavy Ballista
+1 Man-o
+2 Mistmoon Griffin
+3 Ophidian
+1 Sage Owl
+3 Serrated Biskelion
+1 Suq'Ata Firewalker
+3 Vodalian Illusionist
+1 Waterspout Djinn
+1 Abduction
+2 Empyrial Armor
+2 Pacifism
+1 Debt of Loyalty
+1 Disrupt
+1 Dissipate
+2 Impulse
+2 Memory Lapse
+1 Power Sink

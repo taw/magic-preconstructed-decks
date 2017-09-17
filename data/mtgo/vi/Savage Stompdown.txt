@@ -1,0 +1,28 @@
+// NAME: Savage Stompdown
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=2&lang=en
+1 Viashivan Dragon
+2 Kyscu Drake
+2 Spitting Drake
+2 Hulking Cyclops
+1 Locust Swarm*
+2 Jungle Troll*
+2 Giant Caterpillar
+3 Raging Gorilla
+1 Bull Elephant
+1 King Cheetah
+2 Quirion Elves*
+1 Crash of Rhinos*
+1 Granger Guildmage*
+3 Ekundu Cyclops*
+1 Natural Order
+1 Creeping Mold
+1 Volcanic Geyser*
+2 Unyaro Bee Sting*
+1 Hearth Charm
+1 Emerald Charm
+3 Feral Instinct
+2 Rock Slide
+12 Mountain*
+12 Forest*
+
+Sideboard

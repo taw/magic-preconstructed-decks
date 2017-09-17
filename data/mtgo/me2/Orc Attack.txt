@@ -1,0 +1,26 @@
+// NAME: Orc Attack
+// COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+22 Mountain
+1 Mishra's Factory
+2 Gorilla Shaman
+4 Ironclaw Orcs
+1 Brassclaw Orcs
+2 Brothers of Fire
+1 Imperial Recruiter
+2 Orc General
+2 Orcish Cannoneers
+3 Orcish Captain
+3 Orcish Conscripts
+1 Orcish Squatters
+1 Orcish Veteran
+2 Stone Giant
+1 Varchild's Crusader
+1 Skull Catapult
+2 Death Spark
+1 Fissure
+2 Incinerate
+2 Lightning Bolt
+1 Panic
+1 Pyrokinesis
+1 Pillage
+1 Meteor Shower
