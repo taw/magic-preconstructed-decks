@@ -1,0 +1,22 @@
+// NAME: Kazz's Second Deck
+// COMMENT: Manually reconstructed from:
+// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+// COMMENT: https://mtg.gamepedia.com/Introductory_Two-Player_Set
+5 Mountain
+4 Island
+4 Swamp
+1 Mons's Goblin Raiders
+2 Vampire Bats
+1 Orcish Artillery
+1 Phantom Monster
+1 Sorceress Queen
+1 Battering Ram
+1 Clockwork Beast
+1 Jayemdae Tome
+2 Power Sink
+1 Detonate
+1 Fireball
+1 Cursed Land
+1 Energy Flux
+1 Feedback
+1 Orcish Oriflamme
