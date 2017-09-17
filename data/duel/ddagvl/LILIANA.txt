@@ -1,0 +1,33 @@
+// NAME: LILIANA
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
+1 Liliana Vess
+1 Deathgreeter
+1 Drudge Skeletons
+1 Faerie Macabre
+2 Fleshbag Marauder
+2 Ghost-Lit Stalker
+1 Howling Banshee
+1 Keening Banshee
+2 Phyrexian Rager
+1 Ravenous Rats
+1 Skeletal Vampire
+2 Twisted Abomination
+1 Urborg Syphon-Mage
+2 Vampire Bats
+1 Wall of Bone
+2 Corrupt
+1 Ichor Slick
+1 Mutilate
+1 Rise from the Grave
+2 Sign in Blood
+1 Vicious Hunger
+1 Hideous End
+1 Snuff Out
+2 Tendrils of Corruption
+1 Bad Moon
+1 Enslave
+1 Genju of the Fens
+2 Polluted Mire
+23 Swamp
+
+Sideboard
