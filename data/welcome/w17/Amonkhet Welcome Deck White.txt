@@ -1,4 +1,4 @@
-// NAME: Amonkhet Welcome Deck—White
+// NAME: Amonkhet Welcome Deck - White
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
 1 Victory's Herald
 1 Stormfront Pegasus
