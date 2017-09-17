@@ -1,0 +1,27 @@
+// NAME: Eldrazi Arisen
+// COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+1 Akoum Boulderfoot
+1 Conquering Manticore
+1 Daggerback Basilisk
+1 Goblin Piker
+1 Hand of Emrakul
+1 Kozilek's Predator
+1 Nest Invader
+1 Ondu Giant
+1 Pathrazer of Ulamog
+1 Rapacious One
+1 Runed Servitor
+2 Sporecap Spider
+1 Ulamog's Crusher
+1 Act of Treason
+1 Bountiful Harvest
+2 Flame Slash
+1 Growth Spasm
+1 Might of the Masses
+1 Windstorm
+1 Dreamstone Hedron
+1 Awakening Zone
+10 Forest
+8 Mountain
+
+Sideboard

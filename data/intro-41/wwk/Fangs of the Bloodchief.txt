@@ -1,0 +1,25 @@
+// NAME: Fangs of the Bloodchief
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+2 Pulse Tracker
+2 Child of Night
+2 Ruthless Cullblade
+1 Bloodhusk Ritualist
+1 Vampire Aristocrat
+1 Vampire Nighthawk
+1 Jagwasp Swarm
+1 Zombie Goliath
+1 Anowon, the Ruin Sage
+1 Butcher of Malakir
+2 Mire's Toll
+1 Feast of Blood
+1 Dead Reckoning
+1 Diabolic Tutor
+1 Rise from the Grave
+1 Consume Spirit
+1 Urge to Feed
+1 Hideous End
+1 Brink of Disaster
+16 Swamp
+2 Piranha Marsh
+
+Sideboard

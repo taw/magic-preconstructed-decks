@@ -1,0 +1,27 @@
+// NAME: Rapid Fire
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+1 Steppe Lynx
+1 Fledgling Griffin
+1 Kor Skyfisher
+1 Ruin Ghost
+1 Kor Firewalker
+2 Pilgrim's Eye
+1 Goblin Roughrider
+1 Prodigal Pyromancer
+1 Kor Cartographer
+2 Cosi's Ravager
+1 Dragon Whelp
+1 Grotag Thrasher
+1 Geyser Glider
+1 Mordant Dragon
+1 Act of Treason
+1 Magma Rift
+1 Chain Reaction
+2 Searing Blaze
+1 Narrow Escape
+1 Armored Ascension
+9 Plains
+7 Mountain
+2 Teetering Peaks
+
+Sideboard

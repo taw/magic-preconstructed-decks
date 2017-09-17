@@ -1,0 +1,25 @@
+// NAME: Invading Spawn
+// COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+2 Bloodthrone Vampire
+1 Dragon Whelp
+1 Drana, Kalastria Bloodchief
+2 Emrakul's Hatcher
+1 Gloomhunter
+1 Hand of Emrakul
+1 Howling Banshee
+1 Lagac Lizard
+2 Lavafume Invoker
+1 Magmaw
+1 Ogre Sentry
+1 Pawn of Ulamog
+1 Rapacious One
+1 Act of Treason
+1 Corpsehatch
+1 Essence Feed
+1 Fireball
+2 Lightning Bolt
+1 Vendetta
+9 Mountain
+9 Swamp
+
+Sideboard

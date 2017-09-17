@@ -1,0 +1,26 @@
+// NAME: Levelers' Glory
+// COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+1 Affa Guard Hound
+1 Alluring Siren
+2 Caravan Escort
+1 Glory Seeker
+1 Hedron-Field Purists
+1 Lone Missionary
+2 Makindi Griffin
+1 Soulbound Guardians
+1 Student of Warfare
+1 Venerated Teacher
+1 Wall of Frost
+1 See Beyond
+1 Sleep
+1 Angel's Mercy
+1 Fleeting Distraction
+1 Negate
+1 Unsummon
+1 Domestication
+1 Luminous Wake
+2 Narcolepsy
+8 Island
+10 Plains
+
+Sideboard

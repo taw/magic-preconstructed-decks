@@ -1,0 +1,26 @@
+// NAME: Mysterious Realms
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+1 Walking Atlas
+1 Coral Merfolk
+1 Frontier Guide
+1 Merfolk Wayfinder
+1 Tideforce Elemental
+2 Calcite Snapper
+1 Hedron Rover
+1 Living Tsunami
+1 Territorial Baloth
+1 Baloth Woodcrasher
+1 Goliath Sphinx
+2 Treasure Hunt
+1 AEther Tradewinds
+1 Mysteries of the Deep
+1 Seer's Sundial
+2 Wind Zendikon
+1 Telepathy
+2 Paralyzing Grasp
+1 Vapor Snare
+8 Island
+8 Forest
+2 Halimar Depths
+
+Sideboard

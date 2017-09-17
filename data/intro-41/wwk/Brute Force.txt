@@ -1,0 +1,25 @@
+// NAME: Brute Force
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+1 Skitter of Lizards
+2 Gnarlid Pack
+1 Grappler Spider
+2 Borderland Ranger
+1 Greenweaver Druid
+1 Goblin Roughrider
+1 Leatherback Baloth
+1 Giant Spider
+1 Wolfbriar Elemental
+1 Deathforge Shaman
+1 Terastodon
+1 Act of Treason
+1 Overrun
+2 Giant Growth
+2 Lightning Bolt
+1 Canopy Cover
+2 Vastwood Zendikon
+1 Rumbling Aftershocks
+10 Forest
+7 Mountain
+1 Terramorphic Expanse
+
+Sideboard

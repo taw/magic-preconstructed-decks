@@ -1,0 +1,27 @@
+// NAME: Levelers Scorn
+// COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+1 Coral Merfolk
+1 Echo Mage
+1 Enatu Golem
+1 Hada Spy Patrol
+1 Phantasmal Abomination
+1 Phantom Warrior
+1 Sea Gate Oracle
+2 Skywatcher Adept
+1 Snapping Drake
+1 Sphinx of Magosi
+1 Venerated Teacher
+1 Wall of Bone
+1 Zombie Goliath
+1 See Beyond
+1 Doom Blade
+1 Fleeting Distraction
+2 Last Kiss
+1 Negate
+1 Unsummon
+1 Domestication
+1 Telepathy
+11 Island
+7 Swamp
+
+Sideboard

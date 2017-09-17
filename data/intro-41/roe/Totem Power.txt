@@ -1,0 +1,26 @@
+// NAME: Totem Power
+// COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+1 Cudgel Troll
+1 Daggerback Basilisk
+2 Elvish Visionary
+1 Gigantomancer
+1 Kor Spiritdancer
+1 Nema Siltlurker
+1 Ornithopter
+1 Pelakka Wurm
+1 Prized Unicorn
+1 Soul's Attendant
+2 Sporecap Spider
+1 Stomper Cub
+1 Angel's Mercy
+1 Harmless Assault
+1 Righteousness
+1 Boar Umbra
+1 Eland Umbra
+1 Mammoth Umbra
+2 Pacifism
+1 Spider Umbra
+9 Forest
+9 Plains
+
+Sideboard
