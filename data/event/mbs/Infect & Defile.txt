@@ -1,0 +1,28 @@
+// NAME: Infect & Defile
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/mirrodin-besieged-event-decks-deck-lists-2011-02-16
+4 Necropede
+4 Plague Myr
+4 Corpse Cur
+1 Hand of the Praetors
+2 Phyrexian Vatmother
+3 Preordain
+4 Foresee
+2 Consuming Vapors
+2 Mana Leak
+1 Doom Blade
+2 Smother
+2 Deprive
+2 Contagion Clasp
+4 Corrupted Conscience
+2 Drowned Catacomb
+4 Jwar Isle Refuge
+10 Island
+7 Swamp
+
+Sideboard
+1 Doom Blade
+2 Smother
+3 Deathmark
+3 Flashfreeze
+4 Negate
+2 Go for the Throat

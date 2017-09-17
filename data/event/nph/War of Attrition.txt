@@ -1,0 +1,29 @@
+// NAME: War of Attrition
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-event-decks-deck-lists-2011-05-19
+4 Elite Vanguard
+2 Kor Duelist
+2 Stoneforge Mystic
+4 Leonin Relic-Warder
+4 Leonin Skyhunter
+1 Puresteel Paladin
+4 Porcelain Legionnaire
+1 Kemba, Kha Regent
+1 Mirran Crusader
+1 Apostle's Blessing
+1 Darksteel Axe
+4 Flayer Husk
+1 Sickleslicer
+1 Sword of Vengeance
+1 Bonehoard
+1 Skinwing
+4 Journey to Nowhere
+2 Dread Statuary
+21 Plains
+
+Sideboard
+1 Kor Duelist
+1 Apostle's Blessing
+3 Celestial Purge
+4 Revoke Existence
+4 Kor Firewalker
+2 Arrest

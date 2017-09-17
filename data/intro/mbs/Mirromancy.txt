@@ -1,0 +1,30 @@
+// NAME: Mirromancy
+// COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+2 Iron Myr
+1 Silver Myr
+2 Blisterstick Shaman
+2 Koth's Courier
+2 Neurok Commando
+2 Peace Strider
+2 Ogre Resister
+1 Fire Servant
+1 Galvanoth
+2 Lumengrid Gargoyle
+1 Preordain
+2 Arc Trail
+2 Call to Mind
+2 Foresee
+1 Melt Terrain
+1 Sleep
+2 Lava Axe
+1 Red Sun's Zenith
+1 Crush
+1 Lightning Bolt
+1 Burn the Impure
+1 Turn the Tide
+1 Rally the Forces
+2 Quicksilver Geyser
+13 Mountain
+11 Island
+
+Sideboard

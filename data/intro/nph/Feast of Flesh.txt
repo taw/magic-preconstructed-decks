@@ -1,0 +1,30 @@
+// NAME: Feast of Flesh
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+2 Furnace Scamp
+2 Blistergrub
+2 Phyrexian Rager
+2 Blisterstick Shaman
+1 Prodigal Pyromancer
+2 Tormentor Exarch
+2 Entomber Exarch
+1 Scoria Elemental
+2 Caustic Hound
+2 Flameborn Viron
+1 Chancellor of the Dross
+1 Despise
+1 Disentomb
+1 Whipflare
+1 Morbid Plunder
+1 Ichor Explosion
+1 Go for the Throat
+1 Fling
+2 Geth's Verdict
+2 Artillerize
+2 Shrine of Burning Rage
+1 Tower of Calamities
+2 Parasitic Implant
+1 Enslave
+13 Swamp
+11 Mountain
+
+Sideboard

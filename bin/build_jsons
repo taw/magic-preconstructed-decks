@@ -31,29 +31,38 @@ class BuildJsons
     puts JSON.pretty_generate(@decks)
   end
 
+  def ensure_deck_size(path, deck, size, sideboard_size)
+    unless deck.size == size and deck.sideboard_size == sideboard_size
+      warn "#{path}: Expected #{size}+#{sideboard_size} cards, not #{deck.size}+#{deck.sideboard_size}"
+    end
+  end
+
   def validate_and_add_deck(path, deck)
     name = path.basename(".txt").to_s
     set_code = path.parent.basename.to_s
     deck_type = path.parent.parent.basename.to_s
     case deck_type
     when "pw"
-      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
+      ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planeswalker Deck")
     when "cmd"
-      warn "#{path}: Expected 99+1 cards, not #{deck.size}" unless deck.size == 99 and deck.sideboard_size == 1
+      ensure_deck_size(path, deck, 99, 1)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
     when "intro"
-      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
+      ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
     when "intro-41"
-      warn "#{path}: Expected 41 cards, not #{deck.size}" unless deck.size == 41 and deck.sideboard_size == 0
+      ensure_deck_size(path, deck, 41, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
     when "theme"
-      warn "#{path}: Expected 60 cards, not #{deck.size}" unless deck.size == 60 and deck.sideboard_size == 0
+      ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
     when "theme-40"
-      warn "#{path}: Expected 40 cards, not #{deck.size}" unless deck.size == 40 and deck.sideboard_size == 0
+      ensure_deck_size(path, deck, 40, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+    when "event"
+      ensure_deck_size(path, deck, 60, 15)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Event Deck")
     else
       raise
     end

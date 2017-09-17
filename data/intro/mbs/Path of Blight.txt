@@ -1,0 +1,28 @@
+// NAME: Path of Blight
+// COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+2 Plague Myr
+2 Blight Mamba
+2 Phyrexian Digester
+2 Rot Wolf
+2 Priests of Norn
+1 Viridian Corrupter
+1 Corpse Cur
+1 Core Prowler
+1 Blightwidow
+2 Tangle Angler
+2 Tine Shrike
+1 Phyrexian Hydra
+2 Phyrexian Juggernaut
+2 Hunters' Feast
+2 Unnatural Predation
+1 Mighty Leap
+1 Pistus Strike
+2 Choking Fumes
+1 Safe Passage
+2 Banishment Decree
+1 Decimator Web
+2 Trigon of Infestation
+14 Forest
+11 Plains
+
+Sideboard

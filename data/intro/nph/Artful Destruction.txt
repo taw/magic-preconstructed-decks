@@ -1,0 +1,29 @@
+// NAME: Artful Destruction
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+3 Copper Myr
+3 Gold Myr
+2 Suture Priest
+2 Palladium Myr
+1 Blade Splicer
+3 Master Splicer
+2 Vital Splicer
+1 Golem Artisan
+1 Precursor Golem
+1 Stone Golem
+2 Sensor Splicer
+1 Garruk's Packleader
+1 Phyrexian Hulk
+1 Brutalizer Exarch
+1 Maul Splicer
+2 Cultivate
+1 Giant Growth
+1 Mighty Leap
+1 Glissa's Scorn
+2 War Report
+1 Conversion Chamber
+1 Viridian Harvest
+2 Forced Worship
+12 Plains
+12 Forest
+
+Sideboard

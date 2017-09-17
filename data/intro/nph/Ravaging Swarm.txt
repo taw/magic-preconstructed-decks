@@ -1,0 +1,30 @@
+// NAME: Ravaging Swarm
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+3 Glistener Elf
+1 Wall of Tanglecord
+1 Blight Mamba
+3 Blighted Agent
+2 Cystbearer
+2 Mycosynth Fiend
+1 Rot Wolf
+2 Viridian Betrayers
+1 Core Prowler
+2 Viral Drake
+1 Plaguemaw Beast
+2 Chained Throatseeker
+1 Phyrexian Swarmlord
+1 Spinebiter
+3 Leeching Bite
+1 Naturalize
+1 Corrupted Resolve
+1 Steady Progress
+1 Fuel for the Cause
+1 Contagion Clasp
+2 Trigon of Infestation
+1 Defensive Stance
+1 Corrupted Conscience
+1 Inexorable Tide
+12 Forest
+12 Island
+
+Sideboard

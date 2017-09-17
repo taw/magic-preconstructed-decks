@@ -1,0 +1,27 @@
+// NAME: Rot from Within
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-event-decks-deck-lists-2011-05-19
+4 Glistener Elf
+2 Ichorclaw Myr
+1 Blight Mamba
+4 Overgrown Battlement
+3 Rot Wolf
+3 Viridian Corrupter
+2 Putrefax
+1 Green Sun's Zenith
+4 Groundswell
+4 Primal Bellow
+4 Mutagenic Growth
+4 Carrion Call
+1 Contagion Clasp
+1 Inkmoth Nexus
+22 Forest
+
+Sideboard
+1 Viridian Corrupter
+3 Contagion Clasp
+2 Unnatural Predation
+2 Vines of Vastwood
+1 Melira, Sylvok Outcast
+1 Pistus Strike
+3 Trigon of Infestation
+2 Obstinate Baloth

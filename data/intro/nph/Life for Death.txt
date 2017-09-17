@@ -1,0 +1,30 @@
+// NAME: Life for Death
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+2 Immolating Souleater
+1 Cathedral Membrane
+1 Inquisitor Exarch
+2 Blinding Souleater
+3 Porcelain Legionnaire
+2 Kemba's Skyguard
+1 Ogre Resister
+3 Slash Panther
+1 Shattered Angel
+1 Lumengrid Gargoyle
+1 Moltensteel Dragon
+1 Solemn Offering
+1 Phyrexian Rebirth
+1 Incite
+1 Lightning Bolt
+1 Gut Shot
+1 Marrow Shards
+2 Whitesun's Passage
+1 Apostle's Blessing
+2 Act of Aggression
+2 Golem's Heart
+1 Pristine Talisman
+2 Rage Extractor
+2 Pacifism
+11 Mountain
+13 Plains
+
+Sideboard

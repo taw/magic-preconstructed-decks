@@ -1,0 +1,28 @@
+// NAME: Devouring Skies
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+3 Hovermyr
+1 Silver Myr
+2 Augury Owl
+2 Brass Squire
+1 Kiln Walker
+1 Necrogen Scudder
+1 Neurok Invisimancer
+2 Blind Zealot
+2 Mortis Dogs
+1 Darkslick Drake
+2 Impaler Shrike
+2 Spire Monitor
+2 Dementia Bat
+1 Phyrexian Ingester
+2 Vapor Snag
+1 Doom Blade
+2 Copper Carapace
+2 Viridian Claw
+2 Sickleslicer
+2 Warlord's Axe
+1 Argentum Armor
+1 Necropouncer
+13 Island
+11 Swamp
+
+Sideboard

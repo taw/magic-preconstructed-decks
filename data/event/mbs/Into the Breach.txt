@@ -1,0 +1,26 @@
+// NAME: Into the Breach
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/mirrodin-besieged-event-decks-deck-lists-2011-02-16
+4 Memnite
+4 Ornithopter
+4 Signal Pest
+2 Goblin Bushwhacker
+2 Goblin Guide
+1 Spikeshot Elder
+1 Iron Myr
+4 Goblin Wardriver
+4 Kuldotha Rebirth
+2 Devastating Summons
+2 Galvanic Blast
+4 Lightning Bolt
+2 Darksteel Axe
+2 Panic Spellbomb
+1 Contested War Zone
+21 Mountain
+
+Sideboard
+2 Unstable Footing
+4 Searing Blaze
+2 Act of Treason
+4 Goblin Ruinblaster
+2 Into the Core
+1 Leyline of Punishment

@@ -1,0 +1,31 @@
+// NAME: Doom Inevitable
+// COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+2 Fume Spitter
+2 Myr Sire
+3 Oculus
+1 Vedalken Anatomist
+1 Barony Vampire
+2 Phyrexian Rager
+2 Pierce Strider
+1 Skinrender
+1 Psychosis Crawler
+1 Armored Cancrix
+1 Caustic Hound
+1 Disentomb
+1 Horrifying Revelation
+2 Vivisection
+1 Spread the Sickness
+1 Steel Sabotage
+1 Doom Blade
+1 Steady Progress
+1 Flayer Husk
+2 Contagion Clasp
+1 Bonehoard
+2 Skinwing
+2 Trigon of Corruption
+1 Strandwalker
+1 Mind Control
+13 Island
+12 Swamp
+
+Sideboard
