@@ -1,0 +1,44 @@
+// NAME: Black / Red
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=anthologies&decknum=2&lang=en
+1 Goblin Balloon Brigade
+1 Goblin Digging Team
+1 Goblin Hero
+1 Goblin King
+1 Goblin Matron
+1 Goblin Mutant
+1 Goblin Recruiter
+1 Goblin Snowman
+1 Goblin Tinkerer
+1 Goblin Vandal
+1 Mogg Fanatic
+1 Mogg Flunkies
+1 Mogg Raider
+1 Raging Goblin
+1 Uthden Troll
+1 Volcanic Dragon
+1 Black Knight
+1 Cuombajj Witches
+1 Hypnotic Spectre
+1 Ihsan's Shade
+1 Knight of Stromgald
+1 Lady Orca
+1 Aesthir Glider
+1 Fireball
+1 Goblin Grenade
+1 Goblin Offensive
+1 Goblin Warrens
+1 Lightning Bolt
+1 Pyrokinesis
+1 Pyrotechnics
+1 Feast of the Unicorn
+1 Hymn to Tourach
+1 Terror
+1 Unholy Strength
+1 Nevinyrral's Disk
+12 Mountain
+10 Swamp
+1 Strip Mine
+1 Smoldering Crater
+1 Polluted Mine
+
+Sideboard

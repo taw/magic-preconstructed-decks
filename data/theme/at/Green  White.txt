@@ -1,0 +1,45 @@
+// NAME: Green / White
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=anthologies&decknum=1&lang=en
+1 Armored Pegasus
+1 Benalish Knight
+1 Combat Medic
+1 Freewind Falcon
+1 Icatian Javelineers
+1 Infantry Veteran
+1 Order of the White Shield
+1 Pegasus Charger
+1 Samite Healer
+1 Serra Angel
+1 White Knight
+1 Youthful Knight
+1 Canopy Spider
+1 Carnivorous Plant
+1 Erhnam Djinn
+1 Giant Spider
+1 Gorilla Chieftan
+1 Llanowar Elves
+1 Mirri, Cat Warrior
+1 Scavenger Folk
+1 Spectral Bears
+1 Woolly Spider
+1 Ranger en-Vec
+1 Armageddon
+1 Disenchant
+1 Pacifism
+1 Pegasus Stampede
+1 Sacred Mesa
+1 Swords to Plowshares
+1 Warrior's Honor
+1 Overrun
+1 Giant Growth
+1 Hurricane
+1 Jalum Tome
+1 Serrated Arrows
+11 Plains
+10 Forest
+1 Brushland
+1 Drifting Meadows
+1 Pendelhaven
+1 Slippery Karst
+
+Sideboard
