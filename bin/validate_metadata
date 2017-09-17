@@ -29,7 +29,7 @@ class ValidateMetadata
       if urls_from_file.empty?
         warn "#{path}: no source urls included"
       end
-      if title_from_file != title_from_path
+      if title_from_file.tr("/", "-") != title_from_path
         warn "#{path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
       end
       if title_from_file == title_from_file.upcase

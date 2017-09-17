@@ -1,0 +1,37 @@
+#!/usr/bin/env ruby
+
+require "fileutils"
+require "pathname-glob"
+
+class MakeFileNamesMatchMetadata
+  def data_root
+    @data_root ||= Pathname(__dir__) + "../data"
+  end
+
+  def deck_files
+    data_root.glob("*/*/*.txt")
+  end
+
+  def call
+    deck_files.each do |path|
+      title = nil
+      path.readlines.each do |line|
+        if line =~ %r[\A// NAME: (.*)]
+          warn "#{path}: Multiple titles in file" if title
+          title = $1
+        end
+      end
+
+      target_path = path.dirname + "#{title.tr("/", "-")}.txt"
+
+      if path != target_path
+        # Silliness to deal with case insensitive filesystems
+        # and FIleUtils having no idea how to deal with that
+        FileUtils.mv path, "tmp"
+        FileUtils.mv "tmp", target_path
+      end
+    end
+  end
+end
+
+MakeFileNamesMatchMetadata.new.call
