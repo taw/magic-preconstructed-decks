@@ -1,0 +1,31 @@
+// NAME: Premium Deck Series: Graveborn
+// COMMENTS: https://magic.wizards.com/en/articles/archive/premium-deck-series-graveborn-2011-11-14-0
+2 Putrid Imp
+2 Hidden Horror
+1 Faceless Butcher
+1 Twisted Abomination
+1 Crosis, the Purger
+1 Avatar of Woe
+1 Terastodon
+1 Verdant Force
+1 Sphinx of the Steel Wind
+1 Inkwell Leviathan
+1 Blazing Archon
+1 Cabal Therapy
+3 Duress
+1 Reanimate
+3 Exhume
+2 Sickening Dreams
+2 Buried Alive
+2 Last Rites
+2 Dread Return
+1 Entomb
+3 Animate Dead
+1 Zombie Infestation
+2 Diabolic Servitude
+1 Crystal Vein
+1 Ebon Stronghold
+1 Polluted Mire
+21 Swamp
+
+Sideboard
