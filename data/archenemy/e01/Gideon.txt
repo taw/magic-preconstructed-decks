@@ -1,0 +1,30 @@
+// NAME: Gideon
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+1 Gideon Jura
+1 Lightwielder Paladin
+1 Grand Abolisher
+1 Aegis Angel
+2 Relief Captain
+1 Odric, Master Tactician
+1 Fiendslayer Paladin
+1 Mentor of the Meek
+1 Precinct Captain
+2 Gideon's Lawkeeper
+2 Those Who Serve
+1 Doomed Traveler
+2 Vizier of Deferment
+1 Sun Titan
+2 Anointer of Champions
+1 Sparring Mummy
+2 Expedition Raptor
+1 Youthful Knight
+1 Flickerwisp
+2 Aerial Responder
+1 Fencing Ace
+2 Excoriate
+2 Shoulder to Shoulder
+2 Moment of Heroism
+1 Grasp of the Hieromancer
+25 Plains
+
+Sideboard

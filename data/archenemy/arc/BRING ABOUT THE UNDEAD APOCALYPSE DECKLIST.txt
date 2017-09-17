@@ -1,0 +1,54 @@
+// NAME: BRING ABOUT THE UNDEAD APOCALYPSE DECKLIST
+// COMMENTS: https://magic.wizards.com/en/archenemy
+1 Artisan of Kozilek
+1 Avatar of Discord
+1 Avatar of Woe
+1 Bog Witch
+1 Cemetery Reaper
+1 Corpse Connoisseur
+1 Dregscape Zombie
+1 Extractor Demon
+1 Festering Goblin
+2 Infectious Horror
+1 Kaervek the Merciless
+1 Rakdos Guildmage
+1 Reassembling Skeleton
+1 Scion of Darkness
+1 Shriekmaw
+2 Twisted Abomination
+1 Urborg Syphon-Mage
+1 Vampiric Dragon
+1 Beacon of Unrest
+1 Incremental Blight
+1 Infest
+1 Reanimate
+2 Sign in Blood
+1 Torrent of Souls
+1 Zombify
+1 Bituminous Blast
+1 Inferno Trap
+1 Makeshift Mannequin
+2 Terminate
+2 Rakdos Signet
+1 Zombie Infestation
+2 Barren Moor
+7 Mountain
+2 Rakdos Carnarium
+13 Swamp
+
+Sideboard
+2 Choose Your Champion
+1 Dance, Pathetic Marionette
+2 The Dead Shall Serve
+1 A Display of My Dark Power
+2 Every Hope Shall Vanish
+1 I Delight in Your Convulsions
+1 Introductions Are in Order
+1 Mortal Flesh Is Weak
+2 Only Blood Ends Your Nightmares
+1 Realms Befitting My Majesty
+2 Rotted Ones, Lay Siege
+1 Surrender Your Thoughts
+1 Your Fate Is Thrice Sealed
+1 Your Puny Minds Cannot Fathom
+1 My Undead Horde Awakens

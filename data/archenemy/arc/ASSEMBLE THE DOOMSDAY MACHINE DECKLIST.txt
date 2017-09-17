@@ -1,0 +1,56 @@
+// NAME: ASSEMBLE THE DOOMSDAY MACHINE DECKLIST
+// COMMENTS: https://magic.wizards.com/en/archenemy
+1 Architects of Will
+1 Duplicant
+1 Ethersworn Shieldmage
+1 Juggernaut
+1 Leonin Abunas
+1 Lodestone Golem
+1 Magister Sphinx
+1 Master Transmuter
+1 Memnarch
+1 Metallurgeon
+2 Sanctum Gargoyle
+1 Sundering Titan
+1 Synod Centurion
+2 Agony Warp
+1 Batwing Brume
+1 Spin into Myth
+1 Unmake
+2 AEther Spellbomb
+1 Azorius Signet
+1 Dimir Signet
+1 Dreamstone Hedron
+1 Everflowing Chalice
+1 Fieldmist Borderpost
+1 Lightning Greaves
+1 Mistvein Borderpost
+1 Obelisk of Esper
+1 Skullcage
+1 Sorcerer's Strongbox
+1 Sun Droplet
+1 Synod Sanctum
+1 Thunderstaff
+1 Unbender Tine
+1 March of the Machines
+10 Island
+7 Plains
+5 Swamp
+2 Terramorphic Expanse
+
+Sideboard
+1 All in Good Time
+1 Behold the Power of Destruction
+1 Embrace My Diabolical Vision
+2 Feed the Machine
+1 I Delight in Your Convulsions
+2 Ignite the Cloneforge!
+1 Introductions Are in Order
+2 The Iron Guardian Stirs
+1 My Genius Knows No Bounds
+1 Realms Befitting My Majesty
+2 The Pieces Are Coming Together
+1 Your Fate Is Thrice Sealed
+1 Your Puny Minds Cannot Fathom
+2 I Know All, I See All
+1 Nothing Can Stop Me Now

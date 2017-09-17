@@ -1,0 +1,51 @@
+// NAME: SCORCH THE WORLD WITH DRAGONFIRE DECKLIST
+// COMMENTS: https://magic.wizards.com/en/archenemy
+1 Battering Craghorn
+1 Chameleon Colossus
+2 Dragonspeaker Shaman
+2 Dragon Whelp
+1 Fierce Empath
+1 Flameblast Dragon
+2 Furnace Whelp
+1 Gathan Raiders
+1 Hellkite Charger
+1 Imperial Hellkite
+1 Kilnmouth Dragon
+1 Ryusei, the Falling Star
+1 Skirk Commando
+1 Skirk Marauder
+1 Taurean Mauler
+1 Two-Headed Dragon
+1 Breath of Darigaaz
+2 Dragon Fodder
+1 Fireball
+1 Savage Twister
+2 Branching Bolt
+1 Chandra's Outrage
+1 Colossal Might
+2 Seething Song
+1 Volcanic Fallout
+2 Gruul Signet
+1 Thran Dynamo
+1 Dragon Breath
+1 Fires of Yavimaya
+17 Mountain
+5 Forest
+2 Kazandu Refuge
+
+Sideboard
+2 All Shall Smolder in My Wake
+1 Approach My Molten Realm
+1 I Delight in Your Convulsions
+1 Introductions Are in Order
+1 Know Naught but Fire
+2 Look Skyward and Despair
+1 My Crushing Masterstroke
+2 My Wish Is Your Command
+1 Realms Befitting My Majesty
+1 The Fate of the Flammable
+1 Tooth, Claw, and Tail
+2 Which of You Burns Brightest?
+1 Your Fate Is Thrice Sealed
+1 Your Puny Minds Cannot Fathom
+2 I Bask in Your Silent Awe

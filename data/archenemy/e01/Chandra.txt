@@ -1,0 +1,30 @@
+// NAME: Chandra
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+1 Chandra, Pyromaster
+1 Avatar of Fury
+1 Inferno Titan
+1 Obsidian Fireheart
+1 Chandra's Phoenix
+1 Skarrgan Firebird
+2 Stormblood Berserker
+3 Blood Ogre
+1 Guttersnipe
+2 Pathmaker Initiate
+1 Torchling
+1 Battle-Rattle Shaman
+1 Grim Lavamancer
+2 Gorehorn Minotaurs
+1 Dualcaster Mage
+2 Tormenting Voice
+1 Limits of Solidarity
+2 Chandra's Outrage
+1 Coordinated Assault
+1 Brute Strength
+2 Volcanic Geyser
+2 Fiery Fall
+2 Searing Spear
+2 Hammerhand
+23 Mountain
+2 Smoldering Spires
+
+Sideboard

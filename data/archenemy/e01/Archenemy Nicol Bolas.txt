@@ -1,0 +1,60 @@
+// NAME: Archenemy Nicol Bolas
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+1 Nicol Bolas, Planeswalker
+1 Blood Tyrant
+1 Deathbringer Regent
+1 Sphinx of Jwar Isle
+2 Flametongue Kavu
+1 Archfiend of Depravity
+2 Nightscape Familiar
+1 Prognostic Sphinx
+1 Icefall Regent
+2 Vampire Nighthawk
+2 Bone Picker
+1 Harvester of Souls
+1 Overseer of the Damned
+1 Baleful Strix
+1 Cruel Ultimatum
+1 Extract from Darkness
+1 Slave of Bolas
+1 Sudden Demise
+1 Dreadbore
+2 Reckless Spite
+2 Doom Blade
+2 Lightning Bolt
+2 Obelisk of Grixis
+1 Talisman of Indulgence
+1 Talisman of Dominance
+1 Soul Ransom
+4 Crumbling Necropolis
+2 Highland Lake
+3 Mountain
+7 Swamp
+5 Island
+1 Submerged Boneyard
+1 Drowned Catacomb
+1 Cinder Barrens
+1 Dragonskull Summit
+1 Grixis Panorama
+
+Sideboard
+1 A Reckoning Approaches
+1 Because I Have Willed It
+1 Behold My Grandeur
+1 Bow to My Command
+1 Choose Your Demise
+1 Delight in the Hunt
+1 Every Dream a Nightmare
+1 For Each of You, a Gift
+1 Know Evil
+1 Make Yourself Useful
+1 My Forces Are Innumerable
+1 My Laughter Echoes
+1 No One Will Hear Your Cries
+1 Pay Tribute to Me
+1 Power Without Equal
+1 The Mighty Will Fall
+1 There Is No Refuge
+1 This World Belongs to Me
+1 What's Yours Is Now Mine
+1 When Will You Learn?

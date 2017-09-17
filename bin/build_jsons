@@ -65,6 +65,11 @@ class BuildJsons
     when "dotp"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Duel Of The Planeswalkers Deck")
+    when "archenemy"
+      unless deck.size == 60 and [0,20].include?(deck.sideboard_size)
+        warn "#{path}: Expected 60+0/20 cards, not #{deck.size}+#{deck.sideboard_size}"
+      end
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Archenemy Deck")
     else
       raise
     end

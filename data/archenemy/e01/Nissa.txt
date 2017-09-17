@@ -1,0 +1,35 @@
+// NAME: Nissa
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+1 Nissa, Worldwaker
+1 Scaled Behemoth
+2 Windrider Eel
+1 Reckless Scholar
+1 Forgotten Ancient
+1 Scute Mob
+2 Fertilid
+1 Initiate's Companion
+1 Woodborn Behemoth
+2 Turntimber Basilisk
+1 Greater Sandwurm
+1 Oran-Rief Hydra
+1 Rampaging Baloths
+1 Thragtusk
+2 Compulsive Research
+2 Explore
+1 Cultivate
+1 Hunter's Prowess
+2 Vision Skeins
+1 Vines of the Recluse
+2 Sylvan Bounty
+1 Press the Advantage
+1 Sword of the Animist
+1 Ior Ruin Expedition
+1 Vastwood Zendikon
+1 Sixth Sense
+2 Khalni Heart Expedition
+1 Retreat to Kazandu
+7 Island
+4 Woodland Stream
+13 Forest
+
+Sideboard
