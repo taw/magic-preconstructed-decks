@@ -1,5 +1,5 @@
 // NAME: Barrage
-// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
 11 Mountain
 12 Forest
 2 Alpha Kavu

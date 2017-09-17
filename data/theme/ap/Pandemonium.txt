@@ -1,5 +1,5 @@
 // NAME: Pandemonium
-// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Apocalypse/Theme_decks
 12 Forest
 3 Island
 2 Mountain

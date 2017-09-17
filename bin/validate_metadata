@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+require "pathname-glob"
+
+class ValidateMetadata
+  def data_root
+    @data_root ||= Pathname(__dir__) + "../data"
+  end
+
+  def deck_files
+    data_root.glob("*/*/*.txt")
+  end
+
+  def call
+    deck_files.each do |path|
+      title_from_path = path.basename(".txt").to_s
+      title_from_file = nil
+      urls_from_file = []
+      comment_lines = path.readlines.map(&:chomp).grep(%r[\A//])
+      comment_lines.each do |line|
+        if line =~ %r[\A// NAME: (.*)]
+          warn "#{path}: Multiple titles in file" if title_from_file
+          title_from_file = $1
+        elsif line =~ %r[\A// COMMENTS: (http.*)]
+          urls_from_file << $1
+        end
+      end
+
+      if urls_from_file.empty?
+        warn "#{path}: no source urls included"
+      end
+      if title_from_file != title_from_path
+        warn "#{path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
+      end
+    end
+  end
+end
+
+ValidateMetadata.new.call

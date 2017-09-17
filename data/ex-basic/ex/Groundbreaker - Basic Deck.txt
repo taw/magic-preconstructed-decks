@@ -1,6 +1,6 @@
 // NAME: Groundbreaker - Basic Deck
-// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
-// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+// COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
 12 Mountain
 12 Swamp
 3 Anarchist

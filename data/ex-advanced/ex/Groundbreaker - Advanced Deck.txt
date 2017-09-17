@@ -1,6 +1,6 @@
 // NAME: Groundbreaker - Advanced Deck
-// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
-// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+// COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
 1 City of Brass
 1 Forest
 2 Karplusan Forest

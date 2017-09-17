@@ -1,5 +1,5 @@
 // NAME: Burial
-// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Apocalypse/Theme_decks
 3 Elfhame Palace
 5 Forest
 3 Plains

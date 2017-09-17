@@ -1,5 +1,5 @@
 // NAME: Zakk's Second Deck
-// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+// COMMENTS: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 4 Forest
 4 Plains
 4 Swamp

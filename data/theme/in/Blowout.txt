@@ -1,5 +1,5 @@
 // NAME: Blowout
-// COMMENT: https://mtg.gamepedia.com/Invasion/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Invasion/Theme_decks
 10 Mountain
 12 Swamp
 2 Urborg Volcano

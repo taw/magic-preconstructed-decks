@@ -1,6 +1,6 @@
-// NAME: Windowmaker - Basic Deck
-// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
-// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+// NAME: Widowmaker - Basic Deck
+// COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
 14 Island
 11 Swamp
 3 Manta Riders

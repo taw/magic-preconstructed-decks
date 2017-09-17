@@ -1,5 +1,5 @@
 // NAME: Heavy Duty
-// COMMENT: https://mtg.gamepedia.com/Invasion/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Invasion/Theme_decks
 2 Elfhame Palace
 11 Forest
 11 Plains

@@ -1,5 +1,5 @@
 // NAME: Comeback
-// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
 1 Ancient Spring
 1 Coastal Tower
 2 Dromar's Cavern
