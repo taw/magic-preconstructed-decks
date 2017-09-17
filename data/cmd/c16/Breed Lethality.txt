@@ -1,0 +1,87 @@
+// NAME: Breed Lethality
+// COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
+1 Thrummingbird
+1 Festercreep
+1 Scavenging Ooze
+1 Abzan Falconer
+1 Orzhov Advokist
+1 Tuskguard Captain
+1 Necroplasm
+1 Champion of Lambholt
+1 Reyhan, Last of the Abzan
+1 Vorel of the Hull Clade
+1 Crystalline Crawler
+1 Custodi Soulbinders
+1 Forgotten Ancient
+1 Bane of the Living
+1 Ishai, Ojutai Dragonspeaker
+1 Corpsejack Menace
+1 Fathom Mage
+1 Master Biomancer
+1 Elite Scaleguard
+1 Reveillark
+1 Deepglow Skate
+1 Kalonian Hydra
+1 Ikra Shidiqi, the Usurper
+1 Vulturous Zombie
+1 Juniper Order Ranger
+1 Ghave, Guru of Spores
+1 Enduring Scalelord
+1 Manifold Insights
+1 Languish
+1 Tezzeret's Gambit
+1 Migratory Route
+1 Merciless Eviction
+1 Spitting Image
+1 Sublime Exhalation
+1 Duneblast
+1 Treasure Cruise
+1 Disdainful Stroke
+1 Solidarity of Heroes
+1 Grip of Phyresis
+1 Inspiring Call
+1 Mortify
+1 Putrefy
+1 Ancient Excavation
+1 Mirrorweave
+1 Sylvan Reclamation
+1 Sol Ring
+1 Fellwar Stone
+1 Golgari Signet
+1 Orzhov Signet
+1 Simic Signet
+1 Commander's Sphere
+1 Darksteel Ingot
+1 Cauldron of Souls
+1 Astral Cornucopia
+1 Hardened Scales
+1 Brave the Sands
+1 Duelist's Heritage
+1 Bred for the Hunt
+1 Citadel Siege
+1 Cathars' Crusade
+1 Arcane Sanctum
+1 Ash Barrens
+1 Azorius Chancery
+1 Command Tower
+1 Darkwater Catacombs
+1 Dreadship Reef
+1 Evolving Wilds
+1 Exotic Orchard
+1 Golgari Rot Farm
+1 Murmuring Bosk
+1 Opal Palace
+1 Opulent Palace
+1 Sandsteppe Citadel
+1 Seaside Citadel
+1 Sungrass Prairie
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Underground River
+5 Plains
+4 Island
+5 Swamp
+7 Forest
+
+Sideboard
+1 Atraxa, Praetors' Voice
