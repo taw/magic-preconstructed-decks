@@ -1,0 +1,46 @@
+// NAME: Zombie Empire
+// COMMENTS: https://magic.wizards.com/en/articles/archive/zombie-empire-2009-08-27
+2 Festering Goblin
+1 Dregscape Zombie
+1 Rotting Rats
+1 Shepherd of Rot
+1 Withered Wretch
+2 Cadaverous Knight
+2 Phyrexian Ghoul
+1 Death Baron
+1 Gravedigger
+1 Soulless One
+2 Undead Warchief
+1 Corpse Harvester
+1 Noxious Ghoul
+1 Ascendant Evincar
+1 Nefashu
+1 Helldozer
+1 Innocent Blood
+1 Syphon Soul
+1 Beseech the Queen
+1 Syphon Mind
+1 Beacon of Unrest
+1 Incremental Blight
+1 Consume Spirit
+1 Profane Command
+2 Dark Ritual
+1 Hideous End
+1 Cruel Revival
+1 Phyrexian Arena
+1 Grave Pact
+23 Swamp
+1 Cabal Coffers
+2 Leechridden Swamp
+
+Sideboard
+1 The Æther Flues
+1 Cliffside Market
+1 The Dark Barony
+1 Fields of Summer
+1 The Fourth Sphere
+1 Grixis
+1 Lethe Lake
+1 Pools of Becoming
+1 Raven's Run
+1 Sea of Sand

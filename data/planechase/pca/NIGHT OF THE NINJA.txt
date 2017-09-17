@@ -1,0 +1,50 @@
+// NAME: NIGHT OF THE NINJA
+// COMMENTS: https://magic.wizards.com/en/content/night-ninja-planechase-2012-edition-card-set-archive
+// COMMENTS: Box contains 86 plane cards, not linked with any specific deck
+2 Augury Owl
+2 Baleful Strix
+1 Cadaver Imp
+1 Dark Hatchling
+2 Dimir Infiltrator
+1 Glen Elendra Liege
+1 Higure, the Still Wind
+1 Ink-Eyes, Servant of Oni
+1 Inkfathom Witch
+1 Liliana's Specter
+1 Mistblade Shinobi
+2 Ninja of the Deep Hours
+1 Okiba-Gang Shinobi
+1 Sakashima's Student
+1 Silent-Blade Oni
+1 Skullsnatcher
+1 Throat Slitter
+2 Tormented Soul
+1 Vela the Night-Clad
+1 Walker of Secret Ways
+1 Wall of Frost
+2 Assassinate
+1 Concentrate
+1 Cancel
+1 Farsight Mask
+1 Fractured Powerstone
+1 Quietus Spike
+2 Sai of the Shinobi
+1 Whispersilk Cloak
+2 Dimir Aqueduct
+9 Island
+2 Jwar Isle Refuge
+9 Swamp
+1 Tainted Isle
+1 Terramorphic Expanse
+
+Sideboard
+1 Bloodhill Bastion
+1 Gavony
+1 Glen Elendra
+1 Kharasha Foothills
+1 Norn's Dominion
+1 Quicksilver Sea
+1 Takenuma
+1 The Zephyr Maze
+1 Interplanar Tunnel
+1 Morphic Tide

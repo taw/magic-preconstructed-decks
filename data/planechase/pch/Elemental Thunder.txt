@@ -1,0 +1,52 @@
+// NAME: Elemental Thunder
+// COMMENTS: https://magic.wizards.com/en/articles/archive/elemental-thunder-2009-08-18
+2 Flamekin Harbinger
+2 Smokebraider
+1 Bogardan Firefiend
+2 Rockslide Elemental
+1 Taurean Mauler
+1 Fertilid
+1 Cinder Elemental
+1 Briarhorn
+1 Forgotten Ancient
+1 Rumbling Slum
+1 Silverglade Elemental
+1 Bogardan Rager
+1 Tornado Elemental
+1 Living Hive
+1 Verdant Force
+1 Ivy Elemental
+1 Rampant Growth
+1 Hull Breach
+1 Browbeat
+1 Search for Tomorrow
+1 Beast Hunt
+1 Explosive Vegetation
+1 Relentless Assault
+1 Pyrotechnics
+1 Blaze
+1 Savage Twister
+1 Branching Bolt
+1 Tribal Unity
+1 Mask of Memory
+1 Mage Slayer
+1 Fertile Ground
+1 Fires of Yavimaya
+9 Mountain
+9 Forest
+2 Gruul Turf
+2 Shivan Oasis
+2 Terramorphic Expanse
+1 Assault // Battery
+
+Sideboard
+1 Eloren Wilds
+1 Feeding Grounds
+1 The Great Forest
+1 Immersturm
+1 Isle of Vesuva
+1 Llanowar
+1 Murasa
+1 Naya
+1 Turri Island
+1 Velis Vel

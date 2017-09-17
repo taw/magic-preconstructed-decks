@@ -1,0 +1,57 @@
+// NAME: Metallic Dreams
+// COMMENTS: https://magic.wizards.com/en/articles/archive/metallic-dreams-2009-08-20
+1 Arcbound Slith
+1 Copper Myr
+1 Gold Myr
+1 Iron Myr
+1 Leaden Myr
+1 Silver Myr
+1 Vedalken Engineer
+1 Suntouched Myr
+1 Wizard Replica
+1 Master of Etherium
+1 Sarcomite Myr
+1 Arcbound Crusher
+2 Etched Oracle
+1 Lodestone Myr
+1 Arsenal Thresher
+1 Sludge Strider
+2 Myr Enforcer
+1 Pentavus
+1 Bosh, Iron Golem
+1 Qumulox
+1 Broodstar
+1 Fabricate
+1 Keep Watch
+1 Thirst for Knowledge
+1 Whiplash Trap
+1 Cranial Plating
+2 Pentad Prism
+1 Loxodon Warhammer
+1 Nuisance Engine
+1 Serum Tank
+2 Skeleton Shard
+1 Door to Nothingness
+1 Darksteel Forge
+1 Ancient Den
+1 Great Furnace
+2 Seat of the Synod
+1 Tree of Tales
+1 Vault of Whispers
+3 Plains
+8 Island
+3 Swamp
+2 Mountain
+1 Forest
+
+Sideboard
+1 Bant
+1 The Eon Fog
+1 Goldmeadow
+1 The Hippodrome
+1 Krosa
+1 The Maelstrom
+1 Minamo
+1 Panopticon
+1 Sanctum of Serra
+1 Undercity Reaches

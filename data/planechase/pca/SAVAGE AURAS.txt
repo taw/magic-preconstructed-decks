@@ -1,0 +1,52 @@
+// NAME: SAVAGE AURAS
+// COMMENTS: https://magic.wizards.com/en/content/savage-auras-planechase-2012-edition-card-set-archive
+// COMMENTS: Box contains 86 plane cards, not linked with any specific deck
+2 Armored Griffin
+2 Aura Gnarlid
+1 Auramancer
+1 Auratouched Mage
+1 Bramble Elemental
+1 Celestial Ancient
+1 Dowsing Shaman
+2 Dreampod Druid
+1 Elderwood Scion
+1 Kor Spiritdancer
+1 Krond the Dawn-Clad
+2 Lumberknot
+1 Silhana Ledgewalker
+1 Thran Golem
+1 Three Dreams
+1 Fractured Powerstone
+2 Boar Umbra
+1 Cage of Hands
+2 Felidar Umbra
+1 Ghostly Prison
+1 Hyena Umbra
+1 Indrik Umbra
+1 Mammoth Umbra
+1 Pollenbright Wings
+1 Predatory Urge
+1 Quiet Disrepair
+1 Rancor
+1 Sigil of the Empty Throne
+1 Snake Umbra
+1 Spirit Mantle
+9 Forest
+2 Graypelt Refuge
+1 Krosan Verge
+8 Plains
+2 Selesnya Sanctuary
+1 Terramorphic Expanse
+1 Vitu-Ghazi, the City-Tree
+
+Sideboard
+1 Akoum
+1 Aretopolis
+1 Astral Arena
+1 Edge of Malacol
+1 Grove of the Dreampods
+1 Kessig
+1 Onakke Catacomb
+1 Talon Gates
+1 Chaotic AEther
+1 Planewide Disaster

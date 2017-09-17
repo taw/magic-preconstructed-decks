@@ -1,0 +1,54 @@
+// NAME: CHAOS REIGNS
+// COMMENTS: https://magic.wizards.com/en/content/chaos-reigns-planechase-2012-edition-card-set-archive
+2 Bloodbraid Elf
+1 Brutalizer Exarch
+1 Enigma Sphinx
+1 Enlisted Wurm
+1 Etherium-Horn Sorcerer
+1 Fusion Elemental
+1 Guard Gomazoa
+2 Illusory Angel
+1 Kathari Remnant
+1 Maelstrom Wanderer
+1 Noggle Ransacker
+1 Ondu Giant
+1 Peregrine Drake
+1 Primal Plasma
+2 Shardless Agent
+1 Whirlpool Warrior
+1 Arc Trail
+1 Cultivate
+1 Deny Reality
+1 Erratic Explosion
+1 Last Stand
+1 Mass Mutiny
+1 Rivals' Duel
+2 See Beyond
+1 Beast Within
+1 Bituminous Blast
+2 Fiery Fall
+2 Armillary Sphere
+1 Fractured Powerstone
+1 Sunken Hope
+1 Exotic Orchard
+4 Forest
+5 Island
+4 Mountain
+2 Plains
+2 Rupture Spire
+2 Shimmering Grotto
+2 Swamp
+1 Terramorphic Expanse
+1 Vivid Creek
+
+Sideboard
+1 Grand Ossuary
+1 Hedron Fields of Agadeem
+1 Mount Keralia
+1 Nephalia
+1 Orzhova
+1 Trail of the Mage-Rings
+1 Truga Jungle
+1 Windriddle Palaces
+1 Mutual Epiphany
+1 Time Distortion

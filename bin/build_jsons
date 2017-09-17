@@ -70,6 +70,9 @@ class BuildJsons
         warn "#{path}: Expected 60+0/20 cards, not #{deck.size}+#{deck.sideboard_size}"
       end
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Archenemy Deck")
+    when "planechase"
+      ensure_deck_size(path, deck, 60, 10)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planechase Deck")
     else
       raise
     end
