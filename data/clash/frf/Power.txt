@@ -1,0 +1,34 @@
+// NAME: Power
+// COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+1 Typhoid Rats
+4 Satyr Wayfinder
+2 Necromancer's Assistant
+1 Herald of Torment
+1 Returned Centaur
+2 Sultai Soothsayer
+2 Sultai Scavenger
+1 Scuttling Doom Engine
+1 Necropolis Fiend
+1 Sultai Skullkeeper
+1 Merciless Executioner
+1 Gurmag Angler
+1 Annul
+1 Naturalize
+2 Sultai Charm
+2 Murderous Cut
+1 Hero's Downfall
+1 Neutralizing Blast
+1 Despise
+2 Taigam's Scheming
+1 Set Adrift
+1 Treasure Cruise
+1 Dead Drop
+1 Sultai Ascendancy
+1 Monastery Siege
+1 Sultai Banner
+4 Opulent Palace
+2 Evolving Wilds
+2 Dismal Backwater
+7 Swamp
+5 Island
+5 Forest

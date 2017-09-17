@@ -1,0 +1,35 @@
+// NAME: Dangerous
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-origins-clash-pack-and-intro-pack-decklists-2015-07-09
+1 Dromoka, the Eternal
+2 Ainok Bond-Kin
+2 Disowned Ancestor
+3 Lightwalker
+1 Anafenza, Kin-Tree Spirit
+1 Avatar of the Resolute
+2 Abzan Falconer
+1 Tuskguard Captain
+1 Abzan Battle Priest
+1 Mer-Ek Nightblade
+1 Longshot Squad
+1 Siege Rhino
+1 Elite Scaleguard
+2 Cached Defenses
+2 Map the Wastes
+2 Incremental Growth
+2 Ultimate Price
+1 Scale Blessing
+2 Dromoka's Gift
+1 Suspension Field
+1 Debilitating Injury
+1 Ancestral Vengeance
+1 Abzan Ascendancy
+1 Citadel Siege
+2 Blossoming Sands
+2 Jungle Hollow
+1 Sandsteppe Citadel
+2 Scoured Barrens
+7 Plains
+6 Swamp
+6 Forest
+
+Sideboard

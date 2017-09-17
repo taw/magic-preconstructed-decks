@@ -1,0 +1,30 @@
+// NAME: Profit
+// COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+1 Baleful Eidolon
+1 Leafcrown Dryad
+2 Brain Maggot
+1 Nighthowler
+1 Courser of Kruphix
+1 Noble Quarry
+2 Grim Guardian
+2 Oakheart Dryads
+3 Nyx Weaver
+1 Graverobber Spider
+1 Reaper of the Wilds
+1 Eidolon of Blossoms
+1 Doomwake Giant
+1 Loathsome Catoblepas
+2 Nemesis of Mortals
+2 Dark Betrayal
+1 Plummet
+1 Defend the Hearth
+3 Commune with the Gods
+1 Reviving Melody
+1 Font of Fertility
+2 Vineweft
+1 Debilitating Injury
+1 Nyx Infusion
+1 Whip of Erebos
+2 Jungle Hollow
+12 Forest
+11 Swamp

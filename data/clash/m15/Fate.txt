@@ -1,0 +1,26 @@
+// NAME: Fate
+// COMMENTS: https://magic.wizards.com/en/articles/archive/magic-2015-clash-pack-2014-07-07
+1 Hypnotic Siren
+2 Leafcrown Dryad
+2 Omenspeaker
+3 Vaporkin
+3 Kiora's Follower
+2 Frost Lynx
+2 Nimbus Naiad
+2 Thassa's Emissary
+3 Horizon Chimera
+1 Prognostic Sphinx
+1 Prophet of Kruphix
+2 Divination
+1 Curse of the Swine
+2 Negate
+1 Voyage's End
+2 Griptide
+1 AEtherspouts
+2 Jace's Ingenuity
+2 Pin to the Earth
+7 Forest
+17 Island
+1 Temple of Mystery
+
+Sideboard

@@ -1,0 +1,49 @@
+// NAME: Armed and Dangerous
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-origins-clash-pack-and-intro-pack-decklists-2015-07-09
+1 Honored Hierarch
+1 Dragon Hunter
+1 Dromoka Warrior
+3 Lightwalker
+1 Seeker of the Way
+2 Undercity Troll
+2 Topan Freeblade
+1 Anafenza, Kin-Tree Spirit
+1 Consul's Lieutenant
+1 Avatar of the Resolute
+1 Citadel Castellan
+1 Siege Rhino
+1 Kytheon's Irregulars
+1 Outland Colossus
+1 Dromoka, the Eternal
+2 Cached Defenses
+2 Incremental Growth
+1 Feat of Resistance
+1 Valorous Stance
+2 Ultimate Price
+1 Dromoka's Command
+1 Collected Company
+2 Pacifism
+1 Suspension Field
+1 Abzan Ascendancy
+1 Citadel Siege
+4 Blossoming Sands
+2 Evolving Wilds
+2 Jungle Hollow
+1 Sandsteppe Citadel
+2 Scoured Barrens
+1 Windswept Heath
+6 Plains
+3 Swamp
+5 Forest
+
+Sideboard
+1 Anointer of Champions
+2 Enshrouding Mist
+2 Disowned Ancestor
+2 Mighty Leap
+1 Debilitating Injury
+2 Epic Confrontation
+2 Abzan Falconer
+1 Abzan Battle Priest
+1 Scale Blessing
+1 Elite Scaleguard

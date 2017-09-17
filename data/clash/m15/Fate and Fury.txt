@@ -1,0 +1,35 @@
+// NAME: Fate and Fury
+// COMMENTS: https://mtg.gamepedia.com/Magic_2015/Clash_pack
+1 Arbor Colossus
+1 Courser of Kruphix
+4 Elvish Mystic
+1 Genesis Hydra
+2 Horizon Chimera
+1 Hydra Broodmaster
+1 Hypnotic Siren
+3 Karametra's Acolyte
+3 Kiora's Follower
+2 Nemesis of Mortals
+1 Nessian Courser
+3 Nessian Game Warden
+1 Prognostic Sphinx
+1 Prophet of Kruphix
+2 Voyaging Satyr
+1 Ætherspouts
+1 Fated Intervention
+2 Jace's Ingenuity
+1 Curse of the Swine
+2 Divination
+1 Font of Fertility
+16 Forest
+7 Island
+1 Nykthos, Shrine to Nyx
+1 Temple of Mystery
+Sideboard
+3 Nylea's Disciple
+2 Omenspeaker
+2 Reclamation Sage
+2 Pin to the Earth
+2 Griptide
+2 Negate
+2 Plummet

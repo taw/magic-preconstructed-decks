@@ -1,0 +1,26 @@
+// NAME: Fury
+// COMMENTS: https://magic.wizards.com/en/articles/archive/magic-2015-clash-pack-2014-07-07
+4 Elvish Mystic
+2 Generator Servant
+2 Voyaging Satyr
+1 Nessian Courser
+2 Reclamation Sage
+1 Courser of Kruphix
+2 Ill-Tempered Cyclops
+3 Karametra's Acolyte
+3 Nylea's Disciple
+3 Nessian Game Warden
+1 Arbor Colossus
+2 Nemesis of Mortals
+1 Genesis Hydra
+1 Hydra Broodmaster
+2 Lightning Strike
+2 Plummet
+1 Boulderfall
+1 Fated Intervention
+1 Font of Fertility
+8 Mountain
+16 Forest
+1 Nykthos, Shrine to Nyx
+
+Sideboard

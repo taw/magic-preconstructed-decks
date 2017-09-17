@@ -1,0 +1,33 @@
+// NAME: Armed
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-origins-clash-pack-and-intro-pack-decklists-2015-07-09
+1 Honored Hierarch
+1 Dragon Hunter
+1 Anointer of Champions
+1 Seeker of the Way
+1 Dromoka Warrior
+2 Topan Freeblade
+2 Undercity Troll
+1 Consul's Lieutenant
+1 Dragon Bell Monk
+2 Valeron Wardens
+2 Citadel Castellan
+2 War Oracle
+1 Outland Colossus
+1 Kytheon's Irregulars
+2 Epic Confrontation
+2 Enshrouding Mist
+1 Feat of Resistance
+2 Mighty Leap
+1 Pressure Point
+1 Valorous Stance
+2 Titanic Growth
+1 Dromoka's Command
+1 Collected Company
+2 Pacifism
+2 Blossoming Sands
+2 Evolving Wilds
+1 Windswept Heath
+11 Plains
+10 Forest
+
+Sideboard
