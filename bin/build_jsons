@@ -27,10 +27,6 @@ class BuildJsons
     @decks << deck_data
   end
 
-  def save_jsons
-    puts JSON.pretty_generate(@decks)
-  end
-
   def ensure_deck_size(path, deck, size, sideboard_size)
     unless deck.size == size and deck.sideboard_size == sideboard_size
       warn "#{path}: Expected #{size}+#{sideboard_size} cards, not #{deck.size}+#{deck.sideboard_size}"
@@ -68,14 +64,23 @@ class BuildJsons
     end
   end
 
-  def build
+  def save_jsons(out)
+    out.puts JSON.pretty_generate(@decks)
+  end
+
+  def build(save_path)
     data_root.glob("*/*/*.txt").each do |path|
       deck = Deck.new(path)
       validate_and_add_deck path, deck
     end
     @decks.sort_by!{|d| [d[:set_code], d[:name]]}
-    save_jsons
+
+    if save_path
+      open(save_path, "w"){|fh| save_jsons(fh)}
+    else
+      save_jsons(STDOUT)
+    end
   end
 end
 
-BuildJsons.new.build
+BuildJsons.new.build(ARGV[0])
