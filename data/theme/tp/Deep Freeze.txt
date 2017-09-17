@@ -1,0 +1,30 @@
+// NAME: Deep Freeze
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=1&lang=en
+2 Master Decoy
+2 Soltari Lancer
+1 Knight of Dawn
+1 Clouchaser Eagle
+1 Avenging Angel
+2 Wind Drake
+2 Horned Turtle
+1 Sky Spirit
+1 Anoint
+1 Disenchant
+3 Pacifism
+1 Invulnerability
+2 Repentance
+2 Power Sink
+1 Spell Blast
+3 Counterspell
+1 Legacy's Allure
+1 Time Ebb
+1 Dream Cache
+2 Gaseous Form
+2 Dismiss
+1 Precognition
+1 Puppet Strings
+1 Emmessi Tome
+13 Island
+11 Plains
+
+Sideboard

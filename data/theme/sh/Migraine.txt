@@ -1,0 +1,23 @@
+// NAME: Migraine
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=3&lang=en
+2 Pit Imp*
+4 Dauthi Horror*
+1 Rabid Rats
+2 Dauthi Slayer*
+4 Foul Imp
+1 Mindwarper
+1 Dauthi Mindripper*
+1 Dark Ritual*
+2 Mind Peel
+4 Death Stroke
+2 Diabolic Edict*
+3 Coercion*
+1 Dark Banishing*
+3 Megrim
+2 Bottomless Pit
+1 Ensnaring Bridge
+1 Hornet Cannon
+1 Portcullis
+24 Swamp
+
+Sideboard

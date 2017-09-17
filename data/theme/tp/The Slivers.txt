@@ -1,0 +1,26 @@
+// NAME: The Slivers
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=3&lang=en
+4 Winged Sliver
+3 Mnemonic Sliver
+4 Clot Sliver
+1 Mindwhip Sliver
+4 Metallic Sliver
+1 Whispers of the Muse
+1 Ertai's Meddling
+2 Power Sink
+1 Spell Blast
+2 Counterspell
+2 Dream Cache
+1 Dismiss
+2 Diabolic Edict
+1 Fevered Convulsions
+2 Dark Banishing
+1 Evincar's Justice
+1 Extinction
+1 Lobotomy
+1 Essence Bottle
+13 Island
+1 Rootwater Depths
+11 Swamp
+
+Sideboard

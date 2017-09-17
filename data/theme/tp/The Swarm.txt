@@ -1,0 +1,26 @@
+// NAME: The Swarm
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=4&lang=en
+3 Master Decoy
+2 Soltari Trooper
+1 Soltari Crusader
+3 Skyshroud Elf
+4 Muscle Sliver
+3 Pincher Beetles
+3 Rootwalla
+1 Krakilin
+3 Trained Armodon
+1 Elven Warhounds
+2 Ranger en-Vec
+1 Anoint
+1 Disenchant
+3 Pacifism
+1 Elvish Fury
+1 Needle Storm
+1 Aluren
+2 Overrun
+1 Recycle
+14 Forest
+7 Plains
+2 Vec Townships
+
+Sideboard

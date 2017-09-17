@@ -1,0 +1,28 @@
+// NAME: The Flames of Rath
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=2&lang=en
+4 Mogg Fanatic
+3 Fireslinger
+1 Firefly
+2 Lightning Elemental
+2 Wild Wurm
+1 Flowstone Giant
+1 Sandstone Warrior
+1 Flowstone Salamander
+1 Magmasaur
+1 Soltari Guerrillas
+1 Coiled Tinviper
+2 Disenchant
+1 Tahngarth's Rage
+1 Searing Torch
+1 Blood Frenzy
+1 Gobin Bombardment
+4 Kindle
+2 Rolling Thunder
+3 Lightning Blast
+1 Furnace of Rath
+1 Squee's Toy
+1 Maze of Shadows
+19 Mountain
+5 Plains
+
+Sideboard

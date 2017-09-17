@@ -1,0 +1,28 @@
+// NAME: Call of the Kor
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=1&lang=en
+3 Nomads en-Kor
+1 Shaman en-Kor
+2 Warrior en-Kor
+1 Soltari Champion
+2 Knight of Dawn*
+1 Cloudchaser Eagle*
+4 Spirit en-Kor
+2 Lancers en-Kor
+2 Lab Rats
+1 Skeleton Scavengers
+1 Darkling Stalker*
+2 Gravedigger*
+1 Screeching Harpy*
+1 Flickering Ward*
+1 Smite
+1 Disenchant*
+1 Temper
+1 Death Stroke
+2 Enfeeblement*
+1 Dark Banishing*
+2 Evincar's Justice*
+3 Endless Scream*
+13 Island*
+11 Swamp*
+
+Sideboard

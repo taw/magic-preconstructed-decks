@@ -1,0 +1,27 @@
+// NAME: The Spikes
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=2&lang=en
+4 Spike Drone*
+1 Bayou Dragonfly*
+1 Canopy Spider*
+1 Hermit Druid
+4 Skyshroud Elf*
+1 Lowland Basilisk
+2 Pincher Beetles*
+3 Spike Worker
+1 Tempting Licid
+2 Spike Feeder
+1 Spike Breeder
+2 Spike Soldier
+2 Spike Colony
+2 Shock
+4 Kindle*
+1 Fanning The Flames
+1 Elven Rite
+2 Rampant Growth*
+1 Verdant Touch
+1 Tranquility*
+2 Heartstone
+12 Forest*
+9 Mountain*
+
+Sideboard
