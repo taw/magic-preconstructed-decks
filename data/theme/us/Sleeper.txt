@@ -1,0 +1,27 @@
+// NAME: Sleeper
+// COMMENT: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
+// COMMENT: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
+4 Drifting Meadow
+18 Plains
+3 Angelic Page
+1 Disciple of Grace
+1 Disciple of Law
+1 Monk Idealist
+2 Monk Realist
+3 Pegasus Charger
+1 Sanctum Custodian
+2 Songstitcher
+1 Voice of Grace
+2 Clear
+1 Disenchant
+2 Humble
+1 Waylay
+4 Brilliant Halo
+2 Opal Caryatid
+3 Opal Gargoyle
+1 Opal Titan
+2 Pacifism
+1 Serra's Embrace
+1 Barrin's Codex
+2 Dragon Blood
+1 Endoskeleton

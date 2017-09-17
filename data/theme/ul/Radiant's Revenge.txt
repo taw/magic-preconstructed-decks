@@ -1,0 +1,30 @@
+// NAME: Radiant's Revenge
+// COMMENT: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
+// COMMENT: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
+12 Island
+11 Plains
+1 Drifting Meadow
+2 Remote Isle
+1 Fog Bank
+1 Mobile Fort
+1 Mother of Runes
+1 Radiant's Dragoons
+1 Raven Familiar
+2 Sanctum Custodian
+2 Sustainer of the Realm
+1 Thornwind Faeries
+2 Ticking Gnomes
+2 Vigilant Drake
+2 Opal Champion
+1 Pacifism
+1 Catalog
+1 Erase
+1 Disenchant
+2 Miscalculation
+2 Opportunity
+1 Power Sink
+3 Radiant's Judgment
+2 Path of Peace
+2 Dragon Blood
+1 Ring of Gix
+1 Urza's Blueprints

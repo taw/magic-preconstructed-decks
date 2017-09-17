@@ -1,0 +1,35 @@
+// NAME: Phyrexian Assault
+// COMMENT: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
+// COMMENT: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
+10 Mountain
+12 Swamp
+1 Ghitu Encampment
+1 Polluted Mire
+1 Smoldering Crater
+1 Spawning Pool
+1 Avalanche Riders
+2 Bone Shredder
+2 Defender of Chaos
+1 Fog of Gnats
+2 Ghitu Slinger
+1 Giant Cockroach
+2 Goblin Medics
+1 Looming Shade
+1 Molten Hydra
+1 Phyrexian Broodlings
+2 Phyrexian Debaser
+2 Phyrexian Defiler
+1 Phyrexian Denouncer
+1 Phyrexian Plaguelord
+1 Tethered Skirge
+1 Viashino Cutthroat
+1 Viashino Heretic
+1 Viashino Runner
+2 Expunge
+1 Headlong Rush
+1 Heat Ray
+2 Arc Lightning
+1 Corrupt
+1 Engineered Plague
+1 Phyrexian Reclamation
+1 Treacherous Link
