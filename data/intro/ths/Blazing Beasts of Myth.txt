@@ -1,0 +1,29 @@
+// NAME: Blazing Beasts of Myth
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+2 Satyr Rambler
+2 Satyr Hedonist
+2 Voyaging Satyr
+2 Minotaur Skullcleaver
+1 Nessian Courser
+1 Rootwalla
+1 Satyr Piper
+1 Ill-Tempered Cyclops
+2 Borderland Minotaur
+1 Ember Swallower
+1 Polis Crusher
+2 Nessian Asp
+2 Stoneshock Giant
+2 Nemesis of Mortals
+1 Portent of Betrayal
+2 Rage of Purphoros
+2 Lightning Strike
+2 Magma Jet
+1 Destructive Revelry
+1 Artisan's Sorrow
+1 Windstorm
+2 Volcanic Geyser
+1 Dragon Mantle
+14 Mountain
+11 Forest
+
+Sideboard

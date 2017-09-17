@@ -1,0 +1,29 @@
+// NAME: Voracious Rage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+3 Deathbellow Raider
+2 Felhide Brawler
+1 Minotaur Skullcleaver
+1 Rageblood Shaman
+2 Ragemonger
+1 Fanatic of Mogis
+2 Borderland Minotaur
+1 Insatiable Harpy
+1 Warchanter of Mogis
+2 Kragma Warcaller
+1 Pharika's Chosen
+3 Pensive Minotaur
+1 Felhide Petrifier
+1 Spawn of Thraxes
+1 Pinnacle of Rage
+2 Flurry of Horns
+1 Rollick of Abandon
+2 Spiteful Blow
+2 Magma Spray
+1 Searing Blood
+2 Starfall
+1 Cast into Darkness
+1 Lightning Diadem
+14 Mountain
+11 Swamp
+
+Sideboard

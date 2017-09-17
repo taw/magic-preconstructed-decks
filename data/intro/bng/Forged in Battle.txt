@@ -1,0 +1,31 @@
+// NAME: Forged in Battle
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+1 Akroan Conscriptor
+2 Akroan Crusader
+1 Akroan Hoplite
+1 Akroan Phalanx
+2 Akroan Skyguard
+2 Arena Athlete
+2 Cyclops of One-Eyed Pass
+2 Elite Skirmisher
+1 Forgestoker Dragon
+1 Labyrinth Champion
+1 Loyal Pegasus
+1 Phalanx Leader
+1 Priest of Iroas
+1 Reckless Reveler
+1 Two-Headed Cerberus
+1 Wingsteed Rider
+1 Pinnacle of Rage
+1 Coordinated Assault
+1 Dauntless Onslaught
+2 Fall of the Hammer
+2 Hold at Bay
+2 Mortal's Ardor
+2 Rise to the Challenge
+1 Searing Blood
+2 Ordeal of Purphoros
+14 Mountain
+11 Plains
+
+Sideboard

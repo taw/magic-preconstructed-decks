@@ -1,0 +1,32 @@
+// NAME: Favors From Nyx
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+1 Auramancer
+1 Banisher Priest
+1 Pillarfield Ox
+1 Blightcaster
+1 Minotaur Abomination
+2 Hopeful Eidolon
+1 Yoked Ox
+2 Traveling Philosopher
+1 Baleful Eidolon
+2 Lagonna-Band Elder
+2 Observant Alseid
+1 Scholar of Athreos
+1 Cavern Lampad
+1 Celestial Archon
+1 Sentry of the Underworld
+2 Vanquish the Foul
+2 Last Breath
+1 Doom Blade
+1 Ray of Dissolution
+1 Pacifism
+1 Ordeal of Heliod
+2 Ordeal of Erebos
+1 Gift of Immortality
+16 Plains
+9 Swamp
+2 Heliod's Emissary
+1 Erebos's Emissary
+2 Pharika's Cure
+
+Sideboard

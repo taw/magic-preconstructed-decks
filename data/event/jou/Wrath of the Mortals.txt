@@ -1,0 +1,33 @@
+// NAME: Wrath of the Mortals
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-event-deck-2014-05-01-0
+1 Battlefield Thaumaturge
+3 Young Pyromancer
+3 Guttersnipe
+1 Chandra's Phoenix
+4 Spellheart Chimera
+1 Ogre Battledriver
+1 Oracle of Bones
+1 AEtherling
+1 Harness by Force
+1 Mizzium Mortars
+2 Flames of the Firebrand
+2 Divination
+1 Anger of the Gods
+4 Lightning Strike
+3 Magma Jet
+2 Searing Blood
+1 Steam Augury
+1 Fated Conflagration
+2 Turn // Burn
+4 Izzet Guildgate
+12 Mountain
+9 Island
+1 Event Deck
+
+Sideboard
+2 Flames of the Firebrand
+2 Elixir of Immortality
+2 Dispel
+3 Essence Scatter
+3 Negate
+3 Izzet Staticaster

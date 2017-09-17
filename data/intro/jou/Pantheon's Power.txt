@@ -1,0 +1,30 @@
+// NAME: Pantheon's Power
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+2 Odunos River Trawler
+1 Archetype of Courage
+1 Fate Unraveler
+1 Archetype of Finality
+1 Pharika's Chosen
+1 Brain Maggot
+2 Nyx-Fleece Ram
+2 Underworld Coinsmith
+2 Grim Guardian
+1 Eagle of the Watch
+2 Harvestguard Alseids
+1 Rotted Hulk
+2 Akroan Mastiff
+1 Doomwake Giant
+2 Dreadbringer Lampads
+2 Thoughtrender Lamia
+2 Oppressive Rays
+1 Cast into Darkness
+1 Font of Return
+1 Font of Vigor
+1 Aspect of Gorgon
+2 Nyx Infusion
+1 Armament of Nyx
+1 Banishing Light
+15 Swamp
+11 Plains
+
+Sideboard

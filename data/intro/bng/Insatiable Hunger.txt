@@ -1,0 +1,30 @@
+// NAME: Insatiable Hunger
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+2 Cyclops of One-Eyed Pass
+2 Fanatic of Xenagos
+1 Mistcutter Hydra
+1 Nessian Courser
+2 Nessian Demolok
+1 Nessian Wilds Ravager
+1 Opaline Unicorn
+1 Pharagax Giant
+2 Reckless Reveler
+1 Satyr Piper
+1 Setessan Starbreaker
+2 Snake of the Golden Grove
+2 Swordwise Centaur
+1 Thunder Brute
+2 Voyaging Satyr
+1 Mischief and Mayhem
+1 Pinnacle of Rage
+1 Destructive Revelry
+1 Fall of the Hammer
+2 Lightning Strike
+2 Mortal's Resolve
+1 Searing Blood
+1 Messenger's Speed
+2 Ordeal of Nylea
+14 Forest
+12 Mountains
+
+Sideboard

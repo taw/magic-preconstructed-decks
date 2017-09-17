@@ -1,0 +1,30 @@
+// NAME: Devotion to Darkness
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+2 Child of Night
+2 Returned Phalanx
+2 Blood-Toll Harpy
+2 Mogis's Marauder
+2 Undead Minotaur
+2 Disciple of Phenax
+2 Insatiable Harpy
+2 Gray Merchant of Asphodel
+2 Horizon Scholar
+1 Minotaur Abomination
+1 Abhorrent Overlord
+2 Glimpse the Future
+1 March of the Returned
+1 Sea God's Revenge
+2 Sip of Hemlock
+1 Boon of Erebos
+1 Voyage's End
+1 Pharika's Cure
+1 Griptide
+1 Lash of the Whip
+1 Rescue from the Underworld
+1 Witches' Eye
+1 Whip of Erebos
+1 Ordeal of Thassa
+16 Swamp
+9 Island
+
+Sideboard

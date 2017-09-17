@@ -1,0 +1,31 @@
+// NAME: Mortals of Myth
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+1 Akroan Skyguard
+1 Phalanx Leader
+1 Vanguard of Brimaz
+1 Elite Skirmisher
+1 Wingsteed Rider
+2 Lagonna-Band Trailblazer
+1 Oreskos Swiftclaw
+2 Golden Hind
+2 Akroan Mastiff
+1 Dawnbringer Charioteers
+2 Pheres-Band Thunderhoof
+1 Skyspear Cavalry
+2 Supply-Line Cranes
+1 Quarry Colossus
+2 Ajani's Presence
+1 Nature's Panoply
+1 Solidarity of Heroes
+1 Phalanx Formation
+2 Colossal Heroics
+1 Consign to Dust
+1 Spear of Heliod
+1 Raised by Wolves
+2 Oppressive Rays
+1 Font of Vigor
+2 Banishing Light
+15 Plains
+11 Forest
+
+Sideboard

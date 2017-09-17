@@ -1,0 +1,31 @@
+// NAME: Gifts of the Gods
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+1 Coastline Chimera
+1 Flitterstep Eidolon
+2 Floodtide Serpent
+2 Ghostblade Eidolon
+2 Great Hart
+2 Griffin Dreamfinder
+2 Heliod's Emissary
+1 Hopeful Eidolon
+1 Lagonna-Band Elder
+2 Nyxborn Shieldmate
+2 Nyxborn Triton
+1 Pillar of War
+1 Silent Sentinel
+1 Thassa's Emissary
+2 Traveling Philosopher
+1 Yoked Ox
+1 Divination
+1 Excoriate
+1 Vanquish the Foul
+1 Griptide
+1 Hold at Bay
+1 Eternity Snare
+1 Gift of Immortality
+2 Ordeal of Heliod
+1 Sunbond
+10 Island
+16 Plains
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: The Wilds and the Deep
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+2 Swordwise Centaur
+1 Agent of Horizons
+1 Nessian Courser
+1 Nessian Asp
+2 Sealock Monster
+1 Arbor Colossus
+1 Archetype of Imagination
+1 Triton Shorestalker
+2 Golden Hind
+1 Bassara Tower Archer
+2 Kiora's Follower
+2 Ravenous Leucrocota
+1 Cloaked Siren
+1 Swarmborn Giant
+1 Heroes' Bane
+2 Nessian Game Warden
+2 Fleetfeather Cockatrice
+2 Time to Feed
+1 Defend the Hearth
+1 Savage Surge
+1 Hubris
+2 Font of Fertility
+1 Thassa's Ire
+1 Font of Fortunes
+1 Market Festival
+15 Forest
+11 Island
+
+Sideboard

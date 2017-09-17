@@ -1,0 +1,28 @@
+// NAME: Anthousa's Army
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+2 Elvish Mystic
+1 Favored Hoplite
+2 Deadly Recluse
+1 Setessan Battle Priest
+1 Phalanx Leader
+2 Wingsteed Rider
+2 Chronicler of Heroes
+2 Staunch-Hearted Warrior
+2 Rumbling Baloth
+1 Pheres-Band Centaurs
+1 Setessan Griffin
+1 Anthousa, Setessan Hero
+2 Centaur Battlemaster
+2 Time to Feed
+1 Vanquish the Foul
+2 Giant Growth
+2 Warriors' Lesson
+2 Battlewise Valor
+2 Dauntless Onslaught
+1 Artisan's Sorrow
+1 Bow of Nylea
+2 Pacifism
+13 Forest
+12 Plains
+
+Sideboard

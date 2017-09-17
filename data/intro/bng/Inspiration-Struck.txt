@@ -1,0 +1,31 @@
+// NAME: Inspiration-Struck
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+2 Aerie Worshippers
+1 Arbiter of the Ideal
+2 Black Oak of Odunos
+1 Breaching Hippocamp
+2 Deepwater Hypnotist
+1 Felhide Minotaur
+1 Forlorn Pseudamma
+1 Horizon Scholar
+1 Insatiable Harpy
+2 Returned Phalanx
+2 Servant of Tymaret
+1 Shipwreck Singer
+1 Siren of the Silent Song
+2 Sphinx's Disciple
+1 Warchanter of Mogis
+1 Curse of the Swine
+1 Sip of Hemlock
+1 Thassa's Bounty
+2 Griptide
+2 Retraction Helix
+1 Siren Song Lyre
+1 Springleaf Drum
+2 Evanescent Intellect
+1 Oracle's Insight
+15 Island
+11 Swamp
+1 Triton Shorethie
+
+Sideboard

@@ -1,0 +1,35 @@
+// NAME: Inspiring Heroics
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-event-deck-decklist-2013-09-26
+3 Dryad Militant
+2 Imposing Sovereign
+1 Precinct Captain
+1 New Prahv Guildmage
+1 Frontline Medic
+2 Banisher Priest
+3 Lyev Skyknight
+2 Ascended Lawmage
+1 Skymark Roc
+1 Lavinia of the Tenth
+3 Hopeful Eidolon
+1 Soldier of the Pantheon
+3 Battlewise Hoplite
+1 Fabled Hero
+2 Gods Willing
+2 Dauntless Onslaught
+2 Pacifism
+2 Detention Sphere
+1 Ordeal of Heliod
+2 Ordeal of Thassa
+4 Azorius Guildgate
+1 Hallowed Fountain
+14 Plains
+5 Island
+
+Sideboard
+2 Triton Tactics
+2 Glare of Heresy
+2 Gainsay
+2 Negate
+2 Arrest
+3 Solemn Offering
+2 Gift of Orzhova

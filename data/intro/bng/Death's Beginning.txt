@@ -1,0 +1,30 @@
+// NAME: Death's Beginning
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+1 Archetype of Finality
+1 Eater of Hope
+2 Felhide Brawler
+1 Felhide Minotaur
+2 Forsaken Drifters
+2 Graverobber Spider
+1 Keepsake Gorgon
+1 Loathsome Catoblepas
+2 Nemesis of Mortals
+1 Nighthowler
+1 Pharika's Mender
+1 Pheres-Band Centaurs
+2 Returned Centaur
+1 Satyr Piper
+2 Satyr Wayfinder
+2 Asphyxiate
+2 Commune with the Gods
+1 March of the Returned
+1 Cutthroat Maneuver
+2 Mortal's Resolve
+1 Rescue from the Underworld
+1 Unravel the AEther
+1 Raised by Wolves
+2 Weight of the Underworld
+11 Forest
+15 Swamp
+
+Sideboard

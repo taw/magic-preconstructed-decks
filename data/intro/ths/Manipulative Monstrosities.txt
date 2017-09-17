@@ -1,0 +1,29 @@
+// NAME: Manipulative Monstrosities
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+2 Coral Merfolk
+2 Omenspeaker
+1 Burnished Hart
+2 Crackling Triton
+1 Wall of Frost
+2 Ill-Tempered Cyclops
+2 Archaeomancer
+1 Water Servant
+2 Sealock Monster
+2 Stoneshock Giant
+1 Shipbreaker Kraken
+2 Rage of Purphoros
+1 Sea God's Revenge
+1 Curse of the Swine
+1 Lost in a Labyrinth
+2 Shock
+1 Disperse
+2 Lightning Strike
+1 Magma Jet
+1 Dissolve
+2 Griptide
+1 Volcanic Geyser
+1 Ordeal of Purphoros
+16 Island
+10 Mountain
+
+Sideboard
