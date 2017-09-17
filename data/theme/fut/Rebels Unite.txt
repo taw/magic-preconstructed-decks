@@ -1,0 +1,29 @@
+// NAME: Rebels Unite
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=3&lang=en
+2 Samite Censer-Bearer
+1 Amrou Scout*
+3 Blade of the Sixth Pride
+2 Errant Doomsayers*
+1 Knight of the Holy Nimbus*
+3 Amrou Seekers*
+1 Aven Riftwatcher*
+1 Defiant Vanguard*
+1 Zealot il-Vec*
+2 Outrider en-Kor*
+1 Riftmarked Knight*
+2 Ramosian Revivalist
+1 Angel of Salvation
+1 Blightspeaker*
+2 Putrid Cyclops
+1 Big Game Hunter*
+1 Magus of the Abyss
+2 Dawn Charm*
+3 Lumithread Field
+2 Bound in Silence
+2 Return to Dust*
+1 Witch's Mist
+12 Plains*
+10 Swamp*
+2 Terramorphic Expanse*
+
+Sideboard

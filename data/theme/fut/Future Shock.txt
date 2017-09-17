@@ -1,0 +1,26 @@
+// NAME: Future Shock
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=2&lang=en
+3 Grinning Ignus
+2 Bloodshot Trainee
+1 Fomori Nomad
+1 Skizzik Surger
+1 Boldwyr Intimidator
+1 Spellwild Ouphe
+3 Thornweald Archer
+3 Nessian Courser
+2 Centaur Omenreader
+2 Imperiosaur
+1 Baru, Fist of Krosa
+3 Sporoloth Ancient
+1 Nacatl War-Pride
+1 Quagnoth
+1 Emblem of the Warmind
+3 Flowstone Embrace
+3 Ghostfire
+3 Edge of Autumn
+1 Phosphorescent Feast
+9 Mountain*
+14 Forest*
+1 Dryad Arbor
+
+Sideboard

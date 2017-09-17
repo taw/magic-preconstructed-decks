@@ -1,0 +1,28 @@
+// NAME: Suspended Sentence
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=4&lang=en
+2 Timebender*
+2 Dream Stalker*
+1 Unblinking Bleb
+4 Infiltrator il-Kor
+1 Riftwing Cloudskate*
+2 Augur of Skulls
+1 Deathspore Thallid*
+1 Deadly Grub*
+1 Shimian Specter
+1 Nihilith
+2 Clockspinning*
+3 Paradox Haze*
+3 Reality Acid*
+2 Reality Strobe
+1 Lost Hours
+3 Ichor Slick
+2 Festering March
+1 Death Rattle
+2 Mindstab*
+1 Phthisis*
+10 Island*
+9 Swamp*
+3 Terramorphic Expanse*
+2 Zoetic Cavern
+
+Sideboard

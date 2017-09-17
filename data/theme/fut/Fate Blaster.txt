@@ -1,0 +1,27 @@
+// NAME: Fate Blaster
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=1&lang=en
+2 Sage of Epityr*
+2 Vedalken Aethermage
+1 Dandan*
+3 Blind Phantasm
+2 Aven Augur
+3 Cryptic Annelid
+1 Magus of the Future
+2 Emberwilde Augur
+2 Stingscourger*
+1 Uthden Troll*
+2 Barbed Shocker*
+1 Boldwyr Intimidator
+2 Mystic Speculation
+2 Venser's Diffusion
+1 Forsee
+1 Frozen Aether*
+1 Shapeshifter's Marrow
+2 Spin Into Myth
+1 Fatal Attraction
+2 Riddle of Lightning
+1 Shivan Meteor*
+14 Island*
+11 Mountain*
+
+Sideboard
