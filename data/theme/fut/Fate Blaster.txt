@@ -14,10 +14,10 @@
 1 Boldwyr Intimidator
 2 Mystic Speculation
 2 Venser's Diffusion
-1 Forsee
+1 Foresee
 1 Frozen Aether*
 1 Shapeshifter's Marrow
-2 Spin Into Myth
+2 Spin into Myth
 1 Fatal Attraction
 2 Riddle of Lightning
 1 Shivan Meteor*

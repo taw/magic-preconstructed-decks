@@ -34,7 +34,7 @@
 1 Restore
 1 Tempt with Glory
 1 Wash Out
-1 AEthermage's Touch
+1 Aethermage's Touch
 1 Arcane Denial
 1 Blue Sun's Zenith
 1 Krosan Grip

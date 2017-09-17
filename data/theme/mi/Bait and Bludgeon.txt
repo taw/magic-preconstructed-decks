@@ -15,7 +15,7 @@
 1 Thoughtcast
 2 Assert Authority
 2 Irradiate
-2 AEther Spellbomb
+2 Aether Spellbomb
 4 Talisman of Dominance
 1 Scale of Chiss-Goria
 1 Serum Tank

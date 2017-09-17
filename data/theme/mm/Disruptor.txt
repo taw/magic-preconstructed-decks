@@ -28,7 +28,7 @@
 1 Lunge
 3 Stone Rain
 2 Thunderclap
-1 Subterranean Hanger
+1 Subterranean Hangar
 12 Swamp
 8 Mountain
 

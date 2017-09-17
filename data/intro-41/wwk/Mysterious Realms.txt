@@ -12,7 +12,7 @@
 1 Baloth Woodcrasher
 1 Goliath Sphinx
 2 Treasure Hunt
-1 AEther Tradewinds
+1 Aether Tradewinds
 1 Mysteries of the Deep
 1 Seer's Sundial
 2 Wind Zendikon

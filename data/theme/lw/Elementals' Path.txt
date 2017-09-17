@@ -3,7 +3,7 @@
 1 Wispmare
 1 Dawnfluke
 1 Mulldrifter
-2 AEthersnipe
+2 Aethersnipe
 1 Shriekmaw
 2 Mournwhelk
 1 Flamekin Bladewhirl
@@ -14,7 +14,7 @@
 1 Incandescent Soulstoke
 2 Inner-Flame Igniter
 1 Inner-Flame Acolyte
-2 Ceaseless Scarblades
+2 Ceaseless Searblades
 2 Changeling Berserker
 1 Faultgrinder
 1 Briarhorn

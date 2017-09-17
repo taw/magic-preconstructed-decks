@@ -7,7 +7,7 @@
 1 Cloud Djinn
 1 Fog Elemental
 2 Heavy Ballista
-1 Man-o
+1 Man-o'-War
 2 Mistmoon Griffin
 3 Ophidian
 1 Sage Owl

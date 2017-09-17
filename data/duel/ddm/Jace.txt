@@ -2,8 +2,8 @@
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
 1 Jace, Architect of Thought
 1 Aeon Chronicler
-1 AEther Adept
-1 AEther Figment
+1 Aether Adept
+1 Aether Figment
 1 Archaeomancer
 1 Body Double
 1 Chronomaton

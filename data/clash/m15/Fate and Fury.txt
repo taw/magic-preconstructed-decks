@@ -15,7 +15,7 @@
 1 Prognostic Sphinx
 1 Prophet of Kruphix
 2 Voyaging Satyr
-1 Ætherspouts
+1 Aetherspouts
 1 Fated Intervention
 2 Jace's Ingenuity
 1 Curse of the Swine

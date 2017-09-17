@@ -21,7 +21,7 @@
 1 Cutthroat Maneuver
 2 Mortal's Resolve
 1 Rescue from the Underworld
-1 Unravel the AEther
+1 Unravel the Aether
 1 Raised by Wolves
 2 Weight of the Underworld
 11 Forest

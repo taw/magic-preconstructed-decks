@@ -17,7 +17,7 @@
 1 Batwing Brume
 1 Spin into Myth
 1 Unmake
-2 AEther Spellbomb
+2 Aether Spellbomb
 1 Azorius Signet
 1 Dimir Signet
 1 Dreamstone Hedron

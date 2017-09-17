@@ -1,7 +1,7 @@
 // NAME: GRAVE POWER
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
 1 Acidic Slime
-1 AEther Adept
+1 Aether Adept
 1 Alluring Siren
 2 Ambush Viper
 3 Armored Skaab

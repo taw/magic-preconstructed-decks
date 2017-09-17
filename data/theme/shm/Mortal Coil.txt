@@ -25,6 +25,6 @@
 1 Helm of the Ghastlord
 12 Island
 12 Swamp
-1 Inkfathom Inf ltrator
+1 Inkfathom Infiltrator
 
 Sideboard

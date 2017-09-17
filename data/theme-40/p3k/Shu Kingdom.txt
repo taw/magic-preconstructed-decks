@@ -5,7 +5,7 @@
 15 Plains
 2 Flanking Troops
 1 Guan Yu, Sainted Warrior
-1 Kongming,
+1 Kongming, "Sleeping Dragon"
 1 Liu Bei, Lord of Shu
 3 Shu Cavalry
 2 Shu Farmer

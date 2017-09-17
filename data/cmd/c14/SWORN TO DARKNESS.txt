@@ -35,7 +35,7 @@
 1 Dread Return
 1 Mutilate
 1 Infernal Offering
-1 AEther Snap
+1 Aether Snap
 1 Promise of Power
 1 Necromantic Selection
 1 Profane Command

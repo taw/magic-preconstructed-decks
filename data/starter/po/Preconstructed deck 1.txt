@@ -1,8 +1,8 @@
 // NAME: Preconstructed deck 1
 // COMMENTS: https://mtg.gamepedia.com/Portal/2-Player_Starter_Set
 6 Plains
-6 Mountains
-3 Forests
+6 Mountain
+3 Forest
 1 Defiant Stand
 1 Devoted Hero
 1 Armored Pegasus

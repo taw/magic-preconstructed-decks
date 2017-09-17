@@ -28,7 +28,7 @@
 2 Thirst for Knowledge
 1 Darksteel Citadel
 1 Seat of the Synod
-1 AEther Spellbomb
+1 Aether Spellbomb
 1 Contagion Clasp
 1 Elixir of Immortality
 1 Energy Chamber

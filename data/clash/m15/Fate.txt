@@ -16,7 +16,7 @@
 2 Negate
 1 Voyage's End
 2 Griptide
-1 AEtherspouts
+1 Aetherspouts
 2 Jace's Ingenuity
 2 Pin to the Earth
 7 Forest

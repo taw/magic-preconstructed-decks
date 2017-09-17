@@ -26,6 +26,6 @@
 1 Oracle's Insight
 15 Island
 11 Swamp
-1 Triton Shorethie
+1 Triton Shorethief
 
 Sideboard

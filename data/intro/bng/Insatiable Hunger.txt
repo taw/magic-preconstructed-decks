@@ -25,6 +25,6 @@
 1 Messenger's Speed
 2 Ordeal of Nylea
 14 Forest
-12 Mountains
+12 Mountain
 
 Sideboard

@@ -1,7 +1,7 @@
 // NAME: KOTH DECKLIST
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
 1 Koth of the Hammer
-1 AEther Membrane
+1 Aether Membrane
 1 Anger
 1 Bloodfire Colossus
 1 Bloodfire Kavu

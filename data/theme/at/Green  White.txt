@@ -16,7 +16,7 @@
 1 Carnivorous Plant
 1 Erhnam Djinn
 1 Giant Spider
-1 Gorilla Chieftan
+1 Gorilla Chieftain
 1 Llanowar Elves
 1 Mirri, Cat Warrior
 1 Scavenger Folk
@@ -38,7 +38,7 @@
 11 Plains
 10 Forest
 1 Brushland
-1 Drifting Meadows
+1 Drifting Meadow
 1 Pendelhaven
 1 Slippery Karst
 

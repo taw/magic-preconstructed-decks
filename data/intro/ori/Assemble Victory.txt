@@ -23,7 +23,7 @@
 2 Alchemist's Vial
 1 Meteorite
 3 Infectious Bloodlust
-2 Ghirapur AEther Grid
+2 Ghirapur Aether Grid
 1 Evolving Wilds
 13 Mountain
 10 Island

@@ -7,7 +7,7 @@
 1 Skyshroud Behemoth
 4 Cloudskate
 3 Waterfront Bouncer
-2 Stronghold Zepplin
+2 Stronghold Zeppelin
 2 Rusting Golem
 1 Seal of Strength
 2 Revive

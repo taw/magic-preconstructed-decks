@@ -18,7 +18,7 @@
 3 Arc Lightning*
 1 Ghitu War Cry**
 1 Trumpet Blast
-1 AEther Sting
+1 Aether Sting
 1 Jagged Lightning*
 1 Urza's Incubator
 9 Island

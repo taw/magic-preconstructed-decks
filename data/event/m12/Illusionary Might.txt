@@ -5,7 +5,7 @@
 1 Lord of the Unreal
 4 Porcelain Legionnaire
 4 Spined Thopter
-4 AEther Adept
+4 Aether Adept
 2 Grand Architect
 3 Phantasmal Dragon
 1 Precursor Golem

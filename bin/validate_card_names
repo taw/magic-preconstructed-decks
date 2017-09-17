@@ -1,8 +1,14 @@
 #!/usr/bin/env ruby
 
+require "set"
+require "pathname"
 require "pathname-glob"
 
 class ValidateCardNames
+  def initialize(card_list_path)
+    @valid_card_list = Pathname(card_list_path).readlines.map(&:chomp).to_set
+  end
+
   def data_root
     @data_root ||= Pathname(__dir__) + "../data"
   end
@@ -24,7 +30,7 @@ class ValidateCardNames
       comment_lines.each do |line|
         target = sideboard if line == "Sideboard"
         next unless line =~ /\A(\d+) (.*)/
-        target << [$1.to_i, $2]
+        target << [$1.to_i, $2.sub(/\**\z/, "").tr("ûö", "uo")]
       end
 
       find_duplicates(cards).each do |card_name, count|
@@ -33,8 +39,22 @@ class ValidateCardNames
       find_duplicates(sideboard).each do |card_name, count|
         puts "#{path}: #{card_name} occurs #{count} times"
       end
+
+      (cards+sideboard).map(&:last).uniq.each do |card_name|
+        next if @valid_card_list.include?(card_name)
+        if card_name.include?("//")
+          a, b = card_name.split(" // ")
+          next if @valid_card_list.include?(a) and @valid_card_list.include?(b)
+        end
+        puts "#{path}: Unknown card: #{card_name.inspect}"
+      end
     end
   end
 end
 
-ValidateCardNames.new.call
+unless ARGV.size == 1
+  STDERR.puts "Usage: #{$0} valid_card_list.txt"
+  exit 1
+end
+
+ValidateCardNames.new(ARGV[0]).call

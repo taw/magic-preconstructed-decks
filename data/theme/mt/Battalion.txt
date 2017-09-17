@@ -25,7 +25,7 @@
 9 Island
 1 Vivid Creek
 1 Vivid Meadow
-1 Mosquito Squad
+1 Mosquito Guard
 1 Ego Erasure
 
 Sideboard

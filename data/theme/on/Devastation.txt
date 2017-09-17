@@ -17,7 +17,7 @@
 1 Erratic Explosion
 1 Solar Blast
 1 Thunder of Hooves
-1 AEther Charge
+1 Aether Charge
 1 Naturalize
 1 Primal Boost
 3 Explosive Vegetation

@@ -15,7 +15,7 @@
 2 Spike Colony
 2 Shock
 4 Kindle*
-1 Fanning The Flames
+1 Fanning the Flames
 1 Elven Rite
 2 Rampant Growth*
 1 Verdant Touch

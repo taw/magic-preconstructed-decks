@@ -30,7 +30,7 @@
 1 Concentrate
 1 Rite of Replication
 1 Rush of Knowledge
-1 AEther Gale
+1 Aether Gale
 1 Distorting Wake
 1 Pongify
 1 Cyclonic Rift

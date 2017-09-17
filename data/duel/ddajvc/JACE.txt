@@ -1,7 +1,7 @@
 // NAME: JACE
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 1 Jace Beleren
-1 AEthersnipe
+1 Aethersnipe
 1 Air Elemental
 1 Bottle Gnomes
 1 Brine Elemental

@@ -48,5 +48,5 @@ Sideboard
 1 Kessig
 1 Onakke Catacomb
 1 Talon Gates
-1 Chaotic AEther
+1 Chaotic Aether
 1 Planewide Disaster

@@ -35,7 +35,7 @@
 1 Desperate Ravings
 1 Urza's Rage
 1 Counterflux
-1 AEtherize
+1 Aetherize
 1 Fact or Fiction
 1 Reins of Power
 1 Steam Augury
@@ -43,7 +43,7 @@
 1 Word of Seizing
 1 Act of Aggression
 1 Prophetic Bolt
-1 AEthersnatch
+1 Aethersnatch
 1 Mirror Match
 1 Firemind's Foresight
 1 Repeal

@@ -24,6 +24,6 @@
 1 Asceticism
 12 Mountain
 12 Forest
-2 idda Scrapmelter
+2 Oxidda Scrapmelter
 
 Sideboard

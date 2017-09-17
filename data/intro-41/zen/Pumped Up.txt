@@ -20,6 +20,6 @@
 10 Mountain
 7 Island
 1 Terramorphic Expanse
-1 AEther Figment
+1 Aether Figment
 
 Sideboard

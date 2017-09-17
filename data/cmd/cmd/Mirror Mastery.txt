@@ -7,7 +7,7 @@
 1 Edric, Spymaster of Trest
 1 Animar, Soul of Elements
 1 Conundrum Sphinx
-1 AEthersnipe
+1 Aethersnipe
 1 Chartooth Cougar
 1 Rapacious One
 1 Spitebellows

@@ -1,7 +1,7 @@
 // NAME: Slither
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=2&lang=en
 4 Spur Grappler
-3 Keldon Berskerker
+3 Keldon Berserker
 1 Zerapa Minotaur
 1 Latulla, Keldon Overseer
 2 Scoria Cat

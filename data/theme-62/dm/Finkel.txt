@@ -14,7 +14,7 @@
 1 Necropotence
 2 Contagion
 2 Soul Burn
-2 Guerilla Tactics
+2 Guerrilla Tactics
 2 Incinerate
 2 Pyroclasm
 2 Lava Burst

@@ -6,7 +6,7 @@
 2 Knight Errant
 2 Samite Healer
 2 Longbow Archer
-2 Standby Troops
+2 Standing Troops
 1 Heavy Ballista
 1 Razorfoot Griffin
 1 Serra Advocate

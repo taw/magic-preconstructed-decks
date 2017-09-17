@@ -10,7 +10,7 @@
 1 Windwright Mage
 1 Esper Cormorants
 1 Faerie Mechanist
-1 Scornful AEther-Lich
+1 Scornful Aether-Lich
 1 Sludge Strider
 1 Vectis Agents
 1 Magister Sphinx

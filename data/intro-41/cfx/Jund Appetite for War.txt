@@ -21,6 +21,6 @@
 4 Forest
 2 Savage Lands
 2 Terramorphic Expanse
-2 Tukatongue
+2 Tukatongue Thallid
 
 Sideboard

@@ -5,7 +5,7 @@
 1 Blinding Mage
 2 Cloud Elemental
 1 Scroll Thief
-2 AEther Adept
+2 Aether Adept
 1 Wall of Frost
 1 Azure Drake
 1 Conundrum Sphinx

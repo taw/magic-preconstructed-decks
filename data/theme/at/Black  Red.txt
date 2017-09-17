@@ -18,7 +18,7 @@
 1 Volcanic Dragon
 1 Black Knight
 1 Cuombajj Witches
-1 Hypnotic Spectre
+1 Hypnotic Specter
 1 Ihsan's Shade
 1 Knight of Stromgald
 1 Lady Orca
@@ -39,6 +39,6 @@
 10 Swamp
 1 Strip Mine
 1 Smoldering Crater
-1 Polluted Mine
+1 Polluted Mire
 
 Sideboard

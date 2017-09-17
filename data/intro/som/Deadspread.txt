@@ -22,8 +22,8 @@
 1 Contagion Engine
 13 Island
 13 Swamp
-2 Th rummingbird
-1 Sorcerer's Strongb
-1 Trigon of Th ought
+2 Thrummingbird
+1 Sorcerer's Strongbox
+1 Trigon of Thought
 
 Sideboard

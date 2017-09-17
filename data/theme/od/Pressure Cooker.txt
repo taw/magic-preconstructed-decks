@@ -9,7 +9,7 @@
 2 Famished Ghoul
 1 Frightcrawler
 2 Chainflinger
-1 Halbardier
+1 Halberdier
 3 Pardic Firecat
 1 Repentant Vampire
 2 Engulfing Flames
