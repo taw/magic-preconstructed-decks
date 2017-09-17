@@ -1,0 +1,24 @@
+// NAME: Hands of Flame - The Chandra Nalaar Deck
+// COMMENTS: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
+4 Goblin Piker
+2 Goblin Sky Raider
+2 Cinder Pyromancer
+4 Hill Giant
+4 Lightning Elemental
+2 Earth Elemental
+1 Bloodmark Mentor
+1 Prodigal Pyromancer
+1 Kamahl, Pit Fighter
+1 Shivan Dragon
+1 Blaze
+2 Act of Treason
+1 Banefire
+3 Incinerate
+2 Shock
+1 Enrage
+2 Dragon's Claw
+1 Rage Reflection
+1 Furnace of Rath
+24 Mountain
+
+Sideboard

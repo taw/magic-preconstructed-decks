@@ -1,0 +1,26 @@
+// NAME: Teeth of the Predator - the Garruk Wildspeaker Deck
+// COMMENTS: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
+1 Verdant Force
+1 Molimo, Maro-Sorcerer
+1 Troll Ascetic
+1 Vigor
+1 Duskdale Wurm
+1 Roughshod Mentor
+1 River Boa
+3 Runeclaw Bear
+2 Giant Spider
+4 Civic Wayfinder
+2 Spined Wurm
+2 Wall of Wood
+2 Trained Armodon
+2 Overrun
+1 Howl of the Night Pack
+1 Natural Spring
+2 Rampant Growth
+3 Giant Growth
+1 Loxodon Warhammer
+2 Wurm's Tooth
+2 Blanchwood Armor
+24 Forest
+
+Sideboard

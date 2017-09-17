@@ -1,0 +1,24 @@
+// NAME: Thoughts of the Wind - The Jace Beleren Deck
+// COMMENTS: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
+4 Cloud Sprite
+3 Snapping Drake
+2 Wall of Spears
+2 Thieving Magpie
+2 Air Elemental
+1 Phantom Warrior
+1 Mahamoti Djinn
+1 Denizen of the Deep
+1 Mind Spring
+2 Negate
+3 Essence Scatter
+2 Cancel
+2 Unsummon
+2 Boomerang
+2 Deluge
+1 Evacuation
+1 Counterbore
+2 Kraken's Eye
+1 Mind Control
+25 Island
+
+Sideboard
