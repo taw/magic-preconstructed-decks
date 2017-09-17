@@ -1,0 +1,40 @@
+#!/usr/bin/env ruby
+
+require "pathname-glob"
+
+class ValidateCardNames
+  def data_root
+    @data_root ||= Pathname(__dir__) + "../data"
+  end
+
+  def deck_files
+    data_root.glob("*/*/*.txt")
+  end
+
+  def find_duplicates(list)
+    list.map(&:last).group_by(&:itself).map{|k,v| [k,v.size]}.select{|k,v| v > 1}
+  end
+
+  def call
+    deck_files.each do |path|
+      cards = []
+      sideboard = []
+      target = cards
+      comment_lines = path.readlines.map(&:chomp)
+      comment_lines.each do |line|
+        target = sideboard if line == "Sideboard"
+        next unless line =~ /\A(\d+) (.*)/
+        target << [$1.to_i, $2]
+      end
+
+      find_duplicates(cards).each do |card_name, count|
+        puts "#{path}: #{card_name} occurs #{count} times"
+      end
+      find_duplicates(sideboard).each do |card_name, count|
+        puts "#{path}: #{card_name} occurs #{count} times"
+      end
+    end
+  end
+end
+
+ValidateCardNames.new.call
