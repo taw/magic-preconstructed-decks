@@ -1,0 +1,36 @@
+// NAME: Temur Avalanche
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arc/khans-tarkir-intro-pack-decklists-2014-09-18
+2 Elvish Mystic
+2 Heir of the Wilds
+2 Runeclaw Bear
+1 Icefeather Aven
+2 Alpine Grizzly
+2 Summit Prowler
+1 Pine Walker
+1 Thundering Giant
+1 Avalanche Tusker
+1 Bear's Companion
+2 Glacial Stalker
+1 Tusked Colossodon
+2 Snowhorn Rider
+2 Woolly Loxodon
+2 Savage Punch
+1 Roar of Challenge
+1 Stubborn Denial
+1 Titanic Growth
+1 Force Away
+1 Lightning Strike
+1 Temur Charm
+1 Windstorm
+1 Icy Blast
+2 Temur Banner
+1 Dragon Grip
+2 Frontier Bivouac
+1 Rugged Highlands
+1 Swiftwater Cliffs
+1 Thornwood Falls
+8 Forest
+5 Island
+7 Mountain
+
+Sideboard

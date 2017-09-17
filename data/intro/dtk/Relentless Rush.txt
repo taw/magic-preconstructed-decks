@@ -1,0 +1,28 @@
+// NAME: Relentless Rush
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
+2 Lightning Berserker
+2 Kolaghan Aspirant
+3 Kolaghan Skirmisher
+2 Kolaghan Forerunners
+2 Screamreach Brawler
+2 Ambuscade Shaman
+2 Warbringer
+2 Sprinting Warbrute
+1 Boltwing Marauder
+2 Swift Warkite
+1 Duress
+2 Tormenting Voice
+1 Defeat
+1 Foul-Tongue Shriek
+2 Twin Bolt
+1 Foul-Tongue Invocation
+2 Flatten
+1 Foul Renewal
+1 Vial of Dragonfire
+1 Kolaghan Monument
+2 Impact Tremors
+1 Evolving Wilds
+13 Mountain
+11 Swamp
+
+Sideboard

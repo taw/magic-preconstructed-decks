@@ -1,0 +1,30 @@
+// NAME: Stampeding Hordes
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
+2 Firehoof Cavalry
+2 Leaping Master
+2 Valley Dasher
+2 Wandering Champion
+2 Mardu Scout
+2 Goblin Roughrider
+2 Sandsteppe Outcast
+1 Geist of the Moors
+2 Goblin Heelcutter
+2 Vaultbreaker
+1 Razorfoot Griffin
+2 Highspire Mantis
+1 Flamerush Rider
+1 Thundering Giant
+1 Act of Treason
+1 Bathe in Dragonfire
+1 Pyrotechnics
+1 Collateral Damage
+1 Deflecting Palm
+1 Ride Down
+1 Dragonrage
+2 War Flare
+2 Heat Ray
+3 Wind-Scarred Crag
+13 Mountain
+9 Plains
+
+Sideboard

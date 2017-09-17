@@ -1,0 +1,32 @@
+// NAME: Furious Forces
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
+2 Atarka Beastbreaker
+2 Glade Watcher
+1 Dragonlord's Servant
+2 Colossodon Yearling
+2 Hardened Berserker
+1 Dragonloft Idol
+2 Sabertooth Outrider
+1 Summit Prowler
+2 Lurking Arynx
+2 Stampeding Elk Herd
+1 Harbinger of the Hunt
+1 Scion of Ugin
+2 Savage Ventmaw
+1 Epic Confrontation
+1 Dragon Fodder
+1 Magmatic Chasm
+1 Roast
+1 Seismic Rupture
+1 Tread Upon
+1 Draconic Roar
+2 Tail Slash
+1 Press the Advantage
+2 Sarkhan's Rage
+1 Atarka Monument
+1 Berserkers' Onslaught
+1 Evolving Wilds
+12 Forest
+12 Mountain
+
+Sideboard

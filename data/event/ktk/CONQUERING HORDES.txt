@@ -1,0 +1,37 @@
+// NAME: CONQUERING HORDES
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/khans-of-tarkir/event-deck
+1 Herald of Anafenza
+3 Mardu Hateblade
+3 Tormented Hero
+1 Bloodsoaked Champion
+2 Chief of the Edge
+2 Chief of the Scale
+2 Seeker of the Way
+3 Oreskos Swiftclaw
+3 Mardu Skullhunter
+1 Pain Seer
+1 Mardu Hordechief
+1 Herald of Torment
+2 Timely Hordemate
+1 Rush of Battle
+1 Bile Blight
+1 Silence the Believers
+1 Spear of Heliod
+1 Spirit Bonds
+2 Banishing Light
+2 Raiders' Spoils
+1 Dictate of Erebos
+1 Dictate of Heliod
+1 Caves of Koilos
+4 Scoured Barrens
+10 Plains
+9 Swamp
+
+Sideboard
+2 Despise
+2 Solemn Offering
+3 Glare of Heresy
+3 Dark Betrayal
+1 Drown in Sorrow
+2 Tormod's Crypt
+2 Brain Maggot

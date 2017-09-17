@@ -1,0 +1,28 @@
+// NAME: Massed Ranks
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
+1 Dromoka Dunecaster
+2 Servant of the Scale
+2 Dromoka Warrior
+3 Lightwalker
+1 Territorial Roc
+1 Scaleguard Sentinels
+2 Sandcrafter Mage
+2 Salt Road Quartermasters
+2 Champion of Arashin
+2 Aven Tactician
+2 Sandsteppe Scavenger
+2 Enduring Scalelord
+1 Arashin Sovereign
+2 Inspiring Call
+2 Scale Blessing
+1 Enduring Victory
+2 Dromoka's Gift
+1 Secure the Wastes
+1 Dromoka Monument
+2 Pacifism
+1 Sheltered Aerie
+1 Evolving Wilds
+13 Plains
+11 Forest
+
+Sideboard

@@ -1,0 +1,38 @@
+// NAME: Landslide Charge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-event-deck-2015-03-18
+4 Elvish Mystic
+2 Golden Hind
+4 Heir of the Wilds
+2 Mogis's Warhound
+1 Boon Satyr
+1 Yasova Dragonclaw
+4 Fanatic of Xenagos
+1 Savage Knuckleblade
+1 Surrak, the Hunt Caller
+1 Thunderbreak Regent
+1 Polis Crusher
+1 Mistcutter Hydra
+2 Roast
+1 Arc Lightning
+1 Crater's Claws
+2 Wild Slash
+1 Stubborn Denial
+2 Lightning Strike
+2 Temur Charm
+1 Outpost Siege
+4 Evolving Wilds
+4 Frontier Bivouac
+1 Temple of Abandon
+10 Forest
+5 Mountain
+1 Island
+
+Sideboard
+1 Stubborn Denial
+2 Arc Lightning
+2 Rending Volley
+2 Disdainful Stroke
+2 Encase in Ice
+2 Abzan Beastmaster
+2 Reclamation Sage
+2 Act of Treason
