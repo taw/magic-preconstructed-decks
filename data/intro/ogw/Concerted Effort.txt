@@ -1,0 +1,31 @@
+// NAME: Concerted Effort
+// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+2 Kor Sky Climber
+2 Expedition Envoy
+2 Kitesail Scout
+2 Cliffside Lookout
+1 Oran-Rief Invoker
+2 Kor Castigator
+2 Makindi Aeronaut
+2 Shadow Glider
+2 Joraga Auxiliary
+1 Veteran Warleader
+1 Saddleback Lagac
+2 Relief Captain
+1 Steppe Glider
+2 Expedition Raptor
+1 Angel of Renewal
+1 Gladehart Cavalry
+2 Shoulder to Shoulder
+1 Allied Reinforcements
+2 Lead by Example
+1 Immolating Glare
+1 Mighty Leap
+1 Iona's Blessing
+2 Isolation Zone
+1 Evolving Wilds
+1 Tranquil Expanse
+7 Forest
+15 Plains
+
+Sideboard

@@ -1,0 +1,29 @@
+// NAME: Twisted Reality
+// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+1 Prophet of Distortion
+2 Salvage Drone
+3 Blinding Drone
+3 Mist Intruder
+1 Tide Drifter
+3 Cultivator Drone
+2 Eldrazi Skyspawner
+1 Ruination Guide
+2 Gravity Negator
+2 Murk Strider
+1 Thought Harvester
+2 Kozilek's Channeler
+2 Walker of the Wastes
+1 Kozilek's Pathfinder
+1 Deepfathom Skulker
+1 Bane of Bala Ged
+1 Endless One
+2 Spatial Contortion
+1 Titan's Presence
+1 Adverse Conditions
+1 Scour from Existence
+1 Blighted Cataract
+1 Evolving Wilds
+10 Wastes
+14 Island
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Call of Blood
+// COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+1 Zulaport Cutthroat
+2 Kitesail Scout
+2 Serene Steward
+3 Stone Haven Medic
+1 Hagra Sharpshooter
+2 Malakir Familiar
+3 Nirkana Assassin
+1 Shadow Glider
+2 Drana's Emissary
+2 Courier Griffin
+2 Bloodbond Vampire
+2 Kalastria Nightwatch
+1 Felidar Sovereign
+1 Defiant Bloodlord
+2 Dutiful Return
+2 Demon's Grasp
+2 Gideon's Reproach
+2 Tandem Tactics
+1 Roil's Retribution
+1 Blighted Steppe
+2 Evolving Wilds
+2 Mortuary Mire
+10 Swamp
+11 Plains
+
+Sideboard

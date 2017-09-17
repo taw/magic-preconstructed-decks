@@ -1,0 +1,34 @@
+// NAME: Vicious Cycle
+// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+2 Stalking Drone
+2 Carrier Thrall
+2 Loam Larva
+2 Blisterpod
+2 Rot Shambler
+1 Essence Depleter
+1 Voracious Null
+2 Netcaster Spider
+1 Null Caller
+1 Broodhunter Wurm
+1 Smothering Abomination
+2 Seed Guardian
+1 Kozilek's Pathfinder
+1 Brood Monitor
+1 Baloth Null
+1 Dread Defiler
+2 Bone Splinters
+2 Oblivion Strike
+1 Vines of the Recluse
+1 Altar's Reap
+2 Corpse Churn
+1 Grasp of Darkness
+2 Natural Connection
+1 Pulse of Murasa
+1 Blighted Woodland
+1 Evolving Wilds
+2 Fertile Thicket
+4 Wastes
+8 Swamp
+9 Forest
+
+Sideboard

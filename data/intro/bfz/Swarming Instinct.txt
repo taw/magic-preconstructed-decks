@@ -1,0 +1,28 @@
+// NAME: Swarming Instinct
+// COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+1 Drowner of Hope
+3 Blisterpod
+2 Tide Drifter
+3 Eldrazi Skyspawner
+1 Pilgrim's Eye
+3 Incubator Drone
+2 Eyeless Watcher
+2 Kozilek's Channeler
+1 Brood Monitor
+1 Bane of Bala Ged
+2 Breaker of Armies
+1 Desolation Twin
+3 Call the Scions
+1 Titan's Presence
+2 Spell Shrivel
+1 Unnatural Aggression
+1 Adverse Conditions
+2 Scour from Existence
+2 Hedron Archive
+1 Blighted Cataract
+2 Evolving Wilds
+2 Skyline Cascade
+10 Island
+11 Forest
+
+Sideboard

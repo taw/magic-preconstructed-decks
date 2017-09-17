@@ -1,0 +1,28 @@
+// NAME: Surge of Resistance
+// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+2 Stormchaser Mage
+3 Umara Entangler
+3 Lavastep Raider
+2 Reckless Bushwhacker
+3 Goblin Freerunner
+2 Cloud Manta
+1 Cyclone Sire
+2 Jwar Isle Avenger
+1 Windrider Patrol
+1 Tyrant of Valakut
+1 Boulder Salvo
+1 Ugin's Insight
+1 Roiling Waters
+1 Rolling Thunder
+2 Expedite
+2 Anticipate
+1 Grip of the Roil
+2 Comparative Analysis
+2 Containment Membrane
+2 Pyromancer's Assault
+1 Blighted Gorge
+1 Evolving Wilds
+12 Mountain
+11 Island
+
+Sideboard

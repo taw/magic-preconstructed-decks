@@ -1,0 +1,34 @@
+// NAME: Zendikar's Rage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+1 Scythe Leopard
+2 Lavastep Raider
+2 Oran-Rief Invoker
+1 Rot Shambler
+2 Snapping Gnarlid
+1 Makindi Sliderunner
+2 Tunneling Geopede
+2 Valakut Invoker
+1 Valakut Predator
+2 Broodhunter Wurm
+1 Murasa Ranger
+1 Grove Rumbler
+2 Territorial Baloth
+1 Oran-Rief Hydra
+2 Seek the Wilds
+2 Sylvan Scrying
+1 Reclaiming Vines
+1 Nissa's Renewal
+1 Rolling Thunder
+1 Swell of Growth
+1 Sure Strike
+1 Natural Connection
+1 Stonefury
+1 Retreat to Kazandu
+1 Retreat to Valakut
+1 Blighted Woodland
+3 Evolving Wilds
+2 Fertile Thicket
+10 Mountain
+10 Forest
+
+Sideboard

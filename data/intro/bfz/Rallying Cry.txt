@@ -1,0 +1,29 @@
+// NAME: Rallying Cry
+// COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+3 Cliffside Lookout
+2 Kor Bladewhirl
+2 Expedition Envoy
+2 Kor Castigator
+3 Reckless Cohort
+2 Makindi Patrol
+2 Firemantle Mage
+1 Chasm Guide
+1 Ondu Champion
+1 Hero of Goma Fada
+2 Kor Entanglers
+2 Shatterskull Recruit
+1 Angelic Captain
+1 Resolute Blademaster
+1 Angel of Renewal
+2 Lithomancer's Focus
+2 Outnumber
+2 Smite the Monstrous
+2 Inspired Charge
+1 Angelic Gift
+1 Blighted Gorge
+2 Evolving Wilds
+2 Sandstone Bridge
+10 Mountain
+10 Plains
+
+Sideboard

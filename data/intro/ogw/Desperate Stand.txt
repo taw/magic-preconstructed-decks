@@ -1,0 +1,30 @@
+// NAME: Desperate Stand
+// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+2 Expedition Envoy
+1 Cliffside Lookout
+2 Kor Castigator
+2 Ondu War Cleric
+2 Serene Steward
+2 Kalastria Healer
+2 Kor Scythemaster
+2 Vampire Envoy
+1 Drana's Emissary
+2 Spawnbinder Mage
+1 Drana's Chosen
+2 Zulaport Chainmage
+1 Cliffhaven Vampire
+2 Kor Entanglers
+1 Munda's Vanguard
+1 Malakir Soothsayer
+2 Allied Reinforcements
+1 Dutiful Return
+1 Dazzling Reflection
+2 Gideon's Reproach
+2 Tar Snare
+1 Smite the Monstrous
+1 Blighted Fen
+1 Evolving Wilds
+14 Plains
+9 Swamp
+
+Sideboard
