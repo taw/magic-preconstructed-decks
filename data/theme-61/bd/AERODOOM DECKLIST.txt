@@ -1,0 +1,45 @@
+// NAME: AERODOOM DECKLIST
+// COMMENTS: https://magic.wizards.com/en/products/beatdown
+1 Air Elemental
+1 Blizzard Elemental
+1 Clockwork Avian
+1 Cloud Djinn
+1 Cloud Elemental
+1 Fallen Angel
+1 Feral Shadow
+1 Fog Elemental
+1 Giant Crab
+1 Gravedigger
+1 Hollow Dogs
+1 Killer Whale
+1 Leviathan
+1 Mahamoti Djinn
+1 Sengir Vampire
+1 Skittering Horror
+1 Skittering Skirge
+1 Snapping Drake
+1 Tar Pit Warrior
+1 Vigilant Drake
+1 Wayward Soul
+1 Coercion
+1 Death Stroke
+1 Diabolic Vision
+1 Drain Life
+1 Bone Harvest
+1 Brainstorm
+1 Counterspell
+1 Dark Ritual
+1 Diabolic Edict
+1 Impulse
+1 Power Sink
+1 Tolarian Winds
+1 Terror
+1 Gaseous Form
+1 Ebon Stronghold
+11 Island
+1 Polluted Mire
+1 Remote Isle
+1 Svyelunite Temple
+11 Swamp
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: Garfield
+// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=1&lang=en
+2 Storm Shaman
+2 Fyndhorn Elves
+2 Balduvian Bears
+2 Woolly Spider
+1 Lhurgoyf
+2 Yavimaya Ants
+1 Folk of the Pines
+1 Elvish Bard
+2 Yavimaya Ancients
+2 Giant Trap Door Spider
+2 Phyrexian War Beast
+2 Walking Wall
+2 Death Spark
+2 Incinerate
+1 Shatter
+1 Pillage
+1 Jokulhaups
+2 Lava Burst
+2 Giant Growth
+1 Bounty of the Hunt
+1 Hurricane
+2 Barbed Sextant
+1 Elkin Bottle
+12 Mountain
+12 Forest
+1 Karplusan Forest
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: THE DELUGE DECKLIST
+// COMMENTS: https://magic.wizards.com/en/products/battle-royale
+1 Advance Scout
+1 Angelic Page
+1 Argothian Elder
+1 Armored Pegasus
+1 Dirtcowl Wurm
+1 Elvish Lyrist
+1 Master Decoy
+1 Sanctum Custodian
+1 Sanctum Guardian
+1 Seasoned Marshal
+1 Scaled Wurm
+1 Soltari Foot Soldier
+1 Spike Colony
+1 Spike Worker
+1 Catastrophe
+1 Hurricane
+1 Giant Growth
+1 Sandstorm
+1 Fecundity
+1 Fertile Ground
+1 Land Tax
+1 Pacifism
+1 Sun Clasp
+1 Drifting Meadow
+6 Forest
+9 Plains
+1 Vec Townships
+
+Sideboard

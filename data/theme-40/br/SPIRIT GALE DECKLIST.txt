@@ -1,0 +1,31 @@
+// NAME: SPIRIT GALE DECKLIST
+// COMMENTS: https://magic.wizards.com/en/products/battle-royale
+1 Air Elemental
+1 Azure Drake
+1 Blinking Spirit
+1 Disruptive Student
+1 Infantry Veteran
+1 Man-o'-War
+1 Manta Riders
+1 Prodigal Sorcerer
+1 Songstitcher
+1 Soul Warden
+1 Wind Drake
+1 Wrath of God
+1 Windfall
+1 Counterspell
+1 Curfew
+1 Disenchant
+1 Healing Salve
+1 Mana Leak
+1 Opportunity
+1 Ray of Command
+1 Swords to Plowshares
+1 Control Magic
+1 Flood
+9 Island
+6 Plains
+1 Remote Isle
+1 Thalakos Lowlands
+
+Sideboard

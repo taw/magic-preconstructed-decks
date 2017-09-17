@@ -1,0 +1,27 @@
+// NAME: Endless March
+// COMMENTS: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
+10 Mountain
+11 Plains
+3 Terramorphic Expanse
+1 Avalanche Riders
+3 Aven Riftwatcher
+2 Calciderm
+1 Children of Korlis
+1 Dust Elemental
+2 Errant Doomsayers
+2 Icatian Javelineers
+2 Jhoira's Timebug
+1 Keldon Marauders
+2 Lavacore Elemental
+2 Mogg War Marshal
+1 Riftmarked Knight
+1 Soltari Priest
+2 Stonecloaker
+2 Stormfront Riders
+3 Whitemane Lion
+2 Brute Force
+1 Dawn Charm
+1 Dead
+1 Fatal Frenzy
+1 Sunlance
+2 Timecrafting

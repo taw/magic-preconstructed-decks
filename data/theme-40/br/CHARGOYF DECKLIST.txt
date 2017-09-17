@@ -1,0 +1,31 @@
+// NAME: CHARGOYF DECKLIST
+// COMMENTS: https://magic.wizards.com/en/products/battle-royale
+1 Gorilla Warrior
+1 Lhurgoyf
+1 Llanowar Elves
+1 Pincher Beetles
+1 Plated Rootwalla
+1 Raging Goblin
+1 River Boa
+1 Scryb Sprites
+1 Seeker of Skybreak
+1 Skyshroud Elite
+1 Spike Feeder
+1 Spike Weaver
+1 Trumpeting Armodon
+1 Uthden Troll
+1 Village Elder
+1 Wildfire Emissary
+1 Arc Lightning
+1 Steam Blast
+1 Tranquility
+1 Shower of Sparks
+1 Symbiosis
+1 Broken Fall
+1 Maniacal Rage
+9 Forest
+1 Mogg Hollows
+6 Mountain
+1 Slippery Karst
+
+Sideboard

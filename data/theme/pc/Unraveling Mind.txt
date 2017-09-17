@@ -1,0 +1,26 @@
+// NAME: Unraveling Mind
+// COMMENTS: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
+7 Mountain
+14 Swamp
+3 Terramorphic Expanse
+2 Big Game Hunter
+2 Brain Gorgers
+1 Dauthi Slayer
+2 Gorgon Recluse
+1 Magus of the Arena
+4 Mindlash Sliver
+1 Mirri the Cursed
+2 Muck Drubb
+2 Nightshade Assassin
+2 Phantasmagorian
+2 Reckless Wurm
+1 Ridged Kusite
+3 Trespasser il-Vec
+3 Undertaker
+1 Dark Withering
+1 Fiery Temper
+1 Kor Dirge
+2 Lightning Axe
+1 Treacherous Urge
+1 Browbeat
+1 Disintegrate

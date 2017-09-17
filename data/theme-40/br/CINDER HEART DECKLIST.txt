@@ -1,0 +1,31 @@
+// NAME: CINDER HEART DECKLIST
+// COMMENTS: https://magic.wizards.com/en/products/battle-royale
+1 Abyssal Specter
+1 Cackling Fiend
+1 Crazed Skirge
+1 Fire Ants
+1 Lightning Elemental
+1 Nekrataal
+1 Phyrexian Ghoul
+1 Sengir Vampire
+1 Sewer Rats
+1 Wall of Heat
+1 Exhume
+1 Living Death
+1 Reanimate
+1 Rolling Thunder
+1 Syphon Soul
+1 Unnerve
+1 Dark Ritual
+1 Heat Ray
+1 Terror
+1 Pestilence
+1 Sadistic Glee
+1 Subversion
+1 Weakness
+1 Cinder Marsh
+7 Mountain
+1 Polluted Mire
+8 Swamp
+
+Sideboard
