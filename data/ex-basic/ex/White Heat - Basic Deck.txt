@@ -1,0 +1,25 @@
+// NAME: Windowmaker - Basic Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+9 Mountain
+13 Plains
+4 Soltari Foot Soldier
+2 Master Decoy
+2 Pegasus Stampede
+4 Welkin Hawk
+2 Knight of Dawn
+1 Paladin en-Vec
+3 Soltari Visionary
+1 Wall of Nets
+1 Goblin Bombardment
+1 Limited Resources
+1 Onslaught
+1 Reconnaissance
+2 Searing Touch
+1 Shackles
+1 Shattering Pulse
+2 Shock
+2 Sonic Burst
+2 Lightning Blast
+4 Kindle
+1 Temper

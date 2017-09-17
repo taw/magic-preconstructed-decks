@@ -1,0 +1,25 @@
+// NAME: Windowmaker - Basic Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+14 Island
+11 Swamp
+3 Manta Riders
+4 Merfolk Looter
+1 Keeper of the Mind
+1 Rootwater Hunter
+1 Thalakos Scout
+3 Vampire Hounds
+2 Mind Maggots
+1 Skyshroud Vampire
+1 Mindless Automaton
+1 Null Brooch
+1 Oath of Scholars
+1 Treasure Trove
+1 Capsize
+2 Counterspell
+2 Dark Banishing
+2 Dark Ritual
+2 Diabolic Edict
+2 Forbid
+2 Mana Leak
+2 Necrologia

@@ -1,0 +1,36 @@
+// NAME: Windowmaker - Advanced Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+8 Island
+4 Rootwater Depths
+7 Swamp
+4 Underground River
+2 Undiscovered Paradise
+1 Phyrexian Furnace
+4 Merfolk Looter
+4 Merfolk Traders
+4 Man-o
+2 Blood Pet
+1 Vampire Hounds
+1 Necratog
+2 Fallen Angel
+1 Spirit of the Night
+1 Bottle Gnomes
+2 Counterspell
+1 Dark Ritual
+1 Dissipate
+2 Impulse
+2 Memory Lapse
+1 Spinning Darkness
+1 Ancestral Memories
+1 Haunting Misery
+3 Living Death
+Sideboard
+2 Hydroblast
+1 Sleight of Mind
+1 Blood Pet
+3 Dread of Night
+1 Crypt Rats
+4 Nekrataal
+1 Living Death
+2 Ice Floe

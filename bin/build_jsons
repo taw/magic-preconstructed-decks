@@ -79,6 +79,12 @@ class BuildJsons
     when "planechase"
       ensure_deck_size(path, deck, 60, 10)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planechase Deck")
+    when "ex-basic"
+      ensure_deck_size(path, deck, 60, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Basic Deck")
+    when "ex-advanced"
+      ensure_deck_size(path, deck, 60, 15)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Advanced Deck")
     else
       warn "WTF #{deck_type} #{deck.size}+#{deck.sideboard_size}"
     end
@@ -98,7 +104,7 @@ class BuildJsons
     if save_path
       open(save_path, "w"){|fh| save_jsons(fh)}
     else
-      save_jsons(STDOUT)
+      # save_jsons(STDOUT)
     end
   end
 end

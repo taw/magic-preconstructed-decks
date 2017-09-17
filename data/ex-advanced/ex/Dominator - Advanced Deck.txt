@@ -1,0 +1,32 @@
+// NAME: Dominator - Advanced Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+17 Island
+3 Undiscovered Paradise
+4 Wasteland
+3 Man-o
+2 Suq'Ata Firewalker
+1 Erratic Portal
+2 Fellwar Stone
+4 Winter Orb
+1 Legacy's Allure
+2 Propaganda
+2 Capsize
+4 Counterspell
+2 Force Spike
+2 Impulse
+4 Mana Leak
+4 Memory Lapse
+2 Mind Games
+1 Power Sink
+Sideboard
+4 Hydroblast
+1 Chill
+1 Hurkyl's Recall
+2 Boomerang
+1 Legacy's Allure
+2 Propaganda
+1 Zur's Weirding
+1 Phyrexian Furnace
+1 Erratic Portal
+1 Portcullis

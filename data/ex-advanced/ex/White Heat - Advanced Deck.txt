@@ -1,0 +1,32 @@
+// NAME: White Heat - Advanced Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+2 City of Brass
+3 Gemstone Mine
+4 Mountain
+7 Plains
+3 Undiscovered Paradise
+2 Infantry Veteran
+4 Order of the White Shield
+4 Soltari Foot Soldier
+2 Soltari Priest
+2 Soltari Visionary
+4 Vigilant Martyr
+4 Welkin Hawk
+2 White Knight
+2 Disenchant
+4 Incinerate
+4 Kindle
+3 Shock
+2 Tithe
+2 Armageddon
+Sideboard
+2 Aura of Silence
+1 Circle of Protection: Red
+1 City of Solitude
+1 Crusade
+2 Disenchant
+1 Tariff
+4 Wasteland
+2 Winter Orb
+1 Zur's Weirding

@@ -1,0 +1,24 @@
+// NAME: Groundbreaker - Basic Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+12 Mountain
+12 Swamp
+3 Anarchist
+1 Dauthi Slayer
+2 Dauthi Jackal
+1 Monstrous Hound
+1 Scalding Salamander
+1 Thopter Squadron
+2 Thrull Surgeon
+2 Vampire Hounds
+1 Volrath's Dungeon
+3 Diabolic Edict
+1 Necrologia
+1 Searing Touch
+3 Shock
+2 Aftershock
+1 Evincar's Justice
+3 Flowstone Flood
+1 Nausea
+3 Rain of Tears
+4 Stone Rain

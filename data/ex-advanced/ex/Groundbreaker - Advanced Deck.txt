@@ -1,0 +1,39 @@
+// NAME: Groundbreaker - Advanced Deck
+// COMMENT: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// COMMENT: https://mtg.gamepedia.com/Exodus/Theme_decks
+1 City of Brass
+1 Forest
+2 Karplusan Forest
+3 Mountain
+3 Quicksand
+3 Reflecting Pool
+2 Sulfurous Springs
+3 Swamp
+2 Undiscovered Paradise
+4 Wasteland
+2 Anarchist
+1 Army Ants
+1 Dirtcowl Wurm
+2 Monstrous Hound
+3 Orcish Settlers
+1 Orgg
+1 Plaguebearer
+1 Ravenous Baboons
+2 Uktabi Orangutan
+3 Diabolic Edict
+4 Incinerate
+2 Searing Touch
+2 Earthquake
+2 Flowstone Flood
+1 Hammer of Bogardan
+4 Rain of Tears
+4 Stone Rain
+Sideboard
+2 Perish
+1 Earthquake
+2 Boil
+1 Ravenous Baboons
+2 City of Solitude
+2 Tranquility
+2 Uktabi Orangutan
+3 Nevinyrral's Disk
