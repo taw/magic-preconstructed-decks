@@ -1,0 +1,18 @@
+// NAME: Amonkhet Welcome Deck—Red
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+1 Shivan Dragon
+2 Falkenrath Reaver
+1 Thundering Giant
+2 Frontline Rebel
+1 Brazen Scourge
+2 Terror of the Fairgrounds
+1 Hyena Pack
+1 Wrangle
+1 Renegade Tactics
+1 Hungry Flames
+2 Shock
+1 Fling
+1 Flame Lash
+13 Mountain
+
+Sideboard

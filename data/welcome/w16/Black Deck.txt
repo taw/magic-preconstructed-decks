@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// COMMENTS: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
+1 Blighted Fen
+12 Swamp
+1 Hagra Sharpshooter
+1 Nightmare
+1 Rottenheart Ghoul
+1 Sengir Vampire
+1 Vampire Envoy
+1 Vampire Noble
+2 Walking Corpse
+1 Zulaport Cutthroat
+1 Bone Splinters
+1 Dead Weight
+2 Demon's Grasp
+1 Dutiful Return
+1 Mind Rot
+1 Tar Snare
+1 Untamed Hunger

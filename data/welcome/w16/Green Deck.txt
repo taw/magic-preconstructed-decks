@@ -1,0 +1,19 @@
+// NAME: Green Deck
+// COMMENTS: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
+1 Blighted Woodland
+12 Forest
+2 Broodhunter Wurm
+1 Giant Mantis
+1 Gloomwidow
+1 Lifespring Druid
+2 Quilled Wolf
+1 Rot Shambler
+1 Soul of the Harvest
+1 Thornhide Wolves
+1 Aim High
+1 Incremental Growth
+1 Oakenform
+1 Plummet
+1 Pulse of Murasa
+1 Rabid Bite
+1 Seek the Wilds

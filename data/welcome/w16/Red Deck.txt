@@ -1,0 +1,18 @@
+// NAME: Red Deck
+// COMMENTS: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
+1 Blighted Gorge
+12 Mountain
+2 Borderland Marauder
+1 Cinder Hellion
+2 Hulking Devil
+1 Lavastep Raider
+1 Pyre Hound
+1 Shivan Dragon
+1 Valakut Invoker
+2 Brute Strength
+1 Cone of Flame
+1 Devour in Flames
+1 Outnumber
+1 Rolling Thunder
+1 Sparkmage's Gambit
+1 Stonefury

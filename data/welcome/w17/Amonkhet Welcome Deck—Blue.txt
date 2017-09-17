@@ -1,0 +1,17 @@
+// NAME: Amonkhet Welcome Deck—Blue
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+1 Sphinx of Magosi
+1 Air Elemental
+2 Coral Merfolk
+1 Stealer of Secrets
+1 Wind Drake
+2 Ancient Crab
+1 Angler Drake
+1 Nimble Innovator
+2 Drag Under
+1 Inspiration
+2 Sleep Paralysis
+2 Tricks of the Trade
+13 Island
+
+Sideboard

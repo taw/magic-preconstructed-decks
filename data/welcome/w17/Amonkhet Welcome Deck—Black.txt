@@ -1,0 +1,17 @@
+// NAME: Amonkhet Welcome Deck—Black
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+1 Nightmare
+2 Bloodhunter Bat
+1 Sengir Vampire
+1 Alley Strangler
+1 Cursed Minotaur
+1 Dune Beetle
+1 Gravedigger
+2 Tattered Mummy
+2 Certain Death
+1 Raise Dead
+2 Essence Extraction
+2 Untamed Hunger
+13 Swamp
+
+Sideboard

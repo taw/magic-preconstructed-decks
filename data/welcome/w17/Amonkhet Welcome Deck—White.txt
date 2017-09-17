@@ -1,0 +1,17 @@
+// NAME: Amonkhet Welcome Deck—White
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+1 Victory's Herald
+1 Stormfront Pegasus
+2 Graceful Cat
+1 Serra Angel
+1 Dawnfeather Eagle
+1 Bastion Enforcer
+2 Standing Troops
+2 Glory Seeker
+1 Mighty Leap
+2 Inspired Charge
+1 Divine Verdict
+2 Impeccable Timing
+13 Plains
+
+Sideboard
