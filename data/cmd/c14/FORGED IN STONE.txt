@@ -1,4 +1,4 @@
-// NAME: FORGED IN STONE
+// NAME: Forged In Stone
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
 1 Containment Priest
 1 Whitemane Lion

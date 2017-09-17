@@ -1,4 +1,4 @@
-// NAME: CUNNING
+// NAME: Cunning
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-speed-vs-cunning
 2 Faerie Impostor
 2 Coral Trickster

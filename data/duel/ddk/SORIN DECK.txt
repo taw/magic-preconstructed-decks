@@ -1,4 +1,4 @@
-// NAME: SORIN DECK
+// NAME: Sorin Deck
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-sorin-vs-tibalt
 1 Sorin, Lord of Innistrad
 1 Bloodrage Vampire

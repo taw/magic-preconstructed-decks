@@ -1,4 +1,4 @@
-// NAME: DEMONIC
+// NAME: Demonic
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-divine-vs-demonic
 1 Abyssal Gatekeeper
 1 Abyssal Specter

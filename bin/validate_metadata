@@ -32,6 +32,9 @@ class ValidateMetadata
       if title_from_file != title_from_path
         warn "#{path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
       end
+      if title_from_file == title_from_file.upcase
+        warn "#{path}: All capital title"
+      end
     end
   end
 end

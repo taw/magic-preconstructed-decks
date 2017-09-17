@@ -1,4 +1,4 @@
-// NAME: CHANDRA DECKLIST
+// NAME: Chandra Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
 1 Chandra Nalaar
 1 Chartooth Cougar

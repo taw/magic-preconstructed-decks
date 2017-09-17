@@ -1,4 +1,4 @@
-// NAME: STRENGTH OF SELESNYA
+// NAME: Strength Of Selesnya
 // COMMENTS: https://magic.wizards.com/en/content/event-decklist-dragons-maze-card-set-archive
 1 Champion of Lambholt
 2 Doomed Traveler

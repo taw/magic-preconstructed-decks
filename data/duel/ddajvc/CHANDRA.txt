@@ -1,4 +1,4 @@
-// NAME: CHANDRA
+// NAME: Chandra
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 1 Chandra Nalaar
 1 Chartooth Cougar

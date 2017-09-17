@@ -1,4 +1,4 @@
-// NAME: JACE DECKLIST
+// NAME: Jace Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
 1 Jace Beleren
 1 Aethersnipe

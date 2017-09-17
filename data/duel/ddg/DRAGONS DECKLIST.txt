@@ -1,4 +1,4 @@
-// NAME: DRAGONS DECKLIST
+// NAME: Dragons Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
 1 Bloodmark Mentor
 1 Bogardan Hellkite

@@ -1,4 +1,4 @@
-// NAME: KNIGHTS DECKLIST
+// NAME: Knights Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
 1 Alaborn Cavalier
 1 Benalish Lancer

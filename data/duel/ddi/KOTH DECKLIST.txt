@@ -1,4 +1,4 @@
-// NAME: KOTH DECKLIST
+// NAME: Koth Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
 1 Koth of the Hammer
 1 Aether Membrane

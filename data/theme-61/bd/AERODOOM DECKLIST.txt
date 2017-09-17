@@ -1,4 +1,4 @@
-// NAME: AERODOOM DECKLIST
+// NAME: Aerodoom Decklist
 // COMMENTS: https://magic.wizards.com/en/products/beatdown
 1 Air Elemental
 1 Blizzard Elemental

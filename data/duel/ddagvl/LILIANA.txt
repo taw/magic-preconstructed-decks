@@ -1,4 +1,4 @@
-// NAME: LILIANA
+// NAME: Liliana
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 1 Liliana Vess
 1 Deathgreeter

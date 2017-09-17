@@ -1,4 +1,4 @@
-// NAME: SAVAGE AURAS
+// NAME: Savage Auras
 // COMMENTS: https://magic.wizards.com/en/content/savage-auras-planechase-2012-edition-card-set-archive
 // COMMENTS: Box contains 86 plane cards, not linked with any specific deck
 2 Armored Griffin

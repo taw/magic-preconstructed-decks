@@ -1,4 +1,4 @@
-// NAME: GOBLINS
+// NAME: Goblins
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 1 Siege-Gang Commander
 1 Akki Coalflinger

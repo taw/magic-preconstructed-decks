@@ -1,4 +1,4 @@
-// NAME: SWORN TO DARKNESS
+// NAME: Sworn To Darkness
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/sworn-to-darkness
 1 Skirsdag High Priest
 1 Nantuko Shade

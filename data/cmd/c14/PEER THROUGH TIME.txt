@@ -1,4 +1,4 @@
-// NAME: PEER THROUGH TIME
+// NAME: Peer Through Time
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/peer-through-time
 1 Azure Mage
 1 Fathom Seer

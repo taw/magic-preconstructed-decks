@@ -1,4 +1,4 @@
-// NAME: SPEED
+// NAME: Speed
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-speed-vs-cunning
 1 Frenzied Goblin
 1 Infantry Veteran

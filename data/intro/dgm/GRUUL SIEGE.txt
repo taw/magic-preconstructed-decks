@@ -1,4 +1,4 @@
-// NAME: GRUUL SIEGE
+// NAME: Gruul Siege
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
 2 Cobblebrute
 2 Feral Animist

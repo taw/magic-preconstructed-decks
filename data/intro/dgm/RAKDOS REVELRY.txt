@@ -1,4 +1,4 @@
-// NAME: RAKDOS REVELRY
+// NAME: Rakdos Revelry
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
 1 Bloodfray Giant
 2 Carnage Gladiator

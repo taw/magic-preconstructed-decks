@@ -1,4 +1,4 @@
-// NAME: ELSPETH DECKLIST
+// NAME: Elspeth Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-tezzeret
 1 Elspeth, Knight-Errant
 1 Angel of Salvation

@@ -1,4 +1,4 @@
-// NAME: DEATHFED
+// NAME: Deathfed
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/innistrad/event-deck-decklists
 2 Acidic Slime
 4 Armored Skaab

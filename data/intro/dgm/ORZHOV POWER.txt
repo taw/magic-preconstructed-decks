@@ -1,4 +1,4 @@
-// NAME: ORZHOV POWER
+// NAME: Orzhov Power
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
 3 Bane Alley Blackguard
 1 Basilica Guards

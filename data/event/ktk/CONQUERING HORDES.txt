@@ -1,4 +1,4 @@
-// NAME: CONQUERING HORDES
+// NAME: Conquering Hordes
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/khans-of-tarkir/event-deck
 1 Herald of Anafenza
 3 Mardu Hateblade

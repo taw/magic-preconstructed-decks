@@ -1,4 +1,4 @@
-// NAME: AZORIUS AUTHORITY
+// NAME: Azorius Authority
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
 2 Ascended Lawmage
 2 Azorius Arrester

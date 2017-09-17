@@ -1,4 +1,4 @@
-// NAME: HOLD THE LINE
+// NAME: Hold The Line
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/innistrad/event-deck-decklists
 4 Accorder Paladin
 1 Champion of the Parish

@@ -1,4 +1,4 @@
-// NAME: CINDER HEART DECKLIST
+// NAME: Cinder Heart Decklist
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
 1 Abyssal Specter
 1 Cackling Fiend

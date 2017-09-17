@@ -1,4 +1,4 @@
-// NAME: GARRUK
+// NAME: Garruk
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 1 Garruk Wildspeaker
 2 Albino Troll

@@ -1,4 +1,4 @@
-// NAME: VENSER DECKLIST
+// NAME: Venser Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
 1 Venser, the Sojourner
 1 Augury Owl

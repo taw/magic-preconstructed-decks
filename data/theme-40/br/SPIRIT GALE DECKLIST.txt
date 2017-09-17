@@ -1,4 +1,4 @@
-// NAME: SPIRIT GALE DECKLIST
+// NAME: Spirit Gale Decklist
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
 1 Air Elemental
 1 Azure Drake

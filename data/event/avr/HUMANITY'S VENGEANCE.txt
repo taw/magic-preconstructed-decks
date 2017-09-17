@@ -1,4 +1,4 @@
-// NAME: HUMANITY'S VENGEANCE
+// NAME: Humanity's Vengeance
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/avacyn-restored/event-deck-decklists
 1 Blade Splicer
 4 Fiend Hunter

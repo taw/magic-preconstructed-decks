@@ -1,4 +1,4 @@
-// NAME: BRING ABOUT THE UNDEAD APOCALYPSE DECKLIST
+// NAME: Bring About The Undead Apocalypse Decklist
 // COMMENTS: https://magic.wizards.com/en/archenemy
 1 Artisan of Kozilek
 1 Avatar of Discord

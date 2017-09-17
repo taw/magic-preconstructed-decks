@@ -1,4 +1,4 @@
-// NAME: LILIANA
+// NAME: Liliana
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
 1 Liliana Vess
 1 Deathgreeter

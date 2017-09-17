@@ -1,4 +1,4 @@
-// NAME: PRICE OF GLORY
+// NAME: Price Of Glory
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
 3 Soulmender
 1 Kinsbaile Skirmisher

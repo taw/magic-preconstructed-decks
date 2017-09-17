@@ -1,4 +1,4 @@
-// NAME: THE COALITION DECKLIST
+// NAME: The Coalition Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
 1 Charging Troll
 1 Darigaaz, the Igniter

@@ -1,4 +1,4 @@
-// NAME: ASSEMBLE THE DOOMSDAY MACHINE DECKLIST
+// NAME: Assemble The Doomsday Machine Decklist
 // COMMENTS: https://magic.wizards.com/en/archenemy
 1 Architects of Will
 1 Duplicant

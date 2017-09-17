@@ -1,4 +1,4 @@
-// NAME: NICOL BOLAS DECKLIST
+// NAME: Nicol Bolas Decklist
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
 1 Nicol Bolas, Planeswalker
 1 Blazing Specter
