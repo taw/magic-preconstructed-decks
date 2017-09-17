@@ -1,0 +1,35 @@
+// NAME: Ob Nixilis
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01
+1 Ob Nixilis Reignited
+2 Carrier Thrall
+2 Fetid Imp
+1 Despoiler of Souls
+1 Foul Imp
+2 Blistergrub
+1 Giant Scorpion
+1 Cadaver Imp
+1 Bala Ged Scorpion
+1 Desecration Demon
+1 Squelching Leeches
+1 Indulgent Tormentor
+1 Priest of the Blood Rite
+1 Renegade Demon
+1 Pestilence Demon
+1 Innocent Blood
+1 Mire's Toll
+2 Grim Discovery
+2 Smallpox
+1 Ambition's Cost
+1 Demon's Grasp
+1 Disfigure
+1 Altar's Reap
+2 Doom Blade
+1 Hideous End
+1 Tendrils of Corruption
+2 Quest for the Gravelord
+1 Shadows of the Past
+1 Unhallowed Pact
+2 Leechridden Swamp
+22 Swamp
+
+Sideboard

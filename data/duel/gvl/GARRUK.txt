@@ -1,0 +1,32 @@
+// NAME: GARRUK
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
+1 Garruk Wildspeaker
+2 Albino Troll
+2 Basking Rootwalla
+2 Blastoderm
+2 Indrik Stomphowler
+1 Krosan Tusker
+1 Plated Slagwurm
+1 Ravenous Baloth
+1 Stampeding Wildebeests
+2 Vine Trellis
+2 Wild Mongrel
+2 Wirewood Savage
+2 Harmonize
+2 Nature's Lore
+1 Overrun
+1 Rude Awakening
+1 Beast Attack
+1 Giant Growth
+1 Invigorate
+1 Windstorm
+2 Serrated Arrows
+1 Elephant Guide
+1 Genju of the Cedars
+1 Lignify
+2 Rancor
+21 Forest
+2 Slippery Karst
+1 Treetop Village
+
+Sideboard

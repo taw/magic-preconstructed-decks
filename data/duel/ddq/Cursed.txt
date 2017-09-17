@@ -1,0 +1,36 @@
+// NAME: Cursed
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-blessed-vs-cursed
+1 Diregraf Ghoul
+1 Gravecrawler
+2 Butcher Ghoul
+3 Screeching Skaab
+1 Tooth Collector
+1 Unbreathing Horde
+1 Scrapskin Drake
+2 Ghoulraiser
+2 Stitched Drake
+2 Diregraf Captain
+1 Abattoir Ghoul
+1 Driver of the Dead
+1 Falkenrath Noble
+1 Makeshift Mauler
+1 Mindwrack Demon
+1 Havengul Runebinder
+1 Relentless Skaabs
+1 Harvester of Souls
+1 Appetite for Brains
+1 Sever the Bloodline
+1 Barter in Blood
+1 Dread Return
+2 Moan of the Unhallowed
+1 Human Frailty
+1 Compelling Deterrence
+1 Victim of Night
+1 Tribute to Hunger
+1 Forbidden Alchemy
+1 Cobbled Wings
+4 Dismal Backwater
+12 Swamp
+8 Island
+
+Sideboard

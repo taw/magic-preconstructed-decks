@@ -1,0 +1,43 @@
+// NAME: VENSER DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
+1 Venser, the Sojourner
+1 Augury Owl
+1 Cache Raiders
+1 Clone
+1 Coral Fighters
+1 Cryptic Annelid
+1 Galepowder Mage
+1 Jedit's Dragoons
+1 Kor Cartographer
+1 Minamo Sightbender
+1 Mistmeadow Witch
+1 Neurok Invisimancer
+1 Primal Plasma
+1 Sawtooth Loon
+2 Scroll Thief
+1 Sky Spirit
+2 Slith Strider
+1 Sphinx of Uthuun
+1 Sunblast Angel
+1 Wall of Denial
+1 Whitemane Lion
+1 Windreaver
+2 Preordain
+1 Revoke Existence
+2 Overrule
+1 Path to Exile
+1 Safe Passage
+1 Vanish into Memory
+1 Angelic Shield
+1 Oblivion Ring
+1 Sigil of Sleep
+1 Steel of the Godhead
+1 Azorius Chancery
+1 Flood Plain
+11 Island
+1 New Benalia
+7 Plains
+2 Sejiri Refuge
+1 Soaring Seacliff
+
+Sideboard

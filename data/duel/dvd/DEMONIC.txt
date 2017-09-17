@@ -1,0 +1,34 @@
+// NAME: DEMONIC
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-divine-vs-demonic
+1 Abyssal Gatekeeper
+1 Abyssal Specter
+1 Cackling Imp
+1 Daggerclaw Imp
+2 Demon's Jester
+2 Dusk Imp
+1 Fallen Angel
+1 Foul Imp
+1 Kuro, Pitlord
+1 Lord of the Pit
+2 Overeager Apprentice
+1 Reiver Demon
+1 Soot Imp
+1 Souldrinker
+1 Stinkweed Imp
+1 Barter in Blood
+1 Consume Spirit
+1 Corrupt
+1 Cruel Edict
+1 Demonic Tutor
+1 Duress
+1 Promise of Power
+1 Dark Banishing
+2 Dark Ritual
+1 Demon's Horn
+2 Breeding Pit
+1 Oni Possession
+2 Unholy Strength
+2 Barren Moor
+24 Swamp
+
+Sideboard

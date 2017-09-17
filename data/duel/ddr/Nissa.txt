@@ -1,0 +1,35 @@
+// NAME: Nissa
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01
+1 Nissa, Voice of Zendikar
+2 Scythe Leopard
+2 Elvish Visionary
+1 Oran-Rief Invoker
+2 Thornweald Archer
+1 Nissa's Chosen
+2 Citanul Woodreaders
+2 Civic Wayfinder
+1 Fertilid
+2 Gilt-Leaf Seer
+1 Wood Elves
+2 Briarhorn
+1 Saddleback Lagac
+2 Jaddi Lifestrider
+1 Thicket Elemental
+2 Woodborn Behemoth
+1 Oran-Rief Hydra
+1 Cloudthresher
+1 Oakgnarl Warrior
+1 Walker of the Grove
+1 Gaea's Blessing
+1 Seek the Horizon
+1 Crop Rotation
+2 Vines of the Recluse
+1 Natural Connection
+1 Abundance
+2 Fertile Thicket
+2 Khalni Garden
+1 Mosswort Bridge
+1 Treetop Village
+18 Forest
+
+Sideboard

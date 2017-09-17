@@ -1,0 +1,42 @@
+// NAME: NICOL BOLAS DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
+1 Nicol Bolas, Planeswalker
+1 Blazing Specter
+1 Brackwater Elemental
+1 Dimir Cutpurse
+1 Fire-Field Ogre
+2 Hellfire Mongrel
+1 Igneous Pouncer
+1 Jhessian Zombies
+1 Morgue Toad
+1 Moroii
+1 Nightscape Familiar
+1 Ogre Savant
+1 Shriekmaw
+1 Slavering Nulls
+1 Steamcore Weird
+1 Surveilling Sprite
+1 Cruel Ultimatum
+1 Deep Analysis
+1 Pain // Suffering
+1 Profane Command
+1 Rise // Fall
+1 Slave of Bolas
+1 Agonizing Demise
+1 Countersquall
+1 Grixis Charm
+1 Recoil
+1 Spite // Malice
+1 Undermine
+1 Vapor Snag
+1 Icy Manipulator
+2 Obelisk of Grixis
+1 Elder Mastery
+2 Crumbling Necropolis
+7 Island
+5 Mountain
+1 Rupture Spire
+9 Swamp
+2 Terramorphic Expanse
+
+Sideboard

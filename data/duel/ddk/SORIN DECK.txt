@@ -1,0 +1,40 @@
+// NAME: SORIN DECK
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-sorin-vs-tibalt
+1 Sorin, Lord of Innistrad
+1 Bloodrage Vampire
+1 Butcher of Malakir
+1 Child of Night
+2 Doomed Traveler
+2 Duskhunter Bat
+1 Fiend Hunter
+1 Gatekeeper of Malakir
+1 Mausoleum Guard
+1 Mesmeric Fiend
+1 Phantom General
+1 Revenant Patriarch
+1 Sengir Vampire
+1 Twilight Drover
+1 Vampire Lacerator
+1 Vampire Nighthawk
+1 Vampire Outcasts
+1 Wall of Omens
+1 Absorb Vis
+1 Ancient Craving
+1 Death Grasp
+1 Decompose
+1 Lingering Souls
+2 Spectral Procession
+1 Mortify
+1 Sorin's Thirst
+1 Unmake
+1 Urge to Feed
+1 Vampire's Bite
+1 Zealous Persecution
+1 Field of Souls
+1 Mark of the Vampire
+2 Evolving Wilds
+9 Plains
+12 Swamp
+2 Tainted Field
+
+Sideboard

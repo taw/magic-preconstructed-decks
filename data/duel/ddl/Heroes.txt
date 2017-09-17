@@ -1,0 +1,40 @@
+// NAME: Heroes
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-heroes-vs-monsters
+1 Anax and Cymede
+2 Armory Guard
+1 Auramancer
+1 Cavalry Pegasus
+1 Dawnstrike Paladin
+1 Fencing Ace
+1 Figure of Destiny
+2 Freewind Equenaut
+1 Gustcloak Sentinel
+1 Kamahl, Pit Fighter
+1 Nobilis of War
+1 Somberwald Vigilante
+2 Stun Sniper
+1 Sun Titan
+1 Thraben Valiant
+1 Truefire Paladin
+1 Winds of Rath
+2 Condemn
+1 Magma Jet
+1 Miraculous Recovery
+1 Moment of Heroism
+1 Pay No Heed
+1 Pyrokinesis
+1 Righteousness
+1 Smite the Monstrous
+1 Stand Firm
+1 Battle Mastery
+1 Bonds of Faith
+1 Daily Regimen
+1 Griffin Guide
+1 Ordeal of Purphoros
+1 Undying Rage
+2 Boros Guildgate
+11 Mountain
+2 New Benalia
+9 Plains
+
+Sideboard

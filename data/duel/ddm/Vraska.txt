@@ -1,0 +1,43 @@
+// NAME: Vraska
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
+1 Vraska the Unseen
+1 Acidic Slime
+1 Corpse Traders
+1 Death-Hood Cobra
+1 Drooling Groodion
+1 Festerhide Boar
+2 Gatecreeper Vine
+1 Highway Robber
+1 Mold Shambler
+1 Nekrataal
+1 Ohran Viper
+1 Oran-Rief Recluse
+1 Pulse Tracker
+1 Putrid Leech
+1 Reaper of the Wilds
+1 River Boa
+1 Sadistic Augermage
+1 Shadow Alley Denizen
+1 Slate Street Ruffian
+1 Spawnwrithe
+1 Stonefare Crocodile
+1 Tavern Swindler
+1 Vinelasher Kudzu
+1 Wight of Precinct Six
+1 Hypnotic Cloud
+1 Marsh Casualties
+1 Night's Whisper
+1 Treasured Find
+1 Consume Strength
+1 Grisly Spectacle
+1 Last Kiss
+2 Tragic Slip
+1 Stab Wound
+1 Underworld Connections
+9 Forest
+1 Golgari Guildgate
+1 Rogue's Passage
+11 Swamp
+2 Tainted Wood
+
+Sideboard

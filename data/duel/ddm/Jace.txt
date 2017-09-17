@@ -1,0 +1,41 @@
+// NAME: Jace
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
+1 Jace, Architect of Thought
+1 Aeon Chronicler
+1 AEther Adept
+1 AEther Figment
+1 Archaeomancer
+1 Body Double
+1 Chronomaton
+1 Crosstown Courier
+1 Dream Stalker
+1 Errant Ephemeron
+1 Jace's Mindseeker
+1 Jace's Phantasm
+2 Krovikan Mist
+1 Leyline Phantom
+1 Merfolk Wayfinder
+1 Phantasmal Bear
+1 Phantasmal Dragon
+1 Riftwing Cloudskate
+1 Sea Gate Oracle
+1 Stealer of Secrets
+1 Spelltwine
+1 Griptide
+1 Into the Roil
+1 Jace's Ingenuity
+1 Memory Lapse
+1 Prohibit
+1 Ray of Command
+1 Remand
+1 Summoner's Bane
+2 Thought Scour
+1 Agoraphobia
+1 Claustrophobia
+1 Control Magic
+1 Future Sight
+1 Dread Statuary
+2 Halimar Depths
+21 Island
+
+Sideboard

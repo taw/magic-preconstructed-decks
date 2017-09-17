@@ -1,0 +1,44 @@
+// NAME: GOLGARI DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
+1 Boneyard Wurm
+1 Brain Weevil
+1 Doomgape
+1 Dreg Mangler
+2 Elves of Deep Shadow
+1 Eternal Witness
+1 Gleancrawler
+1 Golgari Grave-Troll
+2 Golgari Rotwurm
+1 Golgari Thug
+1 Greater Mossdog
+1 Jarad, Golgari Lich Lord
+1 Korozda Guildmage
+1 Plagued Rusalka
+1 Putrid Leech
+1 Ravenous Rats
+1 Reassembling Skeleton
+1 Sadistic Hypnotist
+1 Shambling Shell
+1 Stingerfling Spider
+1 Stinkweed Imp
+1 Grim Flowering
+1 Life // Death
+1 Life from the Loam
+1 Nightmare Void
+1 Twilight's Call
+1 Vigor Mortis
+1 Feast or Famine
+1 Ghoul's Feast
+2 Putrefy
+1 Golgari Signet
+1 Golgari Germination
+1 Yoke of the Damned
+1 Barren Moor
+1 Dakmor Salvage
+8 Forest
+2 Golgari Rot Farm
+1 Svogthos, the Restless Tomb
+10 Swamp
+1 Tranquil Thicket
+
+Sideboard

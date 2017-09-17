@@ -1,0 +1,40 @@
+// NAME: CUNNING
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-speed-vs-cunning
+2 Faerie Impostor
+2 Coral Trickster
+2 Fathom Seer
+1 Willbender
+1 Sparkmage Apprentice
+1 Lone Missionary
+1 Master Decoy
+1 Echo Tracer
+1 Kor Hookmaster
+1 Stonecloaker
+2 Aquamorph Entity
+1 Hussar Patrol
+1 Lightning Angel
+1 Faerie Invaders
+1 Arcanis the Omnipotent
+1 Sphinx of Uthuun
+1 Fleeting Distraction
+1 Stave Off
+1 Swift Justice
+1 Impulse
+1 Mana Leak
+1 Lightning Helix
+1 Hold the Line
+1 Inferno Trap
+1 Steam Augury
+2 Traumatic Visions
+1 Whiplash Trap
+1 Arrow Volley Trap
+1 Repeal
+2 Terramorphic Expanse
+10 Island
+3 Mountain
+7 Plains
+1 Jeskai Elder
+1 Thousand Winds
+2 Mystic Monastery
+
+Sideboard

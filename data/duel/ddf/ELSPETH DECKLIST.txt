@@ -1,0 +1,39 @@
+// NAME: ELSPETH DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-tezzeret
+1 Elspeth, Knight-Errant
+1 Angel of Salvation
+1 Burrenton Bombardier
+1 Catapult Master
+1 Celestial Crusader
+1 Conclave Equenaut
+1 Conclave Phalanx
+2 Elite Vanguard
+1 Glory Seeker
+1 Goldmeadow Harrier
+1 Infantry Veteran
+1 Kemba's Skyguard
+1 Kor Aeronaut
+1 Kor Hookmaster
+2 Kor Skyfisher
+1 Loyal Sentry
+1 Mosquito Guard
+1 Seasoned Marshal
+1 Stormfront Riders
+1 Temple Acolyte
+1 Saltblast
+1 Sunlance
+1 Abolish
+1 Blinding Beam
+1 Mighty Leap
+2 Raise the Alarm
+1 Razor Barrier
+1 Swell of Courage
+2 Swords to Plowshares
+1 Crusade
+1 Journey to Nowhere
+1 Daru Encampment
+1 Kabira Crossroads
+22 Plains
+1 Rustic Clachan
+
+Sideboard

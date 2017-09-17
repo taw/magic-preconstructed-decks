@@ -1,0 +1,35 @@
+// NAME: Eldrazi
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/duel-decks-zendikar-vs-eldrazi-2015-08-17
+1 Forerunner of Slaughter
+1 Butcher of Malakir
+2 Runed Servitor
+1 Bloodthrone Vampire
+1 Pawn of Ulamog
+1 Cadaver Imp
+1 Torch Slinger
+1 Vampire Nighthawk
+2 Dominator Drone
+1 Magmaw
+1 Bloodrite Invoker
+2 Heartstabber Mosquito
+3 Emrakul's Hatcher
+1 Oblivion Sower
+1 Ulamog's Crusher
+1 Artisan of Kozilek
+1 It That Betrays
+1 Hellion Eruption
+2 Forked Bolt
+1 Marsh Casualties
+2 Read the Bones
+1 Corpsehatch
+1 Induce Despair
+1 Smother
+1 Consume the Meek
+2 Mind Stone
+2 Rocky Tar Pit
+1 Eldrazi Temple
+3 Akoum Refuge
+7 Mountain
+13 Swamp
+
+Sideboard

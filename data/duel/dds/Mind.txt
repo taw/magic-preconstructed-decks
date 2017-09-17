@@ -1,0 +1,33 @@
+// NAME: Mind
+// COMMENTS: https://magic.wizards.com/en/products/duel-decks-mind-might
+1 Jhoira of the Ghitu
+2 Goblin Electromancer
+2 Young Pyromancer
+1 Jori En, Ruin Diver
+1 Nivix Cyclops
+1 Spellheart Chimera
+1 Talrand, Sky Summoner
+1 Sage-Eye Avengers
+1 Nucklavee
+1 Deep-Sea Kraken
+1 The Unspeakable
+1 Grapeshot
+3 Rift Bolt
+2 Empty the Warrens
+1 Temporal Fissure
+1 Shivan Meteor
+1 Mind's Desire
+1 Volcanic Vision
+1 Beacon of Tomorrows
+1 Quicken
+3 Reach Through Mists
+2 Peer Through Depths
+2 Snap
+1 Desperate Ritual
+2 Sift Through Sands
+1 Firemind's Foresight
+4 Swiftwater Cliffs
+10 Island
+10 Mountain
+
+Sideboard

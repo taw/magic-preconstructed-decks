@@ -1,0 +1,41 @@
+// NAME: SPEED
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-speed-vs-cunning
+1 Frenzied Goblin
+1 Infantry Veteran
+2 Leonin Snarecaster
+2 Dregscape Zombie
+1 Goblin Deathraiders
+1 Hellraiser Goblin
+1 Fleshbag Marauder
+1 Goblin Warchief
+1 Hell's Thunder
+1 Kathari Bomber
+1 Shambling Remains
+2 Beetleback Chief
+1 Krenko, Mob Boss
+1 Ogre Battledriver
+1 Flame-Kin Zealot
+1 Scourge Devil
+1 Oni of Wild Places
+1 Reckless Abandon
+1 Bone Splinters
+1 Arc Trail
+2 Krenko's Command
+1 Act of Treason
+1 Fury of the Horde
+1 Banefire
+1 Shock
+1 Dauntless Onslaught
+1 Orcish Cannonade
+2 Fiery Fall
+1 Goblin Bombardment
+2 Evolving Wilds
+1 Ghitu Encampment
+10 Mountain
+3 Plains
+6 Swamp
+1 Mardu Heart-Piercer
+1 Zurgo Helmsmasher
+2 Nomad Outpost
+
+Sideboard

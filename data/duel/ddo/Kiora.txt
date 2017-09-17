@@ -1,0 +1,32 @@
+// NAME: Kiora
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
+1 Kiora, the Crashing Wave
+1 Inkwell Leviathan
+1 Simic Sky Swallower
+1 Scourge of Fleets
+1 Sealock Monster
+1 Kiora's Follower
+1 Nessian Asp
+2 Grazing Gladehart
+2 Surrakar Banisher
+2 Lorescale Coatl
+1 Nimbus Swimmer
+2 Coiling Oracle
+2 Man-o'-War
+1 Omenspeaker
+2 Netcaster Spider
+2 Explore
+2 Time to Feed
+1 Explosive Vegetation
+1 Urban Evolution
+1 Whelming Wave
+4 Accumulated Knowledge
+1 Plasm Capture
+1 Peel from Reality
+1 AEtherize
+1 Temple of the False God
+2 Evolving Wilds
+11 Forest
+11 Island
+
+Sideboard

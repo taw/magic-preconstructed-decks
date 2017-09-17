@@ -1,0 +1,36 @@
+// NAME: DRAGONS DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
+1 Bloodmark Mentor
+1 Bogardan Hellkite
+1 Bogardan Rager
+1 Cinder Wall
+2 Dragon Whelp
+1 Dragonspeaker Shaman
+1 Fire-Belly Changeling
+1 Henge Guardian
+1 Kilnmouth Dragon
+1 Mordant Dragon
+2 Mudbutton Torchrunner
+1 Shivan Hellkite
+1 Skirk Prospector
+1 Thunder Dragon
+1 Voracious Dragon
+1 Breath of Darigaaz
+1 Cone of Flame
+2 Dragon Fodder
+1 Jaws of Stone
+1 Spitting Earth
+2 Fiery Fall
+1 Ghostfire
+1 Punishing Fire
+1 Seething Song
+1 Seismic Strike
+1 Temporary Insanity
+2 Armillary Sphere
+1 Dragon's Claw
+1 Captive Flame
+1 Claws of Valakut
+1 Shiv's Embrace
+24 Mountain
+
+Sideboard

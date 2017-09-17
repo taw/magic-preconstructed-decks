@@ -1,0 +1,42 @@
+// NAME: IZZET DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
+1 Djinn Illuminatus
+1 Galvanoth
+1 Gelectrode
+1 Goblin Electromancer
+1 Izzet Chronarch
+1 Izzet Guildmage
+2 Kiln Fiend
+1 Niv-Mizzet, the Firemind
+1 Ogre Savant
+2 Shrewd Hatchling
+1 Steamcore Weird
+2 Wee Dragonauts
+1 Invoke the Firemind
+1 Reminisce
+1 Train of Thought
+1 Vacuumelt
+1 Brainstorm
+1 Call to Heel
+1 Dissipate
+1 Fire // Ice
+1 Force Spike
+1 Izzet Charm
+1 Magma Spray
+1 Overwhelming Intellect
+1 Prophetic Bolt
+2 Pyromatics
+1 Street Spasm
+1 Thunderheads
+1 Isochron Scepter
+1 Izzet Signet
+1 Sphinx-Bone Wand
+1 Quicksilver Dagger
+1 Forgotten Cave
+10 Island
+2 Izzet Boilerworks
+1 Lonely Sandbar
+9 Mountain
+1 Nivix, Aerie of the Firemind
+
+Sideboard

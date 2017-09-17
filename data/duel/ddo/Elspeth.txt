@@ -1,0 +1,34 @@
+// NAME: Elspeth
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
+1 Elspeth, Sun's Champion
+2 Icatian Javelineers
+1 Mother of Runes
+1 Gustcloak Savior
+1 Gustcloak Sentinel
+1 Gustcloak Skirmisher
+2 Gustcloak Harrier
+2 Veteran Swordsmith
+2 Veteran Armorsmith
+1 Captain of the Watch
+2 Loxodon Partisan
+1 Noble Templar
+1 Banisher Priest
+1 Court Street Denizen
+1 Standing Troops
+1 Precinct Captain
+1 Kor Skyfisher
+1 Gempalm Avenger
+2 Kinsbaile Skirmisher
+1 Decree of Justice
+2 Sunlance
+1 Soul Parry
+1 Dauntless Onslaught
+1 Mortal's Ardor
+1 Celestial Flare
+1 Mighty Leap
+2 Raise the Alarm
+1 Dictate of Heliod
+22 Plains
+2 Secluded Steppe
+
+Sideboard

@@ -1,0 +1,35 @@
+// NAME: KOTH DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
+1 Koth of the Hammer
+1 AEther Membrane
+1 Anger
+1 Bloodfire Colossus
+1 Bloodfire Kavu
+1 Chartooth Cougar
+1 Cosi's Ravager
+1 Earth Servant
+2 Fiery Hellhound
+1 Geyser Glider
+1 Greater Stone Spirit
+1 Lithophage
+2 Pilgrim's Eye
+2 Plated Geopede
+1 Pygmy Pyrosaur
+1 Stone Giant
+1 Torchling
+1 Vulshok Berserker
+1 Vulshok Sorcerer
+1 Jaws of Stone
+1 Spire Barrage
+1 Volley of Boulders
+1 Downhill Charge
+1 Searing Blaze
+2 Seismic Strike
+1 Armillary Sphere
+1 Journeyer's Kite
+1 Vulshok Battlegear
+1 Vulshok Morningstar
+2 Wayfarer's Bauble
+25 Mountain
+
+Sideboard

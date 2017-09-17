@@ -1,0 +1,40 @@
+// NAME: THE COALITION DECKLIST
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
+1 Charging Troll
+1 Darigaaz, the Igniter
+1 Gerrard Capashen
+2 Nomadic Elf
+1 Quirion Elves
+1 Rith, the Awakener
+1 Sunscape Battlemage
+2 Thornscape Apprentice
+2 Thornscape Battlemage
+1 Thunderscape Battlemage
+1 Treva, the Renewer
+1 Verduran Emissary
+2 Yavimaya Elder
+1 Allied Strategies
+1 Tribal Flames
+1 Darigaaz's Charm
+1 Evasive Action
+1 Gerrard's Command
+2 Harrow
+1 Narrow Escape
+1 Rith's Charm
+1 Treva's Charm
+1 Urza's Rage
+1 Coalition Relic
+1 Power Armor
+2 Armadillo Cloak
+1 Exotic Curse
+2 Fertile Ground
+1 Elfhame Palace
+10 Forest
+1 Island
+4 Mountain
+4 Plains
+1 Shivan Oasis
+1 Swamp
+3 Terramorphic Expanse
+
+Sideboard
