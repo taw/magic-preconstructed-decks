@@ -1,0 +1,24 @@
+// NAME: Army of Entropy
+// COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
+3 Cinderbones
+2 Ashenmoor Cohort
+2 Mudbrawler Cohort
+2 Blistering Dieflyn
+2 Emberstrike Duo
+3 Ashenmoor Gouger
+2 Murderous Redcap
+1 Ashenmoor Liege
+2 Kulrath Knight
+2 Rattleblaze Scarecrow
+1 Wild Swing
+2 Torrent of Souls
+1 Din of the Fireherd
+2 Puncture Bolt
+1 Smash to Smithereens
+3 Scar
+3 Blowfly Infestation
+2 Fists of the Demigod
+12 Swamp
+12 Mountain
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: Shamanism
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+1 Moonglove Changeling
+2 Squeaking Pie Grubfellows
+1 Thorntooth Witch
+3 Bosk Banneret
+1 Wolf-Skull Shaman
+2 Woodland Changeling
+2 Gilt-Leaf Seer
+3 Bog-Strider Ash
+1 Leaf-Crowned Elder
+1 Everbark Shaman
+2 Orchard Warden
+1 Guardian of Cloverdell
+1 Revive the Fallen
+2 Recross the Paths
+1 Luminescent Rain
+1 Redeem the Lost
+2 Wanderer's Twig
+1 Thornbite Staff
+1 Sylvan Echoes
+2 Lignify
+1 Oblivion Ring
+5 Swamp
+15 Forest
+2 Plains
+2 Vivid Grove
+3 Nameless Inversion
+1 Reach of Branches
+
+Sideboard

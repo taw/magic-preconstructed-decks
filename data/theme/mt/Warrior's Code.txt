@@ -1,0 +1,27 @@
+// NAME: Warrior's Code
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+2 Mudbutton Clanger
+3 Brighthearth Banneret
+2 Changeling Berserker
+1 Boldwyr Heavyweights
+2 Lunk Errant
+1 Axegrinder Giant
+1 Boldwyr Intimidator
+2 Bramblewood Paragon
+2 Elvish Warrior
+2 Winnower Patrol
+2 Ambassador Oak
+1 Unstoppable Ash
+2 Cloudcrown Oak
+1 Roar of the Crowd
+2 Recross the Paths
+1 Incremental Growth
+2 Kindled Fury
+2 Release the Ants
+1 Fistful of Force
+1 Heal the Scars
+3 Obsidian Battle-Axe
+10 Mountain
+14 Forest
+
+Sideboard

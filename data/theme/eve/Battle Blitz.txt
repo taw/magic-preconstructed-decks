@@ -1,0 +1,26 @@
+// NAME: Battle Blitz
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
+1 Hatchet Bully
+2 Outrage Shaman
+1 Hateflayer
+1 Patrol Signaler
+1 Safehold Sentry
+2 Ballynock Cohort
+2 Ballynock Trapper
+2 Kithkin Spellduster
+2 Duergar Assailant
+2 Battlegate Mimic
+3 Duergar Mine-Captain
+3 Hearthfire Hobgoblin
+2 Belligerent Hatchling
+1 Balefire Liege
+2 Puncture Bolt
+2 Puncture Blast
+2 Niveous Wisps
+1 Revelsong Horn
+2 Power of Fire
+2 Scourge of the Nobilis
+13 Mountain
+11 Plains
+
+Sideboard

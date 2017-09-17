@@ -1,0 +1,31 @@
+// NAME: Going Rogue
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+1 Mothdust Changeling
+1 Paperfin Rascal
+2 Pestermite
+1 Dewdrop Spy
+2 Latchkey Faerie
+1 Nightshade Stinger
+2 Prickly Boggart
+3 Frogtosser Banneret
+2 Oona's Blackguard
+1 Auntie's Snitch
+2 Ghostly Changeling
+1 Marsh Flitter
+1 Stinkdrinker Bandit
+1 Notorious Throng
+1 Hoarder's Greed
+2 Morsel Theft
+1 Whirlpool Whelm
+2 Familiar's Ruse
+1 Cloak and Dagger
+1 Protective Bubble
+10 Island
+13 Swamp
+1 Ego Erasure
+2 Thieves' Fortune
+2 Peppersmoke
+1 Nameless Inversion
+2 Violet Pall
+
+Sideboard

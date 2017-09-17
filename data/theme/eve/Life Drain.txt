@@ -1,0 +1,30 @@
+// NAME: Life Drain
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
+2 Apothecary Initiate
+1 Goldenglow Moth
+2 Kithkin Zealot
+2 Safehold Sentry
+1 Suture Spirit
+1 Flickerwisp
+1 Resplendent Mentor
+1 Archon of Justice
+1 Woeleecher
+2 Smolder Initiate
+1 Soul Snuffers
+3 Nip Gwyllion
+2 Gwyllion Hedge-Mage
+1 Restless Apparition
+2 Voracious Hatchling
+1 Divinity of Pride
+1 Rite of Consumption
+2 Soul Reap
+2 Syphon Life
+1 Endure
+1 Beckon Apparition
+1 Batwing Brume
+2 Unmake
+2 Recumbent Bliss
+14 Plains
+10 Swamp
+
+Sideboard

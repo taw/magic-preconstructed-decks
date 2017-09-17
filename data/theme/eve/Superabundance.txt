@@ -1,0 +1,28 @@
+// NAME: Superabundance
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
+2 Nettle Sentinel
+2 Nurturer Initiate
+2 Wickerbough Elder
+1 Drowner Initiate
+1 Merrow Levitator
+1 Slippery Bogle
+2 Groundling Pouncer
+3 Shorecrasher Mimic
+3 Selkie Hedge-Mage
+3 Wistful Selkie
+1 Grazing Kelpie
+2 Sturdy Hatchling
+1 Monstrify
+1 Spitting Image
+1 Viridescent Wisps
+1 Cerulean Wisps
+1 Dream Fracture
+3 Snakeform
+1 Invert the Skies
+1 Trip Noose
+2 Favor of the Overbeing
+1 Fable of Wolf and Owl
+12 Forest
+12 Island
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: Turnabout
+// COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
+2 Devoted Druid
+2 Drove of Elves
+3 Safehold Sentry
+1 Barrenton Medic
+1 Resplendent Mentor
+2 Pale Wayfarer
+1 Elvish Hexhunter
+1 Rhys the Redeemed
+1 Seedcradle Witch
+1 Wilt-Leaf Cavaliers
+2 Safehold Duo
+1 Wilt-Leaf Liege
+2 Old Ghastbark
+2 Pili-Pala
+2 Gleeful Sabotage
+1 Toil to Renown
+1 Dawnglow Infusion
+1 Gloomwidow's Feast
+1 Barkshell Blessing
+2 Mercy Killing
+1 Revelsong Horn
+1 Umbral Mantle
+3 Presence of Gond
+1 Shield of the Oversoul
+11 Forest
+12 Plains
+1 Sapseep Forest
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: Battalion
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+3 Cenn's Tactician
+2 Ballyrush Banneret
+2 Kinsbaile Skirmisher
+2 Burrenton Bombardier
+3 Kithkin Zephyrnaut
+1 Preeminent Captain
+1 Veteran of the Depths
+1 Burrenton Shield-Bearers
+1 Reveillark
+2 Mothdust Changeling
+2 Sentinels of Glen Elendra
+1 Turtleshell Changeling
+2 Fencer Clique
+2 Inkfathom Divers
+1 Redeem the Lost
+2 Swell of Courage
+1 Disperse
+1 Wanderer's Twig
+2 Veteran's Armaments
+1 Weight of Conscience
+2 Oblivion Ring
+12 Plains
+9 Island
+1 Vivid Creek
+1 Vivid Meadow
+1 Mosquito Squad
+1 Ego Erasure
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: Mortal Coil
+// COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
+2 Leech Bonder
+1 River Kelpie
+1 Sickle Ripper
+1 Faerie Macabre
+1 Loch Korrigan
+1 Oona's Gatewarden
+1 Inkfathom Witch
+2 Wasp Lancer
+2 Wanderbrine Rootcutters
+3 Gravelgill Axeshark
+2 Chainbreaker
+3 Wingrattle Scarecrow
+1 Grim Poppet
+1 Gloomlance
+1 Incremental Blight
+2 Scarscale Ritual
+2 River's Grasp
+2 Fate Transfer
+2 Trip Noose
+1 Gnarled Effigy
+1 Biting Tether
+1 Torture
+1 Helm of the Ghastlord
+12 Island
+12 Swamp
+1 Inkfathom Inf ltrator
+
+Sideboard
