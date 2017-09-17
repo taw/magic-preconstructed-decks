@@ -1,0 +1,19 @@
+// NAME: Zakk's Second Deck
+// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+4 Forest
+4 Plains
+4 Swamp
+1 Elvish Archers
+1 Mesa Pegasus
+1 Wall of Bone
+1 War Mammoth
+1 Whirling Dervish
+1 Glasses of Urza
+1 Rod of Ruin
+1 Reverse Damage
+1 Dark Ritual
+1 Winter Blast
+1 Circle of Protection: Black
+1 Circle of Protection: Red
+1 Warp Artifact
+1 Weakness

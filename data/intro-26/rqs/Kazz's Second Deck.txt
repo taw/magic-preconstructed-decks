@@ -1,0 +1,18 @@
+// NAME: Kazz's Second Deck
+// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+4 Island
+4 Mountain
+4 Swamp
+2 Vampire Bats
+1 Orcish Artillery
+1 Sorceress Queen
+1 Battering Ram
+1 Clockwork Beast
+1 Jayemdae Tome
+1 Power Sink
+1 Detonate
+1 Fireball
+1 Cursed Land
+1 Energy Flux
+1 Feedback
+1 Orcish Oriflamme

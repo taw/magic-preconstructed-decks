@@ -1,0 +1,17 @@
+// NAME: Zakk's First Deck
+// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+4 Forest
+4 Plains
+4 Swamp
+2 Bog Imp
+2 Scryb Sprites
+1 Bog Wraith
+1 Durkwood Boars
+1 Elven Riders
+1 Grizzly Bears
+2 Pearled Unicorn
+2 Alabaster Potion
+2 Healing Salve
+2 Terror
+1 Raise Dead
+1 Untamed Wilds

@@ -1,0 +1,18 @@
+// NAME: Kazz's First Deck
+// COMMENT: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+4 Island
+4 Mountain
+4 Swamp
+2 Murk Dwellers
+2 Scathe Zombies
+2 Zephyr Falcon
+1 Hill Giant
+1 Ironclaw Orcs
+1 Lost Soul
+1 Merfolk of the Pearl Trident
+1 Mons's Goblin Raiders
+2 Unsummon
+1 Terror
+1 Twiddle
+2 Disintegrate
+1 Pyrotechnics

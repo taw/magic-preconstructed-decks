@@ -50,6 +50,12 @@ class BuildJsons
     when "intro-41"
       ensure_deck_size(path, deck, 41, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+    when "intro-30"
+      ensure_deck_size(path, deck, 30, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+    when "intro-26"
+      ensure_deck_size(path, deck, 26, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
     when "theme"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
@@ -74,7 +80,7 @@ class BuildJsons
       ensure_deck_size(path, deck, 60, 10)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planechase Deck")
     else
-      raise
+      warn "WTF #{deck_type} #{deck.size}+#{deck.sideboard_size}"
     end
   end
 
