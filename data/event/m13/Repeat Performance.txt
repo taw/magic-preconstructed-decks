@@ -1,0 +1,32 @@
+// NAME: Repeat Performance
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2013-event-deck-decklists-2012-07-24
+2 Arbor Elf
+4 Avacyn's Pilgrim
+4 Llanowar Elves
+2 Elvish Visionary
+3 Borderland Ranger
+3 Attended Knight
+1 Blade Splicer
+1 Mwonvuli Beast Tracker
+1 Fiend Hunter
+4 Roaring Primadox
+1 Stonehorn Dignitary
+1 Glimmerpoint Stag
+1 Stingerfling Spider
+1 Thragtusk
+1 Acidic Slime
+1 Geist-Honored Monk
+1 Brutalizer Exarch
+1 Sunblast Angel
+4 Lead the Stampede
+1 Green Sun's Zenith
+2 Razorverge Thicket
+12 Forest
+8 Plains
+
+Sideboard
+3 Cloudshift
+3 War Priest of Thune
+4 Oblivion Ring
+3 Kemba's Skyguard
+2 Dismember

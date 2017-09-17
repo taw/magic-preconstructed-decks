@@ -1,0 +1,30 @@
+// NAME: Sweet Revenge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2013-event-deck-decklists-2012-07-24
+2 Armored Skaab
+4 Fettergeist
+1 Firewing Phoenix
+1 Silent Departure
+4 Faithless Looting
+3 Pillar of Flame
+1 Rolling Temblor
+2 Slagstorm
+1 Red Sun's Zenith
+2 Geistflame
+4 Think Twice
+4 Desperate Ravings
+3 Forbidden Alchemy
+4 Burning Vengeance
+1 Darkslick Shores
+1 Desolate Lighthouse
+4 Evolving Wilds
+1 Sulfur Falls
+9 Mountain
+7 Island
+1 Swamp
+
+Sideboard
+4 Screeching Skaab
+2 Arc Trail
+4 Bloodcrazed Neonate
+3 Secrets of the Dead
+2 Dismember
