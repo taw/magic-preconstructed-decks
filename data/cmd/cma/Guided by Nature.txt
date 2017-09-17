@@ -1,0 +1,80 @@
+// NAME: Guided by Nature
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29
+1 Elvish Mystic
+1 Elvish Skysweeper
+1 Essence Warden
+1 Joraga Warcaller
+1 Llanowar Elves
+1 Sylvan Safekeeper
+1 Elvish Visionary
+1 Priest of Titania
+1 Sylvan Ranger
+1 Thornweald Archer
+1 Wellwisher
+1 Farhaven Elf
+1 Imperious Perfect
+1 Reclamation Sage
+1 Timberwatch Elf
+1 Titania's Chosen
+1 Wood Elves
+1 Elvish Archdruid
+1 Ezuri, Renegade Leader
+1 Drove of Elves
+1 Immaculate Magistrate
+1 Wren's Run Packmaster
+1 Lys Alana Huntmaster
+1 Masked Admirers
+1 Wolfbriar Elemental
+1 Creeperhulk
+1 Silklash Spider
+1 Titania, Protector of Argoth
+1 Grave Sifter
+1 Primordial Sage
+1 Rampaging Baloths
+1 Soul of the Harvest
+1 Thunderfoot Baloth
+1 Siege Behemoth
+1 Tornado Elemental
+1 Terastodon
+1 Lifeblood Hydra
+1 Hunting Triad
+1 Whirlwind
+1 Overwhelming Stampede
+1 Overrun
+1 Grim Flowering
+1 Collective Unconscious
+1 Desert Twister
+1 Wave of Vitriol
+1 Praetor's Counsel
+1 Sylvan Offering
+1 Harrow
+1 Fresh Meat
+1 Skullclamp
+1 Sol Ring
+1 Emerald Medallion
+1 Moss Diamond
+1 Swiftfoot Boots
+1 Commander's Sphere
+1 Assault Suit
+1 Seer's Sundial
+1 Predator, Flagship
+1 Loreseeker's Stone
+1 Beastmaster Ascension
+1 Song of the Dryads
+1 Wolfcaller's Howl
+1 Crystal Vein
+1 Evolving Wilds
+1 Gargoyle Castle
+1 Ghost Quarter
+1 Haunted Fengraf
+1 Havenwood Battleground
+1 Jungle Basin
+1 Myriad Landscape
+1 Oran-Rief, the Vastwood
+1 Slippery Karst
+1 Terramorphic Expanse
+1 Tranquil Thicket
+25 Forest
+
+Sideboard
+1 Freyalise, Llanowar's Fury

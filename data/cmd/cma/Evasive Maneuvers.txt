@@ -1,0 +1,87 @@
+// NAME: Evasive Maneuvers
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29
+1 Acidic Slime
+1 Aerie Mystics
+1 Angel of Finality
+1 Azami, Lady of Scrolls
+1 Bane of Progress
+1 Deceiver Exarch
+1 Diviner Spirit
+1 Djinn of Infinite Deceits
+1 Dungeon Geists
+1 Farhaven Elf
+1 Fiend Hunter
+1 Flickerwisp
+1 Hada Spy Patrol
+1 Karmic Guide
+1 Kazandu Tuskcaller
+1 Lu Xun, Scholar General
+1 Mirror Entity
+1 Mistmeadow Witch
+1 Murkfiend Liege
+1 Phantom Nantuko
+1 Pilgrim's Eye
+1 Roon of the Hidden Realm
+1 Rubinia Soulsinger
+1 Selesnya Guildmage
+1 Skyward Eye Prophets
+1 Stonecloaker
+1 Thornwind Faeries
+1 Winged Coatl
+1 Wonder
+1 Borrowing 100,000 Arrows
+1 Kirtar's Wrath
+1 Restore
+1 Tempt with Glory
+1 Wash Out
+1 AEthermage's Touch
+1 Arcane Denial
+1 Blue Sun's Zenith
+1 Krosan Grip
+1 Selesnya Charm
+1 Unexpectedly Absent
+1 Azorius Keyrune
+1 Basalt Monolith
+1 Conjurer's Closet
+1 Darksteel Ingot
+1 Leonin Bladetrap
+1 Selesnya Signet
+1 Simic Signet
+1 Sol Ring
+1 Surveyor's Scope
+1 Swiftfoot Boots
+1 Sword of the Paruns
+1 Thousand-Year Elixir
+1 Thunderstaff
+1 Control Magic
+1 Curse of Inertia
+1 Curse of Predation
+1 Curse of the Forsaken
+1 Darksteel Mutation
+1 Flickerform
+1 Leafdrake Roost
+1 Presence of Gond
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Bant Panorama
+1 Command Tower
+1 Evolving Wilds
+1 Faerie Conclave
+6 Forest
+7 Island
+1 Opal Palace
+7 Plains
+1 Rupture Spire
+1 Saltcrusted Steppe
+1 Seaside Citadel
+1 Secluded Steppe
+1 Sejiri Refuge
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Simic Guildgate
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Transguild Promenade
+
+Sideboard
+1 Derevi, Empyrial Tactician
