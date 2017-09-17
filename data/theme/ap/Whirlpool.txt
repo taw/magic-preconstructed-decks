@@ -1,0 +1,28 @@
+// NAME: Whirlpool
+// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+12 Island
+12 Mountain
+2 Bloodfire Dwarf
+2 Bloodfire Kavu
+1 Coastal Drake
+1 Dwarven Patrol
+2 Faerie Squadron
+1 Flametongue Kavu
+1 Metathran Transport
+2 Minotaur Illusionist
+1 Rainbow Crow
+2 Razorfin Hunter
+2 Whirlpool Drake
+3 Whirlpool Rider
+1 Whirlpool Warrior
+1 Bloodfire Infusion
+2 Quicksilver Dagger
+1 Confound
+1 Exclude
+1 Fire
+2 Jilt
+1 Opt
+1 Scorching Lava
+2 Stun
+1 Suffocating Blast
+2 Chromatic Sphere

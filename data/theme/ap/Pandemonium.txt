@@ -1,0 +1,30 @@
+// NAME: Pandemonium
+// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+12 Forest
+3 Island
+2 Mountain
+3 Plains
+3 Swamp
+1 Emblazoned Golem
+1 Helionaut
+1 Nomadic Elf
+3 Penumbra Bobcat
+2 Penumbra Kavu
+1 Penumbra Wurm
+2 Quirion Elves
+1 Quirion Trailblazer
+1 Stratadon
+2 Urborg Elf
+1 Wayfaring Giant
+2 Exotic Curse
+2 Fertile Ground
+1 Captain's Maneuver
+2 Evasive Action
+3 Harrow
+1 Order
+2 Allied Strategies
+1 Gaea's Balance
+1 Last Stand
+3 Lay of the Land
+1 Life
+2 Tribal Flames

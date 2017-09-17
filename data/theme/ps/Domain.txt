@@ -1,0 +1,32 @@
+// NAME: Domain
+// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+8 Forest
+3 Island
+3 Mountain
+3 Plains
+3 Swamp
+2 Terminal Moraine
+1 Kavu Recluse
+2 Kavu Scout
+1 Magnigoth Treefolk
+1 Quirion Dryad
+2 Quirion Explorer
+2 Quirion Trailblazer
+3 Samite Pilgrim
+2 Stratadon
+1 Wayfaring Giant
+2 Exotic Curse
+1 Strength of Unity
+1 Confound
+1 Gaea's Might
+3 Harrow
+1 Rith's Charm
+1 Treva's Charm
+2 Worldly Counsel
+2 Allied Strategies
+1 Breath of Darigaaz
+2 Exotic Disease
+1 Ordered Migration
+1 Primal Growth
+3 Tribal Flames
+1 Wandering Stream

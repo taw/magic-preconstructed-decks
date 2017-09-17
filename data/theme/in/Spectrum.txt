@@ -1,0 +1,29 @@
+// NAME: Spectrum
+// COMMENT: https://mtg.gamepedia.com/Invasion/Theme_decks
+2 Island
+14 Forest
+2 Mountain
+2 Plains
+2 Swamp
+1 Halam Djinn
+2 Kavu Climber
+1 Nomadic Elf
+2 Quirion Trailblazer
+1 Sabertooth Nishoba
+1 Serpentine Kavu
+3 Thornscape Apprentice
+2 Voracious Cobra
+1 Wayfaring Giant
+2 Yavimaya Barbarian
+2 Zanam Djinn
+3 Fertile Ground
+1 Fires of Yavimaya
+2 Assault
+2 Exclude
+3 Harrow
+1 Spite
+2 Wax
+1 Global Ruin
+1 Ordered Migration
+2 Probe
+2 Tribal Flames

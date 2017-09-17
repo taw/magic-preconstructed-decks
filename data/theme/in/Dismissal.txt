@@ -1,0 +1,34 @@
+// NAME: Dismissal
+// COMMENT: https://mtg.gamepedia.com/Invasion/Theme_decks
+11 Island
+2 Salt Marsh
+1 Sulfur Vent
+9 Swamp
+2 Dream Thrush
+1 Duskwalker
+2 Faerie Squadron
+1 Hate Weaver
+1 Metathran Zombie
+1 Nightscape Apprentice
+1 Phyrexian Infiltrator
+3 Ravenous Rats
+1 Slinking Serpent
+1 Stalking Assassin
+1 Tidal Visionary
+2 Urborg Drake
+1 Urborg Emissary
+1 Vodalian Hypnotist
+2 Vodalian Serpent
+1 Vodalian Zombie
+1 Cursed Flesh
+1 Seer's Vision
+1 Agonizing Demise
+1 Disrupt
+1 Opt
+1 Prohibit
+3 Recoil
+1 Repulse
+1 Spite
+1 Lobotomy
+2 Probe
+1 Drake-Skull Cameo

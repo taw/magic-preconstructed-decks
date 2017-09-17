@@ -1,0 +1,32 @@
+// NAME: Barrage
+// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+11 Mountain
+12 Forest
+2 Alpha Kavu
+1 Amphibious Kavu
+1 Caldera Kavu
+2 Flametongue Kavu
+1 Gaea's Herald
+2 Horned Kavu
+1 Kavu Recluse
+1 Llanowar Elite
+2 Mogg Jailer
+1 Mogg Sentry
+2 Nomadic Elf
+1 Root Greevil
+1 Serpentine Kavu
+2 Sparkcaster
+1 Thornscape Apprentice
+3 Thornscape Familiar
+1 Thunderscape Apprentice
+1 Thunderscape Battlemage
+1 Thunderscape Familiar
+2 Fertile Ground
+1 Fires of Yavimaya
+1 Assault
+1 Explosive Growth
+1 Magma Burst
+1 Scorching Lava
+1 Simoon
+1 Singe
+1 Implode

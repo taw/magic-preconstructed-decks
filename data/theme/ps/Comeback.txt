@@ -1,0 +1,35 @@
+// NAME: Comeback
+// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+1 Ancient Spring
+1 Coastal Tower
+2 Dromar's Cavern
+7 Island
+4 Plains
+1 Salt Marsh
+6 Swamp
+1 Terminal Moraine
+1 Arctic Merfolk
+3 Cavern Harpy
+1 Faerie Squadron
+1 Galina's Knight
+1 Guard Dogs
+1 Honorable Scout
+2 Hunting Drake
+2 Marsh Crocodile
+1 Nightscape Familiar
+2 Phyrexian Bloodstock
+2 Ravenous Rats
+1 Sawtooth Loon
+2 Silver Drake
+1 Stormscape Apprentice
+1 Stormscape Battlemage
+3 Stormscape Familiar
+3 Tidal Visionary
+1 Vodalian Merchant
+1 Waterspout Elemental
+1 Planeswalker's Scorn
+2 Sisay's Ingenuity
+1 Confound
+1 Dromar's Charm
+1 Slay
+1 Mana Cylix

@@ -1,0 +1,30 @@
+// NAME: Heavy Duty
+// COMMENT: https://mtg.gamepedia.com/Invasion/Theme_decks
+2 Elfhame Palace
+11 Forest
+11 Plains
+2 Angel of Mercy
+1 Ardent Soldier
+1 Benalish Emissary
+1 Benalish Lancer
+1 Benalish Trapper
+1 Capashen Unicorn
+2 Charging Troll
+1 Crimson Acolyte
+2 Kavu Chameleon
+1 Kavu Climber
+2 Llanowar Cavalry
+1 Llanowar Elite
+2 Llanowar Knight
+1 Noble Panther
+1 Obsidian Acolyte
+1 Pincer Spider
+2 Rampant Elephant
+2 Razorfoot Griffin
+1 Rooting Kavu
+1 Thicket Elemental
+1 Treefolk Healer
+2 Armadillo Cloak
+2 Shackles
+2 Explosive Growth
+2 Wax

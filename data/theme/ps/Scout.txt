@@ -1,0 +1,40 @@
+// NAME: Scout
+// COMMENT: https://mtg.gamepedia.com/Planeshift/Theme_decks
+1 Elfhame Palace
+11 Forest
+1 Geothermal Crevice
+1 Irrigation Ditch
+2 Mountain
+3 Plains
+2 Rith's Grove
+1 Shivan Oasis
+1 Amphibious Kavu
+1 Ancient Kavu
+1 Aurora Griffin
+1 Fleetfoot Panther
+1 Horned Kavu
+1 Mirrorwood Treefolk
+1 Nomadic Elf
+1 Quirion Elves
+2 Quirion Explorer
+1 Radiant Kavu
+1 Rampant Elephant
+1 Slingshot Goblin
+1 Steel Leaf Paladin
+3 Stone Kavu
+2 Sunscape Battlemage
+2 Thunderscape Battlemage
+1 Thornscape Apprentice
+2 Thornscape Battlemage
+1 Thornscape Familiar
+1 Viashino Grappler
+1 Armadillo Cloak
+2 Fertile Ground
+1 Eladamri's Call
+2 Gerrard's Command
+1 Harrow
+1 Magma Burst
+1 Pollen Remedy
+1 Rith's Charm
+1 Singe
+1 Zap

@@ -1,0 +1,26 @@
+// NAME: Burial
+// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+3 Elfhame Palace
+5 Forest
+3 Plains
+10 Swamp
+3 Grave Defiler
+4 Llanowar Dead
+3 Maggot Carrier
+2 Mournful Zombie
+1 Phyrexian Gargantua
+2 Phyrexian Reaper
+4 Putrid Warrior
+2 Quagmire Druid
+2 Zombie Boa
+1 Foul Presence
+1 Phyrexian Arena
+1 Soul Link
+1 Annihilate
+2 Consume Strength
+3 Strength of Night
+1 Wax
+2 Dead Ringers
+1 Death Grasp
+2 Chromatic Sphere
+1 Tigereye Cameo

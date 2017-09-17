@@ -1,0 +1,29 @@
+// NAME: Swoop
+// COMMENT: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+13 Forest
+9 Island
+2 Ana Disciple
+2 Coastal Drake
+3 Gaea's Skyfolk
+2 Glade Gnarr
+2 Jungle Barrier
+2 Kavu Chameleon
+2 Living Airship
+1 Mystic Snake
+1 Pincer Spider
+1 Rainbow Crow
+1 Rooting Kavu
+1 Tidal Visionary
+2 Urborg Elf
+2 Ceta Sanctuary
+1 Fertile Ground
+1 Yavimaya's Embrace
+1 Confound
+1 Jaded Response
+1 Repulse
+1 Rushing River
+2 Æther Mutation
+1 Lay of the Land
+2 Temporal Spring
+1 Wash Out
+2 Chromatic Sphere
