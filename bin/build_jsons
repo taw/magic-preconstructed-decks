@@ -88,7 +88,7 @@ class BuildJsons
     when "ex-advanced"
       ensure_deck_size(path, deck, 60, 15)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Advanced Deck")
-    when "premimu"
+    when "premium"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Premium Deck")
     else
