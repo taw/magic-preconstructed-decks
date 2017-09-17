@@ -1,0 +1,28 @@
+// NAME: GRUUL SIEGE
+// COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+2 Cobblebrute
+2 Feral Animist
+1 Ghor-Clan Rampager
+2 Kraul Warrior
+1 Ripscale Predator
+3 Rubblebelt Maaka
+2 Ruination Wurm
+1 Ruric Thar, the Unbowed
+2 Saruli Gatekeepers
+1 Skarrg Goliath
+1 Slaughterhorn
+2 Viashino Shanktail
+3 Zhur-Taa Druid
+1 Zhur-Taa Swine
+1 Armed // Dangerous
+2 Ground Assault
+1 Pit Fight
+1 Predator's Rapport
+1 Volcanic Geyser
+2 Gruul Cluestone
+2 Gruul War Chant
+12 Forest
+4 Gruul Guildgate
+10 Mountain
+
+Sideboard

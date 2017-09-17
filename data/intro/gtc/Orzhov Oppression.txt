@@ -1,0 +1,32 @@
+// NAME: Orzhov Oppression
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+1 Shadow Alley Denizen
+1 Tormented Soul
+2 Silvercoat Lion
+3 Basilica Screecher
+1 High Priest of Penance
+1 Vizkopa Guildmage
+2 Basilica Guards
+2 Kingpin's Pet
+1 Knight of Obligation
+2 Syndicate Enforcer
+1 Guardian Lions
+1 Zombie Goliath
+1 Smog Elemental
+1 Treasury Thrull
+1 Purge the Profane
+2 Angelic Edict
+1 Rain of Blades
+1 Executioner's Swing
+1 Murder
+2 Orzhov Keyrune
+1 Jayemdae Tome
+2 Dying Wish
+1 Gift of Orzhova
+1 Blood Reckoning
+1 One Thousand Lashes
+1 Orzhov Guildgate
+12 Plains
+13 Swamp
+
+Sideboard

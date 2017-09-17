@@ -1,0 +1,27 @@
+// NAME: RAKDOS REVELRY
+// COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+1 Bloodfray Giant
+2 Carnage Gladiator
+1 Exava, Rakdos Blood Witch
+1 Grim Roustabout
+3 Gutter Skulk
+2 Guttersnipe
+2 Minotaur Aggressor
+2 Rakdos Drake
+3 Riot Piker
+2 Slum Reaper
+2 Smelt-Ward Gatekeepers
+2 Spawn of Rix Maadi
+2 Spike Jester
+1 Awe for the Guilds
+2 Morgue Burst
+1 Toil // Trouble
+1 Punish the Enemy
+2 Rakdos Cluestone
+1 Havoc Festival
+1 Sinister Possession
+10 Mountain
+4 Rakdos Guildgate
+12 Swamp
+
+Sideboard

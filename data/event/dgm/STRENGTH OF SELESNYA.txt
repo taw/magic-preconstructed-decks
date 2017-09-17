@@ -1,0 +1,33 @@
+// NAME: STRENGTH OF SELESNYA
+// COMMENTS: https://magic.wizards.com/en/content/event-decklist-dragons-maze-card-set-archive
+1 Champion of Lambholt
+2 Doomed Traveler
+1 Geist-Honored Monk
+1 Odric, Master Tactician
+2 Vitu-Ghazi Guildmage
+1 Wayfaring Temple
+4 Call of the Conclave
+1 Increasing Devotion
+3 Lingering Souls
+4 Wake the Reflections
+1 Advent of the Wurm
+3 Rootborn Defenses
+4 Selesnya Charm
+1 Growing Ranks
+4 Intangible Virtue
+1 Parallel Lives
+2 Rancor
+4 Evolving Wilds
+6 Forest
+1 Godless Shrine
+1 Grove of the Guardian
+7 Plains
+4 Selesnya Guildgate
+1 Swamp
+
+Sideboard
+4 Centaur Healer
+3 Druid's Deliverance
+4 Pacifism
+1 Rogue's Passage
+3 Sundering Growth

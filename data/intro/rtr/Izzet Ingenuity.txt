@@ -1,0 +1,30 @@
+// NAME: Izzet Ingenuity
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+2 Blistercoil Weird
+1 Welkin Tern
+2 Goblin Electromancer
+1 Nivix Guildmage
+2 Guttersnipe
+3 Runewing
+3 Cobblebrute
+1 Hypersonic Dragon
+1 Tenement Crasher
+2 Krenko's Command
+1 Mizzium Mortars
+1 Teleportal
+1 Wild Guess
+2 Goblin Rally
+1 Blustersquall
+1 Downsize
+2 Electrickery
+2 Annihilating Fire
+1 Chandra's Fury
+1 Thoughtflare
+1 Explosive Impact
+2 Izzet Keyrune
+1 Pursuit of Flight
+1 Izzet Guildgate
+12 Island
+12 Mountain
+
+Sideboard

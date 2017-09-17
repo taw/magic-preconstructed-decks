@@ -1,0 +1,31 @@
+// NAME: Rally and Rout
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-event-deck-decklists-2013-02-04
+4 Boros Elite
+1 Champion of the Parish
+4 Doomed Traveler
+2 Firefist Striker
+2 Lightning Mauler
+1 Thalia, Guardian of Thraben
+1 Ash Zealot
+2 Sunhome Guildmage
+2 Truefire Paladin
+1 Silverblade Paladin
+3 Skyknight Legionnaire
+1 Spark Trooper
+4 Pillar of Flame
+4 Gather the Townsfolk
+3 Searing Spear
+2 Boros Charm
+3 Boros Guildgate
+1 Clifftop Retreat
+1 Slayers' Stronghold
+10 Plains
+8 Mountain
+
+Sideboard
+3 Electrickery
+2 Skullcrack
+3 Bonds of Faith
+3 War Priest of Thune
+2 Oblivion Ring
+2 Thunderous Wrath

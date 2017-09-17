@@ -1,0 +1,30 @@
+// NAME: Azorius Advance
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+2 Trained Caracal
+2 Azorius Arrester
+2 Concordia Pegasus
+3 Silvercoat Lion
+1 New Prahv Guildmage
+2 Stealer of Secrets
+1 Lyev Skyknight
+2 Vassal Soul
+1 Soulsworn Spirit
+1 Azorius Justiciar
+2 Battleflight Eagle
+2 Bazaar Krovod
+1 Skyline Predator
+1 Archon of the Triumvirate
+1 Inaction Injunction
+1 Swift Justice
+2 Show of Valor
+1 Dramatic Rescue
+1 Angel's Mercy
+1 Tablet of the Guilds
+2 Azorius Keyrune
+2 Arrest
+1 Righteous Authority
+1 Azorius Guildgate
+12 Plains
+12 Island
+
+Sideboard

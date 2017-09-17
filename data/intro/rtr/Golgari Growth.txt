@@ -1,0 +1,33 @@
+// NAME: Golgari Growth
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+2 Slitherhead
+2 Daggerdrome Imp
+3 Walking Corpse
+2 Drudge Beetle
+1 Korozda Guildmage
+1 Stonefare Crocodile
+1 Wild Beastmaster
+1 Dreg Mangler
+1 Slum Reaper
+2 Korozda Monitor
+1 Corpsejack Menace
+1 Sluiceway Scorpion
+1 Veilborn Ghoul
+1 Gobbling Ooze
+1 Acidic Slime
+2 Golgari Longlegs
+1 Terrus Wurm
+1 Disentomb
+1 Treasured Find
+1 Rites of Reaping
+1 Grisly Salvage
+1 Aerial Predation
+1 Serpent's Gift
+1 Murder
+2 Launch Party
+2 Golgari Keyrune
+1 Golgari Guildgate
+12 Swamp
+12 Forest
+
+Sideboard

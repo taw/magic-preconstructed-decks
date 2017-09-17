@@ -1,0 +1,27 @@
+// NAME: AZORIUS AUTHORITY
+// COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+2 Ascended Lawmage
+2 Azorius Arrester
+1 Azorius Justiciar
+2 Haazda Snare Squad
+2 Jelenn Sphinx
+1 Lavinia of the Tenth
+1 Lyev Skyknight
+3 Silvercoat Lion
+1 Soulsworn Spirit
+2 Stealer of Secrets
+2 Sunspire Gatekeepers
+3 Wind Drake
+2 Lyev Decree
+2 Righteous Charge
+2 Avenging Arrow
+1 Protect // Serve
+1 Restore the Peace
+2 Azorius Cluestone
+1 Arrest
+1 Martial Law
+4 Azorius Guildgate
+10 Island
+12 Plains
+
+Sideboard

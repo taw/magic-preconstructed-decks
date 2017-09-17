@@ -1,0 +1,33 @@
+// NAME: Gruul Goliaths
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+1 Foundry Street Denizen
+1 Arbor Elf
+1 Skinbrand Goblin
+2 Disciple of the Old Ways
+1 Skarrg Guildmage
+2 Centaur Courser
+1 Slaughterhorn
+2 Viashino Shanktail
+1 Primal Huntbeast
+1 Scab-Clan Charger
+1 Ghor-Clan Rampager
+2 Fire Elemental
+2 Zhur-Taa Swine
+1 Ripscale Predator
+1 Rubblehulk
+2 Ruination Wurm
+1 Duskdale Wurm
+1 Gruul Ragebeast
+2 Ground Assault
+1 Ranger's Path
+1 Pit Fight
+1 Predator's Rapport
+1 Volcanic Geyser
+2 Gruul Keyrune
+1 Alpha Authority
+1 Verdant Haven
+1 Gruul Guildgate
+12 Mountain
+13 Forest
+
+Sideboard

@@ -1,0 +1,33 @@
+// NAME: Golgari: Creep and Conquer
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-event-deck-decklists-2012-10-01
+1 Ulvenwald Tracker
+2 Slitherhead
+2 Daggerdrome Imp
+3 Dawntreader Elk
+4 Drudge Beetle
+3 Korozda Guildmage
+2 Trusted Forcemage
+4 Vampire Nighthawk
+2 Dreg Mangler
+1 Disciple of Bolas
+1 Druid's Familiar
+1 Deadbridge Goliath
+1 Wolfir Silverheart
+4 Tragic Slip
+1 Ultimate Price
+2 Victim of Night
+2 Golgari Charm
+4 Evolving Wilds
+3 Golgari Guildgate
+1 Grim Backwoods
+1 Woodland Cemetery
+7 Swamp
+8 Forest
+
+Sideboard
+2 Duress
+3 Vile Rebirth
+4 Strangleroot Geist
+3 Bramblecrush
+1 Thragtusk
+2 Ghost Quarter

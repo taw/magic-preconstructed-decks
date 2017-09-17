@@ -1,0 +1,31 @@
+// NAME: Selesnya Surge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+1 Arbor Elf
+1 Brushstrider
+1 Vitu-Ghazi Guildmage
+3 Centaur Courser
+3 Seller of Songbirds
+1 Centaur Healer
+1 Wayfaring Temple
+1 Healer of the Pride
+1 Phantom General
+1 Axebane Stag
+1 Risen Sanctuary
+2 Call of the Conclave
+2 Bountiful Harvest
+2 Savage Surge
+1 Rootborn Defenses
+2 Chorus of Might
+2 Eyes in the Skies
+2 Selesnya Keyrune
+1 Selesnya Guildgate
+1 Grove of the Guardian
+12 Forest
+11 Plains
+2 Centaur's Herald
+1 Druid's Deliverance
+1 Heroes' Reunion
+2 Trostani's Judgment
+1 Coursers' Accord
+
+Sideboard

@@ -1,0 +1,33 @@
+// NAME: Rakdos Raid
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+3 Tormented Soul
+1 Bellows Lizard
+2 Rakdos Cackler
+1 Ravenous Rats
+2 Gore-House Chainwalker
+1 Rix Maadi Guildmage
+2 Rakdos Shred-Freak
+1 Sewer Shambler
+1 Hellhole Flailer
+1 Cryptborn Horror
+2 Canyon Minotaur
+1 Bloodfray Giant
+2 Zombie Goliath
+1 Spawn of Rix Maadi
+1 Carnival Hellsteed
+1 Minotaur Aggressor
+1 Mind Rot
+1 Traitorous Instinct
+1 Cower in Fear
+1 Auger Spree
+2 Rakdos Keyrune
+2 Crippling Blight
+1 Deviant Glee
+1 Shrieking Affliction
+1 Blood Reckoning
+1 Rakdos Guildgate
+12 Swamp
+12 Mountain
+1 Assassin's Strike
+
+Sideboard

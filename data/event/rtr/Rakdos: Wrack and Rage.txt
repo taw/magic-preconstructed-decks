@@ -1,0 +1,31 @@
+// NAME: Rakdos: Wrack and Rage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-event-deck-decklists-2012-10-01
+2 Stonewright
+2 Stromkirk Noble
+4 Rakdos Cackler
+3 Knight of Infamy
+2 Lightning Mauler
+3 Rix Maadi Guildmage
+4 Rakdos Shred-Freak
+2 Hellhole Flailer
+4 Pillar of Flame
+1 Mizzium Mortars
+1 Nightbird's Clutches
+1 Devil's Play
+4 Searing Spear
+1 Rakdos Charm
+2 Brimstone Volley
+1 Dragonskull Summit
+2 Rakdos Guildgate
+8 Swamp
+13 Mountain
+
+Sideboard
+2 Brimstone Volley
+1 Grafdigger's Cage
+3 Duress
+2 Electrickery
+2 Faithless Looting
+1 Vexing Devil
+2 Ultimate Price
+2 Murder

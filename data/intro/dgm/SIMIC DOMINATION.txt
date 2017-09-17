@@ -1,0 +1,29 @@
+// NAME: SIMIC DOMINATION
+// COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+1 Archweaver
+2 Battering Krasis
+2 Beetleform Mage
+3 Centaur Courser
+2 Cloudfin Raptor
+1 Crocanura
+1 Crowned Ceratok
+2 Elusive Krasis
+1 Gyre Sage
+1 Murmuring Phantasm
+2 Opal Lake Gatekeepers
+1 Sapphire Drake
+2 Species Gorger
+1 Vorel of the Hull Clade
+1 Give // Take
+1 Phytoburst
+1 Hindervines
+2 Mutant's Prey
+2 Simic Cluestone
+2 Bred for the Hunt
+1 Krasis Incubation
+2 Runner's Bane
+10 Forest
+12 Island
+4 Simic Guildgate
+
+Sideboard

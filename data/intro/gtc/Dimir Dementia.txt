@@ -1,0 +1,32 @@
+// NAME: Dimir Dementia
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+1 Jace's Phantasm
+1 Incursion Specialist
+1 Welkin Tern
+3 Gutter Skulk
+2 Wight of Precinct Six
+1 Duskmantle Guildmage
+1 Sage's Row Denizen
+1 Mortus Strider
+2 Deathcult Rogue
+1 Vedalken Entrancer
+2 Balustrade Spy
+1 Mindeye Drake
+1 Consuming Aberration
+2 Dinrova Horror
+1 Paranoid Delusions
+1 Last Thoughts
+1 Midnight Recovery
+1 Whispering Madness
+1 Rise from the Grave
+1 Shadow Slice
+1 Coerced Confession
+2 Grisly Spectacle
+1 Totally Lost
+2 Dimir Keyrune
+2 Death's Approach
+1 Dimir Guildgate
+12 Island
+13 Swamp
+
+Sideboard

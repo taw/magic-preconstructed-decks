@@ -1,0 +1,32 @@
+// NAME: Simic Synthesis
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+1 Chronomaton
+1 Cloudfin Raptor
+2 Kraken Hatchling
+1 Frilled Oculus
+2 Shambleshark
+1 Zameck Guildmage
+2 Crocanura
+2 Drakewing Krasis
+1 Elusive Krasis
+1 Crowned Ceratok
+1 Ivy Lane Denizen
+1 Fathom Mage
+2 Adaptive Snapjaw
+1 Leyline Phantom
+1 Sapphire Drake
+1 Merfolk of the Depths
+1 Urban Evolution
+1 Sleep
+1 Unexpected Results
+2 Bioshift
+1 Tower Defense
+1 Hindervines
+2 Simic Keyrune
+2 Forced Adaptation
+2 Encrust
+1 Simic Guildgate
+12 Forest
+13 Island
+
+Sideboard
