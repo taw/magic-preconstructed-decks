@@ -1,0 +1,30 @@
+// NAME: Repel the Dark
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-intro-pack-decklists-2011-09-22
+2 Avacyn's Pilgrim
+1 Elite Vanguard
+2 Selfless Cathar
+2 Hamlet Captain
+2 Jade Mage
+2 Avacynian Priest
+3 Unruly Mob
+1 Elder of Laurels
+1 Benalish Veteran
+2 Elder Cathar
+1 Mentor of the Meek
+1 Fiend Hunter
+1 Slayer of the Wicked
+2 Thraben Purebloods
+1 Bramblecrush
+1 Overrun
+2 Titanic Growth
+1 Spare from Evil
+2 Smite the Monstrous
+1 Blazing Torch
+1 Silver-Inlaid Dagger
+1 Sharpened Pitchfork
+1 Butcher's Cleaver
+2 Bonds of Faith
+10 Forest
+14 Plains
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: DARK SACRIFICE
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+1 Champion of the Parish
+1 Disciple of Griselbrand
+2 Doomed Traveler
+2 Elder Cathar
+2 Elgaud Inquisitor
+3 Falkenrath Torturer
+1 Fiend of the Shadows
+2 Galvanic Juggernaut
+1 Mausoleum Guard
+1 Selfless Cathar
+1 Skirsdag Flayer
+2 Unruly Mob
+2 Village Cannibals
+1 Wakedancer
+2 Death's Caress
+3 Gather the Townsfolk
+1 Lingering Souls
+2 Night Terrors
+1 Unburial Rites
+2 Altar's Reap
+1 Gravepurge
+1 Avacyn's Collar
+1 Demonmail Hauberk
+1 Haunted Fengraf
+12 Plains
+11 Swamp
+
+Sideboard

@@ -1,0 +1,29 @@
+// NAME: Fiery Dawn
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+1 Somberwald Vigilante
+2 Elite Vanguard
+2 Kruin Striker
+2 Moorland Inquisitor
+2 Thraben Valiant
+2 Kessig Malcontents
+1 Manic Vandal
+3 Riot Ringleader
+2 Benalish Veteran
+1 Devout Chaplain
+2 Goldnight Commander
+1 Zealous Conscripts
+1 Pillar of Flame
+3 Thatcher Revolt
+1 Fireball
+1 Banners Raised
+2 Incinerate
+1 Zealous Strike
+1 Angelic Armaments
+1 Pacifism
+2 Vigilante Justice
+1 Commander's Authority
+1 Cathars' Crusade
+12 Mountain
+12 Plains
+
+Sideboard

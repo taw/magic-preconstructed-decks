@@ -1,0 +1,29 @@
+// NAME: Spectral Legions
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-intro-pack-decklists-2011-09-22
+2 Doomed Traveler
+2 Spectral Rider
+2 Voiceless Spirit
+2 Lantern Spirit
+2 Chapel Geist
+2 Mausoleum Guard
+3 Moon Heron
+1 Angel of Flight Alabaster
+1 Gallows Warden
+1 Battleground Geist
+1 Geist-Honored Monk
+2 Unsummon
+1 Moment of Heroism
+1 Negate
+2 Midnight Haunting
+2 Rebuke
+1 Lost in the Mist
+1 Lifelink
+1 Curiosity
+2 Divine Favor
+2 Pacifism
+1 Spirit Mantle
+1 Ghostly Possession
+14 Plains
+10 Island
+
+Sideboard

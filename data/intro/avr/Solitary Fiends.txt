@@ -1,0 +1,28 @@
+// NAME: Solitary Fiends
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+3 Alchemist's Apprentice
+1 Crypt Creeper
+2 Fettergeist
+1 Corpse Traders
+2 Undead Executioner
+2 Mist Raven
+2 Marrow Bats
+1 Lone Revenant
+2 Renegade Demon
+1 Havengul Skaab
+2 Essence Harvest
+2 Into the Void
+2 Peel from Reality
+2 Doom Blade
+2 Crippling Chill
+2 Frost Breath
+1 Swiftfoot Boots
+2 Tormentor's Trident
+1 Predator's Gambit
+1 Triumph of Cruelty
+1 Homicidal Seclusion
+1 Demonic Rising
+11 Island
+13 Swamp
+
+Sideboard

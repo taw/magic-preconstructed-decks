@@ -1,0 +1,29 @@
+// NAME: HUMANITY'S VENGEANCE
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/avacyn-restored/event-deck-decklists
+1 Blade Splicer
+4 Fiend Hunter
+4 Gideon's Lawkeeper
+1 Mirran Crusader
+3 Nearheath Pilgrim
+2 Nephalia Smuggler
+1 Phyrexian Metamorph
+4 Porcelain Legionnaire
+3 Tandem Lookout
+2 Wingcrafter
+2 Dismember
+1 Divine Deflection
+2 Mental Misstep
+3 Righteous Blow
+3 Oblivion Ring
+2 Glacial Fortress
+9 Island
+1 Moorland Haunt
+12 Plains
+
+Sideboard
+3 Cathedral Sanctifier
+2 Cloudshift
+2 Inquisitor Exarch
+4 Mana Leak
+3 Negate
+1 Pacifism

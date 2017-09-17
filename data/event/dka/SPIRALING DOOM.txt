@@ -1,0 +1,38 @@
+// NAME: SPIRALING DOOM
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/event-deck-decklists
+1 Acidic Slime
+1 Bloodgift Demon
+1 Brutalizer Exarch
+1 Hex Parasite
+1 Morkrut Banshee
+1 Myr Battlesphere
+1 Perilous Myr
+1 Phyrexian Rager
+3 Skinrender
+1 Solemn Simulacrum
+1 Stingerfling Spider
+4 Strangleroot Geist
+1 Viridian Corrupter
+4 Viridian Emissary
+1 Wakedancer
+4 Young Wolf
+2 Diabolic Tutor
+3 Doom Blade
+2 Birthing Pod
+1 Mortarpod
+2 Evolving Wilds
+14 Forest
+1 Grim Backwoods
+8 Swamp
+
+Sideboard
+1 Wakedancer
+1 Acid Web Spider
+3 Autumn's Veil
+1 Beast Within
+1 Despise
+1 Dismember
+4 Distress
+1 Entomber Exarch
+1 Gravedigger
+1 Myr Sire

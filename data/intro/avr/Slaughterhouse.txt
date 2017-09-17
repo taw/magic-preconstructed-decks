@@ -1,0 +1,28 @@
+// NAME: Slaughterhouse
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+1 Hunted Ghoul
+2 Goblin Arsonist
+1 Blood Artist
+3 Butcher Ghoul
+2 Reassembling Skeleton
+1 Bloodflow Connoisseur
+2 Demonic Taskmaster
+3 Soulcage Fiend
+1 Driver of the Dead
+2 Evernight Shade
+1 Havengul Vampire
+1 Demonlord of Ashmouth
+2 Raging Poltergeist
+1 Maalfeld Twins
+1 Gang of Devils
+1 Harvester of Souls
+2 Bone Splinters
+2 Barter in Blood
+2 Grave Exchange
+2 Fling
+1 Scroll of Griselbrand
+1 Unhallowed Pact
+13 Swamp
+12 Mountain
+
+Sideboard

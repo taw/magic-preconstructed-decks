@@ -1,0 +1,28 @@
+// NAME: Bound by Strength
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+2 Llanowar Elves
+1 Nephalia Smuggler
+2 Wingcrafter
+2 Nightshade Peddler
+1 Runeclaw Bear
+2 Tandem Lookout
+3 Trusted Forcemage
+1 Wolfir Avenger
+2 Latch Seeker
+2 Druid's Familiar
+2 Flowering Lumberknot
+2 Elgaud Shieldmate
+1 Geist Trappers
+1 Acidic Slime
+1 Wolfir Silverheart
+1 Pathbreaker Wurm
+2 Vorstclaw
+1 Deadeye Navigator
+2 Lair Delve
+1 Overrun
+2 Joint Assault
+1 Ice Cage
+13 Forest
+12 Island
+
+Sideboard

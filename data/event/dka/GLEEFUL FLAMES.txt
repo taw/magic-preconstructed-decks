@@ -1,0 +1,25 @@
+// NAME: GLEEFUL FLAMES
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/event-deck-decklists
+4 Forge Devil
+4 Goblin Arsonist
+4 Goblin Fireslinger
+4 Goblin Gaveleer
+1 Hellrider
+3 Torch Fiend
+2 Faithless Looting
+4 Goblin Grenade
+4 Artillerize
+4 Brimstone Volley
+3 Infiltration Lens
+1 Curse of Stalked Prey
+3 Haunted Fengraf
+2 Inkmoth Nexus
+17 Mountain
+
+Sideboard
+2 Act of Treason
+4 Arc Trail
+1 Dismember
+2 Gut Shot
+3 Into the Core
+3 Torpor Orb

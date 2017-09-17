@@ -1,0 +1,28 @@
+// NAME: DEATH'S ENCROACH
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/avacyn-restored/event-deck-decklists
+1 Cemetery Reaper
+2 Crypt Creeper
+4 Diregraf Ghoul
+1 Geralf's Messenger
+3 Ghoulraiser
+1 Gloom Surgeon
+1 Gravecrawler
+4 Highborn Ghoul
+4 Skinrender
+3 Despise
+3 Altar's Reap
+2 Dismember
+2 Doom Blade
+3 Go for the Throat
+2 Lashwrithe
+24 Swamp
+
+Sideboard
+2 Crypt Creeper
+1 Ghoulraiser
+1 Despise
+2 Appetite for Brains
+3 Deathmark
+2 Distress
+1 Surgical Extraction
+3 Triumph of Cruelty

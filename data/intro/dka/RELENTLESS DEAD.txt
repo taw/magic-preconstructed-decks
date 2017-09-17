@@ -1,0 +1,31 @@
+// NAME: RELENTLESS DEAD
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+2 Abattoir Ghoul
+2 Black Cat
+2 Diregraf Captain
+2 Diregraf Ghoul
+2 Farbog Boneflinger
+1 Ghoulraiser
+1 Havengul Runebinder
+1 Headless Skaab
+1 Makeshift Mauler
+1 Rotting Fensnake
+3 Screeching Skaab
+1 Skaab Goliath
+1 Stitched Drake
+2 Walking Corpse
+2 Zombie Goliath
+1 Moan of the Unhallowed
+2 Reap the Seagraf
+1 Corpse Lunge
+2 Forbidden Alchemy
+1 Negate
+1 Cellar Door
+2 Dead Weight
+1 Endless Ranks of the Dead
+1 Zombie Infestation
+2 Evolving Wilds
+10 Island
+12 Swamp
+
+Sideboard

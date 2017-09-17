@@ -1,0 +1,27 @@
+// NAME: MONSTROUS SURPRISE
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+1 Flayer of the Hatebound
+2 Goblin Arsonist
+1 Lumberknot
+3 Nearheath Stalker
+2 Orchard Spirit
+1 Pitchburn Devils
+2 Pyreheart Wolf
+1 Rage Thrower
+2 Russet Wolves
+2 Skirsdag Cultist
+2 Strangleroot Geist
+3 Young Wolf
+1 Overrun
+2 Prey Upon
+2 Rampant Growth
+2 Rolling Temblor
+2 Fling
+1 Naturalize
+2 Wild Hunger
+1 Greatsword
+1 Gutter Grime
+13 Forest
+11 Mountain
+
+Sideboard

@@ -1,0 +1,30 @@
+// NAME: Deathly Dominion
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-intro-pack-decklists-2011-09-22
+1 Typhoid Rats
+2 Disciple of Griselbrand
+2 Reassembling Skeleton
+1 Skirsdag High Priest
+1 Ambush Viper
+2 Warpath Ghoul
+2 Devouring Swarm
+1 Brain Weevil
+2 Festerhide Boar
+2 Woodland Sleuth
+2 Lumberknot
+1 Somberwald Spider
+2 Morkrut Banshee
+2 Hollowhenge Scavenger
+1 Moldgraf Monstrosity
+2 Caravan Vigil
+1 Prey Upon
+2 Rampant Growth
+1 Make a Wish
+1 Altar's Reap
+1 Doom Blade
+1 Naturalize
+1 Demonmail Hauberk
+2 Dead Weight
+11 Swamp
+13 Forest
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: DEATHFED
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/innistrad/event-deck-decklists
+2 Acidic Slime
+4 Armored Skaab
+1 Birds of Paradise
+4 Boneyard Wurm
+4 Llanowar Elves
+2 Merfolk Looter
+1 Splinterfright
+3 Viridian Emissary
+1 Green Sun's Zenith
+4 Mulch
+2 Spider Spawning
+4 Forbidden Alchemy
+1 Gnaw to the Bone
+2 Bonehoard
+1 Ratchet Bomb
+13 Forest
+1 Hinterland Harbor
+7 Island
+3 Swamp
+
+Sideboard
+2 Gnaw to the Bone
+4 Flashfreeze
+2 Mind Control
+3 Naturalize
+4 Negate
