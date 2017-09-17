@@ -1,0 +1,25 @@
+// NAME: Preconstructed deck 2
+// COMMENTS: https://mtg.gamepedia.com/Portal/2-Player_Starter_Set
+6 Swamp
+6 Island
+3 Forest
+1 Craven Knight
+1 Feral Shadow
+1 Gravedigger
+1 Hand of Death
+1 Mind Rot
+1 Muck Rats
+1 Skeletal Crocodile
+1 Vampiric Touch
+1 Cloak of Feathers
+1 Command of Unsummoning
+1 Coral Eel
+1 Ingenious Thief
+1 Snapping Drake
+1 Storm Crow
+1 Time Ebb
+1 Touch of Brilliance
+1 Elite Cat Warrior
+1 Monstrous Growth
+1 Panther Warriors
+1 Rowan Treefolk

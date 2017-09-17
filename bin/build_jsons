@@ -105,6 +105,11 @@ class BuildJsons
     when "welcome"
       ensure_deck_size(path, deck, 30, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Welcome Deck")
+    when "starter"
+      unless [30,35,40].include?(deck.size) and deck.sideboard_size == 0
+        warn "#{path}: Expected 30/35/40+0 cards, not #{deck.size}+#{deck.sideboard_size}"
+      end
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Starter Deck")
     else
       warn "WTF #{deck_type} #{deck.size}+#{deck.sideboard_size}"
     end

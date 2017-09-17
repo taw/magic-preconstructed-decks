@@ -1,0 +1,15 @@
+// NAME: Time Curse
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+17 Island
+2 Air Elemental
+3 Ingenious Thief
+2 Giant Octopus
+3 Wind Drake
+2 Counterspell
+1 Exhaustion
+2 Extinguish
+1 Ransack
+3 Remove Soul
+1 Time Warp
+2 Touch of Brilliance
+1 Undo

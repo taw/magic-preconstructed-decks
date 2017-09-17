@@ -1,0 +1,22 @@
+// NAME: Preconstructed deck 1
+// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/2-Player_Starter_Set
+3 Forest
+5 Mountain
+5 Swamp
+1 Dakmor Bat
+1 Dakmor Scorpion
+1 Goblin Cavaliers
+1 Goblin Piker
+1 Goblin Raider
+1 Lynx
+1 Moaning Spirit
+1 Norwood Ranger
+1 Obsidian Giant
+1 Ogre Berserker
+1 Plated Wurm
+1 Prowling Nightstalker
+1 Raging Goblin
+1 Coercion
+1 Hand of Death
+1 Mind Rot
+1 Volcanic Hammer

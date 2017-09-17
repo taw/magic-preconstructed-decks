@@ -1,0 +1,20 @@
+// NAME: Preconstructed deck 1
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
+6 Forest
+6 Mountain
+6 Swamp
+2 Bog Imp
+1 Durkwood Boars
+1 Grizzly Bears
+2 Goblin Hero
+1 Mons's Goblin Raiders
+1 Moon Sprite
+1 Muck Rats
+1 Ogre Warrior
+2 Scathe Zombies
+1 Trained Orgg
+2 Willow Elf
+1 Coercion
+2 Hand of Death
+2 Lava Axe
+2 Monstrous Growth

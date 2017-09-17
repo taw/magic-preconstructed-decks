@@ -1,0 +1,15 @@
+// NAME: Impaler
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+17 Forest
+2 Bull Hippo
+3 Durkwood Boars
+3 Grizzly Bears
+2 Lone Wolf
+3 Norwood Archers
+1 Pride of Lions
+1 Thorn Elemental
+2 Wild Ox
+2 Monstrous Growth
+2 Nature's Lore
+1 Renewing Touch
+1 Whirlwind

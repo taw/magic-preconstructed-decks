@@ -1,0 +1,22 @@
+// NAME: Preconstructed deck 1
+// COMMENTS: https://mtg.gamepedia.com/Portal_Three_Kingdoms/2-Player_Starter_Set
+3 Forest
+5 Mountain
+5 Swamp
+1 Independent Troops
+1 Meng Huo's Horde
+1 Mountain Bandit
+1 Renegade Troops
+1 Return to Battle
+1 Trained Jackal
+1 Wei Elite Companions
+1 Wei Infantry
+1 Wei Scout
+1 Wei Strike Force
+1 Yellow Scarves Troops
+1 Zodiac Dog
+1 Zodiac Monkey
+1 Coercion
+1 Deception
+1 Fire Ambush
+1 Ghostly Visit

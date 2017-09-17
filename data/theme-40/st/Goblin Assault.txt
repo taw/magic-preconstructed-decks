@@ -1,0 +1,15 @@
+// NAME: Goblin Assault
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+17 Mountain
+3 Goblin Chariot
+2 Goblin General
+2 Goblin Glider
+2 Hulking Goblin
+3 Raging Goblin
+1 Volcanic Dragon
+1 Jagged Lightning
+2 Lava Axe
+1 Relentless Assault
+2 Scorching Spear
+1 Spitting Earth
+3 Volcanic Hammer

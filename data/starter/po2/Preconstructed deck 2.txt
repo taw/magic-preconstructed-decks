@@ -1,0 +1,22 @@
+// NAME: Preconstructed deck 2
+// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/2-Player_Starter_Set
+3 Forest
+5 Island
+5 Plains
+1 Alaborn Trooper
+1 Angel of Mercy
+1 Bear Cub
+1 Golden Bear
+1 Screeching Drake
+1 Talas Air Ship
+1 Talas Explorer
+1 Talas Merchant
+1 Talas Scout
+1 Temple Acolyte
+1 Trokin High Guard
+1 Volunteer Militia
+1 Wild Griffin
+1 Bee Sting
+1 Path of Peace
+1 Theft of Dreams
+1 Time Ebb

@@ -1,0 +1,16 @@
+// NAME: Blinding Fury
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+17 Plains
+1 Archangel
+1 Angel of Light
+2 Charging Paladin
+3 Foot Soldiers
+3 Knight Errant
+3 Venerable Monk
+2 Wild Griffin
+1 Armageddon
+2 Angelic Blessing
+1 Breath of Life
+1 False Peace
+2 Path of Peace
+1 Vengeance

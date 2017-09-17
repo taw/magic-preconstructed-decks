@@ -1,0 +1,17 @@
+// NAME: Preconstructed deck 2
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
+8 Island
+8 Plains
+2 Eager Cadet
+1 Giant Octopus
+2 Knight Errant
+2 Merfolk of the Pearl Trident
+2 Royal Falcon
+2 Sea Eagle
+1 Vizzerdrix
+2 Wild Griffin
+2 Wind Drake
+2 Angelic Blessing
+2 Breath of Life
+2 Eye Spy
+2 Time Ebb

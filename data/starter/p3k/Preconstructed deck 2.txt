@@ -1,0 +1,22 @@
+// NAME: Preconstructed deck 2
+// COMMENTS: https://mtg.gamepedia.com/Portal_Three_Kingdoms/2-Player_Starter_Set
+3 Forest
+5 Island
+5 Plains
+1 Forest Bear
+1 Shu Cavalry
+1 Shu Elite Companions
+1 Shu Elite Infantry
+1 Shu Foot Soldiers
+1 Shu Grain Caravan
+1 Southern Elephant
+1 Straw Soldiers
+1 Volunteer Militia
+1 Wu Elite Cavalry
+1 Wu Light Cavalry
+1 Wu Scout
+1 Borrowing 100,000 Arrows
+1 Council of Advisors
+1 Forced Retreat
+1 Misfortune's Gain
+1 Trip Wire

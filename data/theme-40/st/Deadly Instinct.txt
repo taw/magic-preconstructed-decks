@@ -1,0 +1,16 @@
+// NAME: Deadly Instinct
+// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+17 Swamp
+1 Dakmor Lancer
+2 Dakmor Scorpion
+2 Feral Shadow
+2 Gravedigger
+2 Hollow Dogs
+2 Ravenous Rats
+2 Serpent Warrior
+1 Ancient Craving
+2 Chorus of Woe
+1 Dakmor Plague
+3 Hand of Death
+2 Mind Rot
+1 Soul Feast
