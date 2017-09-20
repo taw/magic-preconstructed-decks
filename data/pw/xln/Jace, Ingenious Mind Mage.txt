@@ -1,0 +1,24 @@
+// NAME: Jace, Ingenious Mind Mage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20
+1 Herald of Secret Streams
+1 Fleet Swallower
+2 Kumena's Speaker
+2 Jungle Delver
+2 Deeproot Warrior
+3 Jace's Sentinel
+2 Shaper Apprentice
+2 Vineshaper Mystic
+2 Shapers of Nature
+2 Jade Guardian
+2 Headwater Sentries
+1 Tempest Caller
+2 Air Elemental
+2 Grasping Current
+3 River Heralds' Boon
+4 Castaway's Despair
+4 Woodland Stream
+11 Forest
+11 Island
+1 Jace, Ingenious Mind-Mage
+
+Sideboard

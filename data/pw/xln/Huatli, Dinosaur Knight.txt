@@ -1,0 +1,24 @@
+// NAME: Huatli, Dinosaur Knight
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20
+2 Sun-Blessed Mount
+1 Goring Ceratops
+1 Burning Sun's Avatar
+2 Kinjalli's Caller
+4 Huatli's Snubhorn
+2 Raptor Companion
+2 Tilonalli's Knight
+2 Frenzied Raptor
+2 Territorial Hammerskull
+2 Bonded Horncrest
+2 Pterodon Knight
+2 Shining Aerosaur
+3 Huatli's Spurring
+2 Slash of Talons
+2 Lightning Strike
+2 Rallying Roar
+4 Stone Quarry
+11 Mountain
+11 Plains
+1 Huatli, Dinosaur Knight
+
+Sideboard
