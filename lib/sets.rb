@@ -213,4 +213,5 @@ MagicSets = {
   "e01"=>"Archenemy: Nicol Bolas",
   "hou"=>"Hour of Devastation",
   "c17"=>"Commander 2017",
+  "xln"=>"Ixalan",
 }
