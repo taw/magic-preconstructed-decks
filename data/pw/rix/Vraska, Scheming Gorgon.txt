@@ -1,0 +1,29 @@
+// NAME: Vraska, Scheming Gorgon
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/rivals-ixalan-planeswalker-deck-lists-2018-01-11
+1 Champion of Dusk
+1 Paladin of Atonement
+1 Bishop of the Bloodstained
+1 Deathless Ancient
+1 Dusk Legion Zealot
+2 Queen's Bay Soldier
+2 Skymarch Bloodletter
+4 Vampire Champion
+1 Vicious Conquistador
+3 Vraska's Conquistador
+1 Exultant Skymarcher
+2 Famished Paladin
+2 Inspiring Cleric
+2 Skyblade of the Legion
+1 Legion Lieutenant
+2 Gilded Sentinel
+2 Vraska's Scorn
+1 Recover
+2 Moment of Craving
+1 Bright Reprisal
+2 Moment of Triumph
+4 Forsaken Sanctuary
+11 Swamp
+9 Plains
+1 Vraska, Scheming Gorgon
+
+Sideboard

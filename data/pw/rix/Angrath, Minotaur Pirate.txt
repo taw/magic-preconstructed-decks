@@ -1,0 +1,27 @@
+// NAME: Angrath, Minotaur Pirate
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/rivals-ixalan-planeswalker-deck-lists-2018-01-11
+1 Daring Buccaneer
+2 Goblin Trailblazer
+2 Headstrong Brute
+2 Storm Fleet Pyromancer
+4 Swab Goblin
+2 Swaggering Corsair
+3 Angrath's Ambusher
+2 Fathom Fleet Boarder
+1 Fathom Fleet Cutthroat
+1 Grasping Scoundrel
+2 Dire Fleet Captain
+1 Dire Fleet Neckbreaker
+2 Gilded Sentinel
+1 Repeating Barrage
+2 Angrath's Fury
+1 Impale
+2 Lightning Strike
+3 Sure Strike
+1 Vanquisher's Banner
+4 Cinder Barrens
+11 Mountain
+9 Swamp
+1 Angrath, Minotaur Pirate
+
+Sideboard
