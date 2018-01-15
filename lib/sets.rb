@@ -214,4 +214,5 @@ MagicSets = {
   "hou"=>"Hour of Devastation",
   "c17"=>"Commander 2017",
   "xln"=>"Ixalan",
+  "rix"=>"Rivals of Ixalan",
 }
