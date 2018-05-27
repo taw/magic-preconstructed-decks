@@ -1,0 +1,24 @@
+// NAME: Teferi, Timebender
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/dominaria-planeswalker-deck-lists-2018-04-12
+1 Serra Angel
+2 Niambi, Faithful Healer
+1 Daring Archaeologist
+1 Zahid, Djinn of the Lamp
+2 Sparring Construct
+3 Knight of New Benalia
+2 Relic Runner
+1 Tetsuko Umezawa, Fugitive
+3 Aesthir Glider
+2 Jhoira's Familiar
+2 Juggernaut
+3 Teferi's Sentinel
+1 Divination
+4 Temporal Machinations
+3 Gideon's Reproach
+2 Befuddle
+11 Plains
+11 Island
+4 Meandering River
+1 Teferi, Timebender
+
+Sideboard

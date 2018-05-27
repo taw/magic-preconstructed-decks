@@ -1,0 +1,27 @@
+// NAME: Chandra, Bold Pyromancer
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/dominaria-planeswalker-deck-lists-2018-04-12
+1 Marwyn, the Nurturer
+2 Llanowar Elves
+1 Ghitu Chronicler
+3 Elfhame Druid
+4 Pyromantic Pilgrim
+1 Krosan Druid
+3 Karplusan Hound
+1 Gaea's Protector
+2 Baloth Gorger
+3 Fire Elemental
+1 Grunn, the Lonely King
+1 Primordial Wurm
+2 Chandra's Outburst
+1 Fight with Fire
+1 Fiery Intervention
+2 Shivan Fire
+2 Gift of Growth
+1 Pierce the Sky
+1 Gilded Lotus
+11 Mountain
+11 Forest
+4 Timber Gorge
+1 Chandra, Bold Pyromancer
+
+Sideboard
