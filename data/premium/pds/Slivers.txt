@@ -1,4 +1,4 @@
-// NAME: Premium Deck Series: Slivers
+// NAME: Slivers
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/slivers-decklist-2009-11-05
 2 Metallic Sliver
 2 Virulent Sliver

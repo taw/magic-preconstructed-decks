@@ -1,4 +1,4 @@
-// NAME: Premium Deck Series: Graveborn
+// NAME: Graveborn
 // COMMENTS: https://magic.wizards.com/en/articles/archive/premium-deck-series-graveborn-2011-11-14-0
 2 Putrid Imp
 2 Hidden Horror
