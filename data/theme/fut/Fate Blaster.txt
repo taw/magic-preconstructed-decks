@@ -2,7 +2,7 @@
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=1&lang=en
 2 Sage of Epityr*
 2 Vedalken Aethermage
-1 Dandan*
+1 Dandân*
 3 Blind Phantasm
 2 Aven Augur
 3 Cryptic Annelid
