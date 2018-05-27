@@ -1,0 +1,32 @@
+// NAME: Merfolk
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/duel-decks-merfolk-vs-goblins-2017-10-24
+2 Tidal Warrior
+1 Merfolk Looter
+1 Harbinger of the Tides
+1 Master of the Pearl Trident
+1 Tidebinder Mage
+1 Merfolk Wayfinder
+1 Merrow Reejerey
+2 Rootwater Hunter
+2 Scroll Thief
+1 Wake Thrasher
+1 Merfolk Sovereign
+3 Streambed Aquitects
+1 Cold-Eyed Selkie
+1 Master of Waves
+2 Tidal Courier
+1 Inkfathom Divers
+4 Aquitect's Will
+1 Concentrate
+1 Mind Spring
+1 Triton Tactics
+2 Essence Scatter
+1 Tidal Wave
+1 Engulf the Shore
+1 Misdirection
+2 Claustrophobia
+1 Blighted Cataract
+2 Lonely Sandbar
+21 Island
+
+Sideboard

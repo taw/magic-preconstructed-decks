@@ -1,0 +1,33 @@
+// NAME: Goblins
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/duel-decks-merfolk-vs-goblins-2017-10-24
+2 Foundry Street Denizen
+1 Goblin Glory Chaser
+1 Goblin Diplomats
+1 Goblin Tunneler
+1 Ember Hauler
+2 Goblin Wardriver
+1 Warren Instigator
+2 Boggart Brute
+1 Gempalm Incinerator
+1 Goblin Rabblemaster
+1 Goblin Chieftain
+1 Goblin Goon
+2 Goblin Ringleader
+1 Goblin Razerunners
+1 Krenko, Mob Boss
+1 Battle Squadron
+1 Goblin Grenade
+3 Krenko's Command
+1 Hordeling Outburst
+1 Relentless Assault
+1 Cleaver Riot
+2 Brute Strength
+3 Ghostfire
+1 Brittle Effigy
+1 Goblin Charbelcher
+2 Blighted Gorge
+2 Forgotten Cave
+20 Mountain
+2 Tarfire
+
+Sideboard

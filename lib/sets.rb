@@ -215,5 +215,7 @@ MagicSets = {
   "c17"=>"Commander 2017",
   "xln"=>"Ixalan",
   "rix"=>"Rivals of Ixalan",
+  "ddt"=>"Duel Decks: Merfolk vs. Goblins",
+  "ddu"=>"Duel Decks: Elves vs. Inventors",
   "dom"=>"Dominaria",
 }

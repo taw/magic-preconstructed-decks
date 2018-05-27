@@ -1,0 +1,35 @@
+// NAME: Woodland Warriors
+// COMMENTS: https://magic.wizards.com/en/products/duel-decks-elves-vs-inventors
+1 Ezuri, Renegade Leader
+1 Dwynen, Gilt-Leaf Daen
+1 Elvish Archdruid
+1 Gladehart Cavalry
+1 Regal Force
+2 Sylvan Advocate
+1 Elvish Aberration
+2 Elvish Branchbender
+2 Elvish Mystic
+1 Elvish Vanguard
+1 Fierce Empath
+2 Ivy Lane Denizen
+1 Krosan Tusker
+1 Kujar Seedsculptor
+2 Leaf Gilder
+1 Llanowar Empath
+1 Wildheart Invoker
+2 Jagged-Scar Archers
+1 Viridian Shaman
+1 Lead the Stampede
+1 Naturalize
+1 Oran-Rief, the Vastwood
+18 Forest
+2 Tranquil Thicket
+2 Treetop Village
+1 Talara's Battalion
+1 Yeva, Nature's Herald
+2 Ezuri's Archers
+2 Dwynen's Elite
+2 Nature's Way
+2 Nissa's Judgment
+
+Sideboard
