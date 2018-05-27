@@ -1,4 +1,4 @@
-// NAME: Ajani Goldmane Decklist
+// NAME: Ajani Goldmane
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
 1 Ajani Vengeant
 1 Ageless Entity

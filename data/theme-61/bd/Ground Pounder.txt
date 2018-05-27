@@ -1,4 +1,4 @@
-// NAME: Ground Pounder Decklist
+// NAME: Ground Pounder
 // COMMENTS: https://magic.wizards.com/en/products/beatdown
 1 Balduvian Horde
 1 Ball Lightning

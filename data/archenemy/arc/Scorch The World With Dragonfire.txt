@@ -1,4 +1,4 @@
-// NAME: Scorch The World With Dragonfire Decklist
+// NAME: Scorch The World With Dragonfire
 // COMMENTS: https://magic.wizards.com/en/archenemy
 1 Battering Craghorn
 1 Chameleon Colossus

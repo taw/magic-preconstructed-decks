@@ -1,4 +1,4 @@
-// NAME: Golgari Decklist
+// NAME: Golgari
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
 1 Boneyard Wurm
 1 Brain Weevil

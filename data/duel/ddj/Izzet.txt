@@ -1,4 +1,4 @@
-// NAME: Izzet Decklist
+// NAME: Izzet
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
 1 Djinn Illuminatus
 1 Galvanoth

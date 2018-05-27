@@ -1,4 +1,4 @@
-// NAME: Phyrexia Decklist
+// NAME: Phyrexia
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
 1 Bone Shredder
 1 Carrion Feeder

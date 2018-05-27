@@ -1,4 +1,4 @@
-// NAME: Goblin Decklist
+// NAME: Goblin
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
 1 Akki Coalflinger
 1 Clickslither

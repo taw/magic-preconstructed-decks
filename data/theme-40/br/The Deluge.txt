@@ -1,4 +1,4 @@
-// NAME: The Deluge Decklist
+// NAME: The Deluge
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
 1 Advance Scout
 1 Angelic Page
