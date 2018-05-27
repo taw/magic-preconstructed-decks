@@ -1,4 +1,4 @@
-// NAME: Grixis Undead (UBR)
+// NAME: Grixis Undead
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
 1 Dregscape Zombie
 1 Vithian Stinger

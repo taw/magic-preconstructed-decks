@@ -1,4 +1,4 @@
-// NAME: Esper Artifice (WUB)
+// NAME: Esper Artifice
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
 2 Etherium Sculptor
 2 Tidehollow Strix
