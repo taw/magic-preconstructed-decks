@@ -22,6 +22,6 @@
 11 Mountain
 11 Forest
 4 Timber Gorge
-1 Chandra, Bold Pyromancer
+1 Chandra, Bold Pyromancer [foil]
 
 Sideboard

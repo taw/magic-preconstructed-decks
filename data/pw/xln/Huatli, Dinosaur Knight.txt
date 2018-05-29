@@ -19,6 +19,6 @@
 4 Stone Quarry
 11 Mountain
 11 Plains
-1 Huatli, Dinosaur Knight
+1 Huatli, Dinosaur Knight [foil]
 
 Sideboard
