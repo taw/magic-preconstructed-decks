@@ -74,6 +74,9 @@ class BuildJsons
     when "event"
       ensure_deck_size(path, deck, 60, 15)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Event Deck")
+    when "challenger"
+      ensure_deck_size(path, deck, 60, 15)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Challenger Deck")
     when "duel"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Duel Deck")

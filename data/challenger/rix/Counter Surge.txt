@@ -1,0 +1,29 @@
+// NAME: Counter Surge
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+4 Winding Constrictor
+4 Glint-Sleeve Siphoner
+2 Scrapheap Scrounger
+1 Walking Ballista
+3 Rishkar, Peema Renegade
+3 Dreamstealer
+2 Gonti, Lord of Luxury
+3 Verdurous Gearhulk
+4 Longtusk Cub
+2 Walk the Plank
+2 Hour of Glory
+4 Blossoming Defense
+1 Fatal Push
+4 AEther Hub
+4 Foul Orchard
+2 Hashep Oasis
+8 Swamp
+7 Forest
+
+Sideboard
+2 Lifecrafter's Bestiary
+1 Dispossess
+2 Die Young
+3 Cartouche of Ambition
+4 Duress
+2 Appetite for the Unnatural
+1 Slice in Twain

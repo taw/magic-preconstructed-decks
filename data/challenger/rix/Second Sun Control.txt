@@ -1,0 +1,27 @@
+// NAME: Second Sun Control
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+1 Kefnet the Mindful
+3 Approach of the Second Sun
+3 Fumigate
+1 Settle the Wreckage
+4 Opt
+4 Censor
+4 Supreme Will
+1 Renewed Faith
+4 Glimmer of Genius
+1 Farm // Market
+4 AEther Meltdown
+4 Cast Out
+4 Irrigated Farmland
+2 Field of Ruin
+2 Ipnu Rivulet
+10 Island
+8 Plains
+
+Sideboard
+1 Kefnet the Mindful
+2 Renewed Faith
+4 Regal Caracal
+2 Glyph Keeper
+2 Spell Pierce
+4 Negate

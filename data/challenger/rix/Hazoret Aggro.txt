@@ -1,0 +1,25 @@
+// NAME: Hazoret Aggro
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+1 Chandra, Torch of Defiance
+1 Hazoret the Fervent
+3 Soul-Scar Mage
+4 Bomat Courier
+3 Kari Zev, Skyship Raider
+3 Harsh Mentor
+1 Glorybringer
+4 Fanatical Firebrand
+4 Ahn-Crop Crasher
+4 Shock
+4 Lightning Strike
+2 Abrade
+2 Magma Spray
+4 Sunscorched Desert
+20 Mountain
+
+Sideboard
+2 Magma Spray
+2 Key to the City
+2 Pia Nalaar
+2 Kari Zev's Expertise
+3 Sentinel Totem
+4 Chandra's Defeat
