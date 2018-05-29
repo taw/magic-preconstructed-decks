@@ -1,7 +1,7 @@
 // NAME: Eldrazi Arisen
 // COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
 1 Akoum Boulderfoot
-1 Conquering Manticore
+1 Conquering Manticore [foil]
 1 Daggerback Basilisk
 1 Goblin Piker
 1 Hand of Emrakul
