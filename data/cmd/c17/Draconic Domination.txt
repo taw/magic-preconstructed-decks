@@ -1,7 +1,7 @@
 // NAME: Draconic Domination
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
-1 O-Kagachi, Vengeful Kami
-1 Ramos, Dragon Engine
+1 O-Kagachi, Vengeful Kami [foil]
+1 Ramos, Dragon Engine [foil]
 1 Scalelord Reckoner
 1 Boneyard Scourge
 1 Territorial Hellkite
@@ -88,4 +88,4 @@
 1 Vivid Meadow
 
 Sideboard
-1 The Ur-Dragon
+1 The Ur-Dragon [foil]

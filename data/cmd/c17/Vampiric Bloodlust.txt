@@ -1,7 +1,7 @@
 // NAME: Vampiric Bloodlust
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
-1 Licia, Sanguine Tribune
-1 Mathas, Fiend Seeker
+1 Licia, Sanguine Tribune [foil]
+1 Mathas, Fiend Seeker [foil]
 1 Kheru Mind-Eater
 1 Patron of the Vein
 1 Bloodsworn Steward
@@ -89,4 +89,4 @@
 1 Wind-Scarred Crag
 
 Sideboard
-1 Edgar Markov
+1 Edgar Markov [foil]

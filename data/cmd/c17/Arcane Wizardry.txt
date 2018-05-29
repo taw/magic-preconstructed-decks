@@ -1,7 +1,7 @@
 // NAME: Arcane Wizardry
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
-1 Kess, Dissident Mage
-1 Mairsil, the Pretender
+1 Kess, Dissident Mage [foil]
+1 Mairsil, the Pretender [foil]
 1 Galecaster Colossus
 1 Magus of the Mind
 1 Portal Mage
@@ -84,4 +84,4 @@
 1 Vivid Marsh
 
 Sideboard
-1 Inalla, Archmage Ritualist
+1 Inalla, Archmage Ritualist [foil]
