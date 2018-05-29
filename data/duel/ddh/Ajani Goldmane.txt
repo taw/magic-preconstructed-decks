@@ -1,6 +1,6 @@
 // NAME: Ajani Goldmane
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
-1 Ajani Vengeant
+1 Ajani Vengeant [foil]
 1 Ageless Entity
 2 Ajani's Pridemate
 1 Briarhorn

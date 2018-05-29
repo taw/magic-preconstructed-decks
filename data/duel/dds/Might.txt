@@ -1,6 +1,6 @@
 // NAME: Might
 // COMMENTS: https://magic.wizards.com/en/products/duel-decks-mind-might
-1 Lovisa Coldeyes
+1 Lovisa Coldeyes [foil]
 2 Skarrgan Pit-Skulk
 2 Kruin Striker
 1 Talara's Battalion

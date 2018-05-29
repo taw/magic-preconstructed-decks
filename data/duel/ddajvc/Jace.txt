@@ -1,6 +1,6 @@
 // NAME: Jace
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
-1 Jace Beleren
+1 Jace Beleren [foil]
 1 Aethersnipe
 1 Air Elemental
 1 Bottle Gnomes

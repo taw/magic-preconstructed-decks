@@ -1,7 +1,7 @@
 // NAME: Dragons
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
 1 Bloodmark Mentor
-1 Bogardan Hellkite
+1 Bogardan Hellkite [foil]
 1 Bogardan Rager
 1 Cinder Wall
 2 Dragon Whelp

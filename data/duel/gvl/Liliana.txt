@@ -1,6 +1,6 @@
 // NAME: Liliana
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
-1 Liliana Vess
+1 Liliana Vess [foil]
 1 Deathgreeter
 1 Drudge Skeletons
 1 Faerie Macabre

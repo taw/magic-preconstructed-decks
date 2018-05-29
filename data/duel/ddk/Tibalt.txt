@@ -1,6 +1,6 @@
-// NAME: Tibalt Deck
+// NAME: Tibalt
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-sorin-vs-tibalt
-1 Tibalt, the Fiend-Blooded
+1 Tibalt, the Fiend-Blooded [foil]
 2 Ashmouth Hound
 1 Coal Stoker
 1 Corpse Connoisseur

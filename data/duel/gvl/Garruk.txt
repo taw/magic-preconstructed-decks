@@ -1,6 +1,6 @@
 // NAME: Garruk
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
-1 Garruk Wildspeaker
+1 Garruk Wildspeaker [foil]
 2 Albino Troll
 2 Basking Rootwalla
 2 Blastoderm

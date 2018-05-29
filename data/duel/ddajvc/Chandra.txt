@@ -1,6 +1,6 @@
 // NAME: Chandra
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
-1 Chandra Nalaar
+1 Chandra Nalaar [foil]
 1 Chartooth Cougar
 1 Fireslinger
 2 Flamekin Brawler

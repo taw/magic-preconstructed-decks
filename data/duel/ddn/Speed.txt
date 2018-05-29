@@ -35,7 +35,7 @@
 3 Plains
 6 Swamp
 1 Mardu Heart-Piercer
-1 Zurgo Helmsmasher
+1 Zurgo Helmsmasher [foil]
 2 Nomad Outpost
 
 Sideboard

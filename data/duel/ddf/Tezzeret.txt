@@ -1,6 +1,6 @@
 // NAME: Tezzeret
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-tezzeret
-1 Tezzeret the Seeker
+1 Tezzeret the Seeker [foil]
 1 Arcbound Worker
 1 Assembly-Worker
 1 Clockwork Condor

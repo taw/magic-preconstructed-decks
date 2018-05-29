@@ -1,6 +1,6 @@
 // NAME: Venser
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
-1 Venser, the Sojourner
+1 Venser, the Sojourner [foil]
 1 Augury Owl
 1 Cache Raiders
 1 Clone

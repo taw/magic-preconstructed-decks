@@ -1,6 +1,6 @@
 // NAME: Vraska
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
-1 Vraska the Unseen
+1 Vraska the Unseen [foil]
 1 Acidic Slime
 1 Corpse Traders
 1 Death-Hood Cobra

@@ -1,6 +1,6 @@
 // NAME: Elspeth
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-tezzeret
-1 Elspeth, Knight-Errant
+1 Elspeth, Knight-Errant [foil]
 1 Angel of Salvation
 1 Burrenton Bombardier
 1 Catapult Master

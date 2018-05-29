@@ -1,6 +1,6 @@
 // NAME: Nicol Bolas
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
-1 Nicol Bolas, Planeswalker
+1 Nicol Bolas, Planeswalker [foil]
 1 Blazing Specter
 1 Brackwater Elemental
 1 Dimir Cutpurse
