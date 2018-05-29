@@ -1,35 +1,35 @@
 // NAME: Fire and Lightning
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/firelightning
-1 Ball Lightning
-1 Boggart Ram-Gang
-1 Cinder Pyromancer
-1 Figure of Destiny
-1 Fire Servant
-1 Grim Lavamancer
-1 Hellspark Elemental
-2 Jackal Pup
-1 Jaya Ballard, Task Mage
-1 Keldon Champion
-2 Keldon Marauders
-2 Mogg Fanatic
-2 Mogg Flunkies
-2 Spark Elemental
-1 Vulshok Sorcerer
-1 Browbeat
-1 Chain Lightning
-1 Fireball
-1 Hammer of Bogardan
-1 Pillage
-1 Fireblast
-1 Flames of the Blood Hand
-4 Lightning Bolt
-1 Price of Progress
-1 Reverberate
-1 Sudden Impact
-1 Thunderbolt
-1 Barbarian Ring
-1 Ghitu Encampment
-21 Mountain
-2 Teetering Peaks
+1 Ball Lightning [foil]
+1 Boggart Ram-Gang [foil]
+1 Cinder Pyromancer [foil]
+1 Figure of Destiny [foil]
+1 Fire Servant [foil]
+1 Grim Lavamancer [foil]
+1 Hellspark Elemental [foil]
+2 Jackal Pup [foil]
+1 Jaya Ballard, Task Mage [foil]
+1 Keldon Champion [foil]
+2 Keldon Marauders [foil]
+2 Mogg Fanatic [foil]
+2 Mogg Flunkies [foil]
+2 Spark Elemental [foil]
+1 Vulshok Sorcerer [foil]
+1 Browbeat [foil]
+1 Chain Lightning [foil]
+1 Fireball [foil]
+1 Hammer of Bogardan [foil]
+1 Pillage [foil]
+1 Fireblast [foil]
+1 Flames of the Blood Hand [foil]
+4 Lightning Bolt [foil]
+1 Price of Progress [foil]
+1 Reverberate [foil]
+1 Sudden Impact [foil]
+1 Thunderbolt [foil]
+1 Barbarian Ring [foil]
+1 Ghitu Encampment [foil]
+21 Mountain [foil]
+2 Teetering Peaks [foil]
 
 Sideboard

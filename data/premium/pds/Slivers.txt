@@ -1,45 +1,45 @@
 // NAME: Slivers
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/slivers-decklist-2009-11-05
-2 Metallic Sliver
-2 Virulent Sliver
-1 Amoeboid Changeling
-1 Winged Sliver
-1 Clot Sliver
-1 Frenzy Sliver
-1 Heart Sliver
-2 Gemhide Sliver
-2 Muscle Sliver
-1 Quick Sliver
-1 Crystalline Sliver
-1 Hibernation Sliver
-1 Acidic Sliver
-1 Spined Sliver
-1 Victual Sliver
-1 Armor Sliver
-2 Spectral Sliver
-1 Barbed Sliver
-1 Homing Sliver
-1 Necrotic Sliver
-1 Fungus Sliver
-1 Brood Sliver
-1 Might Sliver
-1 Sliver Overlord
-1 Fury Sliver
-1 Distant Melody
-1 Aphetto Dredging
-1 Heartstone
-1 Coat of Arms
-1 Wild Pair
-2 Ancient Ziggurat
-1 Rootbound Crag
-2 Rupture Spire
-2 Terramorphic Expanse
-2 Vivid Creek
-2 Vivid Grove
-2 Plains
-2 Island
-2 Swamp
-3 Mountain
-5 Forest
+2 Metallic Sliver [foil]
+2 Virulent Sliver [foil]
+1 Amoeboid Changeling [foil]
+1 Winged Sliver [foil]
+1 Clot Sliver [foil]
+1 Frenzy Sliver [foil]
+1 Heart Sliver [foil]
+2 Gemhide Sliver [foil]
+2 Muscle Sliver [foil]
+1 Quick Sliver [foil]
+1 Crystalline Sliver [foil]
+1 Hibernation Sliver [foil]
+1 Acidic Sliver [foil]
+1 Spined Sliver [foil]
+1 Victual Sliver [foil]
+1 Armor Sliver [foil]
+2 Spectral Sliver [foil]
+1 Barbed Sliver [foil]
+1 Homing Sliver [foil]
+1 Necrotic Sliver [foil]
+1 Fungus Sliver [foil]
+1 Brood Sliver [foil]
+1 Might Sliver [foil]
+1 Sliver Overlord [foil]
+1 Fury Sliver [foil]
+1 Distant Melody [foil]
+1 Aphetto Dredging [foil]
+1 Heartstone [foil]
+1 Coat of Arms [foil]
+1 Wild Pair [foil]
+2 Ancient Ziggurat [foil]
+1 Rootbound Crag [foil]
+2 Rupture Spire [foil]
+2 Terramorphic Expanse [foil]
+2 Vivid Creek [foil]
+2 Vivid Grove [foil]
+2 Plains [foil]
+2 Island [foil]
+2 Swamp [foil]
+3 Mountain [foil]
+5 Forest [foil]
 
 Sideboard

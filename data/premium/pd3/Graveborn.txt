@@ -1,31 +1,31 @@
 // NAME: Graveborn
 // COMMENTS: https://magic.wizards.com/en/articles/archive/premium-deck-series-graveborn-2011-11-14-0
-2 Putrid Imp
-2 Hidden Horror
-1 Faceless Butcher
-1 Twisted Abomination
-1 Crosis, the Purger
-1 Avatar of Woe
-1 Terastodon
-1 Verdant Force
-1 Sphinx of the Steel Wind
-1 Inkwell Leviathan
-1 Blazing Archon
-1 Cabal Therapy
-3 Duress
-1 Reanimate
-3 Exhume
-2 Sickening Dreams
-2 Buried Alive
-2 Last Rites
-2 Dread Return
-1 Entomb
-3 Animate Dead
-1 Zombie Infestation
-2 Diabolic Servitude
-1 Crystal Vein
-1 Ebon Stronghold
-1 Polluted Mire
-21 Swamp
+2 Putrid Imp [foil]
+2 Hidden Horror [foil]
+1 Faceless Butcher [foil]
+1 Twisted Abomination [foil]
+1 Crosis, the Purger [foil]
+1 Avatar of Woe [foil]
+1 Terastodon [foil]
+1 Verdant Force [foil]
+1 Sphinx of the Steel Wind [foil]
+1 Inkwell Leviathan [foil]
+1 Blazing Archon [foil]
+1 Cabal Therapy [foil]
+3 Duress [foil]
+1 Reanimate [foil]
+3 Exhume [foil]
+2 Sickening Dreams [foil]
+2 Buried Alive [foil]
+2 Last Rites [foil]
+2 Dread Return [foil]
+1 Entomb [foil]
+3 Animate Dead [foil]
+1 Zombie Infestation [foil]
+2 Diabolic Servitude [foil]
+1 Crystal Vein [foil]
+1 Ebon Stronghold [foil]
+1 Polluted Mire [foil]
+21 Swamp [foil]
 
 Sideboard
