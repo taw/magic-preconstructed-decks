@@ -4,13 +4,13 @@
 1 Leafcrown Dryad
 2 Brain Maggot
 1 Nighthowler
-1 Courser of Kruphix
+1 Courser of Kruphix [foil]
 1 Noble Quarry
 2 Grim Guardian
 2 Oakheart Dryads
 3 Nyx Weaver
 1 Graverobber Spider
-1 Reaper of the Wilds
+1 Reaper of the Wilds [foil]
 1 Eidolon of Blossoms
 1 Doomwake Giant
 1 Loathsome Catoblepas
@@ -24,7 +24,7 @@
 2 Vineweft
 1 Debilitating Injury
 1 Nyx Infusion
-1 Whip of Erebos
+1 Whip of Erebos [foil]
 2 Jungle Hollow
 12 Forest
 11 Swamp

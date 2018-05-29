@@ -5,26 +5,26 @@
 4 Elvish Mystic
 1 Genesis Hydra
 2 Horizon Chimera
-1 Hydra Broodmaster
+1 Hydra Broodmaster [foil]
 1 Hypnotic Siren
 3 Karametra's Acolyte
 3 Kiora's Follower
 2 Nemesis of Mortals
 1 Nessian Courser
 3 Nessian Game Warden
-1 Prognostic Sphinx
-1 Prophet of Kruphix
+1 Prognostic Sphinx [foil]
+1 Prophet of Kruphix [foil]
 2 Voyaging Satyr
 1 Aetherspouts
-1 Fated Intervention
+1 Fated Intervention [foil]
 2 Jace's Ingenuity
 1 Curse of the Swine
 2 Divination
-1 Font of Fertility
+1 Font of Fertility [foil]
 16 Forest
 7 Island
 1 Nykthos, Shrine to Nyx
-1 Temple of Mystery
+1 Temple of Mystery [foil]
 Sideboard
 3 Nylea's Disciple
 2 Omenspeaker

@@ -13,12 +13,12 @@
 1 Arbor Colossus
 2 Nemesis of Mortals
 1 Genesis Hydra
-1 Hydra Broodmaster
+1 Hydra Broodmaster [foil]
 2 Lightning Strike
 2 Plummet
 1 Boulderfall
-1 Fated Intervention
-1 Font of Fertility
+1 Fated Intervention [foil]
+1 Font of Fertility [foil]
 8 Mountain
 16 Forest
 1 Nykthos, Shrine to Nyx
