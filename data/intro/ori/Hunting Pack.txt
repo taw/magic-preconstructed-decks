@@ -1,6 +1,6 @@
 // NAME: Hunting Pack
 // COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
-1 Dwynen, Gilt-Leaf Daen
+1 Dwynen, Gilt-Leaf Daen [foil]
 2 Dwynen's Elite
 2 Elvish Visionary
 2 Thornbow Archer
