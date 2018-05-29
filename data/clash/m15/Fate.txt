@@ -21,6 +21,6 @@
 2 Pin to the Earth
 7 Forest
 17 Island
-1 Temple of Mystery [foil]1
+1 Temple of Mystery [foil]
 
 Sideboard
