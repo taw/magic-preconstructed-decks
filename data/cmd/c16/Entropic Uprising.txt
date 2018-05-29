@@ -3,16 +3,16 @@
 1 Satyr Wayfinder
 1 Wall of Blossoms
 1 Coiling Oracle
-1 Thrasios, Triton Hero
+1 Thrasios, Triton Hero [foil]
 1 Goblin Spymaster
 1 Spellheart Chimera
-1 Vial Smasher the Fierce
+1 Vial Smasher the Fierce [foil]
 1 Academy Elite
 1 Gamekeeper
 1 Sangromancer
 1 Bloodbraid Elf
 1 Horizon Chimera
-1 Kydele, Chosen of Kruphix
+1 Kydele, Chosen of Kruphix [foil]
 1 Glint-Eye Nephilim
 1 Aeon Chronicler
 1 Guiltfeeder
@@ -85,4 +85,4 @@
 5 Forest
 
 Sideboard
-1 Yidris, Maelstrom Wielder
+1 Yidris, Maelstrom Wielder [foil]

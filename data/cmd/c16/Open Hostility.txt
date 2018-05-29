@@ -14,16 +14,16 @@
 1 Taurean Mauler
 1 Managorger Hydra
 1 Wild Beastmaster
-1 Tymna the Weaver
+1 Tymna the Weaver [foil]
 1 Wilderness Elemental
 1 Dauntless Escort
 1 Brutal Hordechief
 1 Charging Cinderhorn
 1 Thelonite Hermit
-1 Tana, the Bloodsower
+1 Tana, the Bloodsower [foil]
 1 Iroas, God of Victory
 1 Mycoloth
-1 Ravos, Soultender
+1 Ravos, Soultender [foil]
 1 Ankle Shanker
 1 Thunderfoot Baloth
 1 Stalking Vengeance
@@ -89,4 +89,4 @@
 5 Forest
 
 Sideboard
-1 Saskia the Unyielding
+1 Saskia the Unyielding [foil]

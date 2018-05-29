@@ -6,18 +6,18 @@
 1 Orzhov Advokist
 1 Chasm Skulker
 1 Gwafa Hazid, Profiteer
-1 Ludevic, Necro-Alchemist
+1 Ludevic, Necro-Alchemist [foil]
 1 Selvala, Explorer Returned
 1 Edric, Spymaster of Trest
 1 Akroan Horse
 1 Selfless Squire
 1 Windborn Muse
-1 Sidar Kondo of Jamuraa
+1 Sidar Kondo of Jamuraa [foil]
 1 Horizon Chimera
 1 Zedruu the Greathearted
 1 Psychosis Crawler
 1 Kazuul, Tyrant of the Cliffs
-1 Kraum, Ludevic's Opus
+1 Kraum, Ludevic's Opus [foil]
 1 Realm Seekers
 1 Rubblehulk
 1 Progenitor Mimic
@@ -85,4 +85,4 @@
 5 Forest
 
 Sideboard
-1 Kynaios and Tiro of Meletis
+1 Kynaios and Tiro of Meletis [foil]

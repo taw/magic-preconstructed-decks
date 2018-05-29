@@ -8,13 +8,13 @@
 1 Tuskguard Captain
 1 Necroplasm
 1 Champion of Lambholt
-1 Reyhan, Last of the Abzan
+1 Reyhan, Last of the Abzan [foil]
 1 Vorel of the Hull Clade
 1 Crystalline Crawler
 1 Custodi Soulbinders
 1 Forgotten Ancient
 1 Bane of the Living
-1 Ishai, Ojutai Dragonspeaker
+1 Ishai, Ojutai Dragonspeaker [foil]
 1 Corpsejack Menace
 1 Fathom Mage
 1 Master Biomancer
@@ -22,7 +22,7 @@
 1 Reveillark
 1 Deepglow Skate
 1 Kalonian Hydra
-1 Ikra Shidiqi, the Usurper
+1 Ikra Shidiqi, the Usurper [foil]
 1 Vulturous Zombie
 1 Juniper Order Ranger
 1 Ghave, Guru of Spores
@@ -84,4 +84,4 @@
 7 Forest
 
 Sideboard
-1 Atraxa, Praetors' Voice
+1 Atraxa, Praetors' Voice [foil]

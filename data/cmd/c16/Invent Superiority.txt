@@ -7,20 +7,20 @@
 1 Vedalken Engineer
 1 Slobad, Goblin Tinkerer
 1 Baleful Strix
-1 Akiri, Line-Slinger
+1 Akiri, Line-Slinger [foil]
 1 Armory Automaton
 1 Shimmer Myr
 1 Master of Etherium
 1 Trinket Mage
 1 Magus of the Will
 1 Hanna, Ship's Navigator
-1 Silas Renn, Seeker Adept
+1 Silas Renn, Seeker Adept [foil]
 1 Sydri, Galvanic Genius
 1 Etched Oracle
 1 Solemn Simulacrum
 1 Sanctum Gargoyle
 1 Faerie Artisans
-1 Bruse Tarl, Boorish Herder
+1 Bruse Tarl, Boorish Herder [foil]
 1 Ethersworn Adjudicator
 1 Sphinx Summoner
 1 Jor Kadeen, the Prevailer
@@ -87,4 +87,4 @@
 4 Mountain
 
 Sideboard
-1 Breya, Etherium Shaper
+1 Breya, Etherium Shaper [foil]
