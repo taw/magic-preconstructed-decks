@@ -1,0 +1,80 @@
+// NAME: Devour for Power
+// COMMENTS: https://magic.wizards.com/en/products/Commander-Anthology-2
+1 Nezumi Graverobber
+1 Skullbriar, the Walking Grave
+1 Riddlekeeper
+1 Fleshbag Marauder
+1 Eternal Witness
+1 Troll Ascetic
+1 Yavimaya Elder
+1 Solemn Simulacrum
+1 Brawn
+1 Wonder
+1 Sewer Nemesis
+1 Gravedigger
+1 Lhurgoyf
+1 Dreamborn Muse
+1 Mortivore
+1 Desecrator Hag
+1 Mulldrifter
+1 Acidic Slime
+1 Vulturous Zombie
+1 Dark Hatchling
+1 Extractor Demon
+1 Scythe Specter
+1 Wrexial, the Risen Deep
+1 Vorosh, the Hunter [foil]
+1 Triskelavus
+1 Slipstream Eel
+1 Butcher of Malakir
+1 Patron of the Nezumi
+1 Damia, Sage of Stone [foil]
+1 Szadek, Lord of Secrets
+1 Avatar of Woe
+1 Artisan of Kozilek
+1 Minds Aglow
+1 Shared Trauma
+1 Sign in Blood
+1 Stitch Together
+1 Cultivate
+1 Windfall
+1 Buried Alive
+1 Syphon Mind
+1 Unnerve
+1 Rise from the Grave
+1 Syphon Flesh
+1 Living Death
+1 Tribute to the Wild
+1 Spell Crumple
+1 Fact or Fiction
+1 Relic Crush
+1 Sol Ring
+1 Dimir Signet
+1 Golgari Signet
+1 Lightning Greaves
+1 Simic Signet
+1 Oblivion Stone
+1 Vow of Wildness
+1 Vow of Flight
+1 Vow of Malice
+1 Memory Erosion
+1 Grave Pact
+1 Barren Moor
+1 Command Tower
+1 Dimir Aqueduct
+1 Dreadship Reef
+1 Golgari Rot Farm
+1 Jwar Isle Refuge
+1 Lonely Sandbar
+1 Rupture Spire
+1 Simic Growth Chamber
+1 Svogthos, the Restless Tomb
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Tranquil Thicket
+8 Forest
+8 Island
+11 Swamp
+
+Sideboard
+1 The Mimeoplasm [foil]

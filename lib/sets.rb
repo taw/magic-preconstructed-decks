@@ -218,4 +218,5 @@ MagicSets = {
   "ddt"=>"Duel Decks: Merfolk vs. Goblins",
   "ddu"=>"Duel Decks: Elves vs. Inventors",
   "dom"=>"Dominaria",
+  "cm2"=>"Commander Anthology Volume II",
 }
