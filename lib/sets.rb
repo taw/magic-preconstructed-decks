@@ -218,5 +218,6 @@ MagicSets = {
   "ddt"=>"Duel Decks: Merfolk vs. Goblins",
   "ddu"=>"Duel Decks: Elves vs. Inventors",
   "dom"=>"Dominaria",
+  "gs1"=>"Global Series: Jiang Yanggu and Mu Yanling",
   "cm2"=>"Commander Anthology Volume II",
 }
