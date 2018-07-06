@@ -1,0 +1,24 @@
+// NAME: Tezzeret
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+2 Snapping Drake
+1 Riddlemaster Sphinx
+1 Exclusion Mage
+2 Gearsmith Prodigy
+1 Scholar of Stars
+2 Skilled Animator
+2 Field Creeper
+2 Gearsmith Guardian
+2 Meteor Golem
+2 Skyscanner
+3 Tezzeret's Strider
+1 One with the Machine
+1 Divination
+1 Uncomfortable Chill
+2 Tezzeret's Gatebreaker
+1 Manalith
+4 Pendulum of Patterns
+3 Dwindle
+26 Island
+1 Tezzeret, Cruel Machinist [foil]
+
+Sideboard

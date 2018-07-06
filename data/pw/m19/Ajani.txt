@@ -1,0 +1,25 @@
+// NAME: Ajani
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+1 Mentor of the Meek
+1 Serra's Guardian
+2 Ajani's Pridemate
+2 Cavalry Drillmaster
+2 Dwarven Priest
+2 Herald of Faith
+2 Militia Bugler
+2 Oreskos Swiftclaw
+1 Pegasus Courser
+3 Rustwing Falcon
+1 Meteor Golem
+3 Court Cleric
+4 Silverbeak Griffin
+2 Ajani's Influence
+1 Inspired Charge
+1 Mighty Leap
+1 Revitalize
+1 Knight's Pledge
+2 Luminous Bonds
+25 Plains
+1 Ajani, Wise Counselor [foil]
+
+Sideboard

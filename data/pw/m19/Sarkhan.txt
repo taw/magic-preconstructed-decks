@@ -1,0 +1,25 @@
+// NAME: Sarkhan
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+1 Shivan Dragon
+1 Demanding Dragon
+2 Goblin Motivator
+1 Hostile Minotaur
+2 Onakke Ogre
+2 Sparktongue Dragon
+2 Volcanic Dragon
+1 Meteor Golem
+4 Kargan Dragonrider
+3 Sarkhan's Whelp
+2 Sarkhan's Dragonfire
+1 Act of Treason
+1 Fiery Finish
+1 Thud
+2 Electrify
+2 Lightning Strike
+2 Shock
+1 Trumpet Blast
+26 Mountain
+1 Sarkhan, Dragonsoul [foil]
+2 Viashino Pyromancer
+
+Sideboard

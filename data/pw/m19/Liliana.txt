@@ -1,0 +1,25 @@
+// NAME: Liliana
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+2 Diregraf Ghoul
+1 Demon of Catastrophes
+1 Gravewaker
+1 Gravedigger
+1 Reassembling Skeleton
+1 Skeleton Archer
+2 Skymarch Bloodletter
+2 Vampire Sovereign
+2 Walking Corpse
+1 Meteor Golem
+3 Arisen Gorgon
+4 Tattered Mummy
+2 Liliana's Spoils
+2 Blood Divination
+2 Lich's Caress
+1 Sovereign's Bite
+2 Abnormal Endurance
+2 Murder
+1 Strangling Spores
+26 Swamp
+1 Liliana, the Necromancer [foil]
+
+Sideboard
