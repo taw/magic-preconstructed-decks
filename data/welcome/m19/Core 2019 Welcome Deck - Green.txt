@@ -1,0 +1,20 @@
+// NAME: Green Deck
+// COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+1 Aggressive Mammoth
+1 Bristling Boar
+1 Centaur Courser
+1 Colossal Dreadmaw
+1 Ghastbark Twins
+1 Giant Spider
+1 Highland Game
+1 Thornhide Wolves
+1 Wall of Vines
+1 Ursine Champion
+2 Llanowar Elves
+1 Rabid Bite
+1 Plummet
+2 Titanic Growth
+1 Oakenform
+13 Forest
+
+Sideboard

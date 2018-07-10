@@ -1,0 +1,19 @@
+// NAME: Red Deck
+// COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+1 Shivan Dragon
+1 Fire Elemental
+1 Goblin Motivator
+2 Hostile Minotaur
+2 Onakke Ogre
+1 Sparktongue Dragon
+1 Volcanic Dragon
+2 Kargan Dragonrider
+1 Fiery Finish
+1 Electrify
+1 Lightning Strike
+1 Shock
+1 Trumpet Blast
+1 Radiating Lightning
+13 Mountain
+
+Sideboard
