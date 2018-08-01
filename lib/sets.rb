@@ -213,6 +213,7 @@ MagicSets = {
   "e01"=>"Archenemy: Nicol Bolas",
   "hou"=>"Hour of Devastation",
   "c17"=>"Commander 2017",
+  "c18"=>"Commander 2018",
   "xln"=>"Ixalan",
   "rix"=>"Rivals of Ixalan",
   "ddt"=>"Duel Decks: Merfolk vs. Goblins",

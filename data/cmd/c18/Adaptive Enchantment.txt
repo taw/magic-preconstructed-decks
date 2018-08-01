@@ -1,0 +1,84 @@
+// NAME: Adaptive Enchantment
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
+1 Bruna, Light of Alabaster
+1 Eidolon of Blossoms
+1 Hydra Omnivore
+1 Ajani's Chosen
+1 Celestial Archon
+1 Silent Sentinel
+1 Boon Satyr
+1 Herald of the Pantheon
+1 Cold-Eyed Selkie
+1 Daxos of Meletis
+1 Elderwood Scion
+1 Archetype of Imagination
+1 Whitewater Naiads
+1 Aura Gnarlid
+1 Reclamation Sage
+1 Yavimaya Enchantress
+1 Martial Coup
+1 Phyrexian Rebirth
+1 Winds of Rath
+1 Creeping Renaissance
+1 Kruphix's Insight
+1 Dismantling Blow
+1 Bant Charm
+1 Sol Ring
+1 Sigil of the Empty Throne
+1 Dictate of Kruphix
+1 Bear Umbra
+1 Enchantress's Presence
+1 Epic Proportions
+1 Ground Seal
+1 Spawning Grounds
+1 Finest Hour
+1 Righteous Authority
+1 Sage's Reverie
+1 Soul Snare
+1 Unquestioned Authority
+1 Eel Umbra
+1 Vow of Flight
+1 Dawn's Reflection
+1 Fertile Ground
+1 Overgrowth
+1 Snake Umbra
+1 Vow of Wildness
+1 Wild Growth
+1 Unflinching Courage
+9 Plains
+6 Island
+8 Forest
+1 Azorius Chancery
+1 Blossoming Sands
+1 Command Tower
+1 Evolving Wilds
+1 Krosan Verge
+1 Meandering River
+1 Mosswort Bridge
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Tranquil Cove
+1 Tranquil Expanse
+1 Woodland Stream
+1 Kestia, the Cultivator [foil]
+1 Tuvasa the Sunlit [foil]
+1 Empyrial Storm
+1 Heavenly Blademaster
+1 Estrid's Invocation
+1 Ever-Watching Threshold
+1 Octopus Umbra
+1 Genesis Storm
+1 Myth Unbound
+1 Nylea's Colossus
+1 Ravenous Slime
+1 Arixmethes, Slumbering Isle
+1 Loyal Unicorn
+1 Loyal Drake
+1 Loyal Guardian
+1 Forge of Heroes
+
+Sideboard
+1 Estrid, the Masked [foil]

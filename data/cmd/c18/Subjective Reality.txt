@@ -1,0 +1,91 @@
+// NAME: Subjective Reality
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
+1 Enigma Sphinx
+1 Serra Avatar
+1 Adarkar Valkyrie
+1 Conundrum Sphinx
+1 Djinn of Wishes
+1 Jeskai Infiltrator
+1 Sphinx of Jwar Isle
+1 Sphinx of Uthuun
+1 Phyrexian Delver
+1 Duskmantle Seer
+1 High Priest of Penance
+1 Silent-Blade Oni
+1 Mulldrifter
+1 Ninja of the Deep Hours
+1 Sigiled Starfish
+1 Pilgrim's Eye
+1 Terminus
+1 Entreat the Angels
+1 Army of the Damned
+1 Akroma's Vengeance
+1 Devastation Tide
+1 Dream Cache
+1 Ponder
+1 Portent
+1 Treasure Hunt
+1 Utter End
+1 Banishing Stroke
+1 Return to Dust
+1 Brainstorm
+1 Predict
+1 Telling Time
+1 Esper Charm
+1 Mortify
+1 Azorius Signet
+1 Commander's Sphere
+1 Crystal Ball
+1 Dimir Signet
+1 Mind Stone
+1 Orzhov Signet
+1 Seer's Lantern
+1 Sol Ring
+1 Lightform
+1 Cloudform
+8 Plains
+5 Island
+3 Swamp
+1 Arcane Sanctum
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Barren Moor
+1 Command Tower
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Forsaken Sanctuary
+1 Halimar Depths
+1 Jwar Isle Refuge
+1 Lonely Sandbar
+1 Meandering River
+1 Mortuary Mire
+1 New Benalia
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Scoured Barrens
+1 Secluded Steppe
+1 Sejiri Refuge
+1 Submerged Boneyard
+1 Tranquil Cove
+1 Varina, Lich Queen [foil]
+1 Yennett, Cryptic Sovereign [foil]
+1 Boreas Charger
+1 Magus of the Balance
+1 Aminatou's Augury
+1 Primordial Mist
+1 Entreat the Dead
+1 Night Incarnate
+1 Skull Storm
+1 Sower of Discord
+1 Yuriko, the Tiger's Shadow
+1 Isolated Watchtower
+1 Aethermage's Touch
+1 Loyal Unicorn
+1 Loyal Subordinate
+1 Geode Golem
+1 Forge of Heroes
+1 Crib Swap
+
+Sideboard
+1 Aminatou, the Fateshifter [foil]

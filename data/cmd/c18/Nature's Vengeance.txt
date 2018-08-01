@@ -1,0 +1,89 @@
+// NAME: Nature's Vengeance
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
+1 Charnelhoard Wurm
+1 Avenger of Zendikar
+1 Soul of Innistrad
+1 Flameblast Dragon
+1 Budoka Gardener
+1 Centaur Vinecrasher
+1 Moldgraf Monstrosity
+1 Rampaging Baloths
+1 Scute Mob
+1 Rubblehulk
+1 Acidic Slime
+1 Baloth Woodcrasher
+1 Borderland Explorer
+1 Farhaven Elf
+1 Sakura-Tribe Elder
+1 Yavimaya Elder
+1 Zendikar Incarnate
+1 Ruinous Path
+1 Chain Reaction
+1 Decimate
+1 Gaze of Granite
+1 Lavalanche
+1 Worm Harvest
+1 Stitch Together
+1 Cultivate
+1 Explore
+1 Explosive Vegetation
+1 Far Wanderings
+1 Hunting Wilds
+1 Savage Twister
+1 Moonlight Bargain
+1 Consign to Dust
+1 Grapple with the Past
+1 Harrow
+1 Grisly Salvage
+1 Putrefy
+1 Seer's Sundial
+1 Sol Ring
+1 Retreat to Hagra
+1 Khalni Heart Expedition
+1 Deathreap Ritual
+6 Swamp
+5 Mountain
+7 Forest
+1 Akoum Refuge
+1 Barren Moor
+1 Blighted Woodland
+1 Bojuka Bog
+1 Command Tower
+1 Evolving Wilds
+1 Forgotten Cave
+1 Golgari Rot Farm
+1 Grim Backwoods
+1 Gruul Turf
+1 Haunted Fengraf
+1 Jund Panorama
+1 Jungle Hollow
+1 Kazandu Refuge
+1 Khalni Garden
+1 Mountain Valley
+1 Myriad Landscape
+1 Rakdos Carnarium
+1 Rocky Tar Pit
+1 Savage Lands
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Tranquil Thicket
+1 Warped Landscape
+1 Gyrus, Waker of Corpses [foil]
+1 Thantis, the Warweaver [foil]
+1 Bloodtracker
+1 Emissary of Grudges
+1 Fury Storm
+1 Nesting Dragon
+1 Reality Scramble
+1 Crash of Rhino Beetles
+1 Turntimber Sower
+1 Whiptongue Hydra
+1 Windgrace's Judgment
+1 Xantcha, Sleeper Agent
+1 Loyal Subordinate
+1 Loyal Apprentice
+1 Loyal Guardian
+1 Forge of Heroes
+
+Sideboard
+1 Lord Windgrace [foil]
