@@ -1,0 +1,35 @@
+// NAME: Sun Empire
+// COMMENTS: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+1 Burning Sun's Avatar
+1 Ancient Brontodon
+1 Bellowing Aegisaur
+2 Borderland Ranger
+1 Charging Monstrosaur
+2 Drover of the Mighty
+1 Frenzied Raptor
+2 Imperial Aerosaur
+2 Nest Robber
+1 Raging Swordtooth
+2 Raptor Companion
+1 Raptor Hatchling
+1 Ravenous Daggertooth
+1 Regisaur Alpha
+1 Thundering Spineback
+1 Aggravated Assault
+1 Vow of Wildness
+1 Disaster Radius
+1 Hunter's Prowess
+1 Prey Upon
+1 Savage Stomp
+1 Dinosaur Stampede
+1 Lightning Helix
+1 Path to Exile
+2 Sheltering Light
+2 Prismatic Lens
+1 Quicksilver Amulet
+4 Jungle Shrine
+6 Plains
+7 Mountain
+9 Forest
+
+Sideboard

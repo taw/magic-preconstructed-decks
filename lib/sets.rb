@@ -221,5 +221,6 @@ MagicSets = {
   "dom"=>"Dominaria",
   "gs1"=>"Global Series: Jiang Yanggu and Mu Yanling",
   "cm2"=>"Commander Anthology Volume II",
-  "m19"=> "Core Set 2019",
+  "m19"=>"Core Set 2019",
+  "e02"=>"Explorers of Ixalan",
 }

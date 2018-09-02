@@ -1,0 +1,30 @@
+// NAME: River Heralds
+// COMMENTS: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+2 Shapers of Nature
+2 Kumena's Speaker
+2 Air Elemental
+2 Deeproot Warrior
+2 Jungle Barrier
+1 Merfolk Sovereign
+1 River Sneak
+2 Shaper Apprentice
+1 Soul of the Harvest
+1 Tempest Caller
+2 Vineshaper Mystic
+1 Waker of the Wilds
+1 Watertrap Weaver
+2 Rancor
+1 Threads of Disloyalty
+1 Vow of Flight
+1 Aether Gale
+1 Concentrate
+2 Prey Upon
+1 Time Warp
+1 Giant Growth
+2 Unsummon
+2 Prismatic Lens
+2 Unknown Shores
+12 Island
+12 Forest
+
+Sideboard

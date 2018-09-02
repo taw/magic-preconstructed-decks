@@ -1,0 +1,31 @@
+// NAME: Brazen Coalition
+// COMMENTS: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+1 Angrath's Marauders
+1 Adaptive Automaton
+3 Dire Fleet Hoarder
+1 Dreamcaller Siren
+2 Headstrong Brute
+1 Marauding Looter
+2 Rigging Runner
+2 Sailor of Means
+2 Storm Fleet Aerialist
+2 Storm Fleet Pyromancer
+2 Storm Fleet Spy
+2 Wanted Scoundrels
+1 Shared Animosity
+1 Vow of Lightning
+1 Blatant Thievery
+1 Innocent Blood
+1 Mass Mutiny
+1 Coat with Venom
+1 Doom Blade
+1 Fiery Cannonade
+1 Lightning Strike
+2 Rush of Adrenaline
+2 Prismatic Lens
+4 Crumbling Necropolis
+7 Island
+7 Swamp
+8 Mountain
+
+Sideboard
