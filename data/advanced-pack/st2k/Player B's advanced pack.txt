@@ -1,0 +1,15 @@
+// NAME: Player B's advanced pack
+// COMMENTS: https://mtg.gamepedia.com/Starter_2000
+3 Island
+3 Plains
+1 Obsianus Golem
+1 Prodigal Sorcerer
+1 Samite Healer
+1 Venerable Monk
+1 Counterspell
+1 Disenchant
+1 Flight
+1 Hero's Resolve
+1 Inspiration
+
+Sideboard

@@ -1,0 +1,20 @@
+// NAME: Player A's deck
+// COMMENTS: https://mtg.gamepedia.com/Starter_2000
+3 Forest
+3 Mountain
+3 Swamp
+1 Bog Imp
+1 Durkwood Boars
+1 Goblin Hero
+1 Mons's Goblin Raiders
+1 Moon Sprite
+1 Ogre Warrior
+1 Scathe Zombies
+1 Trained Orgg
+1 Willow Elf
+1 Coercion
+1 Hand of Death
+1 Lava Axe
+1 Monstrous Growth
+
+Sideboard

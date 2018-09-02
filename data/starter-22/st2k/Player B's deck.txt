@@ -1,0 +1,18 @@
+// NAME: Player B's deck
+// COMMENTS: https://mtg.gamepedia.com/Starter_2000
+4 Island
+5 Plains
+2 Eager Cadet
+1 Giant Octopus
+1 Knight Errant
+1 Merfolk of the Pearl Trident
+1 Royal Falcon
+1 Sea Eagle
+1 Vizzerdrix
+1 Wild Griffin
+1 Wind Drake
+1 Angelic Blessing
+1 Breath of Life
+1 Time Ebb
+
+Sideboard

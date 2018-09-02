@@ -56,6 +56,12 @@ class BuildJsons
     when "intro-26"
       ensure_deck_size(path, deck, 26, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+    when "starter-22" # S2TK
+      ensure_deck_size(path, deck, 22, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Starter Deck")
+    when "advanced-pack" # S2TK
+      ensure_deck_size(path, deck, 15, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Advanced Pack")
     when "theme"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
