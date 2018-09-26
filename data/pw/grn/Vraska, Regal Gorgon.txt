@@ -1,0 +1,26 @@
+// NAME: Vraska, Regal Gorgon
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-planeswalker-decklists-2018-09-20
+1 Vraska, Regal Gorgon
+1 Beast Whisperer
+2 Bartizan Bats
+1 Douser of Lights
+4 Kraul Raider
+1 Lotleth Giant
+3 Spinal Centipede
+1 Devkarin Dissident
+2 Ironshell Beetle
+1 Kraul Foragers
+1 Wild Ceratok
+3 Attendant of Vraska
+2 Glowspore Shaman
+2 Rhizome Lurcher
+1 Swarm Guildmage
+2 Prey Upon
+2 Vraska's Stoneglare
+1 Bounty of Might
+3 Dead Weight
+4 Golgari Guildgate
+10 Forest
+12 Swamp
+
+Sideboard

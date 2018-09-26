@@ -1,0 +1,28 @@
+// NAME: Ral, Caller of Storms
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-planeswalker-decklists-2018-09-20
+1 Ral, Caller of Storms
+2 Wee Dragonauts
+1 Erratic Cyclops
+1 Omnispell Adept
+1 Leapfrog
+1 Muse Drake
+1 Passwall Adept
+1 Vedalken Mesmerist
+3 Fearless Halberdier
+2 Fire Urchin
+2 Hellkite Whelp
+1 Rubblebelt Boar
+2 Goblin Electromancer
+3 Ral's Staticaster
+1 Maximize Altitude
+1 Direct Current
+4 Precision Bolt
+2 Ral's Dispersal
+1 Chemister's Insight
+2 Command the Storm
+1 Sonic Assault
+4 Izzet Guildgate
+10 Island
+12 Mountain
+
+Sideboard

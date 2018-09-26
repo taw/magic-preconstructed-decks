@@ -223,4 +223,5 @@ MagicSets = {
   "cm2"=>"Commander Anthology Volume II",
   "m19"=>"Core Set 2019",
   "e02"=>"Explorers of Ixalan",
+  "grn"=>"Guilds of Ravnica",
 }

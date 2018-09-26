@@ -65,6 +65,9 @@ class BuildJsons
     when "theme"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+    when "guild-kit"
+      ensure_deck_size(path, deck, 60, 0)
+      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Guild Kit")
     when "mtgo"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, MagicSets.fetch(set_code), "MTGO Theme Deck")
