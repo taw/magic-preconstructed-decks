@@ -37,91 +37,96 @@ class BuildJsons
     name = path.basename(".txt").to_s
     set_code = path.parent.basename.to_s
     deck_type = path.parent.parent.basename.to_s
+    set_name = MagicSets[set_code]
+    unless set_name
+      warn "Unknown set #{set_code}, skipping"
+      return
+    end
     case deck_type
     when "pw"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planeswalker Deck")
+      add_deck(name, deck, set_code, set_name, "Planeswalker Deck")
     when "cmd"
       ensure_deck_size(path, deck, 99, 1)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Commander Deck")
+      add_deck(name, deck, set_code, set_name, "Commander Deck")
     when "intro"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+      add_deck(name, deck, set_code, set_name, "Intro Pack")
     when "intro-41"
       ensure_deck_size(path, deck, 41, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+      add_deck(name, deck, set_code, set_name, "Intro Pack")
     when "intro-30"
       ensure_deck_size(path, deck, 30, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+      add_deck(name, deck, set_code, set_name, "Intro Pack")
     when "intro-26"
       ensure_deck_size(path, deck, 26, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Intro Pack")
+      add_deck(name, deck, set_code, set_name, "Intro Pack")
     when "starter-22" # S2TK
       ensure_deck_size(path, deck, 22, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Starter Deck")
+      add_deck(name, deck, set_code, set_name, "Starter Deck")
     when "advanced-pack" # S2TK
       ensure_deck_size(path, deck, 15, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Advanced Pack")
+      add_deck(name, deck, set_code, set_name, "Advanced Pack")
     when "theme"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+      add_deck(name, deck, set_code, set_name, "Theme Deck")
     when "guild-kit"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Guild Kit")
+      add_deck(name, deck, set_code, set_name, "Guild Kit")
     when "mtgo"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "MTGO Theme Deck")
+      add_deck(name, deck, set_code, set_name, "MTGO Theme Deck")
     when "theme-40"
       ensure_deck_size(path, deck, 40, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+      add_deck(name, deck, set_code, set_name, "Theme Deck")
     when "theme-61"
       ensure_deck_size(path, deck, 61, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+      add_deck(name, deck, set_code, set_name, "Theme Deck")
     when "theme-62"
       ensure_deck_size(path, deck, 62, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Theme Deck")
+      add_deck(name, deck, set_code, set_name, "Theme Deck")
     when "event"
       ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Event Deck")
+      add_deck(name, deck, set_code, set_name, "Event Deck")
     when "challenger"
       ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Challenger Deck")
+      add_deck(name, deck, set_code, set_name, "Challenger Deck")
     when "duel"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Duel Deck")
+      add_deck(name, deck, set_code, set_name, "Duel Deck")
     when "dotp"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Duel Of The Planeswalkers Deck")
+      add_deck(name, deck, set_code, set_name, "Duel Of The Planeswalkers Deck")
     when "archenemy"
       unless deck.size == 60 and [0,20].include?(deck.sideboard_size)
         warn "#{path}: Expected 60+0/20 cards, not #{deck.size}+#{deck.sideboard_size}"
       end
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Archenemy Deck")
+      add_deck(name, deck, set_code, set_name, "Archenemy Deck")
     when "clash"
       unless deck.size == 60 and [0,15].include?(deck.sideboard_size)
         warn "#{path}: Expected 60+0/15 cards, not #{deck.size}+#{deck.sideboard_size}"
       end
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Clash Pack")
+      add_deck(name, deck, set_code, set_name, "Clash Pack")
     when "planechase"
       ensure_deck_size(path, deck, 60, 10)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Planechase Deck")
+      add_deck(name, deck, set_code, set_name, "Planechase Deck")
     when "ex-basic"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Basic Deck")
+      add_deck(name, deck, set_code, set_name, "Basic Deck")
     when "ex-advanced"
       ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Advanced Deck")
+      add_deck(name, deck, set_code, set_name, "Advanced Deck")
     when "premium"
       ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Premium Deck")
+      add_deck(name, deck, set_code, set_name, "Premium Deck")
     when "welcome"
       ensure_deck_size(path, deck, 30, 0)
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Welcome Deck")
+      add_deck(name, deck, set_code, set_name, "Welcome Deck")
     when "starter"
       unless [30,35,40].include?(deck.size) and deck.sideboard_size == 0
         warn "#{path}: Expected 30/35/40+0 cards, not #{deck.size}+#{deck.sideboard_size}"
       end
-      add_deck(name, deck, set_code, MagicSets.fetch(set_code), "Starter Deck")
+      add_deck(name, deck, set_code, set_name, "Starter Deck")
     else
       warn "WTF #{deck_type} #{deck.size}+#{deck.sideboard_size}"
     end
