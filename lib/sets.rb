@@ -95,6 +95,7 @@ MagicSets = {
   "frf" => "Fate Reforged",
   "frf_ugin" => "Ugin's Fate promos",
   "fut" => "Future Sight",
+  "gk1" => "GRN Guild Kit",
   "gpt" => "Guildpact",
   "grn" => "Guilds of Ravnica",
   "gs1" => "Global Series: Jiang Yanggu and Mu Yanling",
