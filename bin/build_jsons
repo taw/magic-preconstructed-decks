@@ -3,6 +3,8 @@
 require "json"
 require "pathname"
 require "pathname-glob"
+# Ruby 2.3 or older
+require "hash-polyfill" unless Hash.method_defined?(:compact)
 require_relative "../lib/deck"
 require_relative "../lib/sets"
 
