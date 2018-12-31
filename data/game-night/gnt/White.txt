@@ -1,5 +1,6 @@
 // NAME: White
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+// (linked decklist is incorrect, one Inspired Charge replaces Inspiring Captain)
 1 Benalish Marshal
 1 Mentor of the Meek
 1 Valiant Knight
@@ -10,13 +11,14 @@
 1 Aerial Responder
 1 Everdawn Champion
 2 Fan Bearer
-2 Inspiring Captain
+1 Inspiring Captain
 2 Mesa Unicorn
 2 Serra Angel
 1 Subjugator Angel
 1 Cleansing Nova
 2 Call the Cavalry
 2 Bright Reprisal
+1 Inspired Charge
 1 Always Watching
 1 Hieromancer's Cage
 2 Knightly Valor
