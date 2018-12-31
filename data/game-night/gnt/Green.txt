@@ -1,0 +1,28 @@
+// NAME: Green
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+1 Ghalta, Primal Hunger
+1 Gigantosaurus
+1 Goreclaw, Terror of Qal Sisma
+1 Pelakka Wurm
+2 Colossal Dreadmaw
+2 Elvish Rejuvenator
+2 Ghastbark Twins
+2 Giant Spider
+1 Reclamation Sage
+1 Vigilant Baloth
+1 Jungle Delver
+3 Llanowar Elves
+2 Thrashing Brontodon
+2 Eager Construct
+2 Howling Golem
+1 Nissa's Revelation
+3 Rabid Bite
+1 Overcome
+2 Seek the Wilds
+1 Manalith
+1 Rhonas's Monument
+1 Talons of Wildwood
+25 Forest
+1 Avatar of Growth
+
+Sideboard

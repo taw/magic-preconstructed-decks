@@ -1,4 +1,5 @@
 require "json"
+require "pathname"
 
 desc "Print some statistics"
 task "stats" do

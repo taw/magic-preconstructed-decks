@@ -1,0 +1,27 @@
+// NAME: Red
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+1 Captivating Crew
+1 Siege-Gang Commander
+1 Demanding Dragon
+2 Goblin Trashmaster
+1 Shivan Dragon
+2 Goblin Instigator
+1 Goblin Motivator
+2 Guttersnipe
+1 Havoc Devils
+2 Volley Veteran
+1 Seismic Elemental
+2 Eager Construct
+2 Howling Golem
+2 Welder Automaton
+1 Act of Treason
+2 Dragon Fodder
+2 Rolling Thunder
+2 Tormenting Voice
+3 Shock
+1 Trumpet Blast
+2 Bombard
+25 Mountain
+1 Goblin Goliath
+
+Sideboard

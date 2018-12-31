@@ -45,6 +45,9 @@ class BuildJsons
       return
     end
     case deck_type
+    when "game-night"
+      ensure_deck_size(path, deck, 60, 0)
+      add_deck(name, deck, set_code, set_name, "Game Night Deck")
     when "pw"
       ensure_deck_size(path, deck, 60, 0)
       add_deck(name, deck, set_code, set_name, "Planeswalker Deck")

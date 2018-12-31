@@ -1,0 +1,28 @@
+// NAME: Blue
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+1 Soulblade Djinn
+1 Zahid, Djinn of the Lamp
+1 Sai, Master Thopterist
+2 Aviation Pioneer
+1 Gearsmith Prodigy
+2 Scholar of Stars
+2 Skilled Animator
+2 Wall of Mist
+2 Gearsmith Guardian
+2 Skyscanner
+1 Advanced Stitchwing
+2 Air Elemental
+1 Reckless Scholar
+2 Whirler Rogue
+2 Pilgrim's Eye
+2 Snare Thopter
+1 One with the Machine
+1 Switcheroo
+1 Hydrolash
+1 Metamorphic Alteration
+2 Claustrophobia
+2 Favorable Winds
+25 Island
+1 Inspired Sphinx
+
+Sideboard
