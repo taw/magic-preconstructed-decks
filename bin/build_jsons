@@ -37,7 +37,7 @@ class BuildJsons
 
   def validate_and_add_deck(path, deck)
     name = path.basename(".txt").to_s
-    set_code = path.parent.basename.to_s
+    set_code = path.parent.basename.to_s.sub(/_\z/, "")
     deck_type = path.parent.parent.basename.to_s
     set_name = MagicSets[set_code]
     unless set_name
