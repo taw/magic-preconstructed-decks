@@ -1,4 +1,4 @@
-// NAME: Golgari: Creep and Conquer
+// NAME: Creep and Conquer
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-event-deck-decklists-2012-10-01
 1 Ulvenwald Tracker
 2 Slitherhead
