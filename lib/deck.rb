@@ -10,7 +10,7 @@ class Deck
         next
       end
       count, name = line.split(" ", 2)
-      name = name.sub(/\s*\*\z/, "")
+      name = name.sub(/\s*\*+\z/, "")
       if name =~ /\A(.*?)\s*\[foil\]\z/
         name = $1
         target << [count.to_i, name, true]
