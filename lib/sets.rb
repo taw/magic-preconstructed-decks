@@ -190,6 +190,7 @@ MagicSets = {
   "pwpn" => "Wizards Play Network",
   "rav" => "Ravnica: City of Guilds",
   "rix" => "Rivals of Ixalan",
+  "rna" => "Ravnica Allegiance",
   "roe" => "Rise of the Eldrazi",
   "rqs" => "Rivals Quick Start Set",
   "rtr" => "Return to Ravnica",
