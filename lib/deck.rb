@@ -1,10 +1,15 @@
 class Deck
+  attr_reader :date
+
   def initialize(path)
     @cards = []
     @sideboard = []
-    lines = Pathname(path).readlines.map(&:chomp).grep_v(%r[^\s*/]).grep(/\S/)
+    lines = Pathname(path).readlines.map(&:chomp).grep(/\S/)
+    main_lines = lines.grep_v(%r[^\s*/])
+    meta_lines = lines.grep(%r[^\s*/])
     target = @cards
-    lines.each do |line|
+    @date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)/], 1] }.first
+    main_lines.each do |line|
       if line == "Sideboard"
         target = @sideboard
         next
