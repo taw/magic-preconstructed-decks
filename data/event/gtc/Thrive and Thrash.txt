@@ -1,5 +1,6 @@
 // NAME: Thrive and Thrash
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-event-deck-decklists-2013-02-04
+// DATE: -
 4 Arbor Elf
 2 Fog Bank
 3 Strangleroot Geist

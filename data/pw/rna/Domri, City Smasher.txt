@@ -1,5 +1,6 @@
 // NAME: Domri, City Smasher
 // COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/ravnica-allegiance-planeswalker-deck-lists-2019-01-10
+// DATE: -
 1 Domri, City Smasher
 1 End-Raze Forerunners
 2 Domri's Nodorog

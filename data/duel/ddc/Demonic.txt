@@ -1,5 +1,6 @@
 // NAME: Demonic
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-divine-vs-demonic
+// DATE: -
 1 Abyssal Gatekeeper
 1 Abyssal Specter
 1 Cackling Imp

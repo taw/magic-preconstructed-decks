@@ -1,5 +1,6 @@
 // NAME: Black Deck
 // COMMENTS: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
+// DATE: -
 1 Blighted Fen
 12 Swamp
 1 Hagra Sharpshooter

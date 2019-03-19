@@ -1,5 +1,6 @@
 // NAME: Kithkin Militia
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=3&lang=en
+// DATE: -
 1 Goldmeadow Dodger
 3 Goldmeadow Harrier
 1 Goldmeadow Stalwart

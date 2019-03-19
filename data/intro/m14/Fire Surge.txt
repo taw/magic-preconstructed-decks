@@ -1,5 +1,6 @@
 // NAME: Fire Surge
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
+// DATE: -
 2 Dragon Hatchling
 3 Goblin Shortcutter
 2 Phantom Warrior

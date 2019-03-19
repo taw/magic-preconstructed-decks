@@ -1,5 +1,6 @@
 // NAME: Sun Empire
 // COMMENTS: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// DATE: -
 1 Burning Sun's Avatar
 1 Ancient Brontodon
 1 Bellowing Aegisaur

@@ -1,5 +1,6 @@
 // NAME: Nissa
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01
+// DATE: -
 1 Nissa, Voice of Zendikar [foil]
 2 Scythe Leopard
 2 Elvish Visionary

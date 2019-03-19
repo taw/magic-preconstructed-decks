@@ -1,5 +1,6 @@
 // NAME: Counter Surge
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+// DATE: -
 4 Winding Constrictor
 4 Glint-Sleeve Siphoner
 2 Scrapheap Scrounger

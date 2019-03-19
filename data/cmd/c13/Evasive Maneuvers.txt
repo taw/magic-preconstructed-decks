@@ -1,5 +1,6 @@
 // NAME: Evasive Maneuvers
 // COMMENTS: https://magic.wizards.com/en/content/evasive-maneuvers-commander-2013-card-set-archive
+// DATE: -
 1 Acidic Slime
 1 Aerie Mystics
 1 Angel of Finality

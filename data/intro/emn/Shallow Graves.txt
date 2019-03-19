@@ -1,5 +1,6 @@
 // NAME: Shallow Graves
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+// DATE: -
 1 Cryptbreaker
 1 Wailing Ghoul
 2 Seagraf Skaab

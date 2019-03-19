@@ -1,5 +1,6 @@
 // NAME: Chargoyf
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
+// DATE: -
 1 Gorilla Warrior
 1 Lhurgoyf
 1 Llanowar Elves

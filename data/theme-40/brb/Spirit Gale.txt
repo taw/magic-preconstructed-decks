@@ -1,5 +1,6 @@
 // NAME: Spirit Gale
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
+// DATE: -
 1 Air Elemental
 1 Azure Drake
 1 Blinking Spirit

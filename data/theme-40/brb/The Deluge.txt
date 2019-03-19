@@ -1,5 +1,6 @@
 // NAME: The Deluge
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
+// DATE: -
 1 Advance Scout
 1 Angelic Page
 1 Argothian Elder

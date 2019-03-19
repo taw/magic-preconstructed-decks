@@ -1,5 +1,6 @@
 // NAME: Humanity's Vengeance
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/avacyn-restored/event-deck-decklists
+// DATE: -
 1 Blade Splicer
 4 Fiend Hunter
 4 Gideon's Lawkeeper

@@ -1,6 +1,7 @@
 // NAME: White
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
 // (linked decklist is incorrect, one Inspired Charge replaces Inspiring Captain)
+// DATE: -
 1 Benalish Marshal
 1 Mentor of the Meek
 1 Valiant Knight

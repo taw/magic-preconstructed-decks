@@ -1,5 +1,6 @@
 // NAME: Gideon
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+// DATE: -
 1 Gideon Jura
 1 Lightwielder Paladin
 1 Grand Abolisher

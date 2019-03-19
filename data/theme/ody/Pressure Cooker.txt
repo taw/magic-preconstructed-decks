@@ -1,5 +1,6 @@
 // NAME: Pressure Cooker
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=2&lang=en
+// DATE: -
 2 Barbarian Lunatic
 1 Braids, Cabal Minion
 2 Childhood Horror

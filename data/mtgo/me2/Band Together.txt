@@ -1,5 +1,6 @@
 // NAME: Band Together
 // COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+// DATE: -
 21 Plains
 1 Kjeldoran Outpost
 1 Mishra's Factory

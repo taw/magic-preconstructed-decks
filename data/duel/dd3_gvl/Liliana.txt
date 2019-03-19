@@ -1,5 +1,6 @@
 // NAME: Liliana
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
+// DATE: -
 1 Liliana Vess [foil]
 1 Deathgreeter
 1 Drudge Skeletons

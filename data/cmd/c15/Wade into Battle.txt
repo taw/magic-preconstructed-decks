@@ -1,5 +1,6 @@
 // NAME: Wade into Battle
 // COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+// DATE: -
 1 Oreskos Explorer
 1 Magus of the Wheel
 1 Stinkdrinker Daredevil

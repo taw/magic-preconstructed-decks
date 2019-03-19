@@ -1,6 +1,7 @@
 // NAME: The Plague
 // COMMENTS: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
 // COMMENTS: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
+// DATE: -
 7 Plains
 12 Swamp
 3 Drifting Meadow

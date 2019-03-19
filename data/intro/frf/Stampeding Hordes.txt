@@ -1,5 +1,6 @@
 // NAME: Stampeding Hordes
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
+// DATE: -
 2 Firehoof Cavalry
 2 Leaping Master
 2 Valley Dasher

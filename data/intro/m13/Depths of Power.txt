@@ -1,5 +1,6 @@
 // NAME: Depths of Power
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+// DATE: -
 3 Kraken Hatchling
 2 Augur of Bolas
 1 Fog Bank

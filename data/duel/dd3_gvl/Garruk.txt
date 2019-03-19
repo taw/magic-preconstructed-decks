@@ -1,5 +1,6 @@
 // NAME: Garruk
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
+// DATE: -
 1 Garruk Wildspeaker [foil]
 2 Albino Troll
 2 Basking Rootwalla

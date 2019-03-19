@@ -1,5 +1,6 @@
 // NAME: Expulsion
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=8e&decknum=1&lang=en
+// DATE: -
 3 Maggot Carrier
 4 Ravenous Rats
 2 Dusk Imp

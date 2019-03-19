@@ -1,5 +1,6 @@
 // NAME: Kjeldoran Cunning
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=3&lang=en
+// DATE: -
 1 Jötun Grunt
 3 Kjeldoran Outrider
 1 Jötun Owl Keeper

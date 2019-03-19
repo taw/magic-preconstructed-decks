@@ -1,5 +1,6 @@
 // NAME: Phyrexian Poison
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+// DATE: -
 3 Ichorclaw Myr
 2 Necropede
 3 Plague Stinger

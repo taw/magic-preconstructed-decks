@@ -1,5 +1,6 @@
 // NAME: Grixis Shambling Army
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
+// DATE: -
 1 Dregscape Zombie
 2 Zombie Outlander
 1 Brackwater Elemental

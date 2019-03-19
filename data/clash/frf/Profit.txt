@@ -1,5 +1,6 @@
 // NAME: Profit
 // COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// DATE: -
 1 Baleful Eidolon
 1 Leafcrown Dryad
 2 Brain Maggot

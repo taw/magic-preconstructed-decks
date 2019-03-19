@@ -23,7 +23,7 @@ class BuildJsons
       type: deck_type,
       set_name: set_name,
       set_code: set_code,
-      date: deck.date,
+      release_date: deck.release_date,
       cards: deck.card_data,
       sideboard: deck.sideboard_data,
     }

@@ -1,5 +1,6 @@
 // NAME: Swarm & Slam
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=darksteel&decknum=3&lang=en
+// DATE: -
 2 Viridian Shaman*
 2 Tel-Jilad Outrider
 2 Infested Roothold

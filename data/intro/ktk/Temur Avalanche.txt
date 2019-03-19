@@ -1,5 +1,6 @@
 // NAME: Temur Avalanche
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arc/khans-tarkir-intro-pack-decklists-2014-09-18
+// DATE: -
 2 Elvish Mystic
 2 Heir of the Wilds
 2 Runeclaw Bear

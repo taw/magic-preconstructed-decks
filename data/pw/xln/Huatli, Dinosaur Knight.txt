@@ -1,5 +1,6 @@
 // NAME: Huatli, Dinosaur Knight
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20
+// DATE: -
 2 Sun-Blessed Mount
 1 Goring Ceratops
 1 Burning Sun's Avatar

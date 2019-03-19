@@ -1,5 +1,6 @@
 // NAME: Code of the Orzhov
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=1&lang=en
+// DATE: -
 1 Martyred Rusalka
 2 Shrieking Grotesque
 1 Belfry Spirit

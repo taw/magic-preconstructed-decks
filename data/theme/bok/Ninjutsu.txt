@@ -1,5 +1,6 @@
 // NAME: Ninjutsu
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=2&lang=en
+// DATE: -
 1 Teardrop Kami
 2 Kaijin of the Vanishing Touch
 2 Minamo Sightbender

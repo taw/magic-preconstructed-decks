@@ -1,5 +1,6 @@
 // NAME: Power of Prophecy
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+// DATE: -
 2 Augury Owl
 2 Maritime Guard
 1 Blinding Mage

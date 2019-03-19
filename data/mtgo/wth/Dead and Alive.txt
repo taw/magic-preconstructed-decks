@@ -1,5 +1,6 @@
 // NAME: Dead and Alive
 // COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+// DATE: -
 24 Swamp
 1 Barrow Ghoul
 1 Circling Vultures

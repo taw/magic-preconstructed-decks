@@ -1,5 +1,6 @@
 // NAME: Finkel
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=2&lang=en
+// DATE: -
 2 Foul Familiar
 2 Lim-Dûl's High Guard
 2 Phantasmal Fiend

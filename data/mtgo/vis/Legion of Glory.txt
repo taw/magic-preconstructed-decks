@@ -1,5 +1,6 @@
 // NAME: Legion of Glory
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=1&lang=en
+// DATE: -
 1 Zhalfirin Crusader
 1 Longbow Archer
 2 Vigilant Martyr*

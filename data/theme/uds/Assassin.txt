@@ -1,5 +1,6 @@
 // NAME: Assassin
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=4&lang=en
+// DATE: -
 4 Ravenous Rats
 2 Squirming Mass
 1 Bone Shredder**

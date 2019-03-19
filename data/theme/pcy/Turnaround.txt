@@ -1,5 +1,6 @@
 // NAME: Turnaround
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=4&lang=en
+// DATE: -
 1 Crossbow Infantry*
 1 Sword Dancer
 1 Defiant Vanguard**

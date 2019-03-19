@@ -1,5 +1,6 @@
 // NAME: Garfield
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=1&lang=en
+// DATE: -
 2 Storm Shaman
 2 Fyndhorn Elves
 2 Balduvian Bears

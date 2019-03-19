@@ -1,5 +1,6 @@
 // NAME: Amonkhet Welcome Deck - Red
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+// DATE: -
 1 Shivan Dragon
 2 Falkenrath Reaver
 1 Thundering Giant

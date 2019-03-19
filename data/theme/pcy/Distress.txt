@@ -1,5 +1,6 @@
 // NAME: Distress
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=3&lang=en
+// DATE: -
 2 Glittering Lynx
 2 Fresh Volunteers*
 3 Glittering Lion

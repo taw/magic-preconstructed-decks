@@ -1,5 +1,6 @@
 // NAME: Surprise Attack
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
+// DATE: -
 3 Embodiment of Spring
 2 Icefeather Aven
 1 Monastery Flock

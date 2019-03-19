@@ -1,5 +1,6 @@
 // NAME: Black Deck
 // COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+// DATE: -
 1 Gravewaker
 1 Bogstomper
 1 Diregraf Ghoul

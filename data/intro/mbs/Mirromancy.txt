@@ -1,5 +1,6 @@
 // NAME: Mirromancy
 // COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+// DATE: -
 2 Iron Myr
 1 Silver Myr
 2 Blisterstick Shaman

@@ -1,5 +1,6 @@
 // NAME: Spiritcraft
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=4&lang=en
+// DATE: -
 1 Traproot Kami
 2 Loam Dweller
 2 Petalmane Baku

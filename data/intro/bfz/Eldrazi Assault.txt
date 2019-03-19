@@ -1,5 +1,6 @@
 // NAME: Eldrazi Assault
 // COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+// DATE: -
 2 Sludge Crawler
 3 Culling Drone
 2 Kozilek's Sentinel

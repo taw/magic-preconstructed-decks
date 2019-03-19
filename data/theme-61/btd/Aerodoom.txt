@@ -1,5 +1,6 @@
 // NAME: Aerodoom
 // COMMENTS: https://magic.wizards.com/en/products/beatdown
+// DATE: -
 1 Air Elemental
 1 Blizzard Elemental
 1 Clockwork Avian

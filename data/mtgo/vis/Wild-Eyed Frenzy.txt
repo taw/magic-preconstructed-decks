@@ -1,5 +1,6 @@
 // NAME: Wild-Eyed Frenzy
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=4&lang=en
+// DATE: -
 1 Kookus
 1 Ogre Enforcer
 2 Goblin Recruiter

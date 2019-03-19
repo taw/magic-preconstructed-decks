@@ -1,5 +1,6 @@
 // NAME: Chandra
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
+// DATE: -
 1 Chandra, Pyromaster
 1 Avatar of Fury
 1 Inferno Titan

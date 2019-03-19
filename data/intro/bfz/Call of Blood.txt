@@ -1,5 +1,6 @@
 // NAME: Call of Blood
 // COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+// DATE: -
 1 Zulaport Cutthroat
 2 Kitesail Scout
 2 Serene Steward

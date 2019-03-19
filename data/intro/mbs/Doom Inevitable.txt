@@ -1,5 +1,6 @@
 // NAME: Doom Inevitable
 // COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+// DATE: -
 2 Fume Spitter
 2 Myr Sire
 3 Oculus

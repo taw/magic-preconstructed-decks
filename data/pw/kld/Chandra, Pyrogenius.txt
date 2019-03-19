@@ -1,5 +1,6 @@
 // NAME: Chandra, Pyrogenius
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21
+// DATE: -
 1 Chandra, Pyrogenius [foil]
 1 Speedway Fanatic
 1 Gearshift Ace

@@ -1,5 +1,6 @@
 // NAME: Grave Power
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+// DATE: -
 1 Acidic Slime
 1 Aether Adept
 1 Alluring Siren

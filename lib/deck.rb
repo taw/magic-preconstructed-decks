@@ -1,5 +1,5 @@
 class Deck
-  attr_reader :date
+  attr_reader :release_date
 
   def initialize(path)
     @cards = []
@@ -8,7 +8,8 @@ class Deck
     main_lines = lines.grep_v(%r[^\s*/])
     meta_lines = lines.grep(%r[^\s*/])
     target = @cards
-    @date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)/], 1] }.first
+    @release_date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)/], 1] }.first
+    @release_date = nil if @release_date == "-"
     main_lines.each do |line|
       if line == "Sideboard"
         target = @sideboard

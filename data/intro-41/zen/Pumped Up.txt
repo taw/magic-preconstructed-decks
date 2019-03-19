@@ -1,5 +1,6 @@
 // NAME: Pumped Up
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+// DATE: -
 2 Welkin Tern
 2 Molten Ravager
 2 Torch Slinger

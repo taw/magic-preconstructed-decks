@@ -1,5 +1,6 @@
 // NAME: Mortals of Myth
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+// DATE: -
 1 Akroan Skyguard
 1 Phalanx Leader
 1 Vanguard of Brimaz

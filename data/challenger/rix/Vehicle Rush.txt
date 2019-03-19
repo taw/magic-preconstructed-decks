@@ -1,5 +1,6 @@
 // NAME: Vehicle Rush
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+// DATE: -
 4 Bomat Courier
 4 Toolcraft Exemplar
 4 Scrapheap Scrounger

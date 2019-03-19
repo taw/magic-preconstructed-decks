@@ -1,5 +1,6 @@
 // NAME: Myr of Mirrodin
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+// DATE: -
 3 Gold Myr
 2 Perilous Myr
 2 Myrsmith

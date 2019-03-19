@@ -18,6 +18,7 @@
 2 Flames of the Firebrand
 1 Clan Defiance
 1 Armed // Dangerous
+// DATE: -
 3 Shock
 1 Gruul Charm
 4 Gruul Guildgate

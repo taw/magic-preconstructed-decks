@@ -1,5 +1,6 @@
 // NAME: Fire and Lightning
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/firelightning
+// DATE: -
 1 Ball Lightning [foil]
 1 Boggart Ram-Gang [foil]
 1 Cinder Pyromancer [foil]

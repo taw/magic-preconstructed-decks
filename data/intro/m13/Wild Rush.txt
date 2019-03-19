@@ -1,5 +1,6 @@
 // NAME: Wild Rush
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+// DATE: -
 3 Arbor Elf
 2 Deadly Recluse
 2 Centaur Courser

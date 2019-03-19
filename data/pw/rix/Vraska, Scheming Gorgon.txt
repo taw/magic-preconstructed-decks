@@ -1,5 +1,6 @@
 // NAME: Vraska, Scheming Gorgon
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/rivals-ixalan-planeswalker-deck-lists-2018-01-11
+// DATE: -
 1 Champion of Dusk
 1 Paladin of Atonement
 1 Bishop of the Bloodstained

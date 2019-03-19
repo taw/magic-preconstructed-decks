@@ -1,5 +1,6 @@
 // NAME: Deep Freeze
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=1&lang=en
+// DATE: -
 2 Master Decoy
 2 Soltari Lancer
 1 Knight of Dawn

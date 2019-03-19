@@ -1,5 +1,6 @@
 // NAME: Mu Yanling
 // COMMENTS: http://magic.wizards.com/en/articles/archive/news/global-series-jiangg-yanggu-mu-yanling-deck-lists-2018-06-07
+// DATE: -
 2 Welkin Tern
 2 Brilliant Plan
 1 Cloak of Mists

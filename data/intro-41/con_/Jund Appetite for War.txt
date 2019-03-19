@@ -1,5 +1,6 @@
 // NAME: Jund Appetite for War
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
+// DATE: -
 1 Toxic Iguanar
 1 Viashino Slaughtermaster
 2 Goblin Outlander

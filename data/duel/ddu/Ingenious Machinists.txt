@@ -1,5 +1,6 @@
 // NAME: Ingenious Machinists
 // COMMENTS: https://magic.wizards.com/en/products/duel-decks-elves-vs-inventors
+// DATE: -
 1 Goblin Welder [foil]
 2 Pia and Kiran Nalaar
 1 Myr Battlesphere

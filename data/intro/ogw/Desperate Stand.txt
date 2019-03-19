@@ -1,5 +1,6 @@
 // NAME: Desperate Stand
 // COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+// DATE: -
 2 Expedition Envoy
 1 Cliffside Lookout
 2 Kor Castigator

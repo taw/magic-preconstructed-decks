@@ -1,5 +1,6 @@
 // NAME: Zombies Unleashed
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=2&lang=en
+// DATE: -
 1 Festering Goblin*
 1 Boneknitter*
 2 Shepherd of Rot*

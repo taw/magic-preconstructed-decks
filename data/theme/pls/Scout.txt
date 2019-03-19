@@ -1,5 +1,6 @@
 // NAME: Scout
 // COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// DATE: -
 1 Elfhame Palace
 11 Forest
 1 Geothermal Crevice

@@ -1,5 +1,6 @@
 // NAME: Spiraling Doom
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/event-deck-decklists
+// DATE: -
 1 Acidic Slime
 1 Bloodgift Demon
 1 Brutalizer Exarch

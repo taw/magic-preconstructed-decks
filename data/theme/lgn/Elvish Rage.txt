@@ -1,6 +1,7 @@
 // NAME: Elvish Rage
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=1&lang=en is missing a card
 // COMMENTS: so getting it from http://mtg.gamepedia.com/Legions/Theme_decks
+// DATE: -
 25 Forest
 1 Birchlore Rangers
 1 Bloodline Shaman

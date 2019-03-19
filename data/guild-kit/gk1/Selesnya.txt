@@ -1,5 +1,6 @@
 // NAME: Selesnya
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-guild-kits-2018-09-25
+// DATE: -
 1 Trostani, Selesnya's Voice
 1 Loxodon Hierarch
 1 Venerated Loxodon

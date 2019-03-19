@@ -1,5 +1,6 @@
 // NAME: Rallying Cry
 // COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
+// DATE: -
 3 Cliffside Lookout
 2 Kor Bladewhirl
 2 Expedition Envoy

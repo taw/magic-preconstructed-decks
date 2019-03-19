@@ -2,6 +2,7 @@
 // COMMENTS: Manually reconstructed from:
 // COMMENTS: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // COMMENTS: https://mtg.gamepedia.com/Introductory_Two-Player_Set
+// DATE: -
 5 Swamp
 4 Forest
 4 Plains

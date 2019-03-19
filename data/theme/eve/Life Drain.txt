@@ -1,5 +1,6 @@
 // NAME: Life Drain
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
+// DATE: -
 2 Apothecary Initiate
 1 Goldenglow Moth
 2 Kithkin Zealot

@@ -1,6 +1,7 @@
 // NAME: Dominator - Basic Deck
 // COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
+// DATE: -
 26 Island
 2 Cloud Spirit
 4 Thalakos Scout

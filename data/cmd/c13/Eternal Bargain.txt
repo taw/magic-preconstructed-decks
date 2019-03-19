@@ -1,5 +1,6 @@
 // NAME: Eternal Bargain
 // COMMENTS: https://magic.wizards.com/en/content/eternal-bargain-commander-2013-card-set-archive
+// DATE: -
 1 Ajani's Pridemate
 1 Augury Adept
 1 Azorius Herald

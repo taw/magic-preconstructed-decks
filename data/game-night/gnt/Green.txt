@@ -1,5 +1,6 @@
 // NAME: Green
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+// DATE: -
 1 Ghalta, Primal Hunger
 1 Gigantosaurus
 1 Goreclaw, Terror of Qal Sisma

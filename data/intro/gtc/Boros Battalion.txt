@@ -1,5 +1,6 @@
 // NAME: Boros Battalion
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+// DATE: -
 1 Boros Elite
 2 Warclamp Mastiff
 1 Bomber Corps

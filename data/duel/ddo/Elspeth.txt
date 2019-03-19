@@ -1,5 +1,6 @@
 // NAME: Elspeth
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
+// DATE: -
 1 Elspeth, Sun's Champion [foil]
 2 Icatian Javelineers
 1 Mother of Runes

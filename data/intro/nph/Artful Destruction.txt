@@ -1,5 +1,6 @@
 // NAME: Artful Destruction
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+// DATE: -
 3 Copper Myr
 3 Gold Myr
 2 Suture Priest

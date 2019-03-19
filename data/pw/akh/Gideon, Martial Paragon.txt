@@ -1,5 +1,6 @@
 // NAME: Gideon, Martial Paragon
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19
+// DATE: -
 1 Gideon, Martial Paragon [foil]
 1 Glory-Bound Initiate
 3 Gust Walker

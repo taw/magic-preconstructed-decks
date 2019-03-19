@@ -1,5 +1,6 @@
 // NAME: Preconstructed deck 1
 // COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
+// DATE: -
 6 Forest
 6 Mountain
 6 Swamp

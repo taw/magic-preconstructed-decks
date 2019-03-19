@@ -1,5 +1,6 @@
 // NAME: Jeskai Monks
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arc/khans-tarkir-intro-pack-decklists-2014-09-18
+// DATE: -
 1 Monastery Swiftspear
 2 Jeskai Elder
 1 Leaping Master

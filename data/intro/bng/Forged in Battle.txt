@@ -1,5 +1,6 @@
 // NAME: Forged in Battle
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+// DATE: -
 1 Akroan Conscriptor
 2 Akroan Crusader
 1 Akroan Hoplite

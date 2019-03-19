@@ -1,5 +1,6 @@
 // NAME: Solitary Fiends
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+// DATE: -
 3 Alchemist's Apprentice
 1 Crypt Creeper
 2 Fettergeist

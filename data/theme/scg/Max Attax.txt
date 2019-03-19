@@ -1,5 +1,6 @@
 // NAME: Max Attax
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=2&lang=en
+// DATE: -
 1 Gluttonous Zombie*
 3 Fierce Empath
 3 Krosan Drover

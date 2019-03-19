@@ -1,5 +1,6 @@
 // NAME: Insatiable Hunger
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
+// DATE: -
 2 Cyclops of One-Eyed Pass
 2 Fanatic of Xenagos
 1 Mistcutter Hydra

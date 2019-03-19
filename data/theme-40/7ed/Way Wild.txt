@@ -1,5 +1,6 @@
 // NAME: Way Wild
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=5&lang=en
+// DATE: -
 2 Llanowar Elves
 3 Grizzly Bears
 1 Fyndhorn Elder

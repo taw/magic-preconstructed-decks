@@ -1,5 +1,6 @@
 // NAME: Mardu Raiders
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arc/khans-tarkir-intro-pack-decklists-2014-09-18
+// DATE: -
 1 Firehoof Cavalry
 1 Mardu Hateblade
 2 Borderland Marauder

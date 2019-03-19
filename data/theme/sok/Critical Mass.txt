@@ -1,5 +1,6 @@
 // NAME: Critical Mass
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=1&lang=en
+// DATE: -
 1 Ghost-Lit Stalker
 2 Gnat Miser
 1 Cruel Deceiver*

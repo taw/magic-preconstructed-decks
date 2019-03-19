@@ -1,5 +1,6 @@
 // NAME: Fiery Fury
 // COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+// DATE: -
 23 Mountain
 1 Crystal Vein
 3 Bloodrock Cyclops

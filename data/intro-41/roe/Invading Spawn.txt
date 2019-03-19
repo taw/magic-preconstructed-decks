@@ -1,5 +1,6 @@
 // NAME: Invading Spawn
 // COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
+// DATE: -
 2 Bloodthrone Vampire
 1 Dragon Whelp
 1 Drana, Kalastria Bloodchief [foil]

@@ -1,5 +1,6 @@
 // NAME: Infect & Defile
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/mirrodin-besieged-event-decks-deck-lists-2011-02-16
+// DATE: -
 4 Necropede
 4 Plague Myr
 4 Corpse Cur

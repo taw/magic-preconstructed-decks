@@ -1,5 +1,6 @@
 // NAME: Counterpunch
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
+// DATE: -
 1 Aquastrand Spider
 1 Deadly Recluse
 1 Sakura-Tribe Elder

@@ -1,5 +1,6 @@
 // NAME: Unflinching Assault
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
+// DATE: -
 2 Aven Skirmisher
 2 Mardu Hateblade
 1 Cruel Sadist

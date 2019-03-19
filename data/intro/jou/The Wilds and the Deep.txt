@@ -1,5 +1,6 @@
 // NAME: The Wilds and the Deep
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+// DATE: -
 2 Swordwise Centaur
 1 Agent of Horizons
 1 Nessian Courser

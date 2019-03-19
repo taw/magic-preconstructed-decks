@@ -1,5 +1,6 @@
 // NAME: Metalcraft
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+// DATE: -
 2 Memnite
 2 Iron Myr
 2 Silver Myr

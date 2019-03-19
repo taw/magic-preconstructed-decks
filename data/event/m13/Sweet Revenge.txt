@@ -1,5 +1,6 @@
 // NAME: Sweet Revenge
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2013-event-deck-decklists-2012-07-24
+// DATE: -
 2 Armored Skaab
 4 Fettergeist
 1 Firewing Phoenix

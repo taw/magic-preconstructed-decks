@@ -1,5 +1,6 @@
 // NAME: Deadspread
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/scars-mirrodin-intro-packs-2010-09-28
+// DATE: -
 2 Fume Spitter
 2 Leaden Myr
 2 Silver Myr

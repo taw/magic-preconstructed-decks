@@ -1,5 +1,6 @@
 // NAME: Blood and Fire
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+// DATE: -
 1 Goblin Arsonist
 2 Goblin Fireslinger
 1 Tormented Soul

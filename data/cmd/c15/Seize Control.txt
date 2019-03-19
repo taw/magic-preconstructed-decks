@@ -1,5 +1,6 @@
 // NAME: Seize Control
 // COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+// DATE: -
 1 Goblin Electromancer
 1 Jace's Archivist
 1 Gigantoplasm

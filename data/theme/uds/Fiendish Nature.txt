@@ -1,5 +1,6 @@
 // NAME: Fiendish Nature
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=2&lang=en
+// DATE: -
 1 Phyrexian Monitor
 2 Plague Dogs
 2 Elvish Lyrist*

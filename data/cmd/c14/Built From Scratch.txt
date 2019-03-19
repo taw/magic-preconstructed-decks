@@ -1,5 +1,6 @@
 // NAME: Built From Scratch
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/built-from-scratch
+// DATE: -
 1 Goblin Welder
 1 Epochrasite
 1 Myr Retriever

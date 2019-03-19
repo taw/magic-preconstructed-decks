@@ -1,5 +1,6 @@
 // NAME: Ajani
 // COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+// DATE: -
 1 Mentor of the Meek
 1 Serra's Guardian
 2 Ajani's Pridemate

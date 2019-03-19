@@ -1,5 +1,6 @@
 // NAME: Burning Sky
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=1&lang=en
+// DATE: -
 3 Bay Falcon
 2 Azimaet Drake
 1 Dream Fighter

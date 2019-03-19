@@ -1,5 +1,6 @@
 // NAME: Ghostly Tide
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+// DATE: -
 1 Rattlechains
 2 Seagraf Skaab
 2 Dauntless Cathar

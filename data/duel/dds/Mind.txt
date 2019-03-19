@@ -1,5 +1,6 @@
 // NAME: Mind
 // COMMENTS: https://magic.wizards.com/en/products/duel-decks-mind-might
+// DATE: -
 1 Jhoira of the Ghitu [foil]
 2 Goblin Electromancer
 2 Young Pyromancer

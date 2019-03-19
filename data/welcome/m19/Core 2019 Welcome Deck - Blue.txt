@@ -1,5 +1,6 @@
 // NAME: Blue Deck
 // COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+// DATE: -
 1 Riddlemaster Sphinx
 1 Aven Wind Mage
 1 Frilled Sea Serpent

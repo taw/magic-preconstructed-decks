@@ -1,5 +1,6 @@
 // NAME: Fate and Fury
 // COMMENTS: https://mtg.gamepedia.com/Magic_2015/Clash_pack
+// DATE: -
 1 Arbor Colossus
 1 Courser of Kruphix
 4 Elvish Mystic

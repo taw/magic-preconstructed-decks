@@ -1,5 +1,6 @@
 // NAME: Fangs of the Bloodchief
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+// DATE: -
 2 Pulse Tracker
 2 Child of Night
 2 Ruthless Cullblade

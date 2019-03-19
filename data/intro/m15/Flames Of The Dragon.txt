@@ -1,5 +1,6 @@
 // NAME: Flames Of The Dragon
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/magic-2015-core-set-intro-pack-decklists
+// DATE: -
 2 Ornithopter
 3 Bronze Sable
 2 Welkin Tern

@@ -1,5 +1,6 @@
 // NAME: Turnabout
 // COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
+// DATE: -
 2 Devoted Druid
 2 Drove of Elves
 3 Safehold Sentry

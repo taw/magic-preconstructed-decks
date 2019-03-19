@@ -1,5 +1,6 @@
 // NAME: Battle Cries
 // COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+// DATE: -
 2 Memnite
 2 Signal Pest
 2 Ardent Recruit

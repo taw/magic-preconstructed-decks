@@ -1,5 +1,6 @@
 // NAME: Night Of The Ninja
 // COMMENTS: https://magic.wizards.com/en/content/night-ninja-planechase-2012-edition-card-set-archive
+// DATE: -
 2 Augury Owl
 2 Baleful Strix
 1 Cadaver Imp

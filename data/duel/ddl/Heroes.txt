@@ -1,5 +1,6 @@
 // NAME: Heroes
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-heroes-vs-monsters
+// DATE: -
 1 Anax and Cymede
 2 Armory Guard
 1 Auramancer

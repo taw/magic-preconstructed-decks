@@ -1,5 +1,6 @@
 // NAME: The Adventurers
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+// DATE: -
 2 Oran-Rief Survivalist
 2 Highland Berserker
 1 Stonework Puma

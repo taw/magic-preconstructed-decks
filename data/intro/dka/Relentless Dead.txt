@@ -1,5 +1,6 @@
 // NAME: Relentless Dead
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+// DATE: -
 2 Abattoir Ghoul
 2 Black Cat
 2 Diregraf Captain

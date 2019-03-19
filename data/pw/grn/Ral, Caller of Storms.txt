@@ -1,5 +1,6 @@
 // NAME: Ral, Caller of Storms
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-planeswalker-decklists-2018-09-20
+// DATE: -
 1 Ral, Caller of Storms
 2 Wee Dragonauts
 1 Erratic Cyclops

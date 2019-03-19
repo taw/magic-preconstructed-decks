@@ -1,5 +1,6 @@
 // NAME: Path to Victory
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+// DATE: -
 2 Chronomaton
 3 Silvercoat Lion
 3 Ajani's Sunstriker

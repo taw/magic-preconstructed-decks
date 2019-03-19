@@ -1,5 +1,6 @@
 // NAME: Death's Encroach
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/avacyn-restored/event-deck-decklists
+// DATE: -
 1 Cemetery Reaper
 2 Crypt Creeper
 4 Diregraf Ghoul

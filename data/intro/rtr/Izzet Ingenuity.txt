@@ -1,5 +1,6 @@
 // NAME: Izzet Ingenuity
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+// DATE: -
 2 Blistercoil Weird
 1 Welkin Tern
 2 Goblin Electromancer

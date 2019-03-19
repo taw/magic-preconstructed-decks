@@ -1,5 +1,6 @@
 // NAME: Night Terrors
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=3&lang=en
+// DATE: -
 1 Blighted Shaman
 2 Restless Dead
 2 Skulking Ghost

@@ -1,5 +1,6 @@
 // NAME: Chandra, Bold Pyromancer
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/dominaria-planeswalker-deck-lists-2018-04-12
+// DATE: -
 1 Marwyn, the Nurturer
 2 Llanowar Elves
 1 Ghitu Chronicler

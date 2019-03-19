@@ -1,5 +1,6 @@
 // NAME: Rakdos Bloodsport
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=2&lang=en
+// DATE: -
 2 Slithering Shade
 2 Drekavac
 2 Ragamuffyn

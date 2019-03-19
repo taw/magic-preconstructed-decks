@@ -1,5 +1,6 @@
 // NAME: Manipulative Monstrosities
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+// DATE: -
 2 Coral Merfolk
 2 Omenspeaker
 1 Burnished Hart

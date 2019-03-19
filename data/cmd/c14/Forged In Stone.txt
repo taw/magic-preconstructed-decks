@@ -1,5 +1,6 @@
 // NAME: Forged In Stone
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
+// DATE: -
 1 Containment Priest
 1 Whitemane Lion
 1 Grand Abolisher

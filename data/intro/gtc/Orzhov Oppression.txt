@@ -1,5 +1,6 @@
 // NAME: Orzhov Oppression
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
+// DATE: -
 1 Shadow Alley Denizen
 1 Tormented Soul
 2 Silvercoat Lion

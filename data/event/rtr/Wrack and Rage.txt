@@ -1,5 +1,6 @@
 // NAME: Wrack and Rage
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-event-deck-decklists-2012-10-01
+// DATE: -
 2 Stonewright
 2 Stromkirk Noble
 4 Rakdos Cackler

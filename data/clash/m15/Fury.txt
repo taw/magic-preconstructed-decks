@@ -1,5 +1,6 @@
 // NAME: Fury
 // COMMENTS: https://magic.wizards.com/en/articles/archive/magic-2015-clash-pack-2014-07-07
+// DATE: -
 4 Elvish Mystic
 2 Generator Servant
 2 Voyaging Satyr

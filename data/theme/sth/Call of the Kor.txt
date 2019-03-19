@@ -1,5 +1,6 @@
 // NAME: Call of the Kor
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=1&lang=en
+// DATE: -
 3 Nomads en-Kor
 1 Shaman en-Kor
 2 Warrior en-Kor

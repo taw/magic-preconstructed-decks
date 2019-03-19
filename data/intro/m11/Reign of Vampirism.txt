@@ -1,5 +1,6 @@
 // NAME: Reign of Vampirism
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+// DATE: -
 3 Viscera Seer
 3 Bloodthrone Vampire
 3 Child of Night

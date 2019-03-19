@@ -1,5 +1,6 @@
 // NAME: Green Deck
 // COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+// DATE: -
 1 Aggressive Mammoth
 1 Bristling Boar
 1 Centaur Courser

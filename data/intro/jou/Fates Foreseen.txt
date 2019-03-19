@@ -1,5 +1,6 @@
 // NAME: Fates Foreseen
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
+// DATE: -
 1 Omenspeaker
 1 Crackling Triton
 2 Flamespeaker Adept

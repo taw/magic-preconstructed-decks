@@ -1,5 +1,6 @@
 // NAME: Devotion to Darkness
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+// DATE: -
 2 Child of Night
 2 Returned Phalanx
 2 Blood-Toll Harpy

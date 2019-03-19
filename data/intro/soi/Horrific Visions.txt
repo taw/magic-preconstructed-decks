@@ -1,5 +1,6 @@
 // NAME: Horrific Visions
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-intro-pack-decklists-2016-03-30
+// DATE: -
 2 Groundskeeper
 1 Loam Dryad
 3 Moldgraf Scavenger

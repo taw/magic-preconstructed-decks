@@ -1,5 +1,6 @@
 // NAME: Furious Forces
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
+// DATE: -
 2 Atarka Beastbreaker
 2 Glade Watcher
 1 Dragonlord's Servant

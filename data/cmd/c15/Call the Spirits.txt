@@ -1,5 +1,6 @@
 // NAME: Call the Spirits
 // COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+// DATE: -
 1 Oreskos Explorer
 1 Karlov of the Ghost Council
 1 Underworld Coinsmith

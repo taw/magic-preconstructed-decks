@@ -1,5 +1,6 @@
 // NAME: Haze of Spores
 // COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+// DATE: -
 21 Forest
 2 Havenwood Battleground
 1 Mishra's Factory

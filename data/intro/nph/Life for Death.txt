@@ -1,5 +1,6 @@
 // NAME: Life for Death
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+// DATE: -
 2 Immolating Souleater
 1 Cathedral Membrane
 1 Inquisitor Exarch

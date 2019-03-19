@@ -1,5 +1,6 @@
 // NAME: Exquisite Invention
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
+// DATE: -
 1 Maverick Thopterist
 1 Soul of New Phyrexia
 1 Inkwell Leviathan
