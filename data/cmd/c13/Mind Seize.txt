@@ -1,6 +1,6 @@
 // NAME: Mind Seize
 // COMMENTS: https://magic.wizards.com/en/content/mind-seize-commander-2013-card-set-archive
-// DATE: -
+// DATE: 2013-11-01
 1 Augur of Bolas
 1 Baleful Force
 1 Baleful Strix

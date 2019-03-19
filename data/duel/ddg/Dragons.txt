@@ -1,6 +1,6 @@
 // NAME: Dragons
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
-// DATE: -
+// DATE: 2011-04-01
 1 Bloodmark Mentor
 1 Bogardan Hellkite [foil]
 1 Bogardan Rager

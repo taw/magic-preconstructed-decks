@@ -1,6 +1,6 @@
 // NAME: Merfolk
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/duel-decks-merfolk-vs-goblins-2017-10-24
-// DATE: -
+// DATE: 2017-11-10
 2 Tidal Warrior
 1 Merfolk Looter
 1 Harbinger of the Tides

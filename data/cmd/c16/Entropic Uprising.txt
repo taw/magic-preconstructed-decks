@@ -1,6 +1,6 @@
 // NAME: Entropic Uprising
 // COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
-// DATE: -
+// DATE: 2016-11-11
 1 Satyr Wayfinder
 1 Wall of Blossoms
 1 Coiling Oracle

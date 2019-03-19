@@ -1,6 +1,6 @@
 // NAME: Adaptive Enchantment
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
-// DATE: -
+// DATE: 2018-08-10
 1 Bruna, Light of Alabaster
 1 Eidolon of Blossoms
 1 Hydra Omnivore

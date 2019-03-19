@@ -1,6 +1,6 @@
 // NAME: Speed
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-speed-vs-cunning
-// DATE: -
+// DATE: 2014-09-05
 1 Frenzied Goblin
 1 Infantry Veteran
 2 Leonin Snarecaster

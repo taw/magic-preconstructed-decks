@@ -1,6 +1,6 @@
 // NAME: Nature's Vengeance
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
-// DATE: -
+// DATE: 2018-08-10
 1 Charnelhoard Wurm
 1 Avenger of Zendikar
 1 Soul of Innistrad

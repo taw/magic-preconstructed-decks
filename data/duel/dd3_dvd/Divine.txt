@@ -1,6 +1,6 @@
 // NAME: Divine
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
-// DATE: -
+// DATE: 2014-12-05
 1 Akroma, Angel of Wrath [foil]
 2 Angel of Mercy
 2 Angelic Page

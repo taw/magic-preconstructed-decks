@@ -1,6 +1,6 @@
 // NAME: Assemble The Doomsday Machine
 // COMMENTS: https://magic.wizards.com/en/archenemy
-// DATE: -
+// DATE: 2010-06-18
 1 Architects of Will
 1 Duplicant
 1 Ethersworn Shieldmage

@@ -1,6 +1,6 @@
 // NAME: Feline Ferocity
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
-// DATE: -
+// DATE: 2017-08-25
 1 Nazahn, Revered Bladesmith [foil]
 1 Mirri, Weatherlight Duelist [foil]
 1 Alms Collector

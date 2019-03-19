@@ -38,7 +38,7 @@
 2 Shivan Oasis
 2 Terramorphic Expanse
 1 Assault // Battery
-// DATE: -
+// DATE: 2009-09-04
 
 Sideboard
 1 Eloren Wilds

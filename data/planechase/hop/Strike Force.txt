@@ -39,7 +39,7 @@
 2 Sunhome, Fortress of the Legion
 2 Terramorphic Expanse
 1 Order // Chaos
-// DATE: -
+// DATE: 2009-09-04
 
 Sideboard
 1 Academy at Tolaria West

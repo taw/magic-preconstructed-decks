@@ -1,6 +1,6 @@
 // NAME: Zendikar
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/duel-decks-zendikar-vs-eldrazi-2015-08-17
-// DATE: -
+// DATE: 2015-08-28
 1 Scute Mob
 2 Caravan Escort
 1 Beastbreaker of Bala Ged

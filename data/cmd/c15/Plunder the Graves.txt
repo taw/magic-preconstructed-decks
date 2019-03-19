@@ -1,6 +1,6 @@
 // NAME: Plunder the Graves
 // COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
-// DATE: -
+// DATE: 2015-11-13
 1 Sakura-Tribe Elder
 1 Satyr Wayfinder
 1 Viridian Emissary

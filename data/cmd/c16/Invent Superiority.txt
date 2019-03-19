@@ -44,7 +44,7 @@
 1 Ancient Excavation
 1 Read the Runes
 1 Trial // Error
-// DATE: -
+// DATE: 2016-11-11
 1 Everflowing Chalice
 1 Skullclamp
 1 Sol Ring

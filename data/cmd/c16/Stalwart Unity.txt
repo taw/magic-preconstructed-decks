@@ -1,6 +1,6 @@
 // NAME: Stalwart Unity
 // COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
-// DATE: -
+// DATE: 2016-11-11
 1 Veteran Explorer
 1 Humble Defector
 1 Hushwing Gryff

@@ -1,6 +1,6 @@
 // NAME: Graveborn
 // COMMENTS: https://magic.wizards.com/en/articles/archive/premium-deck-series-graveborn-2011-11-14-0
-// DATE: -
+// DATE: 2011-11-18
 2 Putrid Imp [foil]
 2 Hidden Horror [foil]
 1 Faceless Butcher [foil]

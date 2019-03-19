@@ -1,6 +1,6 @@
 // NAME: Nissa
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/archenemy-nicol-bolas-preview-2017-06-05
-// DATE: -
+// DATE: 2017-06-16
 1 Nissa, Worldwaker
 1 Scaled Behemoth
 2 Windrider Eel

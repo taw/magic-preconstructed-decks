@@ -1,6 +1,6 @@
 // NAME: Monsters
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-heroes-vs-monsters
-// DATE: -
+// DATE: 2013-09-06
 2 Blood Ogre
 1 Conquering Manticore
 1 Crater Hellion

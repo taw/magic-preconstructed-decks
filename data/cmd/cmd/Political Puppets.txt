@@ -1,6 +1,6 @@
 // NAME: Political Puppets
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
-// DATE: -
+// DATE: 2011-06-17
 1 Goblin Cadets
 1 Spurnmage Advocate
 1 Jötun Grunt

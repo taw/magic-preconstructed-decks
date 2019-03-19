@@ -74,7 +74,7 @@
 8 Mountain
 13 Forest
 1 Fire // Ice
-// DATE: -
+// DATE: 2011-06-17
 
 Sideboard
 1 Riku of Two Reflections

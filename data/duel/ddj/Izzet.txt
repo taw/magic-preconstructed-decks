@@ -20,7 +20,7 @@
 1 Call to Heel
 1 Dissipate
 1 Fire // Ice
-// DATE: -
+// DATE: 2012-09-07
 1 Force Spike
 1 Izzet Charm
 1 Magma Spray

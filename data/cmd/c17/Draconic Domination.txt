@@ -1,6 +1,6 @@
 // NAME: Draconic Domination
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
-// DATE: -
+// DATE: 2017-08-25
 1 O-Kagachi, Vengeful Kami [foil]
 1 Ramos, Dragon Engine [foil]
 1 Scalelord Reckoner

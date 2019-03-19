@@ -1,6 +1,6 @@
 // NAME: Tezzeret
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-tezzeret
-// DATE: -
+// DATE: 2010-09-03
 1 Tezzeret the Seeker [foil]
 1 Arcbound Worker
 1 Assembly-Worker

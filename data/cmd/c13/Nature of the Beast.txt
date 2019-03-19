@@ -1,6 +1,6 @@
 // NAME: Nature of the Beast
 // COMMENTS: https://magic.wizards.com/en/content/nature-beast-commander-2013-card-set-archive
-// DATE: -
+// DATE: 2013-11-01
 1 Archangel
 1 Avenger of Zendikar
 1 Baloth Woodcrasher

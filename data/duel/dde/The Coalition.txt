@@ -1,6 +1,6 @@
 // NAME: The Coalition
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
-// DATE: -
+// DATE: 2010-03-19
 1 Charging Troll
 1 Darigaaz, the Igniter
 1 Gerrard Capashen

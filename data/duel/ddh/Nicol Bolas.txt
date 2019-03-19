@@ -27,7 +27,7 @@
 1 Grixis Charm
 1 Recoil
 1 Spite // Malice
-// DATE: -
+// DATE: 2011-09-02
 1 Undermine
 1 Vapor Snag
 1 Icy Manipulator

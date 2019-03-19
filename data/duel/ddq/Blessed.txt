@@ -1,6 +1,6 @@
 // NAME: Blessed
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-blessed-vs-cursed
-// DATE: -
+// DATE: 2016-02-26
 1 Cathedral Sanctifier
 1 Champion of the Parish
 1 Doomed Traveler

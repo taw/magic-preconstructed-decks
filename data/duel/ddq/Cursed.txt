@@ -1,6 +1,6 @@
 // NAME: Cursed
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-blessed-vs-cursed
-// DATE: -
+// DATE: 2016-02-26
 1 Diregraf Ghoul
 1 Gravecrawler
 2 Butcher Ghoul

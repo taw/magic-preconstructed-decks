@@ -1,6 +1,6 @@
 // NAME: Goblins
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/duel-decks-merfolk-vs-goblins-2017-10-24
-// DATE: -
+// DATE: 2017-11-10
 2 Foundry Street Denizen
 1 Goblin Glory Chaser
 1 Goblin Diplomats

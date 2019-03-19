@@ -1,6 +1,6 @@
 // NAME: Kiora
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
-// DATE: -
+// DATE: 2015-02-27
 1 Kiora, the Crashing Wave [foil]
 1 Inkwell Leviathan
 1 Simic Sky Swallower

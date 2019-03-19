@@ -1,6 +1,6 @@
 // NAME: Metallic Dreams
 // COMMENTS: https://magic.wizards.com/en/articles/archive/metallic-dreams-2009-08-20
-// DATE: -
+// DATE: 2009-09-04
 1 Arcbound Slith
 1 Copper Myr
 1 Gold Myr
