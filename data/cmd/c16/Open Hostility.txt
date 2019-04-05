@@ -1,5 +1,6 @@
 // NAME: Open Hostility
 // COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
+// DATE: 2016-11-11
 1 Wight of Precinct Six
 1 Den Protector
 1 Quirion Explorer
@@ -48,7 +49,6 @@
 1 Sylvan Reclamation
 1 Divergent Transformations
 1 Order // Chaos
-// DATE: 2016-11-11
 1 Skullclamp
 1 Sol Ring
 1 Conqueror's Flail

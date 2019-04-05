@@ -1,5 +1,6 @@
 // NAME: Elemental Thunder
 // COMMENTS: https://magic.wizards.com/en/articles/archive/elemental-thunder-2009-08-18
+// DATE: 2009-09-04
 2 Flamekin Harbinger
 2 Smokebraider
 1 Bogardan Firefiend
@@ -38,7 +39,6 @@
 2 Shivan Oasis
 2 Terramorphic Expanse
 1 Assault // Battery
-// DATE: 2009-09-04
 
 Sideboard
 1 Eloren Wilds

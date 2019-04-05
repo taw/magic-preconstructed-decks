@@ -1,5 +1,6 @@
 // NAME: Power Hungry
 // COMMENTS: https://magic.wizards.com/en/content/power-hungry-commander-2013-card-set-archive
+// DATE: 2013-11-01
 1 Brooding Saurian
 1 Capricious Efreet
 1 Charnelhoard Wurm
@@ -34,7 +35,6 @@
 1 Mass Mutiny
 1 Restore
 1 Rough // Tumble
-// DATE: 2013-11-01
 1 Spoils of Victory
 1 Sudden Demise
 1 Tempt with Vengeance

@@ -1,5 +1,6 @@
 // NAME: Izzet
 // COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
+// DATE: 2012-09-07
 1 Djinn Illuminatus
 1 Galvanoth
 1 Gelectrode
@@ -20,7 +21,6 @@
 1 Call to Heel
 1 Dissipate
 1 Fire // Ice
-// DATE: 2012-09-07
 1 Force Spike
 1 Izzet Charm
 1 Magma Spray

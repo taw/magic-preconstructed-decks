@@ -1,5 +1,6 @@
 // NAME: Simic Domination
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+// DATE: -
 1 Archweaver
 2 Battering Krasis
 2 Beetleform Mage
@@ -15,7 +16,6 @@
 2 Species Gorger
 1 Vorel of the Hull Clade [foil]
 1 Give // Take
-// DATE: -
 1 Phytoburst
 1 Hindervines
 2 Mutant's Prey

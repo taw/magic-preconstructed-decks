@@ -1,5 +1,6 @@
 // NAME: Trample Civilization Underfoot
 // COMMENTS: https://magic.wizards.com/en/archenemy
+// DATE: 2010-06-18
 1 Feral Hydra
 2 Fertilid
 1 Forgotten Ancient
@@ -26,7 +27,6 @@
 1 Path to Exile
 1 Plummet
 1 Wax // Wane
-// DATE: 2010-06-18
 1 Armadillo Cloak
 2 Oblivion Ring
 1 Rancor

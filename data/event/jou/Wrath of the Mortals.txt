@@ -1,5 +1,6 @@
 // NAME: Wrath of the Mortals
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-event-deck-2014-05-01-0
+// DATE: -
 1 Battlefield Thaumaturge
 3 Young Pyromancer
 3 Guttersnipe
@@ -19,7 +20,6 @@
 1 Steam Augury
 1 Fated Conflagration
 2 Turn // Burn
-// DATE: -
 4 Izzet Guildgate
 12 Mountain
 9 Island

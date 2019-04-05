@@ -1,5 +1,6 @@
 // NAME: Izzet
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-guild-kits-2018-09-25
+// DATE: 2018-11-02
 1 Niv-Mizzet, the Firemind
 1 Erratic Cyclops
 1 Tibor and Lumia
@@ -30,7 +31,6 @@
 1 Electrolyze
 1 Chemister's Insight
 1 Turn // Burn
-// DATE: 2018-11-02
 2 Izzet Signet
 1 Firemind's Research
 4 Izzet Boilerworks

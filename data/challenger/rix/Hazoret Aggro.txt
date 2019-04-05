@@ -1,6 +1,6 @@
 // NAME: Hazoret Aggro
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
-// DATE: -
+// DATE: 2018-04-06
 1 Chandra, Torch of Defiance
 1 Hazoret the Fervent
 3 Soul-Scar Mage

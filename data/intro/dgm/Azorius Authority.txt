@@ -1,5 +1,6 @@
 // NAME: Azorius Authority
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+// DATE: -
 2 Ascended Lawmage
 2 Azorius Arrester
 1 Azorius Justiciar
@@ -16,7 +17,6 @@
 2 Righteous Charge
 2 Avenging Arrow
 1 Protect // Serve
-// DATE: -
 1 Restore the Peace
 2 Azorius Cluestone
 1 Arrest

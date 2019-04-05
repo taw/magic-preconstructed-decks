@@ -1,5 +1,6 @@
 // NAME: Orzhov Power
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+// DATE: -
 3 Bane Alley Blackguard
 1 Basilica Guards
 2 Basilica Screecher
@@ -18,7 +19,6 @@
 1 Crypt Incursion
 2 Fatal Fumes
 1 Profit // Loss
-// DATE: -
 1 Riot Control
 2 Orzhov Cluestone
 1 Dying Wish

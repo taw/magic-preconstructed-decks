@@ -1,5 +1,6 @@
 // NAME: Rush of the Wild
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24
+// DATE: -
 4 Elvish Mystic
 2 Rakdos Cackler
 2 Dryad Militant
@@ -18,7 +19,6 @@
 2 Flames of the Firebrand
 1 Clan Defiance
 1 Armed // Dangerous
-// DATE: -
 3 Shock
 1 Gruul Charm
 4 Gruul Guildgate

@@ -1,5 +1,6 @@
 // NAME: Gruul Siege
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
+// DATE: -
 2 Cobblebrute
 2 Feral Animist
 1 Ghor-Clan Rampager
@@ -15,7 +16,6 @@
 3 Zhur-Taa Druid
 1 Zhur-Taa Swine
 1 Armed // Dangerous
-// DATE: -
 2 Ground Assault
 1 Pit Fight
 1 Predator's Rapport

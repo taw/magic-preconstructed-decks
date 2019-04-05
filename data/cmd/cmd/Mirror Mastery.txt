@@ -1,5 +1,6 @@
 // NAME: Mirror Mastery
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
+// DATE: 2011-06-17
 1 Garruk Wildspeaker
 1 Magus of the Vineyard
 1 Veteran Explorer
@@ -74,7 +75,6 @@
 8 Mountain
 13 Forest
 1 Fire // Ice
-// DATE: 2011-06-17
 
 Sideboard
 1 Riku of Two Reflections
