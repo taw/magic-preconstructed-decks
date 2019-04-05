@@ -1,6 +1,6 @@
 // NAME: Dangerous
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-origins-clash-pack-and-intro-pack-decklists-2015-07-09
-// DATE: -
+// DATE: 2015-07-17
 1 Dromoka, the Eternal [foil]
 2 Ainok Bond-Kin
 2 Disowned Ancestor

@@ -30,7 +30,7 @@
 1 Electrolyze
 1 Chemister's Insight
 1 Turn // Burn
-// DATE: -
+// DATE: 2018-11-02
 2 Izzet Signet
 1 Firemind's Research
 4 Izzet Boilerworks

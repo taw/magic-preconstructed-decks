@@ -1,6 +1,6 @@
 // NAME: Thoughts of the Wind - The Jace Beleren Deck
 // COMMENTS: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
-// DATE: -
+// DATE: 2010-06-04
 4 Cloud Sprite
 3 Snapping Drake
 2 Wall of Spears

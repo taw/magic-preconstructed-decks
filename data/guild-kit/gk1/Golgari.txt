@@ -30,7 +30,7 @@
 1 Grisly Salvage
 1 Putrefy
 1 Status // Statue
-// DATE: -
+// DATE: 2018-11-02
 2 Golgari Signet
 1 Deadbridge Chant
 4 Golgari Guildgate

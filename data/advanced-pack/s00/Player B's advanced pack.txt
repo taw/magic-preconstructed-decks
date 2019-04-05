@@ -1,6 +1,6 @@
 // NAME: Player B's advanced pack
 // COMMENTS: https://mtg.gamepedia.com/Starter_2000
-// DATE: -
+// DATE: 2000-04-24
 3 Island
 3 Plains
 1 Obsianus Golem

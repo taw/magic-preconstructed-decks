@@ -1,6 +1,6 @@
 // NAME: Preconstructed deck 2
 // COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
-// DATE: -
+// DATE: 1999-07-12
 8 Island
 8 Plains
 2 Eager Cadet

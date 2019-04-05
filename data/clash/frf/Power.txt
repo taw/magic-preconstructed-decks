@@ -1,6 +1,6 @@
 // NAME: Power
 // COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
-// DATE: -
+// DATE: 2015-01-23
 1 Typhoid Rats
 4 Satyr Wayfinder
 2 Necromancer's Assistant

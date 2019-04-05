@@ -1,7 +1,7 @@
 // NAME: White Heat - Basic Deck
 // COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
-// DATE: -
+// DATE: 1998-06-15
 9 Mountain
 13 Plains
 4 Soltari Foot Soldier

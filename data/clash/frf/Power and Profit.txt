@@ -1,6 +1,6 @@
 // NAME: Power and Profit
 // COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
-// DATE: -
+// DATE: 2015-01-23
 4 Satyr Wayfinder
 2 Brain Maggot
 3 Nyx Weaver

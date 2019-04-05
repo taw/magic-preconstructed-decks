@@ -1,6 +1,6 @@
 // NAME: Goblin Assault
 // COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
-// DATE: -
+// DATE: 1999-07-12
 17 Mountain
 3 Goblin Chariot
 2 Goblin General

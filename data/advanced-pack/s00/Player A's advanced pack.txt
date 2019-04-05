@@ -1,6 +1,6 @@
 // NAME: Player A's advanced pack
 // COMMENTS: https://mtg.gamepedia.com/Starter_2000
-// DATE: -
+// DATE: 2000-04-24
 2 Forest
 2 Mountain
 2 Swamp

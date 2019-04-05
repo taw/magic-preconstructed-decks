@@ -1,6 +1,6 @@
 // NAME: Red
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
-// DATE: -
+// DATE: 2018-11-16
 1 Captivating Crew
 1 Siege-Gang Commander
 1 Demanding Dragon

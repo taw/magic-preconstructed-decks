@@ -1,6 +1,6 @@
 // NAME: Player B's deck
 // COMMENTS: https://mtg.gamepedia.com/Starter_2000
-// DATE: -
+// DATE: 2000-04-24
 4 Island
 5 Plains
 2 Eager Cadet

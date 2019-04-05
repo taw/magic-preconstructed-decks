@@ -1,7 +1,7 @@
 // NAME: Widowmaker - Basic Deck
 // COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
-// DATE: -
+// DATE: 1998-06-15
 14 Island
 11 Swamp
 3 Manta Riders
