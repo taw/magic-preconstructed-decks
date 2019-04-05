@@ -1,6 +1,6 @@
 // NAME: War of Attrition
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-event-decks-deck-lists-2011-05-19
-// DATE: -
+// DATE: 2011-06-10
 4 Elite Vanguard
 2 Kor Duelist
 2 Stoneforge Mystic

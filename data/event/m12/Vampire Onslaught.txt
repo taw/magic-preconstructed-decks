@@ -1,6 +1,6 @@
 // NAME: Vampire Onslaught
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-event-decks-2011-08-01
-// DATE: -
+// DATE: 2011-08-12
 4 Vampire Lacerator
 4 Viscera Seer
 4 Bloodthrone Vampire

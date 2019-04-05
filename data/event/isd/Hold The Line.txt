@@ -1,6 +1,7 @@
 // NAME: Hold The Line
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/innistrad/event-deck-decklists
-// DATE: -
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-event-deck-decklists-2011-10-11
+// DATE: 2011-10-28
 4 Accorder Paladin
 1 Champion of the Parish
 4 Doomed Traveler

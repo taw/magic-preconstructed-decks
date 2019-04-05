@@ -1,6 +1,7 @@
 // NAME: Gleeful Flames
 // COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/event-deck-decklists
-// DATE: -
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dark-ascension-event-decks-2012-02-01
+// DATE: 2012-02-24
 4 Forge Devil
 4 Goblin Arsonist
 4 Goblin Fireslinger
