@@ -1,6 +1,6 @@
 // NAME: The Flames of Rath
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=2&lang=en
-// DATE: -
+// DATE: 1997-10-14
 4 Mogg Fanatic
 3 Fireslinger
 1 Firefly

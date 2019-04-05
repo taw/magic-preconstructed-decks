@@ -1,6 +1,7 @@
 // NAME: Ride Like the Wind
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=4&lang=en
-// DATE: -
+// COMMENTS: https://magic.wizards.com/en/articles/archive/mirage-%E2%80%93-new-era-magic-online-2005-12-05
+// DATE: 2006-12-05
 2 Blistering Barrier
 3 Burning Shield Askari
 3 Searing Spear Askari

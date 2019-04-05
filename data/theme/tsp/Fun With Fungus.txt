@@ -1,6 +1,6 @@
 // NAME: Fun With Fungus
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=1&lang=en
-// DATE: -
+// DATE: 2006-10-06
 3 Deathspore Thallid
 2 Thallid
 2 Pendelhaven Elder

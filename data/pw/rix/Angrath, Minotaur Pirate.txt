@@ -1,6 +1,6 @@
 // NAME: Angrath, Minotaur Pirate
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/rivals-ixalan-planeswalker-deck-lists-2018-01-11
-// DATE: -
+// DATE: 2018-01-19
 1 Daring Buccaneer
 2 Goblin Trailblazer
 2 Headstrong Brute

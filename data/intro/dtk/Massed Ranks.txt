@@ -1,6 +1,6 @@
 // NAME: Massed Ranks
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
-// DATE: -
+// DATE: 2015-03-27
 1 Dromoka Dunecaster
 2 Servant of the Scale
 2 Dromoka Warrior

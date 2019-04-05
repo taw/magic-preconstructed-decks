@@ -1,6 +1,6 @@
 // NAME: Kor Armory
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
-// DATE: -
+// DATE: 2009-10-02
 1 Kor Duelist
 2 Kor Skyfisher
 1 Armament Master [foil]

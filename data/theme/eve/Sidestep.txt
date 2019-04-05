@@ -1,6 +1,6 @@
 // NAME: Sidestep
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
-// DATE: -
+// DATE: 2008-07-25
 1 Merrow Levitator
 1 Hatchet Bully
 1 Outrage Shaman

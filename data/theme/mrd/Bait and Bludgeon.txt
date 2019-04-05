@@ -1,6 +1,6 @@
 // NAME: Bait and Bludgeon
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=1&lang=en
-// DATE: -
+// DATE: 2003-10-02
 2 Somber Hoverguard
 1 Broodstar
 2 Nim Shrieker

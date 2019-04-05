@@ -1,6 +1,6 @@
 // NAME: Domain
 // COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
-// DATE: -
+// DATE: 2001-02-05
 8 Forest
 3 Island
 3 Mountain

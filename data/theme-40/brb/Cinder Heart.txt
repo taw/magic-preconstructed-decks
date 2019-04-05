@@ -1,6 +1,6 @@
 // NAME: Cinder Heart
 // COMMENTS: https://magic.wizards.com/en/products/battle-royale
-// DATE: -
+// DATE: 1999-11-12
 1 Abyssal Specter
 1 Cackling Fiend
 1 Crazed Skirge

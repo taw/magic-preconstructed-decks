@@ -1,6 +1,6 @@
 // NAME: Wicked Big
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=3&lang=en
-// DATE: -
+// DATE: 2003-10-02
 2 Brown Ouphe
 2 Tel-Jilad Chosen
 1 Slith Predator

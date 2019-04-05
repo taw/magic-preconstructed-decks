@@ -1,6 +1,6 @@
 // NAME: Superabundance
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
-// DATE: -
+// DATE: 2008-07-25
 2 Nettle Sentinel
 2 Nurturer Initiate
 2 Wickerbough Elder

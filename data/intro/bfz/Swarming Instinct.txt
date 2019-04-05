@@ -1,6 +1,6 @@
 // NAME: Swarming Instinct
 // COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
-// DATE: -
+// DATE: 2015-10-02
 1 Drowner of Hope [foil]
 3 Blisterpod
 2 Tide Drifter

@@ -1,6 +1,6 @@
 // NAME: Bomber
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=2&lang=en
-// DATE: -
+// DATE: 2001-04-11
 1 Merfolk of the Pearl Trident
 1 Coral Merfolk
 1 Merfolk Looter

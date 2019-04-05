@@ -1,6 +1,6 @@
 // NAME: Vivien
 // COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
-// DATE: -
+// DATE: 2018-07-13
 1 Pelakka Wurm
 1 Aggressive Mammoth
 2 Skalla Wolf

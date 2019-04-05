@@ -1,6 +1,6 @@
 // NAME: Reality Fracture
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=3&lang=en
-// DATE: -
+// DATE: 2006-10-06
 1 Sage of Epityr
 2 Giant Oyster
 3 Viscerid Deepwalker

@@ -1,6 +1,6 @@
 // NAME: Lightforce
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
-// DATE: -
+// DATE: 2013-07-19
 2 Capashen Knight
 1 Auramancer
 3 Pillarfield Ox

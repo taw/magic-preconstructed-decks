@@ -1,6 +1,6 @@
 // NAME: Battle Blitz
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
-// DATE: -
+// DATE: 2008-07-25
 1 Hatchet Bully
 2 Outrage Shaman
 1 Hateflayer

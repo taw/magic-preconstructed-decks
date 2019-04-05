@@ -1,6 +1,6 @@
 // NAME: Arcanis's Guile
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=2&lang=en
-// DATE: -
+// DATE: 2007-07-13
 2 Sage Owl
 2 Cloud Elemental
 1 Phantom Warrior

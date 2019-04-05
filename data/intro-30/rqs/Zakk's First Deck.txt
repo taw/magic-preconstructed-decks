@@ -1,6 +1,6 @@
 // NAME: Zakk's First Deck
 // COMMENTS: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
-// DATE: -
+// DATE: 1996-06-10
 4 Forest
 4 Plains
 4 Swamp

@@ -1,6 +1,6 @@
 // NAME: Vraska, Regal Gorgon
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-planeswalker-decklists-2018-09-20
-// DATE: -
+// DATE: 2018-10-05
 1 Vraska, Regal Gorgon
 1 Beast Whisperer
 2 Bartizan Bats

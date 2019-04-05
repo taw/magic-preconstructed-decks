@@ -1,6 +1,6 @@
 // NAME: Angelic Might
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
-// DATE: -
+// DATE: 2012-05-04
 2 Cathedral Sanctifier
 2 Gideon's Lawkeeper
 2 Angelic Wall

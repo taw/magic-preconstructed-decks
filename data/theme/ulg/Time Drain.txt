@@ -1,7 +1,7 @@
 // NAME: Time Drain
 // COMMENTS: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
 // COMMENTS: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
-// DATE: -
+// DATE: 1999-02-15
 8 Forest
 11 Island
 1 Faerie Conclave

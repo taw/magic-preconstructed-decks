@@ -1,6 +1,6 @@
 // NAME: Voracious Rage
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-intro-pack-decklists-2014-04-25-0
-// DATE: -
+// DATE: 2014-05-02
 3 Deathbellow Raider
 2 Felhide Brawler
 1 Minotaur Skullcleaver

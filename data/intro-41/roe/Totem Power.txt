@@ -1,6 +1,6 @@
 // NAME: Totem Power
 // COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
-// DATE: -
+// DATE: 2010-04-23
 1 Cudgel Troll
 1 Daggerback Basilisk
 2 Elvish Visionary

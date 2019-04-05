@@ -1,6 +1,7 @@
 // NAME: Savage Stompdown
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=2&lang=en
-// DATE: -
+// COMMENTS: https://www.mtgotraders.com/articles/visions.html
+// DATE: 2006-04-10
 1 Viashivan Dragon
 2 Kyscu Drake
 2 Spitting Drake

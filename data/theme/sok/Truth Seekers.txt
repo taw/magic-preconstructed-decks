@@ -1,6 +1,6 @@
 // NAME: Truth Seekers
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=4&lang=en
-// DATE: -
+// DATE: 2005-06-03
 3 Ghost-Lit Redeemer
 2 Silent-Chant Zubera*
 1 Nikko-Onna

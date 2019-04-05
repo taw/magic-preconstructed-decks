@@ -1,6 +1,6 @@
 // NAME: Aurochs Stampede
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=1&lang=en
-// DATE: -
+// DATE: 2006-07-21
 1 Gorilla Shaman*
 1 Orcish Lumberjack*
 2 Earthen Goo

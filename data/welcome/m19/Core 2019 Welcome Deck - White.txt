@@ -1,6 +1,6 @@
 // NAME: White Deck
 // COMMENTS: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
-// DATE: -
+// DATE: 2018-07-13
 1 Serra's Guardian
 1 Dwarven Priest
 1 Herald of Faith

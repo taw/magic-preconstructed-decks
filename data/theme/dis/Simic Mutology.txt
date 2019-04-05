@@ -1,6 +1,6 @@
 // NAME: Simic Mutology
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=3&lang=en
-// DATE: -
+// DATE: 2006-05-05
 3 Simic Initiate
 1 Starved Rusalka**
 2 Simic Ragworm

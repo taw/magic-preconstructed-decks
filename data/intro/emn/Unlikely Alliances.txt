@@ -1,6 +1,6 @@
 // NAME: Unlikely Alliances
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
-// DATE: -
+// DATE: 2016-07-22
 1 Sanitarium Skeleton
 2 Unruly Mob
 3 Desperate Sentry

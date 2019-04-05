@@ -1,6 +1,6 @@
 // NAME: Armada
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=1&lang=en
-// DATE: -
+// DATE: 2001-04-11
 2 Eager Cadet
 1 Angelic Page
 1 Crossbow Infantry

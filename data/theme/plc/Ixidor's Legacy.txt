@@ -1,6 +1,6 @@
 // NAME: Ixidor's Legacy
 // COMMENTS: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
-// DATE: -
+// DATE: 2007-02-02
 23 Island
 1 Desert
 1 Aeon Chronicler

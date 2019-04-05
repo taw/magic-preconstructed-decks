@@ -1,6 +1,6 @@
 // NAME: Bant Exalted
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
-// DATE: -
+// DATE: 2008-10-03
 2 Akrasan Squire
 2 Suntail Hawk
 2 Knight of the Skyward Eye

@@ -1,6 +1,6 @@
 // NAME: Psychic Labyrinth
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2014-intro-pack-decklists-2013-07-09
-// DATE: -
+// DATE: 2013-07-19
 3 Coral Merfolk
 2 Scroll Thief
 1 Clone

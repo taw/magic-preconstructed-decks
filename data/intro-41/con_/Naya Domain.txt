@@ -1,6 +1,6 @@
 // NAME: Naya Domain
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
-// DATE: -
+// DATE: 2009-02-06
 1 Wandering Goblins
 1 Ember Weaver
 2 Matca Rioters

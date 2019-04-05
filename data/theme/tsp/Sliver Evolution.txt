@@ -1,6 +1,6 @@
 // NAME: Sliver Evolution
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=4&lang=en
-// DATE: -
+// DATE: 2006-10-06
 2 Two-Headed Sliver
 3 Bonesplitter Sliver
 2 Fury Sliver

@@ -1,6 +1,6 @@
 // NAME: Tezzeret, Master of Metal
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11
-// DATE: -
+// DATE: 2017-01-20
 1 Tezzeret, Master of Metal [foil]
 1 Ornithopter
 2 Augmenting Automaton

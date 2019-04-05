@@ -1,6 +1,6 @@
 // NAME: Lofty Heights
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=9e&decknum=2&lang=en
-// DATE: -
+// DATE: 2005-07-29
 1 Storm Crow
 3 Horned Turtle
 1 Puppeteer

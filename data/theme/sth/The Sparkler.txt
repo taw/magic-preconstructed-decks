@@ -1,6 +1,6 @@
 // NAME: The Sparkler
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=4&lang=en
-// DATE: -
+// DATE: 1998-03-02
 1 Wall of Tears
 1 Mogg Fanatic*
 1 Wall of Razors

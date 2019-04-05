@@ -1,6 +1,6 @@
 // NAME: Unnatural Schemes
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/alara-reborn-intro-pack-decklists-2009-04-02
-// DATE: -
+// DATE: 2009-04-30
 2 Tidehollow Strix
 1 Vedalken Ghoul
 2 Nantuko Husk

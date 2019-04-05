@@ -1,6 +1,6 @@
 // NAME: Overkill
 // COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
-// DATE: -
+// DATE: 2008-05-02
 2 Juvenile Gloomwidow
 3 Farhaven Elf
 1 Mossbridge Troll

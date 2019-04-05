@@ -1,6 +1,6 @@
 // NAME: Beyond The Grave
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=2&lang=en
-// DATE: -
+// DATE: 2006-07-21
 2 Insidious Bookworms*
 1 Kjeldoran Dead*
 3 Gutless Ghoul

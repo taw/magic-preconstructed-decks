@@ -1,6 +1,6 @@
 // NAME: Dovin, Architect of Law
 // COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/ravnica-allegiance-planeswalker-deck-lists-2019-01-10
-// DATE: -
+// DATE: 2019-01-25
 1 Dovin, Architect of Law
 3 Concordia Pegasus
 2 Prowling Caracal

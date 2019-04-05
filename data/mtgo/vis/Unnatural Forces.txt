@@ -1,6 +1,7 @@
 // NAME: Unnatural Forces
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=visions&decknum=3&lang=en
-// DATE: -
+// COMMENTS: https://www.mtgotraders.com/articles/visions.html
+// DATE: 2006-04-10
 1 Necrosavant
 2 Waterspout Djinn
 2 Brood of Cockroaches

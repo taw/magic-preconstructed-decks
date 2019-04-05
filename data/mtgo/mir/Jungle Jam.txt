@@ -1,6 +1,7 @@
 // NAME: Jungle Jam
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=2&lang=en
-// DATE: -
+// COMMENTS: https://magic.wizards.com/en/articles/archive/mirage-%E2%80%93-new-era-magic-online-2005-12-05
+// DATE: 2006-12-05
 3 Quirion Elves
 2 Foratog
 3 Gibbering Hyenas

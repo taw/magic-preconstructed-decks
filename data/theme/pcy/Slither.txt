@@ -1,6 +1,6 @@
 // NAME: Slither
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=2&lang=en
-// DATE: -
+// DATE: 2000-06-05
 4 Spur Grappler
 3 Keldon Berserker
 1 Zerapa Minotaur

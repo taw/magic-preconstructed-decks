@@ -1,6 +1,6 @@
 // NAME: Gifts of the Gods
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
-// DATE: -
+// DATE: 2014-02-07
 1 Coastline Chimera
 1 Flitterstep Eidolon
 2 Floodtide Serpent

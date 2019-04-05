@@ -1,6 +1,6 @@
 // NAME: Brave the Battle
 // COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
-// DATE: -
+// DATE: 2015-07-17
 1 Hixus, Prison Warden [foil]
 2 Anointer of Champions
 3 Cleric of the Forward Order

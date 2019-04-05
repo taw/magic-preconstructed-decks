@@ -1,6 +1,6 @@
 // NAME: Simic Domination
 // COMMENTS: https://magic.wizards.com/en/content/intro-pack-decklists-dragons-maze-card-set-archive
-// DATE: -
+// DATE: 2013-05-03
 1 Archweaver
 2 Battering Krasis
 2 Beetleform Mage

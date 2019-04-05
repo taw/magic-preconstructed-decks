@@ -1,6 +1,6 @@
 // NAME: Decay
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=3&lang=en
-// DATE: -
+// DATE: 2001-04-11
 2 Blood Pet
 1 Bog Imp
 2 Drudge Skeletons

@@ -1,6 +1,6 @@
 // NAME: Going Rogue
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
-// DATE: -
+// DATE: 2008-02-01
 1 Mothdust Changeling
 1 Paperfin Rascal
 2 Pestermite

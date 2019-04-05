@@ -1,6 +1,6 @@
 // NAME: Enlightened Mastery
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
-// DATE: -
+// DATE: 2015-03-27
 1 Dragon's Eye Sentry
 3 Elusive Spellfist
 1 Orator of Ojutai

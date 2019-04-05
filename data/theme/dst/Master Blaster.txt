@@ -1,6 +1,6 @@
 // NAME: Master Blaster
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=darksteel&decknum=1&lang=en
-// DATE: -
+// DATE: 2004-02-06
 1 Krark-Clan Grunt*
 3 Krark-Clan Stoker
 2 Vulshok War Boar

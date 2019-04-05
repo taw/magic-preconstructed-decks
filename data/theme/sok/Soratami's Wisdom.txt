@@ -1,6 +1,6 @@
 // NAME: Soratami's Wisdom
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=2&lang=en
-// DATE: -
+// DATE: 2005-06-03
 2 Kitsune Loreweaver
 1 Kitsune Bonesetter
 2 Descendant of Kiyomaro

@@ -1,6 +1,6 @@
 // NAME: Sacred Assault
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
-// DATE: -
+// DATE: 2011-07-15
 2 Elite Vanguard
 1 Gladecover Scout
 2 Alabaster Mage

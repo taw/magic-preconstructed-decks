@@ -1,7 +1,7 @@
 // NAME: Tombstone
 // COMMENTS: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
 // COMMENTS: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
-// DATE: -
+// DATE: 1998-10-12
 9 Island
 3 Plains
 9 Swamp

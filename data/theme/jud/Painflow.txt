@@ -1,6 +1,6 @@
 // NAME: Painflow
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=3&lang=en
-// DATE: -
+// DATE: 2002-05-27
 3 Diligent Farmhand*
 2 Krosan Wayfarer
 2 Nantuko Tracer

@@ -1,6 +1,6 @@
 // NAME: The Spikes
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=2&lang=en
-// DATE: -
+// DATE: 1998-03-02
 4 Spike Drone*
 1 Bayou Dragonfly*
 1 Canopy Spider*

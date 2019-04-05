@@ -1,6 +1,6 @@
 // NAME: Army of Entropy
 // COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
-// DATE: -
+// DATE: 2008-05-02
 3 Cinderbones
 2 Ashenmoor Cohort
 2 Mudbrawler Cohort

@@ -1,6 +1,6 @@
 // NAME: Kazz's Second Deck
 // COMMENTS: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
-// DATE: -
+// DATE: 1996-06-10
 4 Island
 4 Mountain
 4 Swamp

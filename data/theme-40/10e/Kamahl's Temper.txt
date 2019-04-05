@@ -1,6 +1,6 @@
 // NAME: Kamahl's Temper
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=4&lang=en
-// DATE: -
+// DATE: 2007-07-13
 1 Raging Goblin
 1 Viashino Sandscout
 2 Bloodrock Cyclops

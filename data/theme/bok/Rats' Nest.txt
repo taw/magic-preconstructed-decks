@@ -1,6 +1,6 @@
 // NAME: Rats' Nest
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=3&lang=en
-// DATE: -
+// DATE: 2005-02-04
 1 Nezumi Shadow-Watcher
 2 Nezumi Bone-Reader*
 3 Nezumi Cutthroat*

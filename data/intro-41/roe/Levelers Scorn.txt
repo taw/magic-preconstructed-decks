@@ -1,6 +1,6 @@
 // NAME: Levelers Scorn
 // COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
-// DATE: -
+// DATE: 2010-04-23
 1 Coral Merfolk
 1 Echo Mage
 1 Enatu Golem

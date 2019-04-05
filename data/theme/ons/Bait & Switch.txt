@@ -1,6 +1,6 @@
 // NAME: Bait & Switch
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=1&lang=en
-// DATE: -
+// DATE: 2002-10-07
 4 Imagecrafter
 1 Information Dealer
 2 Mistform Stalker

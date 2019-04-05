@@ -1,6 +1,6 @@
 // NAME: Surge of Resistance
 // COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
-// DATE: -
+// DATE: 2016-01-22
 2 Stormchaser Mage
 3 Umara Entangler
 3 Lavastep Raider

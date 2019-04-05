@@ -1,6 +1,6 @@
 // NAME: Unstable Terrain
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
-// DATE: -
+// DATE: 2009-10-02
 1 Frontier Guide
 1 Gomazoa
 1 Merfolk Wayfinder

@@ -1,6 +1,6 @@
 // NAME: Snowscape
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=coldsnap&decknum=4&lang=en
-// DATE: -
+// DATE: 2006-07-21
 3 Rimewind Taskmage
 1 Viscerid Drone*
 2 Mistfolk*

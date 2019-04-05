@@ -1,6 +1,6 @@
 // NAME: One-Two Punch
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=3&lang=en
-// DATE: -
+// DATE: 2001-10-01
 2 Druid Lyrist
 1 Gorilla Titan
 1 Krosan Archer

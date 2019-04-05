@@ -1,6 +1,6 @@
 // NAME: Deathly Dominion
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-intro-pack-decklists-2011-09-22
-// DATE: -
+// DATE: 2011-09-30
 1 Typhoid Rats
 2 Disciple of Griselbrand
 2 Reassembling Skeleton

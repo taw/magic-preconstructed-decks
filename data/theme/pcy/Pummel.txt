@@ -1,6 +1,6 @@
 // NAME: Pummel
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=1&lang=en
-// DATE: -
+// DATE: 2000-06-05
 2 Deepwood Wolverine*
 2 Spore Frog
 1 Stampede Driver**

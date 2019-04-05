@@ -1,6 +1,6 @@
 // NAME: Orc Attack
 // COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
-// DATE: -
+// DATE: 2008-09-22
 22 Mountain
 1 Mishra's Factory
 2 Gorilla Shaman

@@ -1,6 +1,6 @@
 // NAME: Esper Air Assault
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
-// DATE: -
+// DATE: 2009-02-06
 2 Court Homunculus
 1 Darklit Gargoyle
 1 Salvage Slasher

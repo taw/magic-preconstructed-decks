@@ -1,6 +1,6 @@
 // NAME: Eldrazi Arisen
 // COMMENTS: https://magic.wizards.com/en/content/rise-eldrazi-intro-pack-decklists
-// DATE: -
+// DATE: 2010-04-23
 1 Akoum Boulderfoot
 1 Conquering Manticore [foil]
 1 Daggerback Basilisk

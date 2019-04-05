@@ -1,6 +1,6 @@
 // NAME: Cunning Plan
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
-// DATE: -
+// DATE: 2015-01-23
 1 Monastery Swiftspear
 2 Jeskai Elder
 2 Jeskai Sage

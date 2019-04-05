@@ -1,6 +1,6 @@
 // NAME: Inspiration-Struck
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/born-gods-intro-pack-decklists-2014-01-29
-// DATE: -
+// DATE: 2014-02-07
 2 Aerie Worshippers
 1 Arbiter of the Ideal [foil]
 2 Black Oak of Odunos

@@ -1,6 +1,6 @@
 // NAME: Charge of the Boros
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=3&lang=en
-// DATE: -
+// DATE: 2005-10-07
 2 War-Torch Goblin
 2 Viashino Slasher
 2 Ordruun Commando

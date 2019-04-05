@@ -1,6 +1,6 @@
 // NAME: Kami Reborn
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=1&lang=en
-// DATE: -
+// DATE: 2004-10-01
 2 Ashen-Skin Zubera
 2 Thief of Hope
 2 Gibbering Kami

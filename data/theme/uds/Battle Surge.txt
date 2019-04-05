@@ -1,6 +1,6 @@
 // NAME: Battle Surge
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=3&lang=en
-// DATE: -
+// DATE: 1999-06-07
 1 Raven Familiar**
 3 Kingfisher
 2 Thieving Magpie

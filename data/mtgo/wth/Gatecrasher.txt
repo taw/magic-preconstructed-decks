@@ -1,6 +1,6 @@
 // NAME: Gatecrasher
 // COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
-// DATE: -
+// DATE: 2007-12-12
 15 Forest
 7 Mountain
 1 Aboroth

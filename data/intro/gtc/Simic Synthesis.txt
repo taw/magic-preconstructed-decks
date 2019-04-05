@@ -1,6 +1,6 @@
 // NAME: Simic Synthesis
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/gatecrash-intro-pack-decklists-2013-01-22
-// DATE: -
+// DATE: 2013-02-01
 1 Chronomaton
 1 Cloudfin Raptor
 2 Kraken Hatchling

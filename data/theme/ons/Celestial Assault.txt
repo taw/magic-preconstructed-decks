@@ -1,6 +1,6 @@
 // NAME: Celestial Assault
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=2&lang=en
-// DATE: -
+// DATE: 2002-10-07
 2 Gustcloak Runner
 1 Pearlspear Courier
 1 Gustcloak Harrier

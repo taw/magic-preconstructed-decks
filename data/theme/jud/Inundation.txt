@@ -1,6 +1,6 @@
 // NAME: Inundation
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=2&lang=en
-// DATE: -
+// DATE: 2002-05-27
 3 Benevolent Bodyguard
 1 Dedicated Martyr*
 2 Mystic Penitent*

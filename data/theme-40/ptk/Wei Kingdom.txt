@@ -2,7 +2,7 @@
 // COMMENTS: https://mtg.gamepedia.com/Portal_Three_Kingdoms/Theme_decks
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
 // COMMENTS: http://www.wizards.com/magic/p3k/p3k_pcd.asp
-// DATE: -
+// DATE: 1999-05-01
 15 Swamp
 1 Cao Cao, Lord of Wei
 2 Cunning Advisor

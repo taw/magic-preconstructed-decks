@@ -1,6 +1,6 @@
 // NAME: Naya Behemoths
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/more-intro-packs-alara-2008-09-23
-// DATE: -
+// DATE: 2008-10-03
 2 Wild Nacatl
 2 Cylian Elf
 2 Druid of the Anima

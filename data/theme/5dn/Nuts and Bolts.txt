@@ -1,6 +1,6 @@
 // NAME: Nuts and Bolts
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=1&lang=en
-// DATE: -
+// DATE: 2004-06-04
 1 Auriok Glaivemaster**
 2 Leonin Elder*
 3 Leonin Squire

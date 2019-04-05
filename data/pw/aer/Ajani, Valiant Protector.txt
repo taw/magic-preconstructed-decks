@@ -1,6 +1,6 @@
 // NAME: Ajani, Valiant Protector
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/aether-revolt-planeswalker-deck-lists-2017-01-11
-// DATE: -
+// DATE: 2017-01-20
 1 Ajani, Valiant Protector [foil]
 2 Narnam Renegade
 2 Verdant Automaton

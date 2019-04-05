@@ -1,6 +1,6 @@
 // NAME: Comeback
 // COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
-// DATE: -
+// DATE: 2001-02-05
 1 Ancient Spring
 1 Coastal Tower
 2 Dromar's Cavern

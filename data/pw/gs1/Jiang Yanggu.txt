@@ -1,6 +1,6 @@
 // NAME: Jiang Yanggu
 // COMMENTS: http://magic.wizards.com/en/articles/archive/news/global-series-jiangg-yanggu-mu-yanling-deck-lists-2018-06-07
-// DATE: -
+// DATE: 2018-06-22
 2 Giant Spider
 4 Timber Gorge
 9 Mountain

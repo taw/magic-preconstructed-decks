@@ -1,6 +1,6 @@
 // NAME: Breath of Fire
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
-// DATE: -
+// DATE: 2010-07-16
 1 Goblin Piker
 2 Goblin Tunneler
 2 Ember Hauler

@@ -1,6 +1,6 @@
 // NAME: Trounce-O-Matic
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=odyssey&decknum=4&lang=en
-// DATE: -
+// DATE: 2001-10-01
 2 Cephalid Looter
 2 Crashing Centaur
 2 Diligent Farmhand

@@ -1,6 +1,6 @@
 // NAME: Primordial Jund
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/more-intro-packs-alara-2008-09-23
-// DATE: -
+// DATE: 2008-10-03
 2 Goblin Piker
 2 Goblin Deathraiders
 1 Rip-Clan Crasher

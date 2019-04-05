@@ -1,6 +1,6 @@
 // NAME: Eldritch Onslaught
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/innistrad-intro-pack-decklists-2011-09-22
-// DATE: -
+// DATE: 2011-09-30
 3 Deranged Assistant
 2 Merfolk Mesmerist
 2 Armored Skaab

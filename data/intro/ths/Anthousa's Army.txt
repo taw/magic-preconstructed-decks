@@ -1,6 +1,6 @@
 // NAME: Anthousa's Army
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
-// DATE: -
+// DATE: 2013-09-27
 2 Elvish Mystic
 1 Favored Hoplite
 2 Deadly Recluse

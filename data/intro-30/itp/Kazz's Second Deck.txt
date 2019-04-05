@@ -2,7 +2,7 @@
 // COMMENTS: Manually reconstructed from:
 // COMMENTS: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // COMMENTS: https://mtg.gamepedia.com/Introductory_Two-Player_Set
-// DATE: -
+// DATE: 1996-12-31
 5 Mountain
 4 Island
 4 Swamp

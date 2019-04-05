@@ -1,6 +1,6 @@
 // NAME: Air Forces
 // COMMENTS: https://mtg.gamepedia.com/Weatherlight/Theme_decks
-// DATE: -
+// DATE: 2007-12-12
 14 Island
 10 Plains
 1 Alabaster Dragon

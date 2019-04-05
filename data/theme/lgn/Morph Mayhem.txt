@@ -1,6 +1,6 @@
 // NAME: Morph Mayhem
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=3&lang=en
-// DATE: -
+// DATE: 2003-02-03
 1 Daru Mender
 2 Deftblade Elite
 4 Glory Seeker*

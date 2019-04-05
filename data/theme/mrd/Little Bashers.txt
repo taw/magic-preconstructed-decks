@@ -1,6 +1,6 @@
 // NAME: Little Bashers
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=2&lang=en
-// DATE: -
+// DATE: 2003-10-02
 2 Auriok Transfixer
 2 Auriok Bladewarden
 1 Auriok Steelshaper

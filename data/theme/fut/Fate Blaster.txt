@@ -1,6 +1,6 @@
 // NAME: Fate Blaster
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=futuresight&decknum=1&lang=en
-// DATE: -
+// DATE: 2007-05-04
 2 Sage of Epityr*
 2 Vedalken Aethermage
 1 Dandân*

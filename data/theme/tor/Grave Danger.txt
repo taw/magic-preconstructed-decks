@@ -1,6 +1,6 @@
 // NAME: Grave Danger
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=1&lang=en
-// DATE: -
+// DATE: 2002-02-08
 3 Aquamoeba
 1 Cephalid Illusionist
 1 Cephalid Vandal

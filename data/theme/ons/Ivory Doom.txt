@@ -1,6 +1,6 @@
 // NAME: Ivory Doom
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=4&lang=en
-// DATE: -
+// DATE: 2002-10-07
 3 Foothill Guide
 2 Battlefield Medic
 2 Disciple of Grace

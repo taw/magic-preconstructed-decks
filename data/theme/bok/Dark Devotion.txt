@@ -1,6 +1,6 @@
 // NAME: Dark Devotion
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=bok&decknum=1&lang=en
-// DATE: -
+// DATE: 2005-02-04
 2 Bile Urchin
 1 Bloodthirsty Ogre*
 3 Takenuma Bleeder

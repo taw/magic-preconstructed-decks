@@ -1,6 +1,6 @@
 // NAME: Mob Rule
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
-// DATE: -
+// DATE: 2012-07-13
 3 Goblin Arsonist
 2 Dragon Hatchling
 2 Mogg Flunkies

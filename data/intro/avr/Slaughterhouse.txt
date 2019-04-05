@@ -1,6 +1,6 @@
 // NAME: Slaughterhouse
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
-// DATE: -
+// DATE: 2012-05-04
 1 Hunted Ghoul
 2 Goblin Arsonist
 1 Blood Artist

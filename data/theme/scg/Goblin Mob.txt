@@ -1,6 +1,6 @@
 // NAME: Goblin Mob
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=1&lang=en
-// DATE: -
+// DATE: 2003-05-26
 2 Goblin Grappler**
 2 Goblin Sledder*
 2 Goblin Taskmaster*

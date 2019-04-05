@@ -1,6 +1,6 @@
 // NAME: Sultai Schemers
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arc/khans-tarkir-intro-pack-decklists-2014-09-18
-// DATE: -
+// DATE: 2014-09-26
 1 Typhoid Rats
 1 Black Cat
 1 Walking Corpse

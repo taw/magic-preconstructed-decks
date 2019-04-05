@@ -1,6 +1,6 @@
 // NAME: Relentless Rush
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
-// DATE: -
+// DATE: 2015-03-27
 2 Lightning Berserker
 2 Kolaghan Aspirant
 3 Kolaghan Skirmisher

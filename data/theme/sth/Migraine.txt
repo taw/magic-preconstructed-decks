@@ -1,6 +1,6 @@
 // NAME: Migraine
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=3&lang=en
-// DATE: -
+// DATE: 1998-03-02
 2 Pit Imp*
 4 Dauthi Horror*
 1 Rabid Rats
