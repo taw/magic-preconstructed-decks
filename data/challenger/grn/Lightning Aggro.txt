@@ -1,0 +1,22 @@
+// NAME: Lightning Aggro
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// DATE: 2019-04-12
+4 Fanatical Firebrand
+4 Ghitu Lavarunner
+4 Runaway Steam-Kin
+4 Viashino Pyromancer
+4 Goblin Chainwhirler
+1 Rekindling Phoenix
+2 Lava Coil
+1 Banefire
+4 Shock
+4 Lightning Strike
+4 Wizard's Lightning
+2 Experimental Frenzy
+22 Mountain
+
+Sideboard
+4 Fight with Fire
+4 Lightning Mare
+4 Diamond Mare
+3 Fiery Cannonade

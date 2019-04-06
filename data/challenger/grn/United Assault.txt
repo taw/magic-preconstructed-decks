@@ -1,0 +1,25 @@
+// NAME: United Assault
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// DATE: 2019-04-12
+4 Dauntless Bodyguard
+4 Healer's Hawk
+4 Leonin Vanguard
+4 Skymarcher Aspirant
+4 Ajani's Pridemate
+4 Adanto Vanguard
+4 Benalish Marshal
+1 Hunted Witness
+3 Pride of Conquerors
+3 Conclave Tribunal
+2 Legion's Landing
+2 History of Benalia
+21 Plains
+
+Sideboard
+1 Conclave Tribunal
+3 Baffling End
+3 Knight of Grace
+2 Tocatli Honor Guard
+2 Make a Stand
+1 Remorseful Cleric
+3 Shield Mare

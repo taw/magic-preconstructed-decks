@@ -1,0 +1,30 @@
+// NAME: Arcane Tempo
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// DATE: 2019-04-12
+4 Goblin Electromancer
+4 Crackling Drake
+2 Murmuring Mystic
+1 Arclight Phoenix
+2 Niv-Mizzet, Parun
+4 Chart a Course
+4 Lava Coil
+1 Beacon Bolt
+4 Opt
+4 Radical Idea
+4 Shock
+2 Dive Down
+1 Blink of an Eye
+1 The Mirari Conjecture
+3 Sulfur Falls
+4 Izzet Guildgate
+8 Island
+7 Mountain
+
+Sideboard
+1 The Mirari Conjecture
+1 Beacon Bolt
+3 Negate
+3 Entrancing Melody
+3 Fiery Cannonade
+2 Shivan Fire
+2 Disdainful Stroke

@@ -1,0 +1,30 @@
+// NAME: Deadly Discovery
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// DATE: 2019-04-12
+1 Vraska, Relic Seeker
+4 Merfolk Branchwalker
+4 Llanowar Elves
+4 Wildgrowth Walker
+4 Seekers' Squire
+2 Jadelight Ranger
+3 Ravenous Chupacabra
+1 Plaguecrafter
+2 District Guide
+3 Golgari Findbroker
+2 Find // Finality
+4 Cast Down
+3 The Eldest Reborn
+2 Woodland Cemetery
+4 Golgari Guildgate
+1 Overgrown Tomb
+2 Memorial to Folly
+8 Forest
+6 Swamp
+
+Sideboard
+4 Duress
+2 Arguel's Blood Fast
+3 Golden Demise
+2 Reclamation Sage
+2 Kraul Harpooner
+2 Murder
