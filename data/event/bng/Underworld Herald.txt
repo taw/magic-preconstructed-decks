@@ -1,6 +1,6 @@
 // NAME: Underworld Herald
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/event-deck-2014-02-06
-// DATE: -
+// DATE: 2014-02-28
 3 Tormented Hero
 4 Rakdos Cackler
 1 Blood Scrivener

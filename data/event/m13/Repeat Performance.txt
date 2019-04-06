@@ -1,6 +1,6 @@
 // NAME: Repeat Performance
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2013-event-deck-decklists-2012-07-24
-// DATE: -
+// DATE: 2012-08-03
 2 Arbor Elf
 4 Avacyn's Pilgrim
 4 Llanowar Elves
