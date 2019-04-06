@@ -1,6 +1,7 @@
 // NAME: Rush of the Wild
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/magic-2014-event-deck-decklist-2013-07-24
-// DATE: -
+// COMMENTS: https://www.youtube.com/watch?v=T9GjrO35JSA
+// DATE: 2013-08-09
 4 Elvish Mystic
 2 Rakdos Cackler
 2 Dryad Militant

@@ -1,6 +1,7 @@
 // NAME: Ultimate Sacrifice
 // COMMENTS: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
-// DATE: -
+// COMMENTS: https://www.youtube.com/watch?v=_O1hq9nPNvg
+// DATE: 2015-10-02
 4 Blisterpod
 1 Warden of the First Tree
 2 Zulaport Cutthroat
