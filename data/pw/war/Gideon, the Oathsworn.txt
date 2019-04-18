@@ -1,0 +1,25 @@
+// NAME: Gideon, the Oathsworn
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/war-spark-planeswalker-deck-lists-2019-04-18
+// DATE: 2019-05-03
+3 Ajani's Pridemate
+4 Orzhov Guildgate
+12 Plains
+8 Swamp
+1 Command the Dreadhorde
+1 Oath of Kaya
+2 Gideon's Battle Cry
+1 Kaya, Bane of the Dead
+4 Charmed Stray
+2 Enforcer Griffin
+3 Makeshift Battalion
+2 Trusted Pegasus
+1 War Screecher
+1 Vampire Opportunist
+3 Cruel Celebrant
+3 Gideon's Company
+1 Bond of Discipline
+3 Ob Nixilis's Cruelty
+4 Desperate Lunge
+1 Gideon, the Oathsworn
+
+Sideboard

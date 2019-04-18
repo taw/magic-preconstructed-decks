@@ -1,0 +1,26 @@
+// NAME: Jace, Arcane Strategist
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/war-spark-planeswalker-deck-lists-2019-04-18
+// DATE: 2019-05-03
+1 Primordial Wurm
+2 New Horizons
+4 Simic Guildgate
+10 Island
+11 Forest
+1 Spark Double
+1 Bioessence Hydra
+2 Jace's Ruse
+1 Kiora, Behemoth Beckoner
+2 Kiora's Dambreaker
+3 Bloom Hulk
+3 Pollenbright Druid
+2 Wardscale Crocodile
+2 Merfolk Skydiver
+4 Guildpact Informant
+3 Jace's Projection
+1 Jace's Triumph
+2 Stealth Mission
+2 Band Together
+2 Courage in Crisis
+1 Jace, Arcane Strategist
+
+Sideboard
