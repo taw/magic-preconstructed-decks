@@ -1,0 +1,43 @@
+// NAME: Azorius
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/ravnica-allegiance-guild-kits-2019-01-15
+// DATE: 2019-02-15
+1 Isperia, Supreme Judge
+1 Pride of the Clouds
+1 Sphinx of Foresight
+1 Lavinia of the Tenth
+1 Windreaver
+1 Isperia the Inscrutable
+1 Archon of the Triumvirate
+2 Judge's Familiar
+1 Azorius Guildmage
+1 Azorius Herald
+1 Stoic Ephemera
+1 Court Hussar
+1 Hover Barrier
+1 Lyev Skyknight
+1 Spirit of the Spires
+1 Azorius Justiciar
+1 Skymark Roc
+1 Sphinx of New Prahv
+1 Windstorm Drake
+1 Sky Hussar
+1 Warrant // Warden
+1 Unbreakable Formation
+1 Render Silent
+1 Sphinx's Revelation
+1 Summary Judgment
+1 Azorius Charm
+1 Dramatic Rescue
+1 Sphinx's Insight
+1 Depose // Deploy
+2 Azorius Signet
+1 Azorius Keyrune
+1 Detention Sphere
+1 Dovescape
+1 Sky Tether
+4 Azorius Chancery
+4 Azorius Guildgate
+8 Plains
+8 Island
+
+Sideboard

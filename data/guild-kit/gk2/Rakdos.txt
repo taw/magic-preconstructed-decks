@@ -1,0 +1,42 @@
+// NAME: Rakdos
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/ravnica-allegiance-guild-kits-2019-01-15
+// DATE: 2019-02-15
+1 Rakdos, Lord of Riots
+1 Rix Maadi Reveler
+1 Lyzolda, the Blood Witch
+1 Avatar of Discord
+1 Spawn of Mayhem
+1 Rakdos Pit Dragon
+1 Master of Cruelties
+1 Carnival Hellsteed
+1 Rakdos the Defiler
+1 Utvara Hellkite
+2 Rakdos Cackler
+1 Thrill-Kill Assassin
+2 Rakdos Guildmage
+1 Rakdos Shred-Freak
+1 Splatter Thug
+1 Jagged Poppet
+1 Crypt Champion
+1 Rakdos Firewheeler
+1 Blade Juggler
+1 Dreadbore
+1 Demonfire
+1 Rakdos's Return
+1 Skewer the Critics
+1 Dead Revels
+1 Carnival // Carnage
+1 Rakdos Charm
+1 Auger Spree
+1 Cackling Flames
+1 Wrecking Ball
+2 Rakdos Signet
+1 Rakdos Keyrune
+1 Theater of Horrors
+1 Riot Spikes
+4 Rakdos Carnarium
+4 Rakdos Guildgate
+8 Swamp
+8 Mountain
+
+Sideboard

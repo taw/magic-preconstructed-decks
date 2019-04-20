@@ -1,0 +1,42 @@
+// NAME: Orzhov
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/ravnica-allegiance-guild-kits-2019-01-15
+// DATE: 2019-02-15
+1 Teysa, Orzhov Scion
+1 Orzhov Pontiff
+1 Teysa Karlov
+1 Ghost Council of Orzhova
+1 Pontiff of Blight
+1 Skeletal Vampire
+1 Treasury Thrull
+1 Deathpact Angel
+1 Angel of Despair
+1 Martyred Rusalka
+1 Plagued Rusalka
+1 Orzhov Enforcer
+2 Imperious Oligarch
+1 Pitiless Pontiff
+2 Vizkopa Guildmage
+1 Ministrant of Obligation
+1 Sin Collector
+1 Vindictive Vampire
+1 Keening Banshee
+1 Basilica Bell-Haunt
+1 Belfry Spirit
+1 Consecrate // Consume
+1 Ultimate Price
+1 Final Payment
+1 Orzhov Charm
+1 Mortify
+2 Orzhov Signet
+1 Smothering Tithe
+1 Ethereal Absolution
+1 Debtors' Knell
+1 Stab Wound
+1 Pillory of the Sleepless
+1 One Thousand Lashes
+4 Orzhov Basilica
+4 Orzhov Guildgate
+8 Plains
+8 Swamp
+
+Sideboard

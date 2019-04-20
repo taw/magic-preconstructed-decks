@@ -1,0 +1,42 @@
+// NAME: Gruul
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/ravnica-allegiance-guild-kits-2019-01-15
+// DATE: 2019-02-15
+1 Ruric Thar, the Unbowed
+1 Birds of Paradise
+1 Immolation Shaman
+1 Burning-Tree Shaman
+1 Ulasht, the Hate Seed
+1 Rumbling Slum
+1 Giant Solifuge
+1 Rubblebelt Raiders
+1 Skarrgan Firebird
+1 Rubblehulk
+1 Ravager Wurm
+1 Protean Hulk
+1 Borborygmos
+1 Savageborn Hydra
+1 Skarrgan Pit-Skulk
+1 Wasteland Viper
+2 Clan Guildmage
+2 Scab-Clan Mauler
+1 Zhur-Taa Druid
+1 Zhur-Taa Goblin
+1 Burning-Tree Emissary
+1 Ghor-Clan Rampager
+1 Sunder Shaman
+1 Zhur-Taa Swine
+1 Savage Twister
+1 Gruul Charm
+1 Pit Fight
+1 Flames of the Raze-Boar
+1 Collision // Colossus
+2 Gruul Signet
+1 Cindervines
+1 Wurmweaver Coil
+1 Rhythm of the Wild
+4 Gruul Guildgate
+4 Gruul Turf
+8 Mountain
+8 Forest
+
+Sideboard
