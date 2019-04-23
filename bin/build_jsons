@@ -6,6 +6,7 @@ require "pathname-glob"
 # Ruby 2.3 or older
 require "hash-polyfill" unless Hash.method_defined?(:compact)
 require_relative "../lib/deck"
+require_relative "../lib/deck_types"
 require_relative "../lib/sets"
 
 class BuildJsons
@@ -31,7 +32,7 @@ class BuildJsons
   end
 
   def ensure_deck_size(path, deck, size, sideboard_size)
-    unless deck.size == size and deck.sideboard_size == sideboard_size
+    unless [*size].any?{|s| s == deck.size } and [*sideboard_size].any?{|s| s == deck.sideboard_size }
       warn "#{path}: Expected #{size}+#{sideboard_size} cards, not #{deck.size}+#{deck.sideboard_size}"
     end
   end
@@ -45,96 +46,12 @@ class BuildJsons
       warn "Unknown set #{set_code}, skipping"
       return
     end
-    case deck_type
-    when "game-night"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Game Night Deck")
-    when "pw"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Planeswalker Deck")
-    when "cmd"
-      ensure_deck_size(path, deck, 99, 1)
-      add_deck(name, deck, set_code, set_name, "Commander Deck")
-    when "intro"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Intro Pack")
-    when "intro-41"
-      ensure_deck_size(path, deck, 41, 0)
-      add_deck(name, deck, set_code, set_name, "Intro Pack")
-    when "intro-30"
-      ensure_deck_size(path, deck, 30, 0)
-      add_deck(name, deck, set_code, set_name, "Intro Pack")
-    when "intro-26"
-      ensure_deck_size(path, deck, 26, 0)
-      add_deck(name, deck, set_code, set_name, "Intro Pack")
-    when "starter-22" # S2TK
-      ensure_deck_size(path, deck, 22, 0)
-      add_deck(name, deck, set_code, set_name, "Starter Deck")
-    when "advanced-pack" # S2TK
-      ensure_deck_size(path, deck, 15, 0)
-      add_deck(name, deck, set_code, set_name, "Advanced Pack")
-    when "theme"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Theme Deck")
-    when "guild-kit"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Guild Kit")
-    when "mtgo"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "MTGO Theme Deck")
-    when "theme-40"
-      ensure_deck_size(path, deck, 40, 0)
-      add_deck(name, deck, set_code, set_name, "Theme Deck")
-    when "theme-61"
-      ensure_deck_size(path, deck, 61, 0)
-      add_deck(name, deck, set_code, set_name, "Theme Deck")
-    when "theme-62"
-      ensure_deck_size(path, deck, 62, 0)
-      add_deck(name, deck, set_code, set_name, "Theme Deck")
-    when "event"
-      ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, set_name, "Event Deck")
-    when "challenger"
-      ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, set_name, "Challenger Deck")
-    when "duel"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Duel Deck")
-    when "dotp"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Duel Of The Planeswalkers Deck")
-    when "archenemy"
-      unless deck.size == 60 and [0,20].include?(deck.sideboard_size)
-        warn "#{path}: Expected 60+0/20 cards, not #{deck.size}+#{deck.sideboard_size}"
-      end
-      add_deck(name, deck, set_code, set_name, "Archenemy Deck")
-    when "clash"
-      unless deck.size == 60 and [0,15].include?(deck.sideboard_size)
-        warn "#{path}: Expected 60+0/15 cards, not #{deck.size}+#{deck.sideboard_size}"
-      end
-      add_deck(name, deck, set_code, set_name, "Clash Pack")
-    when "planechase"
-      ensure_deck_size(path, deck, 60, 10)
-      add_deck(name, deck, set_code, set_name, "Planechase Deck")
-    when "ex-basic"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Basic Deck")
-    when "ex-advanced"
-      ensure_deck_size(path, deck, 60, 15)
-      add_deck(name, deck, set_code, set_name, "Advanced Deck")
-    when "premium"
-      ensure_deck_size(path, deck, 60, 0)
-      add_deck(name, deck, set_code, set_name, "Premium Deck")
-    when "welcome"
-      ensure_deck_size(path, deck, 30, 0)
-      add_deck(name, deck, set_code, set_name, "Welcome Deck")
-    when "starter"
-      unless [30,35,40].include?(deck.size) and deck.sideboard_size == 0
-        warn "#{path}: Expected 30/35/40+0 cards, not #{deck.size}+#{deck.sideboard_size}"
-      end
-      add_deck(name, deck, set_code, set_name, "Starter Deck")
+    type = DeckTypes[deck_type]
+    if type
+      ensure_deck_size(path, deck, type[:size], type[:sideboard])
+      add_deck(name, deck, set_code, set_name, type[:name])
     else
-      warn "WTF #{deck_type} #{deck.size}+#{deck.sideboard_size}"
+      warn "Unknown deck type #{deck_type} of #{deck.size}+#{deck.sideboard_size}, skipping"
     end
   end
 
