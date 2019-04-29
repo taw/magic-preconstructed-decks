@@ -232,6 +232,7 @@ MagicSets = {
   "vma" => "Vintage Masters",
   "w16" => "Welcome Deck 2016",
   "w17" => "Welcome Deck 2017",
+  "war" => "War of the Spark",
   "wth" => "Weatherlight",
   "wwk" => "Worldwake",
   "xln" => "Ixalan",
