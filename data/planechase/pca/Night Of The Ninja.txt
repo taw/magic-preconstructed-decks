@@ -39,13 +39,3 @@
 1 Terramorphic Expanse
 
 Sideboard
-1 Bloodhill Bastion
-1 Gavony
-1 Glen Elendra
-1 Kharasha Foothills
-1 Norn's Dominion
-1 Quicksilver Sea
-1 Takenuma
-1 The Zephyr Maze
-1 Interplanar Tunnel
-1 Morphic Tide

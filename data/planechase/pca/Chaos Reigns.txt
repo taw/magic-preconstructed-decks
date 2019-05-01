@@ -44,13 +44,3 @@
 1 Vivid Creek
 
 Sideboard
-1 Grand Ossuary
-1 Hedron Fields of Agadeem
-1 Mount Keralia
-1 Nephalia
-1 Orzhova
-1 Trail of the Mage-Rings
-1 Truga Jungle
-1 Windriddle Palaces
-1 Mutual Epiphany
-1 Time Distortion

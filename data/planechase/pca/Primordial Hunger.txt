@@ -40,13 +40,3 @@
 1 Terramorphic Expanse
 
 Sideboard
-1 Furnace Layer
-1 Jund
-1 Kilnspire District
-1 Lair of the Ashen Idol
-1 Orochi Colony
-1 Prahv
-1 Selesnya Loft Gardens
-1 Stensia
-1 Reality Shaping
-1 Spatial Merging
