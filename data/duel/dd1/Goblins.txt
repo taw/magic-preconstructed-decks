@@ -1,7 +1,6 @@
 // NAME: Goblins
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
-// DATE: 2014-12-05
-1 Siege-Gang Commander [foil]
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
+// DATE: 2007-11-16
 1 Akki Coalflinger
 1 Clickslither
 3 Emberwilde Augur
@@ -18,6 +17,7 @@
 2 Mudbutton Torchrunner
 2 Raging Goblin
 1 Reckless One
+1 Siege-Gang Commander [foil]
 2 Skirk Drill Sergeant
 1 Skirk Fire Marshal
 1 Skirk Prospector
@@ -26,8 +26,8 @@
 1 Spitting Earth
 2 Boggart Shenanigans
 22 Mountain
-1 Goblin Burrows
 1 Forgotten Cave
+1 Goblin Burrows
 3 Tarfire
 
 Sideboard

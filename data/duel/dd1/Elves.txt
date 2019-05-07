@@ -1,6 +1,6 @@
 // NAME: Elves
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
-// DATE: 2014-12-05
+// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
+// DATE: 2007-11-16
 1 Ambush Commander [foil]
 1 Allosaurus Rider
 2 Elvish Eulogist
