@@ -1,0 +1,49 @@
+// NAME: Mirrodin Pure
+// COMMENTS: https://mtg.gamepedia.com/Duel_Decks:_Mirrodin_Pure_vs._New_Phyrexia
+// DATE: 2013-01-11
+
+1 Platinum Angel
+1 Ardent Recruit
+1 Argent Sphinx
+1 Darksteel Gargoyle
+1 Darksteel Sentinel
+1 Duplicant
+1 Glimmerpoint Stag
+1 Gold Myr
+1 Grand Architect
+1 Kuldotha Forgemaster
+1 Lumengrid Gargoyle
+1 Memnite
+1 Myr Retriever
+1 Silent Arbiter
+1 Silver Myr
+1 Spire Serpent
+1 Steel Wall
+1 Trinket Mage
+1 Vedalken Certarch
+1 Bonesplitter
+1 Slagwurm Armor
+1 Neurok Stealthsuit
+1 Talisman of Progress
+1 Viridian Claw
+1 Thunderstaff
+1 Arrest
+1 Steelshaper's Gift
+1 Condemn
+1 Dispatch
+1 Purge
+1 Stoic Rebuttal
+1 Test of Faith
+1 Thirst for Knowledge
+1 Turn the Tide
+1 White Sun's Zenith
+1 Ancient Den
+1 Blinkmoth Nexus
+1 Coastal Tower
+1 Forbidding Watchtower
+2 Seat of the Synod
+2 Terramorphic Expanse
+8 Plains
+9 Island
+
+Sideboard

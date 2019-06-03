@@ -1,0 +1,21 @@
+// NAME: Boltslinger
+// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-online-deck-series-legacy-2010-11-11
+// DATE: 2010-11-08
+4 Hellspark Elemental
+4 Goblin Guide
+4 Keldon Marauders
+3 Rift Bolt
+4 Lava Spike
+4 Chain Lightning
+4 Flames of the Blood Hand
+1 Price of Progress
+4 Magma Jet
+4 Fireblast
+4 Lightning Bolt
+20 Mountain
+
+Sideboard
+3 Price of Progress
+4 Relic of Progenitus
+4 Pyroblast
+4 Pyrostatic Pillar
