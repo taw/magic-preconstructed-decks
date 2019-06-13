@@ -17,40 +17,43 @@ class Deck
       end
       count, name = line.split(" ", 2)
       name = name.sub(/\s*\*+\z/, "")
-      if name =~ /\A(.*?)\s*\[foil\]\z/
-        name = $1
-        target << [count.to_i, name, true]
-      else
-        target << [count.to_i, name]
+      foil = nil
+      set = nil
+      number = nil
+
+      if name.sub!(/\[foil\]/, "")
+        foil = true
       end
+
+      if name.sub!(/\[(.*?):(.*?)\]/, "")
+        set = $1
+        number = $2
+      end
+      name.strip!
+
+      target << {
+        name: name,
+        count: count.to_i,
+        set: set,
+        number: number,
+        foil: foil,
+      }.compact
     end
   end
 
   def size
-    @cards.map(&:first).inject(0, &:+)
+    @cards.map{|c| c[:count]}.sum
   end
 
   def sideboard_size
-    @sideboard.map(&:first).inject(0, &:+)
+    @sideboard.map{|c| c[:count]}.sum
   end
 
   def card_data
-    @cards.map{|c,n,f|
-      {
-        name: n,
-        count: c,
-        foil: f,
-      }.compact
-    }
+    @cards
   end
 
   def sideboard_data
-    @sideboard.map{|c,n,f|
-      {
-        name: n,
-        count: c,
-        foil: f,
-      }.compact
-    }
+    @sideboard
   end
 end

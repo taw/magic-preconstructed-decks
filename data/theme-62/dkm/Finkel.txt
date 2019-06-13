@@ -12,14 +12,15 @@
 2 Phyrexian War Beast
 2 Dark Ritual
 2 Dark Banishing
-1 Necropotence
+1 Necropotence [foil]
 2 Contagion
 2 Soul Burn
 2 Guerrilla Tactics
 2 Incinerate
 2 Pyroclasm
 2 Lava Burst
-2 Icy Manipulator
+1 Icy Manipulator [DKM:36] [foil]
+1 Icy Manipulator [DKM:36s]
 12 Swamp
 12 Mountain
 1 Sulfurous Springs

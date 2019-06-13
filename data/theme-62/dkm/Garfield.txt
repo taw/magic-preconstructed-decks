@@ -5,7 +5,7 @@
 2 Fyndhorn Elves
 2 Balduvian Bears
 2 Woolly Spider
-1 Lhurgoyf
+1 Lhurgoyf [foil]
 2 Yavimaya Ants
 1 Folk of the Pines
 1 Elvish Bard
@@ -14,7 +14,8 @@
 2 Phyrexian War Beast
 2 Walking Wall
 2 Death Spark
-2 Incinerate
+1 Incinerate [DKM:14s] [foil]
+1 Incinerate [DKM:14]
 1 Shatter
 1 Pillage
 1 Jokulhaups
