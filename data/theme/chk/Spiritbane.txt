@@ -4,7 +4,8 @@
 4 Akki Avalanchers
 3 Akki Rockspeaker
 3 Battle-Mad Ronin
-2 Brothers Yamazaki
+1 [CHK:160a] Brothers Yamazaki
+1 [CHK:160b] Brothers Yamazaki
 3 Ronin Houndmaster
 2 Akki Coalflinger
 3 Frostwielder
