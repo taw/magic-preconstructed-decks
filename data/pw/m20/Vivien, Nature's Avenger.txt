@@ -1,0 +1,20 @@
+// NAME: Vivien, Nature's Avenger
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
+// DATE: 2019-07-12
+1 Aggressive Mammoth
+4 Greenwood Sentinel
+3 Rabid Bite
+1 Might of the Masses
+3 Titanic Growth
+25 Forest
+1 Wakeroot Elemental
+2 Ethereal Elk
+3 Barkhide Troll
+3 Silverback Shaman
+3 Gnarlback Rhino
+4 Vivien's Crocodile
+4 Growth Cycle
+2 Season of Growth
+1 Vivien, Nature's Avenger [foil]
+
+Sideboard

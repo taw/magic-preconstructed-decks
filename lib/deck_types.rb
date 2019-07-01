@@ -26,4 +26,5 @@ DeckTypes = {
   "theme-62"      => { size: 62, sideboard: 0, name: "Theme Deck" },
   "theme"         => { size: 60, sideboard: 0, name: "Theme Deck" },
   "welcome"       => { size: 30, sideboard: 0, name: "Welcome Deck" },
+  "ssk"           => { size: 60, sideboard: 0, name: "Spellslinger Starter Kit" },
 }

@@ -1,0 +1,19 @@
+// NAME: Ajani, Inspiring Leader
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
+// DATE: 2019-07-12
+1 Serra's Guardian
+4 Daybreak Chaplain
+3 Fencing Ace
+3 Impassioned Orator
+4 Moment of Heroism
+3 Pacifism
+25 Plains
+1 Loxodon Lifechanter
+2 Goldmane Griffin
+3 Angel of Vitality
+3 Dawning Angel
+4 Savannah Sage
+3 Twinblade Paladin
+1 Ajani, Inspiring Leader [foil]
+
+Sideboard

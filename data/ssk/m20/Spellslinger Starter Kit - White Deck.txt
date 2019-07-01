@@ -1,0 +1,25 @@
+// NAME: Spellslinger Starter Kit - White Deck
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
+// DATE: 2019-07-12
+1 Serra's Guardian
+2 Inspiring Unicorn
+1 Intrusive Packbeast
+3 Bastion Enforcer
+2 Concordia Pegasus
+3 Haazda Officer
+2 Prowling Caracal
+2 Trusted Pegasus
+1 Citywide Bust
+2 Bond of Discipline
+3 Take Vengeance
+2 Righteous Blow
+1 Inspired Charge
+3 Show of Valor
+26 Plains
+2 Dawning Angel
+1 Loxodon Lifechanter
+1 Sephara, Sky's Blade
+1 Angelic Guardian
+1 Imperial Outrider
+
+Sideboard
