@@ -1,6 +1,6 @@
 // NAME: Mu Yanling, Celestial Wind
 // COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
-// DATE: 2019-07-12
+// DATE: 2019-07-29
 1 Riddlemaster Sphinx
 1 Dungeon Geists
 2 Air Elemental
