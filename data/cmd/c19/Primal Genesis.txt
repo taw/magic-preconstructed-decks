@@ -2,9 +2,8 @@
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
 1 Garruk, Primal Hunter
-1 Ghired, Conclave Exile
-1 Atla Palani, Nest Tender
-1 Marisi, Breaker of the Coil
+1 Atla Palani, Nest Tender [foil]
+1 Marisi, Breaker of the Coil [foil]
 1 Doomed Artisan
 1 Tectonic Hellion
 1 Ohran Frostfang
@@ -87,3 +86,4 @@
 1 Terramorphic Expanse
 
 Sideboard
+1 Ghired, Conclave Exile [foil]

@@ -2,9 +2,8 @@
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
 1 Vraska the Unseen
-1 Kadena, Slinking Sorcerer
-1 Rayami, First of the Fallen
-1 Volrath, the Shapestealer
+1 Rayami, First of the Fallen [foil]
+1 Volrath, the Shapestealer [foil]
 1 Kadena's Silencer
 1 Thought Sponge
 1 Thieving Amalgam
@@ -91,3 +90,4 @@
 1 Woodland Stream
 
 Sideboard
+1 Kadena, Slinking Sorcerer [foil]

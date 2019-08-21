@@ -2,9 +2,8 @@
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
 1 Ob Nixilis Reignited
-1 Anje Falkenrath
-1 Chainer, Nightmare Adept
-1 Greven, Predator Captain
+1 Chainer, Nightmare Adept [foil]
+1 Greven, Predator Captain [foil]
 1 Archfiend of Spite
 1 Bone Miser
 1 K'rrik, Son of Yawgmoth
@@ -85,3 +84,4 @@
 1 Temple of the False God
 
 Sideboard
+1 Anje Falkenrath [foil]

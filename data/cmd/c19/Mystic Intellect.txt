@@ -2,9 +2,8 @@
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
 1 Ral Zarek
-1 Sevinne, the Chronoclasm
-1 Elsha of the Infinite
-1 Pramikon, Sky Rampart
+1 Elsha of the Infinite [foil]
+1 Pramikon, Sky Rampart [foil]
 1 Thalia's Geistcaller
 1 Wall of Stolen Identity
 1 Backdraft Hellkite
@@ -85,3 +84,4 @@
 1 Wind-Scarred Crag
 
 Sideboard
+1 Sevinne, the Chronoclasm [foil]
