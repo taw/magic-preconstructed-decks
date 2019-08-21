@@ -1,0 +1,87 @@
+// NAME: Merciless Rage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
+// DATE: 2019-08-23
+1 Ob Nixilis Reignited
+1 Anje Falkenrath
+1 Chainer, Nightmare Adept
+1 Greven, Predator Captain
+1 Archfiend of Spite
+1 Bone Miser
+1 K'rrik, Son of Yawgmoth
+1 Anje's Ravager
+1 Skyfire Phoenix
+1 Wildfire Devils
+1 Champion of Stray Souls
+1 Geth, Lord of the Vault
+1 Soul of Innistrad
+1 Asylum Visitor
+1 Doomed Necromancer
+1 Overseer of the Damned
+1 Flayer of the Hatebound
+1 Magus of the Wheel
+1 Squee, Goblin Nabob
+1 Stromkirk Occultist
+1 Bloodhall Priest
+1 Solemn Simulacrum
+1 Scaretiller
+1 Big Game Hunter
+1 Gorgon Recluse
+1 Grave Scrabbler
+1 Nightshade Assassin
+1 Plaguecrafter
+1 Sanitarium Skeleton
+1 Meteor Golem
+1 Nightmare Unmaking
+1 Boneyard Parley
+1 Beacon of Unrest
+1 From Under the Floorboards
+1 In Garruk's Wake
+1 Avacyn's Judgment
+1 Mire in Misery
+1 Hate Mirage
+1 Call to the Netherworld
+1 Murderous Compulsion
+1 Alchemist's Greeting
+1 Malevolent Whispers
+1 Chaos Warp
+1 Dark Withering
+1 Fiery Temper
+1 Violent Eruption
+1 Aeon Engine
+1 Grimoire of the Dead
+1 Key to the City
+1 Bloodthirsty Blade
+1 Armillary Sphere
+1 Hedron Archive
+1 Rakdos Locket
+1 Sol Ring
+1 Curse of Fool's Wisdom
+1 Hedonist's Trove
+1 Warstorm Surge
+1 Faith of the Devoted
+1 The Eldest Reborn
+1 Zombie Infestation
+1 Sanctum of Eternity
+1 Drownyard Temple
+1 Exotic Orchard
+1 Geier Reach Sanitarium
+10 Swamp
+10 Mountain
+1 Akoum Refuge
+1 Ash Barrens
+1 Barren Moor
+1 Bloodfell Caves
+1 Cinder Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Forgotten Cave
+1 Memorial to Folly
+1 Mortuary Mire
+1 Myriad Landscape
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+1 Rix Maadi, Dungeon Palace
+1 Terramorphic Expanse
+1 Temple of the False God
+
+Sideboard

@@ -1,0 +1,89 @@
+// NAME: Primal Genesis
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
+// DATE: 2019-08-23
+1 Garruk, Primal Hunter
+1 Ghired, Conclave Exile
+1 Atla Palani, Nest Tender
+1 Marisi, Breaker of the Coil
+1 Doomed Artisan
+1 Tectonic Hellion
+1 Ohran Frostfang
+1 Selesnya Eulogist
+1 Tahngarth, First Mate
+1 Angel of Sanctions
+1 Wingmate Roc
+1 Dragonmaster Outcast
+1 Feldon of the Third Path
+1 Giant Adephage
+1 Soul of Zendikar
+1 Trostani, Selesnya's Voice
+1 Desolation Twin
+1 Flamerush Rider
+1 Heart-Piercer Manticore
+1 Rampaging Baloths
+1 Thragtusk
+1 Emmara Tandris
+1 Wayfaring Temple
+1 Cliffside Rescuer
+1 Voice of Many
+1 Scaretiller
+1 Roc Egg
+1 Garruk's Packleader
+1 Sakura-Tribe Elder
+1 Vitu-Ghazi Guildmage
+1 Ghired's Belligerence
+1 Full Flowering
+1 Hour of Reckoning
+1 Phyrexian Rebirth
+1 Shamanic Revelation
+1 Hate Mirage
+1 Cultivate
+1 Explore
+1 Farseek
+1 Harmonize
+1 Fresh Meat
+1 Momentous Fall
+1 Second Harvest
+1 Rootborn Defenses
+1 Trostani's Judgment
+1 Beast Within
+1 Druid's Deliverance
+1 Slice in Twain
+1 Naya Charm
+1 Sundering Growth
+1 Idol of Oblivion
+1 Mimic Vat
+1 Soul Foundry
+1 Lightning Greaves
+1 Sol Ring
+1 Commander's Insignia
+1 Song of the Worldsoul
+1 Growing Ranks
+1 Intangible Virtue
+1 Colossal Majesty
+1 Elemental Bond
+1 Cinder Glade
+1 Exotic Orchard
+1 Gargoyle Castle
+1 Sungrass Prairie
+7 Plains
+4 Mountain
+8 Forest
+1 Ash Barrens
+1 Blossoming Sands
+1 Boros Garrison
+1 Command Tower
+1 Evolving Wilds
+1 Graypelt Refuge
+1 Gruul Turf
+1 Jungle Shrine
+1 Kazandu Refuge
+1 Krosan Verge
+1 Myriad Landscape
+1 Naya Panorama
+1 Rogue's Passage
+1 Rugged Highlands
+1 Selesnya Sanctuary
+1 Terramorphic Expanse
+
+Sideboard
