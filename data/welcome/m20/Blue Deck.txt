@@ -1,0 +1,21 @@
+// NAME: Blue Deck
+// COMMENTS: https://mtg.gamepedia.com/Core_Set_2020/Welcome_decks
+// DATE: 2019-07-12
+1 Air Elemental
+1 Cloudkin Seer
+2 Coral Merfolk
+1 Fortress Crab
+1 Frost Lynx
+1 Moat Piranhas
+1 Octoprophet
+1 Phantom Warrior
+1 Riddlemaster Sphinx
+2 Snapping Drake
+1 Captivating Gyre
+1 Winged Words
+1 Befuddle
+1 Unsummon
+1 Sleep Paralysis
+13 Island
+
+Sideboard

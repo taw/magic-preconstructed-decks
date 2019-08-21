@@ -1,0 +1,20 @@
+// NAME: White Deck
+// COMMENTS: https://mtg.gamepedia.com/Core_Set_2020/Welcome_decks
+// DATE: 2019-07-12
+1 Concordia Pegasus
+2 Dawning Angel
+2 Haazda Officer
+1 Inspiring Captain
+1 Ironclad Krovod
+1 Loyal Pegasus
+2 Prowling Caracal
+1 Serra's Guardian
+1 Siege Mastodon
+1 Trusted Pegasus
+1 Inspired Charge
+1 Show of Valor
+1 Glaring Aegis
+1 Pacifism
+13 Plains
+
+Sideboard

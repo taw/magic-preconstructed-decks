@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// COMMENTS: https://mtg.gamepedia.com/Core_Set_2020/Welcome_decks
+// DATE: 2019-07-12
+2 Barony Vampire
+2 Bartizan Bats
+1 Bogstomper
+1 Feral Abomination
+1 Gravedigger
+1 Gravewaker
+1 Skeleton Archer
+3 Walking Corpse
+1 Agonizing Syphon
+1 Disentomb
+1 Dark Remedy
+1 Disfigure
+1 Murder
+13 Swamp
+
+Sideboard
