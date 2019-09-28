@@ -1,0 +1,24 @@
+// NAME: Oko, the Trickster
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/throne-eldraine-planeswalker-decks-2019-09-18
+// DATE: 2019-10-04
+1 Oko, the Trickster [foil]
+1 Wildborn Preserver
+2 Faerie Vandal
+2 Mistford River Turtle
+3 Tome Raider
+2 Keeper of Fables
+1 Tuinvale Treefolk
+3 Maraleaf Pixie
+4 Oko's Accomplices
+3 Bramblefort Fink
+1 Beanstalk Giant
+2 Oko's Hospitality
+1 Return of the Wildspeaker
+3 Garenbrig Carver
+3 Charmed Sleep
+3 Frogify
+4 Thornwood Falls
+10 Island
+11 Forest
+
+Sideboard

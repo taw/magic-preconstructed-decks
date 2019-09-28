@@ -1,0 +1,25 @@
+// NAME: Rowan, Fearless Sparkmage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/throne-eldraine-planeswalker-decks-2019-09-18
+// DATE: 2019-10-04
+1 Rowan, Fearless Sparkmage [foil]
+2 Youthful Knight
+1 Acclaimed Contender
+1 Giant Killer
+2 Rowan's Stalwarts
+2 Knight of the Keep
+2 Prized Griffin
+2 Venerable Knight
+3 Rimrock Knight
+1 Weaselback Redcap
+2 Inspiring Veteran
+4 Garrison Griffin
+3 Rowan's Battleguard
+2 Joust
+2 Ardenvale Tactician
+3 Scorching Dragonfire
+2 Weapon Rack
+4 Wind-Scarred Crag
+11 Plains
+10 Mountain
+
+Sideboard

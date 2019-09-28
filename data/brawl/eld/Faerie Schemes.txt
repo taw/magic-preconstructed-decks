@@ -1,0 +1,53 @@
+// NAME: Faerie Schemes
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04
+// DATE: 2019-10-04
+1 Shimmer Dragon
+1 Workshop Elders
+1 Sephara, Sky's Blade
+1 Massacre Girl
+1 Corridor Monitor
+1 Shinechaser
+1 Arcanist's Owl
+1 Empyrean Eagle
+1 Shambling Suit
+1 Kaya's Wrath
+1 Animating Faerie
+1 Winged Words
+1 Banish into Fable
+1 Chemister's Insight
+1 Mortify
+1 Mace of the Valiant
+1 Bag of Holding
+1 Witching Well
+1 Golden Egg
+1 Arcane Signet
+1 Ancestral Blade
+1 Bloodsoaked Altar
+1 Heraldic Banner
+1 Scrabbling Claws
+1 Guild Globe
+1 Mana Geode
+1 Smothering Tithe
+1 All That Glitters
+1 Frogify
+1 Angelic Exaltation
+1 Conclave Tribunal
+1 Prison Realm
+1 Lawmage's Binding
+1 Temple of Silence
+1 Watery Grave
+6 Plains
+5 Island
+4 Swamp
+1 Azorius Guildgate
+1 Command Tower
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Emergence Zone
+1 Evolving Wilds
+1 Orzhov Guildgate
+1 Scoured Barrens
+1 Tranquil Cove
+
+Sideboard
+1 Alela, Artful Provocateur [foil]

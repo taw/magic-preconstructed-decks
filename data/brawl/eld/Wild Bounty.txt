@@ -1,0 +1,53 @@
+// NAME: Wild Bounty
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04
+// DATE: 2019-10-04
+1 Faerie Formation
+1 Steelbane Hydra
+1 Thorn Mammoth
+1 End-Raze Forerunners
+1 Incubation Druid
+1 Biomancer's Familiar
+1 Faerie Vandal
+1 Keeper of Fables
+1 Maraleaf Pixie
+1 Forbidding Spirit
+1 Spectral Sailor
+1 District Guide
+1 Kraul Harpooner
+1 Silhana Wayfinder
+1 Paradise Druid
+1 Frilled Mystic
+1 Leafkin Druid
+1 Gyre Engineer
+1 Sharktocrab
+1 Risen Reef
+1 Meteor Golem
+1 Time Wipe
+1 Beanstalk Giant
+1 Rosethorn Acolyte
+1 Circuitous Route
+1 Flower // Flourish
+1 Run Away Together
+1 Growth Spiral
+1 Incubation // Incongruity
+1 Tome of Legends
+1 Parhelion II
+1 Arcane Signet
+1 Firemind Vessel
+1 Prison Realm
+1 Hallowed Fountain
+1 Temple of Mystery
+5 Plains
+4 Island
+6 Forest
+1 Azorius Guildgate
+1 Blossoming Sands
+1 Command Tower
+1 Evolving Wilds
+1 Selesnya Guildgate
+1 Simic Guildgate
+1 Tranquil Cove
+1 Thornwood Falls
+
+Sideboard
+1 Chulane, Teller of Tales [foil]
