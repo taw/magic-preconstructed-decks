@@ -1,0 +1,24 @@
+// NAME: Ashiok
+// COMMENTS: https://mtg.gamepedia.com/Theros_Beyond_Death/Planeswalker_decks
+// DATE: 2020-01-24
+1 Ashiok, Sculptor of Fears [foil]
+1 Gravebreaker Lamia
+1 Tymaret, Chosen from Death
+4 Mindwrack Harpy
+2 Ashiok's Forerunner
+2 Pharika's Spawn
+2 Devourer of Memory
+2 Elite Instructor
+3 Swimmer in Nightmares
+3 Towering-Wave Mystic
+3 Underworld Charger
+2 Mire's Grasp
+2 Final Death
+2 Glimpse of Freedom
+2 Funeral Rites
+3 Sleep of the Dead
+2 Unknown Shores
+12 Swamp
+11 Island
+
+Sideboard

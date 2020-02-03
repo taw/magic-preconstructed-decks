@@ -1,0 +1,20 @@
+// NAME: Elspeth
+// COMMENTS: https://mtg.gamepedia.com/Theros_Beyond_Death/Planeswalker_decks
+// DATE: 2020-01-24
+1 Elspeth, Undaunted Hero [foil]
+1 Daxos, Blessed by the Sun
+3 Eidolon of Inspiration
+1 Taranika, Akroan Veteran
+2 Archon of Falling Stars
+2 Elspeth's Devotee
+2 Hero of the Winds
+4 Daybreak Chimera
+4 Leonin of the Lost Pride
+4 Sunlit Hoplite
+3 Karametra's Blessing
+2 Phalanx Tactics
+3 Indomitable Will
+3 Dreadful Apathy
+25 Plains
+
+Sideboard
