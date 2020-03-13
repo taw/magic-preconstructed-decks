@@ -12,6 +12,7 @@ DeckTypes = {
   "ex-basic"      => { size: 60, sideboard: 0, name: "Basic Deck" },
   "game-night"    => { size: 60, sideboard: 0, name: "Game Night Deck" },
   "guild-kit"     => { size: 60, sideboard: 0, name: "Guild Kit" },
+  "halfdeck"      => { size: 30, sideboard: 0, name: "Halfdeck" },
   "intro-26"      => { size: 26, sideboard: 0, name: "Intro Pack" },
   "intro-30"      => { size: 30, sideboard: 0, name: "Intro Pack" },
   "intro-41"      => { size: 41, sideboard: 0, name: "Intro Pack" },

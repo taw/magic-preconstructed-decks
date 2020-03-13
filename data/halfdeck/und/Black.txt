@@ -1,0 +1,24 @@
+// NAME: Black
+// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// DATE: 2020-02-28
+1 Acornelia, Fashionable Filcher
+1 Infernal Spawn of Evil
+1 Infernal Spawn of Infernal Spawn of Evil
+1 Infernius Spawnington III, Esq.
+1 Bat-
+1 Dirty Rat
+1 Hoisted Hireling
+1 Inhumaniac
+1 Jumbo Imp
+1 Poultrygeist
+1 Skull Saucer
+1 Snickering Squirrel
+1 Stinging Scorpion
+1 Booster Tutor
+1 Duh
+1 Enter the Dungeon
+1 Jack-in-the-Mox
+1 Underdome
+12 Swamp
+
+Sideboard

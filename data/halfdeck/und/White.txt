@@ -1,0 +1,24 @@
+// NAME: White
+// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// DATE: 2020-02-28
+1 Flavor Judge
+1 Frankie Peanuts
+1 Syr Cadian, Knight Owl
+1 Adorable Kitten
+1 Humming-
+1 Knight of the Hokey Pokey
+1 Old Guard
+1 Ordinary Pony
+1 Paper Tiger
+1 Strutting Turkey
+1 Emcee
+1 AWOL
+1 Look at Me, I'm the DCI
+1 Look at Me, I'm R&D
+1 Staying Power
+1 GO TO JAIL
+1 Sword of Dungeons & Dragons
+1 Underdome
+12 Plains
+
+Sideboard

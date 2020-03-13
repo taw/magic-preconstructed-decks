@@ -1,0 +1,24 @@
+// NAME: Blue
+// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// DATE: 2020-02-28
+1 B.O.B. (Bevy of Beebles)
+1 Alexander Clamilton
+1 Avatar of Me
+1 Chicken à la King
+1 Johnny, Combo Player
+1 Richard Garfield, Ph.D.
+1 Carnivorous Death-Parrot
+1 Cheatyface
+1 Mer Man
+1 Rock Lobster
+1 Wall of Fortune
+1 Time Out
+1 Common Courtesy
+1 Magic Word
+1 Rings a Bell
+1 Topsy Turvy
+1 Water Gun Balloon Game
+1 Underdome
+12 Island
+
+Sideboard

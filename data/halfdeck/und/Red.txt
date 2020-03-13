@@ -1,0 +1,24 @@
+// NAME: Red
+// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// DATE: 2020-02-28
+1 Boomstacker
+1 Infinity Elemental
+1 Stet, Draconic Proofreader
+1 Abstract Iguanart
+1 Common Iguana
+1 Goblin Haberdasher
+1 Goblin S.W.A.T. Team
+1 Painiac
+1 Scissors Lizard
+1 Six-y Beast
+1 Blast from the Past
+1 Goblin Tutor
+1 Super-Duper Death Ray
+1 Strategy, Schmategy
+1 Yet Another Aether Vortex
+1 Pointy Finger of Doom
+1 Krark's Other Thumb
+1 Underdome
+12 Mountain
+
+Sideboard
