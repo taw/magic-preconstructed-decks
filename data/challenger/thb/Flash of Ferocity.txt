@@ -1,0 +1,29 @@
+// NAME: Flash of Ferocity
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
+// DATE: 2020-04-03
+1 Brazen Borrower
+4 Nightpack Ambusher
+1 Wavebreak Hippocamp
+4 Wildborn Preserver
+4 Brineborn Cutthroat
+4 Frilled Mystic
+4 Spectral Sailor
+2 Thassa's Intervention
+4 Opt
+4 Quench
+2 Sinister Sabotage
+2 Unsummon
+2 Castle Vantress
+1 Fabled Passage
+2 Temple of Mystery
+3 Thornwood Falls
+8 Forest
+8 Island
+
+Sideboard
+3 Shifting Ceratops
+3 AEther Gust
+2 Disdainful Stroke
+2 Mystical Dispute
+2 Negate
+3 Threnody Singer

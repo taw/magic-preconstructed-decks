@@ -1,0 +1,39 @@
+// NAME: Allied Fires
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
+// DATE: 2020-04-03
+3 Sarkhan the Masterless
+1 Ugin, the Ineffable
+3 Kasmina, Enigmatic Mentor
+4 Narset, Parter of Veils
+2 Saheeli, Sublime Artificer
+1 Kenrith, the Returned King
+2 Fae of Wishes
+3 Deafening Clarion
+2 Drawn from Dreams
+2 Time Wipe
+4 Fires of Invention
+2 Banishing Light
+4 Omen of the Sea
+1 Steam Vents
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+4 Interplanar Beacon
+3 Swiftwater Cliffs
+3 Tranquil Cove
+4 Wind-Scarred Crag
+5 Island
+2 Mountain
+2 Plains
+
+Sideboard
+1 Sarkhan the Masterless
+1 Time Wipe
+1 Mass Manipulation
+1 Ashiok, Dream Render
+2 Devout Decree
+1 Dovin, Hand of Control
+1 Dovin's Veto
+2 Fry
+2 Revoke Existence
+3 Thirst for Meaning

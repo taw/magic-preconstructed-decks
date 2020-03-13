@@ -1,0 +1,30 @@
+// NAME: Final Adventure
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
+// DATE: 2020-04-03
+1 Vraska, Golgari Queen
+2 Blacklance Paragon
+2 Knight of the Ebon Legion
+4 Lovestruck Beast
+2 Midnight Reaper
+2 Murderous Rider
+4 Edgewall Innkeeper
+4 Foulmire Knight
+4 Order of Midnight
+4 Smitten Swordmaster
+2 Find // Finality
+2 Disfigure
+4 Lucky Clover
+2 Castle Locthwain
+1 Fabled Passage
+2 Temple of Malady
+3 Jungle Hollow
+7 Forest
+8 Swamp
+
+Sideboard
+2 Massacre Girl
+1 Cling to Dust
+4 Duress
+2 Kraul Harpooner
+4 Noxious Grasp
+2 Thrashing Brontodon
