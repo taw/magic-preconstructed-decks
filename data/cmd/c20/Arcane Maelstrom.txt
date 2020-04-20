@@ -84,7 +84,7 @@
 1 Thornwood Falls
 8 Forest
 5 Island
-5  Mountain
+5 Mountain
 
 Sideboard
 1 Kalamax, the Stormsire [foil]
