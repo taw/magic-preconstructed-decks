@@ -35,6 +35,7 @@ MagicSets = {
   "c17" => "Commander 2017",
   "c18" => "Commander 2018",
   "c19" => "Commander 2019",
+  "c20" => "Commander 2020",
   "ced" => "Collectors’ Edition",
   "cei" => "Intl. Collectors’ Edition",
   "chk" => "Champions of Kamigawa",

@@ -1,0 +1,92 @@
+// NAME: Ruthless Regiment
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/ruthless-regiment-2020-04-06
+// DATE: 2020-04-17
+1 Nahiri, the Harbinger
+1 Kelsien, the Plague [foil]
+1 Trynn, Champion of Freedom [foil]
+1 Silvar, Devourer of the Free [foil]
+1 Verge Rangers
+1 Species Specialist
+1 Titan Hunter
+1 Fireflux Squad
+1 Frontier Warmonger
+1 Bounty Agent
+1 Dearly Departed
+1 Frontline Medic
+1 Knight of the White Orchid
+1 Magus of the Disk
+1 Odric, Master Tactician
+1 Riders of Gavony
+1 Thalia's Lieutenant
+1 Thraben Doomsayer
+1 Disciple of Bolas
+1 Xathrid Necromancer
+1 Alesha, Who Smiles at Death
+1 Captivating Crew
+1 Fumiko the Lowblood
+1 Magus of the Wheel
+1 Titan of Eternal Fire
+1 Adriana, Captain of the Guard
+1 General's Enforcer
+1 Banisher Priest
+1 Cavalry Pegasus
+1 Devout Chaplain
+1 Zulaport Cutthroat
+1 Humble Defector
+1 Garna, the Bloodflame
+1 Citywide Bust
+1 Cleansing Nova
+1 Increasing Devotion
+1 Painful Truths
+1 Ambition's Cost
+1 Call the Coppercoats
+1 Flawless Maneuver
+1 Unexpectedly Absent
+1 Crackling Doom
+1 Dire Tactics
+1 Terminate
+1 Sanctuary Blade
+1 Bonder's Ornament
+1 Arcane Signet
+1 Boros Signet
+1 Commander's Sphere
+1 Heirloom Blade
+1 Orzhov Signet
+1 Rakdos Signet
+1 Skullclamp
+1 Sol Ring
+1 Molten Echoes
+1 Outpost Siege
+1 Shared Animosity
+1 Sanctuary Lockdown
+1 Bastion of Remembrance
+1 Martial Impetus
+1 Parasitic Impetus
+1 Shiny Impetus
+1 Vigilante Justice
+1 Battlefield Forge
+1 Exotic Orchard
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Spinerock Knoll
+1 Windbrisk Heights
+1 Bojuka Bog
+1 Boros Garrison
+1 Command Tower
+1 Myriad Landscape
+1 Nomad Outpost
+1 Orzhov Basilica
+1 Path of Ancestry
+1 Rakdos Carnarium
+1 Temple of the False God
+1 Unclaimed Territory
+1 Bloodfell Caves
+1 Evolving Wilds
+1 Scoured Barrens
+1 Wind-Scarred Crag
+4 Mountain
+8 Plains
+4 Swamp
+
+Sideboard
+1 Jirina Kudro [foil]

@@ -1,0 +1,90 @@
+// NAME: Symbiotic Swarm
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/symbiotic-swarm-2020-04-06
+// DATE: 2020-04-17
+1 Ajani Unyielding
+1 Tayam, Luminous Enigma [foil]
+1 Nikara, Lair Scavenger [foil]
+1 Yannik, Scavenging Sentinel [foil]
+1 Avenging Huntbonder
+1 Cartographer's Hawk
+1 Vitality Hunter
+1 Daring Fiendbonder
+1 Slippery Bogbonder
+1 Akroma, Angel of Wrath
+1 Angel of Finality
+1 Cataclysmic Gearhulk
+1 Kalemne's Captain
+1 Odric, Lunarch Marshal
+1 Reveillark
+1 Solemn Recruit
+1 Sunblast Angel
+1 Zetalpa, Primal Dawn
+1 Cairn Wanderer
+1 Soul of Innistrad
+1 Soulflayer
+1 Hornet Queen
+1 Majestic Myriarch
+1 Splinterfright
+1 Archon of Valor's Reach
+1 Karametra, God of Harvests
+1 Void Beckoner
+1 Titanoth Rex
+1 Aerial Responder
+1 Vampire Nighthawk
+1 Acidic Slime
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Skullwinder
+1 Nyx Weaver
+1 Selective Adaptation
+1 Ever After
+1 Duneblast
+1 Unbreakable Bond
+1 Unburial Rites
+1 Cultivate
+1 Harmonize
+1 Obscuring Haze
+1 Blood Curdle
+1 Abzan Charm
+1 Deathsprout
+1 Despark
+1 Grisly Salvage
+1 Netherborn Altar
+1 Mimic Vat
+1 Bonder's Ornament
+1 Arcane Signet
+1 Commander's Sphere
+1 Sol Ring
+1 Swiftfoot Boots
+1 Together Forever
+1 Abzan Ascendancy
+1 Deadbridge Chant
+1 Martial Impetus
+1 Parasitic Impetus
+1 Predatory Impetus
+1 Nesting Grounds
+1 Canopy Vista
+1 Caves of Koilos
+1 Exotic Orchard
+1 Gavony Township
+1 Grim Backwoods
+1 Sungrass Prairie
+1 Blighted Woodland
+1 Command Tower
+1 Golgari Rot Farm
+1 Krosan Verge
+1 Memorial to Folly
+1 Myriad Landscape
+1 Orzhov Basilica
+1 Sandsteppe Citadel
+1 Selesnya Sanctuary
+1 Blossoming Sands
+1 Evolving Wilds
+1 Jungle Hollow
+1 Scoured Barrens
+7 Plains
+7 Swamp
+4 Forest
+
+Sideboard
+1 Kathril, Aspect Warper [foil]

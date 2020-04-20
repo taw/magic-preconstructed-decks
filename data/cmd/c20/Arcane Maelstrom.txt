@@ -1,0 +1,90 @@
+// NAME: Arcane Maelstrom
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/arcane-maelstrom-2020-04-06
+// DATE: 2020-04-17
+1 Jace, Architect of Thought
+1 Xyris, the Writhing Storm [foil]
+1 Haldan, Avid Arcanist [foil]
+1 Pako, Arcane Retriever [foil]
+1 Eon Frolicker
+1 Nascent Metamorph
+1 Glademuse
+1 Ravenous Gigantotherium
+1 Lunar Mystic
+1 Niblis of Frost
+1 Talrand, Sky Summoner
+1 Charmbreaker Devils
+1 Dualcaster Mage
+1 Etali, Primal Storm
+1 Goblin Dark-Dwellers
+1 Djinn Illuminatus
+1 Melek, Izzet Paragon
+1 Rashmi, Eternities Crafter
+1 Wort, the Raidmother
+1 Solemn Simulacrum
+1 Murmuring Mystic
+1 Crackling Drake
+1 Surreal Memoir
+1 Decoy Gambit
+1 Deflecting Swat
+1 Curious Herd
+1 Chaos Warp
+1 Comet Storm
+1 Commune with Lava
+1 Starstorm
+1 Strength of the Tajuru
+1 Artifact Mutation
+1 Prophetic Bolt
+1 Clash of Titans
+1 Channeled Force
+1 Chemister's Insight
+1 Frantic Search
+1 Whiplash Trap
+1 Crop Rotation
+1 Evolution Charm
+1 Harrow
+1 Hunter's Insight
+1 Hunting Pack
+1 Natural Connection
+1 Slice in Twain
+1 Tribute to the Wild
+1 Growth Spiral
+1 Temur Charm
+1 Lavabrink Floodgates
+1 Twinning Staff
+1 Bonder's Ornament
+1 Arcane Signet
+1 Commander's Sphere
+1 Lightning Greaves
+1 Sol Ring
+1 Swarm Intelligence
+1 Primal Empathy
+1 Psychic Impetus
+1 Shiny Impetus
+1 Predatory Impetus
+1 Wilderness Reclamation
+1 Cinder Glade
+1 Desolate Lighthouse
+1 Exotic Orchard
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+1 Oran-Rief, the Vastwood
+1 Scavenger Grounds
+1 Yavimaya Coast
+1 Command Tower
+1 Frontier Bivouac
+1 Gruul Turf
+1 Halimar Depths
+1 Izzet Boilerworks
+1 Myriad Landscape
+1 Rupture Spire
+1 Simic Growth Chamber
+1 Rugged Highlands
+1 Swiftwater Cliffs
+1 Thornwood Falls
+8 Forest
+5 Island
+5  Mountain
+
+Sideboard
+1 Kalamax, the Stormsire [foil]
