@@ -53,7 +53,7 @@
 1 Ashes to Ashes
 1 Buried Alive
 1 Cauldron Dance
-1 Chain Lightning
+1 [TD0:A55] Chain Lightning
 1 Constant Mists
 1 Dread Return
 1 Edge of Autumn
@@ -66,7 +66,7 @@
 1 Harmonize
 1 Kodama's Reach
 1 Life from the Loam
-1 Lightning Bolt
+1 [TD0:A60] Lightning Bolt
 1 Lightning Greaves
 1 Massacre
 1 Phyrexian Arena

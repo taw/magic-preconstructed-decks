@@ -62,18 +62,18 @@
 1 Mirari's Wake
 1 Momentary Blink
 1 Moment's Peace
-1 Oblivion Ring
+1 [TD0:A12] Oblivion Ring
 1 Overwhelming Intellect
 1 Prison Term
 1 Rampant Growth
-1 Relic of Progenitus
+1 [TD0:A117] Relic of Progenitus
 1 Resurrection
 1 Rhystic Study
 1 Seal of Cleansing
 1 Selesnya Signet
 1 Simic Signet
 1 Sterling Grove
-1 Swords to Plowshares
+1 [TD0:A17] Swords to Plowshares
 1 Temporal Spring
 
 Sideboard

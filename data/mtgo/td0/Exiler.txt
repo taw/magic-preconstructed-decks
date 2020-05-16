@@ -9,11 +9,11 @@
 1 Weathered Wayfarer
 4 Benevolent Bodyguard
 4 Flickerwisp
-4 Swords to Plowshares
+4 [TD0:B12] Swords to Plowshares
 1 Bonesplitter
 1 Umezawa's Jitte
 4 Aether Vial
-3 Oblivion Ring
+3 [TD0:B8] Oblivion Ring
 3 Karakas
 3 Flagstones of Trokair
 14 Plains
@@ -21,8 +21,8 @@
 
 Sideboard
 1 Ethersworn Canonist
-1 Oblivion Ring
+1 [TD0:B8] Oblivion Ring
 4 Kor Firewalker
 2 Aura of Silence
 3 Silence
-4 Relic of Progenitus
+4 [TD0:B29] Relic of Progenitus

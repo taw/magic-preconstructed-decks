@@ -6,16 +6,16 @@
 4 Keldon Marauders
 3 Rift Bolt
 4 Lava Spike
-4 Chain Lightning
+4 [TD0:B14] Chain Lightning
 4 Flames of the Blood Hand
 1 Price of Progress
 4 Magma Jet
 4 Fireblast
-4 Lightning Bolt
+4 [TD0:B21] Lightning Bolt
 20 Mountain
 
 Sideboard
 3 Price of Progress
-4 Relic of Progenitus
+4 [TD0:B29] Relic of Progenitus
 4 Pyroblast
 4 Pyrostatic Pillar

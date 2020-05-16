@@ -9,7 +9,8 @@
 2 Yavimaya Ants
 1 Folk of the Pines
 1 Elvish Bard
-2 Yavimaya Ancients
+1 Yavimaya Ancients [DKM:31a]
+1 Yavimaya Ancients [DKM:31b]
 2 Giant Trap Door Spider
 2 Phyrexian War Beast
 2 Walking Wall

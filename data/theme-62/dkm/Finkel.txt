@@ -2,8 +2,10 @@
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=2&lang=en
 // DATE: 2001-12-01
 2 Foul Familiar
-2 Lim-Dûl's High Guard
-2 Phantasmal Fiend
+1 Lim-Dûl's High Guard [DKM:6a]
+1 Lim-Dûl's High Guard [DKM:6b]
+1 Phantasmal Fiend [DKM:8a]
+1 Phantasmal Fiend [DKM:8b]
 2 Abyssal Specter
 2 Storm Shaman
 2 Orcish Cannoneers
@@ -15,12 +17,13 @@
 1 Necropotence [foil]
 2 Contagion
 2 Soul Burn
-2 Guerrilla Tactics
+1 Guerrilla Tactics [DKM:13a]
+1 Guerrilla Tactics [DKM:13b]
 2 Incinerate
 2 Pyroclasm
 2 Lava Burst
-1 Icy Manipulator [DKM:36] [foil]
-1 Icy Manipulator [DKM:36s]
+1 Icy Manipulator [DKM:36]
+1 Icy Manipulator [DKM:36s] [foil]
 12 Swamp
 12 Mountain
 1 Sulfurous Springs
