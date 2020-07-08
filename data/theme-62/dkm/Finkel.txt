@@ -23,7 +23,7 @@
 2 Pyroclasm
 2 Lava Burst
 1 Icy Manipulator [DKM:36]
-1 Icy Manipulator [DKM:36s] [foil]
+1 Icy Manipulator [DKM:36★] [foil]
 12 Swamp
 12 Mountain
 1 Sulfurous Springs
