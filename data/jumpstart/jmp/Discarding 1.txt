@@ -12,6 +12,7 @@
 1 Mind Rot
 1 Death's Approach
 1 Thriving Moor
-7 Swamp
+6 Swamp [M21]
+1 Swamp [JMP:55]
 
 Sideboard

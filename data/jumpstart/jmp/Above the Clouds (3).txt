@@ -12,7 +12,7 @@
 1 Lofty Denial
 1 Capture Sphere
 1 Thriving Isle
-7 Island
+7 Island [M21]
 1 Island [JMP:48]
 
 Sideboard

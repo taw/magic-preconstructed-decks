@@ -13,7 +13,7 @@
 1 Zendikar's Roil
 1 Vastwood Zendikon
 1 Thriving Grove
-6 Forest
+6 Forest [M21]
 1 Forest [JMP:71]
 
 Sideboard

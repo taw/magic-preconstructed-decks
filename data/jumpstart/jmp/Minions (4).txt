@@ -13,7 +13,7 @@
 1 Village Rites
 1 Witch's Cauldron
 1 Thriving Moor
-6 Swamp
+6 Swamp [M21]
 1 Swamp [JMP:54]
 
 Sideboard

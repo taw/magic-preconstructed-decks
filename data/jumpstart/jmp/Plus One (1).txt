@@ -12,7 +12,7 @@
 1 Invigorating Surge
 1 Primeval Bounty
 1 Thriving Grove
-7 Forest
+7 Forest [M21]
 1 Forest [JMP:72]
 
 Sideboard

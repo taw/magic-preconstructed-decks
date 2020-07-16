@@ -13,7 +13,7 @@
 1 Guardian Idol
 1 Scroll of Avacyn
 1 Thriving Heath
-6 Plains
+6 Plains [M21]
 1 Plains [JMP:40]
 
 Sideboard

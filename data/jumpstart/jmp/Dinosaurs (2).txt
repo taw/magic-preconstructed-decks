@@ -13,7 +13,7 @@
 1 New Horizons
 1 Garruk's Uprising
 1 Thriving Grove
-6 Forest
+6 Forest [M21]
 1 Forest [JMP:73]
 
 Sideboard

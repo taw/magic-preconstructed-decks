@@ -13,7 +13,7 @@
 1 Lurking Predators
 1 Feral Invocation
 1 Thriving Grove
-6 Forest
+6 Forest [M21]
 1 Forest [JMP:74]
 
 Sideboard

@@ -12,7 +12,7 @@
 1 Lightning Bolt
 1 Lightning Diadem
 1 Thriving Bluff
-6 Mountain
+6 Mountain [M21]
 1 Mountain [JMP:68]
 
 Sideboard

@@ -13,7 +13,7 @@
 1 Collateral Damage
 1 Heartfire
 1 Thriving Bluff
-6 Mountain
+6 Mountain [M21]
 1 Mountain [JMP:63]
 
 Sideboard

@@ -13,7 +13,7 @@
 1 Last Gasp
 1 Eternal Thirst
 1 Thriving Moor
-6 Swamp
+6 Swamp [M21]
 1 Swamp [JMP:60]
 
 Sideboard

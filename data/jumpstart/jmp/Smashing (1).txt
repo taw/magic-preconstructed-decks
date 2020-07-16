@@ -13,7 +13,7 @@
 1 Shock
 1 Furious Rise
 1 Thriving Bluff
-6 Mountain
+6 Mountain [M21]
 1 Mountain [JMP:67]
 
 Sideboard

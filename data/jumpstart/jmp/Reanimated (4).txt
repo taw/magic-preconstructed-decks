@@ -13,7 +13,7 @@
 1 Rise Again
 1 Eliminate
 1 Thriving Moor
-6 Swamp
+6 Swamp [M21]
 1 Swamp [JMP:56]
 
 Sideboard

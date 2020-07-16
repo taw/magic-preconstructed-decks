@@ -13,7 +13,7 @@
 1 Griffin Aerie
 1 Light of Promise
 1 Thriving Heath
-6 Plains
+6 Plains [M21]
 1 Plains [JMP:39]
 
 Sideboard

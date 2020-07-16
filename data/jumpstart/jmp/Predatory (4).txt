@@ -13,7 +13,7 @@
 1 Crushing Canopy
 1 Fungal Rebirth
 1 Thriving Grove
-6 Forest
+6 Forest [M21]
 1 Forest [JMP:76]
 
 Sideboard

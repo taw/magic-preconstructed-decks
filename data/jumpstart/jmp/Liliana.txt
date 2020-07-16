@@ -13,6 +13,6 @@
 1 Cemetery Recruitment
 1 Rise Again
 1 Thriving Moor
-7 Swamp
+7 Swamp [M21]
 
 Sideboard

@@ -13,7 +13,7 @@
 1 Coastal Piracy
 1 Waterknot
 1 Thriving Isle
-6 Island
+6 Island [M21]
 1 Island [JMP:52]
 
 Sideboard

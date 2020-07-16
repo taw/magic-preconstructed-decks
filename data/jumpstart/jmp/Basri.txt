@@ -13,6 +13,6 @@
 1 Feat of Resistance
 1 Faith's Fetters
 1 Thriving Heath
-7 Plains
+7 Plains [M21]
 
 Sideboard
