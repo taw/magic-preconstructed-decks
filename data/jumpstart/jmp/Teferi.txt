@@ -13,6 +13,7 @@
 1 Teferi's Ageless Insight
 1 Teferi's Tutelage
 1 Thriving Isle
-7 Island [M21]
+6 Island [M21]
+1 Island [M21:310]
 
 Sideboard

@@ -13,6 +13,7 @@
 1 Ranger's Guile
 1 Garruk's Uprising
 1 Thriving Grove
-7 Forest [M21]
+6 Forest [M21]
+1 Forest [M21:313]
 
 Sideboard

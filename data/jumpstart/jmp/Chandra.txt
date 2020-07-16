@@ -12,6 +12,7 @@
 1 Hungry Flames
 1 Thrill of Possibility
 1 Thriving Bluff
-7 Mountain [M21]
+6 Mountain [M21]
+1 Mountain [M21:312]
 
 Sideboard
