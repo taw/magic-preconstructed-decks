@@ -1,0 +1,22 @@
+// NAME: Basri, Devoted Paladin
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
+// DATE: 2020-07-03
+1 Basri, Devoted Paladin [foil]
+1 Basri's Lieutenant
+1 Speaker of the Heavens
+1 Perimeter Sergeant
+3 Anointed Chorister
+2 Aven Gagglemaster
+3 Basri's Acolyte
+4 Makeshift Battalion
+3 Tempered Veteran
+4 Adherent of Hope
+3 Sigiled Contender
+2 Basri's Aegis
+3 Fight as One
+2 Swift Response
+2 Banishing Light
+24 Plains
+1 Plains [M21:309]
+
+Sideboard

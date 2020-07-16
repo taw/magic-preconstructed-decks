@@ -1,0 +1,23 @@
+// NAME: Chandra, Flame's Catalyst
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
+// DATE: 2020-07-03
+1 Chandra, Flame's Catalyst [foil]
+1 Chandra's Incinerator
+2 Chandra's Firemaw
+2 Blisterspit Gremlin
+2 Pyroceratops
+3 Chandra's Pyreling
+3 Heartfire Immolator
+2 Spellgorger Weird
+3 Keral Keep Disciples
+4 Storm Caller
+2 Slaying Fire
+2 Infuriate
+3 Shock
+2 Unleash Fury
+2 Sure Strike
+1 Double Vision
+24 Mountain
+1 Mountain [M21:312]
+
+Sideboard
