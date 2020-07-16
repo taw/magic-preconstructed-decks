@@ -28,7 +28,10 @@ class Deck
       if name.sub!(/\[(.*?):(.*?)\]/, "")
         set = $1
         number = $2
+      elsif name.sub!(/\[([^:]+?)\]/, "")
+        set = $1
       end
+
       name.strip!
 
       target << {
