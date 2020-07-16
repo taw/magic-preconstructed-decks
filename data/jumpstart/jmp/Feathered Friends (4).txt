@@ -1,5 +1,6 @@
 // NAME: Feathered Friends (4)
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Archon of Justice
 1 Archon of Redemption
 1 Healer's Hawk

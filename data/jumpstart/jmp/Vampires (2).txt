@@ -1,5 +1,6 @@
 // NAME: Vampires (2)
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Blood Host
 1 Bloodbond Vampire
 1 Gifted Aetherborn

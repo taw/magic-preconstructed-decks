@@ -1,5 +1,6 @@
 // NAME: Teferi
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Teferi, Master of Time
 1 Prescient Chimera
 1 Sage's Row Savant

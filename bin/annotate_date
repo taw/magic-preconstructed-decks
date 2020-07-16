@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+require "pathname"
+
+unless ARGV.size >= 2
+  STDERR.puts "Usage: #{$0} 'date' file1.txt [file2.txt ...]"
+end
+
+date = ARGV.shift
+tag = "// DATE: #{date}\n"
+
+ARGV.each do |path|
+  data = Pathname(path).read
+  next if data =~ /\/\\s*DATE/
+  data = data.lines
+  header = []
+  header << data.shift while data[0] and data[0].start_with?("//")
+  header << tag
+  Pathname(path).open("w") do |fh|
+    fh.puts (header + data).join
+  end
+end

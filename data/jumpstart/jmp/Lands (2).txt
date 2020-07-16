@@ -1,5 +1,6 @@
 // NAME: Lands (2)
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Oracle of Mul Daya
 1 Awakener Druid
 1 Feral Hydra

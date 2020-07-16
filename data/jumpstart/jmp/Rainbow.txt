@@ -1,5 +1,6 @@
 // NAME: Rainbow
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Maelstrom Archangel
 1 Chamber Sentry
 1 Dinrova Horror

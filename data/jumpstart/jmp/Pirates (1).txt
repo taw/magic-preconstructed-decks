@@ -1,5 +1,6 @@
 // NAME: Pirates (1)
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Rishadan Airship
 1 Corsair Captain
 1 Departed Deckhand

@@ -1,5 +1,6 @@
 // NAME: Dogs (2)
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Isamaru, Hound of Konda
 1 Affa Guard Hound
 1 Supply Runners

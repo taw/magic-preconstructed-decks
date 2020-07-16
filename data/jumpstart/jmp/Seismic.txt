@@ -1,5 +1,6 @@
 // NAME: Seismic
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// DATE: 2020-07-17
 1 Grim Lavamancer
 1 Cinder Elemental
 1 Seismic Elemental
