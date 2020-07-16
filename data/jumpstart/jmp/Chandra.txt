@@ -1,0 +1,17 @@
+// NAME: Chandra
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Chandra, Heart of Fire
+1 Pyroclastic Elemental
+1 Young Pyromancer
+1 Fanatical Firebrand
+1 Chandra's Incinerator
+1 Chandra's Pyreling
+2 Chandra's Magmutt
+1 Flames of the Firebrand
+1 Pillar of Flame
+1 Hungry Flames
+1 Thrill of Possibility
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

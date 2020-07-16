@@ -1,0 +1,18 @@
+// NAME: Above the Clouds (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Windreader Sphinx
+1 Warden of Evos Isle
+1 Tide Skimmer
+1 Keen Glidemaster
+1 Roaming Ghostlight
+1 Wall of Runes
+1 Rain of Revelation
+1 Unsubstantiate
+1 Frost Breath
+1 Lofty Denial
+1 Capture Sphere
+1 Thriving Isle
+7 Island
+1 Above the Clouds Island
+
+Sideboard

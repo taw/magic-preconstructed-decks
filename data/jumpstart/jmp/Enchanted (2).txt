@@ -1,0 +1,19 @@
+// NAME: Enchanted (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Ajani's Chosen
+1 Blessed Spirits
+1 Stone Haven Pilgrim
+1 Bulwark Giant
+1 Trusty Retriever
+1 Staunch Shieldmate
+1 Celestial Mantle
+1 Face of Divinity
+1 Knightly Valor
+1 Forced Worship
+1 Indomitable Will
+1 Faith's Fetters
+1 Thriving Heath
+6 Plains
+1 Enchanted Plains
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Milling
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Bruvac the Grandiloquent
+1 Belltower Sphinx
+1 Reckless Scholar
+1 Wall of Lost Thoughts
+1 Selhoff Occultist
+1 Vedalken Entrancer
+1 Towering-Wave Mystic
+1 Sweep Away
+1 Thought Collapse
+1 Thought Scour
+1 Teferi's Tutelage
+1 Capture Sphere
+1 Thriving Isle
+6 Island
+1 Milling Island
+
+Sideboard

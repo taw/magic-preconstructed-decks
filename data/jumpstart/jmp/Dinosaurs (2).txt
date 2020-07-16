@@ -1,0 +1,19 @@
+// NAME: Dinosaurs (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Selvala, Heart of the Wilds
+1 Drover of the Mighty
+1 Thundering Spineback
+1 Orazca Frillback
+1 Colossal Dreadmaw
+1 Ornery Dilophosaur
+1 Drowsing Tyrannodon
+1 Savage Stomp
+1 Commune with Dinosaurs
+1 Crushing Canopy
+1 New Horizons
+1 Garruk's Uprising
+1 Thriving Grove
+6 Forest
+1 Dinosaurs Forest
+
+Sideboard

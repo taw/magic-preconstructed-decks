@@ -1,0 +1,19 @@
+// NAME: Spellingcasting (1)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Thermo-Alchemist
+1 Living Lightning
+1 Lightning Visionary
+1 Chandra's Pyreling
+1 Kinetic Augur
+1 Heartfire Immolator
+1 Blindblast
+1 Hungry Flames
+1 Goblin Wizardry
+1 Shock
+1 Thrill of Possibility
+1 Double Vision
+1 Thriving Bluff
+6 Mountain
+1 Spellcasting Mountain
+
+Sideboard

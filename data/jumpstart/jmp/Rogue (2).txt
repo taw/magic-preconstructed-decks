@@ -1,0 +1,19 @@
+// NAME: Rogue (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Corpse Traders
+1 Oona's Blackguard
+1 Corpse Hauler
+1 Lawless Broker
+1 Nightshade Stinger
+1 Nocturnal Feeder
+1 Thieves' Guild Enforcer
+1 Masked Blackguard
+1 Last Gasp
+1 Alchemist's Gift
+1 Rogue's Gloves
+1 Stab Wound
+1 Thriving Moor
+6 Swamp
+1 Rogues Swamp
+
+Sideboard

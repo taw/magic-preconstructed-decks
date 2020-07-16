@@ -1,0 +1,18 @@
+// NAME: Devilish (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Tibalt's Rager
+1 Zurzoth, Chaos Rider
+1 Chained Brute
+1 Spiteful Prankster
+2 Torch Fiend
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+1 Traitorous Greed
+1 Collateral Damage
+1 Heartfire
+1 Thriving Bluff
+6 Mountain
+1 Devilish Mountain
+
+Sideboard

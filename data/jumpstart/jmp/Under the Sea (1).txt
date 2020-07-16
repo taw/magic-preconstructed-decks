@@ -1,0 +1,18 @@
+// NAME: Under the Sea (1)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Sigiled Starfish
+1 Octoprophet
+1 Wishful Merfolk
+1 Aegis Turtle
+1 Pursued Whale
+1 Tolarian Kraken
+1 Waker of Waves
+1 Voyage's End
+1 Unstable Obelisk
+1 Waterknot
+1 Rousing Read
+1 Thriving Isle
+7 Island
+1 Under the Sea Island
+
+Sideboard

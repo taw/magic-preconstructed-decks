@@ -1,0 +1,19 @@
+// NAME: Feathered Friends (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Angel of the Dire Hour
+1 Healer's Hawk
+1 Aven Gagglemaster
+1 Falconer Adept
+1 Concordia Pegasus
+1 Warded Battlements
+1 Gale Swooper
+1 Celestial Enforcer
+1 Dauntless Onslaught
+1 Take Heart
+1 Swift Response
+1 Sky Tether
+1 Thriving Heath
+6 Plains
+1 Feathered Friends Plains
+
+Sideboard

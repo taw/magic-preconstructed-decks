@@ -1,0 +1,18 @@
+// NAME: Witchcraft (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Tempting Witch
+1 Bogbrew Witch
+1 Witch of the Moors
+1 Swarm of Bloodflies
+1 Black Cat
+1 Bloodhunter Bat
+2 Festering Newt
+1 Blood Divination
+1 Bake into a Pie
+1 Last Gasp
+1 Bubbling Cauldron
+1 Thriving Moor
+6 Swamp
+1 Witchcraft Swamp
+
+Sideboard

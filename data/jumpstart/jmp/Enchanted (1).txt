@@ -1,0 +1,19 @@
+// NAME: Enchanted (1)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Kor Spiritdancer
+1 Blessed Spirits
+1 Stone Haven Pilgrim
+1 Trusty Retriever
+1 Knight of the Tusk
+1 Anointed Chorister
+1 Face of Divinity
+1 Knightly Valor
+1 Forced Worship
+1 Indomitable Will
+1 Faith's Fetters
+1 Dub
+1 Thriving Heath
+6 Plains
+1 Enchanted Plains
+
+Sideboard

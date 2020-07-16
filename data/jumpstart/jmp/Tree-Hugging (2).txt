@@ -1,0 +1,19 @@
+// NAME: Tree-Hugging (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Primordial Sage
+1 Wall of Blossoms
+1 Ambassador Oak
+1 Burlfist Oak
+1 Warden of the Woods
+1 Llanowar Visionary
+1 Snarespinner
+1 Gnarled Sage
+1 Nature's Way
+1 Explore
+1 Crushing Canopy
+1 Wildsize
+1 Thriving Grove
+6 Forest
+1 Tree Hugging Forest
+
+Sideboard

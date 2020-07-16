@@ -17,6 +17,7 @@ DeckTypes = {
   "intro-30"      => { size: 30, sideboard: 0, name: "Intro Pack" },
   "intro-41"      => { size: 41, sideboard: 0, name: "Intro Pack" },
   "intro"         => { size: 60, sideboard: 0, name: "Intro Pack" },
+  "jumpstart"     => { size: 20, sideboard: 0, name: "Jumpstart" },
   "mtgo"          => { size: 60, sideboard: [0,15], name: "MTGO Theme Deck" },
   "planechase"    => { size: 60, sideboard: [0,10], name: "Planechase Deck" },
   "premium"       => { size: 60, sideboard: 0, name: "Premium Deck" },

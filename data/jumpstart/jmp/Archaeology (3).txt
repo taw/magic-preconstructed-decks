@@ -1,0 +1,19 @@
+// NAME: Archaeology (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Sharding Sphinx
+1 Vedalken Archmage
+1 Juggernaut
+1 Meteor Golem
+1 Ancestral Statue
+2 Archaeomender
+1 Lightning-Core Excavator
+1 Prismite
+1 Thirst for Knowledge
+1 Hedron Archive
+1 AEther Spellbomb
+1 Buried Ruin
+1 Thriving Isle
+5 Island
+1 Archaeology Island
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Phyrexian
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Sheoldred, Whispering One
+1 Entomber Exarch
+1 Phyrexian Gargantua
+1 Myr Sire
+1 Perilous Myr
+1 Phyrexian Broodlings
+1 Phyrexian Debaser
+1 Phyrexian Rager
+1 Douse in Gloom
+1 Malefic Scythe
+1 Phyrexian Reclamation
+1 Parasitic Implant
+1 Thriving Moor
+6 Swamp
+1 Phyrexian Swamp
+
+Sideboard

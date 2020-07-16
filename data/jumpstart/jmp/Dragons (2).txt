@@ -1,0 +1,18 @@
+// NAME: Dragons (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Lathliss, Dragon Queen
+1 Rapacious Dragon
+1 Dragonlord's Servant
+1 Furnace Whelp
+1 Dragon Hatchling
+1 Lightning Shrieker
+1 Gadrak, the Crown-Scourge
+1 Hellkite Punisher
+1 Dragon Fodder
+1 Draconic Roar
+1 Sarkhan's Rage
+1 Thriving Bluff
+7 Mountain
+1 Dragons Mountain
+
+Sideboard

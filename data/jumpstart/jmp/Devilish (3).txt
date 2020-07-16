@@ -1,0 +1,19 @@
+// NAME: Devilish (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Chained Brute
+1 Spiteful Prankster
+1 Lightning-Core Excavator
+1 Torch Fiend
+1 Brash Taunter
+1 Havoc Jester
+1 Hobblefiend
+1 Pitchburn Devils
+1 Act of Treason
+1 Traitorous Greed
+1 Dance with Devils
+1 Collateral Damage
+1 Thriving Bluff
+6 Mountain
+1 Devilish Mountain
+
+Sideboard

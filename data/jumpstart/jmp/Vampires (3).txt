@@ -1,0 +1,19 @@
+// NAME: Vampires (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Sangromancer
+1 Bloodbond Vampire
+1 Gifted Aetherborn
+1 Sengir Vampire
+1 Nocturnal Feeder
+1 Vampire Neonate
+1 Silversmote Ghoul
+1 Gloom Sower
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Exquisite Blood
+1 Thriving Moor
+6 Swamp
+1 Vampires Swamp
+
+Sideboard

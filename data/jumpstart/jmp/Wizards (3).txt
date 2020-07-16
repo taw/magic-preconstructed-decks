@@ -1,0 +1,19 @@
+// NAME: Wizards (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Talrand, Sky Summoner
+1 Sage's Row Savant
+1 Shipwreck Dowser
+1 Vodalian Arcanist
+1 Teferi's Protege
+1 Talrand's Invocation
+1 Winged Words
+1 Read the Tides
+1 Wizard's Retort
+1 Unsubstantiate
+1 Opt
+1 Capture Sphere
+1 Thriving Isle
+6 Island
+1 Wizards Island
+
+Sideboard

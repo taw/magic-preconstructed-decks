@@ -1,0 +1,19 @@
+// NAME: Minotaurs (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Rageblood Shaman
+1 Sethron, Hurloon General
+1 Bloodrage Brawler
+1 Borderland Minotaur
+1 Lightning Visionary
+1 Minotaur Skullcleaver
+1 Minotaur Sureshot
+1 Flurry of Horns
+1 Traitorous Greed
+1 Unleash Fury
+1 Soul Sear
+1 Sure Strike
+1 Thriving Bluff
+6 Mountain
+1 Minotaurs Mountain
+
+Sideboard

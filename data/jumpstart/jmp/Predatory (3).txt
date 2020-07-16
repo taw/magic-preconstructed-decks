@@ -1,0 +1,19 @@
+// NAME: Predatory (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Thragtusk
+1 Somberwald Stag
+1 Brindle Shoat
+1 Dawntreader Elk
+1 Gingerbrute
+1 Trufflesnout
+1 Sabertooth Mauler
+1 Irresistible Prey
+1 Time to Feed
+1 Crushing Canopy
+1 Fungal Rebirth
+1 Marauder's Axe
+1 Thriving Grove
+6 Forest
+1 Time to Feed Forest
+
+Sideboard

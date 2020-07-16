@@ -1,0 +1,19 @@
+// NAME: Vampires (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Blood Host
+1 Bloodbond Vampire
+1 Gifted Aetherborn
+1 Child of Night
+1 Nocturnal Feeder
+1 Vito, Thorn of the Dusk Rose
+1 Silversmote Ghoul
+1 Gloom Sower
+1 Agonizing Syphon
+1 Sanguine Indulgence
+1 Last Gasp
+1 Eternal Thirst
+1 Thriving Moor
+6 Swamp
+1 Vampires Swamp
+
+Sideboard

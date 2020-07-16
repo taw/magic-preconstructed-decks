@@ -1,0 +1,18 @@
+// NAME: Witchcraft (1)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Bogbrew Witch
+1 Witch of the Moors
+1 Malakir Familiar
+1 Tempting Witch
+1 Bloodhunter Bat
+1 Cauldron Familiar
+2 Festering Newt
+1 Bake into a Pie
+1 Finishing Blow
+1 Bubbling Cauldron
+1 Witch's Cauldron
+1 Thriving Moor
+6 Swamp
+1 Witchcraft Swamp
+
+Sideboard

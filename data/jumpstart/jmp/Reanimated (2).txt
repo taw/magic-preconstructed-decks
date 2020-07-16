@@ -1,0 +1,19 @@
+// NAME: Reanimated (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Mire Triton
+1 Crow of Dark Tidings
+1 Miasmic Mummy
+1 Carrion Grub
+1 Goremand
+1 Crypt Lurker
+1 Gloom Sower
+1 Reanimate
+1 Funeral Rites
+1 Macabre Waltz
+1 Rise Again
+1 Eliminate
+1 Thriving Moor
+6 Swamp
+1 Reanimated Swamp
+
+Sideboard

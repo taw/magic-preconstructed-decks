@@ -1,0 +1,19 @@
+// NAME: Doctor (3)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Rhox Faithmender
+1 Brightmare
+1 Angel of Mercy
+1 Mesa Unicorn
+1 Anointed Chorister
+1 Basri's Acolyte
+1 Moment of Heroism
+1 Swift Response
+1 Revitalize
+1 Griffin Aerie
+1 Light of Promise
+1 Faith's Fetters
+1 Thriving Heath
+6 Plains
+1 Doctor Plains
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Legion (4)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Lena, Selfless Champion
+1 Mentor of the Meek
+1 Siege Striker
+1 Selfless Savior
+1 Valorous Steed
+1 Daybreak Charger
+1 Makeshift Battalion
+1 Basri's Solidarity
+1 Legion's Judgment
+1 Fortify
+1 Raise the Alarm
+1 Faith's Fetters
+1 Thriving Heath
+6 Plains
+1 Legion Plains
+
+Sideboard

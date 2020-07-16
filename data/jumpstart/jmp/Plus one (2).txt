@@ -1,0 +1,18 @@
+// NAME: Plus one (2)
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+1 Armorcraft Judge
+1 Nessian Hornbeetle
+1 Fertilid
+1 Ironshell Beetle
+1 Wildwood Scourge
+1 Trufflesnout
+1 Pridemalkin
+1 Hunter's Edge
+1 Arbor Armament
+1 Invigorating Surge
+1 Branching Evolution
+1 Thriving Grove
+7 Forest
+1 Plus One Forest
+
+Sideboard
