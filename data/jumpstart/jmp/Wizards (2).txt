@@ -15,6 +15,6 @@
 1 Riptide Laboratory
 1 Thriving Isle
 5 Island
-1 Wizards Island
+1 Island [JMP:47]
 
 Sideboard

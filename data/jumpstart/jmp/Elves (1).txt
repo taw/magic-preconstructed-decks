@@ -14,6 +14,6 @@
 1 Presence of Gond
 1 Thriving Grove
 6 Forest
-1 Elves Forest
+1 Forest [JMP:77]
 
 Sideboard

@@ -14,6 +14,6 @@
 1 Buried Ruin
 1 Thriving Isle
 5 Island
-1 Archaeology Island
+1 Island [JMP:49]
 
 Sideboard

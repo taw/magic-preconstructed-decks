@@ -14,6 +14,6 @@
 1 Duelist's Heritage
 1 Thriving Heath
 6 Plains
-1 Heavily Armed Plains
+1 Plains [JMP:43]
 
 Sideboard

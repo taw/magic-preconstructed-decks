@@ -15,6 +15,6 @@
 1 Phyrexian Tower
 1 Thriving Moor
 5 Swamp
-1 Minions Swamp
+1 Swamp [JMP:54]
 
 Sideboard

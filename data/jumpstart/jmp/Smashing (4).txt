@@ -14,6 +14,6 @@
 1 Furor of the Bitten
 1 Thriving Bluff
 6 Mountain
-1 Smashing Mountain
+1 Mountain [JMP:67]
 
 Sideboard

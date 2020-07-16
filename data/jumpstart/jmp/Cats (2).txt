@@ -14,6 +14,6 @@
 1 Feral Invocation
 1 Thriving Grove
 6 Forest
-1 Cats Forest
+1 Forest [JMP:74]
 
 Sideboard

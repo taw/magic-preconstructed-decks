@@ -13,6 +13,6 @@
 1 Lightning Diadem
 1 Thriving Bluff
 6 Mountain
-1 Lightning Mountain
+1 Mountain [JMP:68]
 
 Sideboard

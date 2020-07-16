@@ -14,6 +14,6 @@
 1 Herald's Horn
 1 Thriving Bluff
 6 Mountain
-1 Minotaurs Mountain
+1 Mountain [JMP:69]
 
 Sideboard

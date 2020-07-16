@@ -14,6 +14,6 @@
 1 Dub
 1 Thriving Heath
 6 Plains
-1 Enchanted Plains
+1 Plains [JMP:42]
 
 Sideboard

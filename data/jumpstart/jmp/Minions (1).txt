@@ -14,6 +14,6 @@
 1 Witch's Cauldron
 1 Thriving Moor
 6 Swamp
-1 Minions Swamp
+1 Swamp [JMP:54]
 
 Sideboard

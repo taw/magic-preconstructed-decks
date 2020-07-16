@@ -13,6 +13,6 @@
 1 Witch's Cauldron
 1 Thriving Moor
 6 Swamp
-1 Witchcraft Swamp
+1 Swamp [JMP:59]
 
 Sideboard

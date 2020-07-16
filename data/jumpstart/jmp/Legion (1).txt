@@ -14,6 +14,6 @@
 1 Blessed Sanctuary
 1 Thriving Heath
 6 Plains
-1 Legion Plains
+1 Plains [JMP:38]
 
 Sideboard

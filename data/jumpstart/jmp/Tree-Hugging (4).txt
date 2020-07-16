@@ -14,6 +14,6 @@
 1 Verdant Embrace
 1 Thriving Grove
 6 Forest
-1 Tree Hugging Forest
+1 Forest [JMP:70]
 
 Sideboard

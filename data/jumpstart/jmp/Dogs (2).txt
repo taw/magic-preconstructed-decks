@@ -14,6 +14,6 @@
 1 Pacifism
 1 Thriving Heath
 6 Plains
-1 Dogs Plains
+1 Plains [JMP:45]
 
 Sideboard

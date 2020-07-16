@@ -14,6 +14,6 @@
 1 Setessan Training
 1 Thriving Grove
 6 Forest
-1 Dinosaurs Forest
+1 Forest [JMP:73]
 
 Sideboard

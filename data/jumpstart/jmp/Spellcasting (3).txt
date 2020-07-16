@@ -14,6 +14,6 @@
 1 Thrill of Possibility
 1 Thriving Bluff
 6 Mountain
-1 Spellcasting Mountain
+1 Mountain [JMP:66]
 
 Sideboard

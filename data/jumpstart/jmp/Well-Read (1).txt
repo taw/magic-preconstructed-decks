@@ -14,6 +14,6 @@
 1 Rousing Read
 1 Thriving Isle
 6 Island
-1 Well-Read Island
+1 Island [JMP:53]
 
 Sideboard

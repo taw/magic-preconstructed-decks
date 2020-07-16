@@ -14,6 +14,6 @@
 1 Vastwood Zendikon
 1 Thriving Grove
 6 Forest
-1 Lands Forest
+1 Forest [JMP:71]
 
 Sideboard

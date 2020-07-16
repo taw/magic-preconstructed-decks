@@ -14,6 +14,6 @@
 1 Barrage of Expendables
 1 Thriving Bluff
 6 Mountain
-1 Devilish Mountain
+1 Mountain [JMP:63]
 
 Sideboard

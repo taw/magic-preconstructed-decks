@@ -13,6 +13,6 @@
 1 Waterknot
 1 Thriving Isle
 7 Island
-1 Under the Sea Island
+1 Island [JMP:46]
 
 Sideboard

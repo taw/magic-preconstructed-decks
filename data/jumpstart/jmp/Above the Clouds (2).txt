@@ -15,6 +15,6 @@
 1 Capture Sphere
 1 Thriving Isle
 5 Island
-1 Above the Clouds Island
+1 Island [JMP:48]
 
 Sideboard

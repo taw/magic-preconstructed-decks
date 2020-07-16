@@ -13,6 +13,6 @@
 1 Invigorating Surge
 1 Thriving Grove
 7 Forest
-1 Plus One Forest
+1 Forest [JMP:72]
 
 Sideboard
