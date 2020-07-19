@@ -1,29 +1,29 @@
 // NAME: Angry Non-Hermit
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
 4 Avalanche Riders
-4 Birds of Paradise
+4 Birds of Paradise [WC00:jk217]
 4 Blastoderm
-4 Llanowar Elves
-2 Masticore
-2 Priest of Titania
+4 Llanowar Elves [WC00:jk239]
+2 Masticore [WC00:jk134]
+2 Priest of Titania [WC00:jk270]
 4 Arc Lightning
-1 Creeping Mold
+1 Creeping Mold [WC00:jk220]
 4 Plow Under
 4 Stone Rain
 2 Saproling Burst
-1 Phyrexian Processor
+1 Phyrexian Processor [WC00:jk306]
 2 Dust Bowl
 10 Forest
 4 Karplusan Forest
 4 Mountain
-4 Rishadan Port
+4 Rishadan Port [WC00:jk324]
 
 Sideboard
 4 Boil
-1 Creeping Mold
+1 Creeping Mold [WC00:jk220sb]
 2 Flameshot
-1 Masticore
-1 Phyrexian Processor
+1 Masticore [WC00:jk134sb]
+1 Phyrexian Processor [WC00:jk306sb]
 2 Rack and Ruin
 1 Splinter
 3 Uktabi Orangutan

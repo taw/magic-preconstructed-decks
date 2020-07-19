@@ -1,14 +1,14 @@
 // NAME: Chimera
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
 4 Academy Rector
-4 Birds of Paradise
-4 Llanowar Elves
-4 Priest of Titania
+4 Birds of Paradise [WC00:nl217]
+4 Llanowar Elves [WC00:nl239]
+4 Priest of Titania [WC00:nl270]
 1 Serra Avatar
 4 Ashnod's Altar
 1 Snake Basket
 1 Whetstone
-4 Enlightened Tutor
+4 Enlightened Tutor [WC00:nl19]
 1 Confiscate
 4 Fecundity
 1 Pattern of Rebirth
@@ -32,7 +32,7 @@ Sideboard
 1 Heart of Ramos
 1 Light of Day
 1 Meekstone
-1 Parallax Wave
-1 Phyrexian Processor
-1 Seal of Cleansing
+1 Parallax Wave [WC00:nl17sb]
+1 Phyrexian Processor [WC00:nl306sb]
+1 Seal of Cleansing [WC00:nl18sb]
 1 Worship

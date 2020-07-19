@@ -4,28 +4,28 @@
 1 Energy Field
 4 Opalescence
 3 Parallax Tide
-4 Parallax Wave
-1 Seal of Cleansing
+4 Parallax Wave [WC00:tvdl17]
+1 Seal of Cleansing [WC00:tvdl18]
 1 Seal of Removal
 3 Counterspell
-3 Enlightened Tutor
+3 Enlightened Tutor [WC00:tvdl19]
 4 Frantic Search
 1 Mystical Tutor
 4 Replenish
-1 Wrath of God
+1 Wrath of God [WC00:tvdl54]
 1 Sky Diamond
 9 Island
 8 Plains
-4 Rishadan Port
+4 Rishadan Port [WC00:tvdl324]
 4 Adarkar Wastes
 
 Sideboard
-1 Chill
+1 Chill [WC00:tvdl60sb]
 1 Circle of Protection: Black
 1 Cursed Totem
 2 Daze
 3 Erase
 2 Lilting Refrain
-1 Seal of Cleansing
+1 Seal of Cleansing [WC00:tvdl18sb]
 2 Submerge
-2 Wrath of God
+2 Wrath of God [WC00:tvdl54sb]

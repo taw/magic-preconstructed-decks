@@ -29,6 +29,6 @@ DeckTypes = {
   "theme-40"      => { size: 40, sideboard: 0, name: "Theme Deck" },
   "theme-61"      => { size: 61, sideboard: 0, name: "Theme Deck" },
   "theme-62"      => { size: 62, sideboard: 0, name: "Theme Deck" },
-  "wc"            => { size: 60, sideboard: 15, name: "World Championship Decks" },
+  "wc"            => { size: [60,61], sideboard: 15, name: "World Championship Decks" },
   "welcome"       => { size: 30, sideboard: 0, name: "Welcome Deck" },
 }
