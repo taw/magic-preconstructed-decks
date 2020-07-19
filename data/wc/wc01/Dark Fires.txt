@@ -5,22 +5,22 @@
 4 Blastoderm
 4 Thornscape Battlemage
 2 Spiritmonger
-2 Flametongue Kavu
-2 Kavu Chameleon
+2 Flametongue Kavu [WC01:jt60]
+2 Kavu Chameleon [WC01:jt191]
 4 Fires of Yavimaya
 4 Saproling Burst
-4 Fire // Ice
-2 Urza's Rage
+4 Fire // Ice [WC01:jt128a]
+2 Urza's Rage [WC01:jt178]
 8 Forest
 3 Mountain
 2 City of Brass
 2 Llanowar Wastes
-2 Sulfurous Springs
+2 Sulfurous Springs [WC01:jt345]
 3 Karplusan Forest
-4 Rishadan Port
+4 Rishadan Port [WC01:jt324]
 
 Sideboard
-2 Kavu Chameleon
+2 Kavu Chameleon [WC01:jt191sb]
 2 Obliterate
 3 Thunderscape Battlemage
 3 Blood Oath

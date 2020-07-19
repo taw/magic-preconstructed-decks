@@ -3,25 +3,25 @@
 4 Plague Spitter
 3 Phyrexian Scuta
 3 Skizzik
-2 Flametongue Kavu
-2 Crypt Angel
+2 Flametongue Kavu [WC01:tvdl60]
+2 Crypt Angel [WC01:tvdl97]
 4 Blazing Specter
-4 Duress
+4 Duress [WC01:tvdl131]
 4 Dark Ritual
 4 Terminate
 3 Vendetta
-3 Urza's Rage
+3 Urza's Rage [WC01:tvdl178]
 6 Swamp
 6 Mountain
-4 Rishadan Port
-4 Urborg Volcano
-4 Sulfurous Springs
+4 Rishadan Port [WC01:tvdl324]
+4 Urborg Volcano [WC01:tvdl330]
+4 Sulfurous Springs [WC01:tvdl345]
 
 Sideboard
 4 Scoria Cat
 3 Addle
 2 Persecute
-1 Pyroclasm
+1 Pyroclasm [WC01:tvdl209sb]
 3 Phyrexian Arena
-1 Flametongue Kavu
-1 Crypt Angel
+1 Flametongue Kavu [WC01:tvdl60sb]
+1 Crypt Angel [WC01:tvdl97sb]
