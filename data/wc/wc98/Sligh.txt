@@ -11,15 +11,15 @@
 2 Hammer of Bogardan
 4 Incinerate
 4 Shock
-4 Cursed Scroll
+4 Cursed Scroll [WC98:br281]
 17 Mountain
-4 Wasteland
+4 Wasteland [WC98:br330]
 
 Sideboard
 3 Bottle Gnomes
 2 Dwarven Miner
 2 Dwarven Thaumaturgist
 1 Final Fortune
-1 Firestorm
-4 Pyroblast
+1 Firestorm [WC98:br101sb]
+4 Pyroblast [WC98:br213sb]
 2 Shattering Pulse

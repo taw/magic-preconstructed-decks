@@ -5,9 +5,9 @@
 4 Llanowar Elves
 4 Pouncing Jaguar
 4 River Boa
-2 Uktabi Orangutan
+2 Uktabi Orangutan [WC99:ml260]
 4 Wild Dogs
-4 Cursed Scroll
+4 Cursed Scroll [WC99:ml281]
 4 Rancor
 4 Giant Growth
 14 Forest
@@ -19,6 +19,6 @@ Sideboard
 2 Constant Mists
 1 Hurricane
 2 Overrun
-3 Thran Foundry
-2 Uktabi Orangutan
+3 Thran Foundry [WC99:ml140sb]
+2 Uktabi Orangutan [WC99:ml260sb]
 2 Weatherseed Treefolk

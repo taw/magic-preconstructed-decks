@@ -8,17 +8,17 @@
 4 Soul Warden
 4 Warrior en-Kor
 4 White Knight
-1 Aura of Silence
+1 Aura of Silence [WC98:bh7b]
 4 Empyrial Armor
 4 Cataclysm
-3 Disenchant
+3 Disenchant [WC98:bh16]
 4 Tithe
 17 Plains
 
 Sideboard
 3 Abeyance
 2 Armageddon
-3 Aura of Silence
-3 Cursed Scroll
-1 Disenchant
+3 Aura of Silence [WC98:bh7bsb]
+3 Cursed Scroll [WC98:bh281sb]
+1 Disenchant [WC98:bh16sb]
 3 Spirit Link

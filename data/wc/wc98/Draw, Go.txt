@@ -20,4 +20,4 @@ Sideboard
 1 Grindstone
 4 Hydroblast
 4 Sea Sprite
-4 Wasteland
+4 Wasteland [WC98:rb330sb]

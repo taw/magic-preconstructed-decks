@@ -1,25 +1,25 @@
 // NAME: Sped Red
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 4 Avalanche Riders
-3 Fireslinger
+3 Fireslinger [WC99:mlp173]
 4 Jackal Pup
 4 Mogg Fanatic
-4 Cursed Scroll
+4 Cursed Scroll [WC99:mlp281]
 4 Shock
-2 Arc Lightning
+2 Arc Lightning [WC99:mlp174]
 3 Hammer of Bogardan
 4 Pillage
 4 Stone Rain
-2 Ancient Tomb
+2 Ancient Tomb [WC99:mlp315]
 2 Ghitu Encampment
 16 Mountain
-4 Wasteland
+4 Wasteland [WC99:mlp330]
 
 Sideboard
-1 Arc Lightning
-1 Fireslinger
+1 Arc Lightning [WC99:mlp174sb]
+1 Fireslinger [WC99:mlp173sb]
 1 Flowstone Flood
-2 Masticore
+2 Masticore [WC99:mlp134sb]
 4 Scald
-2 Shattering Pulse
-4 Thran Foundry
+2 Shattering Pulse [WC99:mlp102sb]
+4 Thran Foundry [WC99:mlp140sb]

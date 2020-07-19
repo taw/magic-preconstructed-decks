@@ -2,25 +2,25 @@
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 4 Covetous Dragon
 1 Karn, Silver Golem
-3 Masticore
-4 Cursed Scroll
+3 Masticore [WC99:kb143b]
+4 Cursed Scroll [WC99:kb281]
 4 Fire Diamond
 4 Grim Monolith
-2 Mishra's Helix
+2 Mishra's Helix [WC99:kb302]
 4 Temporal Aperture
 4 Thran Dynamo
 4 Voltaic Key
 2 Worn Powerstone
 4 Wildfire
-3 Ancient Tomb
+3 Ancient Tomb [WC99:kb315]
 4 City of Traitors
 13 Mountain
 
 Sideboard
 2 Boil
 3 Earthquake
-1 Mishra's Helix
+1 Mishra's Helix [WC99:kb302sb]
 1 Phyrexian Processor
 2 Rack and Ruin
-2 Shattering Pulse
+2 Shattering Pulse [WC99:kb102sb]
 4 Spellshock

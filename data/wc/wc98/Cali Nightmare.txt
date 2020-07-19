@@ -14,7 +14,7 @@
 1 Verdant Force
 4 Wall of Blossoms
 2 Wall of Roots
-2 Firestorm
+2 Firestorm [WC98:bs101]
 2 Lobotomy
 4 Recurring Nightmare
 4 Survival of the Fittest
@@ -35,5 +35,5 @@ Sideboard
 3 Emerald Charm
 1 Hall of Gemstone
 2 Phyrexian Furnace
-2 Pyroblast
+2 Pyroblast [WC98:bs213sb]
 1 Staunch Defenders

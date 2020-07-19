@@ -1,16 +1,16 @@
 // NAME: Mono-Black Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
-1 Bottle Gnomes
-1 Phyrexian Negator
+1 Bottle Gnomes [WC99:js278]
+1 Phyrexian Negator [WC99:js65]
 3 Phyrexian Plaguelord
 3 Ravenous Rats
 2 Ticking Gnomes
-3 Cursed Scroll
+3 Cursed Scroll [WC99:js281]
 4 Powder Keg
 2 Corpse Dance
 4 Dark Ritual
 4 Diabolic Edict
-1 Rapid Decay
+1 Rapid Decay [WC99:js67]
 1 Vampiric Tutor
 4 Duress
 2 Stupor
@@ -18,16 +18,16 @@
 2 Spawning Pool
 15 Swamp
 1 Volrath's Stronghold
-4 Wasteland
+4 Wasteland [WC99:js330]
 
 Sideboard
-1 Bottle Gnomes
+1 Bottle Gnomes [WC99:js278sb]
 2 Carrion Beetles
 1 Evincar's Justice
 1 Hatred
 2 Perish
 1 Persecute
-2 Phyrexian Negator
-3 Rapid Decay
+2 Phyrexian Negator [WC99:js65sb]
+3 Rapid Decay [WC99:js67sb]
 1 Sphere of Resistance
 1 Stromgald Cabal
