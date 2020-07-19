@@ -1,29 +1,29 @@
 // NAME: Red-White-Blue Speed Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
-4 Frenetic Efreet
-4 Wildfire Emissary
+4 Frenetic Efreet [WC97:jk264]
+4 Wildfire Emissary [WC97:jk203]
 3 Abeyance
-4 Counterspell
-2 Disenchant
-4 Force of Will
+4 Counterspell [WC97:jk77]
+2 Disenchant [WC97:jk26]
+4 Force of Will [WC97:jk28]
 4 Impulse
-4 Incinerate
+4 Incinerate [WC97:jk242]
 4 Swords to Plowshares
-2 Disintegrate
+2 Disintegrate [WC97:jk219]
 2 Hammer of Bogardan
-1 Pillage
-1 City of Brass
+1 Pillage [WC97:jk76]
+1 City of Brass [WC97:jk413]
 6 Island
 6 Mountain
 4 Plains
 4 Thawing Glaciers
-1 Undiscovered Paradise
+1 Undiscovered Paradise [WC97:jk167]
 
 Sideboard
 2 Circle of Protection: Black
 3 Circle of Protection: Red
-2 Disenchant
-2 Earthquake
+2 Disenchant [WC97:jk26sb]
+2 Earthquake [WC97:jk223sb]
 1 Kjeldoran Outpost
 2 Political Trickery
-3 Pyroblast
+3 Pyroblast [WC97:jk262sb]

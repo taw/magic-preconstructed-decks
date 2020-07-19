@@ -1,30 +1,30 @@
-// NAME: Prismatic Black Agro
+// NAME: Prismatic Black Aggro
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
 4 Black Knight
 4 Fallen Askari
 4 Knight of Stromgald
-4 Man-o'-War
+4 Man-o'-War [WC97:js37]
 1 Necratog
 4 Nekrataal
 2 Shadow Guildmage
-2 Uktabi Orangutan
+2 Uktabi Orangutan [WC97:js123]
 4 Contagion
-4 Incinerate
+4 Incinerate [WC97:js242]
 4 Choking Sands
-2 Earthquake
-3 City of Brass
+2 Earthquake [WC97:js223]
+3 City of Brass [WC97:js413]
 3 Gemstone Mine
 2 Sulfurous Springs
 10 Swamp
 1 Underground River
-3 Undiscovered Paradise
+3 Undiscovered Paradise [WC97:js167]
 
 Sideboard
-2 Disenchant
+2 Disenchant [WC97:js26sb]
 2 Dystopia
 2 Ebony Charm
 1 Exile
 2 Forsaken Wastes
 1 Honorable Passage
-2 Hydroblast
-3 Pyroblast
+2 Hydroblast [WC97:js94sb]
+3 Pyroblast [WC97:js262sb]

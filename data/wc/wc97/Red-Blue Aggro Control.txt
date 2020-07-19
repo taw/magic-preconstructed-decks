@@ -1,0 +1,31 @@
+// NAME: Red-Blue Aggro Control
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
+4 Cloud Elemental
+4 Man-o'-War [WC97:pm37b]
+4 Ophidian
+3 Suq'Ata Lancer
+1 Wildfire Emissary [WC97:pm203]
+2 Frenetic Efreet [WC97:pm264]
+2 Abduction
+2 Disrupt
+4 Counterspell [WC97:pm77]
+4 Force of Will [WC97:pm28]
+4 Incinerate [WC97:pm242]
+2 Pyrokinesis [WC97:pm78]
+1 Disintegrate [WC97:pm219]
+3 Mind Stone
+10 Island
+6 Mountain
+2 City of Brass [WC97:pm413]
+2 Undiscovered Paradise [WC97:pm167]
+
+Sideboard
+1 Phyrexian Furnace
+1 Nevinyrral's Disk
+1 Serrated Arrows
+4 Knight of the Mists
+1 Hydroblast [WC97:pm94sb]
+1 Dissipate
+2 Pyroblast [WC97:pm262sb]
+3 Pillage [WC97:pm76sb]
+1 Pyrokinesis [WC97:pm78sb]
