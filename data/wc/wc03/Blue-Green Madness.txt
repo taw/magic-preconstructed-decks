@@ -4,28 +4,28 @@
 3 Arrogant Wurm
 4 Basking Rootwalla
 4 Wild Mongrel
-3 Wonder
-4 Circular Logic
-1 Krosan Reclamation
-1 Ray of Revelation
-3 Unsummon
+3 Wonder [WC03:dh54]
+4 Circular Logic [WC03:dh33]
+1 Krosan Reclamation [WC03:dh122]
+1 Ray of Revelation [WC03:dh20]
+3 Unsummon [WC03:dh112]
 4 Careful Study
-2 Deep Analysis
+2 Deep Analysis [WC03:dh36]
 2 Quiet Speculation
 3 Roar of the Wurm
 1 Centaur Garden
-2 City of Brass
+2 City of Brass [WC03:dh322]
 8 Forest
 11 Island
 
 Sideboard
-1 Deep Analysis
+1 Deep Analysis [WC03:dh36sb]
 2 Envelop
-1 Krosan Reclamation
-2 Mana Leak
+1 Krosan Reclamation [WC03:dh122sb]
+2 Mana Leak [WC03:dh89sb]
 2 Nantuko Vigilante
 2 Phantom Centaur
-1 Ray of Revelation
+1 Ray of Revelation [WC03:dh20sb]
 2 Stupefying Touch
-1 Unsummon
-1 Wonder
+1 Unsummon [WC03:dh112sb]
+1 Wonder [WC03:dh54sb]

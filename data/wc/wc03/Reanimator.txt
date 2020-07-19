@@ -8,32 +8,32 @@
 1 Undead Gladiator
 1 Visara the Dreadful
 3 Entomb
-2 Smother
-3 Buried Alive
+2 Smother [WC03:pk170]
+3 Buried Alive [WC03:pk118]
 4 Burning Wish
-1 Cabal Therapy
+1 Cabal Therapy [WC03:pk62]
 1 Chainer's Edict
 3 Innocent Blood
-1 Recoup
-3 Stitch Together
+1 Recoup [WC03:pk216]
+3 Stitch Together [WC03:pk72]
 4 Zombify
 4 Barren Moor
-4 Bloodstained Mire
+4 Bloodstained Mire [WC03:pk313]
 6 Mountain
-2 Shadowblood Ridge
+2 Shadowblood Ridge [WC03:pk326]
 9 Swamp
 
 Sideboard
-1 Buried Alive
-3 Cabal Therapy
+1 Buried Alive [WC03:pk118sb]
+3 Cabal Therapy [WC03:pk62sb]
 1 Decompose
 1 Demolish
 1 Guiltfeeder
 1 Haunting Echoes
 1 Last Rites
-1 Patriarch's Bidding
+1 Patriarch's Bidding [WC03:pk161sb]
 1 Pyroclasm
-1 Recoup
+1 Recoup [WC03:pk216sb]
 1 Sickening Dreams
 1 Soul Feast
-1 Stitch Together
+1 Stitch Together [WC03:pk72sb]

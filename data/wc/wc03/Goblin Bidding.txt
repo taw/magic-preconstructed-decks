@@ -10,18 +10,18 @@
 4 Siege-Gang Commander
 3 Skirk Prospector
 4 Sparksmith
-3 Smother
-3 Patriarch's Bidding
-4 Bloodstained Mire
-1 City of Brass
+3 Smother [WC03:we170]
+3 Patriarch's Bidding [WC03:we161]
+4 Bloodstained Mire [WC03:we313]
+1 City of Brass [WC03:we322]
 10 Mountain
-3 Shadowblood Ridge
+3 Shadowblood Ridge [WC03:we326]
 4 Swamp
 
 Sideboard
-2 Cabal Therapy
+2 Cabal Therapy [WC03:we62sb]
 2 Dark Banishing
 2 Flaring Pain
-1 Smother
+1 Smother [WC03:we170sb]
 4 Starstorm
 4 Sulfuric Vortex
