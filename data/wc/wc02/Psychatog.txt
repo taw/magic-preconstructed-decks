@@ -2,14 +2,14 @@
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 4 Nightscape Familiar
 4 Psychatog
-3 Circular Logic
+3 Circular Logic [WC02:cr33]
 4 Counterspell
 3 Cunning Wish
-3 Fact or Fiction
+3 Fact or Fiction [WC02:cr57a]
 3 Memory Lapse
-4 Repulse
+4 Repulse [WC02:cr70]
 3 Chainer's Edict
-3 Deep Analysis
+3 Deep Analysis [WC02:cr36]
 2 Upheaval
 10 Island
 2 Cephalid Coliseum
@@ -21,8 +21,8 @@
 Sideboard
 1 Coffin Purge
 4 Duress
-1 Fact or Fiction
-1 Gainsay
+1 Fact or Fiction [WC02:cr57sb]
+1 Gainsay [WC02:cr26sb]
 3 Ghastly Demise
 1 Hibernation
 1 Mana Short

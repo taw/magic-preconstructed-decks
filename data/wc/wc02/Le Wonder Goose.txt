@@ -1,24 +1,24 @@
 // NAME: Le Wonder Goose
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
-2 Genesis
+2 Genesis [WC02:rl117]
 4 Nimble Mongoose
 3 Seton's Scout
 4 Werebear
-4 Wild Mongrel
+4 Wild Mongrel [WC02:rl283]
 4 Wonder
 4 Mental Note
-1 Rushing River
+1 Rushing River [WC02:rl30]
 4 Breakthrough
 4 Careful Study
-4 Roar of the Wurm
+4 Roar of the Wurm [WC02:rl266]
 8 Forest
 10 Island
-4 Yavimaya Coast
+4 Yavimaya Coast [WC02:rl143]
 
 Sideboard
 4 Compost
 3 Disrupt
-3 Phantom Centaur
-2 Ray of Revelation
-2 Repulse
-1 Rushing River
+3 Phantom Centaur [WC02:rl127sb]
+2 Ray of Revelation [WC02:rl20sb]
+2 Repulse [WC02:rl70sb]
+1 Rushing River [WC02:rl30sb]

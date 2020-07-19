@@ -1,32 +1,32 @@
 // NAME: Red Zone 2K2
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 4 Anurid Brushhopper
-4 Birds of Paradise
-4 Flametongue Kavu
-3 Glory
-3 Llanowar Elves
-4 Phantom Centaur
-4 Wild Mongrel
+4 Birds of Paradise [WC02:bk231]
+4 Flametongue Kavu [WC02:bk60]
+3 Glory [WC02:bk11]
+3 Llanowar Elves [WC02:bk253]
+4 Phantom Centaur [WC02:bk127]
+4 Wild Mongrel [WC02:bk283]
 4 Call of the Herd
-3 Fire // Ice
+3 Fire // Ice [WC02:bk128a]
 2 Wax // Wane
 3 Living Wish
 7 Forest
 4 Brushland
-2 City of Brass
-4 Karplusan Forest
+2 City of Brass [WC02:bk327]
+4 Karplusan Forest [WC02:bk336]
 2 Mountain
 3 Plains
 
 Sideboard
-1 City of Brass
-1 Genesis
+1 City of Brass [WC02:bk327sb]
+1 Genesis [WC02:bk117sb]
 2 Global Ruin
-1 Glory
+1 Glory [WC02:bk11sb]
 1 Intrepid Hero
 1 Phantom Nishoba
 3 Reprisal
-2 Simoon
+2 Simoon [WC02:bk272sb]
 1 Sylvan Safekeeper
 1 Thornscape Battlemage
 1 Thunderscape Battlemage
