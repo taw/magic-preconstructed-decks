@@ -1,0 +1,24 @@
+// NAME: Affinity
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
+4 Arcbound Ravager
+4 Arcbound Worker
+4 Chrome Mox
+4 Cranial Plating
+4 Frogmite
+4 Ornithopter
+4 Welding Jar
+4 Disciple of the Vault
+2 Somber Hoverguard
+4 Shrapnel Blast
+4 Thoughtcast
+3 Blinkmoth Nexus
+4 Great Furnace
+3 Glimmervoid
+4 Seat of the Synod
+4 Vault of Whispers
+
+Sideboard
+4 Furnace Dragon
+4 Seething Song
+3 Serum Visions
+4 Annul

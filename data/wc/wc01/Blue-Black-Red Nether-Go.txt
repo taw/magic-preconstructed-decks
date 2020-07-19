@@ -1,0 +1,30 @@
+// NAME: Blue-Black-Red Nether-Go
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
+2 Tsabo's Web
+3 Nether Spirit
+4 Accumulated Knowledge
+4 Counterspell
+2 Crosis's Charm
+3 Fact or Fiction
+4 Fire // Ice
+3 Opt
+2 Spite // Malice
+2 Tsabo's Decree
+4 Undermine
+2 Urza's Rage
+2 Duress
+8 Island
+4 Salt Marsh
+3 Shivan Reef
+1 Sulfurous Springs
+4 Underground River
+3 Urborg Volcano
+
+Sideboard
+2 Duress
+2 Engineered Plague
+2 Lobotomy
+3 Meekstone
+2 Pyroclasm
+1 Teferi's Response
+3 Tsabo's Assassin

@@ -1,0 +1,26 @@
+// NAME: Red-Artifact Wildfire
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+4 Covetous Dragon
+1 Karn, Silver Golem
+3 Masticore
+4 Cursed Scroll
+4 Fire Diamond
+4 Grim Monolith
+2 Mishra's Helix
+4 Temporal Aperture
+4 Thran Dynamo
+4 Voltaic Key
+2 Worn Powerstone
+4 Wildfire
+3 Ancient Tomb
+4 City of Traitors
+13 Mountain
+
+Sideboard
+2 Boil
+3 Earthquake
+1 Mishra's Helix
+1 Phyrexian Processor
+2 Rack and Ruin
+2 Shattering Pulse
+4 Spellshock

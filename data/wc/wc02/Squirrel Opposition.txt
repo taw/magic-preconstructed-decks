@@ -1,0 +1,26 @@
+// NAME: Squirrel Opposition
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
+4 Birds of Paradise
+3 Flametongue Kavu
+3 Llanowar Elves
+4 Merfolk Looter
+3 Phantom Centaur
+4 Wild Mongrel
+4 Opposition
+3 Squirrel Nest
+4 Circular Logic
+3 Fire // Ice
+3 Deep Analysis
+8 Forest
+5 Island
+3 Karplusan Forest
+2 Shivan Reef
+4 Yavimaya Coast
+
+Sideboard
+1 Flametongue Kavu
+3 Gainsay
+3 Quiet Speculation
+2 Ray of Revelation
+4 Roar of the Wurm
+2 Simoon

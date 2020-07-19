@@ -1,0 +1,26 @@
+// NAME: Green Stompy
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
+4 Fyndhorn Elves
+4 Ghazbán Ogre
+4 Rogue Elephant
+4 Quirion Ranger
+3 Harvest Wurm
+4 Spectral Bears
+2 Whirling Dervish
+2 Uktabi Orangutan
+2 Jolrael's Centaur
+3 Lhurgoyf
+4 Giant Growth
+2 Bounty of the Hunt
+4 Winter Orb
+16 Forest
+2 Heart of Yavimaya
+
+Sideboard
+2 River Boa
+2 Whirling Dervish
+1 Uktabi Orangutan
+2 Crumble
+4 Emerald Charm
+3 City of Solitude
+1 Bounty of the Hunt

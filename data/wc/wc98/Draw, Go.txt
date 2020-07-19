@@ -1,0 +1,23 @@
+// NAME: Draw, Go
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
+1 Rainbow Efreet
+4 Counterspell
+4 Dismiss
+2 Dissipate
+3 Forbid
+4 Force Spike
+4 Impulse
+3 Mana Leak
+1 Memory Lapse
+4 Whispers of the Muse
+4 Nevinyrral's Disk
+18 Island
+4 Quicksand
+4 Stalking Stones
+
+Sideboard
+2 Capsize
+1 Grindstone
+4 Hydroblast
+4 Sea Sprite
+4 Wasteland

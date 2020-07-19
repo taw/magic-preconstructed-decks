@@ -1,0 +1,28 @@
+// NAME: Dark Fires
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
+4 Llanowar Elves
+4 Birds of Paradise
+4 Blastoderm
+4 Thornscape Battlemage
+2 Spiritmonger
+2 Flametongue Kavu
+2 Kavu Chameleon
+4 Fires of Yavimaya
+4 Saproling Burst
+4 Fire // Ice
+2 Urza's Rage
+8 Forest
+3 Mountain
+2 City of Brass
+2 Llanowar Wastes
+2 Sulfurous Springs
+3 Karplusan Forest
+4 Rishadan Port
+
+Sideboard
+2 Kavu Chameleon
+2 Obliterate
+3 Thunderscape Battlemage
+3 Blood Oath
+3 Boil
+2 Tangle

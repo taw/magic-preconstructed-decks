@@ -1,0 +1,31 @@
+// NAME: Blue-Green Madness
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+4 Aquamoeba
+3 Arrogant Wurm
+4 Basking Rootwalla
+4 Wild Mongrel
+3 Wonder
+4 Circular Logic
+1 Krosan Reclamation
+1 Ray of Revelation
+3 Unsummon
+4 Careful Study
+2 Deep Analysis
+2 Quiet Speculation
+3 Roar of the Wurm
+1 Centaur Garden
+2 City of Brass
+8 Forest
+11 Island
+
+Sideboard
+1 Deep Analysis
+2 Envelop
+1 Krosan Reclamation
+2 Mana Leak
+2 Nantuko Vigilante
+2 Phantom Centaur
+1 Ray of Revelation
+2 Stupefying Touch
+1 Unsummon
+1 Wonder

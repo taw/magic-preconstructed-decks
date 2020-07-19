@@ -1,0 +1,33 @@
+// NAME: White-Blue-Green Wake
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+1 Mirari
+3 Compulsion
+3 Mirari's Wake
+1 Circular Logic
+3 Cunning Wish
+4 Mana Leak
+3 Moment's Peace
+3 Renewed Faith
+2 Vengeful Dreams
+2 Decree of Justice
+4 Deep Analysis
+4 Wrath of God
+2 Elfhame Palace
+2 Flooded Strand
+4 Forest
+7 Island
+4 Krosan Verge
+4 Plains
+4 Skycloud Expanse
+
+Sideboard
+3 Anurid Brushhopper
+1 Circular Logic
+2 Exalted Angel
+1 Hunting Pack
+1 Krosan Reclamation
+1 Ray of Distortion
+3 Ray of Revelation
+1 Renewed Faith
+1 Vengeful Dreams
+1 Wing Shards

@@ -1,0 +1,27 @@
+// NAME: Machine Head
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
+4 Plague Spitter
+3 Phyrexian Scuta
+3 Skizzik
+2 Flametongue Kavu
+2 Crypt Angel
+4 Blazing Specter
+4 Duress
+4 Dark Ritual
+4 Terminate
+3 Vendetta
+3 Urza's Rage
+6 Swamp
+6 Mountain
+4 Rishadan Port
+4 Urborg Volcano
+4 Sulfurous Springs
+
+Sideboard
+4 Scoria Cat
+3 Addle
+2 Persecute
+1 Pyroclasm
+3 Phyrexian Arena
+1 Flametongue Kavu
+1 Crypt Angel

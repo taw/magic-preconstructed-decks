@@ -1,0 +1,31 @@
+// NAME: Psychatog
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
+4 Nightscape Familiar
+4 Psychatog
+3 Circular Logic
+4 Counterspell
+3 Cunning Wish
+3 Fact or Fiction
+3 Memory Lapse
+4 Repulse
+3 Chainer's Edict
+3 Deep Analysis
+2 Upheaval
+10 Island
+2 Cephalid Coliseum
+1 Darkwater Catacombs
+4 Salt Marsh
+3 Swamp
+4 Underground River
+
+Sideboard
+1 Coffin Purge
+4 Duress
+1 Fact or Fiction
+1 Gainsay
+3 Ghastly Demise
+1 Hibernation
+1 Mana Short
+1 Recoil
+1 Slay
+1 Teferi's Response

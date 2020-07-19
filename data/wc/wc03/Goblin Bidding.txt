@@ -1,0 +1,27 @@
+// NAME: Goblin Bidding
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+3 Gempalm Incinerator
+1 Goblin Grappler
+4 Goblin Piledriver
+2 Goblin Sharpshooter
+4 Goblin Sledder
+3 Goblin Taskmaster
+4 Goblin Warchief
+4 Siege-Gang Commander
+3 Skirk Prospector
+4 Sparksmith
+3 Smother
+3 Patriarch's Bidding
+4 Bloodstained Mire
+1 City of Brass
+10 Mountain
+3 Shadowblood Ridge
+4 Swamp
+
+Sideboard
+2 Cabal Therapy
+2 Dark Banishing
+2 Flaring Pain
+1 Smother
+4 Starstorm
+4 Sulfuric Vortex

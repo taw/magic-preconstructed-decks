@@ -1,0 +1,31 @@
+// NAME: Replenish
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
+4 Attunement
+1 Energy Field
+4 Opalescence
+3 Parallax Tide
+4 Parallax Wave
+1 Seal of Cleansing
+1 Seal of Removal
+3 Counterspell
+3 Enlightened Tutor
+4 Frantic Search
+1 Mystical Tutor
+4 Replenish
+1 Wrath of God
+1 Sky Diamond
+9 Island
+8 Plains
+4 Rishadan Port
+4 Adarkar Wastes
+
+Sideboard
+1 Chill
+1 Circle of Protection: Black
+1 Cursed Totem
+2 Daze
+3 Erase
+2 Lilting Refrain
+1 Seal of Cleansing
+2 Submerge
+2 Wrath of God

@@ -1,0 +1,33 @@
+// NAME: Mono-Black Control
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+1 Bottle Gnomes
+1 Phyrexian Negator
+3 Phyrexian Plaguelord
+3 Ravenous Rats
+2 Ticking Gnomes
+3 Cursed Scroll
+4 Powder Keg
+2 Corpse Dance
+4 Dark Ritual
+4 Diabolic Edict
+1 Rapid Decay
+1 Vampiric Tutor
+4 Duress
+2 Stupor
+3 Yawgmoth's Will
+2 Spawning Pool
+15 Swamp
+1 Volrath's Stronghold
+4 Wasteland
+
+Sideboard
+1 Bottle Gnomes
+2 Carrion Beetles
+1 Evincar's Justice
+1 Hatred
+2 Perish
+1 Persecute
+2 Phyrexian Negator
+3 Rapid Decay
+1 Sphere of Resistance
+1 Stromgald Cabal

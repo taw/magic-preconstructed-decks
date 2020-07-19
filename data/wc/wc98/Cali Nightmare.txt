@@ -1,0 +1,39 @@
+// NAME: Cali Nightmare
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
+4 Birds of Paradise
+1 Cloudchaser Eagle
+1 Man-o'-War
+2 Nekrataal
+1 Orcish Settlers
+2 Spike Feeder
+1 Spike Weaver
+1 Spirit of the Night
+1 Thrull Surgeon
+1 Tradewind Rider
+2 Uktabi Orangutan
+1 Verdant Force
+4 Wall of Blossoms
+2 Wall of Roots
+2 Firestorm
+2 Lobotomy
+4 Recurring Nightmare
+4 Survival of the Fittest
+2 Scroll Rack
+3 City of Brass
+8 Forest
+1 Gemstone Mine
+2 Karplusan Forest
+2 Reflecting Pool
+1 Swamp
+2 Underground River
+2 Undiscovered Paradise
+1 Volrath's Stronghold
+
+Sideboard
+4 Boil
+2 Dread of Night
+3 Emerald Charm
+1 Hall of Gemstone
+2 Phyrexian Furnace
+2 Pyroblast
+1 Staunch Defenders

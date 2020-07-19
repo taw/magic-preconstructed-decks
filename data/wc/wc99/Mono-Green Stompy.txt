@@ -1,0 +1,24 @@
+// NAME: Mono-Green Stompy
+// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+4 Albino Troll
+4 Elvish Lyrist
+4 Llanowar Elves
+4 Pouncing Jaguar
+4 River Boa
+2 Uktabi Orangutan
+4 Wild Dogs
+4 Cursed Scroll
+4 Rancor
+4 Giant Growth
+14 Forest
+4 Gaea's Cradle
+4 Treetop Village
+
+Sideboard
+3 Choke
+2 Constant Mists
+1 Hurricane
+2 Overrun
+3 Thran Foundry
+2 Uktabi Orangutan
+2 Weatherseed Treefolk
