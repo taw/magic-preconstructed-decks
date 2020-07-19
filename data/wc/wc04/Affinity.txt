@@ -2,7 +2,7 @@
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 4 Arcbound Ravager
 4 Arcbound Worker
-4 Chrome Mox
+4 Chrome Mox [WC04:ap152]
 4 Cranial Plating
 4 Frogmite
 4 Ornithopter
@@ -10,15 +10,15 @@
 4 Disciple of the Vault
 2 Somber Hoverguard
 4 Shrapnel Blast
-4 Thoughtcast
+4 Thoughtcast [WC04:ap54]
 3 Blinkmoth Nexus
-4 Great Furnace
+4 Great Furnace [WC04:ap282]
 3 Glimmervoid
-4 Seat of the Synod
-4 Vault of Whispers
+4 Seat of the Synod [WC04:ap283]
+4 Vault of Whispers [WC04:ap286]
 
 Sideboard
-4 Furnace Dragon
-4 Seething Song
-3 Serum Visions
-4 Annul
+4 Furnace Dragon [WC04:ap62sb]
+4 Seething Song [WC04:ap104sb]
+3 Serum Visions [WC04:ap36sb]
+4 Annul [WC04:ap29sb]

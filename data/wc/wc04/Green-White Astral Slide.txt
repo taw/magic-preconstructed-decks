@@ -2,15 +2,15 @@
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 4 Viridian Shaman
 4 Eternal Witness
-4 Eternal Dragon
+4 Eternal Dragon [WC04:jn12]
 4 Astral Slide
 4 Renewed Faith
 2 Wing Shards
-2 Akroma's Vengeance
-2 Decree of Justice
-1 Plow Under
+2 Akroma's Vengeance [WC04:jn2]
+2 Decree of Justice [WC04:jn8]
+1 Plow Under [WC04:jn272]
 4 Rampant Growth
-4 Wrath of God
+4 Wrath of God [WC04:jn58]
 7 Forest
 6 Plains
 4 Secluded Steppe
@@ -20,6 +20,6 @@
 Sideboard
 4 Oxidize
 2 Rude Awakening
-3 Scrabbling Claws
+3 Scrabbling Claws [WC04:jn237]
 3 Circle of Protection: Red
-3 Plow Under
+3 Plow Under [WC04:jn272sb]

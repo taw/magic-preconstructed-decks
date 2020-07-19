@@ -1,16 +1,16 @@
 // NAME: Blue-White Anti-Affinity Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 3 Wayfarer's Bauble
-2 Eternal Dragon
+2 Eternal Dragon [WC04:gn12a]
 3 Exalted Angel
-3 Annul
-3 Condescend
-4 Mana Leak
+3 Annul [WC04:gn29]
+3 Condescend [WC04:gn27]
+4 Mana Leak [WC04:gn89]
 3 Rewind
-4 Thirst for Knowledge
-2 Akroma's Vengeance
-4 Decree of Justice
-4 Wrath of God
+4 Thirst for Knowledge [WC04:gn53]
+2 Akroma's Vengeance [WC04:gn2]
+4 Decree of Justice [WC04:gn8]
+4 Wrath of God [WC04:gn58]
 4 Cloudpost
 4 Flooded Strand
 7 Island
@@ -21,5 +21,5 @@ Sideboard
 4 Purge
 3 Pacifism
 2 Relic Barrier
-3 Scrabbling Claws
+3 Scrabbling Claws [WC04:gn237sb]
 3 Stifle

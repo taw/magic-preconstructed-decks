@@ -1,27 +1,27 @@
 // NAME: Myr Incubator Combo
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
-4 Chrome Mox
+4 Chrome Mox [WC04:mb152]
 1 Goblin Charbelcher
 4 Krark-Clan Ironworks
 4 Myr Incubator
 4 Pentad Prism
 3 Talisman of Dominance
 3 Talisman of Progress
-4 Condescend
-3 Thirst for Knowledge
+4 Condescend [WC04:mb27]
+3 Thirst for Knowledge [WC04:mb53]
 3 Fabricate
 1 Fireball
-3 Serum Visions
-4 Thoughtcast
+3 Serum Visions [WC04:mb36]
+4 Thoughtcast [WC04:mb54]
 2 Ancient Den
 4 Darksteel Citadel
-4 Great Furnace
-4 Seat of the Synod
+4 Great Furnace [WC04:mb282]
+4 Seat of the Synod [WC04:mb283]
 3 Tree of Tales
-2 Vault of Whispers
+2 Vault of Whispers [WC04:mb286]
 
 Sideboard
-4 Mana Leak
-4 Furnace Dragon
-4 Seething Song
+4 Mana Leak [WC04:mb89sb]
+4 Furnace Dragon [WC04:mb62sb]
+4 Seething Song [WC04:mb104sb]
 3 Pyroclasm
