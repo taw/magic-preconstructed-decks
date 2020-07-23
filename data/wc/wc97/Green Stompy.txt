@@ -1,4 +1,4 @@
-// NAME: Green Stompy
+// NAME: Svend Geertsen - Green Stompy
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
 4 Fyndhorn Elves
 4 Ghazbán Ogre
@@ -13,7 +13,10 @@
 4 Giant Growth
 2 Bounty of the Hunt [WC97:sg85]
 4 Winter Orb
-16 Forest
+4 Forest [WC97:sg446]
+4 Forest [WC97:sg447]
+4 Forest [WC97:sg448]
+4 Forest [WC97:sg449]
 2 Heart of Yavimaya
 
 Sideboard

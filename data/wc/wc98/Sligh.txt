@@ -1,4 +1,4 @@
-// NAME: Sligh
+// NAME: Ben Rubin - Sligh
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
 4 Ball Lightning
 2 Goblin Vandal
@@ -12,7 +12,10 @@
 4 Incinerate
 4 Shock
 4 Cursed Scroll [WC98:br281]
-17 Mountain
+5 Mountain [WC98:br343]
+4 Mountain [WC98:br344]
+4 Mountain [WC98:br345]
+4 Mountain [WC98:br346]
 4 Wasteland [WC98:br330]
 
 Sideboard

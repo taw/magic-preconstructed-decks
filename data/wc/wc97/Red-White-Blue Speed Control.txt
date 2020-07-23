@@ -1,4 +1,4 @@
-// NAME: Red-White-Blue Speed Control
+// NAME: Janosch Kuhn - Red-White-Blue Speed Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
 4 Frenetic Efreet [WC97:jk264]
 4 Wildfire Emissary [WC97:jk203]
@@ -13,9 +13,19 @@
 2 Hammer of Bogardan
 1 Pillage [WC97:jk76]
 1 City of Brass [WC97:jk413]
-6 Island
-6 Mountain
-4 Plains
+2 Island [WC97:jk434]
+2 Island [WC97:jk435]
+1 Island [WC97:jk436]
+1 Island [WC97:jk437]
+2 Mountain [WC97:jk442]
+2 Mountain [WC97:jk443]
+1 Mountain [WC97:jk444]
+1 Mountain [WC97:jk445]
+1 Plains [WC97:jk430]
+1 Plains [WC97:jk431]
+1 Plains [WC97:jk432]
+1 Plains [WC97:jk433]
+
 4 Thawing Glaciers
 1 Undiscovered Paradise [WC97:jk167]
 

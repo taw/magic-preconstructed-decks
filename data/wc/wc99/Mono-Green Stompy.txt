@@ -1,4 +1,4 @@
-// NAME: Mono-Green Stompy
+// NAME: Matt Linde - Mono-Green Stompy
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 4 Albino Troll
 4 Elvish Lyrist
@@ -10,7 +10,9 @@
 4 Cursed Scroll [WC99:ml281]
 4 Rancor
 4 Giant Growth
-14 Forest
+5 Forest [WC99:ml347a]
+5 Forest [WC99:ml347b]
+4 Forest [WC99:ml349]
 4 Gaea's Cradle
 4 Treetop Village
 

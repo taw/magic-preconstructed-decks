@@ -1,4 +1,4 @@
-// NAME: Red-Blue Aggro Control
+// NAME: Paul McCabe - Red-Blue Aggro Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
 4 Cloud Elemental
 4 Man-o'-War [WC97:pm37b]
@@ -14,8 +14,14 @@
 2 Pyrokinesis [WC97:pm78]
 1 Disintegrate [WC97:pm219]
 3 Mind Stone
-10 Island
-6 Mountain
+3 Island [WC97:pm434]
+3 Island [WC97:pm435]
+2 Island [WC97:pm436]
+2 Island [WC97:pm437]
+2 Mountain [WC97:pm442]
+2 Mountain [WC97:pm443]
+1 Mountain [WC97:pm444]
+1 Mountain [WC97:pm445]
 2 City of Brass [WC97:pm413]
 2 Undiscovered Paradise [WC97:pm167]
 

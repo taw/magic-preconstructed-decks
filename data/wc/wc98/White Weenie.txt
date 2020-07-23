@@ -1,4 +1,4 @@
-// NAME: White Weenie
+// NAME: Brian Hacker - White Weenie
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
 3 Nomads en-Kor
 3 Paladin en-Vec
@@ -13,7 +13,10 @@
 4 Cataclysm
 3 Disenchant [WC98:bh16]
 4 Tithe
-17 Plains
+5 Plains [WC98:bh331]
+4 Plains [WC98:bh332]
+4 Plains [WC98:bh333]
+4 Plains [WC98:bh334]
 
 Sideboard
 3 Abeyance

@@ -1,4 +1,4 @@
-// NAME: Draw, Go
+// NAME: Randy Buehler - Draw, Go
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
 1 Rainbow Efreet
 4 Counterspell
@@ -11,7 +11,10 @@
 1 Memory Lapse
 4 Whispers of the Muse
 4 Nevinyrral's Disk
-18 Island
+5 Island [WC98:rb335]
+5 Island [WC98:rb336]
+4 Island [WC98:rb337]
+4 Island [WC98:rb338]
 4 Quicksand
 4 Stalking Stones
 

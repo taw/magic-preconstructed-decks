@@ -1,4 +1,4 @@
-// NAME: Cali Nightmare
+// NAME: Brian Selden - Cali Nightmare
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
 4 Birds of Paradise
 1 Cloudchaser Eagle
@@ -20,7 +20,10 @@
 4 Survival of the Fittest
 2 Scroll Rack
 3 City of Brass
-8 Forest
+2 Forest [WC98:bs347]
+2 Forest [WC98:bs348]
+2 Forest [WC98:bs349]
+2 Forest [WC98:bs350]
 1 Gemstone Mine
 2 Karplusan Forest
 2 Reflecting Pool

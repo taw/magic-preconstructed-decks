@@ -1,4 +1,4 @@
-// NAME: Red-Artifact Wildfire
+// NAME: Kai Budde - Red-Artifact Wildfire
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 4 Covetous Dragon
 1 Karn, Silver Golem
@@ -14,7 +14,9 @@
 4 Wildfire
 3 Ancient Tomb [WC99:kb315]
 4 City of Traitors
-13 Mountain
+5 Mountain [WC99:kb343]
+4 Mountain [WC99:kb344]
+4 Mountain [WC99:kb346]
 
 Sideboard
 2 Boil

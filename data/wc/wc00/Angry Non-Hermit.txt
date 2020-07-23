@@ -1,4 +1,4 @@
-// NAME: Angry Non-Hermit
+// NAME: Janosch Kühn - Angry Non-Hermit
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
 4 Avalanche Riders
 4 Birds of Paradise [WC00:jk217]
@@ -13,7 +13,7 @@
 2 Saproling Burst
 1 Phyrexian Processor [WC00:jk306]
 2 Dust Bowl
-10 Forest
+10 Forest [WC00:jk347]
 4 Karplusan Forest
 4 Mountain
 4 Rishadan Port [WC00:jk324]

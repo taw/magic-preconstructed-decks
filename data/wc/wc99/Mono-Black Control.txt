@@ -1,4 +1,4 @@
-// NAME: Mono-Black Control
+// NAME: Jakub Šlemr - Mono-Black Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 1 Bottle Gnomes [WC99:js278]
 1 Phyrexian Negator [WC99:js65]
@@ -16,7 +16,9 @@
 2 Stupor
 3 Yawgmoth's Will
 2 Spawning Pool
-15 Swamp
+5 Swamp [WC99:js339]
+5 Swamp [WC99:js340a]
+5 Swamp [WC99:js340b]
 1 Volrath's Stronghold
 4 Wasteland [WC99:js330]
 

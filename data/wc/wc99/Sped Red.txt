@@ -1,4 +1,4 @@
-// NAME: Sped Red
+// NAME: Mark Le Pine - Sped Red
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
 4 Avalanche Riders
 3 Fireslinger [WC99:mlp173]
@@ -12,7 +12,9 @@
 4 Stone Rain
 2 Ancient Tomb [WC99:mlp315]
 2 Ghitu Encampment
-16 Mountain
+6 Mountain [WC99:mlp344]
+5 Mountain [WC99:mlp346a]
+5 Mountain [WC99:mlp346b]
 4 Wasteland [WC99:mlp330]
 
 Sideboard

@@ -1,4 +1,4 @@
-// NAME: Replenish
+// NAME: Tom van de Logt - Replenish
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
 4 Attunement
 1 Energy Field
@@ -14,7 +14,7 @@
 4 Replenish
 1 Wrath of God [WC00:tvdl54]
 1 Sky Diamond
-9 Island
+9 Island [WC00:tvdl335]
 8 Plains
 4 Rishadan Port [WC00:tvdl324]
 4 Adarkar Wastes

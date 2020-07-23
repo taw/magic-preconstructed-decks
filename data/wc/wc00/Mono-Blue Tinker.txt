@@ -1,4 +1,4 @@
-// NAME: Mono-Blue Tinker
+// NAME: Jon Finkel - Mono-Blue Tinker
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
 4 Masticore [WC00:jf134]
 4 Metalworker
@@ -13,7 +13,7 @@
 4 Tinker
 4 Brainstorm
 4 Crystal Vein
-9 Island
+9 Island [WC00:jf335]
 4 Rishadan Port [WC00:jf324]
 4 Saprazzan Skerry
 

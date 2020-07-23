@@ -1,4 +1,4 @@
-// NAME: Prismatic Black Aggro
+// NAME: Jakub Slemr - Prismatic Black Aggro
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
 4 Black Knight
 4 Fallen Askari
@@ -15,7 +15,10 @@
 3 City of Brass [WC97:js413]
 3 Gemstone Mine
 2 Sulfurous Springs
-10 Swamp
+3 Swamp [WC97:js438]
+3 Swamp [WC97:js439]
+2 Swamp [WC97:js440]
+2 Swamp [WC97:js441]
 1 Underground River
 3 Undiscovered Paradise [WC97:js167]
 
