@@ -20,6 +20,6 @@
 Sideboard
 4 Oxidize
 2 Rude Awakening
-3 Scrabbling Claws [WC04:jn237]
+3 Scrabbling Claws [WC04:jn237sb]
 3 Circle of Protection: Red
 3 Plow Under [WC04:jn272sb]
