@@ -1,4 +1,4 @@
-// NAME: Le Wonder Goose
+// NAME: Raphael Levy - Le Wonder Goose
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 2 Genesis [WC02:rl117]
 4 Nimble Mongoose
@@ -11,8 +11,23 @@
 4 Breakthrough
 4 Careful Study
 4 Roar of the Wurm [WC02:rl266]
-8 Forest
-10 Island
+1 Forest [WC02:rl328]
+1 Forest [WC02:rl329]
+1 Forest [WC02:rl330]
+1 Forest [WC02:rl331]
+1 Forest [WC02:rl347]
+1 Forest [WC02:rl348]
+1 Forest [WC02:rl349]
+1 Forest [WC02:rl350]
+2 Island [WC02:rl332]
+1 Island [WC02:rl333]
+1 Island [WC02:rl334]
+1 Island [WC02:rl335]
+1 Island [WC02:rl336]
+1 Island [WC02:rl336a]
+1 Island [WC02:rl337]
+1 Island [WC02:rl337a]
+1 Island [WC02:rl338]
 4 Yavimaya Coast [WC02:rl143]
 
 Sideboard

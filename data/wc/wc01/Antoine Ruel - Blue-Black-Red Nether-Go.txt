@@ -1,4 +1,4 @@
-// NAME: Blue-Black-Red Nether-Go
+// NAME: Antoine Ruel - Blue-Black-Red Nether-Go
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
 2 Tsabo's Web
 3 Nether Spirit
@@ -14,7 +14,14 @@
 4 Undermine
 2 Urza's Rage [WC01:ar178]
 2 Duress [WC01:ar131]
-8 Island
+1 Island [WC01:ar334]
+1 Island [WC01:ar335]
+1 Island [WC01:ar335a]
+1 Island [WC01:ar335b]
+1 Island [WC01:ar336]
+1 Island [WC01:ar336a]
+1 Island [WC01:ar337]
+1 Island [WC01:ar338]
 4 Salt Marsh
 3 Shivan Reef
 1 Sulfurous Springs [WC01:ar345]

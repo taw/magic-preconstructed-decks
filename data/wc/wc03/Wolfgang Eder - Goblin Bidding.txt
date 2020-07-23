@@ -1,4 +1,4 @@
-// NAME: Goblin Bidding
+// NAME: Wolfgang Eder - Goblin Bidding
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
 3 Gempalm Incinerator
 1 Goblin Grappler
@@ -14,9 +14,13 @@
 3 Patriarch's Bidding [WC03:we161]
 4 Bloodstained Mire [WC03:we313]
 1 City of Brass [WC03:we322]
-10 Mountain
+4 Mountain [WC03:we343]
+3 Mountain [WC03:we344]
+3 Mountain [WC03:we346]
 3 Shadowblood Ridge [WC03:we326]
-4 Swamp
+2 Swamp [WC03:we339]
+1 Swamp [WC03:we340]
+1 Swamp [WC03:we342]
 
 Sideboard
 2 Cabal Therapy [WC03:we62sb]

@@ -1,4 +1,4 @@
-// NAME: Dark Fires
+// NAME: Jan Tomcani - Dark Fires
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
 4 Llanowar Elves
 4 Birds of Paradise
@@ -11,8 +11,18 @@
 4 Saproling Burst
 4 Fire // Ice [WC01:jt128a]
 2 Urza's Rage [WC01:jt178]
-8 Forest
-3 Mountain
+1 Forest [WC01:jt328]
+1 Forest [WC01:jt329]
+1 Forest [WC01:jt347]
+1 Forest [WC01:jt347a]
+1 Forest [WC01:jt348]
+1 Forest [WC01:jt348a]
+1 Forest [WC01:jt349]
+1 Forest [WC01:jt349a]
+1 Mountain [WC01:jt337]
+1 Mountain [WC01:jt343]
+1 Mountain [WC01:jt343a]
+
 2 City of Brass
 2 Llanowar Wastes
 2 Sulfurous Springs [WC01:jt345]

@@ -1,4 +1,4 @@
-// NAME: Blue-Green Madness
+// NAME: Dave Humpherys - Blue-Green Madness
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
 4 Aquamoeba
 3 Arrogant Wurm
@@ -15,8 +15,12 @@
 3 Roar of the Wurm
 1 Centaur Garden
 2 City of Brass [WC03:dh322]
-8 Forest
-11 Island
+3 Forest [WC03:dh348]
+2 Forest [WC03:dh349]
+2 Forest [WC03:dh350]
+4 Island [WC03:dh336]
+4 Island [WC03:dh337]
+3 Island [WC03:dh338]
 
 Sideboard
 1 Deep Analysis [WC03:dh36sb]

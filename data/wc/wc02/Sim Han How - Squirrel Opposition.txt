@@ -1,4 +1,4 @@
-// NAME: Squirrel Opposition
+// NAME: Sim Han How - Squirrel Opposition
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 4 Birds of Paradise [WC02:shh231]
 3 Flametongue Kavu [WC02:shh60]
@@ -11,8 +11,19 @@
 4 Circular Logic [WC02:shh33]
 3 Fire // Ice [WC02:shh128a]
 3 Deep Analysis [WC02:shh36]
-8 Forest
-5 Island
+1 Forest [WC02:shh328]
+1 Forest [WC02:shh329]
+1 Forest [WC02:shh330]
+1 Forest [WC02:shh331]
+1 Forest [WC02:shh347]
+1 Forest [WC02:shh348]
+1 Forest [WC02:shh349]
+1 Forest [WC02:shh350]
+1 Island [WC02:shh334]
+1 Island [WC02:shh335]
+1 Island [WC02:shh336a]
+1 Island [WC02:shh337]
+1 Island [WC02:shh338]
 3 Karplusan Forest [WC02:shh336]
 2 Shivan Reef
 4 Yavimaya Coast [WC02:shh143]

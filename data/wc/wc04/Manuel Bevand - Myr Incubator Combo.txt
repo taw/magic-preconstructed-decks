@@ -1,4 +1,4 @@
-// NAME: Myr Incubator Combo
+// NAME: Manuel Bevand - Myr Incubator Combo
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 4 Chrome Mox [WC04:mb152]
 1 Goblin Charbelcher

@@ -1,4 +1,4 @@
-// NAME: Green-White Astral Slide
+// NAME: Julien Nuijten - Green-White Astral Slide
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 4 Viridian Shaman
 4 Eternal Witness
@@ -11,8 +11,12 @@
 1 Plow Under [WC04:jn272]
 4 Rampant Growth
 4 Wrath of God [WC04:jn58]
-7 Forest
-6 Plains
+3 Forest [WC04:jn347]
+2 Forest [WC04:jn348]
+2 Forest [WC04:jn350]
+2 Plains [WC04:jn332]
+2 Plains [WC04:jn333]
+2 Plains [WC04:jn334]
 4 Secluded Steppe
 4 Tranquil Thicket
 4 Windswept Heath

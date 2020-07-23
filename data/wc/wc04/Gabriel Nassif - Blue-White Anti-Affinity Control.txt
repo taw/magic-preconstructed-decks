@@ -1,4 +1,4 @@
-// NAME: Blue-White Anti-Affinity Control
+// NAME: Gabriel Nassif - Blue-White Anti-Affinity Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 3 Wayfarer's Bauble
 2 Eternal Dragon [WC04:gn12a]
@@ -13,8 +13,12 @@
 4 Wrath of God [WC04:gn58]
 4 Cloudpost
 4 Flooded Strand
-7 Island
-7 Plains
+3 Island [WC04:gn335]
+2 Island [WC04:gn336]
+2 Island [WC04:gn337]
+3 Plains [WC04:gn331]
+2 Plains [WC04:gn332]
+2 Plains [WC04:gn333]
 3 Temple of the False God
 
 Sideboard

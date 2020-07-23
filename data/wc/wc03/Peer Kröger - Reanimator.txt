@@ -1,4 +1,4 @@
-// NAME: Reanimator
+// NAME: Peer Kröger - Reanimator
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
 1 Anger
 1 Arcanis the Omnipotent
@@ -19,9 +19,13 @@
 4 Zombify
 4 Barren Moor
 4 Bloodstained Mire [WC03:pk313]
-6 Mountain
+2 Mountain [WC03:pk344]
+2 Mountain [WC03:pk345]
+2 Mountain [WC03:pk346]
 2 Shadowblood Ridge [WC03:pk326]
-9 Swamp
+3 Swamp [WC03:pk339]
+3 Swamp [WC03:pk340]
+3 Swamp [WC03:pk341]
 
 Sideboard
 1 Buried Alive [WC03:pk118sb]

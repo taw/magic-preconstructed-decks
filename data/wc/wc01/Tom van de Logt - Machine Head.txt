@@ -1,4 +1,4 @@
-// NAME: Machine Head
+// NAME: Tom van de Logt - Machine Head
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
 4 Plague Spitter
 3 Phyrexian Scuta
@@ -11,8 +11,15 @@
 4 Terminate
 3 Vendetta
 3 Urza's Rage [WC01:tvdl178]
-6 Swamp
-6 Mountain
+1 Swamp [WC01:tvdl339]
+1 Swamp [WC01:tvdl339a]
+1 Swamp [WC01:tvdl341]
+1 Swamp [WC01:tvdl342]
+1 Swamp [WC01:tvdl347]
+1 Swamp [WC01:tvdl348]
+2 Mountain [WC01:tvdl337]
+2 Mountain [WC01:tvdl343]
+2 Mountain [WC01:tvdl343b]
 4 Rishadan Port [WC01:tvdl324]
 4 Urborg Volcano [WC01:tvdl330]
 4 Sulfurous Springs [WC01:tvdl345]

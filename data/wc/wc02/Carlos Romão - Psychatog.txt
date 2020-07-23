@@ -1,4 +1,4 @@
-// NAME: Psychatog
+// NAME: Carlos Romão - Psychatog
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 4 Nightscape Familiar
 4 Psychatog
@@ -11,11 +11,22 @@
 3 Chainer's Edict
 3 Deep Analysis [WC02:cr36]
 2 Upheaval
-10 Island
+1 Island [WC02:cr332]
+1 Island [WC02:cr333]
+1 Island [WC02:cr334]
+1 Island [WC02:cr335]
+1 Island [WC02:cr335a]
+1 Island [WC02:cr335b]
+1 Island [WC02:cr336]
+1 Island [WC02:cr337]
+1 Island [WC02:cr337a]
+1 Island [WC02:cr338]
 2 Cephalid Coliseum
 1 Darkwater Catacombs
 4 Salt Marsh
-3 Swamp
+1 Swamp [WC02:cr340]
+1 Swamp [WC02:cr341]
+1 Swamp [WC02:cr342]
 4 Underground River
 
 Sideboard

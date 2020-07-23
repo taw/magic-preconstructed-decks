@@ -1,4 +1,4 @@
-// NAME: White-Blue-Green Wake
+// NAME: Daniel Zink - White-Blue-Green Wake
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
 1 Mirari
 3 Compulsion
@@ -14,10 +14,16 @@
 4 Wrath of God
 2 Elfhame Palace
 2 Flooded Strand
-4 Forest
-7 Island
+2 Forest [WC03:dz347]
+1 Forest [WC03:dz348]
+1 Forest [WC03:dz349]
+3 Island [WC03:dz335]
+2 Island [WC03:dz336]
+2 Island [WC03:dz337]
 4 Krosan Verge
-4 Plains
+2 Plains [WC03:dz331]
+1 Plains [WC03:dz332]
+1 Plains [WC03:dz333]
 4 Skycloud Expanse
 
 Sideboard

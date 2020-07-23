@@ -1,4 +1,4 @@
-// NAME: Affinity
+// NAME: Aeo Paquette - Affinity
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
 4 Arcbound Ravager
 4 Arcbound Worker

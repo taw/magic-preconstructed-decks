@@ -1,4 +1,4 @@
-// NAME: Merfolk Opposition
+// NAME: Alex Borteh - Merfolk Opposition
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
 4 Static Orb
 2 Darting Merfolk
@@ -12,7 +12,18 @@
 2 Counterspell [WC01:ab69]
 4 Gush
 4 Thwart
-20 Island
+2 Island [WC01:ab332]
+2 Island [WC01:ab333]
+2 Island [WC01:ab334]
+2 Island [WC01:ab335]
+2 Island [WC01:ab335a]
+2 Island [WC01:ab335b]
+2 Island [WC01:ab336]
+2 Island [WC01:ab336a]
+1 Island [WC01:ab337]
+1 Island [WC01:ab337a]
+1 Island [WC01:ab338]
+1 Island [WC01:ab338a]
 
 Sideboard
 3 Hibernation

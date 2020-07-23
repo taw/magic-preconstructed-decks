@@ -1,4 +1,4 @@
-// NAME: Red Zone 2K2
+// NAME: Brian Kibler - Red Zone 2K2
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
 4 Anurid Brushhopper
 4 Birds of Paradise [WC02:bk231]
@@ -11,12 +11,21 @@
 3 Fire // Ice [WC02:bk128a]
 2 Wax // Wane
 3 Living Wish
-7 Forest
+1 Forest [WC02:bk328]
+1 Forest [WC02:bk329]
+1 Forest [WC02:bk330]
+1 Forest [WC02:bk331]
+1 Forest [WC02:bk347]
+1 Forest [WC02:bk348]
+1 Forest [WC02:bk349]
 4 Brushland
 2 City of Brass [WC02:bk327]
 4 Karplusan Forest [WC02:bk336]
-2 Mountain
-3 Plains
+1 Mountain [WC02:bk343]
+1 Mountain [WC02:bk346]
+1 Plains [WC02:bk331a]
+1 Plains [WC02:bk333]
+1 Plains [WC02:bk341]
 
 Sideboard
 1 City of Brass [WC02:bk327sb]
