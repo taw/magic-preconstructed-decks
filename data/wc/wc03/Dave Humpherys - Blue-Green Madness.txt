@@ -16,7 +16,7 @@
 1 Centaur Garden
 2 City of Brass [WC03:dh322]
 3 Forest [WC03:dh348]
-2 Forest [WC03:dh349]
+3 Forest [WC03:dh349]
 2 Forest [WC03:dh350]
 4 Island [WC03:dh336]
 4 Island [WC03:dh337]
