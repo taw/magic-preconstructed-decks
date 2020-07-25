@@ -1,5 +1,6 @@
 // NAME: Tom van de Logt - Replenish
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2000
+// DATE: 2000-08-02
 4 Attunement
 1 Energy Field
 4 Opalescence

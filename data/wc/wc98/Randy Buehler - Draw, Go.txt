@@ -1,5 +1,6 @@
 // NAME: Randy Buehler - Draw, Go
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
+// DATE: 1998-08-12
 1 Rainbow Efreet
 4 Counterspell
 4 Dismiss

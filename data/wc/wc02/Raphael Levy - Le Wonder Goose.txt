@@ -1,5 +1,6 @@
 // NAME: Raphael Levy - Le Wonder Goose
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
+// DATE: 2002-08-14
 2 Genesis [WC02:rl117]
 4 Nimble Mongoose
 3 Seton's Scout

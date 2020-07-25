@@ -1,5 +1,6 @@
 // NAME: Carlos Romão - Psychatog
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
+// DATE: 2002-08-14
 4 Nightscape Familiar
 4 Psychatog
 3 Circular Logic [WC02:cr33]

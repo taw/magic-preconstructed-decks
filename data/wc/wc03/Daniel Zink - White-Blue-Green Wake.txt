@@ -1,5 +1,6 @@
 // NAME: Daniel Zink - White-Blue-Green Wake
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+// DATE: 2003-08-06
 1 Mirari
 3 Compulsion
 3 Mirari's Wake

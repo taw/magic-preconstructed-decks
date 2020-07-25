@@ -1,5 +1,6 @@
 // NAME: Brian Hacker - White Weenie
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
+// DATE: 1998-08-12
 3 Nomads en-Kor
 3 Paladin en-Vec
 4 Soltari Monk

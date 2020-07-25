@@ -1,5 +1,6 @@
 // NAME: Paul McCabe - Red-Blue Aggro Control
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1997
+// DATE: 1997-08-13
 4 Cloud Elemental
 4 Man-o'-War [WC97:pm37b]
 4 Ophidian

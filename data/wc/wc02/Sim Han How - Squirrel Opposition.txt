@@ -1,5 +1,6 @@
 // NAME: Sim Han How - Squirrel Opposition
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2002
+// DATE: 2002-08-14
 4 Birds of Paradise [WC02:shh231]
 3 Flametongue Kavu [WC02:shh60]
 3 Llanowar Elves [WC02:shh253]

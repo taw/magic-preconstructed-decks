@@ -1,5 +1,6 @@
 // NAME: Kai Budde - Red-Artifact Wildfire
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+// DATE: 1999-08-04
 4 Covetous Dragon
 1 Karn, Silver Golem
 3 Masticore [WC99:kb143b]

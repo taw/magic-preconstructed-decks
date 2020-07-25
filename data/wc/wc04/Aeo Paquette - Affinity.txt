@@ -1,5 +1,6 @@
 // NAME: Aeo Paquette - Affinity
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2004
+// DATE: 2004-09-01
 4 Arcbound Ravager
 4 Arcbound Worker
 4 Chrome Mox [WC04:ap152]

@@ -1,5 +1,6 @@
 // NAME: Ben Rubin - Sligh
 // COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1998
+// DATE: 1998-08-12
 4 Ball Lightning
 2 Goblin Vandal
 4 Ironclaw Orcs
