@@ -27,6 +27,7 @@ class BuildJsons
       release_date: deck.release_date,
       cards: deck.card_data,
       sideboard: deck.sideboard_data,
+      commander: deck.commander_data,
     }
     @decks << deck_data
   end
