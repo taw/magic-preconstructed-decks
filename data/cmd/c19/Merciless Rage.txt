@@ -1,6 +1,7 @@
 // NAME: Merciless Rage
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
+COMMANDER: 1 Anje Falkenrath [foil]
 1 Ob Nixilis Reignited
 1 Chainer, Nightmare Adept [foil]
 1 Greven, Predator Captain [foil]
@@ -82,6 +83,3 @@
 1 Rix Maadi, Dungeon Palace
 1 Terramorphic Expanse
 1 Temple of the False God
-
-Sideboard
-1 Anje Falkenrath [foil]

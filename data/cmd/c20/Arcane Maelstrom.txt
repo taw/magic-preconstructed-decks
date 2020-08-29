@@ -1,6 +1,7 @@
 // NAME: Arcane Maelstrom
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/arcane-maelstrom-2020-04-06
 // DATE: 2020-04-17
+COMMANDER: 1 Kalamax, the Stormsire [foil]
 1 Jace, Architect of Thought
 1 Xyris, the Writhing Storm [foil]
 1 Haldan, Avid Arcanist [foil]
@@ -85,6 +86,3 @@
 8 Forest
 5 Island
 5 Mountain
-
-Sideboard
-1 Kalamax, the Stormsire [foil]

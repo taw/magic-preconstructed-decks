@@ -1,6 +1,7 @@
 // NAME: Arcane Wizardry
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
 // DATE: 2017-08-25
+COMMANDER: 1 Inalla, Archmage Ritualist [foil]
 1 Kess, Dissident Mage [foil]
 1 Mairsil, the Pretender [foil]
 1 Galecaster Colossus
@@ -83,6 +84,3 @@
 1 Vivid Crag
 1 Vivid Creek
 1 Vivid Marsh
-
-Sideboard
-1 Inalla, Archmage Ritualist [foil]

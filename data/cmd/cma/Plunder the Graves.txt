@@ -1,6 +1,7 @@
 // NAME: Plunder the Graves
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29
 // DATE: 2017-06-09
+COMMANDER: 1 Meren of Clan Nel Toth [foil]
 1 Sakura-Tribe Elder
 1 Satyr Wayfinder
 1 Viridian Emissary
@@ -77,6 +78,3 @@
 1 Vivid Marsh
 13 Swamp
 12 Forest
-
-Sideboard
-1 Meren of Clan Nel Toth [foil]

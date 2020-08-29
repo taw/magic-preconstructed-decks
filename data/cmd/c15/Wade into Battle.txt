@@ -1,6 +1,7 @@
 // NAME: Wade into Battle
 // COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
 // DATE: 2015-11-13
+COMMANDER: 1 Kalemne, Disciple of Iroas
 1 Oreskos Explorer
 1 Magus of the Wheel
 1 Stinkdrinker Daredevil
@@ -77,6 +78,3 @@
 14 Mountain
 11 Plains
 1 Crib Swap
-
-Sideboard
-1 Kalemne, Disciple of Iroas

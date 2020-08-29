@@ -1,6 +1,7 @@
 // NAME: Evasive Maneuvers
 // COMMENTS: https://magic.wizards.com/en/content/evasive-maneuvers-commander-2013-card-set-archive
 // DATE: 2013-11-01
+COMMANDER: 1 Derevi, Empyrial Tactician
 1 Acidic Slime
 1 Aerie Mystics
 1 Angel of Finality
@@ -83,6 +84,3 @@
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Transguild Promenade
-
-Sideboard
-1 Derevi, Empyrial Tactician

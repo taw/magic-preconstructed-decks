@@ -1,6 +1,7 @@
 // NAME: Devour for Power
 // COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
 // DATE: 2011-06-17
+COMMANDER: 1 The Mimeoplasm
 1 Nezumi Graverobber
 1 Skullbriar, the Walking Grave
 1 Riddlekeeper
@@ -76,6 +77,3 @@
 8 Forest
 8 Island
 11 Swamp
-
-Sideboard
-1 The Mimeoplasm

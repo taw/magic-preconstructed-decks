@@ -1,6 +1,7 @@
 // NAME: Forged In Stone
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
 // DATE: 2014-11-07
+COMMANDER: 1 Nahiri, the Lithomancer
 1 Containment Priest
 1 Whitemane Lion
 1 Grand Abolisher
@@ -69,6 +70,3 @@
 1 Secluded Steppe
 1 Temple of the False God
 32 Plains
-
-Sideboard
-1 Nahiri, the Lithomancer

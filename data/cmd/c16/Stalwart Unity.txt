@@ -1,6 +1,7 @@
 // NAME: Stalwart Unity
 // COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
 // DATE: 2016-11-11
+COMMANDER: 1 Kynaios and Tiro of Meletis [foil]
 1 Veteran Explorer
 1 Humble Defector
 1 Hushwing Gryff
@@ -84,6 +85,3 @@
 5 Island
 5 Mountain
 5 Forest
-
-Sideboard
-1 Kynaios and Tiro of Meletis [foil]

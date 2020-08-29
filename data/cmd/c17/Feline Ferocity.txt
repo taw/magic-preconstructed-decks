@@ -1,6 +1,7 @@
 // NAME: Feline Ferocity
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11
 // DATE: 2017-08-25
+COMMANDER: 1 Arahbo, Roar of the World [foil]
 1 Nazahn, Revered Bladesmith [foil]
 1 Mirri, Weatherlight Duelist [foil]
 1 Alms Collector
@@ -89,6 +90,3 @@
 1 Tranquil Thicket
 1 Vivid Meadow
 1 Vivid Grove
-
-Sideboard
-1 Arahbo, Roar of the World [foil]

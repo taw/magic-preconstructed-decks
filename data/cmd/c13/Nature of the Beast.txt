@@ -1,6 +1,7 @@
 // NAME: Nature of the Beast
 // COMMENTS: https://magic.wizards.com/en/content/nature-beast-commander-2013-card-set-archive
 // DATE: 2013-11-01
+COMMANDER: 1 Marath, Will of the Wild
 1 Archangel
 1 Avenger of Zendikar
 1 Baloth Woodcrasher
@@ -86,6 +87,3 @@
 1 Tranquil Thicket
 1 Vitu-Ghazi, the City-Tree
 1 Vivid Crag
-
-Sideboard
-1 Marath, Will of the Wild

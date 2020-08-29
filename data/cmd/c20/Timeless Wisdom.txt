@@ -1,6 +1,7 @@
 // NAME: Timeless Wisdom
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/timeless-wisdom-2020-04-06
 // DATE: 2020-04-17
+COMMANDER: 1 Gavi, Nest Warden [foil]
 1 Chandra, Flamecaller
 1 Akim, the Soaring Wind [foil]
 1 Brallin, Skyshark Rider [foil]
@@ -88,6 +89,3 @@
 5 Island
 6 Mountain
 4 Plains
-
-Sideboard
-1 Gavi, Nest Warden [foil]

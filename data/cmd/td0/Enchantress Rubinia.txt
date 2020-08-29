@@ -1,6 +1,7 @@
 // NAME: Enchantress Rubinia
 // COMMENT: https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25
 // DATE:  2009-08-26
+COMMANDER: 1 Rubinia Soulsinger
 1 Azorius Chancery
 1 Bant Panorama
 1 Coastal Tower
@@ -75,6 +76,3 @@
 1 Sterling Grove
 1 [TD0:A17] Swords to Plowshares
 1 Temporal Spring
-
-Sideboard
-1 Rubinia Soulsinger

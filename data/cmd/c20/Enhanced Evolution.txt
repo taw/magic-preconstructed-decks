@@ -1,6 +1,7 @@
 // NAME: Enhanced Evolution
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/enhanced-evolution-2020-04-06
 // DATE: 2020-04-17
+COMMANDER: 1 Otrimi, the Ever-Playful [foil]
 1 Nissa, Steward of Elements
 1 Zaxara, the Exemplary [foil]
 1 Cazur, Ruthless Stalker [foil]
@@ -85,6 +86,3 @@
 5 Swamp
 11 Forest
 2 Island
-
-Sideboard
-1 Otrimi, the Ever-Playful [foil]

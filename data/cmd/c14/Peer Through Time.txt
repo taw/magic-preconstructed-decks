@@ -1,6 +1,7 @@
 // NAME: Peer Through Time
 // COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/peer-through-time
 // DATE: 2014-11-07
+COMMANDER: 1 Teferi, Temporal Archmage
 1 Azure Mage
 1 Fathom Seer
 1 Fog Bank
@@ -70,6 +71,3 @@
 1 Tectonic Edge
 1 Zoetic Cavern
 31 Island
-
-Sideboard
-1 Teferi, Temporal Archmage

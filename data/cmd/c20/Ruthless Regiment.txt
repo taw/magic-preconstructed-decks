@@ -1,6 +1,7 @@
 // NAME: Ruthless Regiment
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/ruthless-regiment-2020-04-06
 // DATE: 2020-04-17
+COMMANDER: 1 Jirina Kudro [foil]
 1 Nahiri, the Harbinger
 1 Kelsien, the Plague [foil]
 1 Trynn, Champion of Freedom [foil]
@@ -87,6 +88,3 @@
 4 Mountain
 8 Plains
 4 Swamp
-
-Sideboard
-1 Jirina Kudro [foil]

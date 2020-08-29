@@ -1,6 +1,7 @@
 // NAME: Adaptive Enchantment
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
 // DATE: 2018-08-10
+COMMANDER: 1 Estrid, the Masked [foil]
 1 Bruna, Light of Alabaster
 1 Eidolon of Blossoms
 1 Hydra Omnivore
@@ -80,6 +81,3 @@
 1 Loyal Drake
 1 Loyal Guardian
 1 Forge of Heroes
-
-Sideboard
-1 Estrid, the Masked [foil]

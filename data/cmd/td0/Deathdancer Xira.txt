@@ -1,6 +1,7 @@
 // NAME: Deathdancer Xira
 // COMMENT: https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25
 // DATE: 2009-08-26
+COMMANDER: 1 Xira Arien
 1 Barren Moor
 1 Darigaaz's Caldera
 10 Forest
@@ -78,6 +79,3 @@
 1 Skullclamp
 1 Terminate
 1 Terror
-
-Sideboard
-1 Xira Arien

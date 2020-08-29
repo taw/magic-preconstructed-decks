@@ -1,6 +1,7 @@
 // NAME: Heavenly Inferno
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29
 // DATE: 2017-06-09
+COMMANDER: 1 Kaalia of the Vast [foil]
 1 Akroma, Angel of Fury
 1 Angel of Despair
 1 Angelic Arbiter
@@ -79,6 +80,3 @@
 8 Swamp
 1 Vivid Meadow
 1 Zoetic Cavern
-
-Sideboard
-1 Kaalia of the Vast [foil]

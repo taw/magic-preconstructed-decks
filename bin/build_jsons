@@ -32,9 +32,13 @@ class BuildJsons
     @decks << deck_data
   end
 
-  def ensure_deck_size(path, deck, size, sideboard_size)
-    unless [*size].any?{|s| s == deck.size } and [*sideboard_size].any?{|s| s == deck.sideboard_size }
-      warn "#{path}: Expected #{size}+#{sideboard_size} cards, not #{deck.size}+#{deck.sideboard_size}"
+  def size_equals?(sizes, n)
+    [*sizes].any?{|s| s == n}
+  end
+
+  def ensure_deck_size(path, deck, size, sideboard_size, commander_size)
+    unless size_equals?(size, deck.size) and size_equals?(sideboard_size, deck.sideboard_size) and size_equals?(commander_size, deck.commander_size)
+      warn "#{path}: Expected #{size}+#{sideboard_size}+#{commander_size} cards, not #{deck.size}+#{deck.sideboard_size}+#{deck.commander_size}"
     end
   end
 
@@ -49,7 +53,7 @@ class BuildJsons
     end
     type = DeckTypes[deck_type]
     if type
-      ensure_deck_size(path, deck, type[:size], type[:sideboard])
+      ensure_deck_size(path, deck, type[:size], type[:sideboard] || [0], type[:commander] || [0])
       add_deck(name, deck, set_code, set_name, type[:name])
     else
       warn "Unknown deck type #{deck_type} of #{deck.size}+#{deck.sideboard_size}, skipping"

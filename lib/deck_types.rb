@@ -1,10 +1,10 @@
 DeckTypes = {
   "advanced-pack" => { size: 15, sideboard: 0, name: "Advanced Pack" }, # S2TK
   "archenemy"     => { size: 60, sideboard: [0, 20], name: "Archenemy Deck" },
-  "brawl"         => { size: 59, sideboard: 1, name: "Brawl Deck" },
+  "brawl"         => { size: 59, commander: 1, name: "Brawl Deck" },
   "challenger"    => { size: 60, sideboard: 15, name: "Challenger Deck" },
   "clash"         => { size: 60, sideboard: [0, 15], name: "Clash Pack" },
-  "cmd"           => { size: 99, sideboard: 1, name: "Commander Deck" },
+  "cmd"           => { size: 99, commander: 1, name: "Commander Deck" },
   "dotp"          => { size: 60, sideboard: 0, name: "Duel Of The Planeswalkers Deck" },
   "duel"          => { size: 60, sideboard: 0, name: "Duel Deck" },
   "event"         => { size: 60, sideboard: 15, name: "Event Deck" },

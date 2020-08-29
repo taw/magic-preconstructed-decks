@@ -1,6 +1,7 @@
 // NAME: Guided by Nature
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-anthology-2017-05-29
 // DATE: 2017-06-09
+COMMANDER: 1 Freyalise, Llanowar's Fury [foil]
 1 Elvish Mystic
 1 Elvish Skysweeper
 1 Essence Warden
@@ -76,6 +77,3 @@
 1 Terramorphic Expanse
 1 Tranquil Thicket
 25 Forest
-
-Sideboard
-1 Freyalise, Llanowar's Fury [foil]

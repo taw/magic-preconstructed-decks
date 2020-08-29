@@ -1,6 +1,7 @@
 // NAME: Exquisite Invention
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
 // DATE: 2018-08-10
+COMMANDER: 1 Saheeli, the Gifted [foil]
 1 Maverick Thopterist
 1 Soul of New Phyrexia
 1 Inkwell Leviathan
@@ -75,6 +76,3 @@
 1 Geode Golem
 1 Thopter Engineer
 1 Forge of Heroes
-
-Sideboard
-1 Saheeli, the Gifted [foil]

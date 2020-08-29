@@ -1,6 +1,7 @@
 // NAME: Open Hostility
 // COMMENTS: https://magic.wizards.com/en/content/commander-2016-cards
 // DATE: 2016-11-11
+COMMANDER: 1 Saskia the Unyielding [foil]
 1 Wight of Precinct Six
 1 Den Protector
 1 Quirion Explorer
@@ -88,6 +89,3 @@
 3 Swamp
 5 Mountain
 5 Forest
-
-Sideboard
-1 Saskia the Unyielding [foil]

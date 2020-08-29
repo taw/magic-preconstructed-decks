@@ -1,6 +1,7 @@
 // NAME: Primal Genesis
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
+COMMANDER: 1 Ghired, Conclave Exile [foil]
 1 Garruk, Primal Hunter
 1 Atla Palani, Nest Tender [foil]
 1 Marisi, Breaker of the Coil [foil]
@@ -84,6 +85,3 @@
 1 Rugged Highlands
 1 Selesnya Sanctuary
 1 Terramorphic Expanse
-
-Sideboard
-1 Ghired, Conclave Exile [foil]
