@@ -44,7 +44,7 @@ COMMANDER: 1 Anowon, the Ruin Thief [foil]
 1 Fated Return
 1 Silumgar's Command
 1 Spinal Embrace
-1 AEtherize
+1 Aetherize
 1 Fact or Fiction
 1 Murder
 1 Price of Fame
