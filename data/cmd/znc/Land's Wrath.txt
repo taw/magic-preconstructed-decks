@@ -1,0 +1,87 @@
+// NAME: Land's Wrath
+// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/zendikar-rising-commander-decklists-2020-09-09
+// DATE: 2020-09-25
+COMMANDER: 1 Obuun, Mul Daya Ancestor [foil]
+1 Admonition Angel
+1 Trove Warden
+1 Geode Rager
+1 Emeria Angel
+1 Emeria Shepherd
+1 Sun Titan
+1 Multani, Yavimaya's Avatar
+1 Rampaging Baloths
+1 Sylvan Advocate
+1 Waker of the Wilds
+1 Living Twister
+1 Mina and Denn, Wildborn
+1 Omnath, Locus of Rage
+1 Abzan Falconer
+1 Elite Scaleguard
+1 Kor Cartographer
+1 Acidic Slime
+1 Armorcraft Judge
+1 Elvish Rejuvenator
+1 Embodiment of Insight
+1 Evolution Sage
+1 Fertilid
+1 Keeper of Fables
+1 Satyr Wayfinder
+1 Sporemound
+1 Springbloom Druid
+1 Tuskguard Captain
+1 Yavimaya Elder
+1 Sandstone Oracle
+1 Scaretiller
+1 Murasa Rootgrazer
+1 Hour of Revelation
+1 Planar Outburst
+1 Nissa's Renewal
+1 Beanstalk Giant
+1 Circuitous Route
+1 Far Wanderings
+1 Harmonize
+1 Kodama's Reach
+1 Ground Assault
+1 Treacherous Terrain
+1 Return of the Wildspeaker
+1 Condemn
+1 Crush Contraband
+1 Harrow
+1 Inspiring Call
+1 Naya Charm
+1 Sylvan Reclamation
+1 Roiling Regrowth
+1 Seer's Sundial
+1 Arcane Signet
+1 Sol Ring
+1 Together Forever
+1 Abundance
+1 The Mending of Dominaria
+1 Rites of Flourishing
+1 Banishing Light
+1 Retreat to Emeria
+1 Khalni Heart Expedition
+1 Retreat to Kazandu
+1 Zendikar's Roil
+1 Needle Spires
+1 Blighted Woodland
+1 Boros Garrison
+1 Boros Guildgate
+1 Command Tower
+1 Cryptic Caves
+1 Evolving Wilds
+1 Gruul Guildgate
+1 Gruul Turf
+1 Jungle Shrine
+1 Krosan Verge
+1 Myriad Landscape
+1 Naya Panorama
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Terramorphic Expanse
+7 Plains
+4 Mountain
+10 Forest
+1 Struggle //  Survive
+
+Sideboard
