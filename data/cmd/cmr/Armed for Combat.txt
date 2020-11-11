@@ -1,0 +1,84 @@
+// NAME: Armed for Combat
+// COMMENTS: https://mtg.gamepedia.com/Commander_Legends/Commander_decks
+// DATE: 2020-11-20
+COMMANDER: 1 Wyleth, Soul of Steel [foil]
+1 Oreskos Explorer
+1 Relic Seeker
+1 Sram, Senior Edificer
+1 Brass Squire
+1 Danitha Capashen, Paragon
+1 Dualcaster Mage
+1 Flickerwisp
+1 Ironclad Slayer
+1 Kor Cartographer
+1 Odric, Lunarch Marshal
+1 Tiana, Ship's Caretaker
+1 Condemn
+1 Expedite
+1 Swords to Plowshares
+1 Abrade
+1 Boros Charm
+1 Comet Storm
+1 Dawn Charm
+1 Deflecting Palm
+1 Disenchant
+1 Fists of Flame
+1 Temur Battle Rage
+1 Valorous Stance
+1 Generous Gift
+1 Unbreakable Formation
+1 Volcanic Fallout
+1 Wear // Tear
+1 White Sun's Zenith
+1 Master Warcraft
+1 Return to Dust
+1 Wild Ricochet
+1 Word of Seizing
+1 Response // Resurgence
+1 Jaya's Immolating Inferno
+1 Martial Coup
+1 Relentless Assault
+1 Winds of Rath
+1 Bonesplitter
+1 Explorer's Scope
+1 Sol Ring
+1 Blackblade Reforged
+1 Blazing Sunsteel
+1 Boros Signet
+1 Hero's Blade
+1 Mask of Avacyn
+1 Ring of Thune
+1 Ring of Valkas
+1 Swiftfoot Boots
+1 Fireshrieker
+1 Haunted Cloak
+1 Loxodon Warhammer
+1 Sunforger
+1 Sword of Vengeance
+1 Sigarda's Aid
+1 Spirit Mantle
+1 Timely Ward
+1 Unquestioned Authority
+1 Faith Unbroken
+1 On Serra's Wings
+1 Boros Garrison
+1 Boros Guildgate
+1 Command Tower
+1 Encroaching Wastes
+1 Evolving Wilds
+1 Forgotten Cave
+1 Memorial to War
+9 Mountain
+1 Myriad Landscape
+14 Plains
+1 Rogue's Passage
+1 Rupture Spire
+1 Secluded Steppe
+1 Slayers' Stronghold
+1 Stone Quarry
+1 Sunhome, Fortress of the Legion
+1 Terramorphic Expanse
+1 Transguild Promenade
+1 Wind-Scarred Crag
+
+Sideboard
