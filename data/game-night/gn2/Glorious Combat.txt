@@ -1,0 +1,27 @@
+// NAME: Glorious Combat
+// COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
+// DATE: 2019-11-15
+1 Highcliff Felidar
+1 Zetalpa, Primal Dawn
+1 Kytheon's Irregulars
+1 Loxodon Lifechanter
+1 Sephara, Sky's Blade
+1 Griffin Protector
+2 Inspiring Captain
+2 Squad Captain
+3 Steadfast Sentry
+2 Consul's Lieutenant
+2 Fiend Binder
+2 Patron of the Valiant
+1 Relief Captain
+1 Steppe Glider
+2 Topan Freeblade
+1 Howling Golem
+1 Take Vengeance
+2 Inspired Charge
+3 Raise the Alarm
+2 Mighty Leap
+2 Pacifism
+26 Plains
+
+Sideboard

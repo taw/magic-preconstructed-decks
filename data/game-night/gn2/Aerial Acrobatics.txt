@@ -1,0 +1,29 @@
+// NAME: Aerial Acrobatics
+// COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
+// DATE: 2019-11-15
+1 Sphinx of Enlightenment
+1 Brineborn Cutthroat
+1 Agent of Treachery
+1 Dungeon Geists
+2 Air Elemental
+2 Cloudkin Seer
+2 Frost Lynx
+2 Moat Piranhas
+2 Warden of Evos Isle
+2 Aven Wind Mage
+2 Cryptic Serpent
+2 Salvager of Secrets
+1 Howling Golem
+1 River's Rebuke
+1 Captivating Gyre
+2 Winged Words
+1 Rise from the Tides
+1 Engulf the Shore
+1 Unsummon
+2 Decision Paralysis
+1 Dramatic Reversal
+2 Galestrike
+1 Claustrophobia
+26 Island
+
+Sideboard

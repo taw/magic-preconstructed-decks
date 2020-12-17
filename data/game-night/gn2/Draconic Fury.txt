@@ -1,0 +1,29 @@
+// NAME: Draconic Fury
+// COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
+// DATE: 2019-11-15
+1 Fiendish Duo
+1 Drakuseth, Maw of Flames
+1 Akoum Hellkite
+1 Lathliss, Dragon Queen
+1 Glint-Horn Buccaneer
+1 Dragon Mage
+2 Goblin Smuggler
+2 Keldon Raider
+4 Pack Mastiff
+2 Ripscale Predator
+2 Dragon Egg
+2 Kargan Dragonrider
+2 Sparktongue Dragon
+2 Voldaren Duelist
+1 Zealot of the God-Pharaoh
+1 Howling Golem
+1 Act of Treason
+1 Tectonic Rift
+1 Destructive Tampering
+1 Chandra's Outrage
+1 Shock
+1 Brute Strength
+2 Lightning Strike
+26 Mountain
+
+Sideboard

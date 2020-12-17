@@ -1,0 +1,27 @@
+// NAME: Endless Hordes
+// COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
+// DATE: 2019-11-15
+1 Calculating Lich
+1 Torgaar, Famine Incarnate
+1 Dread Presence
+1 Vilis, Broker of Blood
+3 Gorging Vulture
+2 Gravedigger
+2 Sanitarium Skeleton
+4 Undead Servant
+1 Accursed Horde
+1 Carrion Screecher
+2 Crow of Dark Tidings
+1 Gavony Unhallowed
+2 Lord of the Accursed
+3 Tattered Mummy
+1 Howling Golem
+1 Blood for Bones
+1 Bone Splinters
+1 Rise from the Grave
+2 Murder
+2 Grasp of Darkness
+1 Liliana's Mastery
+26 Swamp
+
+Sideboard
