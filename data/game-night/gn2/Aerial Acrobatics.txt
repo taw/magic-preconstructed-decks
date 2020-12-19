@@ -1,7 +1,7 @@
 // NAME: Aerial Acrobatics
 // COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
 // DATE: 2019-11-15
-1 Sphinx of Enlightenment
+1 Sphinx of Enlightenment [foil]
 1 Brineborn Cutthroat
 1 Agent of Treachery
 1 Dungeon Geists

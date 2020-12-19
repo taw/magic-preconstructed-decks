@@ -1,7 +1,7 @@
 // NAME: Endless Hordes
 // COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
 // DATE: 2019-11-15
-1 Calculating Lich
+1 Calculating Lich [foil]
 1 Torgaar, Famine Incarnate
 1 Dread Presence
 1 Vilis, Broker of Blood

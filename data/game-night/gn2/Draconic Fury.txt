@@ -1,7 +1,7 @@
 // NAME: Draconic Fury
 // COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
 // DATE: 2019-11-15
-1 Fiendish Duo
+1 Fiendish Duo [foil]
 1 Drakuseth, Maw of Flames
 1 Akoum Hellkite
 1 Lathliss, Dragon Queen

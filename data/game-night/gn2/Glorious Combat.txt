@@ -1,7 +1,7 @@
 // NAME: Glorious Combat
 // COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
 // DATE: 2019-11-15
-1 Highcliff Felidar
+1 Highcliff Felidar [foil]
 1 Zetalpa, Primal Dawn
 1 Kytheon's Irregulars
 1 Loxodon Lifechanter
