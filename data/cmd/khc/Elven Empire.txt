@@ -1,0 +1,78 @@
+// NAME: Elven Empire
+// COMMENTS: https://mtg.fandom.com/wiki/Kaldheim/Commander_decks
+// DATE: 2021-02-05
+COMMANDER: 1 Lathril, Blade of the Elves [foil]
+1 Abomination of Llanowar
+1 Beast Whisperer
+1 Canopy Tactician
+1 Cultivator of Blades
+1 Dwynen, Gilt-Leaf Daen
+1 Elderfang Ritualist
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Elvish Rejuvenator
+1 End-Raze Forerunners
+1 Eyeblight Cullers
+1 Farhaven Elf
+1 Golgari Findbroker
+1 Harald, King of Skemfar
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Jaspera Sentinel
+1 Llanowar Tribe
+1 Lys Alana Huntmaster
+1 Lys Alana Scarblade
+1 Marwyn, the Nurturer
+1 Masked Admirers
+1 Miara, Thorn of the Glade
+1 Nullmage Shepherd
+1 Numa, Joraga Chieftain
+1 Poison-Tip Archer
+1 Reclamation Sage
+1 Rhys the Exiled
+1 Ruthless Winnower
+1 Shaman of the Pack
+1 Skemfar Shadowsage
+1 Springbloom Druid
+1 Sylvan Messenger
+1 Timberwatch Elf
+1 Twinblade Assassins
+1 Voice of Many
+1 Voice of the Woods
+1 Wirewood Channeler
+1 Wolverine Riders
+1 Wood Elves
+1 Elven Ambush
+1 Poison the Cup
+1 Putrefy
+1 Tergrid's Shadow
+1 Ambition's Cost
+1 Bounty of Skemfar
+1 Casualties of War
+1 Eyeblight Massacre
+1 Elvish Promenade
+1 Harvest Season
+1 Pact of the Serpent
+1 Return Upon the Tide
+1 Roots of Wisdom
+1 Arcane Signet
+1 Serpent's Soul-Jar
+1 Sol Ring
+1 Binding the Old Gods
+1 Crown of Skemfar
+1 Elderfang Venom
+1 Pride of the Perfect
+1 Prowess of the Fair
+1 Moldervine Reclamation
+1 Command Tower
+16 Forest
+1 Foul Orchard
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Jungle Hollow
+1 Myriad Landscape
+1 Path of Ancestry
+1 Skemfar Elderhall
+13 Swamp
+
+Sideboard
