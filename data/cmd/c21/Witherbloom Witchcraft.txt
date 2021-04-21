@@ -1,0 +1,85 @@
+// NAME: Witherbloom Witchcraft
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/commander-2021-edition-decklists-2021-04-05
+// DATE: 2021-04-23
+COMMANDER: 1 Willowdusk, Essence Seer [foil]
+1 Ob Nixilis Reignited
+1 Gyome, Master Chef [foil]
+1 Marshland Bloodcaster
+1 Tivash, Gloom Summoner
+1 Veinwitch Coven
+1 Blossoming Bogbeast
+1 Ezzaroot Channeler
+1 Sproutback Trudge
+1 Yedora, Grave Gardener
+1 Bloodtracker
+1 Defiant Bloodlord
+1 Noxious Gearhulk
+1 Sangromancer
+1 Ageless Entity
+1 Gluttonous Troll
+1 Sapling of Colfenor
+1 Honor Troll
+1 Dina, Soul Steeper
+1 Bloodthirsty Aerialist
+1 Epicure of Blood
+1 Silversmote Ghoul
+1 Vampire Nighthawk
+1 Leyline Prowler
+1 Essence Pulse
+1 Healing Technique
+1 Pest Infestation
+1 Revival Experiment
+1 Damnable Pact
+1 Deadly Tempest
+1 Taste of Death
+1 Gaze of Granite
+1 Ancient Craving
+1 Feed the Swarm
+1 Cultivate
+1 Rampant Growth
+1 Mortality Spear
+1 Reckless Spite
+1 Suffer the Past
+1 Pulse of Murasa
+1 Druidic Satchel
+1 Loxodon Warhammer
+1 Well of Lost Dreams
+1 Arcane Signet
+1 Elixir of Immortality
+1 Paradise Plume
+1 Pristine Talisman
+1 Sol Ring
+1 Sun Droplet
+1 Talisman of Resilience
+1 Blight Mound
+1 Trudge Garden
+1 Sanguine Bond
+1 Greed
+1 Gift of Paradise
+1 Moldervine Reclamation
+1 Exotic Orchard
+1 High Market
+1 Llanowar Wastes
+1 Temple of Malady
+1 Witherbloom Campus
+1 Study Hall
+1 Blighted Woodland
+1 Command Tower
+1 Gingerbread Cabin
+1 Golgari Rot Farm
+1 Jungle Hollow
+1 Myriad Landscape
+1 Radiant Fountain
+1 Sapseep Forest
+1 Tainted Wood
+1 Temple of the False God
+11 Swamp
+11 Forest
+1 Witch's Clinic
+1 Nissa's Renewal
+1 Verdant Sun's Avatar
+1 Alhammarret's Archive
+1 Venser's Journal
+1 Rogue's Passage
+
+Sideboard
