@@ -9,7 +9,7 @@ COMMANDER: 1 The Mimeoplasm [foil]
 1 Eternal Witness
 1 Troll Ascetic
 1 Yavimaya Elder
-1 Solemn Simulacrum
+1 Solemn Simulacrum [CM2:218]
 1 Brawn
 1 Wonder
 1 Sewer Nemesis
@@ -52,9 +52,9 @@ COMMANDER: 1 The Mimeoplasm [foil]
 1 Relic Crush
 1 Sol Ring
 1 Dimir Signet
-1 Golgari Signet
+1 Golgari Signet [CM2:191]
 1 Lightning Greaves
-1 Simic Signet
+1 Simic Signet [CM2:215]
 1 Oblivion Stone
 1 Vow of Wildness
 1 Vow of Flight
@@ -71,7 +71,7 @@ COMMANDER: 1 The Mimeoplasm [foil]
 1 Rupture Spire
 1 Simic Growth Chamber
 1 Svogthos, the Restless Tomb
-1 Temple of the False God
+1 Temple of the False God [CM2:271]
 1 Terramorphic Expanse
 1 Tranquil Thicket
 8 Forest

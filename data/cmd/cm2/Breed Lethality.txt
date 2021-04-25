@@ -49,9 +49,9 @@ COMMANDER: 1 Atraxa, Praetors' Voice [foil]
 1 Sylvan Reclamation
 1 Sol Ring
 1 Fellwar Stone
-1 Golgari Signet
+1 Golgari Signet [CM2:192]
 1 Orzhov Signet
-1 Simic Signet
+1 Simic Signet [CM2:216]
 1 Commander's Sphere
 1 Darksteel Ingot
 1 Cauldron of Souls
@@ -77,7 +77,7 @@ COMMANDER: 1 Atraxa, Praetors' Voice [foil]
 1 Sandsteppe Citadel
 1 Seaside Citadel
 1 Sungrass Prairie
-1 Temple of the False God
+1 Temple of the False God [CM2:272]
 1 Terramorphic Expanse
 1 Underground River
 5 Plains

@@ -14,7 +14,7 @@ COMMANDER: 1 Daretti, Scrap Savant [foil]
 1 Tuktuk the Explorer
 1 Dualcaster Mage
 1 Feldon of the Third Path [foil]
-1 Solemn Simulacrum
+1 Solemn Simulacrum [CM2:219]
 1 Flametongue Kavu
 1 Beetleback Chief
 1 Ingot Chewer
@@ -71,5 +71,5 @@ COMMANDER: 1 Daretti, Scrap Savant [foil]
 1 Phyrexia's Core
 1 Reliquary Tower
 1 Smoldering Crater
-1 Temple of the False God
+1 Temple of the False God [CM2:271]
 29 Mountain
