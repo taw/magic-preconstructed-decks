@@ -7,11 +7,13 @@
 1 Phantasmal Fiend [DKM:8a]
 1 Phantasmal Fiend [DKM:8b]
 2 Abyssal Specter
-2 Storm Shaman
+1 Storm Shaman [DKM:21a]
+1 Storm Shaman [DKM:21b]
 2 Orcish Cannoneers
 1 Balduvian Horde
 2 Goblin Mutant
-2 Phyrexian War Beast
+1 Phyrexian War Beast [DKM:37a]
+1 Phyrexian War Beast [DKM:37b]
 2 Dark Ritual
 2 Dark Banishing
 1 Necropotence [foil]

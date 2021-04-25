@@ -1,7 +1,8 @@
 // NAME: Garfield
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=1&lang=en
 // DATE: 2001-12-01
-2 Storm Shaman
+1 Storm Shaman [DKM:21a]
+1 Storm Shaman [DKM:21b]
 2 Fyndhorn Elves
 2 Balduvian Bears
 2 Woolly Spider
@@ -12,7 +13,8 @@
 1 Yavimaya Ancients [DKM:31a]
 1 Yavimaya Ancients [DKM:31b]
 2 Giant Trap Door Spider
-2 Phyrexian War Beast
+1 Phyrexian War Beast [DKM:37a]
+1 Phyrexian War Beast [DKM:37b]
 2 Walking Wall
 2 Death Spark
 1 Incinerate [DKM:14★] [foil]
