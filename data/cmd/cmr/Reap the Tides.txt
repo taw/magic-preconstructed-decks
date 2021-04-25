@@ -5,7 +5,7 @@ COMMANDER: 1 Aesi, Tyrant of Gyre Strait [foil]
 1 Coiling Oracle
 1 Eternal Witness
 1 Ramunap Excavator
-1 Reclamation Sage
+1 Reclamation Sage [CMR:434]
 1 Stumpsquall Hydra
 1 Yavimaya Elder
 1 Fathom Mage
@@ -19,7 +19,7 @@ COMMANDER: 1 Aesi, Tyrant of Gyre Strait [foil]
 1 Rampaging Baloths
 1 Shipbreaker Kraken
 1 Avenger of Zendikar
-1 Meteor Golem
+1 Meteor Golem [CMR:467]
 1 Molimo, Maro-Sorcerer
 1 Nezahal, Primal Tide
 1 Scourge of Fleets
@@ -58,7 +58,7 @@ COMMANDER: 1 Aesi, Tyrant of Gyre Strait [foil]
 1 Swiftfoot Boots
 1 Seer's Sundial
 1 Blighted Woodland
-1 Command Tower
+1 Command Tower [CMR:479]
 1 Coral Atoll
 1 Evolving Wilds
 15 Forest
@@ -68,7 +68,7 @@ COMMANDER: 1 Aesi, Tyrant of Gyre Strait [foil]
 1 Reliquary Tower
 1 Simic Growth Chamber
 1 Simic Guildgate
-1 Terramorphic Expanse
+1 Terramorphic Expanse [CMR:497]
 1 Thornwood Falls
 1 Vivid Creek
 1 Vivid Grove
