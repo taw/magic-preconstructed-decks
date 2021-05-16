@@ -1,0 +1,29 @@
+// NAME: Mono-Green Stompy
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12
+// DATE: 2021-04-02
+1 Garruk, Unleashed
+3 Kazandu Mammoth
+2 Stonecoil Serpent
+3 Swarm Shambler
+2 Scavenging Ooze
+2 Wildborn Preserver
+2 Yorvo, Lord of Garenbrig
+4 Lovestruck Beast
+2 Gemrazer
+4 Wildwood Tracker
+2 Syr Faren, the Hengehammer
+3 Thrashing Brontodon
+2 Turntimber Symbiosis
+3 Primal Might
+4 Ram Through
+2 Snakeskin Veil
+19 Forest
+
+Sideboard
+1 Thrashing Brontodon
+2 Snakeskin Veil
+2 Khalni Ambush
+3 Chainweb Aracnir
+2 Return to Nature
+3 Oakhame Adversary
+2 Run Afoul
