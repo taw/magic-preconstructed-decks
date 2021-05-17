@@ -1,0 +1,28 @@
+// NAME: Song Dance
+// COMMENTS: https://mtg.fandom.com/wiki/Challenger_Decks_2019_Japan
+// DATE: 2021-11-08
+2 Gideon Blackblade
+4 Burning Prophet
+4 Tenth District Legionnaire
+2 Dreadhorde Arcanist
+2 Tithe Taker
+4 Feather, the Redeemed
+2 Legion Warboss
+4 Defiant Strike
+4 Gods Willing
+4 Samut's Sprint
+4 Shock
+8 Plains
+6 Mountain
+2 Sacred Foundry
+4 Temple of Triumph
+4 Wind-Scarred Crag
+
+Sideboard
+2 Tomik, Distinguished Advokist
+1 Aurelia, Exemplar of Justice
+4 Lava Coil
+2 Devout Decree
+2 Fry
+2 Prison Realm
+2 Tibalt, Rakish Instigator
