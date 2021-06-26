@@ -1,6 +1,6 @@
 // NAME: Song Dance
 // COMMENTS: https://mtg.fandom.com/wiki/Challenger_Decks_2019_Japan
-// DATE: 2021-11-08
+// DATE: 2019-11-08
 2 Gideon Blackblade
 4 Burning Prophet
 4 Tenth District Legionnaire
