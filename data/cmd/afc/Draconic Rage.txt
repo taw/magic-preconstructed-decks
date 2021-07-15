@@ -58,7 +58,7 @@ COMMANDER: 1 Vrondiss, Rage of Ancients [foil]
 1 Path of Ancestry
 12 Mountain
 15 Forest
-1 Klauth, Unrivaled Ancient
+1 Klauth, Unrivaled Ancient [foil]
 1 Berserker's Frenzy
 1 Chaos Dragon
 1 Maddening Hex

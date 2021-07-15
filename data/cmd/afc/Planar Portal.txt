@@ -57,7 +57,7 @@ COMMANDER: 1 Prosper, Tome-Bound [foil]
 1 Zhalfirin Void
 14 Swamp
 13 Mountain
-1 Karazikar, the Eye Tyrant
+1 Karazikar, the Eye Tyrant [foil]
 1 Bag of Devouring
 1 Danse Macabre
 1 Death Tyrant

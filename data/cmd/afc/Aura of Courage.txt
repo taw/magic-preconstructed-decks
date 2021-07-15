@@ -74,7 +74,7 @@ COMMANDER: 1 Galea, Kindler of Hope [foil]
 4 Island
 8 Forest
 2 Plains
-1 Storvald, Frost Giant Jarl
+1 Storvald, Frost Giant Jarl [foil]
 1 Fey Steed
 1 Holy Avenger
 1 Mantle of the Ancients

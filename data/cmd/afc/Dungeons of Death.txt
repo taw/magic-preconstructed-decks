@@ -66,7 +66,7 @@ COMMANDER: 1 Sefris of the Hidden Ways [foil]
 7 Plains
 5 Island
 7 Swamp
-1 Nihiloor
+1 Nihiloor [foil]
 1 Immovable Rod
 1 Radiant Solar
 1 Revivify
