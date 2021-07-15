@@ -1,0 +1,89 @@
+// NAME: Dungeons of Death
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
+// DATE: 2021-07-23
+COMMANDER: 1 Sefris of the Hidden Ways [foil]
+1 Cataclysmic Gearhulk
+1 Eternal Dragon
+1 Karmic Guide
+1 Sun Titan
+1 Sunblast Angel
+1 Champion of Wits
+1 Curator of Mysteries
+1 Phantasmal Image
+1 Doomed Necromancer
+1 Ashen Rider
+1 Baleful Strix
+1 Hostage Taker
+1 Solemn Simulacrum
+1 Ronom Unicorn
+1 Wall of Omens
+1 Merfolk Looter
+1 Mulldrifter
+1 Murder of Crows
+1 Plaguecrafter
+1 Reassembling Skeleton
+1 Shriekmaw
+1 Cloudblazer
+1 Necrotic Sliver
+1 Obsessive Stitcher
+1 Burnished Hart
+1 Meteor Golem
+1 Necromantic Selection
+1 Unburial Rites
+1 Victimize
+1 Utter End
+1 Swords to Plowshares
+1 Forbidden Alchemy
+1 Despark
+1 Vanish into Memory
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Lightning Greaves
+1 Propaganda
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Geier Reach Sanitarium
+1 High Market
+1 Nimbus Maze
+1 Port Town
+1 Prairie Stream
+1 Sunken Hollow
+1 Evolving Wilds
+1 Arcane Sanctum
+1 Azorius Chancery
+1 Command Tower
+1 Dimir Aqueduct
+1 Esper Panorama
+1 Orzhov Basilica
+1 Terramorphic Expanse
+1 Thriving Heath
+1 Thriving Isle
+1 Thriving Moor
+7 Plains
+5 Island
+7 Swamp
+1 Nihiloor
+1 Immovable Rod
+1 Radiant Solar
+1 Revivify
+1 Thorough Investigation
+1 Arcane Endeavor
+1 Minn, Wily Illusionist
+1 Phantom Steed
+1 Rod of Absorption
+1 Grave Endeavor
+1 Wand of Orcus
+1 Extract Brain
+1 Midnight Pathlighter
+1 Minimus Containment
+1 Hama Pashar, Ruin Seeker
+1 Dungeon Map
+1 Bucknard's Everfull Purse
+1 Clay Golem
+1 Component Pouch
+
+Sideboard

@@ -1,0 +1,94 @@
+// NAME: Aura of Courage
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
+// DATE: 2021-07-23
+COMMANDER: 1 Galea, Kindler of Hope [foil]
+1 Angel of Finality
+1 Puresteel Paladin
+1 Realm-Cloaked Giant
+1 Sram, Senior Edificer
+1 Prognostic Sphinx
+1 Cold-Eyed Selkie
+1 Fleecemane Lion
+1 Knight of Autumn
+1 Riverwise Augur
+1 Acidic Slime
+1 Paradise Druid
+1 Winds of Rath
+1 Serum Visions
+1 Nature's Lore
+1 Heroic Intervention
+1 Valorous Stance
+1 Brainstorm
+1 Bant Charm
+1 Argentum Armor
+1 Basilisk Collar
+1 Masterwork of Ingenuity
+1 Moonsilver Spear
+1 Sword of the Animist
+1 Behemoth Sledge
+1 Arcane Signet
+1 Colossus Hammer
+1 Explorer's Scope
+1 Sol Ring
+1 Swiftfoot Boots
+1 Viridian Longbow
+1 Imprisoned in the Moon
+1 Greater Good
+1 Verdant Embrace
+1 Angelic Gift
+1 Gryff's Boon
+1 Curse of Verbosity
+1 Eel Umbra
+1 Psychic Impetus
+1 Abundant Growth
+1 Fertile Ground
+1 Kenrith's Transformation
+1 Rancor
+1 Utopia Sprawl
+1 Wild Growth
+1 Shielding Plax
+1 Canopy Vista
+1 Exotic Orchard
+1 Fortified Village
+1 Lumbering Falls
+1 Port Town
+1 Prairie Stream
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Evolving Wilds
+1 Azorius Chancery
+1 Bant Panorama
+1 Command Tower
+1 Flood Plain
+1 Grasslands
+1 Halimar Depths
+1 Mishra's Factory
+1 Path of Ancestry
+1 Seaside Citadel
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+1 Thriving Grove
+1 Thriving Heath
+1 Thriving Isle
+1 Vitu-Ghazi, the City-Tree
+4 Island
+8 Forest
+2 Plains
+1 Storvald, Frost Giant Jarl
+1 Fey Steed
+1 Holy Avenger
+1 Mantle of the Ancients
+1 Robe of Stars
+1 Valiant Endeavor
+1 Diviner's Portent
+1 Netherese Puzzle-Ward
+1 Winged Boots
+1 Belt of Giant Strength
+1 Song of Inspiration
+1 Catti-brie of Mithral Hall
+1 Ride the Avalanche
+1 Clay Golem
+1 Ebony Fly
+1 Sword of Hours
+
+Sideboard
