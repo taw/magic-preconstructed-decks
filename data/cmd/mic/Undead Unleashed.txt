@@ -1,0 +1,80 @@
+// NAME: Undead Unleashed
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/innistrad-midnight-hunt-commander-decklists-2021-09-13
+// DATE: 2021-09-17
+COMMANDER: 1 Wilhelt, the Rotcleaver [foil]
+1 Liliana, Death's Majesty
+1 Forgotten Creation
+1 Havengul Runebinder
+1 Stitcher Geralf
+1 Undead Alchemist
+1 Butcher of Malakir
+1 Cemetery Reaper
+1 Death Baron
+1 Diregraf Colossus
+1 Eater of Hope
+1 Gravespawn Sovereign
+1 Midnight Reaper
+1 Overseer of the Damned
+1 Gisa and Geralf
+1 Eternal Skylord
+1 Corpse Augur
+1 Fleshbag Marauder
+1 Liliana's Devotee
+1 Lord of the Accursed
+1 Spark Reaper
+1 Undead Augur
+1 Diregraf Captain
+1 Gleaming Overseer
+1 Ruthless Deathfang
+1 Hour of Eternity
+1 Army of the Damned
+1 Dark Salvation
+1 Dread Summons
+1 Zombie Apocalypse
+1 Distant Melody
+1 Feed the Swarm
+1 Syphon Flesh
+1 Aetherspouts
+1 Go for the Throat
+1 Arcane Signet
+1 Charcoal Diamond
+1 Commander's Sphere
+1 Sky Diamond
+1 Sol Ring
+1 Talisman of Dominance
+1 Rooftop Storm
+1 Dreadhorde Invasion
+1 Endless Ranks of the Dead
+1 Liliana's Mastery
+1 Open the Graves
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Sunken Hollow
+1 Temple of Deceit
+1 Bojuka Bog
+1 Command Tower
+1 Dimir Aqueduct
+1 Mortuary Mire
+1 Myriad Landscape
+1 Path of Ancestry
+1 Tainted Isle
+1 Unclaimed Territory
+12 Island
+15 Swamp
+1 Eloise, Nephalia Sleuth [foil]
+1 Cleaver Skaab
+1 Curse of Unbinding
+1 Drown in Dreams
+1 Empty the Laboratory
+1 Hordewing Skaab
+1 Shadow Kin
+1 Crowded Crypt
+1 Curse of the Restless Dead
+1 Ghouls' Night Out [MIC:19]
+1 Gorex, the Tombshell
+1 Prowling Geistcatcher
+1 Ravenous Rotbelly
+1 Tomb Tyrant
+
+Sideboard

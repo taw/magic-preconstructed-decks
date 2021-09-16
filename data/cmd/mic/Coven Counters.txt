@@ -1,0 +1,83 @@
+// NAME: Coven Counters
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/innistrad-midnight-hunt-commander-decklists-2021-09-13
+// DATE: 2021-09-17
+COMMANDER: 1 Leinore, Autumn Sovereign [foil]
+1 Angel of Glory's Rise
+1 Bastion Protector
+1 Custodi Soulbinders
+1 Dearly Departed
+1 Herald of War
+1 Knight of the White Orchid
+1 Mikaeus, the Lunarch
+1 Odric, Master Tactician
+1 Riders of Gavony
+1 Victory's Envoy
+1 Champion of Lambholt
+1 Gyre Sage
+1 Kessig Cagebreakers
+1 Somberwald Sage
+1 Verdurous Gearhulk
+1 Wild Beastmaster
+1 Heron's Grace Champion
+1 Sigarda, Heron's Grace
+1 Abzan Falconer
+1 Ainok Bond-Kin
+1 Elite Scaleguard
+1 Orzhov Advokist
+1 Avacyn's Pilgrim
+1 Eternal Witness
+1 Yavimaya Elder
+1 Enduring Scalelord
+1 Juniper Order Ranger
+1 Trostani's Summoner
+1 Cleansing Nova
+1 Hour of Reckoning
+1 Shamanic Revelation
+1 Bestial Menace
+1 Biogenic Upgrade
+1 Growth Spasm
+1 Unbreakable Formation
+1 Return to Dust
+1 Swords to Plowshares
+1 Beast Within
+1 Inspiring Call
+1 Lifecrafter's Bestiary
+1 Arcane Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Unity
+1 Citadel Siege
+1 Death's Presence
+1 Canopy Vista
+1 Exotic Orchard
+1 Fortified Village
+1 Sungrass Prairie
+1 Temple of Plenty
+1 Blighted Woodland
+1 Command Tower
+1 Krosan Verge
+1 Myriad Landscape
+1 Path of Ancestry
+1 Rogue's Passage
+1 Selesnya Sanctuary
+1 Temple of the False God
+12 Forest
+12 Plains
+1 Kyler, Sigardian Emissary [foil]
+1 Celestial Judgment
+1 Curse of Conformity
+1 Moorland Rescuer
+1 Sigarda's Vanguard
+1 Stalwart Pathlighter
+1 Wall of Mourning
+1 Celebrate the Harvest
+1 Curse of Clinging Webs
+1 Heronblade Elite
+1 Kurbis, Harvest Celebrant
+1 Ruinous Intrusion
+1 Sigardian Zealot
+1 Somberwald Beastmaster
+1 Dawnhart Wardens
+1 Moonsilver Key
+
+Sideboard
