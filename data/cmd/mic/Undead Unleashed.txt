@@ -1,6 +1,6 @@
 // NAME: Undead Unleashed
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/innistrad-midnight-hunt-commander-decklists-2021-09-13
-// DATE: 2021-09-17
+// DATE: 2021-09-24
 COMMANDER: 1 Wilhelt, the Rotcleaver [foil]
 1 Liliana, Death's Majesty
 1 Forgotten Creation
