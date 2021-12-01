@@ -3,9 +3,9 @@
 // DATE: 2021-11-19
 COMMANDER: 1 Millicent, Restless Revenant [foil]
 1 Dovin, Grand Arbiter
-1 Donal, Herald of Wings
-1 Rhoda, Geist Avenger [foil]
-1 Timin, Youthful Geist [foil]
+1 Donal, Herald of Wings [foil]
+1 Rhoda, Geist Avenger
+1 Timin, Youthful Geist
 1 Drogskol Reinforcements
 1 Priest of the Blessed Graf
 1 Ethereal Investigator

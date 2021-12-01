@@ -2,11 +2,11 @@
 // COMMENTS: https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08
 // DATE: 2021-11-19
 COMMANDER: 1 Strefan, Maurer Progenitor [foil]
-1 Timothar, Baron of Bats
+1 Timothar, Baron of Bats [foil]
 1 Crossway Troublemakers
-1 Kamber, the Plunderer [foil]
+1 Kamber, the Plunderer
 1 Shadowgrange Archfiend
-1 Laurine, the Diversion [foil]
+1 Laurine, the Diversion
 1 Markov Enforcer
 1 Midnight Arsonist
 1 Scion of Opulence
