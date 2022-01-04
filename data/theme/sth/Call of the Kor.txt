@@ -1,5 +1,7 @@
 // NAME: Call of the Kor
 // COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=1&lang=en
+// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/stronghold-theme-decklists
+// COMMENTS: WotC list has an obvious mistake, of wrong basic lands.
 // DATE: 1998-03-02
 3 Nomads en-Kor
 1 Shaman en-Kor
@@ -23,7 +25,7 @@
 1 Dark Banishing*
 2 Evincar's Justice*
 3 Endless Scream*
-13 Island*
+13 Plains*
 11 Swamp*
 
 Sideboard
