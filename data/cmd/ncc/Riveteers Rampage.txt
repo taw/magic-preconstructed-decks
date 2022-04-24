@@ -1,0 +1,93 @@
+// NAME: Riveteers Rampage
+// COMMENTS: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
+// DATE: 2022-04-29
+COMMANDER: 1 Henzie "Toolbox" Torre [foil]
+1 The Beamtown Bullies
+1 Jolene, the Plunder Queen
+1 Caldaia Guardian
+1 Mezzio Mugger
+1 Wave of Rats
+1 Weathered Sentinels
+1 Bellowing Mauler
+1 Grime Gorger
+1 First Responder
+1 Deathbringer Regent
+1 Disciple of Bolas
+1 Noxious Gearhulk
+1 Etali, Primal Storm
+1 Inferno Titan
+1 Stalking Vengeance
+1 Avenger of Zendikar
+1 Giant Adephage
+1 Greenwarden of Murasa
+1 Mitotic Slime
+1 Thragtusk
+1 Treeshaker Chimera
+1 Woodfall Primus
+1 World Shaper
+1 Kresh the Bloodbraided
+1 Solemn Simulacrum
+1 Artisan of Kozilek
+1 Indrik Stomphowler
+1 Overgrown Battlement
+1 Temur Sabertooth
+1 Riveteers Confluence
+1 Aether Snap
+1 Painful Truths
+1 Blasphemous Act
+1 Life's Legacy
+1 Victimize
+1 Explore
+1 Farseek
+1 Kodama's Reach
+1 Migration Path
+1 Rampant Growth
+1 Chaos Warp
+1 Riveteers Charm
+1 Windgrace's Judgment
+1 Terminate
+1 Arcane Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Sol Ring
+1 Dodgy Jalopy
+1 Glittering Stockpile
+1 Lifecrafter's Bestiary
+1 Protection Racket
+1 Industrial Advancement
+1 Rain of Riches
+1 Turf War
+1 Next of Kin
+1 Evolutionary Leap
+1 Warstorm Surge
+1 Garruk's Uprising
+1 Deathreap Ritual
+1 Cinder Glade
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Game Trail
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Spinerock Knoll
+1 Temple of Malady
+1 Twilight Mire
+1 Ash Barrens
+1 Blighted Woodland
+1 Command Tower
+1 Jund Panorama
+1 Myriad Landscape
+1 Path of Ancestry
+1 Riveteers Overlook
+1 Savage Lands
+1 Temple of the False God
+1 Thriving Bluff
+1 Thriving Grove
+1 Thriving Moor
+4 Swamp
+5 Mountain
+6 Forest
+
+Sideboard

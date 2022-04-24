@@ -1,0 +1,94 @@
+// NAME: Bedecked Brokers
+// COMMENTS: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
+// DATE: 2022-04-29
+COMMANDER: 1 Perrie, the Pulverizer [foil]
+1 Ajani Unyielding
+1 Angelic Sleuth
+1 Aven Courier
+1 Aven Mimeomancer
+1 Avenging Huntbonder
+1 Bribe Taker
+1 Crystalline Giant
+1 Devoted Druid
+1 Denry Klin, Editor in Chief
+1 Evolution Sage
+1 Fathom Mage
+1 Forgotten Ancient
+1 Grateful Apparition
+1 Incubation Druid
+1 Jenara, Asura of War
+1 Kros, Defense Contractor
+1 Luminarch Aspirant
+1 Park Heights Maverick
+1 Rishkar, Peema Renegade
+1 Roalesk, Apex Hybrid
+1 Scavenging Ooze
+1 Shield Broker
+1 Skyboon Evangelist
+1 Skyship Plunderer
+1 Slippery Bogbonder
+1 Steelbane Hydra
+1 Thrummingbird
+1 Vorel of the Hull Clade
+1 Wall of Roots
+1 Wickerbough Elder
+1 Wingspan Mentor
+1 Declaration in Stone
+1 Damning Verdict
+1 Planar Outburst
+1 Tezzeret's Gambit
+1 Rishkar's Expertise
+1 Urban Evolution
+1 Bant Charm
+1 Brokers Charm
+1 Brokers Confluence
+1 Contractual Safeguard
+1 Exotic Pets
+1 Generous Gift
+1 Storm of Forms
+1 Family's Favor
+1 Hoofprints of the Stag
+1 Primal Empathy
+1 Resourceful Defense
+1 Together Forever
+1 Agent's Toolkit
+1 Arcane Signet
+1 Commander's Sphere
+1 Everflowing Chalice
+1 Fellwar Stone
+1 Gavel of the Righteous
+1 Midnight Clock
+1 Oblivion Stone
+1 Oracle's Vault
+1 Power Conduit
+1 Sol Ring
+1 Swiftfoot Boots
+1 Ash Barrens
+1 Bant Panorama
+1 Brokers Hideout
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Grove
+1 Fortified Village
+1 Gavony Township
+1 Karn's Bastion
+1 Littjara Mirrorlake
+1 Llanowar Reborn
+1 Myriad Landscape
+1 Nesting Grounds
+1 Path of Ancestry
+1 Port Town
+1 Prairie Stream
+1 Seaside Citadel
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Temple of Mystery
+1 Vivid Creek
+1 Vivid Grove
+1 Vivid Meadow
+5 Forest
+4 Island
+5 Plains
+
+Sideboard

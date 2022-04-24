@@ -1,0 +1,90 @@
+// NAME: Maestros Massacre
+// COMMENTS: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
+// DATE: 2022-04-29
+COMMANDER: 1 Anhelo, the Painter [foil]
+1 Bloodsoaked Champion
+1 Cormela, Glamour Thief
+1 Dogged Detective
+1 Goblin Electromancer
+1 Kess, Dissident Mage
+1 Parnesse, the Subtle Brush
+1 Puppeteer Clique
+1 Rekindling Phoenix
+1 Spellbinding Soprano
+1 Squee, the Immortal
+1 Sinister Concierge
+1 Syrix, Carrier of the Flame
+1 Skyclave Shade
+1 Woe Strider
+1 Army of the Damned
+1 Bedevil
+1 Call the Skybreaker
+1 Chain Reaction
+1 Clone Legion
+1 Damnable Pact
+1 Deep Analysis
+1 Drawn from Dreams
+1 Dread Summons
+1 Feed the Swarm
+1 Flawless Forgery
+1 Hex
+1 Maestros Confluence
+1 Make an Example
+1 Ponder
+1 Preordain
+1 Reign of the Pit
+1 River's Rebuke
+1 Sever the Bloodline
+1 Talrand's Invocation
+1 Xander's Pact
+1 Zndrsplt's Judgment
+1 A Little Chat
+1 Dig Through Time
+1 Fact or Fiction
+1 Frantic Search
+1 Maestros Charm
+1 Mystic Confluence
+1 Waste Management
+1 Arcane Signet
+1 Audacious Swap
+1 Body Count
+1 Commander's Sphere
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Lightning Greaves
+1 Rakdos Signet
+1 Sol Ring
+1 Mimic Vat
+1 Smuggler's Buggy
+1 Twinning Staff
+1 Wayfarer's Bauble
+1 Cryptic Pursuit
+1 Determined Iteration
+1 Double Vision
+1 Extravagant Replication
+1 Rite of the Raging Storm
+1 Maestros Theater
+1 Ash Barrens
+1 Command Tower
+1 Crumbling Necropolis
+1 Grixis Panorama
+1 Myriad Landscape
+1 Path of Ancestry
+1 Thriving Bluff
+1 Thriving Isle
+1 Thriving Moor
+1 Cascade Bluffs
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sunken Hollow
+1 Temple of Epiphany
+7 Island
+6 Swamp
+5 Mountain
+
+Sideboard
