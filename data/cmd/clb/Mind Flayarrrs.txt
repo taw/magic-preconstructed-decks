@@ -1,0 +1,87 @@
+// NAME: Mind Flayarrrs
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30
+// DATE: 2022-06-10
+COMMANDER: 1 Captain N'ghathrod [foil]
+1 Chasm Skulker
+1 Forgotten Creation
+1 Grazilaxx, Illithid Scholar
+1 Hullbreaker Horror
+1 Mind Flayer
+1 Overcharged Amalgam
+1 Sludge Monster
+1 Wharf Infiltrator
+1 Dark Hatchling
+1 Dross Harvester
+1 Guiltfeeder
+1 Hunted Horror
+1 Nighthowler
+1 Nihilith
+1 Sewer Nemesis
+1 Woe Strider
+1 Consuming Aberration
+1 Nemesis of Reason
+1 Phyrexian Revoker
+1 Psychosis Crawler
+1 Spellskite
+1 Dauthi Horror
+1 Dusk Mangler
+1 Phyrexian Rager
+1 Plague Spitter
+1 Ravenous Chupacabra
+1 Fractured Sanity
+1 Crippling Fear
+1 Hex
+1 In Garruk's Wake
+1 Feed the Swarm
+1 Syphon Mind
+1 Extract from Darkness
+1 Pull from Tomorrow
+1 Curtains' Call
+1 Memory Plunder
+1 Fact or Fiction
+1 Drown in the Loch
+1 Arcane Signet
+1 Mind Stone
+1 Dimir Keyrune
+1 Dimir Signet
+1 Everflowing Chalice
+1 Herald's Horn
+1 Lightning Greaves
+1 Mindcrank
+1 Sol Ring
+1 Talisman of Dominance
+1 Thought Vessel
+1 Leyline of Anticipation
+1 Reflections of Littjara
+1 Black Market
+1 Choked Estuary
+1 Creeping Tar Pit
+1 Darkwater Catacombs
+1 Drownyard Temple
+1 Exotic Orchard
+1 Nephalia Drownyard
+1 River of Tears
+1 Sunken Hollow
+1 Temple of Deceit
+1 Command Tower
+1 Ash Barrens
+1 Dimir Aqueduct
+1 Myriad Landscape
+1 Path of Ancestry
+1 Port of Karfell
+1 Rogue's Passage
+1 Tainted Isle
+1 Temple of the False God
+9 Island
+11 Swamp
+1 Zellix, Sanity Flayer
+1 Haunted One
+1 Aboleth Spawn
+1 Endless Evil
+1 Grell Philosopher
+1 Psionic Ritual
+1 Brainstealer Dragon
+1 From the Catacombs
+1 Uchuulon
+
+Sideboard

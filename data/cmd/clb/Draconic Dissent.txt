@@ -1,0 +1,83 @@
+// NAME: Draconic Dissent
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30
+// DATE: 2022-06-10
+COMMANDER: 1 Firkraag, Cunning Instigator [foil]
+1 Will Kenrith
+1 Rowan Kenrith
+1 Keiga, the Tide Star
+1 Pursued Whale
+1 Sly Instigator
+1 Agitator Ant
+1 Avatar of Slaughter
+1 Brash Taunter
+1 Chaos Dragon
+1 Drakuseth, Maw of Flames
+1 Geode Rager
+1 Goblin Spymaster
+1 Kazuul, Tyrant of the Cliffs
+1 Ryusei, the Falling Star
+1 Territorial Hellkite
+1 Thunder Dragon
+1 Vengeful Ancestor
+1 Warmonger Hellkite
+1 Niv-Mizzet, Parun
+1 Solemn Simulacrum
+1 Steel Hellkite
+1 Stuffy Doll
+1 Burnished Hart
+1 Sprite Dragon
+1 Aether Gale
+1 Curse of the Swine
+1 Blasphemous Act
+1 Chain Reaction
+1 Disrupt Decorum
+1 Compulsive Research
+1 Domineering Will
+1 Reins of Power
+1 Chaos Warp
+1 Midnight Clock
+1 Dragon's Hoard
+1 Arcane Signet
+1 Mind Stone
+1 Wayfarer's Bauble
+1 Bloodthirsty Blade
+1 Fellwar Stone
+1 Hedron Archive
+1 Izzet Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Dissipation Field
+1 The Akroan War
+1 Psychic Impetus
+1 Shiny Impetus
+1 Curse of Verbosity
+1 Propaganda
+1 Curse of Opulence
+1 Castle Vantress
+1 Desolate Lighthouse
+1 Kher Keep
+1 Temple of Epiphany
+1 Wandering Fumarole
+1 Command Tower
+1 Ash Barrens
+1 Izzet Boilerworks
+1 Myriad Landscape
+1 Path of Ancestry
+1 Prismari Campus
+1 Reliquary Tower
+1 Temple of the False God
+1 Terrain Generator
+12 Island
+12 Mountain
+1 Baeloth Barrityl, Entertainer
+1 Clan Crafter
+1 Artificer Class
+1 Astral Dragon
+1 Mocking Doppelganger
+1 Bothersome Quasit
+1 Death Kiss
+1 Loot Dispute
+1 Spectacular Showdown
+1 Angler Turtle
+
+Sideboard
