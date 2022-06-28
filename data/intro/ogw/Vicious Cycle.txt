@@ -28,7 +28,8 @@
 1 Blighted Woodland
 1 Evolving Wilds
 2 Fertile Thicket
-4 Wastes
+2 Wastes [OGW:183a]
+2 Wastes [OGW:184a]
 8 Swamp
 9 Forest
 
