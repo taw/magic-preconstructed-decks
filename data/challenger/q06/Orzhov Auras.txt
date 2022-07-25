@@ -1,0 +1,26 @@
+// NAME: Orzhov Auras
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
+// DATE: 2021-10-15
+2 Stonecoil Serpent
+4 Sram, Senior Edificer
+4 Alseid of Life's Bounty
+4 Hateful Eidolon
+4 Selfless Savior
+3 Karametra's Blessing
+4 Cartouche of Solidarity
+4 Ethereal Armor
+4 Gryff's Boon
+4 Sentinel's Eyes
+4 All That Glitters
+4 Caves of Koilos
+4 Concealed Courtyard
+7 Plains
+4 Swamp
+
+Sideboard
+1 Lurrus of the Dream-Den
+1 Thoughtseize
+3 Hushbringer
+4 Apostle of Purifying Light
+3 Dead Weight
+3 Duress

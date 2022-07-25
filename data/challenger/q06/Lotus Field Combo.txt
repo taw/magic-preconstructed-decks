@@ -1,0 +1,33 @@
+// NAME: Lotus Field Combo
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
+// DATE: 2021-10-15
+3 Fae of Wishes
+4 Arboreal Grazer
+4 Vizier of Tumbling Sands
+1 Mastermind's Acquisition
+2 Peer into the Abyss
+4 Hidden Strings
+4 Sylvan Scrying
+4 Strategic Planning
+4 Pore Over the Pages
+2 Dig Through Time
+4 Opt
+4 Lotus Field
+4 Thespian's Stage
+4 Yavimaya Coast
+2 Temple of Mystery
+6 Forest
+4 Island
+
+Sideboard
+1 Peer into the Abyss
+1 Omniscience
+1 Approach of the Second Sun
+1 Sweltering Suns
+2 Shifting Ceratops
+3 Thought Distortion
+1 Void Snare
+1 Blink of an Eye
+1 Tormod's Crypt
+1 Negate
+2 Wilt

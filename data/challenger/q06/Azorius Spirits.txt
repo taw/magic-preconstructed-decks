@@ -1,0 +1,29 @@
+// NAME: Azorius Spirits
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
+// DATE: 2021-10-15
+1 Brazen Borrower
+2 Mausoleum Wanderer
+2 Remorseful Cleric
+1 Selfless Spirit
+4 Rattlechains
+3 Shacklegeist
+4 Supreme Phantom
+2 Spell Queller
+4 Spectral Sailor
+4 Watcher of the Spheres
+4 Empyrean Eagle
+4 Lofty Denial
+2 Spell Pierce
+2 Glacial Fortress
+4 Temple of Enlightenment
+7 Plains
+10 Island
+
+Sideboard
+2 Spell Pierce
+3 Isolate
+3 Aether Gust
+2 Seal Away
+1 Devout Decree
+2 Silkwrap
+2 Light of Hope

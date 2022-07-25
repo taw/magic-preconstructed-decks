@@ -1,0 +1,22 @@
+// NAME: Mono-Red Burn
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
+// DATE: 2021-10-15
+4 Bomat Courier
+4 Soul-Scar Mage
+4 Ghitu Lavarunner
+4 Monastery Swiftspear
+4 Viashino Pyromancer
+4 Light Up the Stage
+4 Bonecrusher Giant
+4 Wild Slash
+4 Lightning Strike
+4 Wizard's Lightning
+4 Ramunap Ruins
+16 Mountain
+
+Sideboard
+1 Chandra, Torch of Defiance
+4 Roiling Vortex
+3 Goblin Chainwhirler
+4 Searing Blood
+3 Magma Spray
