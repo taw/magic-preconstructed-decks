@@ -1,0 +1,27 @@
+// NAME: Mono White Aggro
+// COMMENTS: https://magic.wizards.com/en/challenger-decks-2022
+// DATE: 2022-04-01
+2 Reidane, God of the Worthy
+4 Monk of the Open Hand
+4 Usher of the Fallen
+4 Codespell Cleric
+4 Clarion Spirit
+4 Luminarch Aspirant
+1 Intrepid Adversary
+2 Thalia, Guardian of Thraben
+2 Skyclave Apparition
+3 Elite Spellbinder
+2 Kabira Takedown
+2 Fateful Absence
+3 Paladin Class
+3 Faceless Haven
+20 Snow-Covered Plains
+
+Sideboard
+2 Loyal Warhound
+3 Cathar Commando
+2 Portable Hole
+2 Maul of the Skyclaves
+2 Selfless Samurai
+2 Sungold Sentinel
+2 Imperial Recovery Unit
