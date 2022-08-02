@@ -1,0 +1,29 @@
+// NAME: Gruul Stompy
+// COMMENTS: https://magic.wizards.com/en/challenger-decks-2022
+// DATE: 2022-04-01
+3 Ulvenwald Oddity
+2 Tovolar's Huntmaster
+2 Halana and Alena, Partners
+1 Goldspan Dragon
+4 Jaspera Sentinel
+4 Magda, Brazen Outlaw
+4 Briarbridge Tracker
+2 Twinshot Sniper
+1 Light Up the Night
+1 Thundering Rebuke
+4 Abrade
+4 Snakeskin Veil
+4 Ranger Class
+4 Rockfall Vale
+10 Forest
+2 Lair of the Hydra
+8 Mountain
+
+Sideboard
+2 Twinshot Sniper
+3 Thundering Rebuke
+2 Tovolar, Dire Overlord
+3 Burning Hands
+2 Kappa Tech-Wrecker
+2 Lantern of the Lost
+1 Froghemoth
