@@ -14,8 +14,8 @@
 2 Ancient Tomb [WC99:mlp315]
 2 Ghitu Encampment
 6 Mountain [WC99:mlp344]
-5 Mountain [WC99:mlp346a]
-5 Mountain [WC99:mlp346b]
+5 Mountain [WC99:mlp343]
+5 Mountain [WC99:mlp346]
 4 Wasteland [WC99:mlp330]
 
 Sideboard

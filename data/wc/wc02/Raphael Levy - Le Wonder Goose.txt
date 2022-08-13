@@ -26,8 +26,8 @@
 1 Island [WC02:rl335]
 1 Island [WC02:rl336]
 1 Island [WC02:rl336a]
-1 Island [WC02:rl337]
 1 Island [WC02:rl337a]
+1 Island [WC02:rl337b]
 1 Island [WC02:rl338]
 4 Yavimaya Coast [WC02:rl143]
 

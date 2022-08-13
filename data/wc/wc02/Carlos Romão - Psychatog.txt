@@ -19,8 +19,8 @@
 1 Island [WC02:cr335a]
 1 Island [WC02:cr335b]
 1 Island [WC02:cr336]
-1 Island [WC02:cr337]
 1 Island [WC02:cr337a]
+1 Island [WC02:cr337b]
 1 Island [WC02:cr338]
 2 Cephalid Coliseum
 1 Darkwater Catacombs
