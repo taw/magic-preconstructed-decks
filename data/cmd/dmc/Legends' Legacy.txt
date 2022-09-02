@@ -1,0 +1,92 @@
+// NAME: Legends' Legacy
+// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19
+// DATE: 2022-09-09
+COMMANDER: 1 Dihada, Binder of Wills [foil]
+1 Adriana, Captain of the Guard
+1 Alesha, Who Smiles at Death
+1 Anafenza, Kin-Tree Spirit
+1 Arvad the Cursed
+1 Ashling the Pilgrim
+1 Bell Borca, Spectral Sergeant
+1 Captain Lannery Storm
+1 Kothophed, Soul Hoarder
+1 Drana, Liberator of Malakir
+1 Etali, Primal Storm
+1 Garna, the Bloodflame
+1 Jazal Goldmane
+1 Josu Vess, Lich Knight
+1 Kari Zev, Skyship Raider
+1 Krenko, Tin Street Kingpin
+1 Neheb, Dreadhorde Champion
+1 Odric, Lunarch Marshal
+1 Tajic, Blade of the Legion
+1 Teshar, Ancestor's Apostle
+1 Traxos, Scourge of Kroog
+1 Zetalpa, Primal Dawn
+1 Primevals' Glorious Rebirth
+1 Urza's Ruinous Blast
+1 Faithless Looting
+1 Kaya's Wrath
+1 Night's Whisper
+1 Read the Bones
+1 Ambition's Cost
+1 Bedevil
+1 Generous Gift
+1 Hero's Downfall
+1 Mortify
+1 Thrill of Possibility
+1 Unbreakable Formation
+1 Wear // Tear
+1 Blackblade Reforged
+1 Bontu's Monument
+1 Commander's Sphere
+1 Arcane Signet
+1 Fellwar Stone
+1 Hazoret's Monument
+1 Hedron Archive
+1 Hero's Blade
+1 Heroes' Podium
+1 Honor-Worn Shaku
+1 Oketra's Monument
+1 Sol Ring
+1 Sword of the Chosen
+1 Tenza, Godo's Maul
+1 The Circle of Loyalty
+1 Day of Destiny
+1 Battlefield Forge
+1 Bojuka Bog
+1 Boros Garrison
+1 Command Tower
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Foreboding Ruins
+1 Geier Reach Sanitarium
+1 Mikokoro, Center of the Sea
+1 Mobilized District
+1 Nomad Outpost
+1 Orzhov Basilica
+1 Rakdos Carnarium
+1 Reliquary Tower
+1 Shivan Gorge
+1 Shizo, Death's Storehouse
+1 Smoldering Marsh
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Terramorphic Expanse
+1 Tyrite Sanctum
+1 Caves of Koilos
+5 Mountain
+6 Plains
+5 Swamp
+1 Shanid, Sleepers' Scourge
+1 Zeriam, Golden Wind
+1 Bladewing, Deathless Tyrant
+1 Cadric, Soul Kindler
+1 Gerrard's Hourglass Pendant
+1 Moira, Urborg Haunt
+1 The Peregrine Dynamo
+1 Verrak, Warped Sengir
+1 The Reaver Cleaver
+
+Sideboard
