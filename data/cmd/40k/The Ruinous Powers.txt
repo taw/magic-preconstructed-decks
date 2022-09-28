@@ -1,0 +1,84 @@
+// NAME: The Ruinous Powers
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
+// DATE: 2022-10-07
+COMMANDER: 1 Abaddon the Despoiler
+1 Past in Flames
+1 Decree of Pain
+1 Blasphemous Act
+1 Deny Reality
+1 Chaos Warp
+1 Reverberate
+1 Bile Blight
+1 Bituminous Blast
+1 Brainstorm
+1 Dark Ritual
+1 Chromatic Lantern
+1 Assault Suit
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Worn Powerstone
+1 Commander's Sphere
+1 Wayfarer's Bauble
+1 Warstorm Surge
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Sunken Hollow
+1 Barren Moor
+1 Crumbling Necropolis
+1 Molten Slagheap
+1 Temple of the False God
+1 Command Tower
+1 Dismal Backwater
+1 Evolving Wilds
+1 Forgotten Cave
+1 Path of Ancestry
+1 Swiftwater Cliffs
+1 Terramorphic Expanse
+8 Mountain
+8 Swamp
+8 Island
+1 Be'lakor, the Dark Master
+1 Lord of Change
+1 Blight Grenade
+1 Great Unclean One
+1 Mandate of Abaddon
+1 Mortarion, Daemon Primarch
+1 Nurgle's Conscription
+1 Plague Drone
+1 Poxwalkers
+1 Sloppity Bilepiper
+1 Tallyman of Nurgle
+1 Venomcrawler
+1 Aspiring Champion
+1 Bloodthirster
+1 Dark Apostle
+1 Keeper of Secrets
+1 Khârn the Betrayer
+1 Knight Rampager
+1 Let the Galaxy Burn
+1 Blood for the Blood God!
+1 Chaos Defiler
+1 Chaos Mutation
+1 Drach'Nyen
+1 Exalted Flamer of Tzeentch
+1 Helbrute
+1 The Horus Heresy
+1 Kill! Maim! Burn!
+1 Lucius the Eternal
+1 Magnus the Red
+1 Mutalith Vortex Beast
+1 Pink Horror
+1 The Ruinous Powers
+1 Tzaangor Shaman
+1 Heralds of Tzeentch
+1 Nurgle's Rot
+1 Bloodcrusher of Khorne
+1 Chaos Terminator Lord
+1 Herald of Slaanesh
+1 Noise Marine
+1 Seeker of Slaanesh
+1 The Lost and the Damned
+
+Sideboard

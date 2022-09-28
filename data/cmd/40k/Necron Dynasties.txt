@@ -1,0 +1,76 @@
+// NAME: Necron Dynasties
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
+// DATE: 2022-10-07
+COMMANDER: 1 Szarekh, the Silent King
+1 Beacon of Unrest
+1 Living Death
+1 Mutilate
+1 Dread Return
+1 Defile
+1 Darkness
+1 Go for the Throat
+1 Caged Sun
+1 Endless Atlas
+1 Gilded Lotus
+1 Mystic Forge
+1 Sculpting Steel
+1 Cranial Plating
+1 Hedron Archive
+1 Mask of Memory
+1 Sol Ring
+1 Arcane Signet
+1 Commander's Sphere
+1 Mind Stone
+1 Thought Vessel
+1 Unstable Obelisk
+1 Wayfarer's Bauble
+1 Barren Moor
+1 Myriad Landscape
+1 Reliquary Tower
+1 Desert of the Glorified
+1 Polluted Mire
+1 Vault of Whispers
+30 Swamp
+1 Imotekh the Stormlord
+1 Anrakyr the Traveller
+1 Biotransference
+1 Chronomancer
+1 Cryptek
+1 Illuminor Szeras
+1 Lokhust Heavy Destroyer
+1 Lychguard
+1 Necron Deathmark
+1 Necron Overlord
+1 Out of the Tombs
+1 Royal Warden
+1 Shard of the Nightbringer
+1 Shard of the Void Dragon
+1 Skorpekh Lord
+1 Technomancer
+1 Their Name Is Death
+1 Their Number Is Legion
+1 Tomb Blade
+1 Trazyn the Infinite
+1 Triarch Stalker
+1 The War in Heaven
+1 Canoptek Scarab Swarm
+1 Canoptek Spyder
+1 Canoptek Tomb Sentinel
+1 Canoptek Wraith
+1 Convergence of Dominion
+1 Cryptothrall
+1 Ghost Ark
+1 Necron Monolith
+1 Resurrection Orb
+1 Sceptre of Eternal Glory
+1 Tomb Fortress
+1 Flayed One
+1 Hexmark Destroyer
+1 Plasmancer
+1 Psychomancer
+1 Sautekh Immortal
+1 Skorpekh Destroyer
+1 Triarch Praetorian
+1 Night Scythe
+
+Sideboard
