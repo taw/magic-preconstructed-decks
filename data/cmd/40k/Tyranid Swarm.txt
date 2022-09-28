@@ -1,7 +1,7 @@
 // NAME: Tyranid Swarm
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
-COMMANDER: 1 The Swarmlord
+COMMANDER: 1 The Swarmlord [foil]
 1 Hull Breach
 1 Cultivate
 1 Explore
@@ -41,7 +41,7 @@ COMMANDER: 1 The Swarmlord
 7 Mountain
 7 Island
 8 Forest
-1 Magus Lucea Kane
+1 Magus Lucea Kane [foil]
 1 Genestealer Patriarch
 1 Exocrine
 1 The Red Terror
