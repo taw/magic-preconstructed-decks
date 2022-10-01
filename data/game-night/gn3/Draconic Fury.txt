@@ -1,0 +1,30 @@
+// NAME: Draconic Fury
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// DATE: 2022-10-14
+1 Drakuseth, Maw of Flames
+1 Ancient Hellkite
+1 Dragon Egg
+2 Dragon Hatchling
+1 Dragon Mage
+3 Dragonspeaker Shaman
+1 Flameblast Dragon
+1 Flametongue Kavu
+2 Furnace Whelp
+1 Goblin Motivator
+3 Kargan Dragonrider
+1 Knollspine Dragon
+2 Rapacious Dragon
+1 Shivan Dragon
+1 Howling Golem
+2 Blaze
+1 Mana Geyser
+2 Seize the Spoils
+2 Abrade
+2 Lightning Bolt
+1 Crucible of Fire
+1 Dragon Tempest
+1 Vow of Lightning
+25 Mountain
+1 Nogi, Draco-Zealot
+
+Sideboard

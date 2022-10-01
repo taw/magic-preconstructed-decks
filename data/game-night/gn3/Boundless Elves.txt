@@ -1,0 +1,32 @@
+// NAME: Boundless Elves
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// DATE: 2022-10-14
+1 Elvish Archdruid
+1 Beast Whisperer
+2 Dwynen's Elite
+2 Elvish Rejuvenator
+1 Elvish Skysweeper
+3 Elvish Visionary
+1 End-Raze Forerunners
+1 Immaculate Magistrate
+1 Joraga Visionary
+3 Llanowar Elves
+2 Llanowar Tribe
+2 Sylvan Messenger
+1 Taunting Elf
+1 Thorn Lieutenant
+2 Thornweald Archer
+1 Howling Golem
+1 Overrun
+1 Rabid Bite
+1 Regrowth
+1 Broken Wings
+1 Elven Ambush
+2 Invigorate
+1 Ram Through
+1 Wirewood Pride
+1 Vow of Wildness
+24 Forest
+1 Imaryll, Elfhame Elite
+
+Sideboard

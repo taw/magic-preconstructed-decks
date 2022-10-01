@@ -1,0 +1,31 @@
+// NAME: Dark Sacrifice
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// DATE: 2022-10-14
+1 Gravewaker
+1 Bushmeat Poacher
+1 Demon of Loathing
+2 Doomed Dissenter
+1 Dusk Legion Zealot
+1 Fleshbag Marauder
+2 Gavony Unhallowed
+2 Gifted Aetherborn
+2 Lord of the Accursed
+1 Maalfeld Twins
+1 Priest of the Blood Rite
+1 Ravenous Chupacabra
+1 Reassembling Skeleton
+1 Vilis, Broker of Blood
+1 Howling Golem
+2 Moan of the Unhallowed
+2 Sign in Blood
+3 Doom Blade
+1 Supernatural Stamina
+2 Village Rites
+1 Bloodsoaked Altar
+1 Demonic Embrace
+1 Liliana's Mastery
+26 Swamp
+1 Vogar, Necropolis Tyrant
+1 Vow of Torment
+
+Sideboard
