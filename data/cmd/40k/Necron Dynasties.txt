@@ -17,7 +17,7 @@ COMMANDER: 1 Szarekh, the Silent King [foil]
 1 Cranial Plating
 1 Hedron Archive
 1 Mask of Memory
-1 Sol Ring
+1 Sol Ring [40K:252]
 1 Arcane Signet
 1 Commander's Sphere
 1 Mind Stone

@@ -14,7 +14,7 @@ COMMANDER: 1 Abaddon the Despoiler [foil]
 1 Dark Ritual
 1 Chromatic Lantern
 1 Assault Suit
-1 Sol Ring
+1 Sol Ring [40K:250]
 1 Talisman of Creativity
 1 Talisman of Dominance
 1 Talisman of Indulgence
