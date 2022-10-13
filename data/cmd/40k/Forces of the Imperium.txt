@@ -14,7 +14,7 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Swords to Plowshares
 1 Mortify
 1 Everflowing Chalice
-1 Mind Stone
+1 Mind Stone [40K:244]
 1 Skullclamp
 1 Sol Ring [40K:251]
 1 Talisman of Dominance
