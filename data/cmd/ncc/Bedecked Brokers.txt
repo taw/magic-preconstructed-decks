@@ -1,7 +1,7 @@
 // NAME: Bedecked Brokers
 // COMMENTS: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
 // DATE: 2022-04-29
-COMMANDER: 1 Perrie, the Pulverizer [foil]
+COMMANDER: 1 Perrie, the Pulverizer [NCC:5] [foil]
 1 Ajani Unyielding
 1 Angelic Sleuth
 1 Aven Courier
