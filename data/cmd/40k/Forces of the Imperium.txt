@@ -17,7 +17,7 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Mind Stone [40K:244]
 1 Skullclamp
 1 Sol Ring [40K:251]
-1 Talisman of Dominance
+1 Talisman of Dominance [40K:254]
 1 Talisman of Hierarchy
 1 Talisman of Progress
 1 Arcane Signet
