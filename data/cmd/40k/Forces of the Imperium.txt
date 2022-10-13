@@ -40,8 +40,8 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Scoured Barrens
 1 Terramorphic Expanse
 1 Tranquil Cove
-5 Island
-7 Swamp
+5 Island [40K:307]
+7 Swamp [40K:314]
 8 Plains
 1 Marneus Calgar [40K:175] [foil]
 1 Celestine, the Living Saint

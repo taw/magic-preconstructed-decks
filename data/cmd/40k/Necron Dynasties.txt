@@ -30,7 +30,9 @@ COMMANDER: 1 Szarekh, the Silent King [40K:170] [foil]
 1 Desert of the Glorified
 1 Polluted Mire
 1 Vault of Whispers
-30 Swamp
+10 Swamp [40K:310]
+10 Swamp [40K:312]
+10 Swamp [40K:313]
 1 Imotekh the Stormlord [40K:169] [foil]
 1 Anrakyr the Traveller
 1 Biotransference
