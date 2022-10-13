@@ -19,7 +19,7 @@ COMMANDER: 1 Szarekh, the Silent King [40K:170] [foil]
 1 Mask of Memory
 1 Sol Ring [40K:252]
 1 Arcane Signet
-1 Commander's Sphere
+1 Commander's Sphere [40K:234]
 1 Mind Stone [40K:245]
 1 Thought Vessel
 1 Unstable Obelisk
