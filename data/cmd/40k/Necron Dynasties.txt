@@ -1,7 +1,7 @@
 // NAME: Necron Dynasties
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
-COMMANDER: 1 Szarekh, the Silent King [foil]
+COMMANDER: 1 Szarekh, the Silent King [40K:170] [foil]
 1 Beacon of Unrest
 1 Living Death
 1 Mutilate
@@ -18,20 +18,22 @@ COMMANDER: 1 Szarekh, the Silent King [foil]
 1 Hedron Archive
 1 Mask of Memory
 1 Sol Ring [40K:252]
-1 Arcane Signet
-1 Commander's Sphere
-1 Mind Stone
+1 Arcane Signet [40K:228]
+1 Commander's Sphere [40K:234]
+1 Mind Stone [40K:245]
 1 Thought Vessel
 1 Unstable Obelisk
-1 Wayfarer's Bauble
+1 Wayfarer's Bauble [40K:262]
 1 Barren Moor
 1 Myriad Landscape
 1 Reliquary Tower
 1 Desert of the Glorified
 1 Polluted Mire
 1 Vault of Whispers
-30 Swamp
-1 Imotekh the Stormlord [foil]
+10 Swamp [40K:310]
+10 Swamp [40K:312]
+10 Swamp [40K:313]
+1 Imotekh the Stormlord [40K:169] [foil]
 1 Anrakyr the Traveller
 1 Biotransference
 1 Chronomancer

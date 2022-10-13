@@ -1,7 +1,7 @@
 // NAME: Forces of the Imperium
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
-COMMANDER: 1 Inquisitor Greyfax [foil]
+COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Bastion Protector
 1 Collective Effort
 1 Deploy to the Front
@@ -14,14 +14,14 @@ COMMANDER: 1 Inquisitor Greyfax [foil]
 1 Swords to Plowshares
 1 Mortify
 1 Everflowing Chalice
-1 Mind Stone
+1 Mind Stone [40K:244]
 1 Skullclamp
 1 Sol Ring [40K:251]
-1 Talisman of Dominance
+1 Talisman of Dominance [40K:254]
 1 Talisman of Hierarchy
 1 Talisman of Progress
-1 Arcane Signet
-1 Commander's Sphere
+1 Arcane Signet [40K:229]
+1 Commander's Sphere [40K:233]
 1 Reconnaissance Mission
 1 Choked Estuary
 1 Darkwater Catacombs
@@ -33,17 +33,17 @@ COMMANDER: 1 Inquisitor Greyfax [foil]
 1 Arcane Sanctum
 1 Ash Barrens
 1 Memorial to Glory
-1 Command Tower
+1 Command Tower [40K:272]
 1 Dismal Backwater
 1 Evolving Wilds
 1 Path of Ancestry
 1 Scoured Barrens
 1 Terramorphic Expanse
 1 Tranquil Cove
-5 Island
-7 Swamp
+5 Island [40K:307]
+7 Swamp [40K:314]
 8 Plains
-1 Marneus Calgar [foil]
+1 Marneus Calgar [40K:175] [foil]
 1 Celestine, the Living Saint
 1 Defenders of Humanity
 1 For the Emperor!
