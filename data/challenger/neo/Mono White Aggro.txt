@@ -14,7 +14,7 @@
 2 Kabira Takedown
 2 Fateful Absence
 3 Paladin Class
-3 Faceless Haven
+3 Faceless Haven [KHM:255]
 20 Snow-Covered Plains
 
 Sideboard
