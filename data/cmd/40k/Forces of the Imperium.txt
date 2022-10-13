@@ -20,7 +20,7 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Talisman of Dominance [40K:254]
 1 Talisman of Hierarchy
 1 Talisman of Progress
-1 Arcane Signet
+1 Arcane Signet [40K:229]
 1 Commander's Sphere [40K:233]
 1 Reconnaissance Mission
 1 Choked Estuary
