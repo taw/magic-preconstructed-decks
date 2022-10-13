@@ -33,7 +33,7 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Arcane Sanctum
 1 Ash Barrens
 1 Memorial to Glory
-1 Command Tower
+1 Command Tower [40K:272]
 1 Dismal Backwater
 1 Evolving Wilds
 1 Path of Ancestry

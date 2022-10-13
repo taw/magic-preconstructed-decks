@@ -31,7 +31,7 @@ COMMANDER: 1 The Swarmlord [40K:176] [foil]
 1 Frontier Bivouac
 1 Unclaimed Territory
 1 Cave of Temptation
-1 Command Tower
+1 Command Tower [40K:270]
 1 Evolving Wilds
 1 Opal Palace
 1 Path of Ancestry
