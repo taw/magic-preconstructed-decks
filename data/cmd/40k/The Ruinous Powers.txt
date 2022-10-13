@@ -20,7 +20,7 @@ COMMANDER: 1 Abaddon the Despoiler [40K:171] [foil]
 1 Talisman of Indulgence
 1 Worn Powerstone
 1 Commander's Sphere [40K:235]
-1 Wayfarer's Bauble
+1 Wayfarer's Bauble [40K:261]
 1 Warstorm Surge
 1 Exotic Orchard
 1 Foreboding Ruins
