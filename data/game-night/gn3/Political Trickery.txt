@@ -25,6 +25,6 @@
 1 Bloodthirsty Blade
 1 Vow of Flight
 25 Island
-1 Maeve, Insidious Singer
+1 Maeve, Insidious Singer [foil]
 
 Sideboard

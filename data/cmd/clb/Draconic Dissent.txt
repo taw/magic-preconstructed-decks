@@ -69,8 +69,8 @@ COMMANDER: 1 Firkraag, Cunning Instigator [CLB:648] [foil]
 1 Terrain Generator
 12 Island
 12 Mountain
-1 Baeloth Barrityl, Entertainer
-1 Clan Crafter
+1 Baeloth Barrityl, Entertainer [foil]
+1 Clan Crafter [foil]
 1 Artificer Class
 1 Astral Dragon
 1 Mocking Doppelganger
