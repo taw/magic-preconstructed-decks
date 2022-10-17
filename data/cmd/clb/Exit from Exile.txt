@@ -70,7 +70,7 @@ COMMANDER: 1 Faldorn, Dread Wolf Herald [CLB:647] [foil]
 1 Temple of the False God
 11 Mountain
 12 Forest
-1 Durnan of the Yawning Portal
+1 Durnan of the Yawning Portal [foil]
 1 Passionate Archaeologist
 1 Delayed Blast Fireball
 1 Nalfeshnee
