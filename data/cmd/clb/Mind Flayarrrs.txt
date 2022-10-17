@@ -75,7 +75,7 @@ COMMANDER: 1 Captain N'ghathrod [CLB:646] [foil]
 9 Island
 11 Swamp
 1 Zellix, Sanity Flayer [foil]
-1 Haunted One
+1 Haunted One [foil]
 1 Aboleth Spawn
 1 Endless Evil
 1 Grell Philosopher
