@@ -1,0 +1,29 @@
+// NAME: Orzhov Humans
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
+// DATE: 2022-11-04
+2 Giant Killer
+4 Luminarch Aspirant
+4 Thalia, Guardian of Thraben
+4 Thalia's Lieutenant
+4 Bloodsoaked Champion
+4 Kitesail Freebooter
+4 Dauntless Bodyguard
+4 Thraben Inspector
+2 Bloodchief's Thirst
+2 Dire Tactics
+4 Rally the Ranks
+4 Caves of Koilos
+4 Concealed Courtyard
+1 Godless Shrine
+2 Mutavault
+4 Unclaimed Territory
+4 Secluded Courtyard
+3 Plains
+
+Sideboard
+1 Giant Killer
+2 Containment Priest
+2 Sungold Sentinel
+3 Portable Hole
+4 Sunset Revelry
+3 Duress

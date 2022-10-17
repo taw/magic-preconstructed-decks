@@ -1,0 +1,25 @@
+// NAME: Gruul Stompy
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
+// DATE: 2022-11-04
+2 Chandra, Torch of Defiance
+2 Questing Beast
+4 Glorybringer
+4 Scavenging Ooze
+4 Llanowar Elves
+4 Elvish Mystic
+4 Lovestruck Beast
+4 Mizzium Mortars
+4 Bonecrusher Giant
+3 Abrade
+4 Karplusan Forest
+1 Stomping Ground
+4 Rockfall Vale
+7 Mountain
+9 Forest
+
+Sideboard
+1 Abrade
+4 Cindervines
+3 Shifting Ceratops
+3 Rending Volley
+4 Flame-Blessed Bolt

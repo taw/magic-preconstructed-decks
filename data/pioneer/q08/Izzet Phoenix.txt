@@ -1,0 +1,30 @@
+// NAME: Izzet Phoenix
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
+// DATE: 2022-11-04
+2 Arclight Phoenix
+4 Crackling Drake
+2 Expressive Iteration
+4 Chart a Course
+4 Treasure Cruise
+3 Pieces of the Puzzle
+3 Izzet Charm
+3 Lightning Axe
+2 Fiery Impulse
+2 Flame-Blessed Bolt
+4 Consider
+4 Opt
+2 Sulfur Falls
+4 Temple of Epiphany
+4 Shivan Reef
+1 Steam Vents
+6 Island
+4 Mountain
+2 Thing in the Ice // Awoken Horror
+
+Sideboard
+2 Sweltering Suns
+3 Abrade
+2 Lava Coil
+4 Mystical Dispute
+1 Invasive Surgery
+3 Narset, Parter of Veils

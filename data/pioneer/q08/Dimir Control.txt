@@ -1,0 +1,32 @@
+// NAME: Dimir Control
+// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
+// DATE: 2022-11-04
+2 Narset, Parter of Veils
+2 Torrential Gearhulk
+2 Murderous Rider
+2 Extinction Event
+3 Dig Through Time
+2 Drown in the Loch
+4 Censor
+3 Sinister Sabotage
+4 Fatal Push
+1 Mystical Dispute
+2 Heartless Act
+2 Negate
+4 Consider
+1 Shark Typhoon
+4 Temple of Deceit
+2 Drowned Catacomb
+1 Watery Grave
+4 Field of Ruin
+7 Island
+8 Swamp
+
+Sideboard
+2 Mystical Dispute
+2 Languish
+2 Test of Talents
+2 Cry of the Carnarium
+2 Go Blank
+2 Cling to Dust
+3 Duress
