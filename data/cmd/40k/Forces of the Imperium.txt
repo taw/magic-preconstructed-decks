@@ -48,10 +48,10 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Defenders of Humanity
 1 For the Emperor!
 1 Space Marine Devastator
-1 Triumph of Saint Katherine
+1 Triumph of Saint Katherine [40K:17]
 1 Ultramarines Honour Guard
 1 Vexilus Praetor
-1 Zephyrim
+1 Zephyrim [40K:20]
 1 Sister of Silence
 1 Vanguard Suppressor
 1 Arco-Flagellant
