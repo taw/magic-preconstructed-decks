@@ -1,7 +1,7 @@
 // NAME: Forces of the Imperium Collector's Edition
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
-COMMANDER: 1 Inquisitor Greyfax [40k:173] [foil]
+COMMANDER: 1 Inquisitor Greyfax [40k:3] [foil]
 1 Bastion Protector [40k:182★]
 1 Collective Effort [40k:183★]
 1 Deploy to the Front [40k:184★]
@@ -43,7 +43,7 @@ COMMANDER: 1 Inquisitor Greyfax [40k:173] [foil]
 5 Island [40k:307★]
 7 Swamp [40k:314★]
 8 Plains [40k:306★]
-1 Marneus Calgar [40k:175] [foil]
+1 Marneus Calgar [40k:8] [foil]
 1 Celestine, the Living Saint [40k:10★]
 1 Defenders of Humanity [40k:11★]
 1 For the Emperor! [40k:12★]
