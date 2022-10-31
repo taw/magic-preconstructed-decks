@@ -1,7 +1,7 @@
 // NAME: The Ruinous Powers Collector's Edition
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
-COMMANDER: 1 Abaddon the Despoiler [40k:171] [foil]
+COMMANDER: 1 Abaddon the Despoiler [40k:2] [foil]
 1 Past in Flames [40k:206★]
 1 Decree of Pain [40k:198★]
 1 Blasphemous Act [40k:204★]
@@ -39,7 +39,7 @@ COMMANDER: 1 Abaddon the Despoiler [40k:171] [foil]
 8 Mountain [40k:316★]
 8 Swamp [40k:311★]
 8 Island [40k:308★]
-1 Be'lakor, the Dark Master [40k:172] [foil]
+1 Be'lakor, the Dark Master [40k:6] [foil]
 1 Lord of Change [40k:24★]
 1 Blight Grenade [40k:31★]
 1 Great Unclean One [40k:35★]
