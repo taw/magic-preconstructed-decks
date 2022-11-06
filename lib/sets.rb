@@ -36,6 +36,7 @@ MagicSets = {
   "bng" => "Born of the Gods",
   "bok" => "Betrayers of Kamigawa",
   "brb" => "Battle Royale Box Set",
+  "brc" => "The Brothers' War Commander",
   "btd" => "Beatdown Box Set",
   "c13" => "Commander 2013",
   "c14" => "Commander 2014",
