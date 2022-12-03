@@ -84,7 +84,7 @@ COMMANDER: 1 Urza, Chief Artificer [BRC:2] [foil]
 4 Plains
 4 Island
 3 Swamp
-1 Tawnos, Solemn Survivor
+1 Tawnos, Solemn Survivor [foil]
 1 Sanwell, Avenger Ace
 1 Scholar of New Horizons
 1 March of Progress

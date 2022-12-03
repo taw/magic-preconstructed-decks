@@ -82,7 +82,7 @@ COMMANDER: 1 Mishra, Eminent One [BRC:1] [foil]
 4 Swamp
 5 Island
 4 Mountain
-1 Ashnod the Uncaring
+1 Ashnod the Uncaring [foil]
 1 Glint Raker
 1 Terisiare's Devastation
 1 Blast-Furnace Hellkite
