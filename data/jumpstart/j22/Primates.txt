@@ -15,6 +15,6 @@
 1 Monkey Cage
 1 Treetop Village
 1 Thriving Grove
-7 Forest
+6 Forest
 
 Sideboard

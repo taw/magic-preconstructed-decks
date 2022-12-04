@@ -16,6 +16,6 @@
 1 Mishra's Factory
 1 Thriving Isle
 1 Seat of the Synod
-7 Island
+5 Island
 
 Sideboard
