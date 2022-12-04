@@ -1,0 +1,19 @@
+// NAME: Speedy
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Kiki-Jiki, Mirror Breaker
+1 Ardoz, Cobbler of War
+1 Bolt Hound
+1 Fanatical Firebrand
+1 Irreverent Revelers
+1 Mudbutton Torchrunner
+1 Markov Warlord
+1 Nest Robber
+1 Warcry Phoenix
+1 Fiery Conclusion
+1 Rush of Adrenaline
+1 Swift Kick
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

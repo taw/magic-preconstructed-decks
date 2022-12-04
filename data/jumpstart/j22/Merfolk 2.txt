@@ -1,0 +1,19 @@
+// NAME: Merfolk 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Merfolk Pupil
+1 Svyelun of Sea and Sky
+1 Merrow Reejerey
+1 River Sneak
+1 Windrider Patrol
+1 Triton Shorestalker
+1 Watertrap Weaver
+1 Saltwater Stalwart
+1 Synchronized Eviction
+1 Soul Read
+1 Crashing Tide
+1 One With the Wind
+1 Thriving Isle
+7 Island
+
+Sideboard

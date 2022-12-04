@@ -1,0 +1,19 @@
+// NAME: Cruel 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Conductor of Cacophony
+1 Ossuary Rats
+1 Creeping Bloodsucker
+1 Cruel Sadist
+1 Dread Slaver
+1 Hooded Assassin
+1 Alley Strangler
+1 Feast on the Fallen
+1 Festering Evil
+1 Mire Blight
+1 Infernal Idol
+1 Talon of Pain
+1 Thriving Moor
+7 Swamp
+
+Sideboard

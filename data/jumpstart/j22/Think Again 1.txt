@@ -1,0 +1,20 @@
+// NAME: Think Again 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Jace, Arcane Strategist
+1 Spectral Sailor
+1 Faerie Vandal
+1 Merfolk Pupil
+1 Eyekite
+1 Mystic Skyfish
+1 Teferi's Protege
+1 Tome Anima
+1 Steelgaze Griffin
+1 Soul Read
+1 Serum Visions
+1 Drag Under
+1 Memorial to Genius
+1 Thriving Isle
+6 Island
+
+Sideboard

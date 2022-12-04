@@ -1,0 +1,19 @@
+// NAME: Treasure 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Dutiful Replicator
+1 Captain Lannery Storm
+1 Sokenzan Smelter
+1 Blood Aspirant
+1 Rapacious Dragon
+1 Goldhound
+1 Brazen Freebooter
+1 Ripscale Predator
+1 Sudden Breakthrough
+1 Welding Sparks
+1 Trove of Temptation
+1 Goldvein Pick
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

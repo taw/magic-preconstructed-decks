@@ -1,0 +1,19 @@
+// NAME: Experimental 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Mizzix, Replica Rider
+1 Grotag Night-Runner
+1 Cyclops Electromancer
+1 Thermo-Alchemist
+1 Sparkmage Apprentice
+1 Catalyst Elemental
+1 Goblin Researcher
+1 Electric Revelation
+1 Electrify
+1 Spark of Creativity
+1 Act on Impulse
+1 Firebolt
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

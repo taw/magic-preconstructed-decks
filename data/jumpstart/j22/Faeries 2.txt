@@ -1,0 +1,19 @@
+// NAME: Faeries 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Spellstutter Sprite
+1 Faerie Seer
+1 Stinging Lionfish
+1 Pestermite
+1 Glen Elendra Pranksters
+1 Sentinels of Glen Elendra
+1 Undersea Invader
+1 Soul Read
+1 Synchronized Eviction
+1 Stolen by the Fae
+1 So Tiny
+1 Instruments of War
+1 Thriving Isle
+7 Island
+
+Sideboard

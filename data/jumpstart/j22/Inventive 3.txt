@@ -1,0 +1,20 @@
+// NAME: Inventive 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Steel Overseer
+1 Whirler Rogue
+1 Clockwork Hydra
+1 Gearsmith Prodigy
+1 Aviation Pioneer
+1 Pilgrim's Eye
+1 Gearseeker Serpent
+1 Launch Mishap
+1 Artificer's Epiphany
+1 Thopter Spy Network
+1 Whirlermaker
+1 Aether Spellbomb
+1 Thriving Isle
+1 Seat of the Synod
+7 Island
+
+Sideboard

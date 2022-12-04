@@ -1,0 +1,19 @@
+// NAME: Fangs 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Creeping Bloodsucker
+1 Tivash, Gloom Summoner
+1 Oathsworn Vampire
+1 Blood Artist
+1 Bloodbond Vampire
+1 Vampire Envoy
+1 Marauding Blight-Priest
+1 Nirkana Assassin
+1 Moment of Craving
+1 Ancient Craving
+1 Certain Death
+1 Ill-Gotten Inheritance
+1 Thriving Moor
+7 Swamp
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Inventive 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Dutiful Replicator
+1 Solemn Simulacrum
+1 Whirler Rogue
+1 Cogwork Assembler
+1 Gearsmith Prodigy
+1 Aviation Pioneer
+1 Assembly-Worker
+1 Self-Assembler
+1 Gearseeker Serpent
+1 Launch Mishap
+1 Artificer's Epiphany
+1 Aether Spellbomb
+1 Mishra's Factory
+1 Thriving Isle
+1 Seat of the Synod
+7 Island
+
+Sideboard

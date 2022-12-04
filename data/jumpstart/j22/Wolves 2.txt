@@ -1,0 +1,19 @@
+// NAME: Wolves 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Arlinn, Voice of the Pack
+1 Mild-Mannered Librarian
+1 Spectral Hunt-Caller
+1 Master of the Wild Hunt
+1 Howlgeist
+1 Young Wolf
+1 Pestilent Wolf
+1 Bounding Wolf
+1 Ferocious Pup
+1 Moonlight Hunt
+1 Prey Upon
+1 Howl of the Hunt
+1 Thriving Grove
+7 Forest
+
+Sideboard

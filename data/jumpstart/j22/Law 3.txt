@@ -1,0 +1,19 @@
+// NAME: Law 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Gideon, Champion of Justice
+1 Magnanimous Magistrate
+1 Gideon's Lawkeeper
+1 Ninth Bridge Patrol
+1 Kami of Ancient Law
+1 Midnight Guard
+1 Nightguard Patrol
+1 Skyhunter Patrol
+1 Righteousness
+1 Angelic Edict
+1 Arrest
+1 Unquestioned Authority
+1 Thriving Heath
+7 Plains
+
+Sideboard

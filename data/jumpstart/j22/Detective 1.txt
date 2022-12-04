@@ -1,0 +1,19 @@
+// NAME: Detective 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Drownyard Explorers
+1 Dutiful Replicator
+1 Filigree Attendant
+1 Floodhound
+1 Gearseeker Serpent
+1 Shambling Suit
+1 Vedalken Engineer
+1 Press for Answers
+1 Jace's Scrutiny
+1 Mechanized Production
+1 Hold for Questioning
+1 Magnifying Glass
+1 Thriving Isle
+7 Island
+
+Sideboard

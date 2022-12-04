@@ -1,0 +1,20 @@
+// NAME: Landfall 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Avenger of Zendikar
+1 Turntimber Basilisk
+1 Primeval Herald
+1 Baloth Woodcrasher
+1 Oashra Cultivator
+1 Snapping Gnarlid
+1 Fertilid
+1 Canopy Baloth
+1 Rampaging Growth
+1 Groundswell
+1 Broken Bond
+1 Khalni Heart Expedition
+1 Evolving Wilds
+1 Thriving Grove
+6 Forest
+
+Sideboard

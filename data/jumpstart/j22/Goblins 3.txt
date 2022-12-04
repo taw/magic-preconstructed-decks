@@ -1,0 +1,19 @@
+// NAME: Goblins 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Goblin Researcher
+1 Muxus, Goblin Grandee
+1 Arms Dealer
+1 Volley Veteran
+1 Fanatical Firebrand
+1 Goblin Trailblazer
+1 Rummaging Goblin
+1 Burn Bright
+1 Goblin Grenade
+1 Dragon Fodder
+1 Destructive Tampering
+1 Instruments of War
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

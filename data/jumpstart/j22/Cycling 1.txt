@@ -1,0 +1,20 @@
+// NAME: Cycling 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Plundering Predator
+1 Yidaro, Wandering Monster
+1 Flameblade Adept
+1 Rooting Moloch
+1 Drannith Stinger
+1 Prickly Marmoset
+1 Quakefoot Cyclops
+1 Lava Serpent
+1 Deem Worthy
+1 Shredded Sails
+1 Go for Blood
+1 Reptilian Reflection
+1 Forgotten Cave
+1 Thriving Bluff
+6 Mountain
+
+Sideboard

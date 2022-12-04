@@ -1,0 +1,19 @@
+// NAME: Multi-Headed 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Benevolent Hydra
+1 Domesticated Hydra
+1 Clockwork Hydra
+1 Feral Hydra
+1 Servant of the Scale
+1 Ilysian Caryatid
+1 Fertilid
+1 Adventurous Impulse
+1 Scale the Heights
+1 Hunter's Edge
+1 Soul's Might
+1 Hydra's Growth
+1 Thriving Grove
+7 Forest
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Fiery 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Chandra, Flame's Fury
+1 Chandra's Magmutt
+1 Chandra's Pyreling
+1 Chandra's Spitfire
+1 Coalborn Entity
+1 Goblin Researcher
+1 Spiteful Prankster
+1 Wildfire Elemental
+1 Fiery Intervention
+1 Pillar of Flame
+1 Chandra's Pyrohelix
+1 Thrill of Possibility
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

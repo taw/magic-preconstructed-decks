@@ -1,0 +1,20 @@
+// NAME: Inventive 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Tezzeret, Artifice Master
+1 Merfolk Pupil
+1 Whirler Rogue
+1 Skilled Animator
+1 Gearsmith Prodigy
+1 Aviation Pioneer
+1 Gearsmith Guardian
+1 Gearseeker Serpent
+1 Launch Mishap
+1 Artificer's Epiphany
+1 Planar Atlas
+1 Aether Spellbomb
+1 Thriving Isle
+1 Seat of the Synod
+7 Island
+
+Sideboard

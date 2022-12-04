@@ -1,0 +1,19 @@
+// NAME: Knights
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Balan, Wandering Knight
+1 Danitha Capashen, Paragon
+1 Kwende, Pride of Femeref
+1 Syr Alin, The Lion's Claw
+1 Benalish Honor Guard
+1 Order of the Golden Cricket
+1 Skyhunter Prowler
+1 Chains of Custody
+1 The Circle of Loyalty
+1 Hero's Blade
+1 Shining Armor
+1 Jousting Lance
+1 Thriving Heath
+7 Plains
+
+Sideboard

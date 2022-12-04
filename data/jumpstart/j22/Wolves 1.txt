@@ -1,0 +1,19 @@
+// NAME: Wolves 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Arlinn, Voice of the Pack
+1 Mild-Mannered Librarian
+1 Spectral Hunt-Caller
+1 Wicked Wolf
+1 Packsong Pup
+1 Ferocious Pup
+1 Bounding Wolf
+1 Fierce Witchstalker
+1 Wolf's Quarry
+1 Prey Upon
+1 Wolfwillow Haven
+1 Wolfkin Bond
+1 Thriving Grove
+7 Forest
+
+Sideboard

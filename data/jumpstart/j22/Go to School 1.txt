@@ -1,0 +1,19 @@
+// NAME: Go to School 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Kasmina, Enigmatic Mentor
+1 Biblioplex Kraken
+1 Merfolk Pupil
+1 Barrin, Tolarian Archmage
+1 Overwhelmed Apprentice
+1 Elite Instructor
+1 Tolarian Sentinel
+1 Academy Journeymage
+1 Wizard Mentor
+1 Dismiss
+1 Tragic Lesson
+1 Bury in Books
+1 Thriving Isle
+7 Island
+
+Sideboard

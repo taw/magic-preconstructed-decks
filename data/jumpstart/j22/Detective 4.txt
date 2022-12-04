@@ -1,0 +1,19 @@
+// NAME: Detective 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Tamiyo, the Moon Sage
+1 Drownyard Explorers
+1 Dutiful Replicator
+1 Erdwal Illuminator
+1 Floodhound
+1 Syr Elenora, the Discerning
+1 Vedalken Engineer
+1 Press for Answers
+1 Jace's Scrutiny
+1 Hold for Questioning
+1 Magnifying Glass
+1 Tamiyo's Journal
+1 Thriving Isle
+7 Island
+
+Sideboard

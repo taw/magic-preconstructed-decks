@@ -1,0 +1,19 @@
+// NAME: Goblins 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Goblin Researcher
+1 Ib Halfheart, Goblin Tactician
+1 Goblin Warchief
+1 Volley Veteran
+1 Frenzied Goblin
+1 Goblin Trailblazer
+1 Rummaging Goblin
+1 Burn Bright
+1 Flame Lash
+1 Goblin Rally
+1 Goblin Grenade
+1 Dragon Fodder
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

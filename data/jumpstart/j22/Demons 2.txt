@@ -1,0 +1,19 @@
+// NAME: Demons 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Conductor of Cacophony
+1 Disciple of Perdition
+1 Demon of Catastrophes
+1 Seizan, Perverter of Truth
+1 Demon's Disciple
+1 Dreadhound
+1 Doomed Dissenter
+1 Takenuma Bleeder
+1 Diabolic Edict
+1 Demonic Gifts
+1 Demon's Grasp
+1 Infernal Idol
+1 Thriving Moor
+7 Swamp
+
+Sideboard

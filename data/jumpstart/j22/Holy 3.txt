@@ -1,0 +1,19 @@
+// NAME: Holy 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Valkyrie Harbinger
+1 Emancipation Angel
+1 Serene Steward
+1 Inspiring Cleric
+1 Pilgrim of the Ages
+1 Dawning Angel
+1 Anointer of Valor
+1 Light of Hope
+1 Divine Arrow
+1 Chains of Custody
+1 Dawn of Hope
+1 Planar Atlas
+1 Thriving Heath
+7 Plains
+
+Sideboard

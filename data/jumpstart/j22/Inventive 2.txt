@@ -1,0 +1,20 @@
+// NAME: Inventive 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Hangarback Walker
+1 Whirler Rogue
+1 Renowned Weaponsmith
+1 Juggernaut
+1 Gearsmith Prodigy
+1 Aeronaut Tinkerer
+1 Aviation Pioneer
+1 Gearseeker Serpent
+1 Launch Mishap
+1 Artificer's Epiphany
+1 Heart-Piercer Bow
+1 Vial of Dragonfire
+1 Thriving Isle
+1 Seat of the Synod
+7 Island
+
+Sideboard

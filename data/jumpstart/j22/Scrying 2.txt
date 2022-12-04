@@ -1,0 +1,19 @@
+// NAME: Scrying 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Kenessos, Priest of Thassa
+1 Biblioplex Kraken
+1 Djinn of Wishes
+1 Cryptic Serpent
+1 Faerie Seer
+1 Augury Owl
+1 Moonfolk Puzzlemaker
+1 Octoprophet
+1 Condescend
+1 Preordain
+1 Anchor to the Aether
+1 Explorer's Scope
+1 Thriving Isle
+7 Island
+
+Sideboard

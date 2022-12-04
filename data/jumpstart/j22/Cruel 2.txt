@@ -1,0 +1,19 @@
+// NAME: Cruel 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Termination Facilitator
+1 Creeping Bloodsucker
+1 Ossuary Rats
+1 Plague Spitter
+1 Nested Ghoul
+1 Alley Strangler
+1 Lurking Deadeye
+1 Consign to the Pit
+1 Feast on the Fallen
+1 Mire Blight
+1 Infernal Idol
+1 Talon of Pain
+1 Thriving Moor
+7 Swamp
+
+Sideboard

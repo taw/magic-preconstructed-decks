@@ -1,0 +1,20 @@
+// NAME: Primates
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Kibo, Uktabi Prince
+1 Hooting Mandrills
+1 Scrounging Bandar
+1 Silverback Shaman
+1 Simian Brawler
+1 Towering Gibbon
+1 Uktabi Orangutan
+1 Wily Bandar
+1 Cultivate
+1 Declare Dominance
+1 Ram Through
+1 Monkey Cage
+1 Treetop Village
+1 Thriving Grove
+7 Forest
+
+Sideboard

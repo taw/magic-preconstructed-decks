@@ -1,0 +1,19 @@
+// NAME: Insects 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Zask, Skittering Swarmlord
+1 Giant Ladybug
+1 Kraul Harpooner
+1 Circuit Mender
+1 Nantuko Cultivator
+1 Caustic Caterpillar
+1 Ironshell Beetle
+1 Kraul Foragers
+1 Moldgraf Millipede
+1 Relentless Pursuit
+1 Hunter's Edge
+1 Crawling Sensation
+1 Thriving Grove
+7 Forest
+
+Sideboard

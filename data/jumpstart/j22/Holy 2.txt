@@ -1,0 +1,19 @@
+// NAME: Holy 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Angelic Cub
+1 Lyra Dawnbringer
+1 Emancipation Angel
+1 Starnheim Aspirant
+1 Pilgrim of the Ages
+1 Stalwart Valkyrie
+1 Dawning Angel
+1 Anointer of Valor
+1 Light of Hope
+1 Divine Arrow
+1 Defy Death
+1 Chains of Custody
+1 Thriving Heath
+7 Plains
+
+Sideboard

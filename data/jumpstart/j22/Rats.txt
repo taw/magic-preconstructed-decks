@@ -1,0 +1,19 @@
+// NAME: Rats
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Ashcoat of the Shadow Swarm
+1 Burglar Rat
+1 Chittering Rats
+1 Crypt Rats
+1 Ossuary Rats
+1 Typhoid Rats
+1 Sinuous Vermin
+1 Nezumi Bone-Reader
+1 Ogre Slumlord
+1 Ulcerate
+1 Eviscerate
+1 Infiltration Lens
+1 Thriving Moor
+7 Swamp
+
+Sideboard

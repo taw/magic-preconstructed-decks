@@ -1,0 +1,19 @@
+// NAME: Cats 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Ajani, Strength of the Pride
+1 Ingenious Leonin
+1 King of the Pride
+1 Ajani's Pridemate
+1 Trained Caracal
+1 Leonin Snarecaster
+1 Savannah Sage
+1 Basri's Acolyte
+1 Make a Stand
+1 Impeccable Timing
+1 Weight of Conscience
+1 Leonin Scimitar
+1 Thriving Heath
+7 Plains
+
+Sideboard

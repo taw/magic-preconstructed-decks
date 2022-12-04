@@ -1,0 +1,19 @@
+// NAME: Boneyard 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Ossuary Rats
+1 Suspicious Shambler
+1 Shadowborn Demon
+1 Graveblade Marauder
+1 Stitcher's Supplier
+1 Liliana's Elite
+1 Wailing Ghoul
+1 Gorging Vulture
+1 Moodmark Painter
+1 Necrotic Wound
+1 Ghoul's Feast
+1 Corpse Churn
+1 Thriving Moor
+7 Swamp
+
+Sideboard

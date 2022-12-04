@@ -1,0 +1,19 @@
+// NAME: Shapeshifters
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Pirated Copy
+1 Gigantoplasm
+1 Mirror Image
+1 Bloodline Pretender
+1 Universal Automaton
+1 Amoeboid Changeling
+1 Mistwalker
+1 Littjara Kinseekers
+1 Lookout's Dispersal
+1 Chilling Trap
+1 Crashing Tide
+1 Heirloom Blade
+1 Thriving Isle
+7 Island
+
+Sideboard

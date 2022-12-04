@@ -1,0 +1,20 @@
+// NAME: Unlucky Thirteen
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Tree of Perdition
+1 Disciple of Perdition
+1 Sling-Gang Lieutenant
+1 Blight Keeper
+1 Gnawing Zombie
+1 Skirsdag Supplicant
+1 Soulcage Fiend
+1 Dread Rider
+1 Tragic Slip
+1 Ruthless Disposal
+1 Exsanguinate
+1 Triskaidekaphobia
+1 Piranha Marsh
+1 Thriving Moor
+6 Swamp
+
+Sideboard

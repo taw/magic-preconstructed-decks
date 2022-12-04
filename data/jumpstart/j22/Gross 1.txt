@@ -1,0 +1,20 @@
+// NAME: Gross 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Skullslither Worm
+1 Massacre Wurm
+1 Plaguecrafter
+1 Yargle, Glutton of Urborg
+1 Blight Keeper
+1 Black Cat
+1 Durable Coilbug
+1 Devouring Swarm
+1 Grotesque Mutation
+1 Strangling Spores
+1 Eaten Alive
+1 Infernal Idol
+1 Leechridden Swamp
+1 Thriving Moor
+6 Swamp
+
+Sideboard

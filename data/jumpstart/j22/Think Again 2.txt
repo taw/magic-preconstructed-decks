@@ -1,0 +1,19 @@
+// NAME: Think Again 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Alandra, Sky Dreamer
+1 Spectral Sailor
+1 Faerie Vandal
+1 Merfolk Pupil
+1 Mystic Skyfish
+1 Teferi's Protege
+1 Tome Anima
+1 Steelgaze Griffin
+1 Soul Read
+1 Opt
+1 Eternity Snare
+1 Hedron Archive
+1 Thriving Isle
+7 Island
+
+Sideboard

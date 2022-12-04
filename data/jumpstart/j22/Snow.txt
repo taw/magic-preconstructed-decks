@@ -1,0 +1,19 @@
+// NAME: Snow
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Isu the Abominable
+1 Avalanche Caller
+1 Berg Strider
+1 Chillerpillar
+1 Frostpeak Yeti
+1 Phyrexian Ironfoot
+1 Pilfering Hawk
+1 Crippling Chill
+1 Coldsteel Heart
+1 Icebind Pillar
+1 Marit Lage's Slumber
+1 Winter's Rest
+1 Shimmerdrift Vale
+7 Snow-Covered Island
+
+Sideboard

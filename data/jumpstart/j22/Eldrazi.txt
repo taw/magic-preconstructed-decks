@@ -1,0 +1,21 @@
+// NAME: Eldrazi
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 World Breaker
+1 Endbringer
+1 Brood Monitor
+1 Blisterpod
+1 Stalking Drone
+1 Scion Summoner
+1 Warden of Geometries
+1 Titan's Presence
+1 Unnatural Aggression
+1 Ruin in Their Wake
+1 Ancient Stirrings
+1 Planar Atlas
+1 Warped Landscape
+1 Wastes
+1 Ash Barrens
+5 Forest
+
+Sideboard

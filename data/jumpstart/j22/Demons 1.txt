@@ -1,0 +1,19 @@
+// NAME: Demons 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Conductor of Cacophony
+1 Disciple of Perdition
+1 Kothophed, Soul Hoarder
+1 Demon's Disciple
+1 Renegade Demon
+1 Takenuma Bleeder
+1 Fetid Imp
+1 Soulcage Fiend
+1 Diabolic Edict
+1 Demon's Grasp
+1 Inner Demon
+1 Infernal Idol
+1 Thriving Moor
+7 Swamp
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Gross 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Skullslither Worm
+1 Ossuary Rats
+1 Ophiomancer
+1 Plaguecrafter
+1 Swarm of Bloodflies
+1 Blight Keeper
+1 Vermin Gorger
+1 Durable Coilbug
+1 Devouring Swarm
+1 Grotesque Mutation
+1 Eaten Alive
+1 Witch's Cauldron
+1 Thriving Moor
+7 Swamp
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Detective 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// DATE: 2022-12-02
+1 Psychosis Crawler
+1 Aeronaut Tinkerer
+1 Drownyard Explorers
+1 Floodhound
+1 Oneirophage
+1 Tolarian Kraken
+1 Vedalken Engineer
+1 Press for Answers
+1 Jace's Scrutiny
+1 Hold for Questioning
+1 Teferi's Puzzle Box
+1 Magnifying Glass
+1 Thriving Isle
+7 Island
+
+Sideboard

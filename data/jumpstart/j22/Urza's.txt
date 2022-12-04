@@ -1,0 +1,21 @@
+// NAME: Urza's
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Other
+// DATE: 2022-12-02
+1 Karn Liberated
+1 Walking Ballista
+1 Golem Artisan
+1 Meteor Golem
+1 Locthwain Gargoyle
+1 Runed Servitor
+1 Manakin
+1 Thaumaturge's Familiar
+1 Planar Atlas
+1 Universal Solvent
+1 Alchemist's Vial
+1 Expedition Map
+1 Urza's Factory
+3 Urza's Tower
+2 Urza's Power Plant
+2 Urza's Mine
+
+Sideboard

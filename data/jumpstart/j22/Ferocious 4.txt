@@ -1,0 +1,20 @@
+// NAME: Ferocious 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Towering Gibbon
+1 Giant Ladybug
+1 Spectral Hunt-Caller
+1 Creeperhulk
+1 Challenger Troll
+1 Ilysian Caryatid
+1 Drowsing Tyrannodon
+1 Frontier Mastodon
+1 Roar of Challenge
+1 Savage Punch
+1 Colossal Majesty
+1 Kitesail
+1 Bonders' Enclave
+1 Thriving Grove
+6 Forest
+
+Sideboard

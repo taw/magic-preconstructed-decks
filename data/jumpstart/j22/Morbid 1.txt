@@ -1,0 +1,20 @@
+// NAME: Morbid 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Disciple of Perdition
+1 Suspicious Shambler
+1 Reaper from the Abyss
+1 Morkrut Banshee
+1 Bone Picker
+1 Wakedancer
+1 Liliana's Steward
+1 Durable Coilbug
+1 Tragic Slip
+1 Village Rites
+1 Reave Soul
+1 Spawning Pit
+1 Mortuary Mire
+1 Thriving Moor
+6 Swamp
+
+Sideboard

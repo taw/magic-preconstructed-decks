@@ -1,0 +1,19 @@
+// NAME: Blink 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Brightmare
+1 Daybreak Charger
+1 Distinguished Conjurer
+1 Emiel the Blessed
+1 Imperial Aerosaur
+1 Inspiring Overseer
+1 Rambunctious Mutt
+1 Valorous Steed
+1 Flicker of Fate
+1 Justiciar's Portal
+1 Settle Beyond Reality
+1 Faith's Fetters
+7 Plains
+1 Thriving Heath
+
+Sideboard

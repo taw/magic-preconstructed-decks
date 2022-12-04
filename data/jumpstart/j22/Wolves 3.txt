@@ -1,0 +1,19 @@
+// NAME: Wolves 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Arlinn, Voice of the Pack
+1 Mild-Mannered Librarian
+1 Spectral Hunt-Caller
+1 Kessig Cagebreakers
+1 Sporeback Wolf
+1 Ferocious Pup
+1 Bounding Wolf
+1 Predator's Howl
+1 Hunger of the Howlpack
+1 Prey Upon
+1 Feed the Pack
+1 Wolfwillow Haven
+1 Thriving Grove
+7 Forest
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Raid 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Kari Zev, Skyship Raider
+1 Keldon Raider
+1 Lavastep Raider
+1 Plundering Predator
+1 Rigging Runner
+1 Storm Fleet Pyromancer
+1 Swaggering Corsair
+1 War-Name Aspirant
+1 Firecannon Blast
+1 Raze the Effigy
+1 Daring Piracy
+1 Goblin Oriflamme
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

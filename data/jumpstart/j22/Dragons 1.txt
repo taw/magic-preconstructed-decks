@@ -1,0 +1,19 @@
+// NAME: Dragons 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Sarkhan, the Dragonspeaker
+1 Plundering Predator
+1 Sarkhan's Whelp
+1 Dragon Egg
+1 Furnace Whelp
+1 Dragon Mage
+1 Kargan Dragonrider
+1 Bogardan Dragonheart
+1 Scorching Dragonfire
+1 Sarkhan's Rage
+1 Dragon Fodder
+1 Tormenting Voice
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

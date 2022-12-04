@@ -1,0 +1,20 @@
+// NAME: Morbid 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// DATE: 2022-12-02
+1 Suspicious Shambler
+1 Priest of the Blood Rite
+1 Skirsdag High Priest
+1 Morkrut Banshee
+1 Reassembling Skeleton
+1 Bone Picker
+1 Wakedancer
+1 Liliana's Steward
+1 Tragic Slip
+1 Village Rites
+1 Reave Soul
+1 Vampiric Rites
+1 Mortuary Mire
+1 Thriving Moor
+6 Swamp
+
+Sideboard

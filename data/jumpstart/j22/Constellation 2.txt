@@ -1,0 +1,19 @@
+// NAME: Constellation 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Blessed Spirits
+1 Alseid of Life's Bounty
+1 Transcendent Envoy
+1 Auramancer
+1 Glory Bearers
+1 Captivating Unicorn
+1 Spirited Companion
+1 Chains of Custody
+1 Sigil of the Empty Throne
+1 Sage's Reverie
+1 Spectral Steel
+1 Dreadful Apathy
+1 Thriving Heath
+7 Plains
+
+Sideboard

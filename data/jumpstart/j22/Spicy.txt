@@ -1,0 +1,19 @@
+// NAME: Spicy
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Auntie Blyte, Bad Influence
+1 Coalhauler Swine
+1 Fireslinger
+1 Goblin Artillery
+1 Goblin Psychopath
+1 Ravenous Giant
+1 Spear Spewer
+1 Smoldering Efreet
+1 Aftershock
+1 Sarkhan's Rage
+1 Impending Doom
+1 Loxodon Warhammer
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

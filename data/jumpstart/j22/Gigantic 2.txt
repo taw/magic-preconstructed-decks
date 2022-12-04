@@ -1,0 +1,19 @@
+// NAME: Gigantic 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Runadi, Behemoth Caller
+1 Towering Gibbon
+1 Engulfing Slagwurm
+1 Paradise Druid
+1 Thrashing Brontodon
+1 Colossal Dreadmaw
+1 Ondu Giant
+1 Mammoth Spider
+1 Enlarge
+1 Prey Upon
+1 Gift of the Gargantuan
+1 Overgrowth
+1 Thriving Grove
+7 Forest
+
+Sideboard

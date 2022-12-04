@@ -1,0 +1,19 @@
+// NAME: Elves 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Dutiful Replicator
+1 Wildborn Preserver
+1 Woodland Champion
+1 Dwynen's Elite
+1 Elvish Rejuvenator
+1 Ivy Lane Denizen
+1 Elderleaf Mentor
+1 Band Together
+1 Overcome
+1 Roots of Wisdom
+1 Presence of Gond
+1 Elven Bow
+1 Thriving Grove
+7 Forest
+
+Sideboard

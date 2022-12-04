@@ -1,0 +1,19 @@
+// NAME: Treasure 2
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// DATE: 2022-12-02
+1 Dutiful Replicator
+1 Professional Face-Breaker
+1 Blood Aspirant
+1 Pyre-Sledge Arsonist
+1 Rapacious Dragon
+1 Barrage Ogre
+1 Goldhound
+1 Reckless Fireweaver
+1 Brazen Freebooter
+1 Welding Sparks
+1 Improvised Weaponry
+1 Goldvein Pick
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

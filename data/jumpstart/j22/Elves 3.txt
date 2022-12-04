@@ -1,0 +1,19 @@
+// NAME: Elves 3
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// DATE: 2022-12-02
+1 Wolverine Riders
+1 Woodland Champion
+1 Dwynen's Elite
+1 Elvish Rejuvenator
+1 Ivy Lane Denizen
+1 Elderleaf Mentor
+1 Lys Alana Huntmaster
+1 Might of the Masses
+1 Band Together
+1 Roots of Wisdom
+1 Instruments of War
+1 Elven Bow
+1 Thriving Grove
+7 Forest
+
+Sideboard

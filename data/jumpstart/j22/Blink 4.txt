@@ -1,0 +1,19 @@
+// NAME: Blink 4
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Brightmare
+1 Cavalry Drillmaster
+1 Distinguished Conjurer
+1 Inspiring Overseer
+1 Pierce Strider
+1 Rambunctious Mutt
+1 Seller of Songbirds
+1 Wispweaver Angel
+1 Flicker of Fate
+1 Settle Beyond Reality
+1 Faith's Fetters
+1 Panharmonicon
+7 Plains
+1 Thriving Heath
+
+Sideboard

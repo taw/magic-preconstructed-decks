@@ -1,0 +1,20 @@
+// NAME: Teamwork 1
+// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// DATE: 2022-12-02
+1 Agrus Kos, Eternal Soldier
+1 Angelic Cub
+1 Taranika, Akroan Veteran
+1 Angelic Protector
+1 Task Force
+1 Infantry Veteran
+1 Cavalry Drillmaster
+1 Combat Professor
+1 Valorous Stance
+1 Moment of Triumph
+1 Cage of Hands
+1 Dragon Blood
+1 Sandstone Bridge
+1 Thriving Heath
+7 Plains
+
+Sideboard
