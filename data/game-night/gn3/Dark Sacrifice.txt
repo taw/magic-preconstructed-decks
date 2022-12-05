@@ -1,5 +1,6 @@
 // NAME: Dark Sacrifice
 // COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// COMMENTS: https://magic.wizards.com/en/news/announcements/game-night-free-for-all-contents-update
 // DATE: 2022-10-14
 1 Gravewaker
 1 Bushmeat Poacher
