@@ -1,0 +1,76 @@
+// NAME: Token Triumph
+// COMMENTS: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
+// DATE: 2022-12-02
+COMMANDER: 1 Emmara, Soul of the Accord
+1 Ajani, Caller of the Pride
+1 Citywide Bust
+1 Commander's Insignia
+1 Dawn of Hope
+1 Dictate of Heliod
+1 Felidar Retreat
+1 Hour of Reckoning
+1 Mentor of the Meek
+1 White Sun's Zenith
+1 Champion of Lambholt
+1 Citanul Hierophants
+1 Collective Unconscious
+1 Harvest Season
+1 Hornet Nest
+1 Hornet Queen
+1 Rishkar, Peema Renegade
+1 Scavenging Ooze
+1 Thunderfoot Baloth
+1 Verdant Force
+1 Aura Mutation
+1 Camaraderie
+1 Collective Blessing
+1 Dauntless Escort
+1 March of the Multitudes
+1 Trostani Discordant
+1 Idol of Oblivion
+1 Slate of Ancestry
+1 Canopy Vista
+1 Fortified Village
+1 Temple of Plenty
+1 Conclave Tribunal
+1 Devouring Light
+1 Path to Exile
+1 Rootborn Defenses
+1 Valor in Akros
+1 Avacyn's Pilgrim
+1 Curse of Bounty
+1 Eternal Witness
+1 Farhaven Elf
+1 Great Oak Guardian
+1 Harmonize
+1 Jade Mage
+1 Jaspera Sentinel
+1 Karametra's Favor
+1 Leafkin Druid
+1 Loyal Guardian
+1 Nissa's Expedition
+1 Nullmage Shepherd
+1 Overrun
+1 Overwhelming Instinct
+1 Presence of Gond
+1 Reclamation Sage
+1 Scatter the Seeds
+1 Sporemound
+1 Voice of Many
+1 Maja, Bretagard Protector
+1 Selesnya Evangel
+1 Selesnya Guildmage
+1 Sylvan Reclamation
+1 Arcane Signet
+1 Commander's Sphere
+1 Sol Ring
+1 Talisman of Unity
+1 Blossoming Sands
+1 Command Tower
+1 Elfhame Palace
+1 Graypelt Refuge
+1 Holdout Settlement
+1 Tranquil Expanse
+1 Vitu-Ghazi, the City-Tree
+15 Forest
+14 Plains
