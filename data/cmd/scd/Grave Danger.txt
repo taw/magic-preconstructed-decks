@@ -1,0 +1,74 @@
+// NAME: Grave Danger
+// COMMENTS: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
+// DATE: 2022-12-02
+COMMANDER: 1 Gisa and Geralf
+1 Geralf's Mindcrusher
+1 Laboratory Drudge
+1 Army of the Damned
+1 Cemetery Reaper
+1 Champion of the Perished
+1 Crippling Fear
+1 Gravespawn Sovereign
+1 Josu Vess, Lich Knight
+1 Liliana, Untouched by Death
+1 Liliana's Mastery
+1 Liliana's Standard Bearer
+1 Midnight Reaper
+1 Necromantic Selection
+1 Necrotic Hex
+1 Open the Graves
+1 Overseer of the Damned
+1 Scourge of Nel Toth
+1 Unbreathing Horde
+1 Zombie Apocalypse
+1 Enter the God-Eternals
+1 Havengul Lich
+1 Undermine
+1 Vela the Night-Clad
+1 Grimoire of the Dead
+1 Choked Estuary
+1 Sunken Hollow
+1 Temple of Deceit
+1 Deep Analysis
+1 Distant Melody
+1 Eternal Skylord
+1 Lazotep Plating
+1 Sinister Sabotage
+1 Cruel Revival
+1 Curse of Disturbance
+1 Feed the Swarm
+1 Fleshbag Marauder
+1 Gray Merchant of Asphodel
+1 Lazotep Reaver
+1 Liliana's Devotee
+1 Lord of the Accursed
+1 Lotleth Giant
+1 Loyal Subordinate
+1 Mire Triton
+1 Murder
+1 Spark Reaper
+1 Syphon Flesh
+1 Undead Augur
+1 Vampiric Rites
+1 Vengeful Dead
+1 Victimize
+1 Vizier of the Scorpion
+1 Withered Wretch
+1 Diregraf Captain
+1 Gleaming Overseer
+1 Pilfered Plans
+1 Arcane Signet
+1 Commander's Sphere
+1 Dimir Signet
+1 Heraldic Banner
+1 Sol Ring
+1 Talisman of Dominance
+1 Unstable Obelisk
+1 Wayfarer's Bauble
+1 Command Tower
+1 Dismal Backwater
+1 Jwar Isle Refuge
+1 Salt Marsh
+1 Submerged Boneyard
+13 Island
+18 Swamp

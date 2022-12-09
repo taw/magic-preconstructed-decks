@@ -1,0 +1,75 @@
+// NAME: First Flight
+// COMMENTS: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
+// DATE: 2022-12-02
+COMMANDER: 1 Isperia, Supreme Judge
+1 Archon of Redemption
+1 Cartographer's Hawk
+1 Cleansing Nova
+1 Emeria Angel
+1 Gideon Jura
+1 Hanged Executioner
+1 Remorseful Cleric
+1 Sephara, Sky's Blade
+1 Steel-Plume Marshal
+1 Storm Herd
+1 True Conviction
+1 Angler Turtle
+1 Bident of Thassa
+1 Diluvian Primordial
+1 Ever-Watching Threshold
+1 Faerie Formation
+1 Gravitational Shift
+1 Inspired Sphinx
+1 Sharding Sphinx
+1 Sphinx of Enlightenment
+1 Windreader Sphinx
+1 Absorb
+1 Skycat Sovereign
+1 Sphinx's Revelation
+1 Time Wipe
+1 Moorland Haunt
+1 Port Town
+1 Prairie Stream
+1 Temple of Enlightenment
+1 Aven Gagglemaster
+1 Banishing Light
+1 Condemn
+1 Crush Contraband
+1 Disenchant
+1 Generous Gift
+1 Kangee's Lieutenant
+1 Rally of Wings
+1 Soul Snare
+1 Swords to Plowshares
+1 Vow of Duty
+1 Aetherize
+1 Counterspell
+1 Favorable Winds
+1 Negate
+1 Tide Skimmer
+1 Warden of Evos Isle
+1 Winged Words
+1 Cloudblazer
+1 Empyrean Eagle
+1 Jubilant Skybonder
+1 Kangee, Sky Warden
+1 Migratory Route
+1 Staggering Insight
+1 Thunderclap Wyvern
+1 Arcane Signet
+1 Azorius Signet
+1 Commander's Sphere
+1 Hedron Archive
+1 Pilgrim's Eye
+1 Sky Diamond
+1 Skyscanner
+1 Sol Ring
+1 Talisman of Progress
+1 Thought Vessel
+1 Coastal Tower
+1 Command Tower
+1 Meandering River
+1 Sejiri Refuge
+1 Tranquil Cove
+15 Plains
+15 Island
