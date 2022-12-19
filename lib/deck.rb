@@ -1,5 +1,5 @@
 class Deck
-  attr_reader :release_date
+  attr_reader :release_date, :source, :display
 
   def initialize(path)
     @cards = []
@@ -11,6 +11,8 @@ class Deck
     meta_lines = lines.grep(%r[^\s*/])
     @release_date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)], 1] }.compact.first
     @release_date = nil if @release_date == "-"
+    @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
+    @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.first
 
     in_sideboard = false
 

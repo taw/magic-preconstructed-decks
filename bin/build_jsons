@@ -28,7 +28,9 @@ class BuildJsons
       cards: deck.card_data,
       sideboard: deck.sideboard_data,
       commander: deck.commander_data,
-    }
+      source: deck.source,
+      display: deck.display,
+  }.compact
     @decks << deck_data
   end
 
