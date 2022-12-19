@@ -1,6 +1,6 @@
 // NAME: Beast Territory
 // SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includhes a random green Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random green Dominaria United rare or mythic rare
 // DATE: 2022-09-09
 1 Floriferous Vinewall
 1 Sunbathing Rootwalla

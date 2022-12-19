@@ -1,6 +1,6 @@
 // NAME: Mystic Mischief
 // SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includhes a random blue Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random blue Dominaria United rare or mythic rare
 // DATE: 2022-09-09
 1 Coral Colony
 1 Soaring Drake
