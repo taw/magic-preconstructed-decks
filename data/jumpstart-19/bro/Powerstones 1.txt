@@ -1,0 +1,19 @@
+// NAME: Powerstones 1
+// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// DISPLAY: Also includes a random blue The Brothers' War rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
+// DATE: 2022-11-18
+1 Geology Enthusiast
+1 Koilos Roc
+1 Third Path Savant
+1 Thopter Mechanic
+1 Urza, Powerstone Prodigy
+1 Combat Courier
+1 Spotter Thopter
+1 Stern Lesson
+1 Urza's Rebuff
+1 Take Flight
+1 Weakstone's Subjugation
+6 Island
+2 Island [foil]
+
+Sideboard

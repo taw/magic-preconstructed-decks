@@ -1,0 +1,19 @@
+// NAME: Welded 2
+// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// DISPLAY: Also includes a random red The Brothers' War rare or mythic rare
+// DATE: 2022-11-18
+1 Artificer's Dragon
+1 Horned Stoneseeker
+1 Mishra, Excavation Prodigy
+1 Scrapwork Mutt
+1 Tomakul Scrapsmith
+1 Fallaji Dragon Engine
+1 Mishra's Juggernaut
+1 Excavation Explosion
+1 Mishra's Onslaught
+1 Unleash Shell
+1 Mishra's Research Desk
+6 Mountain
+2 Mountain [foil]
+
+Sideboard

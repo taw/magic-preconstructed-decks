@@ -1,0 +1,19 @@
+// NAME: Unearthed 1
+// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// DISPLAY: Also includes a random black The Brothers' War rare or mythic rare
+// DATE: 2022-11-18
+1 Terror Ballista
+1 Ravenous Gigamole
+1 Thraxodemon
+1 Ashnod's Harvester
+1 Clay Revenant
+1 Scrapwork Rager
+1 Kill-Zone Acrobat
+1 Ashnod's Intervention
+1 Go for the Throat
+1 Gruesome Realization
+1 No One Left Behind
+6 Swamp
+2 Swamp [foil]
+
+Sideboard

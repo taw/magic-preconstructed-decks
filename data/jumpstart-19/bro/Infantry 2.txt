@@ -1,0 +1,19 @@
+// NAME: Infantry 2
+// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// DISPLAY: Also includes a random white The Brothers' War rare or mythic rare
+// DATE: 2022-11-18
+1 Rescue Retriever
+1 Aeronaut Cavalry
+1 Ambush Paratrooper
+1 Phalanx Vanguard
+1 Thopter Architect
+1 Warlord's Elite
+1 Scrapwork Cohort
+1 Yotian Frontliner
+1 Lay Down Arms
+1 Static Net
+1 Veteran's Powerblade
+6 Plains
+2 Plains [foil]
+
+Sideboard
