@@ -1,0 +1,20 @@
+// NAME: Arcane Mischief
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includhes a random blue Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Haunting Figment
+1 Soaring Drake
+1 Academy Wall
+1 Talas Lookout
+1 Frostfist Strider
+1 Djinn of the Fountain
+1 Impulse
+1 Shore Up
+1 Combat Research
+1 Cosmic Epiphany
+1 Impede Momentum
+5 Island
+2 Island [foil]
+1 Island [DMU:278]
+
+Sideboard

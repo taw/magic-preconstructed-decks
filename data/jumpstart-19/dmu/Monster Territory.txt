@@ -1,0 +1,24 @@
+// NAME: Monster Territory
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includhes a random green Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Floriferous Vinewall
+1 Sunbathing Rootwalla
+1 Nishoba Brawler
+1 Briar Hydra
+1 Magnigoth Sentry
+1 Territorial Maro
+1 Yavimaya Sojourner
+1 Gaea's Might
+1 Bite Down
+1 Slimefoot's Survey
+1 The Weatherseed Treaty
+1 Tangled Islet
+1 Wooded Ridgeline
+1 Radiant Grove
+1 Haunted Mire
+1 Forest
+2 Forest [foil]
+1 Forest [DMU:281]
+
+Sideboard

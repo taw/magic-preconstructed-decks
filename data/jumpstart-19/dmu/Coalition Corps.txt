@@ -1,0 +1,20 @@
+// NAME: Coalition Corps
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includhes a random white Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Clockwork Drawbridge
+1 Resolute Reinforcements
+1 Argivian Cavalier
+1 Charismatic Vanguard
+1 Griffin Protector
+1 Argivian Phalanx
+1 Serra Redeemer
+1 Captain's Call
+1 Prayer of Binding
+1 Love Song of Night and Day
+1 Join Forces
+5 Plains
+2 Plains [foil]
+1 Plains [DMU:277]
+
+Sideboard

@@ -1,0 +1,20 @@
+// NAME: Totally Ruthless
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includes a random black Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Cult Conscript
+1 Phyrexian Vivisector
+1 Splatter Goblin
+1 Phyrexian Rager
+1 Gibbering Barricade
+1 Sengir Connoisseur
+1 Tyrannical Pitlord
+1 Bone Splinters
+1 Cut Down
+1 Battle-Rage Blessing
+1 Braids's Frightful Return
+5 Swamp
+2 Swamp [foil]
+1 Swamp [DMU:279]
+
+Sideboard

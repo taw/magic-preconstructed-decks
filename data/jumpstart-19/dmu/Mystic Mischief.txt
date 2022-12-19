@@ -1,0 +1,20 @@
+// NAME: Mystic Mischief
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includhes a random blue Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Coral Colony
+1 Soaring Drake
+1 Academy Wall
+1 Talas Lookout
+1 Tolarian Terror
+1 Frostfist Strider
+1 Impulse
+1 Ertai's Scorn
+1 Founding the Third Path
+1 Cosmic Epiphany
+1 Impede Momentum
+5 Island
+2 Island [foil]
+1 Island [DMU:278]
+
+Sideboard

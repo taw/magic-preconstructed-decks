@@ -1,0 +1,20 @@
+// NAME: Coalition Legion
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includhes a random white Dominaria United rare or mythic rare
+// DATE: 2022-09-09
+1 Samite Herbalist
+1 Benalish Faithbonder
+1 Knight of Dawn's Light
+1 Argivian Cavalier
+1 Charismatic Vanguard
+1 Griffin Protector
+1 Serra Redeemer
+1 Take Up the Shield
+1 Join Forces
+1 Prayer of Binding
+1 Love Song of Night and Day
+5 Plains
+2 Plains [foil]
+1 Plains [DMU:277]
+
+Sideboard
