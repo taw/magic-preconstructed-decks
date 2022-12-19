@@ -1,5 +1,5 @@
 // NAME: Dimir Control
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
 // DATE: 2022-11-04
 2 Narset, Parter of Veils
 2 Torrential Gearhulk

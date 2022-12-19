@@ -1,5 +1,5 @@
 // NAME: Sorin
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-sorin-vs-tibalt
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-sorin-vs-tibalt
 // DATE: 2013-03-15
 1 Sorin, Lord of Innistrad [foil]
 1 Bloodrage Vampire

@@ -1,5 +1,5 @@
 // NAME: United Assault
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
 // DATE: 2019-04-12
 4 Dauntless Bodyguard
 4 Healer's Hawk

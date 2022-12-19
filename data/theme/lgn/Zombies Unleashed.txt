@@ -1,5 +1,5 @@
 // NAME: Zombies Unleashed
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=2&lang=en
 // DATE: 2003-02-03
 1 Festering Goblin*
 1 Boneknitter*

@@ -1,5 +1,5 @@
 // NAME: Woodland Warriors
-// COMMENTS: https://magic.wizards.com/en/products/duel-decks-elves-vs-inventors
+// SOURCE: https://magic.wizards.com/en/products/duel-decks-elves-vs-inventors
 // DATE: 2018-04-06
 1 Ezuri, Renegade Leader [foil]
 1 Dwynen, Gilt-Leaf Daen

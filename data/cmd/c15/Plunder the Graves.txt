@@ -1,5 +1,5 @@
 // NAME: Plunder the Graves
-// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+// SOURCE: https://magic.wizards.com/en/content/commander-2015-decklists
 // DATE: 2015-11-13
 COMMANDER: 1 Meren of Clan Nel Toth
 1 Sakura-Tribe Elder

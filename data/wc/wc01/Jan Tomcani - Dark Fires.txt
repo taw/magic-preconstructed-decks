@@ -1,5 +1,5 @@
 // NAME: Jan Tomcani - Dark Fires
-// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2001
+// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2001
 // DATE: 2001-08-08
 4 Llanowar Elves
 4 Birds of Paradise

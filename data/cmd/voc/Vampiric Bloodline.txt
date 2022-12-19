@@ -1,5 +1,5 @@
 // NAME: Vampiric Bloodline
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08
 // DATE: 2021-11-19
 COMMANDER: 1 Strefan, Maurer Progenitor [foil]
 1 Timothar, Baron of Bats [foil]

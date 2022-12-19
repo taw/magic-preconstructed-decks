@@ -1,5 +1,5 @@
 // NAME: Fate and Fury
-// COMMENTS: https://mtg.gamepedia.com/Magic_2015/Clash_pack
+// SOURCE: https://mtg.gamepedia.com/Magic_2015/Clash_pack
 // DATE: 2014-07-18
 1 Arbor Colossus
 1 Courser of Kruphix

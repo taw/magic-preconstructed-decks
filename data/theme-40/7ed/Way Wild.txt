@@ -1,5 +1,5 @@
 // NAME: Way Wild
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=5&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=5&lang=en
 // DATE: 2001-04-11
 2 Llanowar Elves
 3 Grizzly Bears

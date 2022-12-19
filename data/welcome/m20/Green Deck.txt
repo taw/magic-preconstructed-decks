@@ -1,5 +1,5 @@
 // NAME: Green Deck
-// COMMENTS: https://mtg.gamepedia.com/Core_Set_2020/Welcome_decks
+// SOURCE: https://mtg.gamepedia.com/Core_Set_2020/Welcome_decks
 // DATE: 2019-07-12
 1 Aggressive Mammoth
 1 Bristling Boar

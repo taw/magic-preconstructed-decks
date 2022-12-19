@@ -1,5 +1,5 @@
 // NAME: Profit
-// COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// SOURCE: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
 // DATE: 2015-01-23
 1 Baleful Eidolon
 1 Leafcrown Dryad

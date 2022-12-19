@@ -1,5 +1,5 @@
 // NAME: Mono-Red Burn
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2021-08-24
 // DATE: 2021-10-15
 4 Bomat Courier
 4 Soul-Scar Mage

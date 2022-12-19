@@ -1,5 +1,5 @@
 // NAME: Kiora
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
 // DATE: 2015-02-27
 1 Kiora, the Crashing Wave [foil]
 1 Inkwell Leviathan

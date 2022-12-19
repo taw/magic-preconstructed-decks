@@ -1,5 +1,5 @@
 // NAME: Divine
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-divine-vs-demonic
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-divine-vs-demonic
 // DATE: 2009-04-10
 1 Akroma, Angel of Wrath [foil]
 2 Angel of Mercy

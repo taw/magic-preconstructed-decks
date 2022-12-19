@@ -1,5 +1,5 @@
 // NAME: Power Hungry
-// COMMENTS: https://magic.wizards.com/en/content/power-hungry-commander-2013-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/power-hungry-commander-2013-card-set-archive
 // DATE: 2013-11-01
 COMMANDER: 1 Prossh, Skyraider of Kher
 1 Brooding Saurian

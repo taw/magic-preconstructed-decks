@@ -1,5 +1,5 @@
 // NAME: Second Sun Control
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23
 // DATE: 2018-04-06
 1 Kefnet the Mindful
 3 Approach of the Second Sun

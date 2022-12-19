@@ -1,5 +1,5 @@
 // NAME: Sworn To Darkness
-// COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/sworn-to-darkness
+// SOURCE: https://magic.wizards.com/en/products/card-set-archive/commander-2014/sworn-to-darkness
 // DATE: 2014-11-07
 COMMANDER: 1 Ob Nixilis of the Black Oath
 1 Skirsdag High Priest

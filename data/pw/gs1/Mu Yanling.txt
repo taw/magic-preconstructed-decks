@@ -1,5 +1,5 @@
 // NAME: Mu Yanling
-// COMMENTS: http://magic.wizards.com/en/articles/archive/news/global-series-jiangg-yanggu-mu-yanling-deck-lists-2018-06-07
+// SOURCE: http://magic.wizards.com/en/articles/archive/news/global-series-jiangg-yanggu-mu-yanling-deck-lists-2018-06-07
 // DATE: 2018-06-22
 2 Welkin Tern
 2 Brilliant Plan

@@ -1,5 +1,5 @@
 // NAME: Grixis Undead
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
 // DATE: 2008-10-03
 1 Dregscape Zombie
 1 Vithian Stinger

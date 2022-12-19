@@ -1,5 +1,5 @@
 // NAME: Time Curse
-// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Starter_1999/Theme_decks
 // DATE: 1999-07-12
 17 Island
 2 Air Elemental

@@ -1,5 +1,5 @@
 // NAME: Path of Blight
-// COMMENTS: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
+// SOURCE: https://magic.wizards.com/en/articles/archive/mirrodin-besieged-intro-packs-2011-01-27
 // DATE: 2011-02-04
 2 Plague Myr
 2 Blight Mamba

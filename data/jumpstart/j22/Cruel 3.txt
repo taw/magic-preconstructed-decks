@@ -1,5 +1,5 @@
 // NAME: Cruel 3
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
 // DATE: 2022-12-02
 1 Conductor of Cacophony
 1 Ossuary Rats

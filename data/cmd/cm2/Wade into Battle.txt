@@ -1,5 +1,5 @@
 // NAME: Wade into Battle
-// COMMENTS: https://magic.wizards.com/en/products/Commander-Anthology-2
+// SOURCE: https://magic.wizards.com/en/products/Commander-Anthology-2
 // DATE: 2018-06-08
 COMMANDER: 1 Kalemne, Disciple of Iroas [foil]
 1 Oreskos Explorer

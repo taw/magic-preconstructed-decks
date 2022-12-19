@@ -1,5 +1,5 @@
 // NAME: Jakub Šlemr - Mono-Black Control
-// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1999
 // DATE: 1999-08-04
 1 Bottle Gnomes [WC99:js278]
 1 Phyrexian Negator [WC99:js65]

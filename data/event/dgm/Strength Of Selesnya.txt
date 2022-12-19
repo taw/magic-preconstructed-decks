@@ -1,5 +1,5 @@
 // NAME: Strength Of Selesnya
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/dragons-mazes-strength-selesnya-decklist-2013-05-07
 // DATE: 2013-05-24
 1 Champion of Lambholt
 2 Doomed Traveler

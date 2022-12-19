@@ -1,5 +1,5 @@
 // NAME: Heavenly Inferno
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-gathering-commander-decklists-2011-06-14
 // DATE: 2011-06-17
 COMMANDER: 1 Kaalia of the Vast
 1 Mother of Runes

@@ -1,5 +1,5 @@
 // NAME: Primordial Hunger
-// COMMENTS: https://magic.wizards.com/en/content/primordial-hunger-planechase-2012-edition-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/primordial-hunger-planechase-2012-edition-card-set-archive
 // DATE: 2012-06-01
 2 Beetleback Chief
 2 Brindle Shoat

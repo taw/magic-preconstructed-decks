@@ -1,5 +1,5 @@
 // NAME: Truth Seekers
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=4&lang=en
 // DATE: 2005-06-03
 3 Ghost-Lit Redeemer
 2 Silent-Chant Zubera*

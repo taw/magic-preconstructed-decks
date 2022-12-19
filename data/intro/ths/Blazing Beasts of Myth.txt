@@ -1,5 +1,5 @@
 // NAME: Blazing Beasts of Myth
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/theros-intro-pack-decklists-2013-09-18
 // DATE: 2013-09-27
 2 Satyr Rambler
 2 Satyr Hedonist

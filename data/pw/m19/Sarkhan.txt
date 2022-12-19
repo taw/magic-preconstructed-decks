@@ -1,5 +1,5 @@
 // NAME: Sarkhan
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
 // DATE: 2018-07-13
 1 Shivan Dragon
 1 Demanding Dragon

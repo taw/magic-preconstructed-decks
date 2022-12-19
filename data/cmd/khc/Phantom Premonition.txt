@@ -1,5 +1,5 @@
 // NAME: Phantom Premonition
-// COMMENTS: https://mtg.fandom.com/wiki/Kaldheim/Commander_decks
+// SOURCE: https://mtg.fandom.com/wiki/Kaldheim/Commander_decks
 // DATE: 2021-02-05
 COMMANDER: 1 Ranar the Ever-Watchful [foil]
 1 Angel of Finality

@@ -1,5 +1,5 @@
 // NAME: Grave Advantage
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/fate-reforged-intro-pack-decklists-2015-01-15
 // DATE: 2015-01-23
 2 Archers' Parapet
 1 Highland Game

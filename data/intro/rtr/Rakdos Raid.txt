@@ -1,5 +1,5 @@
 // NAME: Rakdos Raid
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
 // DATE: 2012-10-05
 3 Tormented Soul
 1 Bellows Lizard

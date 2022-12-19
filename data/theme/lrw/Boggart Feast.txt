@@ -1,5 +1,5 @@
 // NAME: Boggart Feast
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=2&lang=en
 // DATE: 2007-10-12
 3 Facevaulter
 2 Exiled Boggart

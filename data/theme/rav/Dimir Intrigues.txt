@@ -1,5 +1,5 @@
 // NAME: Dimir Intrigues
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=2&lang=en
 // DATE: 2005-10-07
 2 Lore Broker
 3 Vedalken Entrancer

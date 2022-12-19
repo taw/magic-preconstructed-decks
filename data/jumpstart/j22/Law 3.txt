@@ -1,5 +1,5 @@
 // NAME: Law 3
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
 // DATE: 2022-12-02
 1 Gideon, Champion of Justice
 1 Magnanimous Magistrate

@@ -1,5 +1,5 @@
 // NAME: Decay
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=3&lang=en
 // DATE: 2001-04-11
 2 Blood Pet
 1 Bog Imp

@@ -1,5 +1,5 @@
 // NAME: Slivers
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/slivers-decklist-2009-11-05
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/slivers-decklist-2009-11-05
 // DATE: 2009-11-20
 2 Metallic Sliver [foil]
 2 Virulent Sliver [foil]

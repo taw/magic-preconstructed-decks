@@ -1,5 +1,5 @@
 // NAME: Nature of the Beast
-// COMMENTS: https://magic.wizards.com/en/content/nature-beast-commander-2013-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/nature-beast-commander-2013-card-set-archive
 // DATE: 2013-11-01
 COMMANDER: 1 Marath, Will of the Wild
 1 Archangel

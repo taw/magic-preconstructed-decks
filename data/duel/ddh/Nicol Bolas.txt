@@ -1,5 +1,5 @@
 // NAME: Nicol Bolas
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-ajani-vs-nicol-bolas
 // DATE: 2011-09-02
 1 Nicol Bolas, Planeswalker [foil]
 1 Blazing Specter

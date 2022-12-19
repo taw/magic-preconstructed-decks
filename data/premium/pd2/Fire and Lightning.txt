@@ -1,5 +1,5 @@
 // NAME: Fire and Lightning
-// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/firelightning
+// SOURCE: https://magic.wizards.com/en/game-info/products/card-set-archive/firelightning
 // DATE: 2010-11-19
 1 Ball Lightning [foil]
 1 Boggart Ram-Gang [foil]

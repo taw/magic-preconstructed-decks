@@ -1,5 +1,5 @@
 // NAME: Shamanism
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
 // DATE: 2008-02-01
 1 Moonglove Changeling
 2 Squeaking Pie Grubfellows

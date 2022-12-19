@@ -1,5 +1,5 @@
 // NAME: Fate
-// COMMENTS: https://magic.wizards.com/en/articles/archive/magic-2015-clash-pack-2014-07-07
+// SOURCE: https://magic.wizards.com/en/articles/archive/magic-2015-clash-pack-2014-07-07
 // DATE: 2014-07-18
 1 Hypnotic Siren
 2 Leafcrown Dryad

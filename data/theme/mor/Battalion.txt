@@ -1,5 +1,5 @@
 // NAME: Battalion
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/morningtide-theme-decks-2008-01-22
 // DATE: 2008-02-01
 3 Cenn's Tactician
 2 Ballyrush Banneret

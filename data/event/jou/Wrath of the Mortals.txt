@@ -1,5 +1,5 @@
 // NAME: Wrath of the Mortals
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-event-deck-2014-05-01-0
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/journey-nyx-event-deck-2014-05-01-0
 // DATE: 2014-05-23
 1 Battlefield Thaumaturge
 3 Young Pyromancer

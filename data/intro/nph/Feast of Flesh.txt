@@ -1,5 +1,5 @@
 // NAME: Feast of Flesh
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/new-phyrexia-intro-packs-2011-05-02-0
 // DATE: 2011-05-13
 2 Furnace Scamp
 2 Blistergrub

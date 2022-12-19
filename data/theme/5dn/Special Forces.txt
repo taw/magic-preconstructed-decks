@@ -1,5 +1,5 @@
 // NAME: Special Forces
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=2&lang=en
 // DATE: 2004-06-04
 2 Plasma Elemental
 1 Ebon Drake

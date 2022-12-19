@@ -1,5 +1,5 @@
 // NAME: Azorius Control
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2021-02-12
 // DATE: 2021-04-02
 2 Skyclave Cleric
 2 Dream Trawler

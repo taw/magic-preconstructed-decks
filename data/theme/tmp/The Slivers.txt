@@ -1,5 +1,5 @@
 // NAME: The Slivers
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=tempest&decknum=3&lang=en
 // DATE: 1997-10-14
 4 Winged Sliver
 3 Mnemonic Sliver

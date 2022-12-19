@@ -1,5 +1,5 @@
 // NAME: Take to the Sky
-// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+// SOURCE: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
 // DATE: 2015-07-17
 1 Alhammarret, High Arbiter [foil]
 3 Faerie Miscreant

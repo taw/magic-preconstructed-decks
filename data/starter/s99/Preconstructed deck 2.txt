@@ -1,5 +1,5 @@
 // NAME: Preconstructed deck 2
-// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
+// SOURCE: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
 // DATE: 1999-07-12
 8 Island
 8 Plains

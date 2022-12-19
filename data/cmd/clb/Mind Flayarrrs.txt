@@ -1,5 +1,5 @@
 // NAME: Mind Flayarrrs
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30
 // DATE: 2022-06-10
 COMMANDER: 1 Captain N'ghathrod [CLB:646] [foil]
 1 Chasm Skulker

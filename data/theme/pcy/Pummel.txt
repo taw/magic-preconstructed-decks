@@ -1,5 +1,5 @@
 // NAME: Pummel
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=prophecy&decknum=1&lang=en
 // DATE: 2000-06-05
 2 Deepwood Wolverine*
 2 Spore Frog

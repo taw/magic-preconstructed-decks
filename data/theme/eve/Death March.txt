@@ -1,5 +1,5 @@
 // NAME: Death March
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/eventide-theme-deck-contents-2008-07-03
 // DATE: 2008-07-25
 2 Merrow Bonegnawer
 2 Wickerbough Elder

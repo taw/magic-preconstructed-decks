@@ -1,5 +1,5 @@
 // NAME: Grab for Power
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
 // DATE: 2011-07-15
 2 Child of Night
 2 Reassembling Skeleton

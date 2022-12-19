@@ -1,5 +1,5 @@
 // NAME: Untamed Wild
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
 // DATE: 2016-07-22
 2 Bold Impaler
 2 Furyblade Vampire

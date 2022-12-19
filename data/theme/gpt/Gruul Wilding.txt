@@ -1,5 +1,5 @@
 // NAME: Gruul Wilding
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=2&lang=en
 // DATE: 2006-02-03
 1 Scorched Rusalka
 2 Sparkmage Apprentice*

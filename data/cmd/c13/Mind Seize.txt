@@ -1,5 +1,5 @@
 // NAME: Mind Seize
-// COMMENTS: https://magic.wizards.com/en/content/mind-seize-commander-2013-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/mind-seize-commander-2013-card-set-archive
 // DATE: 2013-11-01
 COMMANDER: 1 Jeleva, Nephalia's Scourge
 1 Augur of Bolas

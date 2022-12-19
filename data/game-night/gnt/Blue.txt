@@ -1,5 +1,5 @@
 // NAME: Blue
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
 // DATE: 2018-11-16
 1 Soulblade Djinn
 1 Zahid, Djinn of the Lamp

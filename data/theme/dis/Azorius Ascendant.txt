@@ -1,5 +1,5 @@
 // NAME: Azorius Ascendant
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=dissension&decknum=1&lang=en
 // DATE: 2006-05-05
 3 Beacon Hawk
 2 Mistral Charger

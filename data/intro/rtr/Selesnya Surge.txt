@@ -1,5 +1,5 @@
 // NAME: Selesnya Surge
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/return-ravnica-intro-pack-decklists-2012-09-25
 // DATE: 2012-10-05
 1 Arbor Elf
 1 Brushstrider

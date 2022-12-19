@@ -1,5 +1,5 @@
 // NAME: Blessed
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-blessed-vs-cursed
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-blessed-vs-cursed
 // DATE: 2016-02-26
 1 Cathedral Sanctifier
 1 Champion of the Parish

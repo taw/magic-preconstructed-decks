@@ -1,5 +1,5 @@
 // NAME: Boltslinger
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-online-deck-series-legacy-2010-11-11
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-online-deck-series-legacy-2010-11-11
 // DATE: 2010-11-08
 4 Hellspark Elemental
 4 Goblin Guide

@@ -1,5 +1,5 @@
 // NAME: New Phyrexia
-// COMMENTS: https://mtg.gamepedia.com/Duel_Decks:_Mirrodin_Pure_vs._New_Phyrexia
+// SOURCE: https://mtg.gamepedia.com/Duel_Decks:_Mirrodin_Pure_vs._New_Phyrexia
 // DATE: 2013-01-11
 
 1 Phyrexian Plaguelord

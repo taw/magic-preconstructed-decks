@@ -1,5 +1,5 @@
 // NAME: Inspiring Heroics
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/theros-event-deck-decklist-2013-09-26
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/theros-event-deck-decklist-2013-09-26
 // DATE: 2013-10-18
 3 Dryad Militant
 2 Imposing Sovereign

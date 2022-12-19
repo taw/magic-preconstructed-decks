@@ -1,5 +1,5 @@
 // NAME: Elves
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
 // DATE: 2007-11-16
 1 Ambush Commander [foil]
 1 Allosaurus Rider

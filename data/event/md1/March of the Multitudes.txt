@@ -1,5 +1,5 @@
 // NAME: March of the Multitudes
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decklist-modern-event-deck-2014-05-13
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/decklist-modern-event-deck-2014-05-13
 // DATE: 2014-05-30
 1 Elspeth, Knight-Errant
 2 Soul Warden

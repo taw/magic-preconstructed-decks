@@ -1,5 +1,5 @@
 // NAME: Deathbreed
-// COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
 // DATE: 2008-09-22
 24 Snow-Covered Swamp
 3 Armor Thrull

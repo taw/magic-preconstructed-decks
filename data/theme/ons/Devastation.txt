@@ -1,5 +1,5 @@
 // NAME: Devastation
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=onslaught&decknum=3&lang=en
 // DATE: 2002-10-07
 1 Battering Craghorn
 1 Charging Slateback

@@ -1,5 +1,5 @@
 // NAME: Disruptor
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=3&lang=en
 // DATE: 1999-10-04
 2 Molting Harpy
 1 Cackling Witch

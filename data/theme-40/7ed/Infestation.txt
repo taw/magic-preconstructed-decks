@@ -1,5 +1,5 @@
 // NAME: Infestation
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=seventhedition&decknum=4&lang=en
 // DATE: 2001-04-11
 2 Goblin Digging Team
 2 Raging Goblin

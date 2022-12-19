@@ -1,5 +1,5 @@
 // NAME: Landslide Charge
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-event-deck-2015-03-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/dragons-tarkir-event-deck-2015-03-18
 // DATE: 2015-03-27
 4 Elvish Mystic
 2 Golden Hind

@@ -1,5 +1,5 @@
 // NAME: Merfolk 3
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Harbinger of the Tides
 1 Wake Thrasher

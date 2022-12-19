@@ -1,5 +1,5 @@
 // NAME: Waking Nightmares
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=4&lang=en
 // DATE: 2002-02-08
 3 Mesmeric Fiend
 1 Gravegouger

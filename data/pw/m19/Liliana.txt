@@ -1,5 +1,5 @@
 // NAME: Liliana
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2019-planeswalker-deck-lists-2018-06-15
 // DATE: 2018-07-13
 2 Diregraf Ghoul
 1 Demon of Catastrophes

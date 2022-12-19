@@ -1,5 +1,5 @@
 // NAME: Liliana, Death Wielder
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/amonkhet-planeswalker-deck-lists-2017-04-19
 // DATE: 2017-04-28
 1 Liliana, Death Wielder [foil]
 1 Festering Mummy

@@ -1,5 +1,5 @@
 // NAME: Golgari
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
 // DATE: 2012-09-07
 1 Boneyard Wurm
 1 Brain Weevil

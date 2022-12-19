@@ -1,5 +1,5 @@
 // NAME: Faceless Menace
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/decks-commander-2019-edition-2019-08-08
 // DATE: 2019-08-23
 COMMANDER: 1 Kadena, Slinking Sorcerer [foil]
 1 Vraska the Unseen

@@ -1,5 +1,5 @@
 // NAME: Barrage
-// COMMENTS: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
 // DATE: 2001-02-05
 11 Mountain
 12 Forest

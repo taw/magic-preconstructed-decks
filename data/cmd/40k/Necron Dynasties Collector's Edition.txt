@@ -1,5 +1,5 @@
 // NAME: Necron Dynasties Collector's Edition
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/warhammer-40000-commander-decklists
 // DATE: 2022-10-07
 COMMANDER: 1 Szarekh, the Silent King [40k:1] [foil]
 1 Beacon of Unrest [40k:194★]

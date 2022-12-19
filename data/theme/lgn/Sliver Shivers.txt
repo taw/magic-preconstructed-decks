@@ -1,5 +1,5 @@
 // NAME: Sliver Shivers
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=4&lang=en
 // DATE: 2003-02-03
 4 Quick Sliver
 1 Root Sliver

@@ -1,6 +1,6 @@
 // NAME: Night Terrors
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=3&lang=en
-// COMMENTS: https://magic.wizards.com/en/articles/archive/mirage-%E2%80%93-new-era-magic-online-2005-12-05
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=mirage&decknum=3&lang=en
+// SOURCE: https://magic.wizards.com/en/articles/archive/mirage-%E2%80%93-new-era-magic-online-2005-12-05
 // DATE: 2006-12-05
 1 Blighted Shaman
 2 Restless Dead

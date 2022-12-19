@@ -1,5 +1,5 @@
 // NAME: Urza's Iron Alliance
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/brothers-war-commander-decklists-2022-10-28
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/brothers-war-commander-decklists-2022-10-28
 // DATE: 2022-11-18
 COMMANDER: 1 Urza, Chief Artificer [BRC:2] [foil]
 1 Indomitable Archangel

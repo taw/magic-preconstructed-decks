@@ -1,5 +1,5 @@
 // NAME: Cruel Plots
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/dragons-tarkir-intro-pack-decklists-2015-03-19
 // DATE: 2015-03-27
 2 Shambling Goblin
 2 Sidisi's Faithful

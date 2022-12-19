@@ -1,5 +1,5 @@
 // NAME: Illusionary Might
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-event-decks-2011-08-01
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-event-decks-2011-08-01
 // DATE: 2011-08-12
 4 Phantasmal Bear
 1 Phantasmal Image

@@ -1,5 +1,5 @@
 // NAME: Jace, Ingenious Mind Mage
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/ixalan-planeswalker-deck-lists-2017-09-20
 // DATE: 2017-09-29
 1 Herald of Secret Streams
 1 Fleet Swallower

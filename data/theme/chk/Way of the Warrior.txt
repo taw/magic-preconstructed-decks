@@ -1,5 +1,5 @@
 // NAME: Way of the Warrior
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=4&lang=en
 // DATE: 2004-10-01
 1 Bushi Tenderfoot
 4 Devoted Retainer

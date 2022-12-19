@@ -1,5 +1,5 @@
 // NAME: Rakdos Vampires
-// COMMENTS: https://magic.wizards.com/en/challenger-decks-2022
+// SOURCE: https://magic.wizards.com/en/challenger-decks-2022
 // DATE: 2022-04-01
 4 Voldaren Bloodcaster
 1 Henrika Domnathi

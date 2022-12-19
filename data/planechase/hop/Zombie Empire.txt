@@ -1,5 +1,5 @@
 // NAME: Zombie Empire
-// COMMENTS: https://magic.wizards.com/en/articles/archive/zombie-empire-2009-08-27
+// SOURCE: https://magic.wizards.com/en/articles/archive/zombie-empire-2009-08-27
 // DATE: 2009-09-04
 2 Festering Goblin
 1 Dregscape Zombie

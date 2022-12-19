@@ -1,5 +1,5 @@
 // NAME: Obscura Operation
-// COMMENTS: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
+// SOURCE: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
 // DATE: 2022-04-29
 COMMANDER: 1 Kamiz, Obscura Oculus [NCC:3] [foil]
 1 Tivit, Seller of Secrets

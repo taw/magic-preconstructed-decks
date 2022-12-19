@@ -1,5 +1,5 @@
 // NAME: Hope's Crusaders
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=2&lang=en
 // DATE: 2006-10-06
 3 Icatian Javelineers
 3 Benalish Cavalry

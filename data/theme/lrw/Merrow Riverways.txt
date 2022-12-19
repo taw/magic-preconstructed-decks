@@ -1,5 +1,5 @@
 // NAME: Merrow Riverways
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=4&lang=en
 // DATE: 2007-10-12
 3 Judge of Currents
 2 Avian Changeling

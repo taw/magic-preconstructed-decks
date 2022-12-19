@@ -1,5 +1,5 @@
 // NAME: Sacrificial Bam
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=mirrodin&decknum=4&lang=en
 // DATE: 2003-10-02
 3 Disciple of the Vault
 2 Atog

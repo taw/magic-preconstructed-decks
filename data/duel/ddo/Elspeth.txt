@@ -1,5 +1,5 @@
 // NAME: Elspeth
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-elspeth-vs-kiora
 // DATE: 2015-02-27
 1 Elspeth, Sun's Champion [foil]
 2 Icatian Javelineers

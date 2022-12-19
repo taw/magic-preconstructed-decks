@@ -1,5 +1,5 @@
 // NAME: Venser
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
 // DATE: 2012-03-30
 1 Venser, the Sojourner [foil]
 1 Augury Owl

@@ -1,5 +1,5 @@
 // NAME: Spirit Gale
-// COMMENTS: https://magic.wizards.com/en/products/battle-royale
+// SOURCE: https://magic.wizards.com/en/products/battle-royale
 // DATE: 1999-11-12
 1 Air Elemental
 1 Azure Drake

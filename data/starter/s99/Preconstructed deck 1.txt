@@ -1,5 +1,5 @@
 // NAME: Preconstructed deck 1
-// COMMENTS: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
+// SOURCE: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
 // DATE: 1999-07-12
 6 Forest
 6 Mountain

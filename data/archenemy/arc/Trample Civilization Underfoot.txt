@@ -1,5 +1,5 @@
 // NAME: Trample Civilization Underfoot
-// COMMENTS: https://magic.wizards.com/en/archenemy
+// SOURCE: https://magic.wizards.com/en/archenemy
 // DATE: 2010-06-18
 1 Feral Hydra
 2 Fertilid

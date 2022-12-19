@@ -1,5 +1,5 @@
 // NAME: Mortal Coil
-// COMMENTS: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
+// SOURCE: https://magic.wizards.com/en/articles/archive/shadowmoor-theme-deck-contents-2008-04-21
 // DATE: 2008-05-02
 2 Leech Bonder
 1 River Kelpie

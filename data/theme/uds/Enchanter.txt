@@ -1,5 +1,5 @@
 // NAME: Enchanter
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=urzasdestiny&decknum=1&lang=en
 // DATE: 1999-06-07
 1 Mother of Runes**
 1 Monk Realist*

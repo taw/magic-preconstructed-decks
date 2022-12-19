@@ -1,5 +1,5 @@
 // NAME: Eternal Bargain
-// COMMENTS: https://magic.wizards.com/en/content/eternal-bargain-commander-2013-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/eternal-bargain-commander-2013-card-set-archive
 // DATE: 2013-11-01
 COMMANDER: 1 Oloro, Ageless Ascetic
 1 Ajani's Pridemate

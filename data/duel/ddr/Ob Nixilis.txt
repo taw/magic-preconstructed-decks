@@ -1,5 +1,5 @@
 // NAME: Ob Nixilis
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/duel-decks-nissa-vs-ob-nixilis-2016-08-01
 // DATE: 2016-09-02
 1 Ob Nixilis Reignited [foil]
 2 Carrier Thrall

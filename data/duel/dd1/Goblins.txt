@@ -1,5 +1,5 @@
 // NAME: Goblins
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-elves-vs-goblins
 // DATE: 2007-11-16
 1 Akki Coalflinger
 1 Clickslither

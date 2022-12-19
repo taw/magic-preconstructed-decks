@@ -1,5 +1,5 @@
 // NAME: Concerted Effort
-// COMMENTS: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
+// SOURCE: https://magic.wizards.com/en/articles/archive/daily-magic-update/january-13-2016-update-2016-01-13
 // DATE: 2016-01-22
 2 Kor Sky Climber
 2 Expedition Envoy

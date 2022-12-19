@@ -1,5 +1,5 @@
 // NAME: Jace
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-jace-vs-vraska
 // DATE: 2014-03-14
 1 Jace, Architect of Thought [foil]
 1 Aeon Chronicler

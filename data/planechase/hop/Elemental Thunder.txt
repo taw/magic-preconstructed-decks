@@ -1,5 +1,5 @@
 // NAME: Elemental Thunder
-// COMMENTS: https://magic.wizards.com/en/articles/archive/elemental-thunder-2009-08-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/elemental-thunder-2009-08-18
 // DATE: 2009-09-04
 2 Flamekin Harbinger
 2 Smokebraider

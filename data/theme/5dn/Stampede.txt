@@ -1,5 +1,5 @@
 // NAME: Stampede
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=5dn&decknum=3&lang=en
 // DATE: 2004-06-04
 1 Spark Elemental
 1 Slith Firewalker*

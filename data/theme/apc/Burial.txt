@@ -1,5 +1,5 @@
 // NAME: Burial
-// COMMENTS: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Apocalypse/Theme_decks
 // DATE: 2001-06-04
 3 Elfhame Palace
 5 Forest

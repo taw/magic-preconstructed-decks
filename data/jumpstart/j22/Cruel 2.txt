@@ -1,5 +1,5 @@
 // NAME: Cruel 2
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
 // DATE: 2022-12-02
 1 Termination Facilitator
 1 Creeping Bloodsucker

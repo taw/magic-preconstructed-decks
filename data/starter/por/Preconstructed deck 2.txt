@@ -1,5 +1,5 @@
 // NAME: Preconstructed deck 2
-// COMMENTS: https://mtg.gamepedia.com/Portal/2-Player_Starter_Set
+// SOURCE: https://mtg.gamepedia.com/Portal/2-Player_Starter_Set
 // DATE: 1997-05-01
 6 Swamp
 6 Island

@@ -1,5 +1,5 @@
 // NAME: Selesnya United
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=rav&decknum=4&lang=en
 // DATE: 2005-10-07
 2 Elvish Skysweeper
 1 Scion of the Wild

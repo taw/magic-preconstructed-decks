@@ -1,6 +1,6 @@
 // NAME: Widowmaker - Advanced Deck
-// COMMENTS: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
-// COMMENTS: https://mtg.gamepedia.com/Exodus/Theme_decks
+// SOURCE: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
+// SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
 8 Island
 4 Rootwater Depths

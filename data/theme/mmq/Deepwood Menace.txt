@@ -1,5 +1,5 @@
 // NAME: Deepwood Menace
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=mercadianmasques&decknum=4&lang=en
 // DATE: 1999-10-04
 2 Kris Mage
 2 Cinder Elemental

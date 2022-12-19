@@ -1,5 +1,5 @@
 // NAME: Critical Mass
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=1&lang=en
 // DATE: 2005-06-03
 1 Ghost-Lit Stalker
 2 Gnat Miser

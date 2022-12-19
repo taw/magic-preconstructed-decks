@@ -1,5 +1,5 @@
 // NAME: Gideon, the Oathsworn
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/war-spark-planeswalker-deck-lists-2019-04-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/war-spark-planeswalker-deck-lists-2019-04-18
 // DATE: 2019-05-03
 3 Ajani's Pridemate
 4 Orzhov Guildgate

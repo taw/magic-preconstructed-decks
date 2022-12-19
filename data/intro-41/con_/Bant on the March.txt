@@ -1,5 +1,5 @@
 // NAME: Bant on the March
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/conflux-intro-pack-contents-2009-01-29
 // DATE: 2009-02-06
 1 Suntail Hawk
 2 Aven Squire

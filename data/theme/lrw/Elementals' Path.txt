@@ -1,5 +1,5 @@
 // NAME: Elementals' Path
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=5&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=lorwyn&decknum=5&lang=en
 // DATE: 2007-10-12
 1 Wispmare
 1 Dawnfluke

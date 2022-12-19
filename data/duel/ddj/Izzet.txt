@@ -1,5 +1,5 @@
 // NAME: Izzet
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-izzet-vs-golgari
 // DATE: 2012-09-07
 1 Djinn Illuminatus
 1 Galvanoth

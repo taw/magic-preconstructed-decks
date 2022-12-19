@@ -1,5 +1,5 @@
 // NAME: Air Razers
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=judgment&decknum=1&lang=en
 // DATE: 2002-05-27
 2 Hapless Researcher
 2 Skywing Aven**

@@ -1,5 +1,5 @@
 // NAME: Spiritbane
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=3&lang=en
 // DATE: 2004-10-01
 4 Akki Avalanchers
 3 Akki Rockspeaker

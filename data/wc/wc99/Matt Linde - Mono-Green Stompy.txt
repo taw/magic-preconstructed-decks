@@ -1,5 +1,5 @@
 // NAME: Matt Linde - Mono-Green Stompy
-// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/1999
+// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1999
 // DATE: 1999-08-04
 4 Albino Troll
 4 Elvish Lyrist

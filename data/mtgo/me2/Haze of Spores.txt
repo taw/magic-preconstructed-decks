@@ -1,5 +1,5 @@
 // NAME: Haze of Spores
-// COMMENTS: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
 // DATE: 2008-09-22
 21 Forest
 2 Havenwood Battleground

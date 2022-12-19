@@ -1,5 +1,5 @@
 // NAME: Knights' Charge
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04
 // DATE: 2019-10-04
 COMMANDER: 1 Syr Gwyn, Hero of Ashvale [foil]
 1 Silverwing Squadron

@@ -1,5 +1,5 @@
 // NAME: Nissa, Nature's Artisan
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/planeswalker-decklists-2016-09-21
 // DATE: 2016-09-30
 1 Nissa, Nature's Artisan [foil]
 2 Thriving Turtle

@@ -1,5 +1,5 @@
 // NAME: Massive Might
-// COMMENTS: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
+// SOURCE: https://mtg.fandom.com/wiki/Game_Night_2019/Game_night_decks
 // DATE: 2019-11-15
 1 Earthshaker Giant [foil]
 1 Voracious Hydra

@@ -1,5 +1,5 @@
 // NAME: Dave Humpherys - Blue-Green Madness
-// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2003
 // DATE: 2003-08-06
 4 Aquamoeba
 3 Arrogant Wurm

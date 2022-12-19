@@ -1,5 +1,5 @@
 // NAME: Cavalcade Charge
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
 // DATE: 2020-04-03
 3 Chandra, Acolyte of Flame
 4 Bonecrusher Giant

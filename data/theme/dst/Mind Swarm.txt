@@ -1,5 +1,5 @@
 // NAME: Mind Swarm
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=darksteel&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=darksteel&decknum=2&lang=en
 // DATE: 2004-02-06
 3 Grimclaw Bats
 1 Slith Bloodletter*

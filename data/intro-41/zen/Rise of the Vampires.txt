@@ -1,5 +1,5 @@
 // NAME: Rise of the Vampires
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/zendikar-intro-pack-contents-2009-09-30
 // DATE: 2009-10-02
 2 Guul Draz Vampire
 1 Gatekeeper of Malakir

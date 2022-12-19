@@ -1,5 +1,5 @@
 // NAME: Power
-// COMMENTS: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// SOURCE: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
 // DATE: 2015-01-23
 1 Typhoid Rats
 4 Satyr Wayfinder

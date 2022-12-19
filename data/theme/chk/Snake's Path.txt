@@ -1,5 +1,5 @@
 // NAME: Snake's Path
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=chk&decknum=2&lang=en
 // DATE: 2004-10-01
 3 Orochi Leafcaller
 3 Orochi Ranger

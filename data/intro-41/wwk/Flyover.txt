@@ -1,5 +1,5 @@
 // NAME: Flyover
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/worldwake-intro-pack-decklists-2010-02-02
 // DATE: 2010-02-05
 1 Silvercoat Lion
 1 Stormfront Pegasus

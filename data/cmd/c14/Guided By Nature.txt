@@ -1,5 +1,5 @@
 // NAME: Guided By Nature
-// COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/guided-by-nature
+// SOURCE: https://magic.wizards.com/en/products/card-set-archive/commander-2014/guided-by-nature
 // DATE: 2014-11-07
 COMMANDER: 1 Freyalise, Llanowar's Fury
 1 Elvish Mystic

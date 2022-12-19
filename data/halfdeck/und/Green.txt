@@ -1,5 +1,5 @@
 // NAME: Green
-// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// SOURCE: https://mtg.gamepedia.com/Unsanctioned/Half_decks
 // DATE: 2020-02-28
 1 B-I-N-G-O
 1 Old Fogey

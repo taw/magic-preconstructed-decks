@@ -1,5 +1,5 @@
 // NAME: Blades of Victory
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-2011-intro-pack-decklists-2010-07-08
 // DATE: 2010-07-16
 2 Elite Vanguard
 2 Infantry Veteran

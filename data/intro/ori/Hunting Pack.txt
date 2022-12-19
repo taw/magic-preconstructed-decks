@@ -1,5 +1,5 @@
 // NAME: Hunting Pack
-// COMMENTS: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
+// SOURCE: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
 // DATE: 2015-07-17
 1 Dwynen, Gilt-Leaf Daen [foil]
 2 Dwynen's Elite

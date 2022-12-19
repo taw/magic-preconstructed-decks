@@ -1,5 +1,5 @@
 // NAME: Forged In Stone
-// COMMENTS: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
+// SOURCE: https://magic.wizards.com/en/products/card-set-archive/commander-2014/forged-in-stone
 // DATE: 2014-11-07
 COMMANDER: 1 Nahiri, the Lithomancer
 1 Containment Priest

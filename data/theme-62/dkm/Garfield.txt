@@ -1,5 +1,5 @@
 // NAME: Garfield
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=1&lang=en
 // DATE: 2001-12-01
 1 Storm Shaman [DKM:21a]
 1 Storm Shaman [DKM:21b]

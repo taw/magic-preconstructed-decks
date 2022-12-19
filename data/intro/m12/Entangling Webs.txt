@@ -1,5 +1,5 @@
 // NAME: Entangling Webs
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-2012-intro-packs-2011-07-14
 // DATE: 2011-07-15
 3 Llanowar Elves
 1 Runeclaw Bear

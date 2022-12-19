@@ -1,5 +1,5 @@
 // NAME: Teamwork 2
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
 // DATE: 2022-12-02
 1 Agrus Kos, Eternal Soldier
 1 Angelic Cub

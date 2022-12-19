@@ -1,5 +1,5 @@
 // NAME: Planar Portal
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
 // DATE: 2021-07-23
 COMMANDER: 1 Prosper, Tome-Bound [foil]
 1 Chittering Witch

@@ -1,5 +1,5 @@
 // NAME: Izzet
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-guild-kits-2018-09-25
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-guild-kits-2018-09-25
 // DATE: 2018-11-02
 1 Niv-Mizzet, the Firemind [foil]
 1 Erratic Cyclops

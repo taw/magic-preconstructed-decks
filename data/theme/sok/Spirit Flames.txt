@@ -1,5 +1,5 @@
 // NAME: Spirit Flames
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=sok&decknum=3&lang=en
 // DATE: 2005-06-03
 1 Frostling*
 1 Glitterfang

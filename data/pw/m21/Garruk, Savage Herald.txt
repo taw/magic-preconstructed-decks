@@ -1,5 +1,5 @@
 // NAME: Garruk, Savage Herald
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
 // DATE: 2020-07-03
 1 Garruk, Savage Herald [foil]
 1 Garruk's Harbinger

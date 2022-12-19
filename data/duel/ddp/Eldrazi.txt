@@ -1,5 +1,5 @@
 // NAME: Eldrazi
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/duel-decks-zendikar-vs-eldrazi-2015-08-17
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/duel-decks-zendikar-vs-eldrazi-2015-08-17
 // DATE: 2015-08-28
 1 Forerunner of Slaughter
 1 Butcher of Malakir

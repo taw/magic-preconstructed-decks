@@ -1,5 +1,5 @@
 // NAME: Sneak Attack
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/zendikar-rising-commander-decklists-2020-09-09
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/zendikar-rising-commander-decklists-2020-09-09
 // DATE: 2020-09-25
 COMMANDER: 1 Anowon, the Ruin Thief [foil]
 1 Lazav, Dimir Mastermind

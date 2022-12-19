@@ -1,5 +1,5 @@
 // NAME: Liliana
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-garruk-vs-liliana
 // DATE: 2009-10-30
 1 Liliana Vess [foil]
 1 Deathgreeter

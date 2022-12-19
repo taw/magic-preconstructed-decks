@@ -1,5 +1,5 @@
 // NAME: Timeless Wisdom
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/timeless-wisdom-2020-04-06
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/timeless-wisdom-2020-04-06
 // DATE: 2020-04-17
 COMMANDER: 1 Gavi, Nest Warden [foil]
 1 Chandra, Flamecaller

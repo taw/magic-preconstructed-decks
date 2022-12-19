@@ -1,5 +1,5 @@
 // NAME: Pulverize
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=3&lang=en
 // DATE: 2003-05-26
 2 Mistform Warchief
 1 Mischievous Quanar

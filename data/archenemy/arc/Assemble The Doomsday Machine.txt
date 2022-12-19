@@ -1,5 +1,5 @@
 // NAME: Assemble The Doomsday Machine
-// COMMENTS: https://magic.wizards.com/en/archenemy
+// SOURCE: https://magic.wizards.com/en/archenemy
 // DATE: 2010-06-18
 1 Architects of Will
 1 Duplicant

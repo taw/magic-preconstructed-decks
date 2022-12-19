@@ -1,5 +1,5 @@
 // NAME: Reality Fracture
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=timespiral&decknum=3&lang=en
 // DATE: 2006-10-06
 1 Sage of Epityr
 2 Giant Oyster

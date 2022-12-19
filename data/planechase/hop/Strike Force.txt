@@ -1,5 +1,5 @@
 // NAME: Strike Force
-// COMMENTS: https://magic.wizards.com/en/articles/archive/strike-force-2009-08-25
+// SOURCE: https://magic.wizards.com/en/articles/archive/strike-force-2009-08-25
 // DATE: 2009-09-04
 1 Soul Warden
 1 Battlegate Mimic

@@ -1,5 +1,5 @@
 // NAME: Rituals of Rebirth
-// COMMENTS: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
 // DATE: 2007-02-02
 11 Forest
 4 Plains

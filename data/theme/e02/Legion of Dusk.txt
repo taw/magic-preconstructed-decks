@@ -1,5 +1,5 @@
 // NAME: Legion of Dusk
-// COMMENTS: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
 // DATE: 2017-11-24
 1 Bloodcrazed Paladin
 1 Necropolis Regent

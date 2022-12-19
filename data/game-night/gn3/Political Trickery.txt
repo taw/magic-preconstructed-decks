@@ -1,5 +1,5 @@
 // NAME: Political Trickery
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
 // DATE: 2022-10-14
 1 Diluvian Primordial
 1 Angler Drake

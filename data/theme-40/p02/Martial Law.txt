@@ -1,5 +1,5 @@
 // NAME: Martial Law
-// COMMENTS: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
+// SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
 // DATE: 1998-06-24
 15 Plains
 2 Alaborn Cavalier

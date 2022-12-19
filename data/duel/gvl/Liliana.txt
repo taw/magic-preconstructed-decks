@@ -1,5 +1,5 @@
 // NAME: Liliana
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-duel-decks-anthology
 // DATE: 2014-12-05
 1 Liliana Vess [foil]
 1 Deathgreeter

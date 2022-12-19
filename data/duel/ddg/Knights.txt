@@ -1,5 +1,5 @@
 // NAME: Knights
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-knights-vs-dragons
 // DATE: 2011-04-01
 1 Alaborn Cavalier
 1 Benalish Lancer

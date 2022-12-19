@@ -1,6 +1,6 @@
 // NAME: Conquering Hordes
-// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/khans-of-tarkir/event-deck
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/khans-tarkir-event-deck-decklist-2014-09-23
+// SOURCE: https://magic.wizards.com/en/game-info/products/card-set-archive/khans-of-tarkir/event-deck
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/khans-tarkir-event-deck-decklist-2014-09-23
 // DATE: 2014-09-26
 1 Herald of Anafenza
 3 Mardu Hateblade

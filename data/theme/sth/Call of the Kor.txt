@@ -1,6 +1,6 @@
 // NAME: Call of the Kor
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=1&lang=en
-// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/stronghold-theme-decklists
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=stronghold&decknum=1&lang=en
+// SOURCE: https://magic.wizards.com/en/game-info/products/card-set-archive/stronghold-theme-decklists
 // COMMENTS: WotC list has an obvious mistake, of wrong basic lands.
 // DATE: 1998-03-02
 3 Nomads en-Kor

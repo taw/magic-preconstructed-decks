@@ -1,5 +1,5 @@
 // NAME: Esper Artifice
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/intro-packs-alara-2008-09-22-0
 // DATE: 2008-10-03
 2 Etherium Sculptor
 2 Tidehollow Strix

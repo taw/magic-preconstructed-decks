@@ -1,5 +1,5 @@
 // NAME: Swift Justice
-// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+// SOURCE: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
 // DATE: 2012-02-03
 2 Ashmouth Hound
 2 Assault Griffin

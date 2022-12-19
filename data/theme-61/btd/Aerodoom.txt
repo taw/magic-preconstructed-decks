@@ -1,5 +1,5 @@
 // NAME: Aerodoom
-// COMMENTS: https://magic.wizards.com/en/products/beatdown
+// SOURCE: https://magic.wizards.com/en/products/beatdown
 // DATE: 2000-10-01
 1 Air Elemental
 1 Blizzard Elemental

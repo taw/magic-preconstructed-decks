@@ -1,5 +1,5 @@
 // NAME: Sole Domination
-// COMMENTS: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
+// SOURCE: https://magic.wizards.com/en/articles/archive/arcana/intro-pack-decklists-2012-07-03
 // DATE: 2012-07-13
 2 Duty-Bound Dead
 2 Tormented Soul

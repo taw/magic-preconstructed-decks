@@ -1,5 +1,5 @@
 // NAME: Red
-// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// SOURCE: https://mtg.gamepedia.com/Unsanctioned/Half_decks
 // DATE: 2020-02-28
 1 Boomstacker
 1 Infinity Elemental

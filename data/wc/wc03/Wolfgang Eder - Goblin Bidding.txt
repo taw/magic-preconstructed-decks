@@ -1,5 +1,5 @@
 // NAME: Wolfgang Eder - Goblin Bidding
-// COMMENTS: https://mtg.gamepedia.com/World_Championship_Decks/2003
+// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2003
 // DATE: 2003-08-06
 3 Gempalm Incinerator
 1 Goblin Grappler

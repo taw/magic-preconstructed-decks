@@ -1,5 +1,5 @@
 // NAME: Discarding 1
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
 // DATE: 2020-07-17
 1 Fell Specter
 1 Tinybones, Trinket Thief

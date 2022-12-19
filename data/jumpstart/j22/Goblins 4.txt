@@ -1,5 +1,5 @@
 // NAME: Goblins 4
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
 // DATE: 2022-12-02
 1 Ardoz, Cobbler of War
 1 Goblin Researcher

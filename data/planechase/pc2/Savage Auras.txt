@@ -1,5 +1,5 @@
 // NAME: Savage Auras
-// COMMENTS: https://magic.wizards.com/en/content/savage-auras-planechase-2012-edition-card-set-archive
+// SOURCE: https://magic.wizards.com/en/content/savage-auras-planechase-2012-edition-card-set-archive
 // DATE: 2012-06-01
 2 Armored Griffin
 2 Aura Gnarlid

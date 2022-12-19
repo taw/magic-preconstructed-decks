@@ -1,5 +1,5 @@
 // NAME: White
-// COMMENTS: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// SOURCE: https://mtg.gamepedia.com/Unsanctioned/Half_decks
 // DATE: 2020-02-28
 1 Flavor Judge
 1 Frankie Peanuts

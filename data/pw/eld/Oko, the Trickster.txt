@@ -1,5 +1,5 @@
 // NAME: Oko, the Trickster
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/throne-eldraine-planeswalker-decks-2019-09-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/throne-eldraine-planeswalker-decks-2019-09-18
 // DATE: 2019-10-04
 1 Oko, the Trickster [foil]
 1 Wildborn Preserver

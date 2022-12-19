@@ -1,5 +1,5 @@
 // NAME: Enchantress Rubinia
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/coming-soon-magic-online-2009-08-25
 // DATE:  2009-08-26
 COMMANDER: 1 Rubinia Soulsinger
 1 Azorius Chancery

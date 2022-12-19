@@ -1,5 +1,5 @@
 // NAME: Green / White
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=anthologies&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=anthologies&decknum=1&lang=en
 // DATE: 1998-11-01
 1 Armored Pegasus
 1 Benalish Knight

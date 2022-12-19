@@ -1,5 +1,5 @@
 // NAME: Might
-// COMMENTS: https://magic.wizards.com/en/products/duel-decks-mind-might
+// SOURCE: https://magic.wizards.com/en/products/duel-decks-mind-might
 // DATE: 2017-03-31
 1 Lovisa Coldeyes [foil]
 2 Skarrgan Pit-Skulk

@@ -1,5 +1,5 @@
 // NAME: Gross 3
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
 // DATE: 2022-12-02
 1 Skullslither Worm
 1 Deathbringer Regent

@@ -1,5 +1,5 @@
 // NAME: Fangs 4
-// COMMENTS: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
+// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Black
 // DATE: 2022-12-02
 1 Creeping Bloodsucker
 1 Vito, Thorn of the Dusk Rose

@@ -1,5 +1,5 @@
 // NAME: Replicator
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=1&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=nemesis&decknum=1&lang=en
 // DATE: 2000-02-14
 2 Cackling Witch
 2 Plague Witch

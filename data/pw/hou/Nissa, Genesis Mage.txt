@@ -1,5 +1,5 @@
 // NAME: Nissa, Genesis Mage
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/hour-devastation-planeswalker-deck-lists-2017-07-05
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/hour-devastation-planeswalker-deck-lists-2017-07-05
 // DATE: 2017-07-14
 1 Nissa, Genesis Mage [foil]
 2 River Hoopoe

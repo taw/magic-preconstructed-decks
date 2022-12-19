@@ -1,5 +1,5 @@
 // NAME: Bring About The Undead Apocalypse
-// COMMENTS: https://magic.wizards.com/en/archenemy
+// SOURCE: https://magic.wizards.com/en/archenemy
 // DATE: 2010-06-18
 1 Artisan of Kozilek
 1 Avatar of Discord

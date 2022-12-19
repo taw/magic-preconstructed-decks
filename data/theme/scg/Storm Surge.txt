@@ -1,5 +1,5 @@
 // NAME: Storm Surge
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=4&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=scourge&decknum=4&lang=en
 // DATE: 2003-05-26
 1 Daru Mender**
 1 Deftblade Elite**

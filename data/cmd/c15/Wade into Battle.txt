@@ -1,5 +1,5 @@
 // NAME: Wade into Battle
-// COMMENTS: https://magic.wizards.com/en/content/commander-2015-decklists
+// SOURCE: https://magic.wizards.com/en/content/commander-2015-decklists
 // DATE: 2015-11-13
 COMMANDER: 1 Kalemne, Disciple of Iroas
 1 Oreskos Explorer

@@ -1,5 +1,5 @@
 // NAME: Silverquill Statement
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/commander-2021-edition-decklists-2021-04-05
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/commander-2021-edition-decklists-2021-04-05
 // DATE: 2021-04-23
 COMMANDER: 1 Breena, the Demagogue [foil]
 1 Gideon, Champion of Justice

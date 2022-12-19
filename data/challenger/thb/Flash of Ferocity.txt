@@ -1,5 +1,5 @@
 // NAME: Flash of Ferocity
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
 // DATE: 2020-04-03
 1 Brazen Borrower
 4 Nightpack Ambusher

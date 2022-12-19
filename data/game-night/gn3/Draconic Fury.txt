@@ -1,5 +1,5 @@
 // NAME: Draconic Fury
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/game-night-free-all-2022-decklists-2022-09-29
 // DATE: 2022-10-14
 1 Drakuseth, Maw of Flames
 1 Ancient Hellkite

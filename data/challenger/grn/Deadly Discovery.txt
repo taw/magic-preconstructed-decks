@@ -1,5 +1,5 @@
 // NAME: Deadly Discovery
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2019-03-18
 // DATE: 2019-04-12
 1 Vraska, Relic Seeker
 4 Merfolk Branchwalker

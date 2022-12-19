@@ -1,5 +1,5 @@
 // NAME: Jace
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
 // DATE: 2008-11-07
 1 Jace Beleren [foil]
 1 Aethersnipe

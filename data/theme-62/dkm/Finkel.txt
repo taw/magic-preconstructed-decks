@@ -1,5 +1,5 @@
 // NAME: Finkel
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=deckmasters2001&decknum=2&lang=en
 // DATE: 2001-12-01
 2 Foul Familiar
 1 Lim-Dûl's High Guard [DKM:6a]

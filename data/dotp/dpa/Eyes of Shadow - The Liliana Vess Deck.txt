@@ -1,5 +1,5 @@
 // NAME: Eyes of Shadow - The Liliana Vess Deck
-// COMMENTS: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
+// SOURCE: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
 // DATE: 2010-06-04
 3 Drudge Skeletons
 2 Dusk Imp

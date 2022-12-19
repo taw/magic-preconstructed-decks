@@ -1,5 +1,5 @@
 // NAME: Insanity
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=2&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=torment&decknum=2&lang=en
 // DATE: 2002-02-08
 2 Carrion Rats
 3 Putrid Imp

@@ -1,5 +1,5 @@
 // NAME: Adaptive Enchantment
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/commander-2018-edition-decklists-and-tokens-2018-07-27
 // DATE: 2018-08-10
 COMMANDER: 1 Estrid, the Masked [foil]
 1 Bruna, Light of Alabaster

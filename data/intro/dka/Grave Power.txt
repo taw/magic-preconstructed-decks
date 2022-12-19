@@ -1,5 +1,5 @@
 // NAME: Grave Power
-// COMMENTS: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
+// SOURCE: https://magic.wizards.com/en/game-info/products/card-set-archive/dark-ascension/intro-pack-decklists
 // DATE: 2012-02-03
 1 Acidic Slime
 1 Aether Adept

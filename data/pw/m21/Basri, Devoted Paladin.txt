@@ -1,5 +1,5 @@
 // NAME: Basri, Devoted Paladin
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/core-set-2021-planeswalker-decks-2020-06-30
 // DATE: 2020-07-03
 1 Basri, Devoted Paladin [foil]
 1 Basri's Lieutenant

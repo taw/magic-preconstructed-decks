@@ -1,5 +1,5 @@
 // NAME: Molimo's Might
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=5&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=tenthedition&decknum=5&lang=en
 // DATE: 2007-07-13
 2 Canopy Spider
 2 Civic Wayfinder

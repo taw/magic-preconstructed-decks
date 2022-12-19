@@ -1,5 +1,5 @@
 // NAME: Painbow
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19
 // DATE: 2022-09-09
 COMMANDER: 1 Jared Carthalion [foil]
 1 Archelos, Lagoon Mystic

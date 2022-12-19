@@ -1,5 +1,5 @@
 // NAME: Bound by Strength
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/intro-packs-2012-04-29
 // DATE: 2012-05-04
 2 Llanowar Elves
 1 Nephalia Smuggler

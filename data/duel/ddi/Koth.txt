@@ -1,5 +1,5 @@
 // NAME: Koth
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-venser-vs-koth
 // DATE: 2012-03-30
 1 Koth of the Hammer [foil]
 1 Aether Membrane

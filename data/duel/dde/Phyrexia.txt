@@ -1,5 +1,5 @@
 // NAME: Phyrexia
-// COMMENTS: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
+// SOURCE: https://magic.wizards.com/en/content/duel-decks-phyrexia-vs-coalition
 // DATE: 2010-03-19
 1 Bone Shredder
 1 Carrion Feeder

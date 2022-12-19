@@ -1,5 +1,5 @@
 // NAME: Izzet Gizmometry
-// COMMENTS: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=3&lang=en
+// SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=guildpact&decknum=3&lang=en
 // DATE: 2006-02-03
 1 Gelectrode
 2 Wee Dragonauts

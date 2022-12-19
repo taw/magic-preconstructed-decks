@@ -1,5 +1,5 @@
 // NAME: Dimir Control
-// COMMENTS: https://magic.wizards.com/en/challenger-decks-2022
+// SOURCE: https://magic.wizards.com/en/challenger-decks-2022
 // DATE: 2022-04-01
 3 Graveyard Trespasser
 2 Iymrith, Desert Doom

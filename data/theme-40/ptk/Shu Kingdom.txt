@@ -1,7 +1,7 @@
 // NAME: Shu Kingdom
-// COMMENTS: https://mtg.gamepedia.com/Portal_Three_Kingdoms/Theme_decks
-// COMMENTS: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
-// COMMENTS: http://www.wizards.com/magic/p3k/p3k_pcd.asp
+// SOURCE: https://mtg.gamepedia.com/Portal_Three_Kingdoms/Theme_decks
+// SOURCE: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
+// SOURCE: http://www.wizards.com/magic/p3k/p3k_pcd.asp
 // DATE: 1999-05-01
 15 Plains
 2 Flanking Troops

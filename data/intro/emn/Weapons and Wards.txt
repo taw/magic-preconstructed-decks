@@ -1,5 +1,5 @@
 // NAME: Weapons and Wards
-// COMMENTS: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/eldritch-moon-intro-pack-decklists-2016-07-13
 // DATE: 2016-07-22
 2 Crossroads Consecrator
 2 Thraben Standard Bearer

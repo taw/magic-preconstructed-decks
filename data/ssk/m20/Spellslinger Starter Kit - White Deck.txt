@@ -1,5 +1,5 @@
 // NAME: Spellslinger Starter Kit - White Deck
-// COMMENTS: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
+// SOURCE: https://magic.wizards.com/en/articles/archive/card-preview/core-set-2020-planeswalker-decks-and-spellslinger-starter-kit
 // DATE: 2019-07-12
 1 Serra's Guardian
 2 Inspiring Unicorn
