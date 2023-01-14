@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+# Use this is deck date is same as release date
+# and you have all the repositories checked out
+
+require "pathname"
+require "json"
+
+def set_data_base
+  Pathname("#{ENV["HOME"]}/github/magic-search-engine/data/sets")
+end
+
+def set_release_date(set_code)
+  set_data = JSON.parse((set_data_base + "#{set_code}.json").read)
+  release_date = set_data["releaseDate"]
+  raise "Unknown or invalid release date for #{set_code} - #{release_date.inspect}" unless release_date =~ /\A20\d\d-\d\d-\d\d\z/
+  release_date
+end
+
+unless ARGV.size >= 1
+  STDERR.puts "Usage: #{$0} file1.txt [file2.txt ...]"
+end
+
+ARGV.each do |path|
+  data = Pathname(path).read
+  next if data =~ /\/\\s*DATE/
+
+  set_code = Pathname(path).parent.basename.to_s.downcase
+  date = set_release_date(set_code)
+  tag = "// DATE: #{date}\n"
+
+  data = data.lines
+  header = []
+  header << data.shift while data[0] and data[0].start_with?("//")
+  header << tag
+  Pathname(path).open("w") do |fh|
+    fh.puts (header + data).join
+  end
+end
