@@ -1,0 +1,91 @@
+// NAME: Heads I Win, Tails You Lose
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021/Commander_deck
+COMMANDER: 1 Zndrsplt, Eye of Wisdom
+COMMANDER: 1 Okaun, Eye of Chaos
+1 Daretti, Scrap Savant
+1 Ral Zarek
+1 Goblin Kaboomist
+1 Krark, the Thumbless
+1 Niv-Mizzet, Parun
+1 Spark Double
+1 Frenetic Sliver
+1 Goblin Archaeologist
+1 Karplusan Minotaur
+1 Tavern Scoundrel
+1 Tribute Mage
+1 Bloodsworn Steward
+1 Goblin Engineer
+1 The Locust God
+1 Yusri, Fortune's Flame
+1 Mogg Assassin
+1 Sakashima the Impostor
+1 Stitch in Time
+1 Blasphemous Act
+1 Fabricate
+1 Fiery Gambit
+1 Chandra's Ignition
+1 Gamble
+1 Reshape
+1 Seize the Day
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Slip Through Space
+1 Squee's Revenge
+1 Vandalblast
+1 Negate
+1 Chaos Warp
+1 Whir of Invention
+1 Counterspell
+1 Long-Term Plans
+1 Muddle the Mixture
+1 Temur Battle Rage
+1 Krark's Thumb
+1 Izzet Signet
+1 Lightning Greaves
+1 Mind Stone
+1 Swiftfoot Boots
+1 Sword of Vengeance
+1 Thought Vessel
+1 Whispersilk Cloak
+1 Boompile
+1 Commander's Plate
+1 Embercleave
+1 Shadowspear
+1 Arcane Signet
+1 Crooked Scales
+1 Sol Ring
+1 Talisman of Creativity
+1 Propaganda
+1 Mirror March
+1 Chance Encounter
+1 Footfall Crater
+1 Impulsive Maneuvers
+1 Planar Chaos
+1 Risky Move
+1 Temple of Epiphany
+1 Wandering Fumarole
+1 Buried Ruin
+1 Great Furnace
+1 Izzet Boilerworks
+1 Myriad Landscape
+1 Path of Ancestry
+1 Rogue's Passage
+7 Island
+8 Mountain
+1 Academy Ruins
+1 Cascade Bluffs
+1 Desolate Lighthouse
+1 Exotic Orchard
+1 Flamekin Village
+1 Inventors' Fair
+1 Shivan Reef
+1 Spinerock Knoll
+1 Sulfur Falls
+1 Tolaria West
+1 Training Center
+1 Command Tower
+1 Reliquary Tower
+1 Temple of the False God
+
+Sideboard
