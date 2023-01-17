@@ -1,0 +1,24 @@
+// NAME: White-Blue Starter Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-2022-starter-kit
+// DATE: 2022-06-03
+1 Welcoming Vampire
+1 Extraction Specialist
+1 Dreamshackle Geist
+1 Hullbreaker Horror
+1 Consuming Tide
+2 Unholy Officiant
+3 Backup Agent
+4 Wretched Throng
+3 Inspiring Overseer
+3 Seven-Tail Mentor
+2 Stormrider Spirit
+2 Nebelgast Beguiler
+3 Serpentine Ambush
+2 Kill Shot
+2 Brute Suit
+2 Fading Hope
+4 Tranquil Cove
+12 Plains
+11 Island
+
+Sideboard
