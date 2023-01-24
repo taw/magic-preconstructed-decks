@@ -1,0 +1,18 @@
+// NAME: Titanic 1
+// SOURCE: https://magic.wizards.com/en/news/feature/the-brothers-war-jumpstart-booster-contents
+1 Woodcaller Automaton 
+1 Random green rare or mythic rare
+1 Argothian Opportunist
+1 Blanchwood Prowler
+1 Bushwhack
+1 Gaea's Gift
+1 Giant Growth
+1 Sarinth Steelseeker
+1 Shoot Down
+1 Cradle Clearcutter
+1 Iron-Craw Crusher
+1 Rust Goliath
+6 Forest
+2 Traditional foil Forest
+
+Sideboard
