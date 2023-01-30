@@ -1,0 +1,88 @@
+// NAME: Corrupting Influence
+// SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Commander_decks
+// DATE: 2023-02-03
+COMMANDER: 1 Ixhel, Scion of Atraxa [foil]
+1 Bilious Skulldweller
+1 Blight Mamba
+1 Blightbelly Rat
+1 Cankerbloom
+1 Contaminant Grafter
+1 Evolution Sage
+1 Glissa's Retriever
+1 Grateful Apparition
+1 Ichor Rats
+1 Ichorclaw Myr
+1 Mycosynth Fiend
+1 Myr Convert
+1 Norn's Choirmaster
+1 Pestilent Syphoner
+1 Phyrexian Swarmlord
+1 Plague Myr
+1 Plague Stinger
+1 Scavenging Ooze
+1 Venomous Brutalizer
+1 Viridian Corrupter
+1 Vishgraz, the Doomhive
+1 Windborn Muse
+1 Caress of Phyrexia
+1 Culling Ritual
+1 Cultivate
+1 Expand the Sphere
+1 Feed the Infection
+1 Fumigate
+1 Geth's Summons
+1 Infectious Inquiry
+1 Merciless Eviction
+1 Night's Whisper
+1 Noxious Assault
+1 Painful Truths
+1 Phyresis Outbreak
+1 Phyrexian Rebirth
+1 Unnatural Restoration
+1 Vat Emergence
+1 Wurmquake
+1 Beast Within
+1 Carrion Call
+1 Mortify
+1 Noxious Revival
+1 Putrefy
+1 Swords to Plowshares
+1 Vraska's Fall
+1 Ghostly Prison
+1 Moldervine Reclamation
+1 Norn's Decree
+1 Arcane Signet
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Contagion Clasp
+1 Fellwar Stone
+1 Glistening Sphere
+1 Golgari Signet
+1 Grafted Exoskeleton
+1 Norn's Annex
+1 Phyrexian Atlas
+1 Sol Ring
+1 Trailblazer's Boots
+1 Bojuka Bog
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+1 Fortified Village
+1 Karn's Bastion
+1 Krosan Verge
+1 Myriad Landscape
+1 Necroblossom Snarl
+1 Path of Ancestry
+1 Sandsteppe Citadel
+1 Shineshadow Snarl
+1 Sungrass Prairie
+1 Tainted Field
+1 Tainted Wood
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+6 Plains
+6 Swamp
+8 Forest
+
+Sideboard

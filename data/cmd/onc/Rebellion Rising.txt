@@ -1,0 +1,85 @@
+// NAME: Rebellion Rising
+// SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Commander_decks
+// DATE: 2023-02-03
+COMMANDER: 1 Neyali, Suns' Vanguard [foil]
+1 Elspeth Tirel
+1 Adriana, Captain of the Guard
+1 Dragonmaster Outcast
+1 Emeria Angel
+1 Goldnight Commander
+1 Harmonious Archon
+1 Jor Kadeen, the Prevailer
+1 Legion Warboss
+1 Loyal Apprentice
+1 Mentor of the Meek
+1 Myr Battlesphere
+1 Otharri, Suns' Glory
+1 Phantom General
+1 Prava of the Steel Legion
+1 Siege-Gang Commander
+1 Silverwing Squadron
+1 Solemn Simulacrum
+1 Boros Charm
+1 Call the Coppercoats
+1 Clever Concealment
+1 Flawless Maneuver
+1 Generous Gift
+1 Midnight Haunting
+1 Path to Exile
+1 White Sun's Zenith
+1 Battle Screech
+1 Chain Reaction
+1 Collective Effort
+1 Cut a Deal
+1 Finale of Glory
+1 Goldwardens' Gambit
+1 Hate Mirage
+1 Heroic Reinforcements
+1 Hordeling Outburst
+1 Hour of Reckoning
+1 Increasing Devotion
+1 Martial Coup
+1 Rip Apart
+1 Assemble the Legion
+1 Court of Grace
+1 Felidar Retreat
+1 Intangible Virtue
+1 Roar of Resistance
+1 Arcane Signet
+1 Boros Signet
+1 Commander's Sphere
+1 Fellwar Stone
+1 Glimmer Lens
+1 Hexplate Wallbreaker
+1 Idol of Oblivion
+1 Kemba's Banner
+1 Loxodon Warhammer
+1 Mace of the Valiant
+1 Mask of Memory
+1 Maul of the Skyclaves
+1 Mind Stone
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Staff of the Storyteller
+1 Talisman of Conviction
+1 Vulshok Factory
+1 Boros Garrison
+1 Buried Ruin
+1 Castle Ardenvale
+1 Castle Embereth
+1 Command Tower
+1 Exotic Orchard
+1 Forgotten Cave
+1 Furycalm Snarl
+1 Kher Keep
+1 Myriad Landscape
+1 Path of Ancestry
+1 Secluded Steppe
+1 Slayers' Stronghold
+1 Temple of Triumph
+1 Temple of the False God
+1 Windbrisk Heights
+11 Plains
+11 Mountain
+
+Sideboard
