@@ -10,8 +10,8 @@
 2 Nimbus Naiad
 2 Thassa's Emissary
 3 Horizon Chimera
-1 Prognostic Sphinx [foil]
-1 Prophet of Kruphix [foil]
+1 Prognostic Sphinx [CP1] [foil]
+1 Prophet of Kruphix [CP1] [foil]
 2 Divination
 1 Curse of the Swine
 2 Negate
@@ -22,6 +22,6 @@
 2 Pin to the Earth
 7 Forest
 17 Island
-1 Temple of Mystery [foil]
+1 Temple of Mystery [CP1] [foil]
 
 Sideboard

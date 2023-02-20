@@ -1,7 +1,7 @@
 // NAME: Dangerous
 // SOURCE: https://magic.wizards.com/en/articles/archive/arcana/magic-origins-clash-pack-and-intro-pack-decklists-2015-07-09
 // DATE: 2015-07-17
-1 Dromoka, the Eternal [foil]
+1 Dromoka, the Eternal [CP3] [foil]
 2 Ainok Bond-Kin
 2 Disowned Ancestor
 3 Lightwalker
@@ -12,7 +12,7 @@
 1 Abzan Battle Priest
 1 Mer-Ek Nightblade
 1 Longshot Squad
-1 Siege Rhino [foil]
+1 Siege Rhino [CP3] [foil]
 1 Elite Scaleguard
 2 Cached Defenses
 2 Map the Wastes
@@ -27,7 +27,7 @@
 1 Citadel Siege
 2 Blossoming Sands
 2 Jungle Hollow
-1 Sandsteppe Citadel [foil]
+1 Sandsteppe Citadel [CP3] [foil]
 2 Scoured Barrens
 7 Plains
 6 Swamp

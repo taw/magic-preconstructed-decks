@@ -9,7 +9,7 @@
 2 Sultai Soothsayer
 2 Sultai Scavenger
 1 Scuttling Doom Engine
-1 Necropolis Fiend [foil]
+1 Necropolis Fiend [CP2] [foil]
 1 Sultai Skullkeeper
 1 Merciless Executioner
 1 Gurmag Angler
@@ -17,14 +17,14 @@
 1 Naturalize
 2 Sultai Charm
 2 Murderous Cut
-1 Hero's Downfall [foil]
+1 Hero's Downfall [CP2] [foil]
 1 Neutralizing Blast
 1 Despise
 2 Taigam's Scheming
 1 Set Adrift
 1 Treasure Cruise
 1 Dead Drop
-1 Sultai Ascendancy [foil]
+1 Sultai Ascendancy [CP2] [foil]
 1 Monastery Siege
 1 Sultai Banner
 4 Opulent Palace
