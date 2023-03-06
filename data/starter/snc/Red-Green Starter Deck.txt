@@ -1,7 +1,7 @@
 // NAME: Red-Green Starter Deck
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-2022-starter-kit
 // DATE: 2022-06-03
-1 Thundering Raiju
+1 Thundering Raiju [foil]
 1 Ascendant Packleader
 1 Creepy Puppeteer
 1 Topiary Stomper
