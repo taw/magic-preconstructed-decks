@@ -1,7 +1,7 @@
 // NAME: White-Blue Starter Deck
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-2022-starter-kit
 // DATE: 2022-06-03
-1 Welcoming Vampire
+1 Welcoming Vampire [foil]
 1 Extraction Specialist
 1 Dreamshackle Geist
 1 Hullbreaker Horror

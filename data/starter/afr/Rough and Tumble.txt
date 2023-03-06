@@ -1,0 +1,21 @@
+// NAME: Rough and Tumble
+// SOURCE: https://mtg.fandom.com/wiki/2021_Arena_Starter_Kit
+// DATE: 2021-08-06
+1 Dragonsguard Elite [STX:127] [foil]
+1 Asmodeus the Archfiend [AFR:88]
+2 Black Dragon [AFR:90]
+1 Cleaving Reaper [KHM:376]
+1 Cragplate Baloth [ZNR:183]
+4 Dauntless Survivor [ZNR:184]
+4 Evolving Wilds [AFR:353]
+12 Forest [AFR:281]
+2 Karfell Kennel-Master [KHM:101]
+4 Might of Murasa [ZNR:194]
+3 Murasa Brute [ZNR:195]
+2 Oblivion's Hunger [ZNR:119]
+1 Oran-Rief Ooze [ZNR:198]
+3 Rabid Bite [ZNR:199]
+3 Scurrid Colony [STX:142]
+2 Specter of the Fens [STX:87]
+11 Swamp [AFR:270]
+3 Vampire Spawn [AFR:123]
