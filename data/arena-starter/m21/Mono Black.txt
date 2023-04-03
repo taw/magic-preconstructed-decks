@@ -18,4 +18,5 @@
 3 Unlikely Aid [IKO:103]
 4 Walking Corpse [M21:128]
 
-SB: 1 Vito, Thorn of the Dusk Rose [M21:127] [foil]
+Sideboard
+1 Vito, Thorn of the Dusk Rose [M21:127] [foil]

@@ -18,4 +18,5 @@
 1 Treeshaker Chimera [THB:297]
 1 Yorvo, Lord of Garenbrig [ELD:185]
 
-SB: 1 Kogla, the Titan Ape [IKO:162] [foil]
+Sideboard
+1 Kogla, the Titan Ape [IKO:162] [foil]
