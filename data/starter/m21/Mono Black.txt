@@ -1,7 +1,6 @@
 // NAME: Mono Green
 // SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
 // DATE: 2020-07-03
-1 Vito, Thorn of the Dusk Rose [M21:127] [foil]
 2 Blood Glutton [M21:90]
 1 Demon of Loathing [THB:292]
 1 Demonic Embrace [M21:95]
@@ -14,7 +13,9 @@
 1 Peer into the Abyss [M21:117]
 2 Serrated Scorpion [IKO:99]
 2 Skeleton Archer [M21:123]
-26 Swamp [M21:267]
+27 Swamp [M21:267]
 1 Underworld Sentinel [THB:293]
 3 Unlikely Aid [IKO:103]
 4 Walking Corpse [M21:128]
+
+SB: 1 Vito, Thorn of the Dusk Rose [M21:127] [foil]
