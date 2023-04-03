@@ -1,7 +1,7 @@
 DeckTypes = {
   "advanced-pack" => { name: "Advanced Pack", sizes: [[15]] }, # S2TK
   "archenemy"     => { name: "Archenemy Deck", sizes: [[60, 0], [60, 20]], },
-  "arena-starter" => { name: "Arena Starter Kit", sizes: [[60, 1]] },
+  "arena-starter" => { name: "Arena Starter Kit", sizes: [[60], [60, 1]] },
   "brawl"         => { name: "Brawl Deck", sizes: [[59, 0, 1]], },
   "challenger"    => { name: "Challenger Deck", sizes: [[60, 15]] },
   "clash"         => { name: "Clash Pack", sizes: [[60, 0], [60, 15]] },
