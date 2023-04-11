@@ -1,0 +1,105 @@
+// NAME: Call for Backup
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-commander-decklists
+// DATE: 2023-04-21
+COMMANDER: 1 Bright-Palm, Soul Awakener [foil]
+1 Shalai and Hallar [foil]
+1 Death-Greeter's Champion
+1 Uncivil Unrest
+1 Ichor Elixir
+1 Mirror-Style Master
+1 Guardian Scalelord
+1 Emergent Woodwurm
+1 Path of the Pyromancer
+1 Conclave Sledge-Captain
+1 Kalonian Hydra
+1 Mikaeus, the Lunarch
+1 Canopy Vista
+1 Champion of Lambholt
+1 Cinder Glade
+1 Dromoka's Command
+1 Exotic Orchard
+1 Flamerush Rider
+1 Flameshadow Conjuring
+1 Forgotten Ancient
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Gavony Township
+1 Genesis Hydra
+1 Gyre Sage
+1 Heaven // Earth
+1 High Sentinels of Arashin
+1 Incubation Druid
+1 Inscription of Abundance
+1 Ion Storm
+1 Kessig Wolf Run
+1 Krenko, Tin Street Kingpin
+1 Managorger Hydra
+1 Mossfire Valley
+1 Mosswort Bridge
+1 Restoration Angel
+1 Rishkar, Peema Renegade
+1 Semester's End
+1 Strionic Resonator
+1 Sungrass Prairie
+1 Sunscorch Regent
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Together Forever
+1 Triskelion
+1 Command Tower
+1 Commander's Sphere
+1 Cultivate
+1 Evolving Wilds
+1 Fertilid
+1 Fractured Powerstone
+1 Kodama's Reach
+1 Path of Ancestry
+1 Pridemalkin
+1 Return to Nature
+1 Terramorphic Expanse
+1 Wood Elves
+1 Abzan Battle Priest
+1 Abzan Falconer
+1 Alharu, Solemn Ritualist
+1 Arcane Signet
+1 Armorcraft Judge
+1 Brawn
+1 Bretagard Stronghold
+1 Conclave Mentor
+1 Constable of the Realm
+1 Elite Scaleguard
+1 Enduring Scalelord
+1 Falkenrath Exterminator
+1 Field of Ruin
+1 Generous Gift
+1 Good-Fortune Unicorn
+1 Hamza, Guardian of Arashin
+1 Hindervines
+1 Inspiring Call
+1 Jungle Shrine
+1 Juniper Order Ranger
+1 Krosan Verge
+1 Llanowar Reborn
+1 Mindless Automaton
+1 Rogue's Passage
+1 Slurrk, All-Ingesting
+1 Sol Ring
+1 Swords to Plowshares
+1 Temple of the False God
+5 Plains
+2 Mountain
+6 Forest
+
+Sideboard
+1 The Golden City of Orazca
+1 The Great Aerie
+1 Megaflora Jungle
+1 Riptide Island
+1 Towashi
+1 Bloodhill Bastion
+1 Chaotic Aether
+1 Grove of the Dreampods
+1 Jund
+1 Kharasha Foothills

@@ -1,0 +1,94 @@
+// NAME: Divine Convocation
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-commander-decklists
+// DATE: 2023-04-21
+COMMANDER: 1 Kasla, the Broken Halo [foil]
+1 Saint Traft and Rem Karolus [foil]
+1 Wand of the Worldsoul
+1 Flockchaser Phantom
+1 Wildfire Awakener
+1 Ichor Elixir
+1 Path of the Ghosthunter
+1 Deluxe Dragster
+1 Mistmeadow Vanisher
+1 Nesting Dovehawk
+1 Kykar, Wind's Fury
+1 Elspeth, Sun's Champion
+1 The Locust God
+1 Angel of Finality
+1 Angel of Salvation
+1 Austere Command
+1 Chasm Skulker
+1 Cultivator's Caravan
+1 Emeria Angel
+1 Exotic Orchard
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Hour of Reckoning
+1 Keeper of the Accord
+1 Kher Keep
+1 Mentor of the Meek
+1 Nadir Kraken
+1 Port Town
+1 Prairie Stream
+1 Secure the Wastes
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Venerated Loxodon
+1 Whirlwind of Thought
+1 Cloud of Faeries
+1 Command Tower
+1 Commander's Sphere
+1 Ephemeral Shields
+1 Evolving Wilds
+1 Fractured Powerstone
+1 Goblin Instigator
+1 Goblin Medics
+1 Impact Tremors
+1 Spirited Companion
+1 Suture Priest
+1 Terramorphic Expanse
+1 Village Bell-Ringer
+1 Banisher Priest
+1 Arcane Signet
+1 Battle Screech
+1 Chant of Vitu-Ghazi
+1 Conclave Tribunal
+1 Devouring Light
+1 Duergar Hedge-Mage
+1 Fallowsage
+1 Flight of Equenauts
+1 Improbable Alliance
+1 Migratory Route
+1 Mystic Monastery
+1 Rogue's Passage
+1 Seraph of the Masses
+1 Skullclamp
+1 Sol Ring
+1 Stoke the Flames
+1 Swords to Plowshares
+1 Tetsuko Umezawa, Fugitive
+1 Wear // Tear
+1 Temporal Cleansing
+1 Meeting of Minds
+1 Shatter the Source
+1 Wrenn's Resolve
+1 Cut Short
+1 Joyful Stormsculptor
+1 Artistic Refusal
+8 Plains
+8 Island
+8 Mountain
+
+Sideboard
+1 Enigma Ridges
+1 The Fertile Lands of Saulvinia
+1 Norn's Seedcore
+1 Strixhaven
+1 Valor's Reach
+1 Gavony
+1 Hedron Fields of Agadeem
+1 Krosa
+1 Reality Shaping
+1 Stensia
