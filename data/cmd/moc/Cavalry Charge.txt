@@ -1,0 +1,89 @@
+// NAME: Cavalry Charge
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-commander-decklists
+// DATE: 2023-04-21
+COMMANDER: 1 Sidar Jabari of Zhalfir [foil]
+1 Elenda and Azor [foil]
+1 Exsanguinator Cavalry
+1 Ichor Elixir
+1 Herald of Hoofbeats
+1 Locthwain Lancer
+1 Chivalric Alliance
+1 Path of the Enigma
+1 Vodalian Wave-Knight
+1 Conjurer's Mantle
+1 Ethersworn Adjudicator
+1 Hero of Bladehold
+1 Vona, Butcher of Magan
+1 Acclaimed Contender
+1 Adeline, Resplendent Cathar
+1 Aryel, Knight of Windgrace
+1 Choked Estuary
+1 Exotic Orchard
+1 Fell the Mighty
+1 Haakon, Stromgald Scourge
+1 Josu Vess, Lich Knight
+1 Knight Exemplar
+1 Knight of the White Orchid
+1 Knights' Charge
+1 Liliana's Standard Bearer
+1 Maul of the Skyclaves
+1 Midnight Reaper
+1 Murderous Rider
+1 Painful Truths
+1 Port Town
+1 Prairie Stream
+1 Promise of Loyalty
+1 Pull from Tomorrow
+1 Shineshadow Snarl
+1 Sigiled Sword of Valeron
+1 Silverwing Squadron
+1 Sunken Hollow
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Silence
+1 Time Wipe
+1 Unbreakable Formation
+1 Valiant Knight
+1 Vanquisher's Banner
+1 Worthy Knight
+1 Bojuka Bog
+1 Command Tower
+1 Commander's Sphere
+1 Distant Melody
+1 Evolving Wilds
+1 Fractured Powerstone
+1 Orzhov Signet
+1 Path of Ancestry
+1 Read the Bones
+1 Smitten Swordmaster
+1 Terramorphic Expanse
+1 Thriving Heath
+1 Thriving Isle
+1 Thriving Moor
+1 Arcane Sanctum
+1 Arcane Signet
+1 Arvad the Cursed
+1 Corpse Knight
+1 Despark
+1 Fellwar Stone
+1 Foulmire Knight
+1 Herald's Horn
+1 Knight of the Last Breath
+1 Knights of the Black Rose
+1 Mind Stone
+1 Myriad Landscape
+1 Order of Midnight
+1 Path to Exile
+1 Return to Dust
+1 Sol Ring
+1 Swords to Plowshares
+1 Syr Elenora, the Discerning
+1 Syr Konrad, the Grim
+1 Temple of the False God
+1 Wintermoor Commander
+1 Xerex Strobe-Knight
+8 Plains
+6 Island
+5 Swamp
+
+Sideboard

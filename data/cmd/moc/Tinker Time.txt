@@ -1,0 +1,85 @@
+// NAME: Tinker Time
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-commander-decklists
+// DATE: 2023-04-21
+COMMANDER: 1 Gimbal, Gremlin Prodigy [foil]
+1 Rashmi and Ragavan [foil]
+1 Schema Thief
+1 Sandsteppe War Riders
+1 Cutthroat Negotiator
+1 Hedron Detonator
+1 Ichor Elixir
+1 Path of the Animist
+1 Pain Distributor
+1 Dance with Calamity
+1 Pia and Kiran Nalaar
+1 Feldon of the Third Path
+1 Chaos Warp
+1 Stroke of Genius
+1 Academy Manufactor
+1 Aid from the Cowl
+1 Bloodforged Battle-Axe
+1 Brass's Bounty
+1 Cinder Glade
+1 Echo Storm
+1 Everquill Phoenix
+1 Exotic Orchard
+1 Fiery Confluence
+1 Frostboil Snarl
+1 Game Trail
+1 Gilded Goose
+1 Hellkite Igniter
+1 Imprisoned in the Moon
+1 Inspiring Statuary
+1 Master of Etherium
+1 Masterful Replication
+1 Perplexing Test
+1 Rise and Shine
+1 Saheeli's Artistry
+1 Sharding Sphinx
+1 Shimmer Dragon
+1 Skyclave Relic
+1 Spell Swindle
+1 Spine of Ish Sah
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Thopter Assembly
+1 Thopter Spy Network
+1 Tireless Tracker
+1 Vedalken Humiliator
+1 Vineglimmer Snarl
+1 Workshop Elders
+1 Command Tower
+1 Crack Open
+1 Evolving Wilds
+1 Fractured Powerstone
+1 Gruul Signet
+1 Izzet Signet
+1 Path of Ancestry
+1 Reverse Engineer
+1 Root Out
+1 Simic Growth Chamber
+1 Simic Signet
+1 Terramorphic Expanse
+1 Thoughtcast
+1 Replicating Ring
+1 Arcane Signet
+1 Combine Chrysalis
+1 Curse of Opulence
+1 Frontier Bivouac
+1 Ghirapur Aether Grid
+1 Junk Winder
+1 Myriad Landscape
+1 Reality Shift
+1 Saheeli, Sublime Artificer
+1 Sol Ring
+1 Struggle // Survive
+1 Tireless Provisioner
+1 Vampires' Vengeance
+1 Weirding Wood
+1 Whirler Rogue
+8 Island
+8 Mountain
+7 Forest
+
+Sideboard
