@@ -93,3 +93,13 @@ COMMANDER: 1 Bright-Palm, Soul Awakener [foil]
 6 Forest
 
 Sideboard
+1 The Golden City of Orazca
+1 The Great Aerie
+1 Megaflora Jungle
+1 Riptide Island
+1 Towashi
+1 Bloodhill Bastion
+1 Chaotic Aether
+1 Grove of the Dreampods
+1 Jund
+1 Kharasha Foothills

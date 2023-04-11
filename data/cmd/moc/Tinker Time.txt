@@ -83,3 +83,13 @@ COMMANDER: 1 Gimbal, Gremlin Prodigy [foil]
 7 Forest
 
 Sideboard
+1 Ghirapur
+1 New Argive
+1 Ten Wizards Mountain
+1 The Western Cloud
+1 The Wilds
+1 Glimmervoid Basin
+1 Isle of Vesuva
+1 Planewide Disaster
+1 Selesnya Loft Gardens
+1 Stronghold Furnace

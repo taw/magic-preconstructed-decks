@@ -82,3 +82,13 @@ COMMANDER: 1 Kasla, the Broken Halo [foil]
 8 Mountain
 
 Sideboard
+1 Enigma Ridges
+1 The Fertile Lands of Saulvinia
+1 Norn's Seedcore
+1 Strixhaven
+1 Valor's Reach
+1 Gavony
+1 Hedron Fields of Agadeem
+1 Krosa
+1 Reality Shaping
+1 Stensia
