@@ -1,4 +1,4 @@
-// NAME: Corruption 1
+// NAME: Corruption 2
 // SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random black Phyrexia: All Will Be One rare or mythic rare
 // DATE: 2023-02-10

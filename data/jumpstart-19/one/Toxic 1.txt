@@ -1,4 +1,4 @@
-// NAME: Toxic 2
+// NAME: Toxic 1
 // SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random green Phyrexia: All Will Be One rare or mythic rare
 // DATE: 2023-02-10
