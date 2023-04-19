@@ -1,0 +1,17 @@
+// NAME: Mite-y 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random white Phyrexia: All Will Be One rare or mythic rare
+// DATE: 2023-02-10
+1 [ONE:404] Mite Overseer
+1 [ONE:285] Bladed Ambassador
+1 [ONE:8] Crawling Chorus
+1 [ONE:21] Mandible Justiciar
+1 [ONE:9] Duelist of Deep Faith
+1 [ONE:39] Zealot's Conviction
+1 [ONE:7] Compleat Devotion
+1 [ONE:36] Vanish into Eternity
+1 [ONE:30] Porcelain Zealot
+1 [ONE:3] Apostle of Invasion
+1 [ONE:26] Ossification
+1 [ONE:252] The Fair Basilica
+7 [ONE:272] Plains

@@ -1,0 +1,17 @@
+// NAME: Corruption 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random black Phyrexia: All Will Be One rare or mythic rare
+// DATE: 2023-02-10
+1 [ONE:406] Kinzu of the Bleak Coven
+1 [ONE:290] Bonepicker Skirge
+1 [ONE:110] Stinging Hivemaster
+1 [ONE:111] Testament Bearer
+1 [ONE:102] Offer Immortality
+1 [ONE:97] Infectious Inquiry
+1 [ONE:116] Vraska's Fall
+1 [ONE:83] Bilious Skulldweller
+1 [ONE:87] Chittering Skitterling
+1 [ONE:101] Nimraiser Paladin
+1 [ONE:99] Necrogen Communion
+1 [ONE:251] The Dross Pits
+7 [ONE:274] Swamp

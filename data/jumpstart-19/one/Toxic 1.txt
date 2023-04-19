@@ -1,0 +1,17 @@
+// NAME: Toxic 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random green Phyrexia: All Will Be One rare or mythic rare
+// DATE: 2023-02-10
+1 [ONE:408] Goliath Hatchery
+1 [ONE:294] Cankerbloom
+1 [ONE:165] Copper Longlegs
+1 [ONE:160] Branchblight Stalker
+1 [ONE:164] Contagious Vorrac
+1 [ONE:187] Titanic Growth
+1 [ONE:193] Venomous Brutalizer
+1 [ONE:178] Paladin of Predation
+1 [ONE:172] Infectious Bite
+1 [ONE:237] Phyrexian Atlas
+1 [ONE:170] Ichorspit Basilisk
+1 [ONE:253] The Hunter Maze
+7 [ONE:276] Forest
