@@ -1,0 +1,17 @@
+// NAME: Rebellious 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random red Phyrexia: All Will Be One rare or mythic rare
+// DATE: 2023-02-10
+1 [ONE:407] Rhuk, Hexgold Nabber
+1 [ONE:291] Furnace Punisher
+1 [ONE:121] Barbed Batterfist
+1 [ONE:122] Bladegraft Aspirant
+1 [ONE:156] Vulshok Splitter
+1 [ONE:137] Hexgold Slash
+1 [ONE:123] Blazing Crescendo
+1 [ONE:141] Molten Rebuke
+1 [ONE:136] Hexgold Halberd
+1 [ONE:143] Oxidda Finisher
+1 [ONE:239] Prosthetic Injector
+1 [ONE:247] The Autonomous Furnace
+7 [ONE:275] Mountain
