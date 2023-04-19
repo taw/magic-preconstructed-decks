@@ -1,6 +1,9 @@
+// NAME: Progress 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random blue Phyrexia: All Will Be One rare or mythic rare
+// DATE: 2023-02-10
 1 [ONE:405] Serum Sovereign
-1 
-1 [ONE:72] Thrummingbird
+1 [ONE:288] Thrummingbird
 1 [ONE:54] Glistener Seer
 1 [ONE:55] Ichor Synthesizer
 1 [ONE:45] Chrome Prowler
@@ -11,4 +14,4 @@
 1 [ONE:69] Tamiyo's Immobilizer
 1 [ONE:46] Distorted Curiosity
 1 [ONE:260] The Surgical Bay
-7 [UST:213] Island
+7 [ONE:273] Island

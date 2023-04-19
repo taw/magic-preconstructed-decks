@@ -1,6 +1,6 @@
 // NAME: Mite-y 1
 // SOURCE: https://magic.wizards.com/en/news/announcements/phyrexia-all-will-be-one-jumpstart-booster-themes-and-card-lists
-// DISPLAY: Also includes a random white The Brothers' War rare or mythic rare
+// DISPLAY: Also includes a random white Phyrexia: All Will Be One rare or mythic rare
 // DATE: 2023-02-10
 1 [ONE:404] Mite Overseer
 1 [ONE:285] Bladed Ambassador
