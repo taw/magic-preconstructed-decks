@@ -1,0 +1,16 @@
+// NAME: Expendable 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random black March of the Machine rare or mythic rare
+// DATE: 2023-04-20
+1 [MOM:329] Injector Crocodile
+1 [MOM:100] Dreg Recycler
+1 [MOM:101] Etched Familiar
+1 [MOM:98] Corrupted Conviction
+1 [MOM:99] Deadly Derision
+1 [MOM:103] Failed Conversion
+1 [MOM:124] Scorn-Blade Berserker
+1 [MOM:330] Seer of Stolen Sight
+1 [MOM:106] Gift of Compleation
+1 [MOM:96] Compleated Huntmaster
+1 [MOM:331] Terror of Towashi
+8 [MOM:279] Swamp

@@ -1,0 +1,16 @@
+// NAME: Overachiever 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random blue March of the Machine rare or mythic rare
+// DATE: 2023-04-20
+1 [MOM:328] Zephyr Winder
+1 [MOM:327] Referee Squad
+1 [MOM:326] Interdisciplinary Mascot
+1 [MOM:82] Tidal Terror
+1 [MOM:55] Ephara's Dispersal
+1 [MOM:56] Expedition Lookout
+1 [MOM:71] Oracle of Tragedy
+1 [MOM:85] Xerex Strobe-Knight
+1 [MOM:84] Wicked Slumber
+1 [MOM:48] Astral Wingspan
+1 [MOM:81] Thunderhead Squadron
+8 [MOM:278] Island

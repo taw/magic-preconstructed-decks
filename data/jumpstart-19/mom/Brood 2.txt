@@ -1,0 +1,16 @@
+// NAME: Brood 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
+// DISPLAY: Also includes a random white March of the Machine rare or mythic rare
+// DATE: 2023-04-20
+1 [MOM:323] Essence of Orthodoxy
+1 [MOM:324] Phyrexian Pegasus
+1 [MOM:4] Alabaster Host Sanctifier
+1 [MOM:18] Infected Defector
+1 [MOM:3] Alabaster Host Intercessor
+1 [MOM:2] Aerial Boost
+1 [MOM:19] Inspired Charge
+1 [MOM:29] Norn's Inquisitor
+1 [MOM:325] Seedpod Caretaker
+1 [MOM:44] Tiller of Flesh
+1 [MOM:35] Seal from Existence
+8 [MOM:277] Plains
