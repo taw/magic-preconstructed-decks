@@ -21,8 +21,8 @@
 2 Hall of Storm Giants
 2 Evolving Wilds
 4 Shipwreck Marsh
-7 Snow-Covered Swamp
-5 Snow-Covered Island
+7 Snow-Covered Swamp [KHM:280]
+5 Snow-Covered Island [KHM:278]
 
 Sideboard
 1 Saw It Coming
