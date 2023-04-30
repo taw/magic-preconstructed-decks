@@ -4,7 +4,7 @@
 1 Mizzix, Replica Rider
 1 Young Pyromancer
 1 Grotag Night-Runner
-1 Thermo-Alchemist
+1 [J22:83] Thermo-Alchemist
 1 Spellgorger Weird
 1 Catalyst Elemental
 1 Goblin Researcher

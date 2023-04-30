@@ -5,7 +5,7 @@
 1 Chandra's Pyreling
 1 Chandra's Spitfire
 1 Coalborn Entity
-1 Thermo-Alchemist
+1 [J22:613] Thermo-Alchemist
 1 Wildfire Elemental
 1 Fiery Intervention
 1 Pillar of Flame
