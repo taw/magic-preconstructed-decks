@@ -15,7 +15,7 @@
 2 Fateful Absence
 3 Paladin Class
 3 Faceless Haven [KHM:255]
-20 Snow-Covered Plains
+20 Snow-Covered Plains [KHM:276]
 
 Sideboard
 2 Loyal Warhound

@@ -9,7 +9,7 @@
 1 Wakedancer
 1 Liliana's Steward
 1 Durable Coilbug
-1 Tragic Slip
+1 [J22:74] Tragic Slip
 1 Village Rites
 1 Reave Soul
 1 Spawning Pit

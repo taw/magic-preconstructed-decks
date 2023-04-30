@@ -12,7 +12,7 @@
 1 Flame Lash
 1 Goblin Rally
 1 Goblin Grenade
-1 Dragon Fodder
+1 [J22:76] Dragon Fodder
 1 Thriving Bluff
 7 Mountain
 

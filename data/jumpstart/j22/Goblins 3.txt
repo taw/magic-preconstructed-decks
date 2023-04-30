@@ -10,7 +10,7 @@
 1 Rummaging Goblin
 1 Burn Bright
 1 Goblin Grenade
-1 Dragon Fodder
+1 [J22:76] Dragon Fodder
 1 Destructive Tampering
 1 Instruments of War
 1 Thriving Bluff

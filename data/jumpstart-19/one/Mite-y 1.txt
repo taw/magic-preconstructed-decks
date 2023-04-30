@@ -7,11 +7,11 @@
 1 [ONE:32] Sinew Dancer
 1 [ONE:9] Duelist of Deep Faith
 1 [ONE:4] Basilica Shepherd
-1 [ONE:28] Planar Disruption
-1 [ONE:2] Annex Sentry
-1 [ONE:36] Vanish into Eternity
 1 [ONE:2] Annex Sentry
 1 [ONE:30] Porcelain Zealot
+1 [ONE:28] Planar Disruption
+1 [ONE:6] Charge of the Mites
+1 [ONE:36] Vanish into Eternity
 1 [ONE:17] Infested Fleshcutter
 1 [ONE:252] The Fair Basilica
 7 [ONE:272] Plains

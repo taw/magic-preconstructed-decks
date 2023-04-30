@@ -5,7 +5,7 @@
 1 Suspicious Shambler
 1 Shadowborn Demon
 1 Graveblade Marauder
-1 Stitcher's Supplier
+1 [J22:73] Stitcher's Supplier
 1 Liliana's Elite
 1 Wailing Ghoul
 1 Gorging Vulture
