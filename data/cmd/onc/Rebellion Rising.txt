@@ -1,7 +1,7 @@
 // NAME: Rebellion Rising
 // SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Commander_decks
 // DATE: 2023-02-03
-COMMANDER: 1 Neyali, Suns' Vanguard [foil]
+COMMANDER: 1 [ONC:2] Neyali, Suns' Vanguard [foil]
 1 Elspeth Tirel
 1 Adriana, Captain of the Guard
 1 Dragonmaster Outcast
