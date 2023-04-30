@@ -11,7 +11,7 @@
 1 Bogardan Dragonheart
 1 Scorching Dragonfire
 1 Sarkhan's Rage
-1 Dragon Fodder
+1 [J22:523] Dragon Fodder
 1 Tormenting Voice
 1 Thriving Bluff
 7 Mountain

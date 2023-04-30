@@ -10,7 +10,7 @@
 1 Cavalry Drillmaster
 1 Iron Bully
 1 Combat Professor
-1 Valorous Stance
+1 [J22:59] Valorous Stance
 1 Light of Hope
 1 Weapon Rack
 1 Sandstone Bridge

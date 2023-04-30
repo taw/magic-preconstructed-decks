@@ -9,7 +9,7 @@
 1 Infantry Veteran
 1 Cavalry Drillmaster
 1 Combat Professor
-1 Valorous Stance
+1 [J22:59] Valorous Stance
 1 Moment of Triumph
 1 Cage of Hands
 1 Dragon Blood

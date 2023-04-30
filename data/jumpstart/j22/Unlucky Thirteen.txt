@@ -9,7 +9,7 @@
 1 Skirsdag Supplicant
 1 Soulcage Fiend
 1 Dread Rider
-1 Tragic Slip
+1 [J22:478] Tragic Slip
 1 Ruthless Disposal
 1 Exsanguinate
 1 Triskaidekaphobia

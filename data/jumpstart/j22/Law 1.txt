@@ -10,7 +10,7 @@
 1 Nightguard Patrol
 1 Skyhunter Patrol
 1 Righteousness
-1 Valorous Stance
+1 [J22:263] Valorous Stance
 1 Divine Verdict
 1 Arrest
 1 Thriving Heath
