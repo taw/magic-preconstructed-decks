@@ -2,6 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random red March of the Machine rare or mythic rare
 // DATE: 2023-04-20
+// it says full art basic, not sure which one is it
 1 [MOM:333] Cragsmasher Yeti
 1 [MOM:158] Ral's Reinforcements
 1 [MOM:150] Karsus Depthguard
@@ -13,4 +14,6 @@
 1 [MOM:138] Fearless Skald
 1 [MOM:166] Stoke the Flames
 1 [MOM:334] Orthion, Hero of Lavabrink
-8 [MOM:280] Mountain
+5 [MOM:280] Mountain
+2 [MOM:280] Mountain [foil]
+1 [MOM:288] Mountain

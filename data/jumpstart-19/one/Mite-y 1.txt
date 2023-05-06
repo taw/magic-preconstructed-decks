@@ -14,4 +14,5 @@
 1 [ONE:36] Vanish into Eternity
 1 [ONE:17] Infested Fleshcutter
 1 [ONE:252] The Fair Basilica
-7 [ONE:272] Plains
+5 [ONE:272] Plains
+2 [ONE:272] Plains [foil]

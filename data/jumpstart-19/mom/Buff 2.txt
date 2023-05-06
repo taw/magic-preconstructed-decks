@@ -2,6 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random green March of the Machine rare or mythic rare
 // DATE: 2023-04-20
+// it says full art basic, not sure which one is it
 1 [MOM:199] Placid Rottentail
 1 [MOM:335] Fairgrounds Trumpeter
 1 [MOM:215] Wary Thespian
@@ -13,4 +14,6 @@
 1 [MOM:196] Kami of Whispered Hopes
 1 [MOM:208] Tandem Takedown
 1 [MOM:337] Surrak and Goreclaw
-8 [MOM:281] Forest
+5 [MOM:281] Forest
+2 [MOM:281] Forest [foil]
+1 [MOM:290] Forest

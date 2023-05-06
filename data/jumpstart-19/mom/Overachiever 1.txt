@@ -2,6 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random blue March of the Machine rare or mythic rare
 // DATE: 2023-04-20
+// it says full art basic, not sure which one is it
 1 [MOM:328] Zephyr Winder
 1 [MOM:56] Expedition Lookout
 1 [MOM:73] Preening Champion
@@ -13,4 +14,6 @@
 1 [MOM:327] Referee Squad
 1 [MOM:71] Oracle of Tragedy
 1 [MOM:326] Interdisciplinary Mascot
-8 [MOM:278] Island
+5 [MOM:278] Island
+2 [MOM:278] Island [foil]
+1 [MOM:284] Island

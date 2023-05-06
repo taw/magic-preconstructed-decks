@@ -14,4 +14,5 @@
 1 [ONE:173] Lattice-Blade Mantis
 1 [ONE:174] Maze's Mantle
 1 [ONE:253] The Hunter Maze
-7 [ONE:276] Forest
+5 [ONE:276] Forest
+2 [ONE:276] Forest [foil]

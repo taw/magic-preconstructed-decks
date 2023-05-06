@@ -2,6 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-jumpstart-booster-themes-and-card-lists
 // DISPLAY: Also includes a random black March of the Machine rare or mythic rare
 // DATE: 2023-04-20
+// it says full art basic, not sure which one is it
 1 [MOM:329] Injector Crocodile
 1 [MOM:100] Dreg Recycler
 1 [MOM:101] Etched Familiar
@@ -13,4 +14,6 @@
 1 [MOM:330] Seer of Stolen Sight
 1 [MOM:106] Gift of Compleation
 1 [MOM:331] Terror of Towashi
-8 [MOM:279] Swamp
+5 [MOM:279] Swamp
+2 [MOM:279] Swamp [foil]
+1 [MOM:286] Swamp
