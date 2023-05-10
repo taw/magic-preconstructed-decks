@@ -1,0 +1,10 @@
+// NAME: Black is Magic
+// SOURCE: https://secretlair.wizards.com/us/product/629725/black-is-magic
+// DATE: 2021-02-22
+1 [SLD:246] Cultivate
+1 [SLD:247] Kaya, Ghost Assassin
+1 [SLD:250] Path of Ancestry
+1 [SLD:245] Ponder
+1 [SLD:244] Shalai, Voice of Plenty
+1 [SLD:249] Sol Ring
+1 [SLD:248] Teferi, Hero of Dominaria

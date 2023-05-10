@@ -35,6 +35,8 @@ class BuildJsons
   end
 
   def ensure_deck_size(path, deck, sizes)
+    return unless sizes # Box sets can have any size, it's fine
+
     actual = "#{deck.size}+#{deck.sideboard_size}+#{deck.commander_size}"
     allowed = sizes.map{|d,s,c| "#{d}+#{s||0}+#{c||0}"}
 
