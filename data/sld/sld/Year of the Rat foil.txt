@@ -1,0 +1,7 @@
+// NAME: Year of the Rat - Foil
+// SOURCE: scryfall
+// DATE: 2020-01-27
+1 [SLD:33] Ink-Eyes, Servant of Oni [foil]
+1 [SLD:34] Marrow-Gnawer [foil]
+1 [SLD:35] Pack Rat [foil]
+1 [SLD:36] Rat Colony [foil]

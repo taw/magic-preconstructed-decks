@@ -1,0 +1,15 @@
+// NAME: The Astrology Lands - Foil
+// SOURCE: scryfall
+// DATE: 2022-01-04
+1 [SLD:384] Swamp [foil]
+1 [SLD:385] Island [foil]
+1 [SLD:386] Island [foil]
+1 [SLD:387] Mountain [foil]
+1 [SLD:388] Forest [foil]
+1 [SLD:389] Mountain [foil]
+1 [SLD:390] Plains [foil]
+1 [SLD:391] Plains [foil]
+1 [SLD:392] Island [foil]
+1 [SLD:393] Plains [foil]
+1 [SLD:394] Swamp [foil]
+1 [SLD:395] Forest [foil]

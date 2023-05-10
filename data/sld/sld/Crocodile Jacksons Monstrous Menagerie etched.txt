@@ -1,0 +1,8 @@
+// NAME: Crocodile Jackson's Monstrous Menagerie - Foil Etched
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:305] Ravenous Chupacabra [foil]
+1 [SLD:306] Managorger Hydra [foil]
+1 [SLD:307] Pathbreaker Ibex [foil]
+1 [SLD:308] Temur Sabertooth [foil]
+1 [SLD:309] Winding Constrictor [foil]

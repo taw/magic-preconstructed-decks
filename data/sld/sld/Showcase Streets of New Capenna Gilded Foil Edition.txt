@@ -1,6 +1,0 @@
-// NAME: Showcase: Streets of New Capenna Gilded Foil Edition
-// SOURCE: scryfall
-// DATE: 2022-04-12
-1 [SLD:453] Atraxa, Praetors' Voice
-1 [SLD:454] Breya, Etherium Shaper
-1 [SLD:455] Yidris, Maelstrom Wielder

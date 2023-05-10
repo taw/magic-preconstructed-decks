@@ -1,0 +1,8 @@
+// NAME: Introducing: Kaito Shizuki - Foil
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:410] Brain Freeze [foil]
+1 [SLD:411] Bribery [foil]
+1 [SLD:412] Snap [foil]
+1 [SLD:413] Unmask [foil]
+1 [SLD:414] Shadow of Doubt [foil]

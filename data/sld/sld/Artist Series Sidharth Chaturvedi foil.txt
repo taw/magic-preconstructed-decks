@@ -1,0 +1,7 @@
+// NAME: Artist Series: Sidharth Chaturvedi - Foil
+// SOURCE: scryfall
+// DATE: 2022-04-11
+1 [SLD:465] Nomad Outpost [foil]
+1 [SLD:466] Island [foil]
+1 [SLD:467] Concordant Crossroads [foil]
+1 [SLD:468] Ghost Quarter [foil]

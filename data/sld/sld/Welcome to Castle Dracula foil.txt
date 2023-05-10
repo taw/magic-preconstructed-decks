@@ -1,0 +1,6 @@
+// NAME: Welcome to Castle Dracula - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:206] Exquisite Blood [foil]
+1 [SLD:207] Night's Whisper [foil]
+1 [SLD:208] Phyrexian Tower [foil]

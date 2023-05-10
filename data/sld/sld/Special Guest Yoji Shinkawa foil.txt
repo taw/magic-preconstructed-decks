@@ -1,0 +1,7 @@
+// NAME: Special Guest: Yoji Shinkawa - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1110] Phyrexian Metamorph [foil]
+1 [SLD:1111] Tezzeret the Seeker [foil]
+1 [SLD:1112] Skullclamp [foil]
+1 [SLD:1113] Solemn Simulacrum [foil]

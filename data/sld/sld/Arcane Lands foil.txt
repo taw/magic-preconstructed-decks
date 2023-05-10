@@ -1,0 +1,8 @@
+// NAME: Arcane: Lands - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:484] Plains [foil]
+1 [SLD:485] Island [foil]
+1 [SLD:486] Swamp [foil]
+1 [SLD:487] Mountain [foil]
+1 [SLD:488] Forest [foil]

@@ -1,0 +1,7 @@
+// NAME: Artist Series: Magali Villeneuve - Foil
+// SOURCE: scryfall
+// DATE: 2022-04-11
+1 [SLD:473] Mother of Runes [foil]
+1 [SLD:474] Death's Shadow [foil]
+1 [SLD:475] Elvish Mystic [foil]
+1 [SLD:476] Forest [foil]

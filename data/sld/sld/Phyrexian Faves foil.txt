@@ -1,0 +1,8 @@
+// NAME: Phyrexian Faves - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1203] Blighted Agent [foil]
+1 [SLD:1204] K'rrik, Son of Yawgmoth [foil]
+1 [SLD:1205] Glistener Elf [foil]
+1 [SLD:1206] Batterskull [foil]
+1 [SLD:1207] Inkmoth Nexus [foil]

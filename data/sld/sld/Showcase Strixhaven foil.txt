@@ -1,0 +1,9 @@
+// NAME: Showcase: Strixhaven - Foil
+// SOURCE: scryfall
+// DATE: 2021-04-26
+1 [SLD:268] All Is Dust [foil]
+1 [SLD:269] Artifact Mutation [foil]
+1 [SLD:270] Drown in the Loch [foil]
+1 [SLD:271] Fire Covenant [foil]
+1 [SLD:272] Fractured Identity [foil]
+1 [SLD:273] Fracturing Gust [foil]

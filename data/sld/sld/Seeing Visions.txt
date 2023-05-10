@@ -1,7 +1,0 @@
-// NAME: Seeing Visions
-// SOURCE: scryfall
-// DATE: 2019-12-06
-1 [SLD:29] Serum Visions
-1 [SLD:30] Serum Visions
-1 [SLD:31] Serum Visions
-1 [SLD:32] Serum Visions

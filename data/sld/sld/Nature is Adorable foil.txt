@@ -1,0 +1,7 @@
+// NAME: Nature is Adorable - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1281] Joraga Treespeaker [foil]
+1 [SLD:1282] Nature's Will [foil]
+1 [SLD:1283] Ulvenwald Tracker [foil]
+1 [SLD:1284] Yeva, Nature's Herald [foil]

@@ -1,0 +1,7 @@
+// NAME: Look at the Kitties - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-17
+1 [SLD:1182] Felidar Sovereign [foil]
+1 [SLD:1183] Descendants' Path [foil]
+1 [SLD:1184] Lord Windgrace [foil]
+1 [SLD:1185] Violent Outburst [foil]

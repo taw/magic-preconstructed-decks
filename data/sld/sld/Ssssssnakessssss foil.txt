@@ -1,0 +1,8 @@
+// NAME: Ssssssnakessssss - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1222] Hexdrinker [foil]
+1 [SLD:1223] Lotus Cobra [foil]
+1 [SLD:1224] Seshiro the Anointed [foil]
+1 [SLD:1225] Ice-Fang Coatl [foil]
+1 [SLD:1226] Stonecoil Serpent [foil]

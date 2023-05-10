@@ -1,0 +1,8 @@
+// NAME: PixelSnowLands.jpg - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:325] Snow-Covered Plains [foil]
+1 [SLD:326] Snow-Covered Island [foil]
+1 [SLD:327] Snow-Covered Swamp [foil]
+1 [SLD:328] Snow-Covered Mountain [foil]
+1 [SLD:329] Snow-Covered Forest [foil]

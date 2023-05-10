@@ -1,0 +1,7 @@
+// NAME: Artist Series: Nils Hamm - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1093] Deepglow Skate [foil]
+1 [SLD:1094] Tireless Tracker [foil]
+1 [SLD:1095] Contagion Engine [foil]
+1 [SLD:1096] Sword of Truth and Justice [foil]

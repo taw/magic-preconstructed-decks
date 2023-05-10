@@ -1,0 +1,8 @@
+// NAME: Warhammer 40,000: Orks - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1025] Merciless Executioner [foil]
+1 [SLD:1026] Aggravated Assault [foil]
+1 [SLD:1027] Krenko, Tin Street Kingpin [foil]
+1 [SLD:1028] Zurgo Helmsmasher [foil]
+1 [SLD:1029] Skysovereign, Consul Flagship [foil]

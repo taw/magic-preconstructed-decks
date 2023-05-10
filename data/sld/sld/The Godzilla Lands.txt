@@ -1,8 +1,0 @@
-// NAME: The Godzilla Lands
-// SOURCE: scryfall
-// DATE: 2020-07-31
-1 [SLD:63] Plains
-1 [SLD:64] Island
-1 [SLD:65] Swamp
-1 [SLD:66] Mountain
-1 [SLD:67] Forest

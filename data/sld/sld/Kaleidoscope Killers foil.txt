@@ -1,0 +1,6 @@
+// NAME: Kaleidoscope Killers - Foil
+// SOURCE: scryfall
+// DATE: 2019-12-08
+1 [SLD:9] Reaper King [foil]
+1 [SLD:10] Sliver Overlord [foil]
+1 [SLD:11] The Ur-Dragon [foil]

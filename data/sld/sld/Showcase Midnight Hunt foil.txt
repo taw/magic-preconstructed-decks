@@ -1,0 +1,13 @@
+// NAME: Showcase: Midnight Hunt - Foil
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:349] Moorland Haunt [foil]
+1 [SLD:350] Vault of the Archangel [foil]
+1 [SLD:351] Nephalia Drownyard [foil]
+1 [SLD:352] Desolate Lighthouse [foil]
+1 [SLD:353] Stensia Bloodhall [foil]
+1 [SLD:354] Grim Backwoods [foil]
+1 [SLD:355] Kessig Wolf Run [foil]
+1 [SLD:356] Slayers' Stronghold [foil]
+1 [SLD:357] Gavony Township [foil]
+1 [SLD:358] Alchemist's Refuge [foil]

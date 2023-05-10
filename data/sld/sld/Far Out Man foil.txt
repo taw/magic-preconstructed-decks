@@ -1,0 +1,8 @@
+// NAME: Far Out, Man - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:330] Aether Gust [foil]
+1 [SLD:331] Counterspell [foil]
+1 [SLD:332] Fabricate [foil]
+1 [SLD:333] Fact or Fiction [foil]
+1 [SLD:334] Mystical Tutor [foil]

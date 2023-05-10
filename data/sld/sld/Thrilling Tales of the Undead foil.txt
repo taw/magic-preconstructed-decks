@@ -1,0 +1,6 @@
+// NAME: Thrilling Tales of the Undead - Foil
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:231] Gravecrawler [foil]
+1 [SLD:232] Liliana, Death's Majesty [foil]
+1 [SLD:233] Rise of the Dark Realms [foil]

@@ -1,0 +1,8 @@
+// NAME: Showcase: Zendikar Revisited - Foil
+// SOURCE: scryfall
+// DATE: 2020-09-30
+1 [SLD:154] Admonition Angel [foil]
+1 [SLD:155] Roil Elemental [foil]
+1 [SLD:156] Zulaport Cutthroat [foil]
+1 [SLD:157] Warren Instigator [foil]
+1 [SLD:158] Avenger of Zendikar [foil]

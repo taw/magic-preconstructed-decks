@@ -1,0 +1,8 @@
+// NAME: The Full-Text Lands - Foil
+// SOURCE: scryfall
+// DATE: 2021-04-26
+1 [SLD:254] Plains [foil]
+1 [SLD:255] Island [foil]
+1 [SLD:256] Swamp [foil]
+1 [SLD:257] Mountain [foil]
+1 [SLD:258] Forest [foil]

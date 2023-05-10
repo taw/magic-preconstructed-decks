@@ -1,0 +1,8 @@
+// NAME: The Godzilla Lands - Foil
+// SOURCE: scryfall
+// DATE: 2020-07-31
+1 [SLD:63] Plains [foil]
+1 [SLD:64] Island [foil]
+1 [SLD:65] Swamp [foil]
+1 [SLD:66] Mountain [foil]
+1 [SLD:67] Forest [foil]

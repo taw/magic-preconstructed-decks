@@ -1,0 +1,8 @@
+// NAME: In Memoriam: Jaya Ballard - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1062] Jaya Ballard [foil]
+1 [SLD:1063] Jaya's Immolating Inferno [foil]
+1 [SLD:1064] Pyretic Ritual [foil]
+1 [SLD:1065] Repercussion [foil]
+1 [SLD:1066] Pyromancer's Goggles [foil]

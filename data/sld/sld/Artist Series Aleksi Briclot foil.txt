@@ -1,0 +1,7 @@
+// NAME: Artist Series: Aleksi Briclot - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1151] Thought-Knot Seer [foil]
+1 [SLD:1152] Inquisition of Kozilek [foil]
+1 [SLD:1153] Reality Smasher [foil]
+1 [SLD:1154] Eldrazi Temple [foil]

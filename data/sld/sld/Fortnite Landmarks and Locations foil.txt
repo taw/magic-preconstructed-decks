@@ -1,0 +1,8 @@
+// NAME: Fortnite: Landmarks and Locations - Foil
+// SOURCE: scryfall
+// DATE: 2022-07-07
+1 [SLD:448] Plains [foil]
+1 [SLD:449] Island [foil]
+1 [SLD:450] Swamp [foil]
+1 [SLD:451] Mountain [foil]
+1 [SLD:452] Forest [foil]

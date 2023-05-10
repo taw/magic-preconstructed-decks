@@ -1,0 +1,7 @@
+// NAME: Monster Movie Marathon - Foil
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:321] Dismember [foil]
+1 [SLD:322] Blasphemous Act [foil]
+1 [SLD:323] Beast Within [foil]
+1 [SLD:324] Grafdigger's Cage [foil]

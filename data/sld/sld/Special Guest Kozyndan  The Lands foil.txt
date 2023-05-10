@@ -1,0 +1,8 @@
+// NAME: Special Guest: Kozyndan - The Lands - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1130] Plains [foil]
+1 [SLD:1131] Island [foil]
+1 [SLD:1132] Swamp [foil]
+1 [SLD:1133] Mountain [foil]
+1 [SLD:1134] Forest [foil]

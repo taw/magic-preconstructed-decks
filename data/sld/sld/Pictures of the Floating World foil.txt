@@ -1,0 +1,8 @@
+// NAME: Pictures of the Floating World - Foil
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:436] Windbrisk Heights [foil]
+1 [SLD:437] Shelldock Isle [foil]
+1 [SLD:438] Howltooth Hollow [foil]
+1 [SLD:439] Spinerock Knoll [foil]
+1 [SLD:440] Mosswort Bridge [foil]

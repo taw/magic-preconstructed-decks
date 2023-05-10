@@ -1,8 +1,0 @@
-// NAME: International Women's Day
-// SOURCE: scryfall
-// DATE: 2020-03-08
-1 [SLD:51] Captain Sisay
-1 [SLD:52] Meren of Clan Nel Toth
-1 [SLD:53] Narset, Enlightened Master
-1 [SLD:54] Oona, Queen of the Fae
-1 [SLD:55] Saskia the Unyielding

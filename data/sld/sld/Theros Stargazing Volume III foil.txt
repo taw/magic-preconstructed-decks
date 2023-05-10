@@ -1,0 +1,6 @@
+// NAME: Theros Stargazing, Volume III - Foil
+// SOURCE: scryfall
+// DATE: 2020-02-14
+1 [SLD:74] Erebos, God of the Dead [foil]
+1 [SLD:75] Phenax, God of Deception [foil]
+1 [SLD:76] Athreos, God of Passage [foil]

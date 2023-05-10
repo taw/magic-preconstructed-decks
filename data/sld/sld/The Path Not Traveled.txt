@@ -1,7 +1,0 @@
-// NAME: The Path Not Traveled
-// SOURCE: scryfall
-// DATE: 2020-06-03
-1 [SLD:87] Ajani Steadfast
-1 [SLD:88] Domri Rade
-1 [SLD:89] Tamiyo, Field Researcher
-1 [SLD:90] Vraska, Golgari Queen

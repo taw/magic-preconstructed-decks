@@ -1,0 +1,8 @@
+// NAME: Special Guest: Fiona Staples - Foil
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:190] Soul-Scar Mage [foil]
+1 [SLD:191] Dryad of the Ilysian Grove [foil]
+1 [SLD:192] Sakura-Tribe Elder [foil]
+1 [SLD:193] Spell Queller [foil]
+1 [SLD:194] Metallic Mimic [foil]

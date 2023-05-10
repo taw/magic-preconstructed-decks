@@ -1,0 +1,8 @@
+// NAME: Li’l Walkers - Foil
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:396] Tamiyo, the Moon Sage [foil]
+1 [SLD:397] Ajani, Mentor of Heroes [foil]
+1 [SLD:398] Angrath, the Flame-Chained [foil]
+1 [SLD:399] Ashiok, Dream Render [foil]
+1 [SLD:400] Sorin, Grim Nemesis [foil]

@@ -1,0 +1,7 @@
+// NAME: The Space Beyond the Stars - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1102] Imprisoned in the Moon [foil]
+1 [SLD:1103] Stasis [foil]
+1 [SLD:1104] Prismatic Omen [foil]
+1 [SLD:1105] Wheel of Sun and Moon [foil]

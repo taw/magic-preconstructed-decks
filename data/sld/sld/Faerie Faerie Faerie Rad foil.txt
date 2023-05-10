@@ -1,0 +1,7 @@
+// NAME: Faerie, Faerie, Faerie Rad - Foil
+// SOURCE: scryfall
+// DATE: 2020-02-12
+1 [SLD:115] Glen Elendra Archmage [foil]
+1 [SLD:116] Mistbind Clique [foil]
+1 [SLD:117] Spellstutter Sprite [foil]
+1 [SLD:118] Vendilion Clique [foil]

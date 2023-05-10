@@ -1,0 +1,7 @@
+// NAME: Every Dog Has Its Day - Foil
+// SOURCE: scryfall
+// DATE: 2020-08-26
+1 [SLD:96] Rest in Peace [foil]
+1 [SLD:97] Dig Through Time [foil]
+1 [SLD:98] Ancient Grudge [foil]
+1 [SLD:99] Lightning Greaves [foil]

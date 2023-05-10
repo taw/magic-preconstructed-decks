@@ -1,0 +1,8 @@
+// NAME: The Tokyo Lands - Foil Etched
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:46] Plains [foil]
+1 [SLD:47] Island [foil]
+1 [SLD:48] Swamp [foil]
+1 [SLD:49] Mountain [foil]
+1 [SLD:50] Forest [foil]

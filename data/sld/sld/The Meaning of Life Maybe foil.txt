@@ -1,0 +1,8 @@
+// NAME: The Meaning of Life, Maybe - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1177] Forced Fruition [foil]
+1 [SLD:1178] Future Sight [foil]
+1 [SLD:1179] Mental Misstep [foil]
+1 [SLD:1180] Mind's Dilation [foil]
+1 [SLD:1181] Well of Lost Dreams [foil]

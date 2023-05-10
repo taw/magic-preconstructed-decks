@@ -1,0 +1,8 @@
+// NAME: Showcase: March of the Machine, Vol. 2 - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1267] Higure, the Still Wind [foil]
+1 [SLD:1268] Nezahal, Primal Tide [foil]
+1 [SLD:1269] Dragonlord Kolaghan [foil]
+1 [SLD:1270] Mina and Denn, Wildborn [foil]
+1 [SLD:1271] Xantcha, Sleeper Agent [foil]

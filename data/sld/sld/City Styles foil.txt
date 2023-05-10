@@ -1,0 +1,8 @@
+// NAME: City Styles - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1232] Sakashima the Impostor [foil]
+1 [SLD:1233] Massacre Girl [foil]
+1 [SLD:1234] Azusa, Lost but Seeking [foil]
+1 [SLD:1235] Teysa Karlov [foil]
+1 [SLD:1236] Paradise Mantle [foil]

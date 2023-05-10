@@ -1,0 +1,7 @@
+// NAME: Welcome to the Fungal - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1135] Abundant Growth [foil]
+1 [SLD:1136] Mycoloth [foil]
+1 [SLD:1137] Ghave, Guru of Spores [foil]
+1 [SLD:1138] Slimefoot, the Stowaway [foil]

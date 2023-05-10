@@ -1,0 +1,9 @@
+// NAME: Saturday Morning D&D - Foil
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:310] Unbreakable Formation [foil]
+1 [SLD:311] Whir of Invention [foil]
+1 [SLD:312] Hero's Downfall [foil]
+1 [SLD:313] Impact Tremors [foil]
+1 [SLD:314] Primal Vigor [foil]
+1 [SLD:315] Commander's Sphere [foil]

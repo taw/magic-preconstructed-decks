@@ -1,8 +1,0 @@
-// NAME: Showcase: March of the Machine, Vol. 1
-// SOURCE: scryfall
-// DATE: 2023-04-23
-1 [SLD:1262] Wheel and Deal
-1 [SLD:1263] Questing Beast
-1 [SLD:1264] Olivia Voldaren
-1 [SLD:1265] Walking Ballista
-1 [SLD:1266] The World Tree

@@ -1,0 +1,10 @@
+// NAME: Pride Across the Multiverse - Foil
+// SOURCE: scryfall
+// DATE: 2022-05-04
+1 [SLD:1005] Triumphant Reckoning [foil]
+1 [SLD:1006] Savor the Moment [foil]
+1 [SLD:1007] Alesha, Who Smiles at Death [foil]
+1 [SLD:1008] Bearscape [foil]
+1 [SLD:1009] Collective Voyage [foil]
+1 [SLD:1010] Heartbeat of Spring [foil]
+1 [SLD:1011] Sol Ring [foil]

@@ -1,0 +1,8 @@
+// NAME: Fblthp: Completely, Utterly, Totally Lost - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:226] Path to Exile [foil]
+1 [SLD:227] Well of Lost Dreams [foil]
+1 [SLD:228] Frantic Search [foil]
+1 [SLD:229] Intruder Alarm [foil]
+1 [SLD:230] Shelldock Isle [foil]

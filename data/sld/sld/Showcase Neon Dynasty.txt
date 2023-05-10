@@ -1,7 +1,0 @@
-// NAME: Showcase: Neon Dynasty
-// SOURCE: scryfall
-// DATE: 2022-02-18
-1 [SLD:424] Ghostly Prison
-1 [SLD:425] Freed from the Real
-1 [SLD:426] Boseiju, Who Shelters All
-1 [SLD:427] Hall of the Bandit Lord

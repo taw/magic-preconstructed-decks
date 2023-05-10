@@ -1,0 +1,6 @@
+// NAME: Showcase: Kaldheim – Part 1 - Foil
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:220] Frost Titan [foil]
+1 [SLD:221] Primeval Titan [foil]
+1 [SLD:222] Uro, Titan of Nature's Wrath [foil]

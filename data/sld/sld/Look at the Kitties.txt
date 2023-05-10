@@ -1,7 +1,0 @@
-// NAME: Look at the Kitties
-// SOURCE: scryfall
-// DATE: 2022-11-17
-1 [SLD:1182] Felidar Sovereign
-1 [SLD:1183] Descendants' Path
-1 [SLD:1184] Lord Windgrace
-1 [SLD:1185] Violent Outburst

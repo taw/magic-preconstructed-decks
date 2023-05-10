@@ -1,0 +1,9 @@
+// NAME: Transformers: Optimus Prime vs. Megatron - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1079] Blightsteel Colossus // Blightsteel Colossus [foil]
+1 [SLD:1079] Blightsteel Colossus // Blightsteel Colossus [foil]
+1 [SLD:1080] Doubling Cube // Doubling Cube [foil]
+1 [SLD:1080] Doubling Cube // Doubling Cube [foil]
+1 [SLD:1081] Darksteel Colossus // Darksteel Colossus [foil]
+1 [SLD:1081] Darksteel Colossus // Darksteel Colossus [foil]

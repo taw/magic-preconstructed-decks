@@ -1,0 +1,8 @@
+// NAME: Special Guest: Kozyndan - Another Story - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1125] Serra Ascendant [foil]
+1 [SLD:1126] Rapid Hybridization [foil]
+1 [SLD:1127] Demonic Consultation [foil]
+1 [SLD:1128] Winds of Change [foil]
+1 [SLD:1129] Llanowar Elves [foil]

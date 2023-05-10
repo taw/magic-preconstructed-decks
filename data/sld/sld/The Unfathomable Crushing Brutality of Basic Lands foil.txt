@@ -1,0 +1,8 @@
+// NAME: The Unfathomable Crushing Brutality of Basic Lands - Foil
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:239] Plains [foil]
+1 [SLD:240] Island [foil]
+1 [SLD:241] Swamp [foil]
+1 [SLD:242] Mountain [foil]
+1 [SLD:243] Forest [foil]

@@ -1,0 +1,7 @@
+// NAME: Special Guest: Kelogsloops - Foil
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:406] Mystic Remora [foil]
+1 [SLD:407] Retreat to Coralhelm [foil]
+1 [SLD:408] Burgeoning [foil]
+1 [SLD:409] Utopia Sprawl [foil]

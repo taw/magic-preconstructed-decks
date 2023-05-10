@@ -1,0 +1,7 @@
+// NAME: Post Malone: Backstage Pass - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1186] K'rrik, Son of Yawgmoth [foil]
+1 [SLD:1187] Bolas's Citadel [foil]
+1 [SLD:1188] Leshrac's Sigil [foil]
+1 [SLD:1189] Jet Medallion [foil]

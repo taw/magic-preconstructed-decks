@@ -1,0 +1,8 @@
+// NAME: Dan Frazier Is Back Again: The Enemy Talismans - Foil Etched
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1057] Talisman of Hierarchy [foil]
+1 [SLD:1058] Talisman of Creativity [foil]
+1 [SLD:1059] Talisman of Resilience [foil]
+1 [SLD:1060] Talisman of Conviction [foil]
+1 [SLD:1061] Talisman of Curiosity [foil]

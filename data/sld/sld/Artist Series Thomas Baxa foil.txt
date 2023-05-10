@@ -1,0 +1,7 @@
+// NAME: Artist Series: Thomas Baxa - Foil
+// SOURCE: scryfall
+// DATE: 2021-08-24
+1 [SLD:274] Ob Nixilis Reignited [foil]
+1 [SLD:275] Sire of Insanity [foil]
+1 [SLD:276] Sliver Hivelord [foil]
+1 [SLD:277] Spellskite [foil]

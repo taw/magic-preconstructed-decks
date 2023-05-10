@@ -1,0 +1,8 @@
+// NAME: Kamigawa: The Manga: The Cards - Foil
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:1020] Idyllic Tutor [foil]
+1 [SLD:1021] Swords to Plowshares [foil]
+1 [SLD:1022] Solve the Equation [foil]
+1 [SLD:1023] Praetor's Grasp [foil]
+1 [SLD:1024] Veil of Summer [foil]

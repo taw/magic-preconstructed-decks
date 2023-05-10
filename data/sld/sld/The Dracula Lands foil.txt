@@ -1,0 +1,8 @@
+// NAME: The Dracula Lands - Foil
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:359] Plains [foil]
+1 [SLD:360] Island [foil]
+1 [SLD:361] Swamp [foil]
+1 [SLD:362] Mountain [foil]
+1 [SLD:363] Forest [foil]

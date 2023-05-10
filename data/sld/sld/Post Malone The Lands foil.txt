@@ -1,0 +1,8 @@
+// NAME: Post Malone: The Lands - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1190] Plains [foil]
+1 [SLD:1191] Island [foil]
+1 [SLD:1192] Swamp [foil]
+1 [SLD:1193] Mountain [foil]
+1 [SLD:1194] Forest [foil]

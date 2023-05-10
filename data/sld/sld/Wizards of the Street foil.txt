@@ -1,0 +1,7 @@
+// NAME: Wizards of the Street - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1164] Baral, Chief of Compliance [foil]
+1 [SLD:1165] Spellseeker [foil]
+1 [SLD:1166] Magus of the Wheel [foil]
+1 [SLD:1167] Kess, Dissident Mage [foil]

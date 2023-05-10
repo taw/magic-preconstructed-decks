@@ -1,0 +1,7 @@
+// NAME: Artist Series: Victor Adame Minguez - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1044] Knight Exemplar [foil]
+1 [SLD:1045] Knight of the White Orchid [foil]
+1 [SLD:1046] Lord of the Undead [foil]
+1 [SLD:1047] Compost [foil]

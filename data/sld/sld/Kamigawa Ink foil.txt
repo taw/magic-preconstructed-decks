@@ -1,0 +1,8 @@
+// NAME: Kamigawa Ink - Foil
+// SOURCE: scryfall
+// DATE: 2021-08-24
+1 [SLD:259] Michiko Konda, Truth Seeker [foil]
+1 [SLD:260] Kami of the Crescent Moon [foil]
+1 [SLD:261] Toshiro Umezawa [foil]
+1 [SLD:262] Heartless Hidetsugu [foil]
+1 [SLD:263] Reki, the History of Kamigawa [foil]

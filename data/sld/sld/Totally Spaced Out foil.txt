@@ -1,0 +1,7 @@
+// NAME: Totally Spaced Out - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:469] Ash Barrens [foil]
+1 [SLD:470] Command Beacon [foil]
+1 [SLD:471] Fabled Passage [foil]
+1 [SLD:472] Strip Mine [foil]

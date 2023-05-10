@@ -1,0 +1,7 @@
+// NAME: Rule the Room - Foil
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:497] Brimaz, King of Oreskos [foil]
+1 [SLD:498] Arcanis the Omnipotent [foil]
+1 [SLD:499] Queen Marchesa [foil]
+1 [SLD:500] Savra, Queen of the Golgari [foil]

@@ -1,7 +1,0 @@
-// NAME: Legendary Flyers (Not That Kind)
-// SOURCE: scryfall
-// DATE: 2023-05-05
-1 [SLD:1195] Phage the Untouchable
-1 [SLD:1196] Yisan, the Wanderer Bard
-1 [SLD:1197] Alela, Artful Provocateur
-1 [SLD:1198] Sen Triplets

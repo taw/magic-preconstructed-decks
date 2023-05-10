@@ -1,0 +1,8 @@
+// NAME: The Walking Dead - Foil
+// SOURCE: scryfall
+// DATE: 2020-10-13
+1 [SLD:143] Rick, Steadfast Leader [foil]
+1 [SLD:144] Daryl, Hunter of Walkers [foil]
+1 [SLD:145] Glenn, the Voice of Calm [foil]
+1 [SLD:146] Michonne, Ruthless Survivor [foil]
+1 [SLD:147] Negan, the Cold-Blooded [foil]

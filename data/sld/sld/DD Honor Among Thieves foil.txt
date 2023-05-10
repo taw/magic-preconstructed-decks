@@ -1,0 +1,10 @@
+// NAME: D&D: Honor Among Thieves - Foil
+// SOURCE: scryfall
+// DATE: 2023-03-26
+1 [SLD:1237] Xenk, Paladin Unbroken [foil]
+1 [SLD:1238] Simon, Wild Magic Sorcerer [foil]
+1 [SLD:1239] Forge, Neverwinter Charlatan [foil]
+1 [SLD:1240] Holga, Relentless Rager [foil]
+1 [SLD:1241] Doric, Nature's Warden // Doric, Owlbear Avenger [foil]
+1 [SLD:1241] Doric, Nature's Warden // Doric, Owlbear Avenger [foil]
+1 [SLD:1242] Edgin, Larcenous Lutenist [foil]

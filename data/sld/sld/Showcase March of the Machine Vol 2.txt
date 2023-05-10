@@ -1,8 +1,0 @@
-// NAME: Showcase: March of the Machine, Vol. 2
-// SOURCE: scryfall
-// DATE: 2023-04-23
-1 [SLD:1267] Higure, the Still Wind
-1 [SLD:1268] Nezahal, Primal Tide
-1 [SLD:1269] Dragonlord Kolaghan
-1 [SLD:1270] Mina and Denn, Wildborn
-1 [SLD:1271] Xantcha, Sleeper Agent

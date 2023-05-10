@@ -1,0 +1,7 @@
+// NAME: Artist Series: Sam Burley - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1247] Braid of Fire [foil]
+1 [SLD:1248] Koth of the Hammer [foil]
+1 [SLD:1249] Master of the Wild Hunt [foil]
+1 [SLD:1250] Karrthus, Tyrant of Jund [foil]

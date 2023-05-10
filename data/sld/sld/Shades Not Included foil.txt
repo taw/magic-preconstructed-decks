@@ -1,0 +1,8 @@
+// NAME: Shades Not Included - Foil
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:415] Plains [foil]
+1 [SLD:416] Island [foil]
+1 [SLD:417] Swamp [foil]
+1 [SLD:418] Mountain [foil]
+1 [SLD:419] Forest [foil]

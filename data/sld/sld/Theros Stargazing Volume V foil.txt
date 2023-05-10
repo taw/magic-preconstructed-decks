@@ -1,0 +1,6 @@
+// NAME: Theros Stargazing, Volume V - Foil
+// SOURCE: scryfall
+// DATE: 2020-02-14
+1 [SLD:80] Nylea, God of the Hunt [foil]
+1 [SLD:81] Xenagos, God of Revels [foil]
+1 [SLD:82] Pharika, God of Affliction [foil]

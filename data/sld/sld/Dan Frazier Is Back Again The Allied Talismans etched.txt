@@ -1,0 +1,8 @@
+// NAME: Dan Frazier Is Back Again: The Allied Talismans - Foil Etched
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1052] Talisman of Progress [foil]
+1 [SLD:1053] Talisman of Dominance [foil]
+1 [SLD:1054] Talisman of Indulgence [foil]
+1 [SLD:1055] Talisman of Impulse [foil]
+1 [SLD:1056] Talisman of Unity [foil]

@@ -1,0 +1,6 @@
+// NAME: Theros Stargazing, Volume II - Foil
+// SOURCE: scryfall
+// DATE: 2020-02-14
+1 [SLD:71] Thassa, God of the Sea [foil]
+1 [SLD:72] Ephara, God of the Polis [foil]
+1 [SLD:73] Kruphix, God of Horizons [foil]

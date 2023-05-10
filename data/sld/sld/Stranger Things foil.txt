@@ -1,0 +1,11 @@
+// NAME: Stranger Things - Foil
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:340] Arvinox, the Mind Flail [foil]
+1 [SLD:341] Sophina, Spearsage Deserter [foil]
+1 [SLD:342] Hargilde, Kindly Runechanter [foil]
+1 [SLD:343] Cecily, Haunted Mage [foil]
+1 [SLD:344] Bjorna, Nightfall Alchemist [foil]
+1 [SLD:345] Elmar, Ulvenwald Informant [foil]
+1 [SLD:346] Othelm, Sigardian Outcast [foil]
+1 [SLD:347] Wernog, Rider's Chaplain [foil]

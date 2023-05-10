@@ -1,0 +1,8 @@
+// NAME: Hope You Like Squirrels - Foil
+// SOURCE: scryfall
+// DATE: 2020-11-30
+1 [SLD:195] Chatter of the Squirrel [foil]
+1 [SLD:196] Krosan Beast [foil]
+1 [SLD:197] Squirrel Mob [foil]
+1 [SLD:198] Squirrel Wrangler [foil]
+1 [SLD:199] Swarmyard [foil]

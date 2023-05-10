@@ -1,0 +1,8 @@
+// NAME: Li’l’ler Walkers - Foil
+// SOURCE: scryfall
+// DATE: 2022-11-14
+1 [SLD:1140] Elspeth, Sun's Champion [foil]
+1 [SLD:1141] Narset, Parter of Veils [foil]
+1 [SLD:1142] Garruk Wildspeaker [foil]
+1 [SLD:1143] Saheeli, Sublime Artificer [foil]
+1 [SLD:1144] Sarkhan Vol [foil]

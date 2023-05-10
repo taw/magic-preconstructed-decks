@@ -1,0 +1,8 @@
+// NAME: Transformers: One Shall Stand, One Shall Fall - Foil
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1088] Plains [foil]
+1 [SLD:1089] Island [foil]
+1 [SLD:1090] Swamp [foil]
+1 [SLD:1091] Mountain [foil]
+1 [SLD:1092] Forest [foil]

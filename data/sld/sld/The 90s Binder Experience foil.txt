@@ -1,0 +1,8 @@
+// NAME: The '90s Binder Experience - Foil
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1227] Alms Collector [foil]
+1 [SLD:1228] Crested Sunmare [foil]
+1 [SLD:1229] Goreclaw, Terror of Qal Sisma [foil]
+1 [SLD:1230] Rin and Seri, Inseparable [foil]
+1 [SLD:1231] Exotic Orchard [foil]
