@@ -1,0 +1,6 @@
+// NAME: Theros Stargazing, Volume IV
+// SOURCE: scryfall
+// DATE: 2020-02-14
+1 [SLD:77] Purphoros, God of the Forge
+1 [SLD:78] Mogis, God of Slaughter
+1 [SLD:79] Keranos, God of Storms

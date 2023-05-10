@@ -1,0 +1,8 @@
+// NAME: Phyrexian Faves
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1203] Blighted Agent
+1 [SLD:1204] K'rrik, Son of Yawgmoth
+1 [SLD:1205] Glistener Elf
+1 [SLD:1206] Batterskull
+1 [SLD:1207] Inkmoth Nexus

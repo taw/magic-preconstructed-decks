@@ -1,0 +1,7 @@
+// NAME: Purrfection
+// SOURCE: scryfall
+// DATE: 2021-10-22
+1 [SLD:369] Generous Gift
+1 [SLD:370] Chain Lightning
+1 [SLD:371] Kodama's Reach
+1 [SLD:372] Heirloom Blade

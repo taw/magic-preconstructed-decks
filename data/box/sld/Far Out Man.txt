@@ -1,0 +1,8 @@
+// NAME: Far Out, Man
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:330] Aether Gust
+1 [SLD:331] Counterspell
+1 [SLD:332] Fabricate
+1 [SLD:333] Fact or Fiction
+1 [SLD:334] Mystical Tutor

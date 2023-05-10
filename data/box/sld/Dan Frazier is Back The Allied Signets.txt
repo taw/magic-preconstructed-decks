@@ -1,0 +1,8 @@
+// NAME: Dan Frazier is Back: The Allied Signets
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:286] Azorius Signet
+1 [SLD:287] Dimir Signet
+1 [SLD:288] Gruul Signet
+1 [SLD:289] Rakdos Signet
+1 [SLD:290] Selesnya Signet

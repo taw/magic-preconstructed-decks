@@ -1,0 +1,8 @@
+// NAME: OMG KITTIES!
+// SOURCE: scryfall
+// DATE: 2019-12-09
+1 [SLD:22] Leonin Warleader
+1 [SLD:23] Regal Caracal
+1 [SLD:24] Qasali Slingers
+1 [SLD:25] Arahbo, Roar of the World
+1 [SLD:26] Mirri, Weatherlight Duelist

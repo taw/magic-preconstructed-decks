@@ -1,0 +1,8 @@
+// NAME: Dan Frazier Is Back Again: The Allied Talismans
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1052] Talisman of Progress
+1 [SLD:1053] Talisman of Dominance
+1 [SLD:1054] Talisman of Indulgence
+1 [SLD:1055] Talisman of Impulse
+1 [SLD:1056] Talisman of Unity

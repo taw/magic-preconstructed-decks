@@ -1,0 +1,6 @@
+// NAME: Showcase: Kaldheim – Part 2
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:223] Grave Titan
+1 [SLD:224] Inferno Titan
+1 [SLD:225] Kroxa, Titan of Death's Hunger

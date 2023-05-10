@@ -1,0 +1,7 @@
+// NAME: Special Guest: Jen Bartel
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:282] Mesa Enchantress
+1 [SLD:283] Archaeomancer
+1 [SLD:284] Bloom Tender
+1 [SLD:285] Meteor Golem

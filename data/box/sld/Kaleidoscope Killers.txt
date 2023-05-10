@@ -1,0 +1,6 @@
+// NAME: Kaleidoscope Killers
+// SOURCE: scryfall
+// DATE: 2019-12-08
+1 [SLD:9] Reaper King
+1 [SLD:10] Sliver Overlord
+1 [SLD:11] The Ur-Dragon

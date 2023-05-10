@@ -1,0 +1,8 @@
+// NAME: Crocodile Jackson's Monstrous Menagerie
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:305] Ravenous Chupacabra
+1 [SLD:306] Managorger Hydra
+1 [SLD:307] Pathbreaker Ibex
+1 [SLD:308] Temur Sabertooth
+1 [SLD:309] Winding Constrictor

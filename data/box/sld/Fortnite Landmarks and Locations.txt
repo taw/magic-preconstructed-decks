@@ -1,0 +1,8 @@
+// NAME: Fortnite: Landmarks and Locations
+// SOURCE: scryfall
+// DATE: 2022-07-07
+1 [SLD:448] Plains
+1 [SLD:449] Island
+1 [SLD:450] Swamp
+1 [SLD:451] Mountain
+1 [SLD:452] Forest

@@ -1,0 +1,7 @@
+// NAME: Cool Ocean Breeze
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1277] Llawan, Cephalid Empress
+1 [SLD:1278] Master of Waves
+1 [SLD:1279] Thassa, Deep-Dwelling
+1 [SLD:1280] Thassa's Oracle

@@ -1,0 +1,11 @@
+// NAME: Street Fighter
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:428] Baldin, Century Herdmaster
+1 [SLD:429] Vikya, Scorching Stalwart
+1 [SLD:430] Aisha of Sparks and Smoke
+1 [SLD:431] The Howling Abomination
+1 [SLD:432] Zethi, Arcane Blademaster
+1 [SLD:433] Tadeas, Juniper Ascendant
+1 [SLD:434] Immard, the Stormcleaver
+1 [SLD:435] Maarika, Brutal Gladiator

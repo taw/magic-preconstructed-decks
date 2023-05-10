@@ -1,0 +1,7 @@
+// NAME: If Looks Could Kill
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1106] Azami, Lady of Scrolls
+1 [SLD:1107] Liliana of the Dark Realms
+1 [SLD:1108] Reflector Mage
+1 [SLD:1109] Adaptive Automaton

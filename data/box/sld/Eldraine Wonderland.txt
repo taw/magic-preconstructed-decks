@@ -1,0 +1,8 @@
+// NAME: Eldraine Wonderland
+// SOURCE: scryfall
+// DATE: 2019-12-04
+1 [SLD:1] Snow-Covered Plains
+1 [SLD:2] Snow-Covered Island
+1 [SLD:3] Snow-Covered Swamp
+1 [SLD:4] Snow-Covered Mountain
+1 [SLD:5] Snow-Covered Forest

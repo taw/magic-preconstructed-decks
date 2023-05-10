@@ -1,0 +1,8 @@
+// NAME: Prime Slime
+// SOURCE: scryfall
+// DATE: 2020-08-19
+1 [SLD:133] Necrotic Ooze
+1 [SLD:134] Acidic Slime
+1 [SLD:135] Scavenging Ooze
+1 [SLD:136] The Mimeoplasm
+1 [SLD:137] Voidslime

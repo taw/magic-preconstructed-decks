@@ -1,0 +1,8 @@
+// NAME: Li’l’ler Walkers
+// SOURCE: scryfall
+// DATE: 2022-11-14
+1 [SLD:1140] Elspeth, Sun's Champion
+1 [SLD:1141] Narset, Parter of Veils
+1 [SLD:1142] Garruk Wildspeaker
+1 [SLD:1143] Saheeli, Sublime Artificer
+1 [SLD:1144] Sarkhan Vol

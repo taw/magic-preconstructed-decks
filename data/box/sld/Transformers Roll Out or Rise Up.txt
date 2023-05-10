@@ -1,0 +1,9 @@
+// NAME: Transformers: Roll Out or Rise Up
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1082] True Conviction
+1 [SLD:1083] Dramatic Reversal
+1 [SLD:1084] Fabricate
+1 [SLD:1085] Collective Brutality
+1 [SLD:1086] By Force
+1 [SLD:1087] Greater Good

@@ -1,0 +1,8 @@
+// NAME: Monster Anatomy 101
+// SOURCE: scryfall
+// DATE: 2021-10-18
+1 [SLD:316] Fleet Swallower
+1 [SLD:317] Goblin Trashmaster
+1 [SLD:318] Ilharg, the Raze-Boar
+1 [SLD:319] Protean Hulk
+1 [SLD:320] Gishath, Sun's Avatar

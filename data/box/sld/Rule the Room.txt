@@ -1,0 +1,7 @@
+// NAME: Rule the Room
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:497] Brimaz, King of Oreskos
+1 [SLD:498] Arcanis the Omnipotent
+1 [SLD:499] Queen Marchesa
+1 [SLD:500] Savra, Queen of the Golgari

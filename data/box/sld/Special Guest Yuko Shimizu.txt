@@ -1,0 +1,7 @@
+// NAME: Special Guest: Yuko Shimizu
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:420] Hokori, Dust Drinker
+1 [SLD:421] Kira, Great Glass-Spinner
+1 [SLD:422] Eidolon of the Great Revel
+1 [SLD:423] Elvish Spirit Guide

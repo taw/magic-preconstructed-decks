@@ -1,0 +1,8 @@
+// NAME: The Art of Frank Frazetta
+// SOURCE: scryfall
+// DATE: 2022-12-05
+1 [SLD:1168] Field Marshal
+1 [SLD:1169] Temporal Manipulation
+1 [SLD:1170] Dark Ritual
+1 [SLD:1171] Midnight Reaper
+1 [SLD:1172] Seize the Day

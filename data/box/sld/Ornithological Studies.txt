@@ -1,0 +1,8 @@
+// NAME: Ornithological Studies
+// SOURCE: scryfall
+// DATE: 2020-06-05
+1 [SLD:91] Swan Song
+1 [SLD:92] Birds of Paradise
+1 [SLD:93] Gilded Goose
+1 [SLD:94] Baleful Strix
+1 [SLD:95] Dovescape

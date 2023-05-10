@@ -1,0 +1,7 @@
+// NAME: Artist Series: Volkan Baga
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:1001] Elspeth, Knight-Errant
+1 [SLD:1002] Patron Wizard
+1 [SLD:1003] Berserk
+1 [SLD:1004] Verduran Enchantress

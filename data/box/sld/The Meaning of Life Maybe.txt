@@ -1,0 +1,8 @@
+// NAME: The Meaning of Life, Maybe
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1177] Forced Fruition
+1 [SLD:1178] Future Sight
+1 [SLD:1179] Mental Misstep
+1 [SLD:1180] Mind's Dilation
+1 [SLD:1181] Well of Lost Dreams

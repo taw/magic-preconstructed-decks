@@ -1,0 +1,6 @@
+// NAME: Theros Stargazing, Volume I
+// SOURCE: scryfall
+// DATE: 2020-02-14
+1 [SLD:68] Heliod, God of the Sun
+1 [SLD:69] Karametra, God of Harvests
+1 [SLD:70] Iroas, God of Victory

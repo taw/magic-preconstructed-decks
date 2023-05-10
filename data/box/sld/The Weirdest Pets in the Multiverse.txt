@@ -1,0 +1,8 @@
+// NAME: The Weirdest Pets in the Multiverse
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1097] Laboratory Maniac
+1 [SLD:1098] Stitcher's Supplier
+1 [SLD:1099] Beast Whisperer
+1 [SLD:1100] Vizier of the Menagerie
+1 [SLD:1101] Wood Elves

@@ -1,0 +1,8 @@
+// NAME: Mirrodinsanity
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:300] Ancient Den
+1 [SLD:301] Seat of the Synod
+1 [SLD:302] Vault of Whispers
+1 [SLD:303] Great Furnace
+1 [SLD:304] Tree of Tales

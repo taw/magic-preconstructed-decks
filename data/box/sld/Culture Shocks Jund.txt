@@ -1,0 +1,5 @@
+// NAME: Culture Shocks: Jund
+// SOURCE: scryfall
+// DATE: 2021-04-26
+1 [SLD:125] Blood Crypt
+1 [SLD:130] Overgrown Tomb

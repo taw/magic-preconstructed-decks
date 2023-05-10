@@ -1,0 +1,7 @@
+// NAME: Artist Series: Alayna Danner
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1289] Linvala, Keeper of Silence
+1 [SLD:1290] Sunblast Angel
+1 [SLD:1291] Emeria, the Sky Ruin
+1 [SLD:1292] Seraph Sanctuary

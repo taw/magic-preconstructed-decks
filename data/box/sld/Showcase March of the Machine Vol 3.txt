@@ -1,0 +1,8 @@
+// NAME: Showcase: March of the Machine, Vol. 3
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1272] Misdirection
+1 [SLD:1273] Utvara Hellkite
+1 [SLD:1274] Kogla, the Titan Ape
+1 [SLD:1275] Nyxbloom Ancient
+1 [SLD:1276] Jhoira, Weatherlight Captain

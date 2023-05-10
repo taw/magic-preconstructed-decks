@@ -1,0 +1,7 @@
+// NAME: Wizards of the Street
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1164] Baral, Chief of Compliance
+1 [SLD:1165] Spellseeker
+1 [SLD:1166] Magus of the Wheel
+1 [SLD:1167] Kess, Dissident Mage

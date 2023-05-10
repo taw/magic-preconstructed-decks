@@ -1,0 +1,8 @@
+// NAME: Showcase: All Will Be One
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1213] Phyrexian Unlife
+1 [SLD:1214] Phyrexian Crusader
+1 [SLD:1215] Plague Engineer
+1 [SLD:1216] Ertai, the Corrupted
+1 [SLD:1217] Glissa, the Traitor

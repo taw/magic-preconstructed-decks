@@ -1,0 +1,6 @@
+// NAME: April Fools
+// SOURCE: scryfall
+// DATE: 2020-09-30
+1 [SLD:60] Storm Crow
+1 [SLD:61] Goblin Snowman
+1 [SLD:62] Mudhole

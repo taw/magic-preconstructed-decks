@@ -1,0 +1,8 @@
+// NAME: A Box of Rocks
+// SOURCE: scryfall
+// DATE: 2020-11-30
+1 [SLD:201] Arcane Signet
+1 [SLD:202] Chromatic Lantern
+1 [SLD:203] Commander's Sphere
+1 [SLD:204] Darksteel Ingot
+1 [SLD:205] Gilded Lotus

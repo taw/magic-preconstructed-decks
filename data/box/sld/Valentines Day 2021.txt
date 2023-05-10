@@ -1,0 +1,8 @@
+// NAME: Valentine's Day 2021
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:214] Heliod, Sun-Crowned
+1 [SLD:215] Goblin Rabblemaster
+1 [SLD:216] Monastery Swiftspear
+1 [SLD:217] Boros Charm
+1 [SLD:218] Gisela, Blade of Goldnight

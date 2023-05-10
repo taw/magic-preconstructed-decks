@@ -1,0 +1,7 @@
+// NAME: Artist Series: Rebecca Guay
+// SOURCE: scryfall
+// DATE: 2023-04-23
+1 [SLD:1251] Cleansing Nova
+1 [SLD:1252] Serra the Benevolent
+1 [SLD:1253] Stoneforge Mystic
+1 [SLD:1254] Muddle the Mixture

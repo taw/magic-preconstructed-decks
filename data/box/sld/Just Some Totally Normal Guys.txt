@@ -1,0 +1,7 @@
+// NAME: Just Some Totally Normal Guys
+// SOURCE: scryfall
+// DATE: 2022-04-12
+1 [SLD:1075] Void Winnower
+1 [SLD:1076] Goblin Settler
+1 [SLD:1077] Collector Ouphe
+1 [SLD:1078] Vengevine

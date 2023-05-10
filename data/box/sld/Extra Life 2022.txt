@@ -1,0 +1,9 @@
+// NAME: Extra Life 2022
+// SOURCE: scryfall
+// DATE: 2022-11-04
+1 [SLD:1145] Lathliss, Dragon Queen
+1 [SLD:1146] Lathliss, Dragon Queen
+1 [SLD:1147] Birds of Paradise
+1 [SLD:1148] Birds of Paradise
+1 [SLD:1149] Sliver Legion
+1 [SLD:1150] Sliver Legion

@@ -1,0 +1,7 @@
+// NAME: Special Guest: Junji Ito
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1114] Carrion Feeder
+1 [SLD:1115] Doomsday
+1 [SLD:1116] Plaguecrafter
+1 [SLD:1117] Thoughtseize

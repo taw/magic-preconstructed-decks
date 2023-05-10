@@ -1,0 +1,13 @@
+// NAME: From Cute to Brute
+// SOURCE: scryfall
+// DATE: 2023-05-08
+1 [SLD:1208] Esika, God of the Tree // The Prismatic Bridge
+1 [SLD:1208] Esika, God of the Tree // The Prismatic Bridge
+1 [SLD:1209] Archangel Avacyn // Avacyn, the Purifier
+1 [SLD:1209] Archangel Avacyn // Avacyn, the Purifier
+1 [SLD:1210] Bloodline Keeper // Lord of Lineage
+1 [SLD:1210] Bloodline Keeper // Lord of Lineage
+1 [SLD:1211] Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 [SLD:1211] Nicol Bolas, the Ravager // Nicol Bolas, the Arisen
+1 [SLD:1212] Westvale Abbey // Ormendahl, Profane Prince
+1 [SLD:1212] Westvale Abbey // Ormendahl, Profane Prince

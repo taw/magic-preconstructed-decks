@@ -1,0 +1,8 @@
+// NAME: Dan Frazier is Back: The Enemy Signets
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:291] Boros Signet
+1 [SLD:292] Golgari Signet
+1 [SLD:293] Izzet Signet
+1 [SLD:294] Orzhov Signet
+1 [SLD:295] Simic Signet

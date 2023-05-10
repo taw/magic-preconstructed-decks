@@ -1,0 +1,7 @@
+// NAME: Special Guest: Kelogsloops
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:406] Mystic Remora
+1 [SLD:407] Retreat to Coralhelm
+1 [SLD:408] Burgeoning
+1 [SLD:409] Utopia Sprawl

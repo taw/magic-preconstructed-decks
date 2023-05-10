@@ -1,0 +1,7 @@
+// NAME: Artist Series: Livia Prima
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:489] Akroma, Angel of Wrath
+1 [SLD:490] Mikaeus, the Unhallowed
+1 [SLD:491] Glissa Sunseeker
+1 [SLD:492] Olivia, Mobilized for War

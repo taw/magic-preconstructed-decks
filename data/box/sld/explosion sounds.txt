@@ -1,0 +1,8 @@
+// NAME: <explosion sounds>
+// SOURCE: scryfall
+// DATE: 2019-12-07
+1 [SLD:17] Goblin Bushwhacker
+1 [SLD:18] Goblin Sharpshooter
+1 [SLD:19] Goblin King
+1 [SLD:20] Goblin Lackey
+1 [SLD:21] Goblin Piledriver

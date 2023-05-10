@@ -1,0 +1,7 @@
+// NAME: Imaginary Friends
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1048] Matter Reshaper
+1 [SLD:1049] Toothy, Imaginary Friend
+1 [SLD:1050] Pir, Imaginative Rascal
+1 [SLD:1051] The Gitrog Monster

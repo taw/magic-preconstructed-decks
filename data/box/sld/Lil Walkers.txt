@@ -1,0 +1,8 @@
+// NAME: Li’l Walkers
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:396] Tamiyo, the Moon Sage
+1 [SLD:397] Ajani, Mentor of Heroes
+1 [SLD:398] Angrath, the Flame-Chained
+1 [SLD:399] Ashiok, Dream Render
+1 [SLD:400] Sorin, Grim Nemesis

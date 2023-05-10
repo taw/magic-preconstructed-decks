@@ -1,0 +1,8 @@
+// NAME: City Styles
+// SOURCE: scryfall
+// DATE: 2023-04-14
+1 [SLD:1232] Sakashima the Impostor
+1 [SLD:1233] Massacre Girl
+1 [SLD:1234] Azusa, Lost but Seeking
+1 [SLD:1235] Teysa Karlov
+1 [SLD:1236] Paradise Mantle

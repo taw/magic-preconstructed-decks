@@ -1,0 +1,13 @@
+// NAME: Happy Little Gathering
+// SOURCE: scryfall
+// DATE: 2020-11-30
+1 [SLD:100] Plains
+1 [SLD:101] Plains
+1 [SLD:102] Island
+1 [SLD:103] Island
+1 [SLD:104] Swamp
+1 [SLD:105] Swamp
+1 [SLD:106] Mountain
+1 [SLD:107] Mountain
+1 [SLD:108] Forest
+1 [SLD:109] Forest

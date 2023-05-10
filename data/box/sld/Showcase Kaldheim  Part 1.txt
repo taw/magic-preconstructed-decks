@@ -1,0 +1,6 @@
+// NAME: Showcase: Kaldheim – Part 1
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:220] Frost Titan
+1 [SLD:221] Primeval Titan
+1 [SLD:222] Uro, Titan of Nature's Wrath

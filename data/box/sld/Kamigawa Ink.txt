@@ -1,0 +1,8 @@
+// NAME: Kamigawa Ink
+// SOURCE: scryfall
+// DATE: 2021-08-24
+1 [SLD:259] Michiko Konda, Truth Seeker
+1 [SLD:260] Kami of the Crescent Moon
+1 [SLD:261] Toshiro Umezawa
+1 [SLD:262] Heartless Hidetsugu
+1 [SLD:263] Reki, the History of Kamigawa

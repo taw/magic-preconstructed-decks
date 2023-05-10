@@ -1,0 +1,8 @@
+// NAME: Bitterblossom Dreams
+// SOURCE: https://secretlair.wizards.com/us/product/594773/bitterblossom-dreams
+// DATE: 2019-12-03
+1 [SLD:12] Bitterblossom
+1 [SLD:13] Faerie Rogue
+1 [SLD:14] Faerie Rogue
+1 [SLD:15] Faerie Rogue
+1 [SLD:16] Faerie Rogue

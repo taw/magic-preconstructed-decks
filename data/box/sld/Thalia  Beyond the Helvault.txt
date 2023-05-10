@@ -1,0 +1,7 @@
+// NAME: Thalia - Beyond the Helvault
+// SOURCE: scryfall
+// DATE: 2020-03-12
+1 [SLD:37] Thalia, Guardian of Thraben
+1 [SLD:38] Thalia, Guardian of Thraben
+1 [SLD:39] Thalia, Guardian of Thraben
+1 [SLD:40] Thalia, Guardian of Thraben

@@ -1,0 +1,9 @@
+// NAME: Artist Series: Mark Poole
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:173] Balance
+1 [SLD:174] Brainstorm
+1 [SLD:175] Counterspell
+1 [SLD:176] Birds of Paradise
+1 [SLD:177] Howling Mine
+1 [SLD:178] Wasteland

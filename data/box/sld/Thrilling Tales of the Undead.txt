@@ -1,0 +1,6 @@
+// NAME: Thrilling Tales of the Undead
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:231] Gravecrawler
+1 [SLD:232] Liliana, Death's Majesty
+1 [SLD:233] Rise of the Dark Realms

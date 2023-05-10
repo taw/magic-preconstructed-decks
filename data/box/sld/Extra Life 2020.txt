@@ -1,0 +1,7 @@
+// NAME: Extra Life 2020
+// SOURCE: scryfall
+// DATE: 2020-11-06
+1 [SLD:164] Teferi's Protection
+1 [SLD:165] Consecrated Sphinx
+1 [SLD:166] Collected Company
+1 [SLD:167] Amulet of Vigor

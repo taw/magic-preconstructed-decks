@@ -1,0 +1,8 @@
+// NAME: The Unfathomable Crushing Brutality of Basic Lands
+// SOURCE: scryfall
+// DATE: 2021-02-12
+1 [SLD:239] Plains
+1 [SLD:240] Island
+1 [SLD:241] Swamp
+1 [SLD:242] Mountain
+1 [SLD:243] Forest

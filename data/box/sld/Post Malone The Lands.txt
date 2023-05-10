@@ -1,0 +1,8 @@
+// NAME: Post Malone: The Lands
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1190] Plains
+1 [SLD:1191] Island
+1 [SLD:1192] Swamp
+1 [SLD:1193] Mountain
+1 [SLD:1194] Forest

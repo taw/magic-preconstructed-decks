@@ -1,0 +1,8 @@
+// NAME: Showcase: Dominaria United
+// SOURCE: scryfall
+// DATE: 2022-11-02
+1 [SLD:1067] Arcades Sabboth
+1 [SLD:1068] Chromium
+1 [SLD:1069] Nicol Bolas
+1 [SLD:1070] Vaevictis Asmadi
+1 [SLD:1071] Palladia-Mors

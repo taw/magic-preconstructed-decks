@@ -1,0 +1,7 @@
+// NAME: Artist Series: Magali Villeneuve
+// SOURCE: scryfall
+// DATE: 2022-04-11
+1 [SLD:473] Mother of Runes
+1 [SLD:474] Death's Shadow
+1 [SLD:475] Elvish Mystic
+1 [SLD:476] Forest

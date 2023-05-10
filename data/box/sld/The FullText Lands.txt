@@ -1,0 +1,8 @@
+// NAME: The Full-Text Lands
+// SOURCE: scryfall
+// DATE: 2021-04-26
+1 [SLD:254] Plains
+1 [SLD:255] Island
+1 [SLD:256] Swamp
+1 [SLD:257] Mountain
+1 [SLD:258] Forest

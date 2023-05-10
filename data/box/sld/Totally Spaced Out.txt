@@ -1,0 +1,7 @@
+// NAME: Totally Spaced Out
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:469] Ash Barrens
+1 [SLD:470] Command Beacon
+1 [SLD:471] Fabled Passage
+1 [SLD:472] Strip Mine

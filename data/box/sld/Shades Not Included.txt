@@ -1,0 +1,8 @@
+// NAME: Shades Not Included
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:415] Plains
+1 [SLD:416] Island
+1 [SLD:417] Swamp
+1 [SLD:418] Mountain
+1 [SLD:419] Forest

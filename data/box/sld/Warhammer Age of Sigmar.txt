@@ -1,0 +1,8 @@
+// NAME: Warhammer Age of Sigmar
+// SOURCE: scryfall
+// DATE: 2022-11-28
+1 [SLD:1030] Blind Obedience
+1 [SLD:1031] Danitha Capashen, Paragon
+1 [SLD:1032] Najeela, the Blade-Blossom
+1 [SLD:1033] Scourge of the Throne
+1 [SLD:1034] Loxodon Warhammer

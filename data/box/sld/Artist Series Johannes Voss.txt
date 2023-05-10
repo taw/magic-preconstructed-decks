@@ -1,0 +1,7 @@
+// NAME: Artist Series: Johannes Voss
+// SOURCE: scryfall
+// DATE: 2021-08-24
+1 [SLD:278] Sanctum Prelate
+1 [SLD:279] Carpet of Flowers
+1 [SLD:280] Sphere of Safety
+1 [SLD:281] Karmic Guide

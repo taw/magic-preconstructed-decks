@@ -1,0 +1,8 @@
+// NAME: Full Sleeves: The Tattoo Pack
+// SOURCE: scryfall
+// DATE: 2020-06-01
+1 [SLD:41] Spell Pierce
+1 [SLD:42] Blood Artist
+1 [SLD:43] Eternal Witness
+1 [SLD:44] Pithing Needle
+1 [SLD:45] Inkmoth Nexus

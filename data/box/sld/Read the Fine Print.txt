@@ -1,0 +1,8 @@
+// NAME: Read the Fine Print
+// SOURCE: scryfall
+// DATE: 2021-10-15
+1 [SLD:159] Demonlord Belzenlok
+1 [SLD:160] Griselbrand
+1 [SLD:161] Liliana's Contract
+1 [SLD:162] Kothophed, Soul Hoarder
+1 [SLD:163] Razaketh, the Foulblooded

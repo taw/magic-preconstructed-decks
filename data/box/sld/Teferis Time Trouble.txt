@@ -1,0 +1,6 @@
+// NAME: Teferi's Time Trouble
+// SOURCE: scryfall
+// DATE: 2021-08-24
+1 [SLD:251] Dack Fayden
+1 [SLD:252] Teferi, Time Raveler
+1 [SLD:253] Karn, the Great Creator

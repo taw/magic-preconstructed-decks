@@ -1,0 +1,8 @@
+// NAME: Phyrexian Praetors: Compleat Edition
+// SOURCE: scryfall
+// DATE: 2021-06-21
+1 [SLD:209] Elesh Norn, Grand Cenobite
+1 [SLD:210] Jin-Gitaxias, Core Augur
+1 [SLD:211] Sheoldred, Whispering One
+1 [SLD:212] Urabrask the Hidden
+1 [SLD:213] Vorinclex, Voice of Hunger

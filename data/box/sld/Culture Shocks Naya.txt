@@ -1,0 +1,6 @@
+// NAME: Culture Shocks: Naya
+// SOURCE: scryfall
+// DATE: 2021-04-26
+1 [SLD:126] Stomping Ground
+1 [SLD:127] Temple Garden
+1 [SLD:131] Sacred Foundry

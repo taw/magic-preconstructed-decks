@@ -1,0 +1,8 @@
+// NAME: Li'l Giri Saves the Day
+// SOURCE: scryfall
+// DATE: 2022-08-11
+1 [SLD:401] Peek
+1 [SLD:402] Greed
+1 [SLD:403] Curiosity
+1 [SLD:404] Vandalblast
+1 [SLD:405] Last Chance

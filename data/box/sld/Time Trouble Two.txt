@@ -1,0 +1,6 @@
+// NAME: Time Trouble Two
+// SOURCE: scryfall
+// DATE: 2022-12-02
+1 [SLD:1041] Narset, Parter of Veils
+1 [SLD:1042] Nissa, Who Shakes the World
+1 [SLD:1043] Tezzeret, Agent of Bolas

@@ -1,0 +1,8 @@
+// NAME: The Tokyo Lands
+// SOURCE: scryfall
+// DATE: 2022-06-13
+1 [SLD:46] Plains
+1 [SLD:47] Island
+1 [SLD:48] Swamp
+1 [SLD:49] Mountain
+1 [SLD:50] Forest

@@ -1,0 +1,8 @@
+// NAME: Party Hard, Shred Harder
+// SOURCE: scryfall
+// DATE: 2020-11-30
+1 [SLD:138] Anguished Unmaking
+1 [SLD:139] Assassin's Trophy
+1 [SLD:140] Decimate
+1 [SLD:141] Dreadbore
+1 [SLD:142] Thraximundar

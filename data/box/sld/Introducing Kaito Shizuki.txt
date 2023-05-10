@@ -1,0 +1,8 @@
+// NAME: Introducing: Kaito Shizuki
+// SOURCE: scryfall
+// DATE: 2022-02-18
+1 [SLD:410] Brain Freeze
+1 [SLD:411] Bribery
+1 [SLD:412] Snap
+1 [SLD:413] Unmask
+1 [SLD:414] Shadow of Doubt

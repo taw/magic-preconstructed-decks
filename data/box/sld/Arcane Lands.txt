@@ -1,0 +1,8 @@
+// NAME: Arcane: Lands
+// SOURCE: scryfall
+// DATE: 2021-11-29
+1 [SLD:484] Plains
+1 [SLD:485] Island
+1 [SLD:486] Swamp
+1 [SLD:487] Mountain
+1 [SLD:488] Forest
