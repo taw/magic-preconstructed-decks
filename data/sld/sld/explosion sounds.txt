@@ -1,6 +1,7 @@
 // NAME: <explosion sounds>
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series_(December_2019)
 // DATE: 2019-12-07
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:503] Gideon, [SLD:521] Domri, [SLD:523] Ral, [SLD:527] Angrath, or [SLD:533] Nahiri
 1 [SLD:17] Goblin Bushwhacker
 1 [SLD:18] Goblin Sharpshooter
 1 [SLD:19] Goblin King
