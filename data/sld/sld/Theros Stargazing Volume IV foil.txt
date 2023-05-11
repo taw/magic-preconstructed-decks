@@ -1,6 +1,7 @@
 // NAME: Theros Stargazing, Volume IV - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Theros_Stargazing
 // DATE: 2020-02-14
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:512] Chandra, [SLD:513] Jaya, [SLD:514] Sarkhan, [SLD:515] Tibalt, [SLD:521] Domri, [SLD:522] Nicol Bolas, [SLD:523] Ral, [SLD:527] Angrath, [SLD:528] Ashiok, [SLD:533] Nahiri, [SLD:534] Saheeli, or [SLD:535] Samut
 1 [SLD:77] Purphoros, God of the Forge [foil]
 1 [SLD:78] Mogis, God of Slaughter [foil]
 1 [SLD:79] Keranos, God of Storms [foil]
