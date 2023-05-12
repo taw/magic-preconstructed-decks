@@ -1,0 +1,46 @@
+#!/usr/bin/env ruby
+
+require "pry"
+require "pathname"
+
+class ResolveCard
+  def initialize(set, deck_name, card_name, printing)
+    @set = set
+    @deck_name = deck_name
+    @card_name = card_name
+    @printing = printing
+  end
+
+  def deck_path
+    unless @deck_path
+      paths = Pathname.glob("data/*/#{@set}/#{@deck_name}.txt")
+      raise "Can't find deck #{set} / #{deck_name}" unless paths.size == 1
+      @deck_path = paths.first
+    end
+    @deck_path
+  end
+
+  def resolve_line(line)
+    return line unless line =~ /\A\d+\s+#{Regexp.escape(@card_name)}$/
+    "#{line} #{@printing}"
+  end
+
+  def call
+    data = deck_path.read
+    updated = data.split("\n").map do |line|
+      resolve_line(line)
+    end.join("\n") + "\n"
+    if data != updated
+      deck_path.write(updated)
+    else
+      warn "Update failed, no matching lines found"
+    end
+  end
+end
+
+unless ARGV.size == 4
+  STDERR.puts "Usage: #{$0} set deck_name card_name printing"
+  exit 1
+end
+
+ResolveCard.new(*ARGV).call
