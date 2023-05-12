@@ -5,13 +5,17 @@
 1 Lava Tubes
 2 Mishra's Factory [PTC:gb361]
 2 Sulfurous Springs
-12 Swamp
+4 Swamp [PTC:gb370]
+4 Swamp [PTC:gb371]
+4 Swamp [PTC:gb372]
 2 Barbed Sextant
 1 Zuran Orb [PTC:gb350]
 4 Hypnotic Specter [PTC:gb142]
 1 Ihsan's Shade [PTC:gb53]
 4 Knight of Stromgald [PTC:gb138]
-4 Order of the Ebon Hand
+2 Order of the Ebon Hand [PTC:gb42a]
+1 Order of the Ebon Hand [PTC:gb42b]
+1 Order of the Ebon Hand [PTC:gb42c]
 2 Sengir Vampire
 4 Erhnam Djinn [PTC:gb64]
 4 Dark Ritual [PTC:gb129]

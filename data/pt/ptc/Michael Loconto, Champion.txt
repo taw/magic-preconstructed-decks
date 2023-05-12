@@ -1,9 +1,13 @@
 // NAME: Michael Loconto, Champion
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 4 Adarkar Wastes [PTC:ml351]
-4 Island
+2 Island [PTC:ml367]
+1 Island [PTC:ml368]
+1 Island [PTC:ml369]
 4 Mishra's Factory [PTC:ml361]
-7 Plains
+3 Plains [PTC:ml364]
+2 Plains [PTC:ml365]
+2 Plains [PTC:ml366]
 1 Ruins of Trokair [PTC:ml100]
 1 Strip Mine [PTC:ml363]
 2 Svyelunite Temple [PTC:ml102]

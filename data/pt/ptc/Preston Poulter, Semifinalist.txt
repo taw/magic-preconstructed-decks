@@ -1,10 +1,14 @@
 // NAME: Preston Poulter, Semifinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 4 Brushland [PTC:pp352]
-4 Forest
+2 Forest [PTC:pp376]
+1 Forest [PTC:pp377]
+1 Forest [PTC:pp378]
 2 Havenwood Battleground [PTC:pp96]
 4 Mishra's Factory [PTC:pp361]
-8 Plains
+3 Plains [PTC:pp364]
+3 Plains [PTC:pp365]
+2 Plains [PTC:pp366]
 1 Ruins of Trokair [PTC:pp100]
 2 Strip Mine [PTC:pp363]
 2 Aeolipile [PTC:pp81]

@@ -2,9 +2,13 @@
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 4 Adarkar Wastes [PTC:shr351]
 1 City of Brass [PTC:shr112]
-4 Island
+2 Island [PTC:shr367]
+1 Island [PTC:shr368]
+1 Island [PTC:shr369]
 3 Mishra's Factory [PTC:shr361]
-6 Plains
+2 Plains [PTC:shr364]
+2 Plains [PTC:shr365]
+2 Plains [PTC:shr366]
 1 Ruins of Trokair [PTC:shr100]
 4 Svyelunite Temple [PTC:shr102]
 3 Icy Manipulator [PTC:shr322]

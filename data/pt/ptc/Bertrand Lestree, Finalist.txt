@@ -2,8 +2,12 @@
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 4 Brushland [PTC:bl352]
 1 Havenwood Battleground [PTC:bl96]
-6 Forest
-6 Plains
+2 Forest [PTC:bl376]
+2 Forest [PTC:bl377]
+2 Forest [PTC:bl378]
+2 Plains [PTC:bl364]
+2 Plains [PTC:bl365]
+2 Plains [PTC:bl366]
 1 Ruins of Trokair [PTC:bl100]
 4 Strip Mine [PTC:bl363]
 2 Fellwar Stone [PTC:bl319]

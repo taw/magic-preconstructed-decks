@@ -2,7 +2,9 @@
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 2 Ebon Stronghold
 4 Strip Mine [PTC:ll363]
-17 Swamp
+6 Swamp [PTC:ll370]
+6 Swamp [PTC:ll371]
+5 Swamp [PTC:ll372]
 1 Ivory Tower [PTC:ll328]
 1 Jalum Tome [PTC:ll54]
 2 Nevinyrral's Disk [PTC:ll338]
@@ -10,7 +12,9 @@
 1 Zuran Orb [PTC:ll350]
 4 Hypnotic Specter [PTC:ll142]
 3 Knight of Stromgald [PTC:ll138]
-4 Order of the Ebon Hand
+2 Order of the Ebon Hand [PTC:ll42a]
+1 Order of the Ebon Hand [PTC:ll42b]
+1 Order of the Ebon Hand [PTC:ll42c]
 1 Dance of the Dead
 1 Dark Banishing [PTC:ll119]
 4 Dark Ritual [PTC:ll129]

@@ -5,8 +5,12 @@
 1 Havenwood Battleground [PTC:mj96]
 4 Karplusan Forest [PTC:mj356]
 4 Mishra's Factory [PTC:mj361]
-3 Mountain
-3 Plains
+1 Mountain [PTC:mj373]
+1 Mountain [PTC:mj374]
+1 Mountain [PTC:mj375]
+1 Plains [PTC:mj364]
+1 Plains [PTC:mj365]
+1 Plains [PTC:mj366]
 1 Black Vise [PTC:mj299]
 1 Elkin Bottle
 1 Feldon's Cane [PTC:mj50]
