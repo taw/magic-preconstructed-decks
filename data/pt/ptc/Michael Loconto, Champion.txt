@@ -1,5 +1,6 @@
 // NAME: Michael Loconto, Champion
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
 4 Adarkar Wastes [PTC:ml351]
 2 Island [PTC:ml367]
 1 Island [PTC:ml368]

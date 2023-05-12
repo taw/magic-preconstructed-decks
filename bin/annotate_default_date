@@ -13,7 +13,7 @@ end
 def set_release_date(set_code)
   set_data = JSON.parse((set_data_base + "#{set_code}.json").read)
   release_date = set_data["releaseDate"]
-  raise "Unknown or invalid release date for #{set_code} - #{release_date.inspect}" unless release_date =~ /\A20\d\d-\d\d-\d\d\z/
+  raise "Unknown or invalid release date for #{set_code} - #{release_date.inspect}" unless release_date =~ /\A(?:199\d|20\d\d)-\d\d-\d\d\z/
   release_date
 end
 

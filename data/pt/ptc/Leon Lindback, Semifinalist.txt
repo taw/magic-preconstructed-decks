@@ -1,5 +1,6 @@
 // NAME: Leon Lindback, Semifinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
 2 Ebon Stronghold
 4 Strip Mine [PTC:ll363]
 6 Swamp [PTC:ll370]

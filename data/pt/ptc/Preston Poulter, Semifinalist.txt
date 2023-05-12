@@ -1,5 +1,6 @@
 // NAME: Preston Poulter, Semifinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
 4 Brushland [PTC:pp352]
 2 Forest [PTC:pp376]
 1 Forest [PTC:pp377]

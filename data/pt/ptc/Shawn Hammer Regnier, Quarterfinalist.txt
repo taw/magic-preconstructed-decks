@@ -1,5 +1,6 @@
 // NAME: Shawn "Hammer" Regnier, Quarterfinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
 4 Adarkar Wastes [PTC:shr351]
 1 City of Brass [PTC:shr112]
 2 Island [PTC:shr367]
