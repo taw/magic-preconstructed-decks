@@ -1,39 +1,40 @@
 // NAME: Michael Loconto, Champion
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
-4 Adarkar Wastes
+4 Adarkar Wastes [PTC:ml351]
 4 Island
-4 Mishra's Factory
+4 Mishra's Factory [PTC:ml361]
 7 Plains
-1 Ruins of Trokair
-1 Strip Mine
-2 Svyelunite Temple
+1 Ruins of Trokair [PTC:ml100]
+1 Strip Mine [PTC:ml363]
+2 Svyelunite Temple [PTC:ml102]
 1 Wizards' School
-1 Feldon's Cane
-2 Fountain of Youth
-2 Icy Manipulator
-1 Ivory Tower
-1 Jayemdae Tome
-3 Millstone
-1 Zuran Orb
-2 Blinking Spirit
-1 Balance
-4 Disenchant
+1 Feldon's Cane [PTC:ml50]
+2 Fountain of Youth [PTC:ml98]
+2 Icy Manipulator [PTC:ml322]
+1 Ivory Tower [PTC:ml328]
+1 Jayemdae Tome [PTC:ml331]
+3 Millstone [PTC:ml336]
+1 Zuran Orb [PTC:ml350]
+2 Blinking Spirit [PTC:ml8]
+1 Balance [PTC:ml6]
+4 Disenchant [PTC:ml22]
 2 Hallowed Ground
-2 Land Tax
-4 Swords to Plowshares
-4 Wrath of God
-2 Control Magic
-4 Counterspell
+2 Land Tax [PTC:ml34]
+4 Swords to Plowshares [PTC:ml52]
+4 Wrath of God [PTC:ml58]
+2 Control Magic [PTC:ml64]
+4 Counterspell [PTC:ml65]
 1 Deflection
-1 Recall
+1 Recall [PTC:ml24]
 
 Sideboard
-2 Aeolipile
-1 Jester's Cap
-2 Serrated Arrows
-2 Circle of Protection: Red
-1 Divine Offering
-1 Control Magic
+2 Aeolipile [PTC:ml81sb]
+1 Jester's Cap [PTC:ml324sb]
+2 Serrated Arrows [PTC:ml110sb]
+1 Circle of Protection: Red [PTC:ml15sb]
+1 Circle of Protection: Red [PTC:ml17sb]
+1 Divine Offering [PTC:ml6sb]
+1 Control Magic [PTC:ml64sb]
 2 Hydroblast
-2 Sea Sprite
-2 Steal Artifact
+2 Sea Sprite [PTC:ml38sb]
+2 Steal Artifact [PTC:ml105sb]

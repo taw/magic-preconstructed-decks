@@ -1,37 +1,37 @@
 // NAME: Mark Justice, Quarterfinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
-2 City of Brass
+2 City of Brass [PTC:mj112]
 4 Dwarven Ruins
-1 Havenwood Battleground
-4 Karplusan Forest
-4 Mishra's Factory
+1 Havenwood Battleground [PTC:mj96]
+4 Karplusan Forest [PTC:mj356]
+4 Mishra's Factory [PTC:mj361]
 3 Mountain
 3 Plains
-1 Black Vise
+1 Black Vise [PTC:mj299]
 1 Elkin Bottle
-1 Feldon's Cane
-3 Fellwar Stone
+1 Feldon's Cane [PTC:mj50]
+3 Fellwar Stone [PTC:mj319]
 4 Howling Mine
-4 Icy Manipulator
-1 Ivory Tower
-1 Jester's Cap
+4 Icy Manipulator [PTC:mj322]
+1 Ivory Tower [PTC:mj328]
+1 Jester's Cap [PTC:mj324]
 3 Winter Orb
-1 Zuran Orb
-2 Stormbind
-1 Balance
-3 Swords to Plowshares
-1 Detonate
-1 Earthquake
-3 Fireball
-2 Incinerate
-4 Lightning Bolt
-2 Shatter
+1 Zuran Orb [PTC:mj350]
+2 Stormbind [PTC:mj304]
+1 Balance [PTC:mj6]
+3 Swords to Plowshares [PTC:mj52]
+1 Detonate [PTC:mj184]
+1 Earthquake [PTC:mj189]
+3 Fireball [PTC:mj192]
+2 Incinerate [PTC:mj194]
+4 Lightning Bolt [PTC:mj208]
+2 Shatter [PTC:mj219]
 
 Sideboard
-2 Fountain of Youth
-3 Serrated Arrows
+2 Fountain of Youth [PTC:mj98sb]
+3 Serrated Arrows [PTC:mj110sb]
 2 Anarchy
-1 Detonate
+1 Detonate [PTC:mj184sb]
 2 Eron the Relentless
 3 Pyroblast
-2 Shatter
+2 Shatter [PTC:mj219sb]

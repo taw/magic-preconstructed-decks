@@ -1,34 +1,37 @@
 // NAME: Leon Lindback, Semifinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
 2 Ebon Stronghold
-4 Strip Mine
+4 Strip Mine [PTC:ll363]
 17 Swamp
-1 Ivory Tower
-1 Jalum Tome
-2 Nevinyrral's Disk
-2 Serrated Arrows
-1 Zuran Orb
-4 Hypnotic Specter
-3 Knight of Stromgald
+1 Ivory Tower [PTC:ll328]
+1 Jalum Tome [PTC:ll54]
+2 Nevinyrral's Disk [PTC:ll338]
+2 Serrated Arrows [PTC:ll110]
+1 Zuran Orb [PTC:ll350]
+4 Hypnotic Specter [PTC:ll142]
+3 Knight of Stromgald [PTC:ll138]
 4 Order of the Ebon Hand
 1 Dance of the Dead
-1 Dark Banishing
-4 Dark Ritual
+1 Dark Banishing [PTC:ll119]
+4 Dark Ritual [PTC:ll129]
 4 Drain Life
-4 Hymn to Tourach
+1 Hymn to Tourach [PTC:ll38a]
+1 Hymn to Tourach [PTC:ll38b]
+1 Hymn to Tourach [PTC:ll38c]
+1 Hymn to Tourach [PTC:ll38d]
 4 Necropotence
 1 Soul Burn
 
 Sideboard
-1 City of Brass
+1 City of Brass [PTC:ll112sb]
 1 Safe Haven
-1 Apocalypse Chime
-1 Feldon's Cane
-1 Jalum Tome
+1 Apocalypse Chime [PTC:ll101sb]
+1 Feldon's Cane [PTC:ll50sb]
+1 Jalum Tome [PTC:ll54sb]
 1 Meekstone
-2 Nevinyrral's Disk
+2 Nevinyrral's Disk [PTC:ll338sb]
 3 The Rack
-1 Serrated Arrows
+1 Serrated Arrows [PTC:ll110sb]
 1 Ashes to Ashes
 1 Stromgald Cabal
 1 Torture

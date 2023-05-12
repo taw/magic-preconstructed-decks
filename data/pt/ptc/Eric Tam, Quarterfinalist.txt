@@ -1,46 +1,46 @@
 // NAME: Eric Tam, Quarterfinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
-4 Brushland
-2 City of Brass
-4 Karplusan Forest
-2 Mishra's Factory
+4 Brushland [PTC:et352]
+2 City of Brass [PTC:et112]
+4 Karplusan Forest [PTC:et356]
+2 Mishra's Factory [PTC:et361]
 4 Mountain
 4 Plains
-3 Fellwar Stone
-3 Icy Manipulator
-1 Jayemdae Tome
-1 Zuran Orb
-1 Blinking Spirit
-1 Serra Angel
+3 Fellwar Stone [PTC:et319]
+3 Icy Manipulator [PTC:et322]
+1 Jayemdae Tome [PTC:et331]
+1 Zuran Orb [PTC:et350]
+1 Blinking Spirit [PTC:et8]
+1 Serra Angel [PTC:et50]
 1 Orgg
-1 Autumn Willow
+1 Autumn Willow [PTC:et83]
 3 Birds of Paradise
-4 Erhnam Djinn
-2 Stormbind
-1 Balance
-4 Disenchant
-1 Icatian Town
-1 Land Tax
-3 Swords to Plowshares
-2 Wrath of God
+4 Erhnam Djinn [PTC:et64]
+2 Stormbind [PTC:et304]
+1 Balance [PTC:et6]
+4 Disenchant [PTC:et22]
+1 Icatian Town [PTC:et15]
+1 Land Tax [PTC:et34]
+3 Swords to Plowshares [PTC:et52]
+2 Wrath of God [PTC:et58]
 1 Zur's Weirding
-1 Earthquake
-2 Fireball
-2 Incinerate
-1 Lightning Bolt
+1 Earthquake [PTC:et189]
+2 Fireball [PTC:et192]
+2 Incinerate [PTC:et194]
+1 Lightning Bolt [PTC:et208]
 
 Sideboard
-1 Apocalypse Chime
+1 Apocalypse Chime [PTC:et101sb]
 1 Disrupting Scepter
-2 Nevinyrral's Disk
+2 Nevinyrral's Disk [PTC:et338sb]
 1 Ring of Renewal
-1 Serrated Arrows
-1 Circle of Protection: Red
-1 Divine Offering
+1 Serrated Arrows [PTC:et110sb]
+1 Circle of Protection: Red [PTC:et17sb]
+1 Divine Offering [PTC:et6sb]
 1 Energy Storm
-1 Icatian Town
-1 Reverse Damage
-1 Swords to Plowshares
+1 Icatian Town [PTC:et15sb]
+1 Reverse Damage [PTC:et45sb]
+1 Swords to Plowshares [PTC:et52sb]
 1 An-Zerrin Ruins
 1 Dwarven Catapult
-1 Autumn Willow
+1 Autumn Willow [PTC:et83sb]

@@ -1,35 +1,36 @@
 // NAME: Shawn "Hammer" Regnier, Quarterfinalist
 // SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
-4 Adarkar Wastes
-1 City of Brass
+4 Adarkar Wastes [PTC:shr351]
+1 City of Brass [PTC:shr112]
 4 Island
-3 Mishra's Factory
+3 Mishra's Factory [PTC:shr361]
 6 Plains
-1 Ruins of Trokair
-4 Svyelunite Temple
-3 Icy Manipulator
-1 Ivory Tower
-3 Millstone
-1 Zuran Orb
-1 Balance
-4 Disenchant
-3 Land Tax
-4 Swords to Plowshares
-4 Wrath of God
-4 Counterspell
+1 Ruins of Trokair [PTC:shr100]
+4 Svyelunite Temple [PTC:shr102]
+3 Icy Manipulator [PTC:shr322]
+1 Ivory Tower [PTC:shr328]
+3 Millstone [PTC:shr336]
+1 Zuran Orb [PTC:shr350]
+1 Balance [PTC:shr6]
+4 Disenchant [PTC:shr22]
+3 Land Tax [PTC:shr34]
+4 Swords to Plowshares [PTC:shr52]
+4 Wrath of God [PTC:shr58]
+4 Counterspell [PTC:shr65]
 4 Power Sink
-1 Recall
+1 Recall [PTC:shr24]
 4 Spell Blast
 
 Sideboard
-1 Feldon's Cane
-1 Fountain of Youth
-1 Abbey Gargoyles
+1 Feldon's Cane [PTC:shr50sb]
+1 Fountain of Youth [PTC:shr98sb]
+1 Abbey Gargoyles [PTC:shr1sb]
 1 Arenson's Aura
 2 Circle of Protection: Black
-2 Circle of Protection: Red
-1 Divine Offering
+2 Circle of Protection: Red [PTC:shr15sb]
+1 Divine Offering [PTC:shr6sb]
 1 Truce
-2 Memory Lapse
-1 Sea Sprite
-2 Steal Artifact
+1 Memory Lapse [PTC:shr32asb]
+1 Memory Lapse [PTC:shr32bsb]
+1 Sea Sprite [PTC:shr38sb]
+2 Steal Artifact [PTC:shr105sb]
