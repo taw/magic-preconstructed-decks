@@ -1,0 +1,29 @@
+// NAME: George Baxter, Quarterfinalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+3 City of Brass
+3 Karplusan Forest
+1 Lava Tubes
+2 Mishra's Factory
+2 Sulfurous Springs
+12 Swamp
+2 Barbed Sextant
+1 Zuran Orb
+4 Hypnotic Specter
+1 Ihsan's Shade
+4 Knight of Stromgald
+4 Order of the Ebon Hand
+2 Sengir Vampire
+4 Erhnam Djinn
+4 Dark Ritual
+4 Hymn to Tourach
+3 Fireball
+4 Lightning Bolt
+
+Sideboard
+2 Nevinyrral's Disk
+2 Serrated Arrows
+2 Dark Banishing
+2 Ihsan's Shade
+3 Red Elemental Blast
+2 Shatter
+2 Tranquility

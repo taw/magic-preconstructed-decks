@@ -1,0 +1,37 @@
+// NAME: Bertrand Lestree, Finalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+4 Brushland
+1 Havenwood Battleground
+6 Forest
+6 Plains
+1 Ruins of Trokair
+4 Strip Mine
+2 Fellwar Stone
+2 Icy Manipulator
+1 Ivory Tower
+1 Zuran Orb
+2 Order of Leitbur
+1 Serra Angel
+1 Autumn Willow
+4 Erhnam Djinn
+2 Fyndhorn Elves
+2 Llanowar Elves
+2 Spectral Bears
+3 Armageddon
+1 Balance
+4 Disenchant
+2 Land Tax
+4 Swords to Plowshares
+2 Wrath of God
+2 Sylvan Library
+
+Sideboard
+1 Black Vise
+2 Abbey Gargoyles
+2 Divine Offering
+2 Circle of Protection: Green
+2 Circle of Protection: Red
+2 Karma
+1 Order of Leitbur
+1 Wrath of God
+2 Whirling Dervish

@@ -33,6 +33,7 @@ DeckTypes = {
   "theme-61"      => { name: "Theme Deck", sizes: [[61]] },
   "theme-62"      => { name: "Theme Deck", sizes: [[62]] },
   "theme"         => { name: "Theme Deck", sizes: [[60]] },
-  "wc"            => { name: "World Championship Decks", sizes: [[60, 15], [61, 15]] },
+  "wc"            => { name: "World Championship Deck", sizes: [[60, 15], [61, 15]] },
+  "pt"            => { name: "Pro Tour Deck", sizes: [[60, 15], [62, 15]] },
   "welcome"       => { name: "Welcome Deck", sizes: [[30]] },
 }

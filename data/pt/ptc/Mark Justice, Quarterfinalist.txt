@@ -1,0 +1,37 @@
+// NAME: Mark Justice, Quarterfinalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+2 City of Brass
+4 Dwarven Ruins
+1 Havenwood Battleground
+4 Karplusan Forest
+4 Mishra's Factory
+3 Mountain
+3 Plains
+1 Black Vise
+1 Elkin Bottle
+1 Feldon's Cane
+3 Fellwar Stone
+4 Howling Mine
+4 Icy Manipulator
+1 Ivory Tower
+1 Jester's Cap
+3 Winter Orb
+1 Zuran Orb
+2 Stormbind
+1 Balance
+3 Swords to Plowshares
+1 Detonate
+1 Earthquake
+3 Fireball
+2 Incinerate
+4 Lightning Bolt
+2 Shatter
+
+Sideboard
+2 Fountain of Youth
+3 Serrated Arrows
+2 Anarchy
+1 Detonate
+2 Eron the Relentless
+3 Pyroblast
+2 Shatter

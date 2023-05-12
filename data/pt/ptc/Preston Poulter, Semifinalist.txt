@@ -1,0 +1,39 @@
+// NAME: Preston Poulter, Semifinalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+4 Brushland
+4 Forest
+2 Havenwood Battleground
+4 Mishra's Factory
+8 Plains
+1 Ruins of Trokair
+2 Strip Mine
+2 Aeolipile
+2 Fellwar Stone
+2 Icy Manipulator
+1 Nevinyrral's Disk
+1 Zuran Orb
+2 Autumn Willow
+3 Elvish Archers
+4 Erhnam Djinn
+1 Spectral Bears
+2 Armageddon
+1 Balance
+3 Disenchant
+3 Land Tax
+4 Swords to Plowshares
+1 Wrath of God
+2 Hurricane
+1 Sylvan Library
+
+Sideboard
+1 Fellwar Stone
+1 Ivory Tower
+1 Serrated Arrows
+1 Armageddon
+1 Disenchant
+2 Divine Offering
+2 Karma
+1 Land Tax
+2 Reverse Damage
+1 Autumn Willow
+2 Essence Filter

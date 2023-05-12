@@ -1,0 +1,46 @@
+// NAME: Eric Tam, Quarterfinalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+4 Brushland
+2 City of Brass
+4 Karplusan Forest
+2 Mishra's Factory
+4 Mountain
+4 Plains
+3 Fellwar Stone
+3 Icy Manipulator
+1 Jayemdae Tome
+1 Zuran Orb
+1 Blinking Spirit
+1 Serra Angel
+1 Orgg
+1 Autumn Willow
+3 Birds of Paradise
+4 Erhnam Djinn
+2 Stormbind
+1 Balance
+4 Disenchant
+1 Icatian Town
+1 Land Tax
+3 Swords to Plowshares
+2 Wrath of God
+1 Zur's Weirding
+1 Earthquake
+2 Fireball
+2 Incinerate
+1 Lightning Bolt
+
+Sideboard
+1 Apocalypse Chime
+1 Disrupting Scepter
+2 Nevinyrral's Disk
+1 Ring of Renewal
+1 Serrated Arrows
+1 Circle of Protection: Red
+1 Divine Offering
+1 Energy Storm
+1 Icatian Town
+1 Reverse Damage
+1 Swords to Plowshares
+1 An-Zerrin Ruins
+1 Dwarven Catapult
+1 Autumn Willow
