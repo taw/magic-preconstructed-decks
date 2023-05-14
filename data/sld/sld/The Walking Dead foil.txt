@@ -1,8 +1,17 @@
 // NAME: The Walking Dead - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_The_Walking_Dead
 // DATE: 2020-10-13
 1 [SLD:143] Rick, Steadfast Leader [foil]
 1 [SLD:144] Daryl, Hunter of Walkers [foil]
 1 [SLD:145] Glenn, the Voice of Calm [foil]
 1 [SLD:146] Michonne, Ruthless Survivor [foil]
 1 [SLD:147] Negan, the Cold-Blooded [foil]
+1 [SLD:148] Walker [foil]
+1 [SLD:149] Walker [foil]
+1 [SLD:150] Walker [foil]
+1 [SLD:151] Walker [foil]
+1 [SLD:152] Walker [foil]
+1 [SLD:153] Treasure [foil]
+
+Sideboard
+1 [SLD:581] Lucille [foil]

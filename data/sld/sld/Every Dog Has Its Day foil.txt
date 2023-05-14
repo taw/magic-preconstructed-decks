@@ -1,7 +1,10 @@
 // NAME: Every Dog Has Its Day - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Every_Dog_Has_Its_Day
 // DATE: 2020-08-26
 1 [SLD:96] Rest in Peace [foil]
 1 [SLD:97] Dig Through Time [foil]
 1 [SLD:98] Ancient Grudge [foil]
 1 [SLD:99] Lightning Greaves [foil]
+
+Sideboard
+1 [SLD:517] Jiang Yanggu, Wildcrafter [foil]
