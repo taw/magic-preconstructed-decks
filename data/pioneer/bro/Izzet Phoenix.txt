@@ -19,7 +19,7 @@
 1 Steam Vents
 6 Island
 4 Mountain
-2 Thing in the Ice // Awoken Horror
+2 Thing in the Ice
 
 Sideboard
 2 Sweltering Suns
