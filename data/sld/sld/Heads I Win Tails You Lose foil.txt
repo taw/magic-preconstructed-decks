@@ -1,13 +1,8 @@
 // NAME: Heads I Win, Tails You Lose - Foil
 // SOURCE: scryfall
 // DATE: 2022-04-22
-1 [SLD:379] Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom [foil]
-1 [SLD:379] Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom [foil]
-1 [SLD:380] Okaun, Eye of Chaos // Okaun, Eye of Chaos [foil]
-1 [SLD:380] Okaun, Eye of Chaos // Okaun, Eye of Chaos [foil]
-1 [SLD:381] Propaganda // Propaganda [foil]
-1 [SLD:381] Propaganda // Propaganda [foil]
-1 [SLD:382] Stitch in Time // Stitch in Time [foil]
-1 [SLD:382] Stitch in Time // Stitch in Time [foil]
-1 [SLD:383] Krark's Thumb // Krark's Thumb [foil]
-1 [SLD:383] Krark's Thumb // Krark's Thumb [foil]
+1 [SLD:379a] Zndrsplt, Eye of Wisdom [foil]
+1 [SLD:380a] Okaun, Eye of Chaos [foil]
+1 [SLD:381a] Propaganda [foil]
+1 [SLD:382a] Stitch in Time [foil]
+1 [SLD:383a] Krark's Thumb [foil]

@@ -3,6 +3,5 @@
 // DATE: 2022-06-13
 1 [SLD:493] Kozilek, the Great Distortion [foil]
 1 [SLD:494] Primeval Titan [foil]
-1 [SLD:495] Huntmaster of the Fells // Ravager of the Fells [foil]
-1 [SLD:495] Huntmaster of the Fells // Ravager of the Fells [foil]
+1 [SLD:495a] Huntmaster of the Fells [foil]
 1 [SLD:496] Platinum Angel [foil]

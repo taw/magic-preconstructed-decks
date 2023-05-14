@@ -6,4 +6,4 @@
 1 [SLD:58] Walking Ballista [foil]
 
 Sideboard
-1 [SLD:501] Karn, The Great Creator [foil]
+1 [SLD:501] Karn, the Great Creator [foil]

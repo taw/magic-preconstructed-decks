@@ -4,6 +4,5 @@
 1 [SLD:364] Swords to Plowshares [foil]
 1 [SLD:365] Grim Tutor [foil]
 1 [SLD:366] Blood Moon [foil]
-1 [SLD:367] Cut // Ribbons [foil]
-1 [SLD:367] Cut // Ribbons [foil]
+1 [SLD:367a] Cut [foil]
 1 [SLD:368] Teferi's Puzzle Box [foil]

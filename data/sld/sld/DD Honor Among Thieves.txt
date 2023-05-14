@@ -5,6 +5,5 @@
 1 [SLD:1238] Simon, Wild Magic Sorcerer
 1 [SLD:1239] Forge, Neverwinter Charlatan
 1 [SLD:1240] Holga, Relentless Rager
-1 [SLD:1241] Doric, Nature's Warden // Doric, Owlbear Avenger
-1 [SLD:1241] Doric, Nature's Warden // Doric, Owlbear Avenger
+1 [SLD:1241a] Doric, Nature's Warden
 1 [SLD:1242] Edgin, Larcenous Lutenist

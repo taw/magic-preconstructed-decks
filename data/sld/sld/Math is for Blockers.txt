@@ -1,8 +1,7 @@
 // NAME: Math is for Blockers
 // SOURCE: scryfall
 // DATE: 2021-08-24
-1 [SLD:234] Brazen Borrower // Petty Theft
-1 [SLD:234] Brazen Borrower // Petty Theft
+1 [SLD:234a] Brazen Borrower
 1 [SLD:235] Vindictive Lich
 1 [SLD:236] Meandering Towershell
 1 [SLD:237] Ohran Frostfang

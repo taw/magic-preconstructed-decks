@@ -1,9 +1,6 @@
 // NAME: Just Add Milk - Foil
 // SOURCE: scryfall
 // DATE: 2022-12-02
-1 [SLD:1122] Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger [foil]
-1 [SLD:1122] Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger [foil]
-1 [SLD:1123] Etali, Primal Storm // Etali, Primal Storm [foil]
-1 [SLD:1123] Etali, Primal Storm // Etali, Primal Storm [foil]
-1 [SLD:1124] Ghalta, Primal Hunger // Ghalta, Primal Hunger [foil]
-1 [SLD:1124] Ghalta, Primal Hunger // Ghalta, Primal Hunger [foil]
+1 [SLD:1122a] Ulamog, the Ceaseless Hunger [foil]
+1 [SLD:1123a] Etali, Primal Storm [foil]
+1 [SLD:1124a] Ghalta, Primal Hunger [foil]

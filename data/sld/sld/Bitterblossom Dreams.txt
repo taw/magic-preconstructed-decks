@@ -3,7 +3,7 @@
 // DATE: 2019-12-03
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:503] Gideon, [SLD:520] Ajani, [SLD:521] Domri, [SLD:523] Ral, [SLD:524] Sorin, [SLD:527] Angrath, or [SLD:530] Huatli
 1 [SLD:12] Bitterblossom
-1 [SLD:13] Faerie Rogue
-1 [SLD:14] Faerie Rogue
-1 [SLD:15] Faerie Rogue
-1 [SLD:16] Faerie Rogue
+// 1 [SLD:13] Faerie Rogue
+// 1 [SLD:14] Faerie Rogue
+// 1 [SLD:15] Faerie Rogue
+// 1 [SLD:16] Faerie Rogue
