@@ -1,7 +1,10 @@
 // NAME: Artist Series: Seb McKinnon
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary
 // DATE: 2020-11-30
 1 [SLD:119] Swamp
 1 [SLD:120] Sower of Temptation
 1 [SLD:121] Damnation
 1 [SLD:122] Enchanted Evening
+
+Sideboard
+1 [SLD:539] Swamp
