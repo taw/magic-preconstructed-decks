@@ -1,9 +1,13 @@
 // NAME: Artist Series: Mark Poole - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
 // DATE: 2021-06-21
+// DISPLAY: This drop has a 7% chance to include a blueprint artifact [SLD:603-606], and a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of the normal bonus card.
 1 [SLD:173] Balance [foil]
 1 [SLD:174] Brainstorm [foil]
 1 [SLD:175] Counterspell [foil]
 1 [SLD:176] Birds of Paradise [foil]
 1 [SLD:177] Howling Mine [foil]
 1 [SLD:178] Wasteland [foil]
+
+Sideboard
+1 [SLD:582] Brainstorm [foil]

@@ -1,6 +1,7 @@
 // NAME: Mother's Day 2021 - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
 // DATE: 2021-06-21
+// DISPLAY: Also includes one foil Jumpstart basic land: [SLD:552] Island, [SLD:556] Swamp, or [SLD:571] Mountain. All drops in the All Natural, Totally Refreshing superdrop have a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of their normal bonus card.
 1 [SLD:296] Mother of Runes [foil]
 1 [SLD:297] Mother of Runes [foil]
 1 [SLD:298] Mother of Runes [foil]

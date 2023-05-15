@@ -1,6 +1,7 @@
 // NAME: Special Guest: Fiona Staples
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
 // DATE: 2021-06-21
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:513] Jaya or [SLD:514] Sarkhan
 1 [SLD:190] Soul-Scar Mage
 1 [SLD:191] Dryad of the Ilysian Grove
 1 [SLD:192] Sakura-Tribe Elder
