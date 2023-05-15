@@ -1,4 +1,7 @@
 // NAME: Culture Shocks: Bant
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Dr._Lair%27s_Secretorium_Superdrop
 // DATE: 2021-04-26
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:526] Teferi, [SLD:530] Huatli, [SLD:532] Kiora, or [SLD:520] Ajani. All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
+1 [SLD:123] Hallowed Fountain
+1 [SLD:127] Temple Garden
 1 [SLD:132] Breeding Pool
