@@ -1,8 +1,11 @@
 // NAME: Mirrodinsanity - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_(2021)
 // DATE: 2021-10-15
 1 [SLD:300] Ancient Den [foil]
 1 [SLD:301] Seat of the Synod [foil]
 1 [SLD:302] Vault of Whispers [foil]
 1 [SLD:303] Great Furnace [foil]
 1 [SLD:304] Tree of Tales [foil]
+
+Sideboard
+1 [SLD:608] Darksteel Citadel [foil]

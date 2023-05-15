@@ -1,8 +1,11 @@
 // NAME: Read the Fine Print - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_(2021)
 // DATE: 2021-10-15
 1 [SLD:159] Demonlord Belzenlok [foil]
 1 [SLD:160] Griselbrand [foil]
 1 [SLD:161] Liliana's Contract [foil]
 1 [SLD:162] Kothophed, Soul Hoarder [foil]
 1 [SLD:163] Razaketh, the Foulblooded [foil]
+
+Sideboard
+1 [SLD:510] Liliana, Dreadhorde General [foil]
