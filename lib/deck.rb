@@ -33,7 +33,7 @@ class Deck
 
       count, name = line.split(" ", 2)
       if name == nil
-        raise("Missing card definition for #{line}")
+        raise("Failed card definition for #{line}")
       end
       name = name.sub(/\s*\*+\z/, "")
       foil = nil
@@ -52,6 +52,10 @@ class Deck
       end
 
       name.strip!
+      
+      if name.empty?
+        raise("Cannot parse line: #{line}")
+      end
 
       target << {
         name: name,
