@@ -7,5 +7,5 @@
 1 [SLD:280] Sphere of Safety [foil]
 1 [SLD:281] Karmic Guide [foil]
 
-Sideboard:
+Sideboard
 1 [SLD:588] Sphere of Safety [foil]

@@ -11,5 +11,5 @@
 1 [SLD:347] Wernog, Rider's Chaplain [foil]
 // 1 [SLD:348] Clue [foil]
 
-Sideboard:
+Sideboard
 1 [SLD:609a] Havengul Laboratory [foil]
