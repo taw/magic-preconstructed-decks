@@ -1,8 +1,12 @@
 // NAME: MSCHF - Foil Etched
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_MSCHF
 // DATE: 2021-11-20
 1 [SLD:364] Swords to Plowshares [foil]
 1 [SLD:365] Grim Tutor [foil]
 1 [SLD:366] Blood Moon [foil]
 1 [SLD:367a] Cut [foil]
 1 [SLD:368] Teferi's Puzzle Box [foil]
+
+Sideboard
+1 [SLD:669] Battlefield Forge [foil]
+1 [SLD:670] Plains [foil]
