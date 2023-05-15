@@ -32,6 +32,9 @@ class Deck
       end
 
       count, name = line.split(" ", 2)
+      if name == nil
+        raise("Missing card definition for #{line}")
+      end
       name = name.sub(/\s*\*+\z/, "")
       foil = nil
       set = nil
