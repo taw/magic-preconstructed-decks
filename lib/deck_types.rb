@@ -26,6 +26,7 @@ DeckTypes = {
   "planechase"    => { name: "Planechase Deck", sizes: [[60, 0], [60, 10]], },
   "premium"       => { name: "Premium Deck", sizes: [[60]] },
   "pw"            => { name: "Planeswalker Deck", sizes: [[60]] },
+  "sld"           => { name: "Secret Lair Drop" }, # Any size
   "ssk"           => { name: "Spellslinger Starter Kit", sizes: [[60]] },
   "starter-22"    => { name: "Starter Deck", sizes: [[22]] }, # S2TK
   "starter"       => { name: "Starter Deck", sizes: [[30], [35], [40], [60]] },

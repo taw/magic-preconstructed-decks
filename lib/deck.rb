@@ -39,9 +39,14 @@ class Deck
       foil = nil
       set = nil
       number = nil
+      token = nil
 
-      if name.sub!(/\[foil\]/, "")
+      if name.sub!(/\[foil\]/i, "")
         foil = true
+      end
+
+      if name.sub!(/\[token\]/i, "")
+        token = true
       end
 
       if name.sub!(/\[(.*?):(.*?)\]/, "")
@@ -63,6 +68,7 @@ class Deck
         set: set,
         number: number,
         foil: foil,
+        token: token,
       }.compact
     end
   end
