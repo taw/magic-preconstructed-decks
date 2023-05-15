@@ -1,5 +1,5 @@
 // NAME: Arcane - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021
 // DATE: 2021-11-29
 1 [SLD:477] Path to Exile [foil]
 1 [SLD:478] Rhystic Study [foil]
@@ -8,3 +8,6 @@
 1 [SLD:481] Krosan Grip [foil]
 1 [SLD:482] Counterflux [foil]
 1 [SLD:483] Thran Dynamo [foil]
+
+Sideboard
+1 [SLD:696] Spore Frog [foil]

@@ -1,6 +1,7 @@
 // NAME: Heads I Win, Tails You Lose
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021/Commander_deck
 // DATE: 2022-04-22
+// DISPLAY: Also includes one of: foil [SLD:673] Island or foil [SLD:674] Mountain
 COMMANDER: 1 Zndrsplt, Eye of Wisdom [SLD:379★a]
 COMMANDER: 1 Okaun, Eye of Chaos [SLD:380★a]
 1 Daretti, Scrap Savant
