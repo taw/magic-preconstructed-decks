@@ -1,0 +1,45 @@
+// NAME: Bertrand Lestree, Finalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
+4 Brushland [PTC:bl352]
+1 Havenwood Battleground [PTC:bl96]
+2 Forest [PTC:bl376]
+2 Forest [PTC:bl377]
+2 Forest [PTC:bl378]
+2 Plains [PTC:bl364]
+2 Plains [PTC:bl365]
+2 Plains [PTC:bl366]
+1 Ruins of Trokair [PTC:bl100]
+4 Strip Mine [PTC:bl363]
+2 Fellwar Stone [PTC:bl319]
+2 Icy Manipulator [PTC:bl322]
+1 Ivory Tower [PTC:bl328]
+1 Zuran Orb [PTC:bl350]
+1 Order of Leitbur [PTC:bl16a]
+1 Order of Leitbur [PTC:bl16b]
+1 Serra Angel [PTC:bl50]
+1 Autumn Willow [PTC:bl83]
+4 Erhnam Djinn [PTC:bl64]
+2 Fyndhorn Elves
+2 Llanowar Elves
+2 Spectral Bears [PTC:bl98]
+3 Armageddon [PTC:bl5]
+1 Balance [PTC:bl6]
+4 Disenchant [PTC:bl22]
+2 Land Tax [PTC:bl34]
+4 Swords to Plowshares [PTC:bl52]
+2 Wrath of God [PTC:bl58]
+2 Sylvan Library [PTC:bl273]
+
+Sideboard
+1 Black Vise [PTC:bl299sb]
+2 Abbey Gargoyles [PTC:bl1sb]
+2 Divine Offering [PTC:bl6sb]
+1 Circle of Protection: Green [PTC:bl14sb]
+1 Circle of Protection: Green [PTC:bl16sb]
+1 Circle of Protection: Red [PTC:bl15sb]
+1 Circle of Protection: Red [PTC:bl17sb]
+2 Karma [PTC:bl32sb]
+1 Order of Leitbur [PTC:bl16csb]
+1 Wrath of God [PTC:bl58sb]
+2 Whirling Dervish

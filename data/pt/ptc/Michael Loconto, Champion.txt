@@ -1,0 +1,45 @@
+// NAME: Michael Loconto, Champion
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
+4 Adarkar Wastes [PTC:ml351]
+2 Island [PTC:ml367]
+1 Island [PTC:ml368]
+1 Island [PTC:ml369]
+4 Mishra's Factory [PTC:ml361]
+3 Plains [PTC:ml364]
+2 Plains [PTC:ml365]
+2 Plains [PTC:ml366]
+1 Ruins of Trokair [PTC:ml100]
+1 Strip Mine [PTC:ml363]
+2 Svyelunite Temple [PTC:ml102]
+1 Wizards' School
+1 Feldon's Cane [PTC:ml50]
+2 Fountain of Youth [PTC:ml98]
+2 Icy Manipulator [PTC:ml322]
+1 Ivory Tower [PTC:ml328]
+1 Jayemdae Tome [PTC:ml331]
+3 Millstone [PTC:ml336]
+1 Zuran Orb [PTC:ml350]
+2 Blinking Spirit [PTC:ml8]
+1 Balance [PTC:ml6]
+4 Disenchant [PTC:ml22]
+2 Hallowed Ground
+2 Land Tax [PTC:ml34]
+4 Swords to Plowshares [PTC:ml52]
+4 Wrath of God [PTC:ml58]
+2 Control Magic [PTC:ml64]
+4 Counterspell [PTC:ml65]
+1 Deflection
+1 Recall [PTC:ml24]
+
+Sideboard
+2 Aeolipile [PTC:ml81sb]
+1 Jester's Cap [PTC:ml324sb]
+2 Serrated Arrows [PTC:ml110sb]
+1 Circle of Protection: Red [PTC:ml15sb]
+1 Circle of Protection: Red [PTC:ml17sb]
+1 Divine Offering [PTC:ml6sb]
+1 Control Magic [PTC:ml64sb]
+2 Hydroblast
+2 Sea Sprite [PTC:ml38sb]
+2 Steal Artifact [PTC:ml105sb]

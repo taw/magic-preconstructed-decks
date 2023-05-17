@@ -1,0 +1,44 @@
+// NAME: Preston Poulter, Semifinalist
+// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// DATE: 1996-05-01
+4 Brushland [PTC:pp352]
+2 Forest [PTC:pp376]
+1 Forest [PTC:pp377]
+1 Forest [PTC:pp378]
+2 Havenwood Battleground [PTC:pp96]
+4 Mishra's Factory [PTC:pp361]
+3 Plains [PTC:pp364]
+3 Plains [PTC:pp365]
+2 Plains [PTC:pp366]
+1 Ruins of Trokair [PTC:pp100]
+2 Strip Mine [PTC:pp363]
+2 Aeolipile [PTC:pp81]
+2 Fellwar Stone [PTC:pp319]
+2 Icy Manipulator [PTC:pp322]
+1 Nevinyrral's Disk [PTC:pp338]
+1 Zuran Orb [PTC:pp350]
+2 Autumn Willow [PTC:pp83]
+3 Elvish Archers
+4 Erhnam Djinn [PTC:pp64]
+1 Spectral Bears [PTC:pp98]
+2 Armageddon [PTC:pp5]
+1 Balance [PTC:pp6]
+3 Disenchant [PTC:pp22]
+3 Land Tax [PTC:pp34]
+4 Swords to Plowshares [PTC:pp52]
+1 Wrath of God [PTC:pp58]
+2 Hurricane
+1 Sylvan Library [PTC:pp273]
+
+Sideboard
+1 Fellwar Stone [PTC:pp319sb]
+1 Ivory Tower [PTC:pp328sb]
+1 Serrated Arrows [PTC:pp110sb]
+1 Armageddon [PTC:pp5sb]
+1 Disenchant [PTC:pp22sb]
+2 Divine Offering [PTC:pp6sb]
+2 Karma [PTC:pp32sb]
+1 Land Tax [PTC:pp34sb]
+2 Reverse Damage [PTC:pp45sb]
+1 Autumn Willow [PTC:pp83sb]
+2 Essence Filter

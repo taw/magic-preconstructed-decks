@@ -32,13 +32,21 @@ class Deck
       end
 
       count, name = line.split(" ", 2)
+      if name == nil
+        raise("Failed card definition for #{line}")
+      end
       name = name.sub(/\s*\*+\z/, "")
       foil = nil
       set = nil
       number = nil
+      token = nil
 
-      if name.sub!(/\[foil\]/, "")
+      if name.sub!(/\[foil\]/i, "")
         foil = true
+      end
+
+      if name.sub!(/\[token\]/i, "")
+        token = true
       end
 
       if name.sub!(/\[(.*?):(.*?)\]/, "")
@@ -49,6 +57,10 @@ class Deck
       end
 
       name.strip!
+      
+      if name.empty?
+        raise("Cannot parse line: #{line}")
+      end
 
       target << {
         name: name,
@@ -56,6 +68,7 @@ class Deck
         set: set,
         number: number,
         foil: foil,
+        token: token,
       }.compact
     end
   end
