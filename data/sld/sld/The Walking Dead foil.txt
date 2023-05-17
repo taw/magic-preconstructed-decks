@@ -6,12 +6,12 @@
 1 [SLD:145] Glenn, the Voice of Calm [foil]
 1 [SLD:146] Michonne, Ruthless Survivor [foil]
 1 [SLD:147] Negan, the Cold-Blooded [foil]
-// 1 [SLD:148] Walker [foil]
-// 1 [SLD:149] Walker [foil]
-// 1 [SLD:150] Walker [foil]
-// 1 [SLD:151] Walker [foil]
-// 1 [SLD:152] Walker [foil]
-// 1 [SLD:153] Treasure [foil]
+1 [SLD:148] Walker [foil] [token]
+1 [SLD:149] Walker [foil] [token]
+1 [SLD:150] Walker [foil] [token]
+1 [SLD:151] Walker [foil] [token]
+1 [SLD:152] Walker [foil] [token]
+1 [SLD:153] Treasure [foil] [token]
 
 Sideboard
 1 [SLD:581] Lucille [foil]

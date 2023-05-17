@@ -7,4 +7,4 @@
 1 [SLD:197] Squirrel Mob [foil]
 1 [SLD:198] Squirrel Wrangler [foil]
 1 [SLD:199] Swarmyard [foil]
-// 1 [SLD:200] Squirrel [foil]
+[SLD:200] Squirrel [foil] [token]

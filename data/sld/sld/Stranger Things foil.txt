@@ -9,7 +9,7 @@
 1 [SLD:345] Elmar, Ulvenwald Informant [foil]
 1 [SLD:346] Othelm, Sigardian Outcast [foil]
 1 [SLD:347] Wernog, Rider's Chaplain [foil]
-// 1 [SLD:348] Clue [foil]
+1 [SLD:348] Clue [foil] [token]
 
 Sideboard
 1 [SLD:609a] Havengul Laboratory [foil]
