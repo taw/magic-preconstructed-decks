@@ -8,4 +8,4 @@
 1 [SLD:405] Last Chance [foil]
 
 Sideboard
-1 [SLD:650] Manaweft SLiver [foil]
+1 [SLD:650] Manaweft Sliver [foil]

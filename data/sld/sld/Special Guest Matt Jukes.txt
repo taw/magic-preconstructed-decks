@@ -1,5 +1,5 @@
 // NAME: Special Guest: Matt Jukes
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
 // DATE: 2022-04-12
 // DISPLAY: Also includes one foil extended art sliver card: [SLD:662] Frenetic Sliver, [SLD:665] Lavabelly Sliver, or [SLD:667] Opaline Sliver
 1 [SLD:456] Glacial Fortress
