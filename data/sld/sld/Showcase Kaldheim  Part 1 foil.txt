@@ -1,0 +1,7 @@
+// NAME: Showcase: Kaldheim – Part 1 - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Smitten_Superdrop
+// DATE: 2021-02-12
+// DISPLAY: Also includes one foil Jumpstart basic land: [SLD:555] Island or [SLD:573] Forest
+1 [SLD:220] Frost Titan [foil]
+1 [SLD:221] Primeval Titan [foil]
+1 [SLD:222] Uro, Titan of Nature's Wrath [foil]

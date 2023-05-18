@@ -1,0 +1,13 @@
+// NAME: Fortnite
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Fortnite
+// DATE: 2022-07-07
+1 [SLD:441] Wrath of God
+1 [SLD:442] Dance of Many
+1 [SLD:443] Etherium Sculptor
+1 [SLD:444] Grim Tutor
+1 [SLD:445] Triumph of the Hordes
+1 [SLD:446] Smuggler's Copter
+1 [SLD:447] Planar Bridge
+
+Sideboard
+1 [SLD:676] Pyrite Spellbomb

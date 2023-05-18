@@ -1,0 +1,15 @@
+// NAME: Stranger Things
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_(2021)
+// DATE: 2021-10-15
+1 [SLD:340] Arvinox, the Mind Flail
+1 [SLD:341] Sophina, Spearsage Deserter
+1 [SLD:342] Hargilde, Kindly Runechanter
+1 [SLD:343] Cecily, Haunted Mage
+1 [SLD:344] Bjorna, Nightfall Alchemist
+1 [SLD:345] Elmar, Ulvenwald Informant
+1 [SLD:346] Othelm, Sigardian Outcast
+1 [SLD:347] Wernog, Rider's Chaplain
+1 [SLD:348] Clue [token]
+
+Sideboard
+1 [SLD:609a] Havengul Laboratory

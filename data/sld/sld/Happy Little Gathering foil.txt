@@ -1,0 +1,16 @@
+// NAME: Happy Little Gathering - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary
+// DATE: 2020-11-30
+1 [SLD:100] Plains [foil]
+1 [SLD:101] Plains [foil]
+1 [SLD:102] Island [foil]
+1 [SLD:103] Island [foil]
+1 [SLD:104] Swamp [foil]
+1 [SLD:105] Swamp [foil]
+1 [SLD:106] Mountain [foil]
+1 [SLD:107] Mountain [foil]
+1 [SLD:108] Forest [foil]
+1 [SLD:109] Forest [foil]
+
+Sideboard
+1 [SLD:538] Evolving Wilds [foil]

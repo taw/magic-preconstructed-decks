@@ -1,0 +1,9 @@
+// NAME: Special Guest: Matt Jukes - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
+// DATE: 2022-04-12
+// DISPLAY: Also includes one foil extended art sliver card: [SLD:662] Frenetic Sliver, [SLD:665] Lavabelly Sliver, or [SLD:667] Opaline Sliver
+1 [SLD:456] Glacial Fortress [foil]
+1 [SLD:457] Drowned Catacomb [foil]
+1 [SLD:458] Dragonskull Summit [foil]
+1 [SLD:459] Rootbound Crag [foil]
+1 [SLD:460] Sunpetal Grove [foil]

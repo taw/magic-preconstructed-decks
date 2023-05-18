@@ -1,0 +1,12 @@
+// NAME: Blood Bowl - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
+// DATE: 2022-11-28
+1 [SLD:1035] Approach of the Second Sun [foil]
+1 [SLD:1036] Rewind [foil]
+1 [SLD:1037] Bone Splinters [foil]
+1 [SLD:1038] Fling [foil]
+1 [SLD:1039] Defense of the Heart [foil]
+1 [SLD:1040] Fellwar Stone [foil]
+
+Sideboard
+1 [SLD:706] Wastes [foil]

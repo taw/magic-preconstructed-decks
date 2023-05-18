@@ -1,0 +1,10 @@
+// NAME: Seeing Visions - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series_(December_2019)
+// DATE: 2019-12-06
+1 [SLD:29] Serum Visions [foil]
+1 [SLD:30] Serum Visions [foil]
+1 [SLD:31] Serum Visions [foil]
+1 [SLD:32] Serum Visions [foil]
+
+Sideboard
+1 [SLD:528] Ashiok, Dream Render [foil]

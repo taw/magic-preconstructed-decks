@@ -1,0 +1,12 @@
+// NAME: Math is for Blockers - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Out_of_Time_Superdrop
+// DATE: 2021-08-24
+// DISPLAY: Has a roughly 7% chance to have a Blueprint artifact card instead of the normal bonus card: [SLD:603-607].
+1 [SLD:234a] Brazen Borrower [foil]
+1 [SLD:235] Vindictive Lich [foil]
+1 [SLD:236] Meandering Towershell [foil]
+1 [SLD:237] Ohran Frostfang [foil]
+1 [SLD:238] Thragtusk [foil]
+
+Sideboard
+1 [SLD:584] Wrexial, the Risen Deep [foil]

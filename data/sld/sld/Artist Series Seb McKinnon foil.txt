@@ -1,0 +1,10 @@
+// NAME: Artist Series: Seb McKinnon - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary
+// DATE: 2020-11-30
+1 [SLD:119] Swamp [foil]
+1 [SLD:120] Sower of Temptation [foil]
+1 [SLD:121] Damnation [foil]
+1 [SLD:122] Enchanted Evening [foil]
+
+Sideboard
+1 [SLD:539] Swamp [foil]

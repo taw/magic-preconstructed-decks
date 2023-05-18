@@ -1,0 +1,5 @@
+// NAME: The Astrology Lands - Aquarius
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_The_Astrology_Lands
+// DATE: 2022-02-01
+// DISPLAY: Also includes one of: foil Jumpstart basic land [SLD:540-579], foil [SLD:593] Persistent Petitioners, or foil extended art Sliver [SLD:610-668]
+5 [SLD:385] Island

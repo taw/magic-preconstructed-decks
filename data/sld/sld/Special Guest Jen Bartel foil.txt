@@ -1,0 +1,8 @@
+// NAME: Special Guest: Jen Bartel - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
+// DATE: 2021-06-21
+// DISPLAY: Also includes one foil Jumpstart basic land: [SLD:544] Plains, [SLD:551] Island, or [SLD:569] Mountain]. This drop has a 7% chance to include a blueprint artifact [SLD:603-606], and a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of the normal bonus card.
+1 [SLD:282] Mesa Enchantress [foil]
+1 [SLD:283] Archaeomancer [foil]
+1 [SLD:284] Bloom Tender [foil]
+1 [SLD:285] Meteor Golem [foil]

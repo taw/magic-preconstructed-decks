@@ -1,0 +1,9 @@
+// NAME: The Tokyo Lands - Foil Etched
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_June_Superdrop_2022
+// DATE: 2022-06-13
+// DISPLAY: Also includes one foil Jumpstart basic land [SLD:540-579].
+1 [SLD:46] Plains [foil]
+1 [SLD:47] Island [foil]
+1 [SLD:48] Swamp [foil]
+1 [SLD:49] Mountain [foil]
+1 [SLD:50] Forest [foil]

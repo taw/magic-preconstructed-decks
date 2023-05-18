@@ -1,0 +1,9 @@
+// NAME: Ssssssnakessssss - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Winter_Superdrop_2023
+// DATE: 2023-04-14
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667]. Other bonus cards may be possible but have not been confirmed.
+1 [SLD:1222] Hexdrinker [foil]
+1 [SLD:1223] Lotus Cobra [foil]
+1 [SLD:1224] Seshiro the Anointed [foil]
+1 [SLD:1225] Ice-Fang Coatl [foil]
+1 [SLD:1226] Stonecoil Serpent [foil]

@@ -1,0 +1,10 @@
+// NAME: Artist Series: Aleksi Briclot
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_December_Superdrop_2022
+// DATE: 2022-12-02
+1 [SLD:1151] Thought-Knot Seer
+1 [SLD:1152] Inquisition of Kozilek
+1 [SLD:1153] Reality Smasher
+1 [SLD:1154] Eldrazi Temple
+
+Sideboard
+1 [SLD:720] Thought-Knot Seer

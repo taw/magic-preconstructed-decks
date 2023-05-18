@@ -1,0 +1,8 @@
+// NAME: Purrfection - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Purrfection
+// DATE: 2021-10-22
+// DISPLAY: Also contains one foil of: [SLD:576] Forest, [SLD:598] Persistent Petitioners, or [SLD:605] Panharmonicon
+1 [SLD:369] Generous Gift [foil]
+1 [SLD:370] Chain Lightning [foil]
+1 [SLD:371] Kodama's Reach [foil]
+1 [SLD:372] Heirloom Blade [foil]

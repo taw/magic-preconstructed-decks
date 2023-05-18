@@ -1,0 +1,9 @@
+// NAME: The Weirdest Pets in the Multiverse
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
+// DATE: 2022-11-28
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:682-684].
+1 [SLD:1097] Laboratory Maniac
+1 [SLD:1098] Stitcher's Supplier
+1 [SLD:1099] Beast Whisperer
+1 [SLD:1100] Vizier of the Menagerie
+1 [SLD:1101] Wood Elves

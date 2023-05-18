@@ -1,0 +1,9 @@
+// NAME: Showcase: All Will Be One - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Winter_Superdrop_2023
+// DATE: 2023-04-14
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667]. Other bonus cards may be possible but have not been confirmed.
+1 [SLD:1213] Phyrexian Unlife [foil]
+1 [SLD:1214] Phyrexian Crusader [foil]
+1 [SLD:1215] Plague Engineer [foil]
+1 [SLD:1216] Ertai, the Corrupted [foil]
+1 [SLD:1217] Glissa, the Traitor [foil]

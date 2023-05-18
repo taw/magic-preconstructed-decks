@@ -1,0 +1,10 @@
+// NAME: Artist Series: Wayne Reynolds
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
+// DATE: 2022-04-12
+1 [SLD:461] Sram, Senior Edificer
+1 [SLD:462] Balthor the Defiled
+1 [SLD:463] Torbran, Thane of Red Fell
+1 [SLD:464] Depala, Pilot Exemplar
+
+Sideboard
+1 [SLD:678] Torbran, Thane of Red Fell

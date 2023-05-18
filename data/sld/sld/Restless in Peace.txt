@@ -1,0 +1,7 @@
+// NAME: Restless in Peace
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series_(December_2019)
+// DATE: 2019-12-05
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:506] Jace, [SLD:524] Sorin, [SLD:525] Tamiyo, or [SLD:528] Ashiok
+1 [SLD:6] Bloodghast
+1 [SLD:7] Golgari Thug
+1 [SLD:8] Life from the Loam

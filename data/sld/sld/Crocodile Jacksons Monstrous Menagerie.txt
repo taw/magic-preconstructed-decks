@@ -1,0 +1,11 @@
+// NAME: Crocodile Jackson's Monstrous Menagerie
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021
+// DATE: 2021-11-29
+1 [SLD:305] Ravenous Chupacabra
+1 [SLD:306] Managorger Hydra
+1 [SLD:307] Pathbreaker Ibex
+1 [SLD:308] Temur Sabertooth
+1 [SLD:309] Winding Constrictor
+
+Sideboard
+1 [SLD:590] Lurking Crocodile

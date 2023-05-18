@@ -1,0 +1,8 @@
+// NAME: Special Guest: Junji Ito
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
+// DATE: 2022-11-28
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:682-684].
+1 [SLD:1114] Carrion Feeder
+1 [SLD:1115] Doomsday
+1 [SLD:1116] Plaguecrafter
+1 [SLD:1117] Thoughtseize

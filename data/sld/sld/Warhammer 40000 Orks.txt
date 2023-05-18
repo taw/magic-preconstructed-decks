@@ -1,0 +1,11 @@
+// NAME: Warhammer 40,000: Orks
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
+// DATE: 2022-11-28
+1 [SLD:1025] Merciless Executioner
+1 [SLD:1026] Aggravated Assault
+1 [SLD:1027] Krenko, Tin Street Kingpin
+1 [SLD:1028] Zurgo Helmsmasher
+1 [SLD:1029] Skysovereign, Consul Flagship
+
+Sideboard
+1 [SLD:704] Wastes

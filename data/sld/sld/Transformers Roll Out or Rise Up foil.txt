@@ -1,0 +1,12 @@
+// NAME: Transformers: Roll Out or Rise Up - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_December_Superdrop_2022
+// DATE: 2022-12-02
+1 [SLD:1082] True Conviction [foil]
+1 [SLD:1083] Dramatic Reversal [foil]
+1 [SLD:1084] Fabricate [foil]
+1 [SLD:1085] Collective Brutality [foil]
+1 [SLD:1086] By Force [foil]
+1 [SLD:1087] Greater Good [foil]
+
+Sideboard
+1 [SLD:710] Command Tower [foil]

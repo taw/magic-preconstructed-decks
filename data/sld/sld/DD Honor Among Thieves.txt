@@ -1,0 +1,12 @@
+// NAME: D&D: Honor Among Thieves
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Dungeons_%26_Dragons:_Honor_Among_Thieves
+// DATE: 2023-03-26
+1 [SLD:1237] Xenk, Paladin Unbroken
+1 [SLD:1238] Simon, Wild Magic Sorcerer
+1 [SLD:1239] Forge, Neverwinter Charlatan
+1 [SLD:1240] Holga, Relentless Rager
+1 [SLD:1241a] Doric, Nature's Warden
+1 [SLD:1242] Edgin, Larcenous Lutenist
+
+Sideboard
+1 [SLD:728] Themberchaud

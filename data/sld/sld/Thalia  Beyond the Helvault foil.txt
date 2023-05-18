@@ -1,0 +1,8 @@
+// NAME: Thalia - Beyond the Helvault - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Thalia_-_Beyond_the_Helvault
+// DATE: 2020-03-12
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:529] Dovin or [SLD:507] Kasmina
+1 [SLD:37] Thalia, Guardian of Thraben [foil]
+1 [SLD:38] Thalia, Guardian of Thraben [foil]
+1 [SLD:39] Thalia, Guardian of Thraben [foil]
+1 [SLD:40] Thalia, Guardian of Thraben [foil]

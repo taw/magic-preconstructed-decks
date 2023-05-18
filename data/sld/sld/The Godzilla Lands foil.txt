@@ -1,0 +1,11 @@
+// NAME: The Godzilla Lands - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_The_Godzilla_Lands
+// DATE: 2020-07-31
+1 [SLD:63] Plains [foil]
+1 [SLD:64] Island [foil]
+1 [SLD:65] Swamp [foil]
+1 [SLD:66] Mountain [foil]
+1 [SLD:67] Forest [foil]
+
+Sideboard
+1 [SLD:518] Nissa, Who Shakes the World [foil]

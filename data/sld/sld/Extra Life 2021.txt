@@ -1,0 +1,13 @@
+// NAME: Extra Life 2021
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Extra_Life_2021
+// DATE: 2021-11-05
+1 [SLD:373] Mulldrifter
+1 [SLD:374] Mulldrifter
+1 [SLD:375] Craterhoof Behemoth
+1 [SLD:376] Craterhoof Behemoth
+1 [SLD:377] Metalwork Colossus
+1 [SLD:378] Metalwork Colossus
+
+Sideboard
+1 [SLD:671] Questing Phelddagrif
+1 [SLD:672] Questing Phelddagrif

@@ -1,0 +1,12 @@
+// NAME: Pride Across the Multiverse - Foil
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Pride_Across_the_Multiverse
+// DATE: 2022-05-04
+// DISPLAY: Also includes one of: [SLD:530] Huatli, or [SLD:534] Saheeli
+1 [SLD:1005] Triumphant Reckoning [foil]
+1 [SLD:1006] Savor the Moment [foil]
+1 [SLD:1007] Alesha, Who Smiles at Death [foil]
+1 [SLD:1008] Bearscape [foil]
+1 [SLD:1009] Collective Voyage [foil]
+1 [SLD:1010] Heartbeat of Spring [foil]
+1 [SLD:1011] Sol Ring [foil]
+1 [SLD:1012a] Mana Confluence [foil]
