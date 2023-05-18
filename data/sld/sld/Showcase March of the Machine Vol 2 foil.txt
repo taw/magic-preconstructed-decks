@@ -1,6 +1,7 @@
 // NAME: Showcase: March of the Machine, Vol. 2 - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spring_Superdrop_2023
 // DATE: 2023-04-23
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667] or foil borderless Shadowborn Apostles [SLD:681-688]
 1 [SLD:1267] Higure, the Still Wind [foil]
 1 [SLD:1268] Nezahal, Primal Tide [foil]
 1 [SLD:1269] Dragonlord Kolaghan [foil]

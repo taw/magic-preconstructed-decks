@@ -1,7 +1,10 @@
 // NAME: Artist Series: Randy Vargas
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spring_Superdrop_2023
 // DATE: 2023-04-23
 1 [SLD:1285] Grand Abolisher
 1 [SLD:1286] Selfless Savior
 1 [SLD:1287] Akroma, Angel of Fury
 1 [SLD:1288] Umezawa's Jitte
+
+Sideboard
+1 [SLD:732] Selfless Savior
