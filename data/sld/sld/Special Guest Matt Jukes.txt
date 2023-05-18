@@ -1,6 +1,7 @@
 // NAME: Special Guest: Matt Jukes
 // SOURCE: scryfall
 // DATE: 2022-04-12
+// DISPLAY: Also includes one foil extended art sliver card: [SLD:662] Frenetic Sliver, [SLD:665] Lavabelly Sliver, or [SLD:667] Opaline Sliver
 1 [SLD:456] Glacial Fortress
 1 [SLD:457] Drowned Catacomb
 1 [SLD:458] Dragonskull Summit

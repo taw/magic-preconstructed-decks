@@ -1,6 +1,7 @@
 // NAME: Just Some Totally Normal Guys - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
 // DATE: 2022-04-12
+// DISPLAY: Also includes one foil extended art sliver: [SLD:618] Diffusion Sliver, [SLD:650] Manaweft Sliver, or [SLD:652] Might Sliver
 1 [SLD:1075] Void Winnower [foil]
 1 [SLD:1076] Goblin Settler [foil]
 1 [SLD:1077] Collector Ouphe [foil]

@@ -1,8 +1,11 @@
 // NAME: Finally! Left-Handed Magic Cards - Foil
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
 // DATE: 2022-04-12
 1 [SLD:9995] Garruk, Caller of Beasts [foil]
 1 [SLD:9996] Rograkh, Son of Rohgahh [foil]
 1 [SLD:9997] Geralf's Messenger [foil]
 1 [SLD:9998] Empress Galina [foil]
 1 [SLD:9999] Sisay, Weatherlight Captain [foil]
+
+Sideboard
+1 [SLD:698] Dakkon Blackblade [foil]
