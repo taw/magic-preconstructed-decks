@@ -1,7 +1,7 @@
 // NAME: The Tokyo Lands
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_June_Superdrop_2022
 // DATE: 2022-06-13
-// DISPLAY: Also includes one foil Jumpstart basic land
+// DISPLAY: Also includes one foil Jumpstart basic land [SLD:540-579].
 1 [SLD:46] Plains
 1 [SLD:47] Island
 1 [SLD:48] Swamp

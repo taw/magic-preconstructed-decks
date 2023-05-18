@@ -1,8 +1,0 @@
-// NAME: From Cute to Brute
-// SOURCE: scryfall
-// DATE: 2023-05-08
-1 [SLD:1208a] Esika, God of the Tree
-1 [SLD:1209a] Archangel Avacyn
-1 [SLD:1210a] Bloodline Keeper
-1 [SLD:1211a] Nicol Bolas, the Ravager
-1 [SLD:1212a] Westvale Abbey
