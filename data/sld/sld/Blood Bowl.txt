@@ -1,5 +1,5 @@
 // NAME: Blood Bowl
-// SOURCE: scryfall
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
 // DATE: 2022-11-28
 1 [SLD:1035] Approach of the Second Sun
 1 [SLD:1036] Rewind
@@ -7,3 +7,6 @@
 1 [SLD:1038] Fling
 1 [SLD:1039] Defense of the Heart
 1 [SLD:1040] Fellwar Stone
+
+Sideboard
+1 [SLD:706] Wastes
