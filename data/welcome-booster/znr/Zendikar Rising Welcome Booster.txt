@@ -1,0 +1,13 @@
+// NAME: Zendikar Rising Welcome Booster
+// DATE: 2020-09-25
+// SOURCE: https://mtg.fandom.com/wiki/Zendikar_Rising/Welcome_booster
+1 [ZNR:384] Forest [foil]
+1 Nahiri's Binding [foil]
+1 [THB:292] Demon of Loathing
+1 [ZNC:109] Commander's Sphere
+1 [C20:193] Tribute to the Wild
+1 Tajuru Blightblade
+1 [C18:170] Bruna, Light of Alabaster
+1 [C19:207] Vraska the Unseen
+1 Expedition Diviner [foil]
+1 [ZNR:302] Spitfire Lagac

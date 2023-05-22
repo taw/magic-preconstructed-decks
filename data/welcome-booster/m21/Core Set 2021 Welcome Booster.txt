@@ -1,0 +1,13 @@
+// NAME: Core Set 2021 Welcome Booster
+// DATE: 2020-07-03
+// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Welcome_booster
+1 [M21:261] Plains [foil]
+1 Chandra's Magmutt [foil]
+1 [THB:292] Demon of Loathing
+1 [C20:240] Commander's Sphere
+1 [GRN:192] Niv-Mizzet, Parun
+1 [C18:81] Archetype of Imagination
+1 [C19:167] Garruk, Primal Hunter
+1 [ELD:274a] Faerie Guidemother
+1 [THB:121] Underworld Dreams
+1 Garruk's Gorehorn [foil]

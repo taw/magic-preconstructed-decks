@@ -2,7 +2,7 @@
 // DATE: 2021-09-24
 // SOURCE: https://mtg.fandom.com/wiki/Innistrad:_Midnight_Hunt/Welcome_booster
 1 [MID:380] Plains [foil]
-1 [MID:301] Dawnheart Rejuvinator [foil]
+1 [MID:301] Dawnhart Rejuvenator [foil]
 1 Drownyard Amalgam [foil]
 1 [C21:239] Commander's Sphere
 1 Bladestitched Skaab
