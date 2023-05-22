@@ -1,0 +1,13 @@
+// NAME: Kamigawa: Neon Dynasty Welcome Booster
+// SOURCE: https://mtg.fandom.com/wiki/Kamigawa:_Neon_Dynasty/Welcome_booster
+// DATE: 2022-02-18
+1 [NEO:291] Forest [foil]
+1 Spirited Companion [foil]
+1 Futurist Sentinel [foil]
+1 [C21:239] Commander's Sphere
+1 Assassin's Ink
+1 Dokuchi Shadow-Walker
+1 [WAR:220] Tamiyo, Collector of Tales
+1 [IMA:172] Jugan, the Rising Star
+1 [THB:3] Archon of Sun's Grace
+1 [NEO:322] Peerless Samurai

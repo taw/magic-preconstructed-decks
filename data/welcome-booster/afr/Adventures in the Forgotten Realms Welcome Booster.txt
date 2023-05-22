@@ -1,0 +1,13 @@
+// NAME: Adventures in the Forgotten Realms Welcome Booster
+// DATE: 2021-07-23
+// SOURCE: https://mtg.fandom.com/wiki/Dungeons_%26_Dragons:_Adventures_in_the_Forgotten_Realms/Welcome_booster
+1 [AFR:311] Baleful Beholder
+1 Arcane Investigator [foil]
+1 Dungeon Map
+1 [WAR:164] Jiang Yanggu, Wildcrafter
+1 [C20:102] Sunblast Angel
+1 [TAFR:21] Lost Mine of Phandelver [token]
+1 [C17:143] Tyrant's Familiar
+1 [AFC:176] Atarka, World Render
+1 Cleric Class [foil]
+1 [AFR:278] Forest [foil]

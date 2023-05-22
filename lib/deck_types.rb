@@ -36,4 +36,5 @@ DeckTypes = {
   "wc"            => { name: "World Championship Deck", sizes: [[60, 15], [61, 15]] },
   "pt"            => { name: "Pro Tour Deck", sizes: [[60, 15], [62, 15]] },
   "welcome"       => { name: "Welcome Deck", sizes: [[30]] },
+  "welcome-booster" => { name: "Welcome Booster", sizes: [[10], [11]]},
 }

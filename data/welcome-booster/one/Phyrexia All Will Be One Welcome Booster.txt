@@ -1,0 +1,13 @@
+// NAME: Phyrexia: All Will Be One Welcome Booster
+// SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Welcome_booster
+// DATE: 2023-02-10
+1 [ONE:275] Mountain [foil]
+1 Thrill of Possibility [foil]
+1 Tyrranax Atrocity [foil]
+1 [ONC:128] Commander's Sphere
+1 Cephalopod Sentry
+1 Ambulatory Edifice
+1 [WAR:231] Kaya, Bane of the Dead
+1 [FRF:149] Atarka, World Render
+1 [OGW:25] Linvala, the Preserver
+1 [ONE:287] Quicksilver Fisher

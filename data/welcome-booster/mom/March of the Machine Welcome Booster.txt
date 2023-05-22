@@ -1,0 +1,14 @@
+// NAME: March of the Machine Welcome Booster
+// SOURCE: https://mtg.fandom.com/wiki/March_of_the_Machine/Welcome_booster
+// DATE: 2023-04-21
+1 [ELD:269] Forest [foil]
+1 [SNC:164] Warm Welcome [foil]
+1 [CMR:44] Seraph of Dawn [foil]
+1 [MIC:159] Commander's Sphere
+1 [M21:151] Hellkite Punisher
+1 [MIC:134] Bestial Menace
+1 [M21:135] Chandra, Heart of Fire
+1 [TMOM:2] Soldier [token]
+1 [KTK:200] Siege Rhino
+1 [C21:142] Defiant Bloodlord
+1 [DMU:323] Tura Kennerüd, Skyknight
