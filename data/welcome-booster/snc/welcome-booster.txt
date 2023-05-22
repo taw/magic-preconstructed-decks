@@ -1,0 +1,12 @@
+// NAME: Streets of New Capenna Welcome Booster
+// SOURCE: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Welcome_booster
+// DATE: 2022-04-29
+2 Wrecking Crew [foil]
+1 [SNC:270] Forest [foil]
+1 [NCC:363] Commander's Sphere
+1 Metropolis Angel
+1 Darling of the Masses
+1 [C21:149] Ob Nixilis Reignited
+1 [IKO:162] Kogla, the Titan Ape
+1 [AFC:74] Sunblast Angel
+1 [SNC:320] Mr. Orfeo, the Boulder

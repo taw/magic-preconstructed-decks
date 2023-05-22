@@ -1,0 +1,13 @@
+// NAME: Innistrad: Crimson Vow Welcome Booster
+// DATE: 2021-11-19
+// SOURCE: https://mtg.fandom.com/wiki/Innistrad:_Crimson_Vow/Welcome_booster
+1 [VOW:402] Forest [foil]
+1 Gift of Fangs [foil]
+1 Apprentice Sharpshooter [foil]
+1 [C21:239] Commander's Sphere
+1 Thirst for Discovery
+1 Markov Waltzer
+1 [WAR:217] Sorin, Vengeful Bloodlord
+1 [MIC:84] Dearly Departed
+1 [C20:225] Niv-Mizzet, the Firemind
+1 Voldaren Epicure
