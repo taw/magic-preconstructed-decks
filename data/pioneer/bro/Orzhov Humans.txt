@@ -6,7 +6,7 @@
 4 Thalia, Guardian of Thraben
 4 Thalia's Lieutenant
 4 Bloodsoaked Champion
-4 Kitesail Freebooter
+4 Kitesail Freebooter [XLN]
 4 Dauntless Bodyguard
 4 Thraben Inspector
 2 Bloodchief's Thirst
@@ -15,10 +15,10 @@
 4 Caves of Koilos
 4 Concealed Courtyard
 1 Godless Shrine
-2 Mutavault
+2 Mutavault [CLB]
 4 Unclaimed Territory
 4 Secluded Courtyard
-3 Plains
+3 Plains [DMU]
 
 Sideboard
 1 Giant Killer
@@ -26,4 +26,4 @@ Sideboard
 2 Sungold Sentinel
 3 Portable Hole
 4 Sunset Revelry
-3 Duress
+3 Duress [M21]
