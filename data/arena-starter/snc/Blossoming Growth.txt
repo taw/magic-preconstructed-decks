@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2022-09-09
 2 Fang of Shigeki
-1 Triskaidekaphile
+1 Triskaidekaphile [MID:81]
 3 Jewel Thief
 1 Psychic Pickpocket
 1 Sludge Monster

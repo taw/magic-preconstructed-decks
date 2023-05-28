@@ -18,7 +18,7 @@
 2 Thirst for Discovery
 2 Homestead Courage
 3 Borrowed Time
-1 Sigarda's Summons
+1 Sigarda's Summons [VOW:36]
 9 Island
 9 Plains
 4 Tranquil Cove

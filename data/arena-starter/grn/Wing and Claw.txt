@@ -1,6 +1,6 @@
 // NAME: Wing and Claw
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
-// DATE: 2018-09-27
+// DATE: 2018-11-17
 2 Healer's Hawk
 3 Kitesail Corsair
 3 Sunhome Stalwart

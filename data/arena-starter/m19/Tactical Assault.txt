@@ -10,16 +10,16 @@
 3 Star-Crowned Stag
 1 Herald of Faith
 2 Serra Angel
-1 Spiritual Guardian
-1 Inspiring Commander
+1 [ANB] Spiritual Guardian
+1 [ANB] Inspiring Commander
 1 Serra's Guardian
 1 Meteor Golem
 1 Zetalpa, Primal Dawn
 2 Knight's Pledge
 3 Luminous Bonds
-1 Angelic Reward
-3 Tactical Advantage
-1 Confront the Assault
+1 [ANB] Angelic Reward
+3 [ANB] Tactical Advantage
+1 [ANB] Confront the Assault
 2 Take Vengeance
 25 Plains
 

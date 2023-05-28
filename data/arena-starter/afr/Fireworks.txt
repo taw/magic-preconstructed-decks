@@ -6,7 +6,7 @@
 3 Prismari Pledgemage
 3 Aegar, the Freezing Flame
 3 Umara Mystic
-1 Archmage Emeritus
+1 [STX:37] Archmage Emeritus
 1 Basalt Ravager
 1 Demilich
 2 Maelstrom Muse

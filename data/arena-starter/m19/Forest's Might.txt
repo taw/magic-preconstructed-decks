@@ -3,12 +3,12 @@
 // DATE: 2018-09-27
 2 Llanowar Elves
 2 Druid of the Cowl
-2 Greenwood Sentinel
+2 [ANB] Greenwood Sentinel
 3 Highland Game
 3 Centaur Courser
 2 Elvish Rejuvenator
 3 Bristling Boar
-1 Gigantosaurus
+1 [ANB] Gigantosaurus
 2 Vigilant Baloth
 1 Aggressive Mammoth
 1 Meteor Golem
@@ -16,9 +16,9 @@
 2 Blanchwood Armor
 1 Prodigious Growth
 2 Plummet
-3 Titanic Growth
+3 [ANB] Titanic Growth
 1 Verdant Rebirth
-3 Rabid Bite
+3 [ANB] Rabid Bite
 25 Forest
 
 Sideboard

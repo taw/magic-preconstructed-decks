@@ -13,10 +13,10 @@
 4 Field Creeper
 2 Gearsmith Guardian
 1 Meteor Golem
-1 Riddlemaster Sphinx
-3 Air Elemental
+1 [ANB] Riddlemaster Sphinx
+3 [ANB] Air Elemental
 1 Arcane Encyclopedia
-3 Waterknot
+3 [ANB] Waterknot
 2 Disperse
 1 Befuddle
 1 Divination

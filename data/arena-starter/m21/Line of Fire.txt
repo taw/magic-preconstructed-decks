@@ -6,7 +6,7 @@
 3 Careless Celebrant
 3 Discordant Piper
 1 Kroxa, Titan of Death's Hunger
-1 Piper of the Swarm
+1 Piper of the Swarm [ELD:100]
 3 Slaughter-Priest of Mogis
 3 Dire Fleet Warmonger
 1 Liliana's Standard Bearer

@@ -21,7 +21,7 @@
 1 Howling Moon
 9 Forest
 9 Mountain
-4 Rugged HighLands
+4 Rugged Highlands
 1 Rockfall Vale
 2 Racers' Ring
 

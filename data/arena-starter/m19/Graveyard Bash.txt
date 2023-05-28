@@ -16,9 +16,9 @@
 1 Meteor Golem
 1 Open the Graves
 2 Skulduggery
-3 Murder
+3 [ANB] Murder
 2 Strangling Spores
-1 Rise from the Grave
+1 [ANB] Rise from the Grave
 25 Swamp
 
 Sideboard

@@ -12,10 +12,10 @@
 2 Sparktongue Dragon
 1 Burning Sun's Avatar
 1 Lathliss, Dragon Queen
-2 Volcanic Dragon
+2 [ANB] Volcanic Dragon
 1 Meteor Golem
 2 Fiery Finish
-3 Shock
+3 [ANB] Shock
 3 Sure Strike
 1 Spit Flame
 25 Mountain

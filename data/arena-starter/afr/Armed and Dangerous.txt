@@ -25,7 +25,7 @@
 4 Alpine Meadow
 1 Axgard Armory
 10 Mountain
-1 Needleverge Pathway
+1 [ZNR:263a] Needleverge Pathway
 8 Plains
 
 Sideboard

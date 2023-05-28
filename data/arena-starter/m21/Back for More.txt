@@ -8,7 +8,7 @@
 3 Llanowar Visionary
 1 Murderous Rider
 2 Acolyte of Affliction
-1 Arasta of the Endless Web
+1 Arasta of the Endless Web [THB:165]
 2 Boneyard Lurker
 1 Nightmare Shepherd
 1 Polukranos, Unchained

@@ -15,7 +15,7 @@
 1 Soul Transfer
 2 Citizen's Crowbar
 1 Mukotai Soulripper
-1 Mysterious Limousine
+1 Mysterious Limousine [SNC:22]
 1 Michiko's Reign of Truth
 1 Life of Toshiro Umezawa
 1 Touch the Spirit Realm
