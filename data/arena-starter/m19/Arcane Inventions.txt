@@ -1,0 +1,25 @@
+// NAME: Arcane Inventions
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+1 Tempest Djinn
+1 Zahid, Djinn of the Lamp
+2 Gilded Sentinel
+2 Aven Wind Mage
+3 Aviation Pioneer
+3 Gearsmith Prodigy
+1 Sai, Master Thopterist
+2 Scholar of Stars
+1 Diamond Mare
+4 Field Creeper
+2 Gearsmith Guardian
+1 Meteor Golem
+1 Riddlemaster Sphinx
+3 Air Elemental
+1 Arcane Encyclopedia
+3 Waterknot
+2 Disperse
+1 Befuddle
+1 Divination
+25 Island
+
+Sideboard

@@ -1,0 +1,26 @@
+// NAME: Cold-Blooded Killers
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+// DATE: 2020-08-13
+2 Sanitarium Skeleton
+2 Typhoid Rats
+3 Malakir Cullblade
+2 Vampire Opportunist
+2 Mardu Outrider
+3 Savage Gorger
+2 Skeleton Archer
+2 Sengir Vampire
+1 Soulhunter Rakshasa
+1 Nightmare
+2 Demon of Loathing
+1 Eternal Thirst
+4 Compound Fracture
+1 Cruel Cut
+3 Unlikely Aid
+3 Murder
+1 Bad Deal
+25 Swamp
+
+Sideboard
+3 Raise Dead
+2 Krovikan Scoundrel
+4 Scathe Zombies

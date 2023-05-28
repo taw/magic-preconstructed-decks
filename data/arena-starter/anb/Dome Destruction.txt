@@ -1,0 +1,19 @@
+// NAME: Dome Destruction
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Account Mastery system
+1 Dreadhorde Arcanist
+3 Ember Hauler
+4 Pack Mastiff
+4 Chandra's Spitfire
+4 Spellgorger Weird
+1 Erratic Cyclops
+2 Shivan Dragon
+2 Drakuseth, Maw of Flames
+1 Meteor Golem
+4 Shock
+3 Chandra's Pyrohelix
+4 Chandra's Outrage
+2 Inescapable Blaze
+25 Mountain
+
+Sideboard

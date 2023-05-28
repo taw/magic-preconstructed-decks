@@ -1,0 +1,26 @@
+// NAME: Dungeon Delving
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+3 Ranger's Hawk
+3 Malakir Blood-Priest
+1 Nullpriest of Oblivion
+3 Thunderous Orator
+1 Triumphant Adventurer
+1 Acererak the Archlich
+2 Gloom Stalker
+1 Nadaar, Selfless Paladin
+3 Yuan-Ti Fang-Blade
+3 Barrowin of Clan Undurr
+3 Veteran Dungeoneer
+2 Demonic Gifts
+1 Vanishing Verse
+3 Closing Statement
+1 Silverquill Command
+3 Cloister Gargoyle
+2 Precipitous Drop
+1 Brightclimb Pathway
+9 Plains
+4 Snowfield Sinkhole
+10 Swamp
+
+Sideboard

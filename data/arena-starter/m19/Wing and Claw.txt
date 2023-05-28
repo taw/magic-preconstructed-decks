@@ -1,0 +1,27 @@
+// NAME: Wing and Claw
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+2 Healer's Hawk
+3 Kitesail Corsair
+3 Sunhome Stalwart
+1 Warkite Marauder
+2 Blade Instructor
+2 Pegasus Courser
+2 Territorial Hammerskull
+2 Imperial Aerosaur
+2 Serra Angel
+1 Azor, the Lawbringer
+1 Light of the Legion
+1 Goring Ceratops
+1 Nezahal, Primal Tide
+3 Favorable Winds
+2 One With the Wind
+3 Seal Away
+3 Disperse
+1 Settle the Wreckage
+4 Meandering River
+10 Plains
+10 Island
+1 Glacial Fortress
+
+Sideboard

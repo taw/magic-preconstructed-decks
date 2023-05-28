@@ -1,0 +1,37 @@
+// NAME: Golgari Exploration
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Deadeye Tracker
+1 Emperor's Vanguard
+2 Ixalli's Diviner
+1 Jungle Creeper
+3 Lurking Chupacabra
+1 Mausoleum Harpy
+1 Merfolk Branchwalker
+1 Ravenous Chupacabra
+1 Scaled Behemoth
+2 Seekers' Squire
+1 Sifter Wurm
+1 Tendershoot Dryad
+1 Thrashing Brontodon
+2 Tishana's Wayfinder
+1 Tomb Robber
+1 Vizier of the Menagerie
+3 Wildgrowth Walker
+1 Path of Discovery
+1 Shadowed Caravel
+1 Doomfall
+1 Enter the Unknown
+1 Golden Demise
+1 Impale
+1 Walk the Plank
+1 Final Reward
+2 Moment of Craving
+1 Reaver Ambush
+10 Forest
+4 Foul Orchard
+1 Hashep Oasis
+1 Ifnir Deadlands
+9 Swamp
+
+Sideboard

@@ -1,0 +1,28 @@
+// NAME: Cult of Rakdos
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+3 Footlight Fiend
+2 Spear Spewer
+2 Cult Guildmage
+1 Dreadhorde Butcher
+3 Hackrobat
+1 Judith, the Scourge Diva
+1 Mayhem Devil
+2 Rakdos Roustabout
+2 Rakdos Firewheeler
+1 Spawn of Mayhem
+2 Blade Juggler
+1 Theater of Horrors
+2 Carnival // Carnage
+3 Shock
+1 Bedeck // Bedazzle
+1 Bedevil
+2 Get the Point
+2 Light Up the Stage
+3 Skewer the Critics
+1 Blood Crypt
+4 Rakdos Guildgate
+10 Swamp
+10 Mountain
+
+Sideboard

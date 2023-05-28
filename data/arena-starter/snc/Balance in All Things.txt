@@ -1,0 +1,31 @@
+// NAME: Balance in All Things
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+1 Dockside Chef
+1 Lion Sash
+3 Spirited Companion
+3 Chainflail Centipede
+2 Circuit Mender
+2 Nezumi Bladeblesser
+3 Kami of Terrible Secrets
+1 Liesa, Forgotten Archangel
+3 Naomi, Pillar of Order
+2 Assassin's Ink
+2 Banishing Slash
+1 Soul Transfer
+2 Citizen's Crowbar
+1 Mukotai Soulripper
+1 Mysterious Limousine
+1 Michiko's Reign of Truth
+1 Life of Toshiro Umezawa
+1 Touch the Spirit Realm
+1 The Restoration of Eiganjo
+2 Twisted Embrace
+1 Spirit-Sister's Call
+9 Plains
+10 Swamp
+4 Scoured Barrens
+1 Shattered Sanctum
+1 Roadside Reliquary
+
+Sideboard

@@ -1,0 +1,27 @@
+// NAME: Auras of Majesty
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Novice Knight
+2 Daybreak Chaplain
+2 Greenwood Sentinel
+1 Siegehorn Ceratops
+1 Thorn Lieutenant
+1 Danitha Capashen, Paragon
+3 Satyr Enchanter
+3 Druid of Horns
+1 Shalai, Voice of Plenty
+3 Knight's Pledge
+1 History of Benalia
+3 Luminous Bonds
+3 Oakenform
+1 Ajani's Last Stand
+3 Hieromancer's Cage
+1 On Serra's Wings
+2 Knightly Valor
+1 Prodigious Growth
+11 Plains
+1 Sunpetal Grove
+9 Forest
+4 Tranquil Expanse
+
+Sideboard

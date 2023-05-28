@@ -1,0 +1,39 @@
+// NAME: Dimir Manipulation
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Air Elemental
+1 Angler Drake
+1 Champion of Wits
+1 Glyph Keeper
+1 Labyrinth Guardian
+1 Nezahal, Primal Tide
+1 Ravenous Chupacabra
+1 Soul of the Rapids
+1 Tetzimoc, Primal Death
+1 Treasure Map
+1 Doomfall
+1 Golden Demise
+1 Impale
+1 Overflowing Insight
+1 Secrets of the Golden City
+1 Walk the Plank
+2 Cancel
+1 Censor
+2 Essence Scatter
+1 Final Reward
+2 Hieroglyphic Illumination
+1 Hornswoggle
+2 Moment of Craving
+1 Negate
+2 Opt
+1 Reaver Ambush
+1 Supreme Will
+1 Unsummon
+1 Vanquish the Weak
+2 Evolving Wilds
+1 Field of Ruin
+10 Island
+4 Submerged Boneyard
+9 Swamp
+
+Sideboard

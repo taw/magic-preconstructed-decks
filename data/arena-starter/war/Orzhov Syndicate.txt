@@ -1,0 +1,29 @@
+// NAME: Orzhov Syndicate
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+2 Basilica Bell-Haunt
+3 Cruel Celebrant
+2 Grasping Thrull
+2 Imperious Oligarch
+2 Ministrant of Obligation
+2 Orzhov Enforcer
+3 Pitiless Pontiff
+2 Plaguecrafter
+1 Priest of Forgotten Gods
+1 Seraph of the Scales
+2 Sunblade Angel
+1 Teysa Karlov
+1 Vindictive Vampire
+1 Ethereal Absolution
+2 Consecrate // Consume
+2 Despark
+3 Mortify
+1 Unlikely Aid
+1 Kaya's Wrath
+1 Revival // Revenge
+1 Godless Shrine
+4 Orzhov Guildgate
+10 Plains
+10 Swamp
+
+Sideboard

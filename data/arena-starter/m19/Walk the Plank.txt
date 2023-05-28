@@ -1,0 +1,27 @@
+// NAME: Walk the Plank
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Grasping Scoundrel
+3 Siren Stormtamer
+3 Departed Deckhand
+1 Dire Fleet Poisoner
+3 Kitesail Corsair
+2 Kitesail Freebooter
+2 Exclusion Mage
+2 Fathom Fleet Boarder
+1 Ruin Raider
+2 Deadeye Rig-Hauler
+1 Dreamcaller Siren
+1 Hostage Taker
+2 Ravenous Chupacabra
+2 Siren Reaver
+1 Demonlord Belzenlok
+1 Riddlemaster Sphinx
+3 Murder
+2 Chart a Course
+10 Island
+10 Swamp
+1 Drowned Catacomb
+4 Submerged Boneyard
+
+Sideboard

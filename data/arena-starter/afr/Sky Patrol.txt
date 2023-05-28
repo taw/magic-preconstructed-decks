@@ -1,0 +1,27 @@
+// NAME: Sky Patrol
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+3 Stonebinder's Familiar
+3 Dawnbringer Cleric
+1 Luminarch Aspirant
+2 Karfell Harbinger
+1 Elite Spellbinder
+1 Grazilaxx, Illithid Scholar
+3 Vega, the Watcher
+3 Augury Raven
+1 Cosmos Charger
+2 Shepherd of the Cosmos
+2 Portable Hole
+2 Journey to Oblivion
+3 Expel
+1 Iron Verdict
+3 Saw It Coming
+2 Behold the Multiverse
+1 Starnheim Unleashed
+1 Doomskar
+9 Island
+11 Plains
+1 Hengegate Pathway
+4 Glacial Floodplain
+
+Sideboard

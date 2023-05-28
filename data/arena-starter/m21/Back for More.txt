@@ -1,0 +1,27 @@
+// NAME: Back for More
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+3 Mire Triton
+2 Order of Midnight
+3 Skull Prophet
+3 Deathbloom Thallid
+3 Llanowar Visionary
+1 Murderous Rider
+2 Acolyte of Affliction
+1 Arasta of the Endless Web
+2 Boneyard Lurker
+1 Nightmare Shepherd
+1 Polukranos, Unchained
+2 Twinblade Assassins
+1 Treeshaker Chimera
+3 Dead Weight
+1 Demonic Embrace
+2 Sudden Spinnerets
+2 Drag to the Underworld
+2 Back for More
+10 Forest
+4 Jungle Hollow
+10 Swamp
+1 Temple of Malady
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Azure Skies
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Color Challenge system
+// DATE: 2020-03-12
+2 Spectral Sailor
+3 Wall of Runes
+3 Brineborn Cutthroat
+4 Cloudkin Seer
+3 Warden of Evos Isle
+2 Dungeon Geists
+3 Air Elemental
+3 Windstorm Drake
+2 Riddlemaster Sphinx
+4 Unsummon
+2 Negate
+1 Stolen by the Fae
+2 Winged Words
+1 Mass Manipulation
+25 Island
+
+Sideboard

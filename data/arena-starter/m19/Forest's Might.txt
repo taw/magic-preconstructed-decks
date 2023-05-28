@@ -1,0 +1,24 @@
+// NAME: Forest's Might
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+2 Llanowar Elves
+2 Druid of the Cowl
+2 Greenwood Sentinel
+3 Highland Game
+3 Centaur Courser
+2 Elvish Rejuvenator
+3 Bristling Boar
+1 Gigantosaurus
+2 Vigilant Baloth
+1 Aggressive Mammoth
+1 Meteor Golem
+1 Ghalta, Primal Hunger
+2 Blanchwood Armor
+1 Prodigious Growth
+2 Plummet
+3 Titanic Growth
+1 Verdant Rebirth
+3 Rabid Bite
+25 Forest
+
+Sideboard

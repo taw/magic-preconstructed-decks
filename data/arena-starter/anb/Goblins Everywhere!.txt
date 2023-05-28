@@ -1,0 +1,25 @@
+// NAME: Goblins Everywhere!
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2020-08-13
+3 Tin Street Cadet
+2 Goblin Tunneler
+4 Nest Robber
+2 Molten Ravager
+2 Goblin Gang Leader
+1 Goblin Trashmaster
+2 Ogre Battledriver
+1 Immortal Phoenix
+1 Volcanic Dragon
+2 Siege Dragon
+2 Raid Bombardment
+3 Shock
+2 Storm Strike
+2 Burn Bright
+2 Inescapable Blaze
+4 Goblin Gathering
+25 Mountain
+
+Sideboard
+2 Raging Goblin
+4 Hurloon Minotaur
+3 Reduce to Ashes

@@ -1,0 +1,27 @@
+// NAME: Wrath of Mages
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Ghitu Lavarunner
+1 Mystic Archaeologist
+3 Vodalian Arcanist
+2 Aven Wind Mage
+3 Enigma Drake
+2 Guttersnipe
+1 Rowdy Crew
+1 Salvager of Secrets
+3 Shivan Fire
+2 Blink of an Eye
+3 Disperse
+2 Lightning Strike
+1 Banefire
+1 Entrancing Melody
+2 Fight with Fire
+1 Repeating Barrage
+3 Sift
+1 River's Rebuke
+1 Sulfur Falls
+10 Island
+4 Highland Lake
+10 Mountain
+
+Sideboard

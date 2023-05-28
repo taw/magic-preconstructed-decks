@@ -1,0 +1,31 @@
+// NAME: Armed and Dangerous
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+2 Akoum Warrior
+1 Halvar, God of Battle
+3 Fireblade Charger
+2 Kitesail Cleric
+2 Beskir Shieldmate
+2 Kor Blademaster
+1 Arni Brokenbrow
+2 Kargan Warleader
+2 Bruenor Battlehammer
+2 Shepherd of the Cosmos
+2 Resolute Strike
+1 Lorehold Command
+3 Roil Eruption
+1 Pigment Storm
+1 Dancing Sword
+2 Scavenged Blade
+3 Dwarven Hammer
+1 Maul of the Skyclaves
+1 Rune of Speed
+1 Rune of Sustenance
+1 Showdown of the Skalds
+4 Alpine Meadow
+1 Axgard Armory
+10 Mountain
+1 Needleverge Pathway
+8 Plains
+
+Sideboard

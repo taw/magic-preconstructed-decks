@@ -1,0 +1,29 @@
+// NAME: Stealthy Subterfuge
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+1 Kaito Shizuki
+3 Network Disruptor
+1 Thousand-Faced Shadow
+3 Dokuchi Silencer
+2 Inkrise Infiltrator
+3 Silver-Fur Master
+2 Moon-Circuit Hacker
+2 Prosperous Thief
+1 Biting-Palm Ninja
+1 Satoru Umezawa
+1 Nashi, Moon Sage's Scion
+3 Mukotai Ambusher
+2 Moonsnare Specialist
+1 Kotose, the Silent Spider
+2 Dokuchi Shadow-Walker
+2 Fading Hope
+2 Fake Your Own Death
+2 Hero's Downfall
+1 The Long Reach of Night
+1 Behold the Unspeakable
+17 Island
+4 Dismal Backwater
+1 Shipwreck Marsh
+2 Waterfront District
+
+Sideboard

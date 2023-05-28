@@ -1,0 +1,26 @@
+// NAME: Massive Menagerie
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+2 Almighty Brushwagg
+3 Maraleaf Pixie
+2 Llanowar Visionary
+3 Thunderous Snapper
+1 Elder Gargaroth
+2 Keeper of Fables
+1 Kogla, the Titan Ape
+1 Serpent of Yawning Depths
+3 Beanstalk Giant
+1 Pursued Whale
+1 Thorn Mammoth
+2 Witching Well
+3 Wolfwillow Haven
+3 Ram Through
+3 Fully Grown
+1 Sublime Epiphany
+2 Cultivate
+11 Forest
+10 Island
+1 Temple of Mystery
+4 Thornwood Falls
+
+Sideboard

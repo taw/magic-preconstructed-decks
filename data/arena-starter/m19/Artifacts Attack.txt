@@ -1,0 +1,26 @@
+// NAME: Artifacts Attack
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Gearsmith Prodigy
+4 Field Creeper
+2 Relic Runner
+3 Aviation Pioneer
+3 Skyscanner
+3 Aerial Engineer
+2 Aethershield Artificer
+2 Juggernaut
+1 Teshar, Ancestor's Apostle
+1 Azor, the Lawbringer
+1 Goring Ceratops
+1 Nezahal, Primal Tide
+3 Seal Away
+2 Disperse
+1 Settle the Wreckage
+2 Temporal Machinations
+1 One with the Machine
+11 Island
+1 Glacial Fortress
+9 Plains
+4 Meandering River
+
+Sideboard

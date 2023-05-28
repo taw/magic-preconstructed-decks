@@ -1,0 +1,29 @@
+// NAME: Simic Combine
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+3 Aeromunculus
+1 Benthic Biomancer
+1 Biomancer's Familiar
+1 Chillbringer
+2 Combine Guildmage
+2 Gyre Engineer
+1 Hydroid Krasis
+1 Incubation Druid
+2 Merfolk Skydiver
+1 Pteramander
+2 Sauroform Hybrid
+3 Sharktocrab
+1 Zegana, Utopian Speaker
+2 Kasmina's Transmutation
+3 Applied Biomancy
+2 Growth Spiral
+2 Incubation // Incongruity
+1 Repudiate // Replicate
+2 Stony Strength
+2 Titanic Brawl
+1 Breeding Pool
+4 Simic Guildgate
+10 Forest
+10 Island
+
+Sideboard

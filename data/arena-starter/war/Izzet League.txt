@@ -1,0 +1,28 @@
+// NAME: Izzet League
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+2 Augur of Bolas
+2 Crackling Drake
+2 Electrostatic Field
+1 Erratic Cyclops
+3 Goblin Electromancer
+2 League Guildmage
+3 Murmuring Mystic
+1 Niv-Mizzet, Parun
+1 Runaway Steam-Kin
+3 Wee Dragonauts
+1 Firemind's Research
+1 Thousand-Year Storm
+2 Chemister's Insight
+1 Expansion // Explosion
+1 Invert // Invent
+2 Radical Idea
+3 Shock
+1 Direct Current
+3 Lava Coil
+4 Izzet Guildgate
+1 Steam Vents
+10 Island
+10 Mountain
+
+Sideboard

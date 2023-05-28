@@ -1,0 +1,27 @@
+// NAME: Grave Matters
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+3 Deathbonnet Sprout
+2 Doomed Dissenter
+2 Reclusive Taxidermist
+1 Tenacious Underdog
+3 Undead Butler
+1 Old Stickfingers
+1 Shigeki, Jukai Visionary
+2 Gravelighter
+3 Fell Stinger
+2 Gloomshrieker
+1 Old Rutstein
+3 Bloodsworn Squire
+2 Moldgraf Millipede
+1 Spring-Leaf Avenger
+2 Infernal Grasp
+2 Eaten Alive
+3 Mulch
+1 Ghoulcaller's Harvest
+10 Forest
+10 Swamp
+4 Jungle Hollow
+1 Deathcap Glade
+
+Sideboard

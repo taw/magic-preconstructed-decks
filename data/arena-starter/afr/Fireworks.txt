@@ -1,0 +1,28 @@
+// NAME: Fireworks
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+2 Arcane Investigator
+1 Kaza, Roil Chaser
+3 Prismari Pledgemage
+3 Aegar, the Freezing Flame
+3 Umara Mystic
+1 Archmage Emeritus
+1 Basalt Ravager
+1 Demilich
+2 Maelstrom Muse
+2 Rockslide Sorcerer
+2 Air-Cult Elemental
+3 Demon Bolt
+1 Prismari Command
+2 Farideh's Fireball
+1 Creative Outburst
+1 Multiple Choice
+2 Thundering Rebuke
+3 Mentor's Guidance
+1 Meteor Swarm
+10 Island
+10 Mountain
+1 Riverglide Pathway
+4 Volatile Fjord
+
+Sideboard

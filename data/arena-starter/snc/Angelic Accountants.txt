@@ -1,0 +1,28 @@
+// NAME: Angelic Accountants
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+1 Elspeth Resplendent
+1 Hopeful Initiate
+1 Lion Sash
+3 Parish-Blade Trainee
+3 Raffine's Informant
+1 Giada, Font of Hope
+3 Celestial Regulator
+3 Inspiring Overseer
+3 Metropolis Angel
+1 Undercover Operative
+3 Angelic Quartermaster
+1 Light the Way
+2 Valorous Stance
+1 Planar Incision
+2 Thirst for Discovery
+2 Homestead Courage
+3 Borrowed Time
+1 Sigarda's Summons
+9 Island
+9 Plains
+4 Tranquil Cove
+1 Deserted Beach
+2 Skybridge Towers
+
+Sideboard

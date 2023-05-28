@@ -1,0 +1,28 @@
+// NAME: Mutation Station
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+3 Mysterious Egg
+2 Boot Nipper
+3 Pollywog Symbiote
+1 Sea-Dasher Octopus
+2 Tome Raider
+1 Atris, Oracle of Half-Truths
+1 Dirge Bat
+3 Insatiable Hemophage
+2 Dreamtail Heron
+2 Pouncing Shoreshark
+1 Underworld Sentinel
+2 Chittering Harvester
+1 Lochmere Serpent
+1 Massacre Wurm
+1 Archipelagore
+2 Rookie Mistake
+2 Stern Dismissal
+2 Eliminate
+2 Unexpected Fangs
+4 Dismal Backwater
+10 Island
+11 Swamp
+1 Temple of Deceit
+
+Sideboard

@@ -1,0 +1,38 @@
+// NAME: The Sun Empire
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Burning Sun's Avatar
+1 Channeler Initiate
+1 Charging Monstrosaur
+1 Drover of the Mighty
+1 Etali, Primal Storm
+2 Forerunner of the Empire
+1 Frilled Deathspitter
+1 Naga Vitalist
+2 Needletooth Raptor
+1 Otepec Huntmaster
+2 Raging Regisaur
+2 Raging Swordtooth
+2 Ranging Raptors
+1 Raptor Hatchling
+1 Samut, Voice of Dissent
+1 Snapping Sailback
+1 Thrashing Brontodon
+1 Thundering Spineback
+1 Verdant Sun's Avatar
+2 Commune with Dinosaurs
+1 Mouth // Feed
+1 Puncturing Blow
+1 Rile
+2 Savage Stomp
+1 Thunderherd Migration
+1 Abrade
+1 Lightning Strike
+1 Shake the Foundations
+10 Forest
+1 Hashep Oasis
+9 Mountain
+4 Timber Gorge
+1 Unclaimed Territory
+
+Sideboard

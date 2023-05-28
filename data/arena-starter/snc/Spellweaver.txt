@@ -1,0 +1,29 @@
+// NAME: Spellweaver
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+3 Festival Crasher
+1 Smoldering Egg
+2 Wandering Mind
+3 Spellrune Painter
+1 Vadrik, Astral Archmage
+2 Storm Skreelix
+1 Lier, Disciple of the Drowned
+3 Consider
+2 Play with Fire
+3 Abrade
+1 Cathartic Pyre
+2 Arcane Infusion
+1 Electric Revelation
+2 Thirst for Discovery
+1 Memory Deluge
+1 Big Score
+2 Reckless Impulse
+2 Seize the Storm
+1 Burn Down the House
+1 Geistflame Reservoir
+10 Island
+10 Mountain
+4 Swiftwater Cliffs
+1 Stormcarved Coast
+
+Sideboard

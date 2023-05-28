@@ -1,0 +1,27 @@
+// NAME: Saproling Swarm
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Doomed Dissenter
+3 Deathbloom Thallid
+1 Slimefoot, the Stowaway
+3 Yavimaya Sapherd
+3 Poison-Tip Archer
+2 Thallid Omnivore
+1 Twilight Prophet
+1 Whisper, Blood Liturgist
+1 Tendershoot Dryad
+1 Torgaar, Famine Incarnate
+1 Verdant Force
+1 Path of Discovery
+1 Rite of Belzenlok
+3 Fungal Infection
+2 Costly Plunder
+3 Vicious Offering
+2 Spore Swarm
+3 Saproling Migration
+10 Swamp
+1 Woodland Cemetery
+10 Forest
+4 Foul Orchard
+
+Sideboard

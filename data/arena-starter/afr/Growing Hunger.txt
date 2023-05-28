@@ -1,0 +1,27 @@
+// NAME: Growing Hunger
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+1 Ochre Jelly
+3 Deathknell Berserker
+3 Moss-Pit Skeleton
+1 Grakmaw, Skyclave Ravager
+2 Hagra Constrictor
+1 Oran-Rief Ooze
+3 Promising Duskmage
+2 Master Symmetrist
+1 Drana, the Last Bloodchief
+3 Tenured Inkcaster
+1 Vastwood Fortification
+2 Snakeskin Veil
+3 Big Play
+3 Power Word Kill
+1 Exponential Growth
+3 Struggle for Skemfar
+1 Ranger Class
+2 Binding the Old Gods
+1 Darkbore Pathway
+9 Forest
+10 Swamp
+4 Woodland Chasm
+
+Sideboard

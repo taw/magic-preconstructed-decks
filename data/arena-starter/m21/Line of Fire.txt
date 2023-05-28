@@ -1,0 +1,29 @@
+// NAME: Line of Fire
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+2 Serrated Scorpion
+2 Blood Aspirant
+3 Careless Celebrant
+3 Discordant Piper
+1 Kroxa, Titan of Death's Hunger
+1 Piper of the Swarm
+3 Slaughter-Priest of Mogis
+3 Dire Fleet Warmonger
+1 Liliana's Standard Bearer
+1 Woe Strider
+1 Elite Headhunter
+1 Tectonic Giant
+1 Goremand
+1 Alchemist's Gift
+2 Infuriate
+2 Village Rites
+3 Fire Prophecy
+2 Heartless Act
+1 Eat to Extinction
+2 Forbidden Friendship
+4 Bloodfell Caves
+9 Mountain
+10 Swamp
+1 Temple of Malice
+
+Sideboard

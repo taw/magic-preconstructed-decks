@@ -1,0 +1,27 @@
+// NAME: Selesnya Conclave
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+3 Healer's Hawk
+3 Hunted Witness
+1 Conclave Guildmage
+1 Emmara, Soul of the Accord
+3 Paradise Druid
+2 Centaur Peacemaker
+1 Knight of Autumn
+3 Conclave Cavalier
+2 Rosemane Centaur
+1 Tolsimir, Friend to Wolves
+1 Venerated Loxodon
+3 Conclave Tribunal
+2 Might of the Masses
+2 Take Heart
+1 Assure // Assemble
+1 March of the Multitudes
+2 Pledge of Unity
+3 Flower // Flourish
+4 Selesnya Guildgate
+1 Temple Garden
+10 Forest
+10 Plains
+
+Sideboard

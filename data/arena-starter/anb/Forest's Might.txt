@@ -1,0 +1,20 @@
+// NAME: Forest's Might
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Account Mastery system
+3 Barkhide Troll
+4 Greenwood Sentinel
+1 Voracious Hydra
+3 Gnarlback Rhino
+1 Prized Unicorn
+3 Silverback Shaman
+2 Aggressive Mammoth
+2 Gargos, Vicious Watcher
+1 Wakeroot Elemental
+1 Meteor Golem
+4 Rabid Bite
+3 Giant Growth
+4 Growth Cycle
+3 Season of Growth
+25 Forest
+
+Sideboard

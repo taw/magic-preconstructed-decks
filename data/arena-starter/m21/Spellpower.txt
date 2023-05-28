@@ -1,0 +1,28 @@
+// NAME: Spellpower
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+2 Merfolk Secretkeeper
+2 Vodalian Arcanist
+1 Brazen Borrower
+3 Spelleater Wolverine
+2 Spellgorger Weird
+1 Wavebreak Hippocamp
+1 Stormwing Entity
+1 Riddleform
+1 Double Vision
+1 Shark Typhoon
+3 Opt
+2 Shock
+2 Anticipate
+3 Scorching Dragonfire
+2 Frost Breath
+2 Forbidden Friendship
+1 Stolen by the Fae
+3 Experimental Overload
+2 Boon of the Wish-Giver
+10 Island
+10 Mountain
+4 Swiftwater Cliffs
+1 Temple of Epiphany
+
+Sideboard
