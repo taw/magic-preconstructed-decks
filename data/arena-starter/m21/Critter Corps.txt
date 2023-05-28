@@ -12,7 +12,7 @@
 1 Rambunctious Mutt
 3 Colossal Dreadmaw
 3 Faith's Fetters
-1 Colossification
+1 [IKO:148] Colossification
 3 Ram Through
 2 Basri's Solidarity
 1 The Ozolith
