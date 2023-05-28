@@ -1,0 +1,29 @@
+// NAME: Sneak Squad
+// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Welcome_booster#Sneak_Squad_deck
+// DATE: 2022-09-09
+1 Blade of the Oni
+1 Malevolent Hermit // Benevolent Geist
+1 Mirrorhall Mimic // Ghastly Mimicry
+1 Aven Heartstabber
+1 Hypnotic Grifter
+3 Lantern Bearer // Lanterns' Lift
+2 Covetous Castaway // Ghostly Castigator
+2 Psychic Pickpocket
+3 Raffine's Silencer
+2 Covert Cutpurse // Covetous Geist
+3 Dreadhound
+3 Snooping Newsie
+2 Syndicate Infiltrator
+1 Cemetery Tampering
+2 Consider
+2 Undying Malice
+2 Murder
+2 Deal Gone Bad
+2 Tainted Indulgence
+3 Obscura Storefront
+4 Waterfront District
+2 Dismal Backwater
+8 Swamp
+7 Island
+
+Sideboard

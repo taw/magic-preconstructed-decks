@@ -1,0 +1,26 @@
+// NAME: Critter Corps
+// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Welcome_booster#Critter_Corps_deck
+// DATE: 2021-07-03
+2 Loyal Pegasus
+2 Selfless Savior
+3 Alpine Watchdog
+3 Conclave Mentor
+1 Wildborn Preserver
+3 Pridemalkin
+2 Trufflesnout
+3 Basri's Acolyte
+1 Rambunctious Mutt
+3 Colossal Dreadmaw
+3 Faith's Fetters
+1 Colossification
+3 Ram Through
+2 Basri's Solidarity
+1 The Ozolith
+1 Mace of the Valiant
+1 The Great Henge
+4 Blossoming Sands
+1 Fabled Passage
+10 Forest
+10 Plains
+
+Sideboard

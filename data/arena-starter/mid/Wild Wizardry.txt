@@ -1,0 +1,28 @@
+// NAME: Wild Wizardry
+// SOURCE: https://mtg.fandom.com/wiki/Innistrad:_Midnight_Hunt/Welcome_booster#Wild_Wizardry_deck
+// DATE: 2021-09-24
+1 Magmatic Channeler
+1 Efreet Flamepainter
+3 Prismari Apprentice
+2 Spectacle Mage
+3 Umara Mystic
+2 Chaos Channeler
+2 Maelstrom Muse
+1 Wizard Class
+1 Prismari Command
+2 Shock
+2 Into the Roil
+2 Practical Research
+3 Silundi Vision
+1 Alrund's Epiphany
+3 Roil Eruption
+1 Magic Missile
+2 Pigment Storm
+3 Sleep
+3 Song-Mad Treachery
+1 Wizard's Spellbook
+4 Prismari Campus
+8 Island
+9 Mountain
+
+Sideboard
