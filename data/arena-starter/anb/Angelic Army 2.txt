@@ -1,0 +1,23 @@
+// NAME: Angelic Army
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Color Challenge system
+// DATE: 2020-03-12
+4 Charmed Stray
+3 Ajani's Pridemate
+3 Fencing Ace
+3 Impassioned Orator
+3 Angel of Vitality
+2 Serra Angel
+2 Inspiring Commander
+1 Loxodon Lifechanter
+2 Serra's Guardian
+1 Dawn of Hope
+4 Pacifism
+1 Angelic Reward
+1 Tactical Advantage
+3 Moment of Heroism
+1 Confront the Assault
+1 Bond of Discipline
+25 Plains
+
+Sideboard

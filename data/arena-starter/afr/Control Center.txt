@@ -1,0 +1,29 @@
+// NAME: Control Center
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+3 Tazeem Roilmage
+3 Elderfang Disciple
+1 Dragon Turtle
+1 Callous Bloodmage
+2 Vampire Spawn
+1 Gelatinous Cube
+1 Iymrith, Desert Doom
+1 Mind Flayer
+1 Undersea Invader
+1 Blue Dragon
+1 Black Dragon
+2 Curate
+2 Reject
+3 Flunk
+2 You Find the Villains' Lair
+3 Poison the Cup
+2 Contact Other Plane
+1 Baleful Mastery
+3 Skull Raid
+10 Island
+10 Swamp
+1 Clearwater Pathway
+4 Ice Tunnel
+1 Port of Karfell
+
+Sideboard

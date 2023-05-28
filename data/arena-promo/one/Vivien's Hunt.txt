@@ -1,0 +1,24 @@
+// NAME: Vivien's Hunt
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+2 Vivien on the Hunt
+1 Howlpack Piper
+1 Gala Greeters
+1 Titan of Industry
+1 Shigeki, Jukai Visionary
+1 Graaz, Unstoppable Juggernaut
+1 Tovolar's Huntmaster
+1 Workshop Warchief
+1 Augur of Autumn
+1 Gaea's Courser
+2 Fang of Shigeki
+2 Reclusive Taxidermist
+3 Elfhame Wurm
+3 Dawnhart Rejuvenator
+3 Jewel Thief
+2 Deathbloom Gardener
+2 Orochi Merge-Keeper
+3 Giant Growth
+3 Epic Confrontation
+26 Forest
+
+Sideboard

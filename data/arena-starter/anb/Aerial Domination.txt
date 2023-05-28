@@ -1,0 +1,26 @@
+// NAME: Aerial Domination
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+// DATE: 2020-08-13
+2 Wall of Runes
+2 Sworn Guardian
+3 Waterkin Shaman
+3 Cloudkin Seer
+3 Warden of Evos Isle
+2 Octoprophet
+2 Soulblade Djinn
+2 Windstorm Drake
+1 Frilled Sea Serpent
+2 Riddlemaster Sphinx
+1 Windreader Sphinx
+3 Waterknot
+3 Unsummon
+2 Glint
+2 Winged Words
+1 Sleep
+1 Overflowing Insight
+25 Island
+
+Sideboard
+2 River's Favor
+4 Zephyr Gull
+3 Armored Whirl Turtle

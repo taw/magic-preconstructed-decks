@@ -1,0 +1,25 @@
+// NAME: To Adventure!
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+4 Edgewall Innkeeper
+3 Faerie Guidemother
+1 Giant Killer
+3 Garenbrig Squire
+3 Shepherd of the Flock
+2 Silverflame Squire
+2 Ardenvale Tactician
+1 Lovestruck Beast
+2 Mysterious Pathlighter
+4 Wandermare
+3 Oakhame Ranger
+1 Ironscale Hydra
+1 Victory's Envoy
+1 Realm-Cloaked Giant
+3 Banishing Light
+1 Primal Might
+4 Blossoming Sands
+10 Forest
+10 Plains
+1 Temple of Plenty
+
+Sideboard

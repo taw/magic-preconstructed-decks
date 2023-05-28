@@ -1,0 +1,29 @@
+// NAME: Strength in Numbers
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Leonin Vanguard
+2 Cavalry Drillmaster
+3 Goblin Instigator
+2 Martyr of Dusk
+2 Boggart Brute
+1 Kinjalli's Sunwing
+1 Mentor of the Meek
+3 Militia Bugler
+1 Captivating Crew
+1 Leonin Warleader
+2 Paladin of the Bloodstained
+1 Siege-Gang Commander
+1 Burning Sun's Avatar
+2 Hieromancer's Cage
+3 Lightning Strike
+1 Make a Stand
+2 Trumpet Blast
+1 Inspired Charge
+1 Act of Treason
+3 Heroic Reinforcements
+10 Plains
+1 Clifftop Retreat
+9 Mountain
+4 Stone Quarry
+
+Sideboard

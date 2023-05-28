@@ -1,0 +1,29 @@
+// NAME: Boros Legion
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+1 Aurelia, Exemplar of Justice
+3 Boros Challenger
+3 Goblin Banneret
+3 Healer's Hawk
+2 Legion Guildmage
+1 Legion Warboss
+1 Light of the Legion
+2 Roc Charger
+2 Skyknight Legionnaire
+2 Sunhome Stalwart
+1 Swiftblade Vindicator
+1 Tajic, Legion's Edge
+2 Truefire Captain
+2 Integrity // Intervention
+2 Justice Strike
+1 Response // Resurgence
+2 Sure Strike
+1 Act of Treason
+2 Lava Coil
+1 Tectonic Rift
+4 Boros Guildgate
+1 Sacred Foundry
+10 Mountain
+10 Plains
+
+Sideboard

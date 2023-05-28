@@ -1,0 +1,30 @@
+// NAME: Ignite the Forge
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+3 Virus Beetle
+3 Sokenzan Smelter
+2 Bloodtithe Harvester
+1 Voldaren Bloodcaster
+2 Searchlight Companion
+2 Circuit Mender
+1 Professional Face-Breaker
+1 Scrap Welder
+1 Falkenrath Forebear
+2 Twinshot Sniper
+1 Atsushi, the Blazing Sky
+2 Voltage Surge
+2 Infernal Grasp
+2 Big Score
+1 Blood Fountain
+2 Experimental Synthesizer
+1 Ceremonial Knife
+2 Dragonspark Reactor
+3 Oni-Cult Anvil
+1 Dollhouse of Horrors
+9 Mountain
+9 Swamp
+4 Bloodfell Caves
+1 Haunted Ridge
+2 Tramway Station
+
+Sideboard

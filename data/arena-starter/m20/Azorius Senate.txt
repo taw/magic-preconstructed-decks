@@ -1,0 +1,30 @@
+// NAME: Azorius Senate
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+2 Ajani's Pridemate
+2 Senate Guildmage
+1 Deputy of Detention
+1 Empyrean Eagle
+2 Elite Guardmage
+2 Senate Griffin
+2 Sphinx of New Prahv
+1 Angel of Grace
+2 Azorius Knight-Arbiter
+2 Azorius Skyguard
+2 Dovin's Acuity
+3 Lawmage's Binding
+2 Depose // Deploy
+1 Raise the Alarm
+2 Summary Judgment
+1 Warrant // Warden
+2 Arrester's Admonition
+1 Unbreakable Formation
+2 Sphinx's Insight
+1 Precognitive Perception
+1 Time Wipe
+4 Azorius Guildgate
+1 Hallowed Fountain
+10 Plains
+10 Island
+
+Sideboard

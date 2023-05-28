@@ -1,0 +1,26 @@
+// NAME: Chaos and Mayhem
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Doomed Dissenter
+3 Goblin Instigator
+2 Reassembling Skeleton
+2 Swab Goblin
+3 Ravenous Harpy
+3 Brawl-Bash Ogre
+1 Demon of Catastrophes
+1 Goblin Trashmaster
+1 Gravedigger
+1 Rekindling Phoenix
+1 Siege-Gang Commander
+1 Gravewaker
+1 Open the Graves
+3 Shock
+3 Murder
+4 Act of Treason
+2 Blood Divination
+10 Mountain
+10 Swamp
+1 Dragonskull Summit
+4 Cinder Barrens
+
+Sideboard

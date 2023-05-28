@@ -1,0 +1,27 @@
+// NAME: Stomp, Stomp
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+3 Almighty Brushwagg
+3 Ilysian Caryatid
+2 Nessian Hornbeetle
+2 Rimrock Knight
+1 Bonecrusher Giant
+2 Dreamstalker Manticore
+2 Hornbash Mentor
+1 Radha, Heart of Keld
+3 Warden of the Chained
+3 Leafkin Avenger
+3 Rampart Smasher
+1 Terror of the Peaks
+1 The First Iroan Games
+2 Ram Through
+2 Scorching Dragonfire
+3 Unleash Fury
+1 Return of the Wildspeaker
+1 Volcanic Salvo
+10 Forest
+9 Mountain
+4 Rugged Highlands
+1 Temple of Abandon
+
+Sideboard

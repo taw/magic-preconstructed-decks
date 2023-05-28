@@ -1,0 +1,21 @@
+// NAME: Forest's Might
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Color Challenge system
+// DATE: 2020-03-12
+3 Barkhide Troll
+4 Greenwood Sentinel
+1 Voracious Hydra
+3 Gnarlback Rhino
+1 Prized Unicorn
+2 Silverback Shaman
+2 Aggressive Mammoth
+2 Gargos, Vicious Watcher
+1 Wakeroot Elemental
+3 Season of Growth
+2 Oakenform
+4 Giant Growth
+4 Growth Cycle
+3 Rabid Bite
+25 Forest
+
+Sideboard

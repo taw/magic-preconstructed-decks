@@ -1,0 +1,27 @@
+// NAME: Blossoming Growth
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+2 Fang of Shigeki
+1 Triskaidekaphile [MID:81]
+3 Jewel Thief
+1 Psychic Pickpocket
+1 Sludge Monster
+3 Cleanup Crew
+1 Blossom Prancer
+1 Titan of Industry
+1 Hullbreaker Horror
+3 Colossal Skyturtle
+2 Master's Rebuke
+2 Prizefight
+3 Case the Joint
+1 Croaking Counterpart
+3 Azusa's Many Journeys
+3 Careful Cultivation
+3 Boseiju Reaches Skyward
+1 Glorious Sunrise
+10 Forest
+10 Island
+4 Thornwood Falls
+1 Dreamroot Cascade
+
+Sideboard

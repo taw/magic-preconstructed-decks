@@ -1,0 +1,28 @@
+// NAME: Primal Fury
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Llanowar Elves
+2 Druid of the Cowl
+2 Raptor Hatchling
+3 Draconic Disciple
+3 Elvish Rejuvenator
+2 Frenzied Raptor
+1 Goreclaw, Terror of Qal Sisma
+2 Knight of the Stampede
+1 Needletooth Raptor
+2 Charging Monstrosaur
+2 Charging Tuskodon
+1 Carnage Tyrant
+1 Etali, Primal Storm
+1 Pelakka Wurm
+1 Silverclad Ferocidons
+2 Colossal Majesty
+3 Shock
+3 Lightning Strike
+1 Banefire
+10 Forest
+1 Rootbound Crag
+9 Mountain
+4 Timber Gorge
+
+Sideboard

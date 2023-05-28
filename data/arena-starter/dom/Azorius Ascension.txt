@@ -1,0 +1,39 @@
+// NAME: Azorius Ascension
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Angel of Sanctions
+1 Angler Drake
+1 Glyph Keeper
+1 Labyrinth Guardian
+1 Resplendent Griffin
+1 Slippery Scoundrel
+2 Snubhorn Sentry
+1 Sunscourge Champion
+1 Vizier of Many Faces
+1 Baffling End
+1 Cast Out
+1 Compulsory Rest
+1 Desert's Hold
+1 Ixalan's Binding
+1 Kumena's Awakening
+1 Pious Interdiction
+1 Edifice of Authority
+1 River's Rebuke
+2 Secrets of the Golden City
+2 Cancel
+1 Censor
+2 Essence Scatter
+1 Expel from Orazca
+1 Forsake the Worldly
+2 Hieroglyphic Illumination
+1 Negate
+2 Opt
+1 Spell Swindle
+1 Supreme Will
+1 Arch of Orazca
+1 Field of Ruin
+10 Island
+4 Meandering River
+9 Plains
+
+Sideboard

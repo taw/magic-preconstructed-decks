@@ -1,0 +1,21 @@
+// NAME: Azure Skies
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Account Mastery system
+2 Spectral Sailor
+4 Wall of Runes
+2 Brineborn Cutthroat
+4 Cloudkin Seer
+4 Warden of Evos Isle
+2 Dungeon Geists
+2 Air Elemental
+4 Windstorm Drake
+2 Riddlemaster Sphinx
+1 Meteor Golem
+4 Winged Words
+1 Mass Manipulation
+1 Unsummon
+1 Negate
+1 Verity Circle
+25 Island
+
+Sideboard

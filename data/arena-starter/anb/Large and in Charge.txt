@@ -1,0 +1,25 @@
+// NAME: Large and in Charge
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2020-08-13
+3 Jungle Delver
+4 Ilysian Caryatid
+2 Woodland Mystic
+2 Wildwood Patrol
+4 Baloth Packhunter
+1 Prized Unicorn
+2 Rumbling Baloth
+1 World Shaper
+2 Gigantosaurus
+2 Sentinel Spider
+2 Affectionate Indrik
+2 Rampaging Brontodon
+2 Colossal Majesty
+1 Epic Proportions
+2 Stony Strength
+3 Rabid Bite
+25 Forest
+
+Sideboard
+2 Feral Roar
+4 Treetop Warden
+3 Generous Stray

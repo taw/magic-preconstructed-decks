@@ -1,0 +1,27 @@
+// NAME: Savage Lands
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+3 Akoum Hellhound
+2 Hobgoblin Captain
+1 Werewolf Pack Leader
+3 Brushfire Elemental
+2 Targ Nar, Demon-Fang Gnoll
+3 Hulking Bugbear
+1 Kazandu Mammoth
+1 Toski, Bearer of Secrets
+1 Froghemoth
+3 Owlbear
+1 Inferno of the Star Mounts
+1 Phylath, World Sculptor
+2 Bull's Strength
+2 Choose Your Weapon
+3 Roil Eruption
+3 Scale the Heights
+2 Vastwood Surge
+9 Mountain
+8 Forest
+1 Cragcrown Pathway
+4 Highland Forest
+4 Evolving Wilds
+
+Sideboard

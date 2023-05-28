@@ -1,0 +1,36 @@
+// NAME: The Brazen Coalition
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Captivating Crew
+1 Captain Lannery Storm
+2 Daring Buccaneer
+2 Dire Fleet Captain
+2 Dire Fleet Neckbreaker
+1 Dire Fleet Poisoner
+1 Dire Fleet Ravager
+2 Fanatical Firebrand
+1 Fathom Fleet Captain
+1 Fathom Fleet Firebrand
+2 Forerunner of the Coalition
+1 Goblin Trailblazer
+2 Grasping Scoundrel
+1 Kitesail Freebooter
+2 Rigging Runner
+1 Storm Fleet Arsonist
+1 Storm Fleet Swashbuckler
+1 Fell Flagship
+1 Pirate's Cutlass
+1 March of the Drowned
+1 Puncturing Blow
+1 Walk the Plank
+1 Abrade
+1 Buccaneer's Bravado
+2 Fiery Cannonade
+1 Lightning Strike
+2 Magma Spray
+1 Reaver Ambush
+2 Cinder Barrens
+12 Mountain
+9 Swamp
+
+Sideboard

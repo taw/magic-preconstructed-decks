@@ -1,0 +1,29 @@
+// NAME: Treasure Hunt
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+3 Shambling Ghast
+1 Unwilling Ingredient
+3 Hired Hexblade
+3 Kalain, Reclusive Painter
+3 Skullport Merchant
+1 Xorn
+2 Hoarding Ogre
+2 Jaded Sell-Sword
+1 Immersturm Predator
+1 Westgate Regent
+1 Goldspan Dragon
+1 Red Dragon
+1 Orcus, Prince of Undeath
+1 Thieves' Tools
+2 Deadly Dispute
+3 Dragon's Fire
+2 Sudden Breakthrough
+1 Soul Shatter
+2 Magic Missile
+2 Grim Bounty
+9 Swamp
+10 Mountain
+1 Blightstep Pathway
+4 Sulfurous Mire
+
+Sideboard

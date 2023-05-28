@@ -1,0 +1,41 @@
+// NAME: The Legion of Dusk
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+1 Adanto Vanguard
+1 Anointed Deacon
+1 Bishop of Binding
+1 Bishop's Soldier
+1 Champion of Dusk
+2 Dusk Legion Zealot
+1 Duskborne Skymarcher
+1 Famished Paladin
+2 Forerunner of the Legion
+1 Legion Lieutenant
+2 Martyr of Dusk
+1 Mavren Fein, Dusk Apostle
+1 Oathsworn Vampire
+1 Sadistic Skymarcher
+1 Sanctum Seeker
+1 Skymarch Bloodletter
+2 Skymarcher Aspirant
+1 Vicious Conquistador
+1 Vona, Butcher of Magan
+1 Baffling End
+1 Cast Out
+1 Desert's Hold
+1 Ixalan's Binding
+1 Squire's Devotion
+1 Vanquisher's Banner
+1 Call to the Feast
+2 Queen's Commission
+1 Forsake the Worldly
+1 Pride of Conquerors
+1 Reaver Ambush
+1 Desert of the Glorified
+1 Desert of the True
+2 Forsaken Sanctuary
+9 Plains
+2 Shefet Dunes
+10 Swamp
+
+Sideboard

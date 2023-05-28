@@ -1,0 +1,31 @@
+// NAME: House Dimir
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+2 Thoughtbound Phantasm
+2 Dimir Spybug
+2 House Guildmage
+2 Nightveil Sprite
+2 Whispering Snitch
+1 Blood Operative
+1 Thief of Sanity
+2 Whisper Agent
+1 Etrata, the Silencer
+2 Nightveil Predator
+1 Doom Whisperer
+1 Citywatch Sphinx
+1 Disinformation Campaign
+1 Mission Briefing
+2 Tyrant's Scorn
+2 Unexplained Disappearance
+2 Artful Takedown
+2 Discovery // Dispersal
+1 Thought Erasure
+2 Notion Rain
+1 Connive // Concoct
+2 Deadly Visit
+4 Dimir Guildgate
+1 Watery Grave
+10 Island
+10 Swamp
+
+Sideboard

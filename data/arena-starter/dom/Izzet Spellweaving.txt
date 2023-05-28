@@ -1,0 +1,37 @@
+// NAME: Izzet Spellweaving
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+2 Bloodwater Entity
+2 Cryptic Serpent
+2 Enigma Drake
+1 Labyrinth Guardian
+1 Magmaroth
+1 Seeker of Insight
+1 Riddleform
+1 Primal Amulet
+1 Entrancing Melody
+1 Hour of Devastation
+1 Puncturing Blow
+1 Star of Extinction
+1 Abrade
+2 Cancel
+1 Censor
+2 Essence Scatter
+1 Fiery Cannonade
+1 Galestrike
+2 Hieroglyphic Illumination
+1 Lightning Strike
+2 Magma Spray
+1 Negate
+2 Opt
+1 Pull from Tomorrow
+1 Spell Swindle
+1 Supreme Will
+1 Desert of the Fervent
+1 Desert of the Mindful
+1 Field of Ruin
+4 Highland Lake
+11 Island
+8 Mountain
+
+Sideboard

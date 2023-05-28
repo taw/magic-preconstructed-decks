@@ -1,0 +1,26 @@
+// NAME: Tactical Assault
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+2 Daybreak Chaplain
+3 Oreskos Swiftclaw
+2 Silverbeak Griffin
+2 Loxodon Line Breaker
+2 Pegasus Courser
+1 Leonin Warleader
+3 Star-Crowned Stag
+1 Herald of Faith
+2 Serra Angel
+1 [ANB] Spiritual Guardian
+1 [ANB] Inspiring Commander
+1 Serra's Guardian
+1 Meteor Golem
+1 Zetalpa, Primal Dawn
+2 Knight's Pledge
+3 Luminous Bonds
+1 [ANB] Angelic Reward
+3 [ANB] Tactical Advantage
+1 [ANB] Confront the Assault
+2 Take Vengeance
+25 Plains
+
+Sideboard

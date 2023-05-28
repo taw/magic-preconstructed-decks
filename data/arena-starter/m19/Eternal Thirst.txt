@@ -1,0 +1,28 @@
+// NAME: Eternal Thirst
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Ajani's Pridemate
+3 Bishop's Soldier
+2 Legion Lieutenant
+1 Paladin of Atonement
+2 Inspiring Cleric
+1 Resplendent Angel
+3 Skymarch Bloodletter
+1 Leonin Warleader
+1 Sanctum Seeker
+1 Champion of Dusk
+2 Epicure of Blood
+1 Herald of Faith
+1 Vampire Sovereign
+3 Call to the Feast
+2 Ajani's Welcome
+2 Moment of Triumph
+2 Nightmare's Thirst
+3 Murder
+1 Vraska's Contempt
+10 Plains
+1 Isolated Chapel
+10 Swamp
+4 Forsaken Sanctuary
+
+Sideboard

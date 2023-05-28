@@ -1,0 +1,24 @@
+// NAME: Graveyard Bash
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+2 Diregraf Ghoul
+3 Doomed Dissenter
+3 Walking Corpse
+2 Death Baron
+3 Deathbloom Thallid
+2 Hired Blade
+2 Skymarch Bloodletter
+2 Gravedigger
+2 Infectious Horror
+2 Vampire Sovereign
+1 Yargle, Glutton of Urborg
+1 Gravewaker
+1 Meteor Golem
+1 Open the Graves
+2 Skulduggery
+3 [ANB] Murder
+2 Strangling Spores
+1 [ANB] Rise from the Grave
+25 Swamp
+
+Sideboard

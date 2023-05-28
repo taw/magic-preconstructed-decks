@@ -1,0 +1,30 @@
+// NAME: Gruul Clans
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+1 Pelt Collector
+2 Clan Guildmage
+2 Leafkin Druid
+3 Zhur-Taa Goblin
+2 Burning-Tree Vandal
+2 Clamor Shaman
+1 Gruul Spellbreaker
+1 Living Twister
+1 Rubblebelt Runner
+2 Frenzied Arynx
+2 Sunder Shaman
+1 Bolrac-Clan Crusher
+1 Ravager Wurm
+1 End-Raze Forerunners
+2 Rhythm of the Wild
+3 Giant Growth
+2 Collision // Colossus
+1 Thrash // Threat
+1 Domri's Ambush
+2 Lava Coil
+2 Savage Smash
+4 Gruul Guildgate
+1 Stomping Ground
+10 Mountain
+10 Forest
+
+Sideboard

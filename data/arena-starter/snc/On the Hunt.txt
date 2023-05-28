@@ -1,0 +1,28 @@
+// NAME: On the Hunt
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+1 Arlinn, the Pack's Hope
+3 Snarling Wolf
+2 Outland Liberator
+3 Kessig Naturalist
+2 Packsong Pup
+3 Hungry Ridgewolf
+1 Reckless Stormseeker
+3 Weaver of Blossoms
+1 Tovolar, Dire Overlord
+1 Fangblade Brigand
+3 Child of the Pack
+1 Howlpack Piper
+1 Halana and Alena, Partners
+2 Lunar Frenzy
+3 Moonrager's Slash
+2 Wolf Strike
+2 Unnatural Moonrise
+1 Howling Moon
+9 Forest
+9 Mountain
+4 Rugged Highlands
+1 Rockfall Vale
+2 Racers' Ring
+
+Sideboard

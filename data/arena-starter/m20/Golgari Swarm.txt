@@ -1,0 +1,30 @@
+// NAME: Golgari Swarm
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2019-05-03
+2 District Guide
+4 Glowspore Shaman
+2 Golgari Findbroker
+1 Izoni, Thousand-Eyed
+1 Kraul Foragers
+2 Kraul Harpooner
+2 Leyline Prowler
+2 Lotleth Giant
+1 Midnight Reaper
+1 Molderhulk
+2 Plaguecrafter
+2 Rhizome Lurcher
+1 Swarm Guildmage
+1 Underrealm Lich
+1 Assassin's Trophy
+2 Deathsprout
+3 Gift of Strength
+2 Status // Statue
+1 Casualties of War
+1 Find // Finality
+1 Undercity Uprising
+4 Golgari Guildgate
+1 Overgrown Tomb
+10 Swamp
+10 Forest
+
+Sideboard

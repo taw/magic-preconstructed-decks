@@ -1,0 +1,29 @@
+// NAME: Company of Knights
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+3 Venerable Knight
+2 Weaselback Redcap
+3 Inspiring Veteran
+2 Rimrock Knight
+1 Worthy Knight
+2 Youthful Knight
+1 Acclaimed Contender
+2 Ardenvale Tactician
+2 Basri's Acolyte
+1 Basri's Lieutenant
+3 Fireborn Knight
+1 Haktos the Unscarred
+2 Burning-Yard Trainer
+1 Grasping Giant
+2 Short Sword
+1 Embercleave
+2 Pacifism
+1 Dub
+2 Infuriate
+2 Scorching Dragonfire
+10 Mountain
+9 Plains
+1 Temple of Triumph
+4 Wind-Scarred Crag
+
+Sideboard

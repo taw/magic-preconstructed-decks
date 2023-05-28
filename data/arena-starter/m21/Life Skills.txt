@@ -1,0 +1,27 @@
+// NAME: Life Skills
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+2 Anointed Chorister
+1 Speaker of the Heavens
+2 Boot Nipper
+3 Tavern Swindler
+3 Indulging Patrician
+2 Silversmote Ghoul
+1 Vito, Thorn of the Dusk Rose
+3 Resolute Rider
+1 Baneslayer Angel
+1 Clackbridge Troll
+1 Shadowspear
+3 Griffin Aerie
+2 Faith's Fetters
+1 Erebos's Intervention
+2 Light of Hope
+3 Revitalize
+2 Unexpected Fangs
+2 Bake into a Pie
+10 Plains
+4 Scoured Barrens
+10 Swamp
+1 Temple of Silence
+
+Sideboard

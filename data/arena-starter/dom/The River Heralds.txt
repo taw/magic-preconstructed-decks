@@ -1,0 +1,35 @@
+// NAME: The River Heralds
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-03-22
+2 Forerunner of the Heralds
+1 Herald of Secret Streams
+1 Jade Bearer
+2 Jade Guardian
+1 Jungle Delver
+1 Kopala, Warden of Waves
+1 Kumena's Speaker
+1 Merfolk Branchwalker
+1 Merfolk Mistbinder
+2 Mist-Cloaked Herald
+2 River Sneak
+1 Seafloor Oracle
+1 Shapers of Nature
+1 Silvergill Adept
+1 Swift Warden
+1 Tempest Caller
+2 Tishana's Wayfinder
+1 Tishana, Voice of Thunder
+2 Vineshaper Mystic
+1 Waker of the Wilds
+1 Wind Strider
+1 Deeproot Waters
+1 Hadana's Climb
+2 One With the Wind
+1 Chart a Course
+2 Dive Down
+2 River Heralds' Boon
+11 Forest
+11 Island
+2 Woodland Stream
+
+Sideboard

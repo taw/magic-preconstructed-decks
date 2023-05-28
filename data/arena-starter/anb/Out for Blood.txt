@@ -1,0 +1,21 @@
+// NAME: Out for Blood
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Account Mastery system
+2 Knight of the Ebon Legion
+4 Vampire of the Dire Moon
+4 Child of Night
+3 Vampire Opportunist
+3 Bloodthirsty Aerialist
+1 Savage Gorger
+3 Thirsting Bloodlord
+3 Vindictive Vampire
+2 Gravewaker
+1 Meteor Golem
+1 Gruesome Menagerie
+2 Disfigure
+2 Sorin's Thirst
+3 Murder
+1 Bolas's Citadel
+25 Swamp
+
+Sideboard

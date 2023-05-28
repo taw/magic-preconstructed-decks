@@ -1,0 +1,23 @@
+// NAME: Dragon's Fire
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2018-09-27
+3 Goblin Instigator
+3 Kargan Dragonrider
+2 Viashino Pyromancer
+2 Onakke Ogre
+3 Pyromantic Pilgrim
+3 Havoc Devils
+2 Charging Monstrosaur
+1 Demanding Dragon
+2 Sparktongue Dragon
+1 Burning Sun's Avatar
+1 Lathliss, Dragon Queen
+2 [ANB] Volcanic Dragon
+1 Meteor Golem
+2 Fiery Finish
+3 [ANB] Shock
+3 Sure Strike
+1 Spit Flame
+25 Mountain
+
+Sideboard

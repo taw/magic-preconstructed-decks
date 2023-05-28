@@ -1,0 +1,28 @@
+// NAME: Avalanche!
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-09-24
+1 Ascendant Spirit
+1 Avalanche Caller
+1 Gretchen Titchwillow
+1 Lotus Cobra
+3 Sculptor of Winter
+2 Zimone, Quandrix Prodigy
+2 Quandrix Cultivator
+3 Spirit of the Aldergard
+1 Ashaya, Soul of the Wild
+2 Berg Strider
+1 Rootless Yew
+2 Bookwurm
+1 Icebreaker Kraken
+1 Quandrix Command
+2 Eureka Moment
+1 Graven Lore
+3 Blizzard Brawl
+3 Emergent Sequence
+3 Bubble Snare
+1 Barkchannel Pathway
+4 Rimewood Falls
+11 [KHM:284] Snow-Covered Forest
+10 [KHM:278] Snow-Covered Island
+
+Sideboard

@@ -1,0 +1,22 @@
+// NAME: Destructive Firepower
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Color Challenge system
+// DATE: 2020-03-12
+2 Scorch Spitter
+1 Dreadhorde Arcanist
+3 Ember Hauler
+1 Fire Urchin
+4 Pack Mastiff
+3 Chandra's Spitfire
+3 Spellgorger Weird
+1 Erratic Cyclops
+2 Shivan Dragon
+2 Drakuseth, Maw of Flames
+3 Infuriate
+4 Shock
+1 Chandra's Pyrohelix
+3 Chandra's Outrage
+2 Inescapable Blaze
+25 Mountain
+
+Sideboard

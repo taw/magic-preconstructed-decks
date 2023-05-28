@@ -1,0 +1,23 @@
+// NAME: Out for Blood
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DISPLAY: This version of the deck is unlocked through the Color Challenge system
+// DATE: 2020-03-12
+2 Knight of the Ebon Legion
+4 Vampire of the Dire Moon
+2 Child of Night
+1 Piper of the Swarm [ELD:100]
+3 Vampire Opportunist
+4 Bloodthirsty Aerialist
+2 Savage Gorger
+2 Thirsting Bloodlord
+2 Vindictive Vampire
+2 Gravewaker
+3 Disfigure
+2 Sorin's Thirst
+2 Murder
+2 Bone Splinters
+1 Agonizing Syphon
+1 Gruesome Menagerie
+25 Swamp
+
+Sideboard

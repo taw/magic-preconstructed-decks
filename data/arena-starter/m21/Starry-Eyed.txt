@@ -1,0 +1,27 @@
+// NAME: Starry-Eyed
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2021-07-03
+2 Eidolon of Philosophy
+3 Stinging Lionfish
+2 Naiad of Hidden Coves
+2 Shambling Suit
+3 Arcanist's Owl
+1 Archon of Sun's Grace
+1 Luminous Broodmoth
+2 Brine Giant
+1 Midnight Clock
+2 All That Glitters
+3 The Birth of Meletis
+3 Banishing Light
+2 Capture Sphere
+1 Elspeth Conquers Death
+1 Kiora Bests the Sea God
+2 Karametra's Blessing
+3 Thirst for Meaning
+1 Banish into Fable
+9 Island
+11 Plains
+1 Temple of Enlightenment
+4 Tranquil Cove
+
+Sideboard

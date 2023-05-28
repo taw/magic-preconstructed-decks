@@ -1,0 +1,26 @@
+// NAME: Keep the Peace
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+// DATE: 2020-08-13
+4 Charmed Stray
+2 Fencing Ace
+4 Hallowed Priest
+3 Impassioned Orator
+2 Moorland Inquisitor
+2 Angel of Vitality
+2 Leonin Warleader
+1 Serra Angel
+1 Spiritual Guardian
+1 Angelic Guardian
+2 Inspiring Commander
+1 Goring Ceratops
+3 Pacifism
+1 Angelic Reward
+4 Tactical Advantage
+1 Confront the Assault
+1 Bond of Discipline
+25 Plains
+
+Sideboard
+2 Sanctuary Cat
+3 Knight's Pledge
+4 Shrine Keeper

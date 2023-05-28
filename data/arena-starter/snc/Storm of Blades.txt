@@ -1,0 +1,30 @@
+// NAME: Storm of Blades
+// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// DATE: 2022-09-09
+1 The Wandering Emperor
+1 Thundering Raiju
+1 Simian Sling
+2 Rabbit Battery
+3 Reinforced Ronin
+3 Usher of the Fallen
+1 Lion Sash
+2 Selfless Samurai
+2 Twinblade Geist
+3 Eiganjo Exemplar
+1 Blade-Blizzard Kitsune
+1 Risona, Asari Commander
+1 Raiyuu, Storm's Edge
+1 Goro-Goro, Disciple of Ryusei
+3 Asari Captain
+2 Play with Fire
+2 Valorous Stance
+2 Kami's Flare
+1 Imperial Oath
+1 Ancestral Katana
+2 Tempered in Solitude
+10 Mountain
+9 Plains
+4 Wind-Scarred Crag
+1 Sundown Pass
+
+Sideboard
