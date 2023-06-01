@@ -1,6 +1,7 @@
 // NAME: Dome Destruction
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DISPLAY: This version of the deck is unlocked through the Account Mastery system
+// DATE: 2019-09-26
 1 Dreadhorde Arcanist
 3 Ember Hauler
 4 Pack Mastiff
