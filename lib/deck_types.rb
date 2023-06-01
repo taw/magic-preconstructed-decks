@@ -5,6 +5,7 @@ DeckTypes = {
   "arena-promo"   => { name: "Arena Promotional Deck", sizes: [[60]]},
   "arena-starter" => { name: "Arena Starter Deck", sizes: [[60], [60, 9]] },
   "brawl"         => { name: "Brawl Deck", sizes: [[59, 0, 1]], },
+  "box"           => { name: "Box Set" }, # Any size
   "challenger"    => { name: "Challenger Deck", sizes: [[60, 15]] },
   "clash"         => { name: "Clash Pack", sizes: [[60, 0], [60, 15]] },
   "cmd"           => { name: "Commander Deck", sizes: [[99, 0, 1], [98, 0, 2], [99, 10, 1]] },

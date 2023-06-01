@@ -1,6 +1,7 @@
 // NAME: Azure Skies
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DISPLAY: This version of the deck is unlocked through the Account Mastery system
+// DATE: 2019-09-26
 2 Spectral Sailor
 4 Wall of Runes
 2 Brineborn Cutthroat

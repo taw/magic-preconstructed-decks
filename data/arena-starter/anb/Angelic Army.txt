@@ -1,6 +1,7 @@
 // NAME: Angelic Army
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DISPLAY: This version of the deck is unlocked through the Account Mastery system
+// DATE: 2019-09-26
 3 Ajani's Pridemate
 3 Fencing Ace
 4 Impassioned Orator
