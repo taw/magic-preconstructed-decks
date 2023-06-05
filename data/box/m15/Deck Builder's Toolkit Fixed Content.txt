@@ -1,0 +1,87 @@
+// NAME: Deck Builder's Toolkit Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Aegis Angel
+1 Mahamoti Djinn
+1 Nightmare
+1 Shivan Dragon
+1 Terra Stomper
+1 Serra Angel
+1 Banishing Light
+1 Last Breath
+1 Inspired Charge
+1 Loyal Pegasus
+2 Divine Verdict
+1 Chosen by Heliod
+1 Raise the Alarm
+1 Revoke Existence
+1 Oreskos Swiftclaw
+1 Eagle of the Watch
+1 Kinsbaile Skirmisher
+1 Gods Willing
+1 Jace's Ingenuity
+1 Into the Void
+1 Vaporkin
+1 Omenspeaker
+1 Voyage's End
+2 Divination
+1 Pin to the Earth
+1 Cancel
+1 Rise of Eagles
+1 Negate
+1 Frost Lynx
+1 Nullify
+1 Cloaked Siren
+1 Bile Blight
+1 Sengir Vampire
+1 Read the Bones
+1 Covenant of Blood
+1 Walking Corpse
+1 Pharika's Cure
+1 Accursed Spirit
+1 Child of Night
+1 Flesh to Dust
+2 Sign in Blood
+1 Mind Rot
+1 Crippling Blight
+1 March of the Returned
+1 Searing Blood
+1 Furnace Whelp
+1 Two-Headed Cerberus
+1 Dragon Mantle
+1 Seismic Strike
+1 Minotaur Skullcleaver
+2 Lightning Strike
+1 Fall of the Hammer
+1 Bolt of Keranos
+1 Bladetusk Boar
+1 Magma Spray
+1 Borderland Marauder
+1 Krenko's Enforcer
+1 Reclamation Sage
+1 Garruk's Packleader
+1 Time to Feed
+1 Swordwise Centaur
+1 Satyr Wayfinder
+1 Voyaging Satyr
+1 Shaman of Spring
+2 Elvish Mystic
+1 Charging Rhino
+1 Market Festival
+1 Titanic Growth
+1 Centaur Courser
+1 Satyr Grovedancer
+1 Traveler's Amulet
+1 Opaline Unicorn
+1 Tyrant's Machine
+1 Bronze Sable
+1 Fleetfeather Sandals
+1 Guardians of Meletis
+4 Evolving Wilds
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+
+Sideboard

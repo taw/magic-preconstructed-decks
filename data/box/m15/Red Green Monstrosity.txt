@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit Red Green Monstrosity
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Stoneshock Giant
+1 Peregrination
+1 Wildfire Cerberus
+1 Ancient Silverback
+1 Market Festival
+1 Ill-Tempered Cyclops
+1 Satyr Hedonist
+1 Nessian Asp
+1 Time to Feed
+1 Fall of the Hammer

@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit Green White Convoke
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Seraph of the Masses
+1 Sunblade Elf
+1 Overwhelm
+1 Feral Incarnation
+1 Selfless Cathar
+1 Raise the Alarm
+1 Inspired Charge
+1 Siege Wurm
+1 Triplicate Spirits
+1 Living Totem

@@ -1,0 +1,18 @@
+// NAME: From the Vault: Realms
+// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Realms
+// DATE: 2012-08-31
+1 Ancient Tomb [foil]
+1 Boseiju, Who Shelters All [foil]
+1 Cephalid Coliseum [foil]
+1 Desert [foil]
+1 Dryad Arbor [foil]
+1 Forbidden Orchard [foil]
+1 Glacial Chasm [foil]
+1 Grove of the Burnwillows [foil]
+1 High Market [foil]
+1 Maze of Ith [foil]
+1 Murmuring Bosk [foil]
+1 Shivan Gorge [foil]
+1 Urborg, Tomb of Yawgmoth [foil]
+1 Vesuva [foil]
+1 Windbrisk Heights [foil]

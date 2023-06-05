@@ -1,0 +1,12 @@
+// NAME: Deck Builder's Toolkit Black Devotion
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Mogis's Marauder
+1 Squelching Leeches
+1 Sanguimancy
+1 Drown in Sorrow
+1 Disciple of Phenax
+2 Gray Merchant of Asphodel
+1 Pharika's Cure
+1 Cast into Darkness
+1 Sign in Blood

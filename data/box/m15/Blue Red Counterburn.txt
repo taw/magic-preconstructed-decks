@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit Blue Red Counterburn
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Spite of Mogis
+1 Spellheart Chimera
+1 Magma Jet
+1 Flamespeaker Adept
+1 Stormcaller of Keranos
+1 Prescient Chimera
+1 Mnemonic Wall
+1 Voyage's End
+1 Rise of Eagles
+1 Bolt of Keranos

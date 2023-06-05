@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit White Black Life Gain
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Sunbond
+1 Nyx-Fleece Ram
+1 Ajani's Pridemate
+1 Wall of Limbs
+1 Scholar of Athreos
+1 Soulmender
+1 Sungrace Pegasus
+1 Covenant of Blood
+1 Child of Night
+1 Last Breath

@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit White Blue Bestow
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Skyspear Cavalry
+1 Glimpse the Sun God
+1 Ephara's Enlightenment
+1 Battlewise Hoplite
+1 Wingsteed Rider
+1 Wavecrash Triton
+1 Nimbus Naiad
+1 Akroan Skyguard
+1 Gods Willing
+1 Eagle of the Watch
