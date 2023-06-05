@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit Red White Auras
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Brood Keeper
+1 Akroan Phalanx
+1 Akroan Hoplite
+1 Vanguard of Brimaz
+1 Heliod's Pilgrim
+1 Inferno Fist
+1 Dragon Mantle
+1 Akroan Crusader
+1 Two-Headed Cerberus
+1 Chosen by Heliod

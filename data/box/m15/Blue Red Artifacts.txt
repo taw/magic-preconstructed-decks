@@ -1,0 +1,13 @@
+// NAME: Deck Builder's Toolkit Blue Red Artifacts
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// DATE: 2014-07-18
+1 Chariot of Victory
+1 Ensoul Artifact
+1 Juggernaut
+1 Shrapnel Blast
+1 Traveler's Amulet
+1 Opaline Unicorn
+1 Aeronaut Tinkerer
+1 Ornithopter
+1 Lava Axe
+1 Scrapyard Mongrel
