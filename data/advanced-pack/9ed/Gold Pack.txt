@@ -1,0 +1,11 @@
+// NAME: Gold Pack
+// SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
+1 Craw Wurm
+1 Anaba Shaman
+1 Blanchwood Armor
+1 Naturalize
+1 Dancing Scimitar
+1 Forest
+1 Mountain
+
+Sideboard

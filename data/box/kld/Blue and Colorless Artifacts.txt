@@ -1,0 +1,13 @@
+// NAME: Blue and Colorless Artifacts
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Experimental Aviator
+1 Glint-Nest Crane
+1 Filigree Familiar
+1 Snare Thopter
+1 Terrarion
+1 Gearseeker Serpent
+1 Tezzeret's Ambition
+1 Weldfast Wingsmith
+1 Dukhara Peafowl
+1 Consulate Skygate

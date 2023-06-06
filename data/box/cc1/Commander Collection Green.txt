@@ -1,0 +1,11 @@
+// NAME: Commander Collection: Green
+// SOURCE: https://magic.wizards.com/en/news/card-preview/commander-collection-green-packaging-and-contents-2020-08-22
+// DATE: 2020-12-4
+1 Bane of Progress
+1 Command Tower
+1 Freyalise, Llanowar's Fury
+1 Omnath, Locus of Mana
+1 Seedborn Muse
+1 Sol Ring
+1 Sylvan Library
+1 Worldly Tutor

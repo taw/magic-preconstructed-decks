@@ -1,0 +1,13 @@
+// NAME: Red and Green Wolves
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Lightning Axe
+1 Ulrich's Kindred
+1 Pack Guardian
+1 Blossoming Defense
+1 Ember-Eye Wolf
+1 Uncaged Fury
+1 Quilled Wolf
+1 Brazen Wolves
+1 Wolfkin Bond
+1 Ornamental Courage

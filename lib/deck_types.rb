@@ -1,5 +1,5 @@
 DeckTypes = {
-  "advanced-pack" => { name: "Advanced Pack", sizes: [[15]] }, # S2TK
+  "advanced-pack" => { name: "Advanced Pack", sizes: [[7], [15]] }, # S2TK
   "archenemy"     => { name: "Archenemy Deck", sizes: [[60, 0], [60, 20]], },
   "arena-kit"     => { name: "Arena Starter Kit", sizes: [[60], [60, 1]] },
   "arena-promo"   => { name: "Arena Promotional Deck", sizes: [[60]]},
@@ -31,7 +31,7 @@ DeckTypes = {
   "sld"           => { name: "Secret Lair Drop" }, # Any size
   "ssk"           => { name: "Spellslinger Starter Kit", sizes: [[60]] },
   "starter-22"    => { name: "Starter Deck", sizes: [[22]] }, # S2TK
-  "starter"       => { name: "Starter Deck", sizes: [[30], [35], [40], [60]]},
+  "starter"       => { name: "Starter Deck", sizes: [[30], [33], [35], [40], [60]]},
   "theme-40"      => { name: "Theme Deck", sizes: [[40]] },
   "theme-61"      => { name: "Theme Deck", sizes: [[61]] },
   "theme-62"      => { name: "Theme Deck", sizes: [[62]] },

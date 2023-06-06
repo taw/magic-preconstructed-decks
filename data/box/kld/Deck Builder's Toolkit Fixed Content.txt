@@ -1,0 +1,77 @@
+// NAME: Deck Builder's Toolkit Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Aegis Angel
+1 Sphinx of Magosi
+1 Nightmare
+1 Shivan Dragon
+1 Soul of the Harvest
+1 Serra Angel
+1 Aerial Responder
+1 Marked by Honor
+1 Cathar's Companion
+1 Puncturing Light
+1 Sigardian Priest
+1 Steadfast Cathar
+1 Aviary Mechanic
+1 Impeccable Timing
+1 Inspired Charge
+1 Air Servant
+1 Long-Finned Skywhale
+1 Disperse
+1 Pieces of the Puzzle
+1 Stitched Mangler
+1 Exultant Cultist
+2 Take Inventory
+1 Tattered Haunter
+1 Revolutionary Rebuff
+1 Sengir Vampire
+1 Murder
+1 Mind Rot
+1 Walking Corpse
+1 Dead Weight
+1 Sanitarium Skeleton
+1 Olivia's Dragoon
+1 Skirsdag Supplicant
+1 Succumb to Temptation
+1 Lawless Broker
+1 Cone of Flame
+1 Incendiary Flow
+1 Borderland Marauder
+1 Magmatic Chasm
+1 Pyre Hound
+1 Sanguinary Mage
+1 Tormenting Voice
+1 Brazen Wolves
+2 Galvanic Bombardment
+1 Incremental Growth
+1 Arborback Stomper
+1 Oakenform
+1 Quilled Wolf
+1 Watcher in the Web
+1 Grapple with the Past
+1 Prey Upon
+1 Kujar Seedsculptor
+1 Larger Than Life
+1 Wild Wanderer
+1 Explosive Apparatus
+1 Terrarion
+1 Filigree Familiar
+1 Consulate Skygate
+2 Self-Assembler
+2 Cinder Barrens
+2 Meandering River
+2 Submerged Boneyard
+2 Timber Gorge
+2 Tranquil Expanse
+2 Forsaken Sanctuary
+2 Foul Orchard
+2 Highland Lake
+2 Stone Quarry
+2 Woodland Stream
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+4 Prophetic Prism
