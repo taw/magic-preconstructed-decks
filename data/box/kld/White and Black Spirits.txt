@@ -1,0 +1,13 @@
+// NAME: White and Black Spirits
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Nearheath Chaplain
+1 Haunted Dead
+1 Servo Exhibition
+1 Essence Extraction
+1 Angelic Purge
+1 Dauntless Cathar
+1 Merciless Resolve
+1 Certain Death
+1 Inspired Charge
+1 Lawless Broker

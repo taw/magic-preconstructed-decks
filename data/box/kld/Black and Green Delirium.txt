@@ -1,0 +1,13 @@
+// NAME: Black and Green Delirium
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Crop Sigil
+1 Gnarlwood Dryad
+1 Mournwillow
+1 Make Obsolete
+1 Crow of Dark Tidings
+1 Sanitarium Skeleton
+1 Moldgraf Scavenger
+1 Boon of Emrakul
+1 Backwoods Survivalists
+1 Grapple with the Past

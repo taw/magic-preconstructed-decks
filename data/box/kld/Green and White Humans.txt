@@ -1,0 +1,13 @@
+// NAME: Green and White Humans
+// SOURCE: https://mtg.fandom.com/wiki/Kaladesh/Deck_Builder%27s_Toolkit
+// DATE: 2016-09-30
+1 Gryff's Boon
+1 Veteran Cathar
+1 Murderer's Axe
+1 Hamlet Captain
+1 Militant Inquisitor
+1 Strength of Arms
+1 Intrepid Provisioner
+1 True-Faith Censer
+1 Choking Restraints
+1 Crossroads Consecrator
