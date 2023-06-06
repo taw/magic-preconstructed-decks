@@ -1,5 +1,5 @@
 DeckTypes = {
-  "advanced-pack" => { name: "Advanced Pack", sizes: [[14], [15]] }, # S2TK
+  "advanced-pack" => { name: "Advanced Pack", sizes: [[7], [15]] }, # S2TK
   "archenemy"     => { name: "Archenemy Deck", sizes: [[60, 0], [60, 20]], },
   "arena-kit"     => { name: "Arena Starter Kit", sizes: [[60], [60, 1]] },
   "arena-promo"   => { name: "Arena Promotional Deck", sizes: [[60]]},

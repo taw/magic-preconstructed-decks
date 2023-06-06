@@ -1,0 +1,12 @@
+// NAME: Demo Booster Player 2
+// SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Demo_Game
+// DATE: 2005-07-29
+1 Spineless Thug
+1 Goblin Raider
+2 Hill Giant
+2 Scathe Zombies
+1 Mountain [9ED:343]
+1 Mountain [9ED:344]
+1 Mountain [9ED:345]
+1 Swamp [9ED:340]
+1 Swamp [9ED:341]
