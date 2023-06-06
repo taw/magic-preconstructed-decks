@@ -1,0 +1,11 @@
+// NAME: Silver Pack
+// SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
+1 Honor Guard
+1 Wind Drake
+1 Holy Day
+1 Telepathy
+1 Rod of Ruin
+1 Plains
+1 Island
+
+Sideboard
