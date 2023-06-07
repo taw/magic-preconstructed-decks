@@ -1,4 +1,5 @@
 DeckTypes = {
+  "advanced"      => { name: "Advanced Deck", sizes: [[60,15]] },
   "advanced-pack" => { name: "Advanced Pack", sizes: [[7], [15]] }, # S2TK
   "archenemy"     => { name: "Archenemy Deck", sizes: [[60, 0], [60, 20]], },
   "arena-kit"     => { name: "Arena Starter Kit", sizes: [[60], [60, 1]] },
@@ -12,8 +13,6 @@ DeckTypes = {
   "dotp"          => { name: "Duel Of The Planeswalkers Deck", sizes: [[60]] },
   "duel"          => { name: "Duel Deck", sizes: [[60]] },
   "event"         => { name: "Event Deck", sizes: [[60,15]] },
-  "ex-advanced"   => { name: "Advanced Deck", sizes: [[60,15]] },
-  "ex-basic"      => { name: "Basic Deck", sizes: [[60]] },
   "game-night"    => { name: "Game Night Deck", sizes: [[60]] },
   "guild-kit"     => { name: "Guild Kit", sizes: [[60]] },
   "halfdeck"      => { name: "Halfdeck", sizes: [[30]] },
