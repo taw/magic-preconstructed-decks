@@ -1,5 +1,6 @@
 // NAME: Gold Pack
 // SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
+// DATE: 2005-07-29
 1 Craw Wurm
 1 Anaba Shaman
 1 Blanchwood Armor
