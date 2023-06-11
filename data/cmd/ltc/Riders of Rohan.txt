@@ -1,26 +1,26 @@
 // NAME: Riders of Rohan
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
 // DATE: 2023-07-23
-COMMANDER: 1 Éowyn, Shieldmaiden [foil]
-1 Aragorn, King of Gondor [foil]
-1 Beregond of the Guard
-1 Champions of Minas Tirith
-1 Gilraen, Dúnedain Protector
-1 Grey Host Reinforcements
-1 Lossarnach Captain
-1 Archivist of Gondor
-1 Denethor, Stone Seer
-1 Fealty to the Realm
-1 Call for Aid
-1 Gimli of the Glittering Caves
-1 Boromir, Gondor's Hope
-1 Éomer, King of Rohan
-1 Faramir, Steward of Gondor
-1 Forth Eorlingas!
+COMMANDER: 1 Éowyn, Shieldmaiden [foil] [LTC:1]
+1 Aragorn, King of Gondor [foil] [LTC:5]
+1 Beregond of the Guard [LTC:9]
+1 Champions of Minas Tirith [LTC:10]
+1 Gilraen, Dúnedain Protector [LTC:13]
+1 Grey Host Reinforcements [LTC:14]
+1 Lossarnach Captain [LTC:16]
+1 Archivist of Gondor [LTC:18]
+1 Denethor, Stone Seer [LTC:20]
+1 Fealty to the Realm [LTC:21]
+1 Call for Aid [LTC:30]
+1 Gimli of the Glittering Caves [LTC:32]
+1 Boromir, Gondor's Hope [LTC:49]
+1 Éomer, King of Rohan [LTC:52]
+1 Faramir, Steward of Gondor [LTC:54]
+1 Forth Eorlingas! [LTC:56]
 1 Oath of Eorl
-1 Riders of Rohan
-1 Taunt from the Rampart
-1 Crown of Gondor
+1 Riders of Rohan [LTC:67]
+1 Taunt from the Rampart [LTC:71]
+1 Crown of Gondor [LTC:75]
 1 Bastion Protector
 1 Dearly Departed
 1 Frontline Medic
@@ -68,7 +68,7 @@ COMMANDER: 1 Éowyn, Shieldmaiden [foil]
 1 Commander's Sphere
 1 Heirloom Blade
 1 Herald's Horn
-1 Sol Ring
+1 Sol Ring [LTC:284]
 1 Talisman of Conviction
 1 Talisman of Progress
 1 Thought Vessel

@@ -2,7 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
 // DATE: 2023-07-23
 // DISPLAY: Also contains 1 random red rare or mythic rare from the base set.
-1 Assault on Osgiliath
+1 Assault on Osgiliath [LTR:285]
 1 Erebor Flamesmith
 1 Battle-Scarred Goblin
 1 Swarming of Moria

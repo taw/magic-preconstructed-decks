@@ -1,26 +1,26 @@
 // NAME: Elven Council
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
 // DATE: 2023-07-23
-COMMANDER: 1 Galadriel, Elven-Queen [foil]
-1 Gandalf, Westward Voyager [foil]
-1 Raise the Palisade
-1 Trap the Trespassers
-1 Arwen, Weaver of Hope
-1 Galadhrim Ambush
-1 Haldir, Lórien Lieutenant
-1 Legolas Greenleaf
-1 Mirkwood Elk
-1 Travel Through Caradhras
-1 Windswift Slice
-1 Círdan the Shipwright
-1 Elrond of the White Council
-1 Erestor of the Council
-1 Mirkwood Trapper
-1 Radagast, Wizard of Wilds
-1 Sail into the West
+COMMANDER: 1 Galadriel, Elven-Queen [foil] [LTC:3]
+1 Gandalf, Westward Voyager [foil] [LTC:6]
+1 Raise the Palisade [LTC:23]
+1 Trap the Trespassers [LTC:25]
+1 Arwen, Weaver of Hope [LTC:35]
+1 Galadhrim Ambush [LTC:38]
+1 Haldir, Lórien Lieutenant [LTC:39]
+1 Legolas Greenleaf [LTC:40]
+1 Mirkwood Elk [LTC:41]
+1 Travel Through Caradhras [LTC:44]
+1 Windswift Slice [LTC:45]
+1 Círdan the Shipwright [LTC:50]
+1 Elrond of the White Council [LTC:51]
+1 Erestor of the Council [LTC:53]
+1 Mirkwood Trapper [LTC:62]
+1 Radagast, Wizard of Wilds [LTC:66]
+1 Sail into the West [LTC:68]
 1 Song of Eärendil
-1 Lothlórien Blade
-1 Model of Unity
+1 Lothlórien Blade [LTC:77]
+1 Model of Unity [LTC:78]
 1 Colossal Whale
 1 Devastation Tide
 1 Mystic Confluence
@@ -66,7 +66,7 @@ COMMANDER: 1 Galadriel, Elven-Queen [foil]
 1 Arcane Signet
 1 Commander's Sphere
 1 Lightning Greaves
-1 Sol Ring
+1 Sol Ring [LTC:284]
 1 Whispersilk Cloak
 1 Ash Barrens
 1 Command Tower

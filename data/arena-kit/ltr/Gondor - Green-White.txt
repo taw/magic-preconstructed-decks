@@ -1,11 +1,11 @@
 // NAME: Gondor: Green-White
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-starter-kit-decklists
 // DATE: 2023-07-23
-1 Aragorn and Arwen, Wed
-1 Frodo, Determined Hero
-1 Gandalf, White Rider
-1 Galadriel, Gift-Giver
-1 Bilbo's Ring
+1 Aragorn and Arwen, Wed [LTR:287]
+1 Frodo, Determined Hero [LTR:289]
+1 Gandalf, White Rider [LTR:290]
+1 Galadriel, Gift-Giver [LTR:296]
+1 Bilbo's Ring [LTR:298]
 3 Knight of the Keep
 1 Westfold Rider
 1 East-Mark Cavalier
@@ -14,7 +14,7 @@
 1 Dúnedain Blade
 1 Second Breakfast
 1 Rosie Cotton of South Lane
-2 Banishing Light
+2 Banishing Light [LTC:161]
 1 Landroval, Horizon Witness
 1 You Cannot Pass!
 2 Mushroom Watchdogs

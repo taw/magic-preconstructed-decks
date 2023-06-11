@@ -2,7 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
 // DATE: 2023-07-23
 // DISPLAY: Also contains 1 random white rare or mythic rare from the base set.
-1 Saradoc, Master of Buckland
+1 Saradoc, Master of Buckland [LTR:282]
 1 Nimble Hobbit
 1 Samwise the Stouthearted
 1 Took Reaper

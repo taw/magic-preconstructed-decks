@@ -1,26 +1,26 @@
 // NAME: Food and Fellowship
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
 // DATE: 2023-07-23
-COMMANDER: 1 Frodo, Adventurous Hobbit [foil]
-COMMANDER: 1 Sam, Loyal Attendant [foil]
-1 Field-Tested Frying Pan
-1 The Gaffer
-1 Gwaihir, Greatest of the Eagles
+COMMANDER: 1 Frodo, Adventurous Hobbit [foil] [LTC:2]
+COMMANDER: 1 Sam, Loyal Attendant [foil] [LTC:7]
+1 Field-Tested Frying Pan [LTC:11]
+1 The Gaffer [LTC:12]
+1 Gwaihir, Greatest of the Eagles [LTC:15]
 1 Of Herbs and Stewed Rabbit
-1 Gollum, Obsessed Stalker
-1 Lobelia, Defender of Bag End
-1 Rapacious Guest
-1 Assemble the Entmoot
-1 Feasting Hobbit
-1 Motivated Pony
-1 Prize Pig
-1 Banquet Guests
-1 Bilbo, Birthday Celebrant
-1 Farmer Cotton
-1 Merry, Warden of Isengard
-1 Pippin, Warden of Isengard
-1 Treebeard, Gracious Host
-1 Hithlain Rope
+1 Gollum, Obsessed Stalker [LTC:26]
+1 Lobelia, Defender of Bag End [LTC:27]
+1 Rapacious Guest [LTC:28]
+1 Assemble the Entmoot [LTC:36]
+1 Feasting Hobbit [LTC:37]
+1 Motivated Pony [LTC:42]
+1 Prize Pig [LTC:43]
+1 Banquet Guests [LTC:47]
+1 Bilbo, Birthday Celebrant [LTC:48]
+1 Farmer Cotton [LTC:55]
+1 Merry, Warden of Isengard [LTC:61]
+1 Pippin, Warden of Isengard [LTC:65]
+1 Treebeard, Gracious Host [LTC:73]
+1 Hithlain Rope [LTC:76]
 1 Call for Unity
 1 Dawn of Hope
 1 Dusk // Dawn
@@ -74,7 +74,7 @@ COMMANDER: 1 Sam, Loyal Attendant [foil]
 1 Arcane Signet
 1 Commander's Sphere
 1 Pristine Talisman
-1 Sol Ring
+1 Sol Ring [LTC:284]
 1 Access Tunnel
 1 Ash Barrens
 1 Command Tower
