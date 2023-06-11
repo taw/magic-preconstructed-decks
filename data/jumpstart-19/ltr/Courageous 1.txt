@@ -1,0 +1,18 @@
+// NAME: Courageous 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DATE: 2023-07-23
+// DISPLAY: Also contains 1 random white rare or mythic rare from the base set.
+1 Saradoc, Master of Buckland
+1 Esquire of the King
+1 Samwise the Stouthearted
+1 Took Reaper
+1 Rosie Cotton of South Lane
+1 Errand-Rider of Gondor
+1 Bill the Pony
+1 Lost to Legend
+1 Fog on the Barrow-Downs
+1 Slip On the Ring
+1 Escape from Orthanc
+8 Plains
+
+Sideboard
