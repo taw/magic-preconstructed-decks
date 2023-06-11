@@ -1,0 +1,89 @@
+// NAME: Riders of Rohan
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
+// DATE: 2023-07-23
+COMMANDER: 1 Éowyn, Shieldmaiden [foil]
+1 Aragorn, King of Gondor [foil]
+1 Beregond of the Guard
+1 Champions of Minas Tirith
+1 Gilraen, Dúnedain Protector
+1 Grey Host Reinforcements
+1 Lossarnach Captain
+1 Archivist of Gondor
+1 Denethor, Stone Seer
+1 Fealty to the Realm
+1 Call for Aid
+1 Gimli of the Glittering Caves
+1 Boromir, Gondor's Hope
+1 Éomer, King of Rohan
+1 Faramir, Steward of Gondor
+1 Forth Eorlingas!
+1 Oath of Eorl
+1 Riders of Rohan
+1 Taunt from the Rampart
+1 Crown of Gondor
+1 Bastion Protector
+1 Dearly Departed
+1 Frontline Medic
+1 Increasing Devotion
+1 Marshal's Anthem
+1 Selfless Squire
+1 Unbreakable Formation
+1 Verge Rangers
+1 Visions of Glory
+1 Weathered Wayfarer
+1 Combat Celebrant
+1 Court of Ire
+1 Earthquake
+1 Flamerush Rider
+1 Frontier Warmonger
+1 Harsh Mentor
+1 Shared Animosity
+1 Zealous Conscripts
+1 Supreme Verdict
+1 Door of Destinies
+1 Vanquisher's Banner
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Glacial Fortress
+1 Port Town
+1 Prairie Stream
+1 Sulfur Falls
+1 Throne of the High City
+1 Windbrisk Heights
+1 Lost to Legend
+1 Erkenbrand, Lord of Westfold
+1 Banishing Light
+1 Fiend Hunter
+1 Palace Jailer
+1 Path to Exile
+1 Sunset Revelry
+1 Swords to Plowshares
+1 Village Bell-Ringer
+1 Prince Imrahil the Fair
+1 Humble Defector
+1 Théoden, King of Rohan
+1 Arcane Signet
+1 Commander's Sphere
+1 Heirloom Blade
+1 Herald's Horn
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Command Tower
+1 Evolving Wilds
+1 Field of Ruin
+1 Path of Ancestry
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Terramorphic Expanse
+1 Tranquil Cove
+1 Wind-Scarred Crag
+9 Plains
+5 Island
+5 Mountain
+
+Sideboard

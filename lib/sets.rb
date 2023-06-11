@@ -213,6 +213,7 @@ MagicSets = {
   "leg" => "Legends",
   "lgn" => "Legions",
   "lrw" => "Lorwyn",
+  "ltc" => "The Lord of the Rings: Tales of Middle-earth",
   "m10" => "Magic 2010",
   "m11" => "Magic 2011",
   "m12" => "Magic 2012",
