@@ -1,0 +1,12 @@
+// NAME: Silver Pack
+// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// DATE: 2003-07-28
+1 Honor Guard
+1 Sea Eagle
+1 Holy Day
+1 Sanctimony
+1 Rod of Ruin
+1 Plains
+1 Island
+
+Sideboard

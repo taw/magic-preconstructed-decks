@@ -1,0 +1,16 @@
+// NAME: Silver Deck
+// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// DATE: 2003-07-28
+1 Eager Cadet
+4 Glory Seeker
+3 Giant Octopus
+2 Vizzerdrix
+2 Coral Eel
+1 Fugitive Wizard
+2 Sacred Nectar
+2 Vengeance
+1 Index
+8 Plains
+7 Island
+
+Sideboard

@@ -1,0 +1,13 @@
+// NAME: Starter 2000 sampler pack
+// SOURCE: https://mtg.fandom.com/wiki/Starter_2000
+// DATE: 2000-04-24
+1 Armored Pegasus
+1 Forest
+1 Island
+1 Merfolk of the Pearl Trident
+1 Mountain
+1 Plains
+1 Python
+1 Spined Wurm
+1 Stone Rain
+1 Swamp
