@@ -1,0 +1,35 @@
+// NAME: Gondor: Green-White
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-starter-kit-decklists
+// DATE: 2023-07-23
+1 Aragorn and Arwen, Wed
+1 Frodo, Determined Hero
+1 Gandalf, White Rider
+1 Galadriel, Gift-Giver
+1 Bilbo's Ring
+3 Knight of the Keep
+1 Westfold Rider
+1 East-Mark Cavalier
+1 Eastfarthing Farmer
+2 Protector of Gondor
+1 Dúnedain Blade
+1 Second Breakfast
+1 Rosie Cotton of South Lane
+2 Banishing Light
+1 Landroval, Horizon Witness
+1 You Cannot Pass!
+2 Mushroom Watchdogs
+2 Wose Pathfinder
+2 Bag End Porter
+1 Generous Ent
+2 Many Partings
+1 Galadhrim Bow
+1 Meriadoc Brandybuck
+1 Peregrin Took
+1 Stew the Coneys
+1 Butterbur, Bree Innkeeper
+2 Shire Terrace
+2 Graypelt Refuge
+11 Forest
+11 Plains
+
+Sideboard
