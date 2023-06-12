@@ -1,6 +1,6 @@
 // NAME: Riders of Rohan
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 COMMANDER: 1 Éowyn, Shieldmaiden [foil] [LTC:1]
 1 Aragorn, King of Gondor [foil] [LTC:5]
 1 Beregond of the Guard [LTC:9]

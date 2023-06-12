@@ -1,6 +1,6 @@
 // NAME: Mordor: Black-Red
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-starter-kit-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 1 Sauron, the Lidless Eye [LTR:288]
 1 Gollum, Scheming Guide [LTR:292]
 1 Witch-king, Bringer of Ruin [LTR:293]

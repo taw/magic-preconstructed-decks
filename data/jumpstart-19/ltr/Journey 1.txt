@@ -1,6 +1,6 @@
 // NAME: Journey 1
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 // DISPLAY: Also contains 1 random green rare or mythic rare from the base set.
 1 Elanor Gardner [LTR:286]
 1 Mirkwood Spider

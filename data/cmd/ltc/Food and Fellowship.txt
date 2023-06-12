@@ -1,6 +1,6 @@
 // NAME: Food and Fellowship
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 COMMANDER: 1 Frodo, Adventurous Hobbit [foil] [LTC:2]
 COMMANDER: 1 Sam, Loyal Attendant [foil] [LTC:7]
 1 Field-Tested Frying Pan [LTC:11]

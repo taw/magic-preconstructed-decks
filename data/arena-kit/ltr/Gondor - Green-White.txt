@@ -1,6 +1,6 @@
 // NAME: Gondor: Green-White
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-starter-kit-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 1 Aragorn and Arwen, Wed [LTR:287]
 1 Frodo, Determined Hero [LTR:289]
 1 Gandalf, White Rider [LTR:290]

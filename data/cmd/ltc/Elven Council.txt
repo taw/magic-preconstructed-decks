@@ -1,6 +1,6 @@
 // NAME: Elven Council
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 COMMANDER: 1 Galadriel, Elven-Queen [foil] [LTC:3]
 1 Gandalf, Westward Voyager [foil] [LTC:6]
 1 Raise the Palisade [LTC:23]

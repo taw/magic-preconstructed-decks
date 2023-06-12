@@ -1,6 +1,6 @@
 // NAME: The Hosts of Mordor
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
-// DATE: 2023-07-23
+// DATE: 2023-06-23
 COMMANDER: 1 Sauron, Lord of the Rings [foil] [LTC:4]
 1 Saruman, the White Hand [foil] [LTC:8]
 1 Corsairs of Umbar [LTC:19]
