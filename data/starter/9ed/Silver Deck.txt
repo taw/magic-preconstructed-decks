@@ -1,5 +1,6 @@
 // NAME: Silver Deck
 // SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
+// DATE: 2005-08-09
 1 Eager Cadet
 4 Glory Seeker
 3 Giant Octopus
