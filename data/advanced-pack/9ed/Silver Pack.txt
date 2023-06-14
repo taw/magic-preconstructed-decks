@@ -1,5 +1,6 @@
 // NAME: Silver Pack
 // SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
+// DATE: 2005-08-09
 1 Honor Guard
 1 Wind Drake
 1 Holy Day
