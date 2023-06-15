@@ -8,6 +8,6 @@
 1 Mountain
 1 Plains
 1 Python
-1 Spined Wurm
+1 Spined Wurm [PMEI]
 1 Stone Rain
 1 Swamp
