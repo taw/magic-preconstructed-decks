@@ -1,0 +1,89 @@
+// NAME: The Hosts of Mordor
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-commander-decklists
+// DATE: 2023-06-23
+COMMANDER: 1 Sauron, Lord of the Rings [foil] [LTC:4]
+1 Saruman, the White Hand [foil] [LTC:8]
+1 Corsairs of Umbar [LTC:19]
+1 Monstrosity of the Lake [LTC:22]
+1 Subjugate the Hobbits [LTC:24]
+1 Shelob, Dread Weaver [LTC:29]
+1 Cavern-Hoard Dragon [LTC:31]
+1 Orcish Siegemaster [LTC:33]
+1 Rampaging War Mammoth [LTC:34]
+1 The Balrog of Moria [LTC:46]
+1 Gríma, Saruman's Footman [LTC:57]
+1 In the Darkness Bind Them
+1 Lidless Gaze [LTC:59]
+1 Lord of the Nazgûl [LTC:60]
+1 Moria Scavenger [LTC:63]
+1 Summons of Saruman [LTC:70]
+1 Too Greedily, Too Deep [LTC:72]
+1 Wake the Dragon [LTC:74]
+1 Relic of Sauron [LTC:79]
+1 The Black Gate [LTC:80]
+1 Decree of Pain
+1 Languish
+1 Living Death
+1 Reanimate
+1 Blasphemous Act
+1 Goblin Dark-Dwellers
+1 Inferno Titan
+1 Knollspine Dragon
+1 Scourge of the Throne
+1 Siege-Gang Commander
+1 Treasure Nabber
+1 Hostage Taker
+1 Notion Thief
+1 Choked Estuary
+1 Desolate Lighthouse
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Foreboding Ruins
+1 Frostboil Snarl
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+1 Underground River
+1 Treason of Isengard
+1 Bitter Downfall
+1 Troll of Khazad-dûm
+1 Voracious Fell Beast
+1 Fiery Inscription
+1 Grishnákh, Brash Instigator
+1 Arcane Denial
+1 Boon of the Wish-Giver
+1 Consider
+1 Deep Analysis
+1 Fact or Fiction
+1 Forbidden Alchemy
+1 Feed the Swarm
+1 Merciless Executioner
+1 Revenge of Ravens
+1 Anger
+1 Faithless Looting
+1 The Mouth of Sauron
+1 Goblin Cratermaker
+1 Guttersnipe
+1 Shiny Impetus
+1 Thrill of Possibility
+1 Extract from Darkness
+1 Arcane Signet
+1 Basalt Monolith
+1 Commander's Sphere
+1 Everflowing Chalice
+1 Mind Stone
+1 Sol Ring [LTC:284]
+1 Worn Powerstone
+1 Command Tower
+1 Crumbling Necropolis
+1 Evolving Wilds
+1 Field of Ruin
+1 Path of Ancestry
+1 Rogue's Passage
+1 Terramorphic Expanse
+6 Island
+6 Swamp
+7 Mountain
+
+Sideboard

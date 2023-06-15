@@ -1,0 +1,34 @@
+// NAME: Mordor: Black-Red
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-starter-kit-decklists
+// DATE: 2023-06-23
+1 Sauron, the Lidless Eye [LTR:288]
+1 Gollum, Scheming Guide [LTR:292]
+1 Witch-king, Bringer of Ruin [LTR:293]
+1 Fires of Mount Doom [LTR:294]
+1 The Balrog, Flame of Udûn [LTR:297]
+3 Goblin Assailant
+2 Easterling Vanguard
+2 Feed the Swarm
+2 Dunland Crebain
+2 Mordor Trebuchet
+1 Snarling Warg
+1 Shelob's Ambush
+1 Nasty End
+1 Gothmog, Morgul Lieutenant
+1 Voracious Fell Beast
+1 Swarming of Moria
+2 Olog-hai Crusher
+1 Oliphaunt
+1 Cast into the Fire
+1 Fire of Orthanc
+1 Goblin Fireleaper
+1 Grishnákh, Brash Instigator
+2 Foray of Orcs
+1 Mauhúr, Uruk-hai Captain
+1 Uglúk of the White Hand
+1 Mind Stone [LTC:282]
+4 Evolving Wilds
+11 Swamp
+11 Mountain
+
+Sideboard

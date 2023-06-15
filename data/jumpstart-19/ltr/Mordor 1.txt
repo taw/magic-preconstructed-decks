@@ -1,0 +1,18 @@
+// NAME: Mordor 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DATE: 2023-06-23
+// DISPLAY: Also contains 1 random black rare or mythic rare from the base set.
+1 Ringwraiths [LTR:284]
+1 Mordor Muster
+1 Gollum, Patient Plotter
+1 Uruk-hai Berserker
+1 Nazgûl [LTR:100]
+1 Gothmog, Morgul Lieutenant
+1 Cirith Ungol Patrol
+1 Claim the Precious
+1 Gollum's Bite
+1 Nasty End
+1 Shelob's Ambush
+8 Swamp
+
+Sideboard

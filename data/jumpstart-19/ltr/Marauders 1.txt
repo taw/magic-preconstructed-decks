@@ -1,0 +1,18 @@
+// NAME: Marauders 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DATE: 2023-06-23
+// DISPLAY: Also contains 1 random red rare or mythic rare from the base set.
+1 Assault on Osgiliath [LTR:285]
+1 Erebor Flamesmith
+1 Battle-Scarred Goblin
+1 Swarming of Moria
+1 Grishnákh, Brash Instigator
+1 Gimli, Counter of Kills
+1 Olog-hai Crusher
+1 Foray of Orcs
+1 Fear, Fire, Foes!
+1 Gimli's Fury
+1 Quarrel's End
+8 Mountain
+
+Sideboard

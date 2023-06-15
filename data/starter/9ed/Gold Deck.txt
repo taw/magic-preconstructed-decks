@@ -1,6 +1,6 @@
 // NAME: Gold Deck
 // SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Core_Game
-// DATE: 2005-07-29
+// DATE: 2005-08-09
 2 Norwood Ranger
 2 Grizzly Bears
 1 Spined Wurm
