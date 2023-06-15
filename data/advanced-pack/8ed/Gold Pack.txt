@@ -1,0 +1,12 @@
+// NAME: Gold Pack
+// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// DATE: 2003-07-28
+1 Silverback Ape
+1 Goblin Glider
+1 Blanchwood Armor
+1 Naturalize
+1 Patagia Golem
+1 Forest
+1 Mountain
+
+Sideboard
