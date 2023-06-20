@@ -82,8 +82,11 @@ COMMANDER: 1 Éowyn, Shieldmaiden [foil] [LTC:1]
 1 Terramorphic Expanse
 1 Tranquil Cove
 1 Wind-Scarred Crag
-9 Plains
-5 Island
-5 Mountain
+5 Plains [LTR:262]
+4 Plains [LTR:263]
+3 Island [LTR:264]
+2 Island [LTR:265]
+3 Mountain [LTR:268]
+2 Mountain [LTR:269]
 
 Sideboard

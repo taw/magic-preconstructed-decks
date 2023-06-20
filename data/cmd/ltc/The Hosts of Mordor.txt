@@ -82,8 +82,11 @@ COMMANDER: 1 Sauron, Lord of the Rings [foil] [LTC:4]
 1 Path of Ancestry
 1 Rogue's Passage
 1 Terramorphic Expanse
-6 Island
-6 Swamp
-7 Mountain
+3 Island [LTR:264]
+3 Island [LTR:265]
+3 Swamp [LTR:266]
+3 Swamp [LTR:267]
+4 Mountain [LTR:268]
+3 Mountain [LTR:269]
 
 Sideboard

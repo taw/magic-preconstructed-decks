@@ -85,8 +85,11 @@ COMMANDER: 1 Sam, Loyal Attendant [foil] [LTC:7]
 1 Rogue's Passage
 1 Sandsteppe Citadel
 1 Scoured Barrens
-4 Plains
-4 Swamp
-8 Forest
+2 Plains [LTR:262]
+2 Plains [LTR:263]
+2 Swamp [LTR:266]
+2 Swamp [LTR:267]
+4 Forest [LTR:270]
+4 Forest [LTR:271]
 
 Sideboard
