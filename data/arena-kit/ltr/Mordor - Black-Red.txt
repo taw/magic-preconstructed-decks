@@ -27,7 +27,7 @@
 1 Mauhúr, Uruk-hai Captain
 1 Uglúk of the White Hand
 1 Mind Stone [LTC:282]
-4 Evolving Wilds
+4 Evolving Wilds [LTC:306]
 11 Swamp
 11 Mountain
 

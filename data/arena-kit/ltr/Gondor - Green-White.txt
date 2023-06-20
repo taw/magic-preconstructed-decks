@@ -28,7 +28,7 @@
 1 Stew the Coneys
 1 Butterbur, Bree Innkeeper
 2 Shire Terrace
-2 Graypelt Refuge
+2 Graypelt Refuge [LTC:316]
 11 Forest
 11 Plains
 
