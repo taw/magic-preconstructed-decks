@@ -1,89 +1,89 @@
 // NAME: Planechase Anthology Plane Deck
 // SOURCE: https://magic.wizards.com/en/news/feature/planechase-anthology-celebration-magics-history-2016-11-14
 // DATE: 2016-11-25
-1 Chaotic Aether
-1 Interplanar Tunnel
-1 Morphic Tide
-1 Mutual Epiphany
-1 Planewide Disaster
-1 Reality Shaping
-1 Spatial Merging
-1 Time Distortion
-1 Academy at Tolaria West
-1 The Aether Flues
-1 Agyrem
-1 Akoum
-1 Aretopolis
-1 Astral Arena
-1 Bant
-1 Bloodhill Bastion
-1 Celestine Reef
-1 Cliffside Market
-1 The Dark Barony
-1 Edge of Malacol
-1 Eloren Wilds
-1 The Eon Fog
-1 Feeding Grounds
-1 Fields of Summer
-1 The Fourth Sphere
-1 Furnace Layer
-1 Gavony
-1 Glen Elendra
-1 Glimmervoid Basin
-1 Goldmeadow
-1 Grand Ossuary
-1 The Great Forest
-1 Grixis
-1 Grove of the Dreampods
-1 Hedron Fields of Agadeem
-1 The Hippodrome
-1 Horizon Boughs
-1 Immersturm
-1 Isle of Vesuva
-1 Izzet Steam Maze
-1 Jund
-1 Kessig
-1 Kharasha Foothills
-1 Kilnspire District
-1 Krosa
-1 Lair of the Ashen Idol
-1 Lethe Lake
-1 Llanowar
-1 The Maelstrom
-1 Minamo
-1 Mirrored Depths
-1 Mount Keralia
-1 Murasa
-1 Naar Isle
-1 Naya
-1 Nephalia
-1 Norn's Dominion
-1 Onakke Catacomb
-1 Orochi Colony
-1 Orzhova
-1 Otaria
-1 Panopticon
-1 Pools of Becoming
-1 Prahv
-1 Quicksilver Sea
-1 Raven's Run
-1 Sanctum of Serra
-1 Sea of Sand
-1 Selesnya Loft Gardens
-1 Shiv
-1 Skybreen
-1 Sokenzan
-1 Stairs to Infinity
-1 Stensia
-1 Stronghold Furnace
-1 Takenuma
-1 Talon Gates
-1 Tazeem
-1 Tember City
-1 Trail of the Mage-Rings
-1 Truga Jungle
-1 Turri Island
-1 Undercity Reaches
-1 Velis Vel
-1 Windriddle Palaces
-1 The Zephyr Maze
+1 Chaotic Aether [opca]
+1 Interplanar Tunnel [opca]
+1 Morphic Tide [opca]
+1 Mutual Epiphany [opca]
+1 Planewide Disaster [opca]
+1 Reality Shaping [opca]
+1 Spatial Merging [opca]
+1 Time Distortion [opca]
+1 Academy at Tolaria West [opca]
+1 The Aether Flues [opca]
+1 Agyrem [opca]
+1 Akoum [opca]
+1 Aretopolis [opca]
+1 Astral Arena [opca]
+1 Bant [opca]
+1 Bloodhill Bastion [opca]
+1 Celestine Reef [opca]
+1 Cliffside Market [opca]
+1 The Dark Barony [opca]
+1 Edge of Malacol [opca]
+1 Eloren Wilds [opca]
+1 The Eon Fog [opca]
+1 Feeding Grounds [opca]
+1 Fields of Summer [opca]
+1 The Fourth Sphere [opca]
+1 Furnace Layer [opca]
+1 Gavony [opca]
+1 Glen Elendra [opca]
+1 Glimmervoid Basin [opca]
+1 Goldmeadow [opca]
+1 Grand Ossuary [opca]
+1 The Great Forest [opca]
+1 Grixis [opca]
+1 Grove of the Dreampods [opca]
+1 Hedron Fields of Agadeem [opca]
+1 The Hippodrome [opca]
+1 Horizon Boughs [opca]
+1 Immersturm [opca]
+1 Isle of Vesuva [opca]
+1 Izzet Steam Maze [opca]
+1 Jund [opca]
+1 Kessig [opca]
+1 Kharasha Foothills [opca]
+1 Kilnspire District [opca]
+1 Krosa [opca]
+1 Lair of the Ashen Idol [opca]
+1 Lethe Lake [opca]
+1 Llanowar [opca]
+1 The Maelstrom [opca]
+1 Minamo [opca]
+1 Mirrored Depths [opca]
+1 Mount Keralia [opca]
+1 Murasa [opca]
+1 Naar Isle [opca]
+1 Naya [opca]
+1 Nephalia [opca]
+1 Norn's Dominion [opca]
+1 Onakke Catacomb [opca]
+1 Orochi Colony [opca]
+1 Orzhova [opca]
+1 Otaria [opca]
+1 Panopticon [opca]
+1 Pools of Becoming [opca]
+1 Prahv [opca]
+1 Quicksilver Sea [opca]
+1 Raven's Run [opca]
+1 Sanctum of Serra [opca]
+1 Sea of Sand [opca]
+1 Selesnya Loft Gardens [opca]
+1 Shiv [opca]
+1 Skybreen [opca]
+1 Sokenzan [opca]
+1 Stairs to Infinity [opca]
+1 Stensia [opca]
+1 Stronghold Furnace [opca]
+1 Takenuma [opca]
+1 Talon Gates [opca]
+1 Tazeem [opca]
+1 Tember City [opca]
+1 Trail of the Mage-Rings [opca]
+1 Truga Jungle [opca]
+1 Turri Island [opca]
+1 Undercity Reaches [opca]
+1 Velis Vel [opca]
+1 Windriddle Palaces [opca]
+1 The Zephyr Maze [opca]
