@@ -1,0 +1,31 @@
+// NAME: Black-Green Deck
+// SOURCE: https://mtg.fandom.com/wiki/Spellslinger_Starter_Kit
+// DATE: 2018-10-5
+1 Bristling Boar
+2 Centaur Courser
+3 Colossal Dreadmaw
+1 Ghalta, Primal Hunger
+1 Gravewaker
+2 Grazing Whiptail
+1 Greenwood Sentinel
+2 Hitchclaw Recluse
+1 Jungle Creeper
+3 Llanowar Elves
+1 Pelakka Wurm
+1 Ravenous Chupacabra
+2 Reclamation Sage
+2 Ursine Champion
+2 Vampire Sovereign
+1 Verdant Sun's Avatar
+1 Vigilant Baloth
+1 Walking Corpse
+1 Declare Dominance
+2 Impale
+2 Moment of Craving
+2 Titanic Growth
+1 Prodigious Growth
+4 Foul Orchard
+10 Swamp
+10 Forest
+
+Sideboard

@@ -1,0 +1,31 @@
+// NAME: Red-White Deck
+// SOURCE: https://mtg.fandom.com/wiki/Spellslinger_Starter_Kit
+// DATE: 2018-10-5
+1 Burning Sun's Avatar
+2 Charging Monstrosaur
+1 Demanding Dragon
+2 Exultant Skymarcher
+1 Frenzied Raptor
+1 Goblin Motivator
+1 Hostile Minotaur
+1 Inspiring Captain
+3 Knight of New Benalia
+2 Pyromantic Pilgrim
+2 Rustwing Falcon
+1 Serra's Guardian
+1 Shivan Dragon
+1 Silverbeak Griffin
+2 Sky Terror
+2 Skyknight Legionnaire
+2 Sun Sentinel
+1 Citywide Bust
+2 Dual Shot
+2 Inspired Charge
+2 Lightning Strike
+1 Moment of Triumph
+2 Luminous Bonds
+4 Stone Quarry
+10 Plains
+10 Mountain
+
+Sideboard
