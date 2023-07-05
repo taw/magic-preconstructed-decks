@@ -1,7 +1,7 @@
 // NAME: Grave Danger
 // SOURCE: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
 // DATE: 2022-12-02
-COMMANDER: 1 Gisa and Geralf
+COMMANDER: 1 Gisa and Geralf [foil]
 1 Geralf's Mindcrusher
 1 Laboratory Drudge
 1 Army of the Damned

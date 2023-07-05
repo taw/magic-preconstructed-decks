@@ -4,7 +4,7 @@
 3 Almighty Brushwagg [IKO:143]
 3 Bristling Boar [IKO:146]
 2 Colossal Dreadmaw [M21:176]
-1 Colossification [IKO:364]
+1 Colossification [IKO:148]
 27 Forest [M21:272]
 2 Honey Mammoth [IKO:158]
 2 Humble Naturalist [IKO:160]

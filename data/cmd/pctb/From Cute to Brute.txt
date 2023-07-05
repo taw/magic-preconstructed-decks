@@ -1,11 +1,11 @@
 // NAME: From Cute to Brute
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Commander_Deck:_From_Cute_to_Brute
 // DATE: 2023-05-08
-COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a]
-1 Archangel Avacyn // Avacyn, the Purifier [SLD:1156a]
-1 Bloodline Keeper // Lord of Lineage [SLD:1157a]
-1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen [SLD:1158a]
-1 Westvale Abbey // Ormendahl, Profane Prince [SLD:1159a]
+COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a] [foil]
+1 Archangel Avacyn // Avacyn, the Purifier [SLD:1156a] [foil]
+1 Bloodline Keeper // Lord of Lineage [SLD:1157a] [foil]
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen [SLD:1158a] [foil]
+1 Westvale Abbey // Ormendahl, Profane Prince [SLD:1159a] [foil]
 1 Putrefy
 1 Rhys the Redeemed
 1 Evolving Wilds

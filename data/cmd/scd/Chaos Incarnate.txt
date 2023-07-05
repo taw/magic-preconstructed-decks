@@ -1,7 +1,7 @@
 // NAME: Chaos Incarnate
 // SOURCE: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
 // DATE: 2022-12-02
-COMMANDER: 1 Kardur, Doomscourge
+COMMANDER: 1 Kardur, Doomscourge [foil]
 1 Archfiend of Depravity
 1 Bloodgift Demon
 1 Deadly Tempest
