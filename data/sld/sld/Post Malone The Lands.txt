@@ -8,4 +8,4 @@
 1 [SLD:1194] Forest
 
 Sideboard
-1 [SLD:727] Fabled Passage
+1 [SLD:727] Fabled Passage [foil]

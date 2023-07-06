@@ -10,4 +10,4 @@
 1 [SLD:178] Wasteland
 
 Sideboard
-1 [SLD:582] Brainstorm
+1 [SLD:582] Brainstorm [foil]

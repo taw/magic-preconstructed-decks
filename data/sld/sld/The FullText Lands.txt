@@ -9,4 +9,4 @@
 1 [SLD:258] Forest
 
 Sideboard
-1 [SLD:585] Terramorphic Expanse
+1 [SLD:585] Terramorphic Expanse [foil]
