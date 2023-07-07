@@ -6,10 +6,10 @@
 1 Stalking Tiger
 1 Stampeding Rhino
 2 Druid of the Cowl
-1 Arborback Stomper
+1 Arborback Stomper [KLD:142†]
 1 Cowl Prowler
 1 Giant Spider
-1 Terrain Elemental
+1 Terrain Elemental [KLD:272†]
 2 Rabid Bite
 1 Wing Snare
 1 Spidery Grasp
