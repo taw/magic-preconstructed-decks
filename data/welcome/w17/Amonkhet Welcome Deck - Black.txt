@@ -4,7 +4,7 @@
 1 Nightmare
 2 Bloodhunter Bat
 1 Sengir Vampire
-1 Alley Strangler
+1 Alley Strangler [AER:52†]
 1 Cursed Minotaur
 1 Dune Beetle
 1 Gravedigger

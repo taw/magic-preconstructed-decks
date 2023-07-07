@@ -5,7 +5,7 @@
 1 Stormfront Pegasus
 2 Graceful Cat
 1 Serra Angel
-1 Dawnfeather Eagle
+1 Dawnfeather Eagle [AER:14†]
 1 Bastion Enforcer
 2 Standing Troops
 2 Glory Seeker

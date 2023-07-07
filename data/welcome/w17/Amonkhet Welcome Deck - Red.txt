@@ -5,10 +5,10 @@
 2 Falkenrath Reaver
 1 Thundering Giant
 2 Frontline Rebel
-1 Brazen Scourge
+1 Brazen Scourge [KLD:107†]
 2 Terror of the Fairgrounds
 1 Hyena Pack
-1 Wrangle
+1 Wrangle [AER:101†]
 1 Renegade Tactics
 1 Hungry Flames
 2 Shock

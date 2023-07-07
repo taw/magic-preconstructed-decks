@@ -5,7 +5,7 @@
 1 Air Elemental
 2 Coral Merfolk
 1 Stealer of Secrets
-1 Wind Drake
+1 Wind Drake [KLD:70†]
 2 Ancient Crab
 1 Angler Drake
 1 Nimble Innovator
