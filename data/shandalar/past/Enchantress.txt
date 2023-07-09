@@ -1,0 +1,20 @@
+// NAME: Enchantress
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Forest
+4 Llanowar Elves
+3 Verduran Enchantress
+3 Cockatrice
+3 Thicket Basilisk
+2 Durkwood Boars
+3 Lure
+2 Web
+3 Regeneration
+3 Living Artifact
+4 Aspect of Wolf
+2 Wild Growth
+2 Instill Energy
+2 Desert Twister
+1 Ivory Tower
+2 Coral Helm
+1 Library of Leng

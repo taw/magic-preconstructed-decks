@@ -1,0 +1,52 @@
+// NAME: Arzakon
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+6 Plains
+6 Island
+6 Swamp
+6 Mountain
+6 Forest
+4 Gem Bazaar
+4 Mishra's Factory
+2 Mesa Pegasus
+2 Pikemen
+2 Samite Healer
+2 Savannah Lions
+1 Circle of Protection: Black
+1 Circle of Protection: Blue
+1 Circle of Protection: Green
+1 Circle of Protection: Red
+1 Circle of Protection: White
+2 Spirit Link
+2 Zephyr Falcon
+1 Time Walk
+1 Timetwister
+1 Braingeyser
+2 Power Sink
+1 Ancestral Recall
+2 Siren's Call
+2 Erg Raiders
+2 Will-o'-The-Wisp
+2 Animate Dead
+2 Paralyze
+1 Mind Twist
+2 Raise Dead
+2 Howl From Beyond
+2 Hurr Jackal
+2 Wall of Dust
+2 Giant Strength
+2 Immolation
+1 Wheel of Fortune
+2 Disintegrate
+2 Pyrotechnics
+2 Blood Lust
+2 Lightning Bolt
+2 Elvish Archers
+2 Grizzly Bears
+1 Regrowth
+2 Desert Twister
+1 Berserk
+2 Fog
+2 Giant Growth
+1 Mox Emerald
+1 Mox Jet

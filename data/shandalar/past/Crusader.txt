@@ -1,0 +1,16 @@
+// NAME: Crusader
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Plains
+4 White Knight
+4 Pikemen
+4 Rainbow Knights
+4 Benalish Hero
+4 Crusade
+4 Castle
+2 Disenchant
+4 Eye for an Eye
+2 Morale
+4 Swords to Plowshares
+2 Battering Ram
+2 Dancing Scimitar

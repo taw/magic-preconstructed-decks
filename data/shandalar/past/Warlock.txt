@@ -1,0 +1,14 @@
+// NAME: Warlock
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+23 Swamp
+4 Hypnotic Specter
+4 El-Hajjaj
+4 Pit Scorpion
+2 Frozen Shade
+4 Murk Dwellers
+4 Drain Life
+4 Dark Ritual
+4 Howl from Beyond
+3 Terror
+4 Tawnos’s Wand

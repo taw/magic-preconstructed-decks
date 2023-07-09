@@ -1,0 +1,16 @@
+// NAME: Sea Dragon
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Island
+2 Island Fish Jasconius
+2 Water Elemental
+4 Sea Serpent
+4 Segovian Leviathan
+4 Giant Tortoise
+1 Leviathan
+4 Creature Bond
+4 Phantasmal Terrain
+3 Counterspell
+4 Siren’s Call
+4 Jump
+2 Mana Vault

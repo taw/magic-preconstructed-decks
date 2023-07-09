@@ -1,0 +1,16 @@
+// NAME: Hydra
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Mountain
+4 Wall of Fire
+2 Shivan Dragon
+4 Mana Flare
+4 Power Surge
+4 Fireball
+4 Disintegrate
+1 Detonate
+2 Lightning Bolt
+4 Inferno
+4 Onulet
+2 Soul Net
+3 The Hive

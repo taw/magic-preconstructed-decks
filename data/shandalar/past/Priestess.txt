@@ -1,0 +1,19 @@
+// NAME: Priestess
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+23 Plains
+4 Wall of Swords
+2 Pikemen
+2 Benalish Hero
+2 Mesa Pegasus
+2 Elder Land Wurm
+4 Animate Wall
+3 Sprit Link
+2 Fortified Area
+2 Blessing
+2 Castle
+2 Reverse Damage
+3 Healing Salve
+2 Disenchant
+3 Ivory Cup
+4 Wall of Spears

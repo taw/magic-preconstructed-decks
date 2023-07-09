@@ -1,0 +1,19 @@
+// NAME: Druid
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+20 Forest
+1 Oasis
+4 Mishra’s Factory
+3 Ley Druid
+3 Llanowar Elves
+2 Wall of Wood
+2 Naf’s Asp
+2 Giant Spider
+2 Craw Wurm
+2 Ironroot Treefolk
+2 Killer Bees
+2 Durkwood Boars
+3 Wanderlust
+3 Instill Energy
+4 Giant Growth
+4 Wooden Sphere

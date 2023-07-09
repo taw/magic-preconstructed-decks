@@ -1,0 +1,16 @@
+// NAME: Nether Fiend
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+21 Swamp
+4 Mishra’s Factory
+4 Nether Shadow
+4 Lord of the Pit
+3 Erg Raiders
+4 Black Knight
+3 Frozen Shade
+2 Junun Efreet
+3 Xenic Poltergeist
+4 Animate Dead
+2 Soul Net
+4 The Hive
+2 Kormus Bell
