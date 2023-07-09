@@ -9,7 +9,7 @@
 3 Drain Power
 2 Counterspell
 4 Unsummon
-2 Hurkyl’s Recall
+2 Hurkyl's Recall
 4 Crystal Rod
 3 Tetravus
 3 Triskelion

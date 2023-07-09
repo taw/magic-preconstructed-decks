@@ -4,7 +4,7 @@
 21 Mountain
 4 Goblin King
 4 Goblin Balloon Brigade
-4 Mons’s Goblin Raiders
+4 Mons's Goblin Raiders
 4 Keldon Warlord
 4 Goblin Polka Band
 4 Orcish Oriflamme
@@ -12,4 +12,4 @@
 4 Giant Strength
 3 Manabarbs
 4 Helm of Chatzuk
-2 Tawnos’s Weaponry
+2 Tawnos's Weaponry

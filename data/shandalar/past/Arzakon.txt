@@ -26,12 +26,12 @@
 1 Ancestral Recall
 2 Siren's Call
 2 Erg Raiders
-2 Will-o'-The-Wisp
+2 Will-o'-the-Wisp
 2 Animate Dead
 2 Paralyze
 1 Mind Twist
 2 Raise Dead
-2 Howl From Beyond
+2 Howl from Beyond
 2 Hurr Jackal
 2 Wall of Dust
 2 Giant Strength

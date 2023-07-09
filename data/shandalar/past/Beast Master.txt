@@ -1,10 +1,10 @@
 // NAME: Beast Master
 // SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
 // DATE: 1997-04-01
-21 Forests
+21 Forest
 2 Birds of Paradise
 4 Timber Wolves
-4 Naf’s Asp
+4 Nafs Asp
 4 Grizzly Bears
 4 Aswan Jaguar
 2 Durkwood Boars

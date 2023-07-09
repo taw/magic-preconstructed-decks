@@ -11,6 +11,6 @@
 4 Creature Bond
 4 Phantasmal Terrain
 3 Counterspell
-4 Siren’s Call
+4 Siren's Call
 4 Jump
 2 Mana Vault

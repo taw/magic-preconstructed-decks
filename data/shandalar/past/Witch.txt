@@ -4,7 +4,7 @@
 23 Swamp
 2 Wall of Bone
 4 Drudge Skeletons
-4 Will-O’-The-Wisp
+4 Will-o'-the-Wisp
 3 Scavenging Ghoul
 2 Greed
 4 Unholy Strength
@@ -12,6 +12,6 @@
 2 Drain Life
 2 Dark Ritual
 3 Throne of Bone
-4 Nevinyrral’s Disk
+4 Nevinyrral's Disk
 3 Clay Statue
 3 Diabolic Machine

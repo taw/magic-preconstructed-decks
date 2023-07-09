@@ -2,7 +2,7 @@
 // SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
 // DATE: 1997-04-01
 22 Plains
-1 Mishra’s Workshop
+1 Mishra's Workshop
 2 Serra Angel
 2 Personal Incarnation
 3 White Knight

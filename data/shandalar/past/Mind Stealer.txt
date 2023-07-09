@@ -7,11 +7,11 @@
 2 Phantasmal Forces
 2 Phantom Monster
 4 Sengir Vampire
-3 Will-O'-The-Wisp
-2 Junun Efreet
+3 Will-o'-the-Wisp
+2 Junún Efreet
 2 Fellwar Stone
 2 Animate Dead
-2 Call to the Grave
+2 Call from the Grave
 4 Control Magic
 2 Steal Artifact
 4 Unholy Strength

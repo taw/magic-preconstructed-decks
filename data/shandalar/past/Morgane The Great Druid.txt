@@ -5,7 +5,7 @@
 1 Sol Ring
 1 Mox Emerald
 3 Llanowar Elves
-3 Gaea’s Liege
+3 Gaea's Liege
 3 Birds of Paradise
 4 Killer Bees
 2 Verduran Enchantress
