@@ -1,0 +1,16 @@
+// NAME: Forest Dragon
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Forest
+4 Craw Wurm
+4 Cockatrice
+4 Thicket Basilisk
+4 Llanowar Elves
+2 Wall of Brambles
+4 Lure
+2 Regeneration
+3 Living Lands
+3 Desert Twister
+2 Stream of Life
+4 Untamed Wilds
+2 Sandstorm

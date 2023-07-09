@@ -1,0 +1,15 @@
+// NAME: Sorceress
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+23 Mountain
+4 Hurr Jackal
+4 Bird Maiden
+4 Dwarven Warriors
+2 Hurloon Minotaur
+2 Dragon Whelp
+4 Ball Lightning
+4 Firebreathing
+3 The Brute
+4 Blood Lust
+3 Iron Star
+3 Meekstone

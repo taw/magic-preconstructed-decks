@@ -1,0 +1,16 @@
+// NAME: War Mage
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+23 Mountain
+4 Ball Lightning
+2 Wall of Stone
+2 Smoke
+4 Mana Flare
+4 Fireball
+4 Earthquake
+4 Disintegrate
+1 Detonate
+4 Lightning Bolt
+4 Mana Vault
+2 Fellwar Stone
+2 Aladdin’s Ring

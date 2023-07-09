@@ -1,0 +1,17 @@
+// NAME: Sedge Beast
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+10 Mountain
+10 Swamp
+4 Strip Mine
+2 Dancing Scimitar
+2 Diabolic Machine
+4 Cyclopean Mummy
+4 Erg Raiders
+4 Ironclaw Orcs
+4 Uthden Troll
+4 Blight
+2 Immolation
+2 Weakness
+4 Fissure
+4 Stone Rain

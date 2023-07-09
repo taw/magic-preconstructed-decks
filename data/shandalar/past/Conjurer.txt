@@ -1,0 +1,18 @@
+// NAME: Conjurer
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Island
+4 Prodigal Sorcerer
+4 Pirate Ship
+2 Wall of Water
+2 Wall of Air
+4 Apprentice Wizard
+3 Giant Tortoise
+2 Steal Artifact
+2 Animate Artifact
+2 Counterspell
+2 Unsummon
+2 Fellwar Stone
+4 Rod of Ruin
+2 Aladdin’s Ring
+3 Jayemdae Tome

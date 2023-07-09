@@ -1,0 +1,17 @@
+// NAME: Summoner
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+5 Plains
+18 Forest
+4 Circle of Protection: Green
+2 Disenchant
+3 Healing Salve
+4 Birds of Paradise
+4 War Mammoth
+3 Force of Nature
+4 Radjan Spirit
+1 Channel
+4 Hurricane
+4 Lifelace
+2 Colossus of Sardia
+2 Flying Carpet

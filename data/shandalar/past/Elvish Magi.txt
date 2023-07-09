@@ -1,0 +1,15 @@
+// NAME: Elvish Magi
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+22 Forest
+4 Elvish Archers
+4 Elven Riders
+4 Llanowar Elves
+4 War Mammoth
+4 Winter Blast
+4 Hurricane
+4 Stream of Life
+4 Giant Spider
+2 Tranquility
+2 Jayemdae Tome
+2 Green Mana Battery

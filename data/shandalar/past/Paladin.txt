@@ -1,0 +1,17 @@
+// NAME: Paladin
+// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// DATE: 1997-04-01
+18 Plains
+6 Island
+4 Northern Paladin
+4 White Knight
+3 Benalish Hero
+4 Angry Mob
+4 Holy Strength
+2 Red Ward
+3 Karma
+2 Circle of Protection: Black
+1 Disenchant
+2 Swords to Plowshares
+3 Sleight of Mind
+3 Magical Hack
