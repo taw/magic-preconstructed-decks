@@ -2,7 +2,7 @@
 // SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
 // DATE: 1997-04-01
 22 Mountain
-2 Strip Mine
+2 Strip Mine [ATQ:82a]
 2 Oasis
 4 Stone Giant
 4 Hill Giant

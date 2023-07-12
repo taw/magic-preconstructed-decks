@@ -2,7 +2,7 @@
 // SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
 // DATE: 1997-04-01
 20 Island
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 1 Mishra's Workshop
 3 Apprentice Wizard
 2 Power Struggle

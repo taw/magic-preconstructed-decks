@@ -3,7 +3,7 @@
 // DATE: 1997-04-01
 10 Mountain
 10 Swamp
-4 Strip Mine
+4 Strip Mine [ATQ:82a]
 2 Dancing Scimitar
 2 Diabolic Machine
 4 Cyclopean Mummy

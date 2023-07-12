@@ -1,0 +1,105 @@
+// NAME: Deck Builder's Toolkit
+// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2020/Deck_Builder%27s_Toolkit
+// DATE: 2019-07-12
+1 Serra's Guardian
+1 Riddlemaster Sphinx
+1 Gravewaker
+1 Shivan Dragon
+1 Aggressive Mammoth
+1 Aerial Assault
+1 Ajani's Pridemate
+1 Angel of Vitality
+1 Defiant Strike
+1 Disenchant
+1 Haazda Marshal
+1 Healer's Hawk
+1 Herald of the Sun
+1 Hunted Witness
+2 Impassioned Orator
+1 Law-Rune Enforcer
+2 Pacifism
+1 Prison Realm
+2 Raise the Alarm
+1 Air Elemental
+1 Brineborn Cutthroat
+1 Callous Dismissal
+1 Chemister's Insight 
+2 Cloudkin Seer
+1 Disdainful Stroke
+1 Frost Lynx
+1 Negate
+1 Quench
+1 Radical Idea
+1 Spectral Sailor
+2 Unsummon
+1 Warden of Evos Isle
+2 Winged Words
+1 Audacious Thief
+1 Bleeding Edge
+1 Cry of the Carnarium
+1 Dead Weight
+1 Disfigure
+1 Duress
+1 Gravedigger
+3 Lazotep Reaver
+2 Murder
+1 Ob Nixilis's Cruelty
+1 Plaguecrafter
+2 Sorin's Thirst
+1 Spark Harvest
+1 Chandra, Novice Pyromancer
+2 Chandra's Embercat
+1 Clamor Shaman
+1 Ember Hauler
+1 Goblin Cratermaker
+2 Grim Initiate
+1 Infuriate
+3 Jaya's Greeting
+1 Mask of Immolation 
+1 Scampering Scorcher
+2 Shock
+1 Torch Courier
+1 Bloom Hulk
+1 Bond of Flourishing
+2 Gift of Paradise
+2 Leafkin Druid
+1 Open the Gates
+1 Overcome
+1 Overgrowth Elemental
+1 Paradise Druid
+1 Pollenbright Druid
+1 Return to Nature
+2 Silverback Shaman
+1 Thicket Crasher
+1 Vorstclaw
+1 Woodland Champion
+1 Corpse Knight
+1 Creeping Trailblazer
+1 Empyrean Eagle
+1 Ironroot Warlord
+1 Lightning Stormkin
+1 Moldervine Reclamation
+1 Ogre Siegebreaker
+1 Risen Reef
+1 Skyknight Vanguard
+1 Tomebound Lich
+1 Diamond Knight
+1 Pattern Matcher
+1 Scuttlemutt
+2 Bloodfell Caves
+2 Blossoming Sands
+2 Dismal Backwater
+1 Evolving Wilds
+1 Gateway Plaza
+2 Jungle Hollow
+2 Rugged Highlands
+2 Scoured Barrens
+2 Swiftwater Cliffs
+2 Thornwood Falls
+2 Tranquil Cove
+2 Wind-Scarred Crag
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest

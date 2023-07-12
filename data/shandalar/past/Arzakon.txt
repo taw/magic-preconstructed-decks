@@ -7,7 +7,7 @@
 6 Mountain
 6 Forest
 4 Gem Bazaar
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 2 Mesa Pegasus
 2 Pikemen
 2 Samite Healer
