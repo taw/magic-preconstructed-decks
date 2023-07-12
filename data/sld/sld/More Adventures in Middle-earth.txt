@@ -1,0 +1,8 @@
+// NAME: More Adventures in Middle-earth
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Summer_Superdrop_2023
+// DATE: 2023-06-26
+// DISPLAY: Bonus card is unknown
+1 [SLD:1293] Slip On the Ring
+1 [SLD:1294] Gandalf, Friend of the Shire
+1 [SLD:1295] Mirror of Galadriel
+1 [SLD:1296] Shire Terrace

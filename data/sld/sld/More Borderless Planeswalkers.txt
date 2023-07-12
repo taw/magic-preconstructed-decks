@@ -1,0 +1,8 @@
+// NAME: More Borderless Planeswalkers
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair:_More_Borderless_Planeswalkers
+// DATE: 2023-03-17
+// DISPLAY: This secret lair drop may come with [SLD:681] Shadowborn Apostle or a foil extended art sliver [SLD:610-667].
+1 [SLD:1243] Ugin, the Ineffable [foil]
+1 [SLD:1244] Sorin, Imperious Bloodlord [foil]
+1 [SLD:1245] Sarkhan, Dragonsoul [foil]
+1 [SLD:1246] Nicol Bolas, Dragon-God [foil]
