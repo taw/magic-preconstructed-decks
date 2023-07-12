@@ -3,7 +3,7 @@
 // DATE: 1997-04-01
 20 Forest
 1 Oasis
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 3 Ley Druid
 3 Llanowar Elves
 2 Wall of Wood

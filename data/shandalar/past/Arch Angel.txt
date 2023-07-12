@@ -2,7 +2,7 @@
 // SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
 // DATE: 1997-04-01
 22 Plains
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 4 Serra Angel
 4 Osai Vultures
 2 Mesa Pegasus

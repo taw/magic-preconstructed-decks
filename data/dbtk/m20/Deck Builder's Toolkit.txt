@@ -7,12 +7,12 @@
 1 Shivan Dragon
 1 Aggressive Mammoth
 1 Aerial Assault
-1 Ajani’s Pridemate
+1 Ajani's Pridemate
 1 Angel of Vitality
 1 Defiant Strike
 1 Disenchant
 1 Haazda Marshal
-1 Healer’s Hawk
+1 Healer's Hawk
 1 Herald of the Sun
 1 Hunted Witness
 2 Impassioned Orator
@@ -23,7 +23,7 @@
 1 Air Elemental
 1 Brineborn Cutthroat
 1 Callous Dismissal
-1 Chemister’s Insight 
+1 Chemister's Insight 
 2 Cloudkin Seer
 1 Disdainful Stroke
 1 Frost Lynx
@@ -43,18 +43,18 @@
 1 Gravedigger
 3 Lazotep Reaver
 2 Murder
-1 Ob Nixilis’s Cruelty
+1 Ob Nixilis's Cruelty
 1 Plaguecrafter
-2 Sorin’s Thirst
+2 Sorin's Thirst
 1 Spark Harvest
 1 Chandra, Novice Pyromancer
-2 Chandra’s Embercat
+2 Chandra's Embercat
 1 Clamor Shaman
 1 Ember Hauler
 1 Goblin Cratermaker
 2 Grim Initiate
 1 Infuriate
-3 Jaya’s Greeting
+3 Jaya's Greeting
 1 Mask of Immolation 
 1 Scampering Scorcher
 2 Shock

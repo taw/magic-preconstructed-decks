@@ -3,6 +3,6 @@
 // DATE: 2023-06-26
 // DISPLAY: Bonus card unknown
 1 [SLD:1302] Nemesis of Reason [foil]
-1 [SLD:1303] Gaea’s Blessing [foil]
+1 [SLD:1303] Gaea's Blessing [foil]
 1 [SLD:1304] Twilight Prophet [foil]
 1 [SLD:1305] Worldspine Wurm [foil]
