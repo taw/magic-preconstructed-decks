@@ -1,0 +1,17 @@
+// NAME: Booster Battle Pack: Orzhov
+// SOURCE: https://init-games.blogspot.com/2016/05/mtg-gtc-booster-battle-pack.html
+// DATE: 2013-02-01
+1 Angelic Edict
+1 Dutiful Thrull
+1 Shielded Passage
+1 Syndic of Tithes
+1 Contaminated Ground
+1 Gutter Skulk
+1 Smog Elemental
+1 Syndicate Enforcer
+1 Kingpin's Pet
+1 Beckon Apparition
+1 Gift of Orzhova
+1 Orzhov Guildgate
+5 Plains
+5 Swamp

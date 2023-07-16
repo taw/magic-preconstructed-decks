@@ -1,0 +1,17 @@
+// NAME: Booster Battle Pack: Simic
+// SOURCE: https://init-games.blogspot.com/2016/05/mtg-gtc-booster-battle-pack.html
+// DATE: 2013-02-01
+1 Cloudfin Raptor
+1 Frilled Octopus
+1 Spell Rupture
+1 Totally Lost
+1 Adaptive Snapjaw
+1 Crocanura
+1 Hindervines
+1 Ivy Lane Denizen
+1 Hydroform
+1 Nimbus Swimmer
+1 Bioshift
+1 Simic Guildgate
+5 Island
+5 Forest

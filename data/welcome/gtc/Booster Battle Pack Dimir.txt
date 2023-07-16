@@ -1,0 +1,17 @@
+// NAME: Booster Battle Pack: Dimir
+// SOURCE: https://init-games.blogspot.com/2016/05/mtg-gtc-booster-battle-pack.html
+// DATE: 2013-02-01
+1 Gridlock
+1 Hands of Binding
+1 Metropolis Sprite
+1 Skygames
+1 Death's Approach
+1 Horror of the Dim
+1 Shadow Alley Denizen
+1 Shadow Slice
+1 Call of the Nightwing
+1 Mortus Strider
+1 Deathcult Rogue
+1 Dimir Guildgate
+5 Island
+5 Swamp
