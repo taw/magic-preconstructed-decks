@@ -10,7 +10,7 @@ DeckTypes = {
   "challenger"    => { name: "Challenger Deck", sizes: [[60, 15]] },
   "clash"         => { name: "Clash Pack", sizes: [[60, 0], [60, 15]] },
   "cmd"           => { name: "Commander Deck", sizes: [[99, 0, 1], [98, 0, 2], [99, 10, 1]] },
-  "dbtk"          => { name: "Deck Builder's Toolkit", sizes: [[10], [185]] },
+  "dbtk"          => { name: "Deck Builder's Toolkit", sizes: [[10], [185], [225]] },
   "dotp"          => { name: "Duel Of The Planeswalkers Deck", sizes: [[60]] },
   "duel"          => { name: "Duel Deck", sizes: [[60]] },
   "event"         => { name: "Event Deck", sizes: [[60,15]] },
@@ -41,5 +41,5 @@ DeckTypes = {
   "theme"         => { name: "Theme Deck", sizes: [[60]] },
   "wc"            => { name: "World Championship Deck", sizes: [[60, 15], [61, 15]] },
   "welcome-booster" => { name: "Welcome Booster", sizes: [[10], [11]]},
-  "welcome"       => { name: "Welcome Deck", sizes: [[30]] },
+  "welcome"       => { name: "Welcome Deck", sizes: [[30], [22]] },
 }
