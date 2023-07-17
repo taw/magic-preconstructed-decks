@@ -1,0 +1,13 @@
+// NAME: Elves
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+1 Joraga Treespeaker
+1 Lead the Stampede
+1 Greenweaver Druid
+1 Pennon Blade
+1 Arbor Elf
+2 Wildheart Invoker
+1 Ezuri's Archers
+1 Copperhorn Scout
+1 Sylvan Ranger
+
+Sideboard

@@ -1,0 +1,13 @@
+// NAME: Library Depletion
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+1 Wall of Frost
+1 Hedron Crab
+1 Guard Gomazoa
+1 Call to Mind
+2 Tome Scour
+1 Jace's Erasure
+1 See Beyond
+1 Sea Gate Oracle
+1 Mnemonic Wall
+
+Sideboard

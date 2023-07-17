@@ -1,0 +1,13 @@
+// NAME: Blue-White Flyers
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+1 Air Servant
+1 Sleep
+1 Serra Angel
+1 Oust
+1 Aether Adept
+1 Unsummon
+1 Arrest
+1 Negate
+2 Stormfront Pegasus
+
+Sideboard
