@@ -1,0 +1,14 @@
+// NAME: Blue-White Fliers
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Divine Verdict
+1 Fledgling Griffin
+1 Griffin Sentinel
+1 Safe Passage
+1 Serra Angel
+1 Illusionary Servant
+1 Living Tsunami
+1 Phantom Warrior
+1 Sejiri Merfolk
+1 Wind Drake
+
+Sideboard

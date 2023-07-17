@@ -1,0 +1,14 @@
+// NAME: Red Burn
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Burst Lightning
+1 Explosive Revelation
+1 Fiery Hellhound
+1 Fireball
+1 Kiln Fiend
+1 Lava Axe
+1 Lightning Bolt
+1 Lust for War
+1 Searing Blaze
+1 Rod of Ruin
+
+Sideboard

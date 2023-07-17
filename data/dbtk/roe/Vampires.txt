@@ -1,0 +1,14 @@
+// NAME: Vampires
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Arrogant Bloodlord
+1 Blood Seeker
+1 Consume Spirit
+1 Feast of Blood
+1 Gatekeeper of Malakir
+1 Sign in Blood
+1 Tendrils of Corruption
+1 Vampire Aristocrat
+1 Vampire Lacerator
+1 Vampire Nighthawk
+
+Sideboard

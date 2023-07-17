@@ -1,0 +1,14 @@
+// NAME: Mana Ramp
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Craw Wurm
+1 Explore
+1 Frontier Guide
+1 Howl of the Night Pack
+1 Living Destiny
+1 Ondu Giant
+1 Pelakka Wurm
+1 Timbermaw Larva
+1 Vastwood Gorger
+1 Whispersilk Cloak
+
+Sideboard

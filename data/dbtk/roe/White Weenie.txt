@@ -1,0 +1,13 @@
+// NAME: White Weenie
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Armored Ascension
+1 Brave the Elements
+1 Elite Vanguard
+1 Journey to Nowhere
+1 Kor Firewalker
+1 Kor Hookmaster
+1 Soul Warden
+2 Veteran Armorsmith
+1 Veteran Swordsmith
+
+Sideboard

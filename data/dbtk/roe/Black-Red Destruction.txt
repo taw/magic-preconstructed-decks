@@ -1,0 +1,14 @@
+// NAME: Black-Red Destruction
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+1 Dead Reckoning
+1 Doom Blade
+1 Hideous End
+1 Marsh Casualties
+1 Quest for the Gravelord
+1 Rise from the Grave
+1 Flame Slash
+1 Goblin Artillery
+1 Lightning Elemental
+1 Ruinous Minotaur
+
+Sideboard
