@@ -1,0 +1,14 @@
+// NAME: Black Discard
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Liliana's Caress
+1 Rise from the Grave
+1 Bloodhusk Ritualist
+1 Mind Sludge
+2 Liliana's Specter
+1 Mind Rot
+1 Phyrexian Rager
+1 Psychic Miasma
+1 Last Kiss
+
+Sideboard

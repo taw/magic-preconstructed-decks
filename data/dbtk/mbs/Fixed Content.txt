@@ -1,0 +1,85 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Serra Angel
+1 Condemn
+1 Infantry Veteran
+1 Soul's Attendant
+2 Squadron Hawk
+1 Kor Skyfisher
+1 Kor Hookmaster
+1 Assault Griffin
+1 Cloud Crusader
+2 Pacifism
+1 Solemn Offering
+1 Safe Passage
+1 Inspired Charge
+1 Mind Control
+1 Jace's Ingenuity
+1 Augury Owl
+1 Scroll Thief
+1 Cloud Elemental
+1 Aether Adept
+1 Azure Drake
+1 Plated Seastrider
+1 Surrakar Banisher
+2 Cancel
+1 Mana Leak
+1 Foresee
+1 Preordain
+1 Ice Cage
+1 Corrupt
+1 Skinrender
+1 Guul Draz Vampire
+1 Blood Seeker
+1 Viscera Seer
+1 Child of Night
+1 Cadaver Imp
+1 Crypt Ripper
+1 Jagwasp Swarm
+2 Doom Blade
+1 Duress
+1 Quag Sickness
+1 Sign in Blood
+1 Grasp of Darkness
+1 Fireball
+1 Prodigal Pyromancer
+1 Goblin Tunneler
+1 Fiery Hellhound
+1 Vulshok Heartstoker
+1 Arc Runner
+1 Manic Vandal
+1 Ogre Resister
+1 Berserkers of Blood Ridge
+2 Lightning Bolt
+1 Flame Slash
+1 Chandra's Outrage
+1 Act of Treason
+1 Demolish
+1 Garruk's Packleader
+1 Leatherback Baloth
+2 Llanowar Elves
+1 Garruk's Companion
+1 Overgrown Battlement
+1 Viridian Emissary
+1 Giant Spider
+1 Alpha Tyrranax
+1 Spined Wurm
+1 Harrow
+1 Giant Growth
+1 Plummet
+1 Naturalize
+1 Savage Silhouette
+1 Perilous Myr
+1 Strider Harness
+1 Prophetic Prism
+1 Pilgrim's Eye
+4 Terramorphic Expanse
+2 Evolving Wilds
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+
+Sideboard

@@ -1,0 +1,14 @@
+// NAME: Green-White Auras
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+1 Hyena Umbra
+1 Mammoth Umbra
+1 Totem-Guide Hartebeest
+2 Aura Gnarlid
+1 Boar Umbra
+1 Canopy Cover
+1 Nature's Spiral
+1 Savage Silhouette
+1 Snake Umbra
+
+Sideboard

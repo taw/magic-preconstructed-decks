@@ -1,0 +1,15 @@
+// NAME: Blue Control
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+1 Air Elemental
+1 Essence Scatter
+1 Frostwind Invoker
+1 Ice Cage
+1 Into the Roil
+1 Mind Control
+1 Mysteries of the Deep
+1 Summoner's Bane
+1 Surrakar Banisher
+1 Wall of Frost
+
+Sideboard

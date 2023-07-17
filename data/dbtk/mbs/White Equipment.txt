@@ -1,0 +1,14 @@
+// NAME: White Equipment
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Elite Vanguard
+1 Kemba's Legion
+1 Kor Duelist
+1 Trusty Machete
+2 Kitesail Apprentice
+1 Journey to Nowhere
+1 Fledgling Griffin
+1 Sylvok Lifestaff
+1 Strider Harness
+
+Sideboard

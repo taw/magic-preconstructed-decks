@@ -1,0 +1,15 @@
+// NAME: Eldrazi
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+1 Artisan of Kozilek
+1 Hand of Emrakul
+1 Pathrazer of Ulamog
+1 Brood Birthing
+1 Emrakul's Hatcher
+1 Rapacious One
+1 Spawning Breath
+1 Dreamstone Hedron
+1 Pilgrim's Eye
+1 Reinforced Bulwark
+
+Sideboard

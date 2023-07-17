@@ -1,0 +1,14 @@
+// NAME: Vampires
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Gatekeeper of Malakir
+1 Feast of Blood
+1 Urge to Feed
+1 Vampire Nighthawk
+1 Bloodthrone Vampire
+1 Barony Vampire
+1 Pulse Tracker
+1 Ruthless Cullblade
+2 Vampire Lacerator
+
+Sideboard

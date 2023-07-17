@@ -1,0 +1,15 @@
+// NAME: Red-Green Aggro
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+1 Bestial Menace
+1 Borderland Ranger
+1 Centaur Courser
+1 Giant Growth
+1 Summit Apes
+1 Goblin Shortcutter
+1 Shatterskull Giant
+1 Torch Slinger
+1 Valakut Fireboar
+1 Trusty Machete
+
+Sideboard

@@ -1,0 +1,14 @@
+// NAME: White-Green Aura
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Boar Umbra
+1 Mammoth Umbra
+1 Cudgel Troll
+1 Shepherd of the Lost
+1 Totem-Guide Hartebeest
+1 Sacred Wolf
+1 Spider Umbra
+1 Hyena Umbra
+2 Aura Gnarlid
+
+Sideboard

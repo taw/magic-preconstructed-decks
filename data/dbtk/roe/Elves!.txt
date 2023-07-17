@@ -1,0 +1,14 @@
+// NAME: Elves!
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+2 Elvish Visionary
+1 Greenweaver Druid
+1 Might of the Masses
+1 Llanowar Elves
+1 Nissa's Chosen
+1 Overrun
+1 Wildheart Invoker
+1 Ogre's Cleaver
+1 Pennon Blade
+
+Sideboard

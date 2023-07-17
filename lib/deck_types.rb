@@ -41,5 +41,5 @@ DeckTypes = {
   "theme"         => { name: "Theme Deck", sizes: [[60]] },
   "wc"            => { name: "World Championship Deck", sizes: [[60, 15], [61, 15]] },
   "welcome-booster" => { name: "Welcome Booster", sizes: [[10], [11]]},
-  "welcome"       => { name: "Welcome Deck", sizes: [[30]] },
+  "welcome"       => { name: "Welcome Deck", sizes: [[30], [22]] },
 }

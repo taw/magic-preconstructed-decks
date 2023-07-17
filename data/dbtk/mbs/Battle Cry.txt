@@ -1,0 +1,14 @@
+// NAME: Battle Cry
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Signal Pest
+1 Goblin Wardriver
+1 Ember Hauler
+1 Memnite
+2 Kuldotha Ringleader
+1 Goblin Arsonist
+1 Goblin Balloon Brigade
+1 Rally the Forces
+1 Emrakul's Hatcher
+
+Sideboard

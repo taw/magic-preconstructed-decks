@@ -1,0 +1,14 @@
+// NAME: Mana Ramp
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Duskdale Wurm
+1 Pelakka Wurm
+1 Baloth Woodcrasher
+1 Frontier Guide
+1 Explore
+1 Overgrown Battlement
+1 Ondu Giant
+1 Yavimaya Wurm
+2 Cultivate
+
+Sideboard

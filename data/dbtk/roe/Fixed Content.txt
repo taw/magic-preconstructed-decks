@@ -1,0 +1,87 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
+1 Ulamog's Crusher
+1 Blinding Mage
+1 Caravan Hurda
+1 Harm's Way
+1 Iona's Judgment
+1 Kor Hookmaster
+1 Kor Sanctifiers
+1 Lone Missionary
+1 Makindi Griffin
+2 Pacifism
+1 Palace Guard
+1 Repel the Darkness
+1 Serra Angel
+1 Shieldmate's Blessing
+1 Soul Warden
+1 Stormfront Pegasus
+2 Cancel
+1 Divination
+1 Essence Scatter
+1 Fleeting Distraction
+1 Horned Turtle
+1 Jwari Scuttler
+1 Merfolk Looter
+1 Mind Control
+1 Paralyzing Grasp
+1 Sea Gate Oracle
+1 Sky Ruin Drake
+1 Sleep
+1 Snapping Drake
+1 Surrakar Banisher
+1 Unsummon
+1 Blood Seeker
+2 Child of Night
+1 Death Cultist
+1 Disfigure
+1 Doom Blade
+1 Duress
+1 Giant Scorpion
+1 Gloomhunter
+1 Gravedigger
+1 Last Kiss
+1 Looming Shade
+1 Mind Sludge
+1 Sign in Blood
+1 Zombie Goliath
+1 Berserkers of Blood Ridge
+1 Bladetusk Boar
+1 Claws of Valakut
+1 Demolish
+1 Dragon Whelp
+1 Goblin Arsonist
+1 Goblin Roughrider
+1 Goblin Shortcutter
+1 Heat Ray
+1 Lava Axe
+2 Lightning Bolt
+1 Lightning Elemental
+1 Panic Attack
+1 Prodigal Pyromancer
+1 Sparkmage Apprentice
+1 Aura Gnarlid
+1 Giant Growth
+1 Giant Spider
+1 Leaf Arrow
+2 Llanowar Elves
+1 Naturalize
+1 Nissa's Chosen
+1 Oakenform
+1 Overrun
+1 Rampant Growth
+1 River Boa
+1 Savage Silhouette
+1 Stampeding Rhino
+1 Timbermaw Larva
+1 Vastwood Gorger
+1 Kitesail
+4 Terramorphic Expanse
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+
+Sideboard

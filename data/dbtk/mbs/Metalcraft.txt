@@ -1,0 +1,14 @@
+// NAME: Metalcraft
+// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
+1 Voltaic Key
+1 Stone Golem
+1 Golem Foundry
+1 Perilous Myr
+1 Myr Sire
+1 Darksteel Myr
+1 Palladium Myr
+1 Razorfield Rhino
+2 Chrome Steed
+
+Sideboard
