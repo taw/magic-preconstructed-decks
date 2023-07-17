@@ -1,5 +1,6 @@
 // NAME: Metalcraft
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// DATE: 2011-03-11
 1 Voltaic Key
 1 Stone Golem
 1 Golem Foundry

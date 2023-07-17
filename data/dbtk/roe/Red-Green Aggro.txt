@@ -1,5 +1,6 @@
 // NAME: Red-Green Aggro
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Bestial Menace
 1 Borderland Ranger
 1 Centaur Courser

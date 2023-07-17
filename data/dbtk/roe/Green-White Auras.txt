@@ -1,5 +1,6 @@
 // NAME: Green-White Auras
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Hyena Umbra
 1 Mammoth Umbra
 1 Totem-Guide Hartebeest

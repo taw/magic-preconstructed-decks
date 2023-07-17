@@ -1,5 +1,6 @@
 // NAME: Black-Red Destruction
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Dead Reckoning
 1 Doom Blade
 1 Hideous End

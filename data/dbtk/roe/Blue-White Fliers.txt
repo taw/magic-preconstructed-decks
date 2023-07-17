@@ -1,5 +1,6 @@
 // NAME: Blue-White Fliers
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Divine Verdict
 1 Fledgling Griffin
 1 Griffin Sentinel

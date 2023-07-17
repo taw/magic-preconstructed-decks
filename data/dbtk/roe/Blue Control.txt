@@ -1,5 +1,6 @@
 // NAME: Blue Control
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Air Elemental
 1 Essence Scatter
 1 Frostwind Invoker

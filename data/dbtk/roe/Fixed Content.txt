@@ -1,5 +1,6 @@
 // NAME: Fixed Content
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Ulamog's Crusher
 1 Blinding Mage
 1 Caravan Hurda

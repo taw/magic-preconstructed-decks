@@ -1,5 +1,6 @@
 // NAME: White Weenie
 // SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// DATE: 2010-05-21
 1 Armored Ascension
 1 Brave the Elements
 1 Elite Vanguard
