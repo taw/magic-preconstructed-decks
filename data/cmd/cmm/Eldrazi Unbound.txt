@@ -1,0 +1,92 @@
+// NAME: Eldrazi Unbound
+// SOURCE: https://magic.wizards.com/en/news/announcements/commander-masters-commander-decklists
+// DATE: 2023-08-04
+COMMANDER: 1 Zhulodok, Void Gorger [foil]
+1 Omarthis, Ghostfire Initiate [foil]
+1 Kozilek, the Great Distortion
+1 Abstruse Archaic
+1 Calamity of the Titans
+1 Desecrate Reality
+1 Flayer of Loyalties
+1 Rise of the Eldrazi
+1 Skittering Cicada
+1 Ugin's Mastery
+1 Darksteel Monolith
+1 All Is Dust
+1 Endbringer
+1 Endless One
+1 It That Betrays
+1 Matter Reshaper
+1 Oblivion Sower
+1 Ugin, the Ineffable
+1 Ancient Stone Idol
+1 Duplicant
+1 Endless Atlas
+1 Forsaken Monument
+1 Hangarback Walker
+1 Investigator's Journal
+1 Kaldra Compleat
+1 Mazemind Tome
+1 Metalwork Colossus
+1 Mirage Mirror
+1 Myriad Construct
+1 Mystic Forge
+1 Perilous Vault
+1 Phyrexian Triniform
+1 Solemn Simulacrum
+1 Soul of New Phyrexia
+1 Steel Hellkite
+1 Stonecoil Serpent
+1 Transmogrifying Wand
+1 Arch of Orazca
+1 Blast Zone
+1 Bonders' Enclave
+1 Geier Reach Sanitarium
+1 Mirrorpool
+1 Ruins of Oran-Rief
+1 Scavenger Grounds
+1 Sea Gate Wreckage
+1 Shrine of the Forsaken Gods
+1 Tyrite Sanctum
+1 War Room
+1 Burnished Hart
+1 Geode Golem
+1 Lightning Greaves
+1 Meteor Golem
+1 Sol Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Unstable Obelisk
+1 Reliquary Tower
+1 Rogue's Passage
+1 Artisan of Kozilek
+1 Bane of Bala Ged
+1 Not of This World
+1 Spatial Contortion
+1 Titan's Presence
+1 Warping Wail
+1 Crashing Drawbridge
+1 Dreamstone Hedron
+1 Everflowing Chalice
+1 Fireshrieker
+1 Hedron Archive
+1 Mind Stone
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Scaretiller
+1 Suspicious Bookcase
+1 Worn Powerstone
+1 Arcane Lighthouse
+1 Eldrazi Temple
+1 Forge of Heroes
+1 Guildless Commons
+1 Mage-Ring Network
+1 Temple of the False God
+1 Tomb of the Spirit Dragon
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+8 Wastes [CMM:1055]
+7 Wastes [CMM:1056]
+
+Sideboard
