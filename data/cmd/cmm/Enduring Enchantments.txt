@@ -7,10 +7,10 @@ COMMANDER: 1 Anikthea, Hand of Erebos [foil]
 1 Boon of the Spirit Realm
 1 Ondu Spiritdancer
 1 Cacophony Unleashed
-1 Demon of Fate's Design
+1 Demon of Fate's Design [CMM:731]
 1 Ghoulish Impetus
 1 Composer of Spring
-1 Nyxborn Behemoth
+1 Nyxborn Behemoth [CMM:742]
 1 Archon of Sun's Grace
 1 Felidar Retreat
 1 Grasp of Fate
