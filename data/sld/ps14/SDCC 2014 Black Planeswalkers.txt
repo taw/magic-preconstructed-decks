@@ -1,0 +1,9 @@
+// NAME: SDCC 2014 Black Planeswalkers
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2014-07-08
+1 Ajani Steadfast [foil]
+1 Jace, the Living Guildpact [foil]
+1 Liliana Vess [foil]
+1 Chandra, Pyromaster [foil]
+1 Nissa, Worldwaker [foil]
+1 Garruk, Apex Predator [foil]

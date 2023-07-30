@@ -1,0 +1,7 @@
+// NAME: Hascon 2017 Promo Cards
+// SOURCE: https://mtg.fandom.com/wiki/HASCON
+// DATE: 2017-09-20
+1 Grimlock, Dinobot Leader [foil]
+1 Nerf War [foil]
+1 Sword of Dungeons & Dragons [foil]
+1 Dragon [foil] [token]

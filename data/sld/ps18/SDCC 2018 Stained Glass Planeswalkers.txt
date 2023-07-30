@@ -1,0 +1,8 @@
+// NAME: SDCC 2018 Stained Glass Planeswalkers
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2018-07-19
+1 Gideon of the Trials [foil]
+1 Jace, Cunning Castaway [foil]
+1 Liliana, Untouched by Death [foil]
+1 Chandra, Torch of Defiance [foil]
+1 Nissa, Vital Force [foil]

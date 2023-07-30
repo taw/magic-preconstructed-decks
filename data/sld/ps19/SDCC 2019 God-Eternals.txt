@@ -1,0 +1,8 @@
+// NAME: SDCC 2019 God-Eternals
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2019-07-18
+1 God-Eternal Bontu [foil]
+1 God-Eternal Kefnet [foil]
+1 God-Eternal Oketra [foil]
+1 God-Eternal Rhonas [foil]
+1 Nicol Bolas, Dragon-God [foil]
