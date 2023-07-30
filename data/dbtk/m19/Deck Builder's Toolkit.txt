@@ -24,7 +24,7 @@
 1 Anticipate
 1 Aven Wind Mage
 1 Aviation Pioneer
-1 Chart a course
+1 Chart a Course
 1 Cloudreader Sphinx
 1 Divination
 1 Exclusion Mage
@@ -59,7 +59,7 @@
 1 Guttersnipe
 1 Hijack
 1 Lightning Strike
-1 Sparktongue dragon
+1 Sparktongue Dragon
 1 Tormenting Voice
 1 Trumpet Blast
 1 Volcanic Dragon
