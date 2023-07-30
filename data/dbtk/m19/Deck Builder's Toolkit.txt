@@ -1,0 +1,114 @@
+// NAME: Deck Builder's Toolkit
+// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2019/Deck_Builder%27s_Toolkit
+// DATE: 2018-07-13
+1 Serra's Guardian
+1 Riddlemaster Sphinx
+1 Gravewaker
+1 Shivan Dragon
+1 Aggressive Mammoth
+1 Ajani's Pridemate
+1 Gideon's Reproach
+1 Knight of New Benalia
+1 Knight's Pledge
+1 Leonin Vanguard
+1 Martyr of Dusk
+1 Militia Bugler
+1 Pegasus Courser
+1 Queen's Commission
+1 Revitalize
+1 Seal Away
+1 Serra Angel
+1 Squire's Devotion
+1 Trusty Packbeast
+2 Luminous Bonds
+1 Anticipate
+1 Aven Wind Mage
+1 Aviation Pioneer
+1 Chart a course
+1 Cloudreader Sphinx
+1 Divination
+1 Exclusion Mage
+1 Gearsmith Prodigy
+1 Negate
+1 Omenspeaker
+1 Opt
+1 Perilous Voyage
+1 Scholar of Stars
+1 Skilled Animator
+1 Wizard's Retort
+1 Abnormal Endurance
+1 Child of Night
+1 Costly Plunder
+1 Doomed Dissenter
+1 Dusk Legion Zealot
+1 Epicure of Blood
+1 Gravedigger
+1 Macabre Waltz
+1 Murder
+1 Ravenous Chupacabra
+1 Reassembling Skeleton
+1 Skymarch Bloodletter
+1 Vampire Sovereign
+2 Duress
+2 Moment of Craving
+1 Bombard
+1 Charging Monstrosaur
+1 Fanatical Firebrand
+1 Ghitu Lavarunner
+1 Goblin Instigator
+1 Guttersnipe
+1 Hijack
+1 Lightning Strike
+1 Sparktongue dragon
+1 Tormenting Voice
+1 Trumpet Blast
+1 Volcanic Dragon
+1 Wizard's Lightning
+2 Shock
+2 Viashino Pyromancer
+1 Adventurous Impulse
+1 Blanchwood Armor
+1 Colossal Dreadmaw
+1 Colossal Majesty
+1 Declare Dominance
+1 Druid of Horns
+1 Elvish Rejuvenator
+1 Grazing Whiptail
+1 Jungle Delver
+1 Naturalize
+1 Plummet
+1 Rabid Bite
+1 Thrashing Brontodon
+2 Llanowar Elves
+2 Talons of Wildwood
+1 Aerial Engineer
+1 Brawl-Bash Ogre
+1 Draconic Disciple
+1 Enigma Drake
+1 Heroic Reinforcements
+1 Poison-Tip Archer
+1 Psychic Symbiont
+1 Regal Bloodlord
+1 Satyr Enchanter
+1 Skyrider Patrol
+1 Diamond Mare
+1 Explosive Apparatus
+1 Gargoyle Sentinel
+1 Rogue's Gloves
+2 Manalith 
+2 Skittering Surveyor
+2 Meandering River 
+2 Submerged Boneyard 
+2 Cinder Barrens 
+2 Timber Gorge 
+2 Tranquil Expanse 
+2 Forsaken Sanctuary 
+2 Highland Lake 
+2 Foul Orchard 
+2 Stone Quarry 
+2 Woodland Stream
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
