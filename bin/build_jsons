@@ -30,7 +30,7 @@ class BuildJsons
       commander: deck.commander_data,
       source: deck.source,
       display: deck.display,
-  }.compact
+    }.compact
     @decks << deck_data
   end
 
