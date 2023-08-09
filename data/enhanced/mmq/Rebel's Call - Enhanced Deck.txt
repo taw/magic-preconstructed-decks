@@ -1,4 +1,4 @@
-// NAME: Rebel’s Call - Enhanced Deck
+// NAME: Rebel's Call - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779592
 4 Mother of Runes
 4 Ramosian Lieutenant
