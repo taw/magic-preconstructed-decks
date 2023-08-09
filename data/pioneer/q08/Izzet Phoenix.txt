@@ -1,6 +1,10 @@
 // NAME: Izzet Phoenix
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/pioneer-challenger-decks-2022-decklists-2022-09-29
 // DATE: 2022-11-04
+// From https://magic.wizards.com/en/news/announcements/pioneer-challenger-decks-2022-decklists-2022-09-29:
+// "Note that the Izzet Phoenix Pioneer Challenger Deck 2022 decklist includes two copies of Expressive Iteration, a card currently banned in Pioneer."
+// "This deck will still be legal for tournament play in tabletop Magic: The Gathering for Pioneer, but only as is. Specifically, the 60-card deck and 15-card sideboard will be legal as long as no changes are made to it."
+// "For the Izzet Phoenix Pioneer Challenger Deck on Magic Online, the two copies of Expressive Iteration are instead replaced by one copy of Pieces of the Puzzle and one copy of Fiery Impulse."
 2 Arclight Phoenix
 4 Crackling Drake
 2 Expressive Iteration
