@@ -1,4 +1,4 @@
-// NAME: Deepwood Menace- Enhanced Deck
+// NAME: Deepwood Menace - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779794
 4 Birds of Paradise
 2 Deepwood Wolverine
