@@ -1,6 +1,6 @@
 // NAME: Black-Green Deck
 // SOURCE: https://mtg.fandom.com/wiki/Spellslinger_Starter_Kit
-// DATE: 2018-10-5
+// DATE: 2018-10-05
 1 Bristling Boar
 2 Centaur Courser
 3 Colossal Dreadmaw
