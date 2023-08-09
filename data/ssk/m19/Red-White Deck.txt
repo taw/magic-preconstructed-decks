@@ -8,7 +8,7 @@
 1 Frenzied Raptor
 1 Goblin Motivator
 1 Hostile Minotaur
-1 Inspiring Captain
+1 Inspiring Captain [GNT]
 3 Knight of New Benalia
 2 Pyromantic Pilgrim
 2 Rustwing Falcon
