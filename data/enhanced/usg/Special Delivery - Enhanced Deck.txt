@@ -1,0 +1,39 @@
+// NAME: Special Delivery - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774197
+4 Mogg Fanatic
+3 Pouncing Jaguar
+4 Wild Dogs
+2 Cradle Guard
+2 Mirri, Cat Warrior
+3 Shivan Raptor
+2 Citanul Centaurs
+2 Lightning Dragon
+1 Fireball
+2 Hurricane
+2 Searing Touch
+2 Shock
+4 Incinerate
+1 Shattering Pulse
+1 Hush
+2 Cursed Scroll
+1 Thran Turbine
+1 City of Brass
+4 Forest
+3 Karplusan Forest
+5 Mountain
+2 Reflecting Pool
+2 Slippery Karst
+2 Smoldering Crater
+1 Stalking Stones
+2 Wasteland
+
+Sideboard
+2 Earthquake
+1 Hidden Guerrillas
+2 Hurricane
+2 Disorder
+2 Whirling Dervish
+1 Scrap
+2 Boil
+1 Hush
+2 Scragnoth

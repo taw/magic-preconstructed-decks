@@ -1,0 +1,33 @@
+// NAME: The Sparkler - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774277
+2 Disrupt
+1 Earthquake
+1 Portent
+1 Power Sink
+1 Searing Touch
+2 Shock
+1 Whispers of the Muse
+4 Counterspell
+1 Fanning the Flames
+4 Impulse
+4 Incinerate
+3 Mana Leak
+2 Capsize
+1 Dissipate
+1 Dismiss
+1 Jokulhaups
+2 Propaganda
+1 Coral Atoll
+1 Dwarven Ruins
+13 Island
+9 Mountain
+4 Quicksand
+
+Sideboard
+1 Disrupt
+2 Earthquake
+3 Hydroblast
+3 Pyroblast
+1 Hurkyl's Recall
+3 Steel Golem
+2 Nevinyrral's Disk

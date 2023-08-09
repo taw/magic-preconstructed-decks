@@ -1,6 +1,6 @@
 DeckTypes = {
   "advanced-pack" => { name: "Advanced Pack", sizes: [[7], [15]] }, # S2TK
-  "advanced"      => { name: "Advanced Deck", sizes: [[60,15]] },
+  "advanced"      => { name: "Advanced Deck", sizes: [[60, 15]] },
   "archenemy"     => { name: "Archenemy Deck", sizes: [[60, 0], [60, 20]], },
   "arena-kit"     => { name: "Arena Starter Kit", sizes: [[60], [60, 1]] }, # Renamed to Starter Kit from 2022
   "arena-promo"   => { name: "Arena Promotional Deck", sizes: [[60]]},
@@ -13,6 +13,7 @@ DeckTypes = {
   "dbtk"          => { name: "Deck Builder's Toolkit", sizes: [[10], [185], [225]] },
   "dotp"          => { name: "Duel Of The Planeswalkers Deck", sizes: [[60]] },
   "duel"          => { name: "Duel Deck", sizes: [[60]] },
+  "enhanced"      => { name: "Endanced Deck", sizes: [[60, 0], [60, 15]] },
   "event"         => { name: "Event Deck", sizes: [[60,15]] },
   "game-night"    => { name: "Game Night Deck", sizes: [[60]] },
   "guild-kit"     => { name: "Guild Kit", sizes: [[60]] },

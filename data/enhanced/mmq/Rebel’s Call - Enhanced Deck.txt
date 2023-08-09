@@ -1,0 +1,26 @@
+// NAME: Rebel’s Call - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779592
+4 Mother of Runes
+4 Ramosian Lieutenant
+2 Nightwind Glider
+3 Ramosian Captain
+2 Thermal Glider
+4 Avalanche Riders
+2 Shock
+2 Disenchant
+2 Arc Lightning
+2 Exile
+1 Hammer of Bogardan
+2 Lunge
+2 Armageddon
+1 Ramosian Rally
+1 Reverent Mantra
+1 Wrath of God
+1 Cave-In
+1 Pacifism
+2 City of Brass
+1 Dust Bowl
+9 Mountain
+11 Plains
+
+Sideboard

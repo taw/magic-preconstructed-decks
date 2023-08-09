@@ -1,0 +1,38 @@
+// NAME: Tombstone - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774227
+3 Merfolk Looter
+4 Abyssal Horror
+4 Drifting Djinn
+1 Warrior Angel
+2 Benthic Behemoth
+2 Verdant Force
+1 Reanimate
+2 Counterspell
+3 Disenchant
+2 Mana Leak
+3 Catalog
+1 Armageddon
+1 Living Death
+4 Animate Dead
+3 Diabolic Servitude
+2 Adarkar Wastes
+2 Drifting Meadow
+2 Island
+2 Plains
+2 Polluted Mire
+3 Reflecting Pool
+2 Remote Isle
+2 Rootwater Depths
+2 Swamp
+2 Thalakos Lowlands
+3 Underground River
+
+Sideboard
+2 Dread of Night
+1 Circle of Protection: Red
+2 Clear
+2 Counterspell
+1 Disenchant
+2 Mana Leak
+1 Rune of Protection: Red
+4 Wall of Essence

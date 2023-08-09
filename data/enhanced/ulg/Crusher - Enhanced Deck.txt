@@ -1,0 +1,39 @@
+// NAME: Crusher - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774233
+2 Elvish Lyrist
+4 Llanowar Elves
+1 Eladamri, Lord of Leaves
+2 Priest of Titania
+2 Wall of Blossoms
+2 Cradle Guard
+1 Darkwatch Elves
+2 Spike Feeder
+2 Lhurgoyf
+1 Scragnoth
+4 Weatherseed Treefolk
+2 Hurricane
+1 Clear
+1 Disenchant
+2 Humble
+1 Symbiosis
+1 Harrow
+4 Armageddon
+1 Might of Oaks
+1 Overrun
+4 Brushland
+2 City of Brass
+11 Forest
+2 Gaea's Cradle
+4 Plains
+
+Sideboard
+1 Multani's Presence
+1 Spreading Algae
+3 Disenchant
+1 Repopulate
+1 Rune of Protection: Black
+2 Rune of Protection: Red
+1 Darkwatch Elves
+1 Light of Day
+2 Worship
+2 Scragnoth

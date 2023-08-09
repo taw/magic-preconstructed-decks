@@ -1,0 +1,24 @@
+// NAME: Mercenaries - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779956
+2 Cateran Persuader
+2 Silent Assassin
+4 Spineless Thug
+4 Cateran Brute
+2 Phyrexian Driver
+2 Strongarm Thug
+1 Cateran Kidnappers
+1 Highway Robber
+2 Rathi Fiend
+1 Cateran Enforcer
+1 Primeval Shambler
+3 Cateran Summons
+4 Dark Ritual
+2 Duress
+2 Vicious Hunger
+2 Yawgmoth's Will
+1 Contamination
+2 Seal of Doom
+2 Polluted Mire
+20 Swamp
+
+Sideboard

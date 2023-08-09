@@ -1,0 +1,33 @@
+// NAME: Flames of Rath - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5761595
+3 Ball Lightning
+4 Steel Golem
+2 Lightning Elemental
+2 Earthquake
+2 Fireball
+2 Disenchant
+4 Incinerate
+4 Kindle
+2 Thunderbolt
+2 Hammer of Bogardan
+1 Repentance
+3 Fireblast
+2 Jokulhaups
+1 Thran Tome
+2 Furnace of Rath
+4 Dwarven Ruins
+3 Gemstone Mine
+12 Mountain
+2 Reflecting Pool
+2 Scabland
+1 Undiscovered Paradise
+
+Sideboard
+2 Earthquake
+1 Phyrexian Furnace
+4 Pyroblast
+2 Disenchant
+2 Divine Offering
+2 Havoc
+1 Boil
+1 Jester's Cap

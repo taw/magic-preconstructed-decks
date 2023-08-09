@@ -1,0 +1,27 @@
+// NAME: Tidal Mastery - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779611
+1 Mother of Runes
+1 Crossbow Infantry
+1 Alabaster Wall
+1 Ballista Squad
+3 Stinging Barrier
+2 Palinchron
+1 Clear
+3 Counterspell
+3 Disenchant
+4 Catalog
+2 Exile
+2 Stroke of Genius
+2 Thwart
+1 Wrath of God
+1 Braidwood Cup
+1 Kyren Archive
+1 Pacifism
+1 Arrest
+1 Cessation
+2 War Tax
+2 Drifting Meadow
+15 Island
+9 Plains
+
+Sideboard

@@ -1,0 +1,23 @@
+// NAME: Replicator - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5781587
+3 Vine Trellis
+4 Skyshroud Sentinel
+4 Howling Wolf
+3 Maro
+2 Squallmonger
+4 Nesting Wurm
+2 Earthquake
+4 Repopulate
+2 Revive
+1 Arc Lightning
+1 Spontaneous Generation
+1 Collective Unconscious
+2 Thran Foundry
+3 Rancor
+14 Forest
+1 Mercadian Bazaar
+3 Mountain
+4 Smoldering Crater
+2 Treetop Village
+
+Sideboard

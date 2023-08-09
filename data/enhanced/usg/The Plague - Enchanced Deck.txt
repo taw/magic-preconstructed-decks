@@ -1,0 +1,34 @@
+// NAME: The Plague - Enchanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774086
+4 Disciple of Grace
+2 Wall of Essence
+2 Wall of Junk
+2 Paladin en-Vec
+1 Sanctum Guardian
+1 Standing Troops
+1 Wall of Nets
+1 Marble Titan
+2 Voice of Grace
+3 Dark Ritual
+2 Drain Life
+3 Humble
+2 Expunge
+1 Opal Acrolith
+3 Pariah
+4 Pestilence
+1 Spirit Mirror
+1 Worship
+3 Drifting Meadow
+7 Plains
+2 Polluted Mire
+4 Reflecting Pool
+8 Swamp
+
+Sideboard
+2 Circle of Protection: Red
+3 Disenchant
+1 Warmth
+2 Yawgmoth's Edict
+3 Perish
+2 Light of Day
+2 Persecute

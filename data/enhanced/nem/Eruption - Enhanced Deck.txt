@@ -1,0 +1,24 @@
+// NAME: Eruption - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5781758
+4 Goblin Patrol
+4 Laccolith Whelp
+2 Expendable Troops
+4 Goblin Raider
+2 Laccolith Grunt
+1 Keldon Champion
+1 Lightning Dragon
+1 Healing Salve
+1 Reckless Abandon
+4 Shock
+1 Remedy
+2 Arc Lightning
+1 Hammer of Bogardan
+1 Pillage
+1 Armageddon
+2 Ring of Gix
+4 Seal of Fire
+2 Seal of Cleansing
+13 Mountain
+9 Plains
+
+Sideboard

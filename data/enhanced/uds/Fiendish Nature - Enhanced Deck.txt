@@ -1,0 +1,32 @@
+// NAME: Fiendish Nature - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5783530
+2 Elvish Lyrist
+4 Llanowar Elves
+4 Wall of Blossoms
+1 Cradle Guard
+2 Uktabi Orangutan
+2 Yavimaya Elder
+2 Gamekeeper
+3 Plague Dogs
+3 Ancient Silverback
+1 Verdant Force
+2 Giant Growth
+1 Symbiosis
+2 Rancor
+4 Engineered Plague
+3 Recurring Nightmare
+2 Pattern of Rebirth
+13 Forest
+1 Polluted Mire
+2 Slippery Karst
+6 Swamp
+
+Sideboard
+4 Dread of Night
+1 Terror
+1 Choke
+2 Eradicate
+1 Splinter
+2 Stronghold Taskmaster
+1 Living Death
+3 Scragnoth

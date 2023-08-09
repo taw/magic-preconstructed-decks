@@ -1,0 +1,42 @@
+// NAME: The Spikes - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774298
+4 Llanowar Elves
+3 Spike Drone
+2 River Boa
+2 Skyshroud Elf
+2 Jolrael's Centaur
+1 Pincher Beetles
+2 Spike Worker
+3 Suq'Ata Lancer
+2 Uktabi Orangutan
+2 Lhurgoyf
+2 Spike Breeder
+1 Wildfire Emissary
+1 Orgg
+1 Shard Phoenix
+1 Shivan Dragon
+3 Incinerate
+4 Kindle
+1 Hammer of Bogardan
+1 Armageddon
+2 City of Brass
+2 Forest
+1 Gemstone Mine
+4 Karplusan Forest
+4 Mogg Hollows
+1 Mountain
+3 Quicksand
+2 Reflecting Pool
+2 Undiscovered Paradise
+1 Vec Townships
+
+Sideboard
+2 Earthquake
+2 Emerald Charm
+1 Tranquil Domain
+3 Whirling Dervish
+1 Choke
+1 City of Solitude
+2 Uktabi Orangutan
+2 Armageddon
+1 Scragnoth

@@ -1,0 +1,28 @@
+// NAME: Call of the Kor - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5783379
+3 Infantry Veteran
+4 Order of the White Shield
+2 Shaman en-Kor
+4 Soltari Priest
+4 Warrior en-Kor
+4 White Knight
+2 Knight of Dawn
+3 Soltari Champion
+4 Tithe
+3 Disenchant
+3 Armageddon
+4 Crusade
+2 Empyrial Armor
+18 Plains
+
+Sideboard
+1 Angelic Renewal
+1 Disenchant
+2 Pacifism
+2 Soltari Monk
+1 Tariff
+3 Ward of Lights
+2 Warmth
+1 Aura of Silence
+1 Armageddon
+1 Light of Day

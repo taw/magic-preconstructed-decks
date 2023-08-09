@@ -1,0 +1,28 @@
+// NAME: Disrupter - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779785
+2 Goblin War Buggy
+1 Silent Assassin
+3 Undertaker
+2 Bone Shredder
+2 Deepwood Ghoul
+2 Avalanche Riders
+2 Cinder Elemental
+2 Enslaved Horror
+3 Shock Troops
+1 Cateran Enforcer
+1 Thrashing Wumpus
+4 Dark Ritual
+2 Duress
+2 Shock
+1 Vendetta
+2 Pillage
+1 Rain of Tears
+2 Stone Rain
+2 Thunderclap
+2 Befoul
+2 Snuff Out
+6 Mountain
+4 Sulfurous Springs
+9 Swamp
+
+Sideboard

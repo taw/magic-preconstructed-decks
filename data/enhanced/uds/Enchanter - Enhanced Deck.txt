@@ -1,0 +1,33 @@
+// NAME: Enchanter - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774020
+4 Mother of Runes
+1 Ertai, Wizard Adept
+3 Metathran Elite
+1 Rayne, Academy Chancellor
+2 Thieving Magpie
+3 Tradewind Rider
+3 Whispers of the Muse
+4 Counterspell
+3 Disenchant
+3 Miscalculation
+2 Forbid
+1 Wrath of God
+1 Time Spiral
+3 Brilliant Halo
+2 Zephid's Embrace
+3 Adarkar Wastes
+2 Drifting Meadow
+18 Island
+1 Plains
+
+Sideboard
+2 Wasteland
+2 Chill
+2 Clear
+1 Disenchant
+1 Miscalculation
+1 Oath of Lieges
+2 Sacred Ground
+1 Douse
+2 Light of Day
+1 Wrath of God

@@ -1,0 +1,37 @@
+// NAME: The Slivers - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779169
+4 Metallic Sliver
+4 Clot Sliver
+4 Winged Sliver
+1 Mindwhip Sliver
+3 Mnemonic Sliver
+1 Portent
+1 Power Sink
+1 Whispers of the Muse
+3 Counterspell
+1 Drain Life
+3 Impulse
+2 Terror
+3 Stupor
+1 Dismiss
+1 Lobotomy
+2 Nevinyrral's Disk
+1 Fevered Convulsions
+8 Island
+2 Quicksand
+4 Rootwater Depths
+6 Swamp
+4 Underground River
+
+Sideboard
+1 Dread of Night
+1 Phyrexian Furnace
+2 Chill
+1 Energy Flux
+2 Gloom
+1 Insight
+1 Necropotence
+1 Perish
+2 Propaganda
+2 Nekrataal
+1 Living Death

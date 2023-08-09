@@ -1,0 +1,24 @@
+// NAME: Deepwood Menace- Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5779794
+4 Birds of Paradise
+2 Deepwood Wolverine
+4 Llanowar Elves
+4 Wild Dogs
+2 Vine Trellis
+2 Horned Troll
+1 Cinder Elemental
+2 Shock Troops
+2 Squallmonger
+1 Deranged Hermit
+1 Weatherseed Treefolk
+3 Shock
+2 Symbiosis
+2 Collective Unconscious
+2 Volcanic Wind
+4 Rancor
+12 Forest
+2 Gaea's Cradle
+6 Mountain
+2 Treetop Village
+
+Sideboard

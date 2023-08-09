@@ -1,0 +1,37 @@
+// NAME: Phyrexian Assault - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774251
+3 Fireslinger
+1 Molten Hydra
+3 Bone Shredder
+3 Ghitu Slinger
+2 Goblin Medics
+2 Phyrexian Broodlings
+1 Viashino Heretic
+2 Avalanche Riders
+3 Phyrexian Debaser
+3 Phyrexian Defiler
+1 Viashino Cutthroat
+2 Phyrexian Plaguelord
+2 Shock
+1 Price of Progress
+2 Expunge
+1 Lightning Blast
+2 Phyrexian Reclamation
+3 Cinder Marsh
+3 City of Brass
+1 Ghitu Encampment
+6 Mountain
+1 Polluted Mire
+3 Reflecting Pool
+1 Smoldering Crater
+1 Spawning Pool
+7 Swamp
+
+Sideboard
+2 Dread of Night
+3 Pyroblast
+2 Oath of Ghouls
+2 Coercion
+2 Engineered Plague
+2 Gloom
+2 Perish

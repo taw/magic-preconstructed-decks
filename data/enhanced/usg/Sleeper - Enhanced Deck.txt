@@ -1,0 +1,36 @@
+// NAME: Sleeper - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774093
+4 Argothian Enchantress
+2 Citanul Centaurs
+1 Lhurgoyf
+4 Endless Wurm
+1 Hurricane
+2 Clear
+1 Disenchant
+3 Humble
+2 Harrow
+1 Hidden Guerrillas
+1 Hidden Herd
+2 Hidden Predators
+3 Brilliant Halo
+1 Fortitude
+1 Hidden Ancients
+2 Hidden Stag
+1 Oath of Lieges
+3 Pariah
+1 Worship
+4 Drifting Meadow
+10 Forest
+6 Plains
+4 Slippery Karst
+
+Sideboard
+1 Feldon's Cane
+1 Hurricane
+2 Spreading Algae
+3 Disenchant
+1 Rune of Protection: Black
+2 Rune of Protection: Red
+2 Light of Day
+1 Worship
+2 Scragnoth

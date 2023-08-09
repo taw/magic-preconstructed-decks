@@ -1,0 +1,31 @@
+// NAME: Migraine - Advanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5774296
+3 Pit Imp
+4 Abyssal Specter
+1 Dauthi Mindripper
+3 Dark Ritual
+1 Vampiric Tutor
+2 Diabolic Edict
+2 Drain Life
+2 Coercion
+2 Pox
+2 Stupor
+1 Mind Warp
+3 Anvil of Bogardan
+2 Disrupting Scepter
+2 Ensnaring Bridge
+2 Bottomless Pit
+1 Infernal Tribute
+4 Megrim
+4 Quicksand
+18 Swamp
+1 Wasteland
+
+Sideboard
+2 Dread of Night
+2 Bottomless Pit
+4 Gloom
+1 Infernal Tribute
+3 Perish
+2 Nekrataal
+1 Teferi's Puzzle Box

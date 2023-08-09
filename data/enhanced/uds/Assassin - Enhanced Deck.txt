@@ -1,0 +1,29 @@
+// NAME: Assassin - Enhanced Deck
+// SOURCE: https://www.mtggoldfish.com/deck/5783546
+4 Ravenous Rats
+2 Thrull Surgeon
+4 Bone Shredder
+2 Mobile Fort
+4 Order of Yawgmoth
+1 Nightmare
+4 Dark Ritual
+4 Duress
+1 Vampiric Tutor
+4 Stupor
+1 Eradicate
+1 Soul Feast
+2 Claws of Gix
+1 Powder Keg
+1 Wheel of Torture
+2 Yawgmoth's Bargain
+4 Polluted Mire
+3 Stalking Stones
+14 Swamp
+1 Volrath's Stronghold
+
+Sideboard
+4 Dread of Night
+3 Bottle Gnomes
+2 Engineered Plague
+4 Perish
+2 Yawgmoth's Bargain
