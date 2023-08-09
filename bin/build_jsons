@@ -21,7 +21,9 @@ class BuildJsons
   def add_deck(name, deck, set_code, set_name, deck_type)
     deck_data = {
       name: name,
-      type: deck_type,
+      type: deck_type[:name],
+      category: deck_type[:category],
+      format: deck_type[:format],
       set_name: set_name,
       set_code: set_code,
       release_date: deck.release_date,
@@ -57,7 +59,7 @@ class BuildJsons
     type = DeckTypes[deck_type]
     if type
       ensure_deck_size(path, deck, type[:sizes])
-      add_deck(name, deck, set_code, set_name, type[:name])
+      add_deck(name, deck, set_code, set_name, type)
     else
       warn "Unknown deck type #{deck_type} of #{deck.size}+#{deck.sideboard_size}, skipping"
     end

@@ -1,5 +1,5 @@
 DeckTypes = {
-  "advanced-pack"   => { category: "box",      format: nil,          name: "Advanced Pack",                  sizes: [[7], [15]] }, # S2TK
+  "advanced-pack"   => { category: "box",      format: nil,          name: "Advanced Pack",                  sizes: [[7], [15]] }, # S00, this could also be casual halfdeck?
   "advanced"        => { category: "guide",    format: "standard",   name: "Advanced Deck",                  sizes: [[60, 15]] },
   "archenemy"       => { category: "deck",     format: "archenemy",  name: "Archenemy Deck",                 sizes: [[60, 0], [60, 20]], },
   "arena-kit"       => { category: "deck",     format: "?",          name: "Arena Starter Kit",              sizes: [[60], [60, 1]] }, # Renamed to Starter Kit from 2022
@@ -33,7 +33,7 @@ DeckTypes = {
   "shandalar"       => { category: "deck",     format: "shandalar",  name: "Shandalar Enemy Deck" },
   "sld"             => { category: "box",      format: nil,          name: "Secret Lair Drop" }, # Any size
   "ssk"             => { category: "deck",     format: "?",          name: "Spellslinger Starter Kit",       sizes: [[60]] },
-  "starter-22"      => { category: "?",        format: "?",          name: "Starter Deck",                   sizes: [[22]] }, # S2TK
+  "starter-22"      => { category: "deck",     format: "casual",     name: "Starter Deck",                   sizes: [[22]] }, # S00
   "starter-kit"     => { category: "deck",     format: "?",          name: "Starter Kit",                    sizes: [[60]] },
   "starter"         => { category: "deck",     format: "casual",     name: "Starter Deck",                   sizes: [[30], [33], [35], [40], [60]]},
   "theme-40"        => { category: "deck",     format: "?",          name: "Theme Deck",                     sizes: [[40]] },
@@ -42,5 +42,5 @@ DeckTypes = {
   "theme"           => { category: "deck",     format: "?",          name: "Theme Deck",                     sizes: [[60]] },
   "wc"              => { category: "deck",     format: "?",          name: "World Championship Deck",        sizes: [[60, 15], [61, 15]] },
   "welcome-booster" => { category: "box",      format: nil,          name: "Welcome Booster",                sizes: [[10], [11]]},
-  "welcome"         => { category: "deck",     format: "casual"      name: "Welcome Deck",                   sizes: [[30], [22]] },
+  "welcome"         => { category: "deck",     format: "casual",     name: "Welcome Deck",                   sizes: [[30], [22]] },
 }
