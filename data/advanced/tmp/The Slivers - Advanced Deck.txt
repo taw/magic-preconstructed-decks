@@ -1,5 +1,6 @@
 // NAME: The Slivers - Advanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779169
+// DATE: 1997-10-14
 4 Metallic Sliver
 4 Clot Sliver
 4 Winged Sliver

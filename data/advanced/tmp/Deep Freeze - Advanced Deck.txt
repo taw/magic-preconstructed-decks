@@ -1,5 +1,6 @@
 // NAME: Deep Freeze - Advanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5760002
+// DATE: 1997-10-14
 2 Man-o'-War
 2 Sky Spirit
 2 Suq'Ata Firewalker

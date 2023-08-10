@@ -1,5 +1,6 @@
 // NAME: Assassin - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5783546
+// DATE: 1999-06-07
 4 Ravenous Rats
 2 Thrull Surgeon
 4 Bone Shredder

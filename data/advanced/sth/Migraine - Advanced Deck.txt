@@ -1,5 +1,6 @@
 // NAME: Migraine - Advanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5774296
+// DATE: 1998-03-02
 3 Pit Imp
 4 Abyssal Specter
 1 Dauthi Mindripper

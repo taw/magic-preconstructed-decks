@@ -1,5 +1,6 @@
 // NAME: Disrupter - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779785
+// DATE: 1999-10-04
 2 Goblin War Buggy
 1 Silent Assassin
 3 Undertaker

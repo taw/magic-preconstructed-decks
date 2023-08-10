@@ -1,5 +1,6 @@
 // NAME: Call of the Kor - Advanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5783379
+// DATE: 1998-03-02
 3 Infantry Veteran
 4 Order of the White Shield
 2 Shaman en-Kor

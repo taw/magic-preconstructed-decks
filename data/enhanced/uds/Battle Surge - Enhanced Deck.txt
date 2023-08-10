@@ -1,5 +1,6 @@
 // NAME: Battle Surge - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5783527
+// DATE: 1999-06-07
 3 Mogg Fanatic
 4 Raging Goblin
 3 Goblin War Buggy

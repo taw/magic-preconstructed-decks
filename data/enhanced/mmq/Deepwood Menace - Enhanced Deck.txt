@@ -1,5 +1,6 @@
 // NAME: Deepwood Menace - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779794
+// DATE: 1999-10-04
 4 Birds of Paradise
 2 Deepwood Wolverine
 4 Llanowar Elves

@@ -1,5 +1,6 @@
 // NAME: Enchanter - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5774020
+// DATE: 1999-06-07
 4 Mother of Runes
 1 Ertai, Wizard Adept
 3 Metathran Elite

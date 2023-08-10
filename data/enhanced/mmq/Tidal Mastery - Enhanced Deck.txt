@@ -1,5 +1,6 @@
 // NAME: Tidal Mastery - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779611
+// DATE: 1999-10-04
 1 Mother of Runes
 1 Crossbow Infantry
 1 Alabaster Wall

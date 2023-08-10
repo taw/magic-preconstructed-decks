@@ -1,5 +1,6 @@
 // NAME: Mercenaries - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5779956
+// DATE: 2000-02-14
 2 Cateran Persuader
 2 Silent Assassin
 4 Spineless Thug

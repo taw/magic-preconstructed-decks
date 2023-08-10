@@ -1,5 +1,6 @@
 // NAME: The Sparkler - Advanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5774277
+// DATE: 1998-03-02
 2 Disrupt
 1 Earthquake
 1 Portent

@@ -1,5 +1,6 @@
 // NAME: Fiendish Nature - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5783530
+// DATE: 1999-06-07
 2 Elvish Lyrist
 4 Llanowar Elves
 4 Wall of Blossoms

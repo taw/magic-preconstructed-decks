@@ -1,5 +1,6 @@
 // NAME: Crusher - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5774233
+// DATE: 1999-02-15
 2 Elvish Lyrist
 4 Llanowar Elves
 1 Eladamri, Lord of Leaves
