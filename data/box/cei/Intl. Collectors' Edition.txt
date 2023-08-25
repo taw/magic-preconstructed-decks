@@ -1,0 +1,366 @@
+// NAME: Intl. Collectors' Edition
+// SOURCE: https://mtg.fandom.com/wiki/Collectors'_Edition
+// DATE: 1993-12-10
+1 Timetwister
+1 Armageddon
+1 Aspect of Wolf
+1 Wheel of Fortune
+1 Darkpact
+1 Dingus Egg
+1 Underground Sea
+1 Wrath of God
+1 Web
+1 Power Surge
+1 Mind Twist
+1 Stasis
+1 Braingeyser
+1 Veteran Bodyguard
+1 Fastbond
+1 Rock Hydra
+1 Nether Shadow
+1 Time Walk
+1 Blessing
+1 Kudzu
+1 Shivan Dragon
+1 Will-O-The-Wisp
+1 Island
+1 Drain Power
+1 Reverse Damage
+1 Time Vault
+1 Living Artifact
+1 Plateau
+1 Two-Headed Giant of Foriys
+1 Royal Assassin
+1 Nevinyrrals Disk
+1 Island
+1 Jayemdae Tome
+1 Sedge Troll
+1 Clockwork Beast
+1 Copy Artifact
+1 Kormus Bell
+1 Purelace
+1 Verduran Enchantress
+1 Helm of Chatzuk
+1 Earthquake
+1 Scrubland
+1 Demonic Hordes
+1 Mana Vault
+1 Mox Jet
+1 Thoughtlace
+1 Personal Incarnation
+1 Living Lands
+1 Illusionary Mask
+1 Goblin King
+1 Fork
+1 Bayou
+1 Howling Mine
+1 Demonic Attorney
+1 Gauntlet of Might
+1 Psionic Blast
+1 Phantasmal Forces
+1 Crystal Rod
+1 Green Ward
+1 Plains
+1 Karma
+1 Juggernaut
+1 Wall of Brambles
+1 Forest
+1 Channel
+1 Camouflage
+1 Goblin Balloon Brigade
+1 Mountain
+1 Dwarven Demolition Team
+1 Hypnotic Specter
+1 Swamp
+1 Black Knight
+1 Cursed Land
+1 Black Vise
+1 Phantom Monster
+1 Siren's Call
+1 Red Ward
+1 Resurrection
+1 Wall of Swords
+1 Celestial Prism
+1 Plains
+1 Wanderlust
+1 Lifeforce
+1 Forest
+1 Wooden Sphere
+1 Dragon Whelp
+1 Mountain
+1 Tunnel
+1 Uthden Troll
+1 Glasses of Urza
+1 Wall of Water
+1 Water Elemental
+1 Lance
+1 Plains
+1 Jade Statue
+1 Blue Ward
+1 Regrowth
+1 Ley Druid
+1 Forest
+1 Mountain
+1 Fire Elemental
+1 Wall of Fire
+1 Soul Net
+1 Sacrifice
+1 Scavenging Ghoul
+1 Gloom
+1 Swamp
+1 Wall of Air
+1 Island
+1 Air Elemental
+1 Island
+1 Flight
+1 Psychic Venom
+1 Island
+1 Circle of Protection: Green
+1 Plains
+1 Samite Healer
+1 Forest
+1 Craw Wurm
+1 Forest
+1 Fog
+1 Stone Rain
+1 Gray Ogre
+1 Mountain
+1 Earthbind
+1 Weakness
+1 Swamp
+1 Drain Life
+1 Island
+1 Blue Elemental Blast
+1 Phantasmal Terrain
+1 Island
+1 Holy Strength
+1 Disenchant
+1 Plains
+1 Pearled Unicorn
+1 Shanodin Dryads
+1 Forest
+1 Regeneration
+1 Mountain
+1 Disintegrate
+1 Hurloon Minotaur
+1 Mountain
+1 Raise Dead
+1 Swamp
+1 Pestilence
+1 Swamp
+1 Merfolk of the Pearl Trident
+1 Island
+1 Spell Blast
+1 Circle of Protection: White
+1 Mesa Pegasus
+1 Plains
+1 Holy Armor
+1 Forest
+1 Grizzly Bears
+1 Stream of Life
+1 Forest
+1 Mountain
+1 Dwarven Warriors
+1 Firebreathing
+1 Scathe Zombies
+1 Swamp
+1 Terror
+1 Paralyze
+1 Creature Bond
+1 Island
+1 Island
+1 Invisibility
+1 Circle of Protection: Red
+1 Healing Salve
+1 Plains
+1 Wild Growth
+1 Forest
+1 Ironroot Treefolk
+1 Tranquility
+1 Mountain
+1 Fireball
+1 Mons's Goblin Raiders
+1 Mountain
+1 Swamp
+1 Drudge Skeletons
+1 Unholy Strength
+1 Jump
+1 Island
+1 Prodigal Sorcerer
+1 Power Leak
+1 Plains
+1 Circle of Protection: Blue
+1 Guardian Angel
+1 Plains
+1 Forest
+1 Scryb Sprites
+1 Llanowar Elves
+1 Ironclaw Orcs
+1 Red Elemental Blast
+1 Mountain
+1 False Orders
+1 Dark Ritual
+1 Plague Rats
+1 Swamp
+1 Fear
+1 Power Sink
+1 Twiddle
+1 Island
+1 Plains
+1 Benalish Hero
+1 Circle of Protection: Black
+1 Mountain
+1 Giant Growth
+1 Forest
+1 Wall of Wood
+1 War Mammoth
+1 Hill Giant
+1 Shatter
+1 Mountain
+1 Swamp
+1 Frozen Shade
+1 Swamp
+1 Sinkhole
+1 Sea Serpent
+1 Island
+1 Unsummon
+1 Death Ward
+1 Plains
+1 Giant Spider
+1 Forest
+1 Lightning Bolt
+1 Mountain
+1 Howl from Beyond
+1 Swamp
+1 Sol Ring
+1 Consecrate Land
+1 Plains
+1 Serra Angel
+1 Conservator
+1 Ice Storm
+1 Wall of Ice
+1 Forest
+1 Basalt Monolith
+1 Flashfires
+1 Orcish Artillery
+1 Simulacrum
+1 Bog Wraith
+1 Swamp
+1 Animate Artifact
+1 Clone
+1 Icy Manipulator
+1 Plains
+1 Conversion
+1 White Ward
+1 Obsianus Golem
+1 Lure
+1 Forest
+1 Tsunami
+1 Hurricane
+1 Copper Tablet
+1 Wall of Stone
+1 Iron Star
+1 Mountain
+1 Earth Elemental
+1 Evil Presence
+1 Sengir Vampire
+1 Swamp
+1 Counterspell
+1 Steal Artifact
+1 Island
+1 Lifetap
+1 Swords to Plowshares
+1 Plains
+1 Ivory Cup
+1 Castle
+1 Forest
+1 Thicket Basilisk
+1 Instill Energy
+1 Keldon Warlord
+1 Mountain
+1 Living Wall
+1 Burrowing
+1 Deathgrip
+1 Swamp
+1 Wall of Bone
+1 Animate Dead
+1 Throne of Bone
+1 Feedback
+1 Control Magic
+1 Black Ward
+1 White Knight
+1 Library of Leng
+1 Berserk
+1 Rod of Ruin
+1 Orcish Oriflamme
+1 Stone Giant
+1 Mountain
+1 Demonic Tutor
+1 Nettling Imp
+1 Swamp
+1 Island Sanctuary
+1 Pirate Ship
+1 Balance
+1 Island
+1 Gaea's Liege
+1 Smoke
+1 Deathlace
+1 Tropical Island
+1 Ankh of Mishra
+1 Zombie Master
+1 Lich
+1 Island
+1 Volcanic Eruption
+1 Volcanic Island
+1 Mahamoti Djinn
+1 Farmstead
+1 Force of Nature
+1 Roc of Kher Ridges
+1 Warp Artifact
+1 Lord of Atlantis
+1 The Hive
+1 Chaoslace
+1 Forcefield
+1 Word of Command
+1 Vesuvan Doppelganger
+1 Savannah Lions
+1 Meekstone
+1 Timber Wolves
+1 Mox Pearl
+1 Granite Gargoyle
+1 Badlands
+1 Contract from Below
+1 Cyclopean Tomb
+1 Birds of Paradise
+1 Mana Short
+1 Crusade
+1 Natural Selection
+1 Taiga
+1 Mana Flare
+1 Lord of the Pit
+1 Disrupting Scepter
+1 Blaze of Glory
+1 Mox Ruby
+1 Cockatrice
+1 Magical Hack
+1 Northern Paladin
+1 Fungusaur
+1 Raging River
+1 Mox Sapphire
+1 Bad Moon
+1 Black Lotus
+1 Ancestral Recall
+1 Righteousness
+1 Savannah
+1 Lifelace
+1 Chaos Orb
+1 Sleight of Mind
+1 Tundra
+1 Animate Wall
+1 Sunglasses of Urza
+1 Elvish Archers
+1 Mox Emerald
+1 Manabarbs
+1 Jade Monolith
+1 Nightmare
+1 Winter Orb
