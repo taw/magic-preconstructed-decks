@@ -22,7 +22,7 @@
 1 Blessing
 1 Kudzu
 1 Shivan Dragon
-1 Will-O-The-Wisp
+1 Will-o'-the-Wisp
 1 Island
 1 Drain Power
 1 Reverse Damage
@@ -31,7 +31,7 @@
 1 Plateau
 1 Two-Headed Giant of Foriys
 1 Royal Assassin
-1 Nevinyrrals Disk
+1 Nevinyrral's Disk
 1 Island
 1 Jayemdae Tome
 1 Sedge Troll
