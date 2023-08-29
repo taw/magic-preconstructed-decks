@@ -1,0 +1,78 @@
+// NAME: Virtue and Valor
+// SOURCE: https://magic.wizards.com/en/news/announcements/wilds-of-eldraine-commander-decklists
+// DATE: 2023-09-08
+COMMANDER: 1 Ellivere of the Wild Court [foil]
+1 Gylwain, Casting Director [foil]
+1 Liberated Livestock
+1 Ox Drover
+1 Songbirds' Blessing
+1 Unfinished Business
+1 Giant Inheritance
+1 Knickknack Ouphe
+1 Loamcrafter Faun
+1 Timber Paladin
+1 Ajani's Chosen
+1 Angelic Destiny
+1 Archon of Sun's Grace
+1 Austere Command
+1 Celestial Archon
+1 Daybreak Coronet
+1 Eidolon of Countless Battles
+1 Kor Spiritdancer
+1 Mantle of the Ancients
+1 Realm-Cloaked Giant
+1 Retether
+1 Shalai, Voice of Plenty
+1 Starfield Mystic
+1 Sun Titan
+1 Timely Ward
+1 Tithe Taker
+1 Umbra Mystic
+1 Winds of Rath
+1 Bear Umbra
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Indomitable Might
+1 Rishkar's Expertise
+1 Sanctum Weaver
+1 Setessan Champion
+1 Verdant Embrace
+1 Canopy Vista
+1 Castle Ardenvale
+1 Fortified Village
+1 Hall of Heliod's Generosity
+1 Sungrass Prairie
+1 Temple of Plenty
+1 Danitha Capashen, Paragon
+1 Ethereal Armor
+1 Generous Gift
+1 Sage's Reverie
+1 Spectral Steel
+1 Swords to Plowshares
+1 Transcendent Envoy
+1 Ancestral Mask
+1 Aura Gnarlid
+1 Careful Cultivation
+1 Destiny Spinner
+1 Fertile Ground
+1 Kenrith's Transformation
+1 Paradise Druid
+1 Snake Umbra
+1 Sylvan Ranger
+1 Utopia Sprawl
+1 Warbriar Blessing
+1 Jukai Naturalist
+1 Pollenbright Wings
+1 Siona, Captain of the Pyleas
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Krosan Verge
+1 Myriad Landscape
+1 Vitu-Ghazi, the City-Tree
+1 Tanglespan Lookout
+1 Syr Armont, the Redeemer [WOE:214]
+15 Forest
+14 Plains
+
+Sideboard
