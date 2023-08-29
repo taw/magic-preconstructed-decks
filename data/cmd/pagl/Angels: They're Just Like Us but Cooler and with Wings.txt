@@ -4,33 +4,33 @@
 COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 Bruna, the Fading Light [foil] [SLD:1336]
 1 Ajani, Strength of the Pride
-1 Angel of Destiny
-1 Angel of Finality
-1 Angel of Serenity
-1 Angel of the Ruins
-1 Angel of Vitality
+1 Angel of Destiny [foil] [PAGL:4]
+1 Angel of Finality [foil] [SLD:1342]
+1 Angel of Serenity [foil] [PAGL:5]
+1 Angel of the Ruins [foil] [SLD:1343]
+1 Angel of Vitality [foil] [PAGL:6]
 1 Angelic Accord
-1 Angelic Field Marshal
+1 Angelic Field Marshal [foil] [PAGL:3]
 1 Arcane Signet
 1 Arch of Orazca
 1 Archangel of Thune [foil] [SLD:1337]
-1 Archangel of Tithes
+1 Archangel of Tithes [foil] [PAGL:7]
 1 Arden Angel [foil] [SLD:1344]
 1 Austere Command
 1 Bishop of Wings
 1 Bonders' Enclave
-1 Breathkeeper Seraph
+1 Breathkeeper Seraph [foil] [SLD:1345]
 1 Cleansing Nova
-1 Commander's Plate
+1 Commander's Plate [foil] [SLD:1339]
 1 Cosmos Elixir
 1 Court of Grace [foil] [SLD:1338]
 1 Dawn of Hope
-1 Dawnbreak Reclaimer
+1 Dawnbreak Reclaimer [foil] [SLD:1346]
 1 Dismantling Wave
-1 Emeria Shepherd
+1 Emeria Shepherd [foil] [PAGL:14]
 1 Emeria, the Sky Ruin
 1 Endless Atlas
-1 Entreat the Angels
+1 Entreat the Angels [foil] [PAGL:15]
 1 Everflowing Chalice
 1 Giada, Font of Hope
 1 Griffin Aerie
@@ -50,17 +50,20 @@ COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 Path of Ancestry
 1 Path to Exile
 1 Pearl Medallion
-30 Plains
-1 Righteous Valkyrie
+8 Plains [foil] [SLD:1348]
+8 Plains [foil] [SLD:1349]
+7 Plains [foil] [SLD:1350]
+7 Plains [foil] [SLD:1351]
+1 Righteous Valkyrie [foil] [PAGL:23]
 1 Search for Glory
-1 Sephara, Sky's Blade
+1 Sephara, Sky's Blade [foil] [PAGL:25]
 1 Seraph Sanctuary
 1 Serra Ascendant
-1 Shattered Angel
+1 Shattered Angel [foil] [PAGL:27]
 1 Sol Ring
 1 Speaker of the Heavens
 1 Starnheim Aspirant
-1 Sunblast Angel
+1 Sunblast Angel [foil] [PAGL:30]
 1 Swiftfoot Boots
 1 Sword of the Animist
 1 Swords to Plowshares
@@ -68,7 +71,7 @@ COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 The Book of Exalted Deeds
 1 Tome of Legends
 1 Urza's Incubator
-1 Valkyrie Harbinger
+1 Valkyrie Harbinger [foil] [SLD:1347]
 1 Vanquisher's Banner
 1 War Room
 1 Well of Lost Dreams
