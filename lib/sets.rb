@@ -315,6 +315,7 @@ MagicSets = {
   "p9ed" => "Ninth Edition Promos",
   "paer" => "Aether Revolt Promos",
   "pafr" => "Adventures in the Forgotten Realms Promos",
+  "pagl" => "Angels: They're Just Like Us but Cooler and with Wings",
   "pakh" => "Amonkhet Promos",
   "pal00" => "Arena League 2000",
   "pal01" => "Arena League 2001",
