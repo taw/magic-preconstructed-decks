@@ -1,11 +1,12 @@
 // NAME: The Walking Dead - Foil
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_The_Walking_Dead
 // DATE: 2020-10-13
-1 [SLD:143] Rick, Steadfast Leader [foil]
-1 [SLD:144] Daryl, Hunter of Walkers [foil]
-1 [SLD:145] Glenn, the Voice of Calm [foil]
-1 [SLD:146] Michonne, Ruthless Survivor [foil]
-1 [SLD:147] Negan, the Cold-Blooded [foil]
+// original names were turned into flavor names
+1 [SLD:143] Greymond, Avacyn's Stalwart [foil]
+1 [SLD:144] Hansk, Slayer Zealot [foil]
+1 [SLD:145] Gregor, Shrewd Magistrate [foil]
+1 [SLD:146] Enkira, Hostile Scavenger [foil]
+1 [SLD:147] Malik, Grim Manipulator [foil]
 1 [SLD:148] Walker [foil] [token]
 1 [SLD:149] Walker [foil] [token]
 1 [SLD:150] Walker [foil] [token]
@@ -14,4 +15,4 @@
 1 [SLD:153] Treasure [foil] [token]
 
 Sideboard
-1 [SLD:581] Lucille [foil]
+1 [SLD:581] Gisa's Favorite Shovel [foil]
