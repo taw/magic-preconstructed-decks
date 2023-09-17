@@ -1,0 +1,15 @@
+// NAME: Silver Deck
+// SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
+// DATE: 2001-04-11
+1 Eager Cadet
+2 Giant Octopus
+2 Vizzerdrix
+2 Knight Errant
+2 Coral Merfolk
+1 Merfolk of the Pearl Trident
+2 Sacred Nectar
+1 Breath of Life
+2 Vengeance
+1 Sleight of Hand
+7 Plains
+7 Island
