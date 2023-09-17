@@ -1,0 +1,9 @@
+// NAME: Magic The Baseballing foil
+// SOURCE: https://secretlair.wizards.com/us/en/product/865798/magic-the-baseballing
+// DISPLAY: Bonus card unknown
+// DATE: 2023-09-15
+1 [SLD:1453] Ajani Goldmane [foil]
+1 [SLD:1454] Jace Beleren [foil]
+1 [SLD:1455] Liliana Vess [foil]
+1 [SLD:1456] Chandra Nalaar [foil]
+1 [SLD:1457] Garruk Wildspeaker [foil]

@@ -1,0 +1,9 @@
+// NAME: Featuring Gary Baseman
+// SOURCE: https://secretlair.wizards.com/us/en/product/865794/featuring-gary-baseman
+// DISPLAY: Bonus card unknown
+// DATE: 2023-09-15
+1 [SLD:1382] Plains
+1 [SLD:1383] Island
+1 [SLD:1384] Swamp
+1 [SLD:1385] Mountain
+1 [SLD:1386] Forest

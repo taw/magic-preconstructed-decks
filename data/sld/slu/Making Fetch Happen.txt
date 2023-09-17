@@ -1,0 +1,8 @@
+// NAME: Making Fetch Happen
+// DATE: 2020-05-29
+// SOURCE: https://magic.wizards.com/en/news/announcements/making-fetch-happen-secret-lair-ultimate-edition-2020-03-13
+1 [SLU:1] Marsh Flats
+1 [SLU:2] Scalding Tarn
+1 [SLU:3] Verdant Catacombs
+1 [SLU:4] Arid Mesa
+1 [SLU:5] Misty Rainforest
