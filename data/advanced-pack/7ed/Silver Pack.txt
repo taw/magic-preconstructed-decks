@@ -1,6 +1,6 @@
 // NAME: Silver Pack
 // SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
-// DATE: 04-11-2001
+// DATE: 2001-04-11
 1 Honor Guard
 1 Wind Drake
 1 Holy Strength

@@ -1,6 +1,6 @@
 // NAME: Gold Pack
 // SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
-// DATE: 04-11-2001
+// DATE: 2001-04-11
 1 Llanowar Elves
 1 Goblin Glider
 1 Orcish Oriflamme
