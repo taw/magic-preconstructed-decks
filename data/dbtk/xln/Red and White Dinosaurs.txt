@@ -1,0 +1,11 @@
+// NAME: Red and White Dinosaurs
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Imperial Aerosaur
+1 Imperial Lancer
+1 Charging Monstrosaur
+1 Sky Terror
+1 Dinosaur Stampede
+2 Kinjalli's Caller
+1 Frenzied Raptor
+2 Thrash of Raptors

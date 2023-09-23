@@ -1,0 +1,12 @@
+// NAME: Blue and Green Merfolk
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 River Sneak
+1 Deeproot Waters
+1 Vineshaper Mystic
+1 Kumena's Speaker
+1 Shapers of Nature
+2 Shaper Apprentice
+1 Watertrap Weaver
+1 Jade Guardian
+1 River Heralds' Boon

@@ -1,0 +1,74 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Victory's Herald
+1 Sphinx of Magosi
+1 Nightmare
+1 Shivan Dragon
+1 Garruk's Horde
+1 Imperial Aerosaur
+1 Adanto Vanguard
+1 Inspiring Cleric
+1 Cast Out
+2 Raptor Companion
+2 Territorial Hammerskull
+1 Fragmentize
+1 Compulsory Rest
+1 Angler Drake
+1 Chart a Course
+1 Perilous Voyage
+1 Supreme Will
+2 Unsummon
+2 Spell Pierce
+1 Essence Scatter
+1 Watertrap Weaver
+1 Doomfall
+1 Gifted Aetherborn
+1 Kitesail Freebooter
+1 Walk the Plank
+2 Dire Fleet Hoarder
+1 Contract Killing
+1 Supernatural Stamina
+1 Duress
+1 Scarab Feast
+1 Charging Monstrosaur
+1 Wily Goblin
+1 Abrade
+1 Lightning Strike
+1 Nest Robber
+1 Fathom Fleet Firebrand
+1 Frenzied Raptor
+1 Pursue Glory
+2 Shock
+1 Savage Stomp
+1 Merfolk Branchwalker
+1 Arborback Stomper
+1 Blossoming Defense
+1 Tishana's Wayfinder
+2 Druid of the Cowl
+1 Prey Upon
+1 Colossal Dreadmaw
+1 Dissenter's Deliverance
+2 Pirate's Cutlass
+1 Hierophant's Chalice
+1 Prophetic Prism
+2 Cinder Barrens
+2 Meandering River
+2 Submerged Boneyard
+2 Timber Gorge
+2 Tranquil Expanse
+2 Forsaken Sanctuary
+2 Foul Orchard
+2 Highland Lake
+2 Stone Quarry
+2 Woodland Stream
+1 Unclaimed Territory
+1 Sunscorched Desert
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+4 Evolving Wilds
+
+Sideboard

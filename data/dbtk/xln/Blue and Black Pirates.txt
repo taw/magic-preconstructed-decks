@@ -1,0 +1,11 @@
+// NAME: Blue and Black Pirates
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Siren Stormtamer
+1 Chart a Course
+1 Ruthless Knave
+2 Deadeye Plunderers
+1 Sailor of Means
+1 Pirate's Prize
+2 Contract Killing
+1 Desperate Castaways

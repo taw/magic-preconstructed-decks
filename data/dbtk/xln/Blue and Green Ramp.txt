@@ -1,0 +1,12 @@
+// NAME: Blue and Green Ramp
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Lay Claim
+1 Chart a Course
+1 Arborback Stomper
+1 Merfolk Branchwalker
+1 Shore Keeper
+1 Ranging Raptors
+2 Pirate's Prize
+1 Tishana's Wayfinder
+1 New Horizons
