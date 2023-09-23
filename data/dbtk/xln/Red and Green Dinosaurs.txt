@@ -1,0 +1,11 @@
+// NAME: Red and Green Dinosaurs
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Charging Monstrosaur
+1 Raptor Hatchling
+1 Atzocan Archer
+1 Ranging Raptors
+1 Raging Swordtooth
+2 Sun-Crowned Hunters
+1 Chandra's Pyrohelix
+2 Ravenous Daggertooth

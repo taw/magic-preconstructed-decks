@@ -1,0 +1,11 @@
+// NAME: Red and Black Pirates
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Lightning-Rig Crew
+1 Fiery Cannonade
+1 Rigging Runner
+1 Kitesail Freebooter
+1 Dire Fleet Captain
+1 March of the Drowned
+2 Deadeye Tormentor
+2 Headstrong Brute

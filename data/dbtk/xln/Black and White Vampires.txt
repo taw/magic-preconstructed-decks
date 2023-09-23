@@ -1,0 +1,11 @@
+// NAME: Black and White Vampires
+// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// DATE: 2017-09-29
+1 Duskborne Skymarcher
+1 Vicious Conquistador
+1 Bishop of the Bloodstained
+2 Call to the Feast
+1 Bishop's Soldier
+1 Queen's Commission
+1 Skymarch Bloodletter
+2 Anointed Deacon
