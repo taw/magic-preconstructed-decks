@@ -1,4 +1,4 @@
-// NAME: Eyes of Shadow - The Liliana Vess Deck
+// NAME: Eyes of Shadow
 // SOURCE: https://magic.wizards.com/en/articles/archive/duels-planeswalkers-decks-2010-05-25-0
 // DATE: 2010-06-04
 3 Drudge Skeletons
