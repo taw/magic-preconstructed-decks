@@ -1,5 +1,6 @@
 // NAME: Masters of Evil
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
+// DATE: 2023-10-13
 COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:192]
 1 Missy
 1 Auton Soldier
