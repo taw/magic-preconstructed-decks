@@ -627,6 +627,7 @@ MagicSets = {
   "wc97" => "World Championship Decks 1997",
   "wc98" => "World Championship Decks 1998",
   "wc99" => "World Championship Decks 1999",
+  "who" => "Doctor Who",
   "wmc" => "World Magic Cup Qualifiers",
   "woc" => "Wilds of Eldraine Commander",
   "woe" => "Wilds of Eldraine",

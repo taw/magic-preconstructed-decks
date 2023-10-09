@@ -1,0 +1,97 @@
+// NAME: Paradox Power
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
+// DATE: 2023-10-13
+COMMANDER: 1 The Thirteenth Doctor [foil] [WHO:195]
+1 Yasmin Khan
+1 Danny Pink
+1 Osgood, Operation Double
+1 Twice Upon a Time
+1 Become the Pilot
+1 Quantum Misalignment
+1 Nardole, Resourceful Cyborg
+1 Flatline
+1 Bill Potts
+1 Into the Time Vortex
+1 Dan Lewis
+1 Flaming Tyrannosaurus
+1 Ryan Sinclair
+1 Return the Past
+1 Impending Flux
+1 The Flux
+1 Sisterhood of Karn
+1 Graham O'Brien
+1 Karvanista, Loyal Lupari
+1 The Foretold Soldier
+1 Fugitive of the Judoon
+1 River Song
+1 Madame Vastra
+1 Jenny Flint
+1 Strax, Sontaran Nurse
+1 The Twelfth Doctor
+1 The Fugitive Doctor
+1 Me, the Immortal
+1 Frost Fair Lure Fish
+1 Lunar Hatchling
+1 Heaven Sent
+1 Last Night Together
+1 River Song's Diary
+1 Confession Dial
+1 Clara Oswald
+1 Chaos Warp
+1 Cursed Mirror
+1 Carpet of Flowers
+1 Dreamroot Cascade
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Waterlogged Grove
+1 Desolate Lighthouse
+1 Rockfall Vale
+1 Rootbound Crag
+1 Temple of Abandon
+1 Cinder Glade
+1 Sheltered Thicket
+1 Temple of Epiphany
+1 Frostboil Snarl
+1 Stormcarved Coast
+1 Fiery Islet
+1 Game Trail
+1 Exotic Orchard
+1 Gallifrey Council Chamber
+1 Psychic Paper
+1 TARDIS
+1 Sonic Screwdriver
+1 Start the TARDIS
+1 Surge of Brilliance
+1 Iraxxa, Empress of Mars
+1 Memory Worm
+1 Decaying Time Loop
+1 Thijarian Witness
+1 Truth or Consequences
+1 Bigger on the Inside
+1 Wreck and Rebuild
+1 Arcane Signet
+1 Sol Ring
+1 Ponder
+1 Think Twice
+1 Preordain
+1 Throes of Chaos
+1 Cultivate
+1 Search for Tomorrow
+1 Farseek
+1 Beast Within
+1 Growth Spiral
+1 Talisman of Curiosity
+1 Talisman of Impulse
+1 Rogue's Passage
+1 Frontier Bivouac
+1 Reliquary Tower
+1 Myriad Landscape
+1 Temple of the False God
+1 Path of Ancestry
+1 Command Tower
+1 Ominous Cemetery
+4 Island
+3 Mountain
+4 Forest
+
+Sideboard
