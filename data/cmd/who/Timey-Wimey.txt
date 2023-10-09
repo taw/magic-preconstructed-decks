@@ -74,7 +74,7 @@ COMMANDER: 1 Rose Tyler [WHO:5] [foil]
 1 Judoon Enforcers
 1 Psychic Paper
 1 TARDIS
-1 Sonic Screwdriver
+1 Sonic Screwdriver  [WHO:185]
 1 Arcane Signet
 1 Sol Ring
 1 Clockspinning
@@ -84,7 +84,7 @@ COMMANDER: 1 Rose Tyler [WHO:5] [foil]
 1 Lightning Greaves
 1 Talisman of Conviction
 1 Evolving Wilds
-1 Command Tower
+1 Command Tower [WHO:264]
 1 Path of Ancestry
 1 Temple of the False God
 1 Myriad Landscape
