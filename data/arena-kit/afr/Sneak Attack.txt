@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.fandom.com/wiki/2021_Arena_Starter_Kit
 // DATE: 2021-08-06
 1 Cyclone Summoner [KHM:52] [foil]
-1 Archmage Emeritus [STX:377]
+1 Archmage Emeritus [STX:37]
 1 Arni Brokenbrow [KHM:120]
 4 Axgard Cavalry [KHM:121]
 1 Calamity Bearer [KHM:125]
