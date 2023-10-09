@@ -1,8 +1,8 @@
 // NAME: Timey-Wimey
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
-COMMANDER: 1 The Tenth Doctor [foil] [WHO:194]
-1 Rose Tyler
+COMMANDER: 1 The Tenth Doctor [foil] [WHO:3]
+COMMANDER: 1 Rose Tyler [WHO:5] [foil]
 1 Wilfred Mott
 1 Everybody Lives!
 1 Everything Comes to Dust
@@ -97,3 +97,14 @@ COMMANDER: 1 The Tenth Doctor [foil] [WHO:194]
 3 Mountain
 
 Sideboard
+1 The Lux Foundation Library
+1 Lake Silencio
+1 Amy's Home
+1 Ood Sphere
+1 Human-Time Lord Meta-Crisis
+1 Bad Wolf Bay
+1 Two Streams Facility
+1 Prime Minister's Cabinet Room
+1 New New York
+1 Pompeii
+1 The Tenth Doctor [foil] [WHO:194]

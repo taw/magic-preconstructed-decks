@@ -1,8 +1,8 @@
 // NAME: Masters of Evil
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
-COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:192]
-1 Missy
+COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:1]
+COMMANDER: 1 Missy [foil] [WHO:8]
 1 Auton Soldier
 1 The Flood of Mars
 1 Cyber Conversion
@@ -100,3 +100,14 @@ COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:192]
 2 Mountain
 
 Sideboard
+1 City of the Daleks
+1 The Moonbase
+1 Dalek Intensive Care
+1 Bowie Base One
+1 The Doctor's Tomb
+1 Aplan Mortarium
+1 Unleash the Flux
+1 The Matrix of Time
+1 Hotel of Fears
+1 Mondassian Colony Ship
+1 Davros, Dalek Creator [foil] [WHO:192]

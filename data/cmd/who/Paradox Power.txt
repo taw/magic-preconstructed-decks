@@ -1,8 +1,8 @@
 // NAME: Paradox Power
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
-COMMANDER: 1 The Thirteenth Doctor [foil] [WHO:195]
-1 Yasmin Khan
+COMMANDER: 1 The Thirteenth Doctor [foil] [WHO:4]
+COMMANDER: 1 Yasmin Khan [foil] [WHO:7]
 1 Danny Pink
 1 Osgood, Operation Double
 1 Twice Upon a Time
@@ -95,3 +95,14 @@ COMMANDER: 1 The Thirteenth Doctor [foil] [WHO:195]
 4 Forest
 
 Sideboard
+1 The Doctor's Childhood Barn
+1 Stormcage Containment Facility
+1 The Drum, Mining Facility
+1 Singing Towers of Darillium
+1 Fixed Point in Time
+1 Besieged Viking Village
+1 North Pole Research Base
+1 Temple of Atropos
+1 Kerblam! Warehouse
+1 The Dining Car
+1 The Thirteenth Doctor [foil] [WHO:195]
