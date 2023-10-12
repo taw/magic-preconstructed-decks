@@ -1,0 +1,13 @@
+// NAME: Hidden Pathways
+// DATE: 2021-05-07
+// SOURCE: https://wpn.wizards.com/en/products/secret-lair-ultimate-edition-2?product=2wR1Lgr3MJp2SbzEgsv88
+1 [SLU:11] Barkchannel Pathway // Tidechannel Pathway [foil]
+1 [SLU:12] Blightstep Pathway // Searstep Pathway [foil]
+1 [SLU:13] Branchloft Pathway // Boulderloft Pathway [foil]
+1 [SLU:14] Brightclimb Pathway // Grimclimb Pathway [foil]
+1 [SLU:15] Clearwater Pathway // Murkwater Pathway [foil]
+1 [SLU:16] Cragcrown Pathway // Timbercrown Pathway [foil]
+1 [SLU:17] Darkbore Pathway // Slitherbore Pathway [foil]
+1 [SLU:18] Hengegate Pathway // Mistgate Pathway [foil]
+1 [SLU:19] Needleverge Pathway // Pillarverge Pathway [foil]
+1 [SLU:20] Riverglide Pathway // Lavaglide Pathway [foil]
