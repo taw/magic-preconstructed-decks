@@ -1,0 +1,8 @@
+// NAME: Dan Frazier's Mox Box
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Dan_Frazier%27s_Mox_Box
+// DATE: 2023-09-14
+1 [SLD:1072] Mox Opal [foil]
+1 [SLD:1073] Mox Tantalite [foil]
+1 [SLD:1074] Sol Ring [foil]
+
+Sideboard
