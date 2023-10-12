@@ -29,6 +29,7 @@ class BuildJsons
       release_date: deck.release_date,
       cards: deck.card_data,
       sideboard: deck.sideboard_data,
+      bonus: deck.bonus_data,
       commander: deck.commander_data,
       source: deck.source,
       display: deck.display,
@@ -39,6 +40,7 @@ class BuildJsons
   def ensure_deck_size(path, deck, sizes)
     return unless sizes # Box sets can have any size, it's fine
 
+    # Do not validate bonus_size
     actual = "#{deck.size}+#{deck.sideboard_size}+#{deck.commander_size}"
     allowed = sizes.map{|d,s,c| "#{d}+#{s||0}+#{c||0}"}
 

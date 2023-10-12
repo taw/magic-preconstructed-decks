@@ -5,6 +5,7 @@ class Deck
     @cards = []
     @sideboard = []
     @commander = []
+    @bonus = []
 
     lines = Pathname(path).readlines.map(&:chomp).grep(/\S/)
     main_lines = lines.grep_v(%r[^\s*/])
@@ -14,19 +15,20 @@ class Deck
     @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
     @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.first
 
-    in_sideboard = false
+    section = @cards
 
     main_lines.each do |line|
       if line == "Sideboard"
-        in_sideboard = true
+        section = @sideboard
         next
       end
 
-      if in_sideboard
-        target = @sideboard
-      else
-        target = @cards
+      if line == "Bonus"
+        section = @bonus
+        next
       end
+
+      target = section
       if line.sub!(/\ACOMMANDER:\s+/, "")
         target = @commander
       end
@@ -57,7 +59,7 @@ class Deck
       end
 
       name.strip!
-      
+
       if name.empty?
         raise("Cannot parse line: #{line}")
       end
@@ -95,5 +97,9 @@ class Deck
 
   def commander_data
     @commander
+  end
+
+  def bonus_data
+    @bonus
   end
 end
