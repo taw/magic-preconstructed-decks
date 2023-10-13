@@ -3,7 +3,7 @@
 // DATE: 2020-06-26
 // DISPLAY: Also contains 1 foil version of any card
 1 Chandra. Torch of Defiance
-1 Cathartic Reunion	
+1 Cathartic Reunion
 1 Fiery Confluence
 1 Past in Flames
 1 Pyroblast
