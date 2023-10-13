@@ -2,7 +2,8 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
 COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:1]
-COMMANDER: 1 Missy [foil] [WHO:8]
+// Missy is alternative commander
+1 Missy [foil] [WHO:8]
 1 Auton Soldier
 1 The Flood of Mars
 1 Cyber Conversion
