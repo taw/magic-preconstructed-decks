@@ -1,0 +1,12 @@
+// NAME: Signature Spellbook Gideon
+// SOURCE: https://mtg.fandom.com/wiki/Signature_Spellbook:_Gideon
+// DATE: 2019-06-28
+// DISPLAY: Also contains 1 foil version of any card
+1 Gideon Jura
+1 Martyr's Bond
+1 Path to Exile
+1 Rest in Peace
+1 Shielded by Faith
+1 True Conviction
+1 Worship
+1 Blackblade Reforged

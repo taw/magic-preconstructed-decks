@@ -1,0 +1,12 @@
+// NAME: Signature Spellbook: Jace
+// SOURCE: https://mtg.fandom.com/wiki/Signature_Spellbook:_Jace
+// DATE: 2018-06-15
+// DISPLAY: Also contains 1 foil version of any card
+1 Jace Beleren
+1 Blue Elemental Blast
+1 Brainstorm
+1 Counterspell
+1 Gifts Ungiven
+1 Mystical Tutor
+1 Negate
+1 Threads of Disloyalty
