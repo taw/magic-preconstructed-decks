@@ -99,3 +99,6 @@ COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a] [foil]
 1 Time Wipe
 1 Utter End
 1 The World Tree
+
+Bonus
+1 Delver of Secrets // Insectile Aberration [SLD:722a] [foil]
