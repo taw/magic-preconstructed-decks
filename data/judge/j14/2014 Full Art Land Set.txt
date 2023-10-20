@@ -1,0 +1,11 @@
+// NAME: 2014 Full Art Land Set
+// SOURCE: https://www.magiclibrarities.net/819-rarities-judge-gift-cards-english-cards-2014.html
+// DATE:  2014-01-01
+1 Plains [J14:1★] [foil]
+1 Island [J14:2★] [foil]
+1 Swamp [J14:3★] [foil]
+1 Mountain [J14:4★] [foil]
+1 Forest [J14:5★] [foil]
+
+Sideboard
+
