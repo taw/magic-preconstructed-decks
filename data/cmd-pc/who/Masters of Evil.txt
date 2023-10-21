@@ -100,7 +100,7 @@ COMMANDER: 1 Davros, Dalek Creator [foil] [WHO:1]
 2 Swamp
 2 Mountain
 
-Sideboard
+Planar Deck
 1 City of the Daleks
 1 The Moonbase
 1 Dalek Intensive Care
@@ -112,5 +112,5 @@ Sideboard
 1 Hotel of Fears
 1 Mondassian Colony Ship
 
-Bonus
+Display Commander
 1 Davros, Dalek Creator [foil] [WHO:192]

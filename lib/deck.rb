@@ -18,12 +18,12 @@ class Deck
     section = @cards
 
     main_lines.each do |line|
-      if line == "Sideboard"
+      if line == "Sideboard" or line == "Planar Deck"
         section = @sideboard
         next
       end
 
-      if line == "Bonus"
+      if line == "Bonus" or line == "Display Commander"
         section = @bonus
         next
       end

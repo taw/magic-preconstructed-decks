@@ -98,7 +98,7 @@ COMMANDER: 1 Sarah Jane Smith [foil] [WHO:6]
 2 Island
 3 Forest
 
-Sideboard
+Planar Deck
 1 The Pyramid of Mars
 1 Caught in a Parallel Universe
 1 Gardens of Tranquil Repose
@@ -110,5 +110,5 @@ Sideboard
 1 The Cave of Skulls
 1 TARDIS Bay
 
-Bonus
+Display Commander
 1 The Fourth Doctor [foil] [WHO:193]

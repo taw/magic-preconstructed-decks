@@ -96,7 +96,7 @@ COMMANDER: 1 Rose Tyler [WHO:5] [foil]
 3 Island
 3 Mountain
 
-Sideboard
+Planar Deck
 1 The Lux Foundation Library
 1 Lake Silencio
 1 Amy's Home
@@ -108,5 +108,5 @@ Sideboard
 1 New New York
 1 Pompeii
 
-Bonus
+Display Commander
 1 The Tenth Doctor [foil] [WHO:194]
