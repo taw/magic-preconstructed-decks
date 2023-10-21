@@ -1,8 +1,6 @@
 // NAME: Paradox Power
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
-COMMANDER: 1 The Thirteenth Doctor [foil] [WHO:4]
-COMMANDER: 1 Yasmin Khan [foil] [WHO:7]
 1 Danny Pink
 1 Osgood, Operation Double
 1 Twice Upon a Time
@@ -93,6 +91,10 @@ COMMANDER: 1 Yasmin Khan [foil] [WHO:7]
 4 Island
 3 Mountain
 4 Forest
+
+Commander
+1 The Thirteenth Doctor [foil] [WHO:4]
+1 Yasmin Khan [foil] [WHO:7]
 
 Planar Deck
 1 The Doctor's Childhood Barn

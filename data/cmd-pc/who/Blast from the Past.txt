@@ -1,8 +1,6 @@
 // NAME: Blast from the Past
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
-COMMANDER: 1 The Fourth Doctor [foil] [WHO:2]
-COMMANDER: 1 Sarah Jane Smith [foil] [WHO:6]
 1 Romana II
 1 Jo Grant
 1 Tegan Jovanka
@@ -97,6 +95,10 @@ COMMANDER: 1 Sarah Jane Smith [foil] [WHO:6]
 2 Plains
 2 Island
 3 Forest
+
+Commander
+1 The Fourth Doctor [foil] [WHO:2]
+1 Sarah Jane Smith [foil] [WHO:6]
 
 Planar Deck
 1 The Pyramid of Mars
