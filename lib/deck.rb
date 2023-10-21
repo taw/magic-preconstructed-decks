@@ -1,11 +1,8 @@
 class Deck
-  attr_reader :release_date, :source, :display
+  attr_reader :release_date, :source, :display, :sections
 
   def initialize(path)
-    @cards = []
-    @sideboard = []
-    @commander = []
-    @bonus = []
+    @sections = Hash.new{|ht,k| ht[k] = []}
 
     lines = Pathname(path).readlines.map(&:chomp).grep(/\S/)
     main_lines = lines.grep_v(%r[^\s*/])
@@ -15,32 +12,27 @@ class Deck
     @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
     @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.first
 
-    section = @cards
+    section_name = "Main Deck"
 
     main_lines.each do |line|
-      if line == "Main Derk" or line == "Alternative Commander"
-        section = @cards
+      case line
+      when "Main Deck", "Alternative Commander"
+        section_name = "Main Deck"
+        next
+      when "Sideboard", "Planar Deck"
+        section_name = "Sideboard"
+        next
+      when "Bonus", "Display Commander"
+        section_name = "Bonus"
+        next
+      when "Commander"
+        section_name = "Commander"
         next
       end
 
-      if line == "Sideboard" or line == "Planar Deck"
-        section = @sideboard
-        next
-      end
-
-      if line == "Bonus" or line == "Display Commander"
-        section = @bonus
-        next
-      end
-
-      if line == "Commander"
-        section = @commander
-        next
-      end
-
-      target = section
+      target = section_name
       if line.sub!(/\ACOMMANDER:\s+/, "")
-        target = @commander
+        target = "Commander"
       end
 
       count, name = line.split(" ", 2)
@@ -74,42 +66,46 @@ class Deck
         raise("Cannot parse line: #{line}")
       end
 
-      target << {
+      add_card(target,
         name: name,
         count: count.to_i,
         set: set,
         number: number,
         foil: foil,
         token: token,
-      }.compact
+      )
     end
   end
 
+  def add_card(section_name, card)
+    @sections[section_name] << card.compact
+  end
+
   def size
-    @cards.map{|c| c[:count]}.sum
+    @sections["Main Deck"].map{|c| c[:count]}.sum
   end
 
   def sideboard_size
-    @sideboard.map{|c| c[:count]}.sum
+    @sections["Sideboard"].map{|c| c[:count]}.sum
   end
 
   def commander_size
-    @commander.map{|c| c[:count]}.sum
+    @sections["Commander"].map{|c| c[:count]}.sum
   end
 
   def card_data
-    @cards
+    @sections["Main Deck"]
   end
 
   def sideboard_data
-    @sideboard
+    @sections["Sideboard"]
   end
 
   def commander_data
-    @commander
+    @sections["Commander"]
   end
 
   def bonus_data
-    @bonus
+    @sections["Bonus"]
   end
 end
