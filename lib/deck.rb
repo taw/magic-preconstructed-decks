@@ -1,7 +1,8 @@
 class Deck
-  attr_reader :release_date, :source, :display, :sections
+  attr_reader :path, :release_date, :source, :display, :sections
 
   def initialize(path)
+    @path = path
     @sections = Hash.new{|ht,k| ht[k] = []}
 
     lines = Pathname(path).readlines.map(&:chomp).grep(/\S/)
@@ -16,17 +17,9 @@ class Deck
 
     main_lines.each do |line|
       case line
-      when "Main Deck"
-        section_name = "Main Deck"
-        next
-      when "Sideboard", "Planar Deck"
-        section_name = "Sideboard"
-        next
-      when "Bonus", "Display Commander"
-        section_name = "Bonus"
-        next
-      when "Commander"
-        section_name = "Commander"
+      # All known sections
+      when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck"
+        section_name = line
         next
       end
 
@@ -81,31 +74,7 @@ class Deck
     @sections[section_name] << card.compact
   end
 
-  def size
-    @sections["Main Deck"].map{|c| c[:count]}.sum
-  end
-
-  def sideboard_size
-    @sections["Sideboard"].map{|c| c[:count]}.sum
-  end
-
-  def commander_size
-    @sections["Commander"].map{|c| c[:count]}.sum
-  end
-
-  def card_data
-    @sections["Main Deck"]
-  end
-
-  def sideboard_data
-    @sections["Sideboard"]
-  end
-
-  def commander_data
-    @sections["Commander"]
-  end
-
-  def bonus_data
-    @sections["Bonus"]
+  def section_sizes
+    @sections.to_h{|k,v| [k, v.map{|c| c[:count]}.sum]}
   end
 end

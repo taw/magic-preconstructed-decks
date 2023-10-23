@@ -1,0 +1,356 @@
+advanced-pack:
+  category: "box"
+  format: null
+  name: "Advanced Pack"
+  sections:
+    Main Deck: [7, 15]
+advanced:
+  category: "guide"
+  format: "standard"
+  name: "Advanced Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: 15
+archenemy:
+  category: "deck"
+  format: "archenemy"
+  name: "Archenemy Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 20]
+arena-kit:
+  category: "deck"
+  format: "arena"
+  name: "Arena Starter Kit" # Renamed to Starter Kit from 2022
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 1]
+arena-promo:
+  category: "deck"
+  format: "arena"
+  name: "Arena Promotional Deck"
+  sections:
+    Main Deck: 60
+arena-starter-std:
+  category: "deck"
+  format: "arena"
+  name: "Arena Starter Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 9]
+arena-starter:
+  category: "deck"
+  format: "arena"
+  name: "Arena Starter Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 9]
+box:
+  category: "box"
+  format: null
+  name: "Box Set"
+  # Any size
+brawl:
+  category: "deck"
+  format: "brawl"
+  name: "Brawl Deck"
+  sections:
+    Main Deck: 59
+    Commander: 1
+challenger:
+  category: "deck"
+  format: "standard"
+  name: "Challenger Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: 15
+clash:
+  category: "deck"
+  format: "standard"
+  name: "Clash Pack"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 15]
+cmd-pc:
+  category: "deck"
+  format: "planechase commander"
+  name: "Commander Deck"
+  sections:
+    Main Deck: [98, 99]
+    Commander: [1, 2]
+    Main Deck + Commander: 100
+    Planar Deck: 10
+    Display Commander: [0, 1]
+cmd:
+  category: "deck"
+  format: "commander"
+  name: "Commander Deck"
+  sections:
+    Main Deck: [98, 99]
+    Commander: [1, 2]
+    Main Deck + Commander: 100
+    Display Commander: [0, 1]
+dbtk:
+  category: "box"
+  format: null
+  name: "Deck Builder's Toolkit"
+  sections:
+    Main Deck: [10, 185, 225]
+dotp:
+  category: "deck"
+  format: "casual"
+  name: "Duel Of The Planeswalkers Deck"
+  sections:
+    Main Deck: 60
+duel:
+  category: "deck"
+  format: "casual"
+  name: "Duel Deck"
+  sections:
+    Main Deck: 60
+enhanced:
+  category: "guide"
+  format: "standard"
+  name: "Enhanced Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 15]
+event:
+  category: "deck"
+  format: "standard"
+  name: "Event Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: 15
+game-night:
+  category: "deck"
+  format: "casual"
+  name: "Game Night Deck"
+  sections:
+    Main Deck: 60
+guild-kit:
+  category: "deck"
+  format: "casual"
+  name: "Guild Kit"
+  sections:
+    Main Deck: 60
+halfdeck-std:
+  category: "halfdeck"
+  format: "standard"
+  name: "Halfdeck"
+  sections:
+    Main Deck: 30
+halfdeck:
+  category: "halfdeck"
+  format: "casual"
+  name: "Halfdeck"
+  sections:
+    Main Deck: 30
+intro-26:
+  category: "deck"
+  format: "casual"
+  name: "Intro Pack"
+  sections:
+    Main Deck: 26
+intro-30:
+  category: "deck"
+  format: "casual"
+  name: "Intro Pack"
+  sections:
+    Main Deck: 30
+intro-41:
+  category: "deck"
+  format: "standard"
+  name: "Intro Pack"
+  sections:
+    Main Deck: 41
+intro:
+  category: "deck"
+  format: "standard"
+  name: "Intro Pack"
+  sections:
+    Main Deck: 60
+jumpstart-19:
+  category: "halfdeck"
+  format: "jumpstart"
+  name: "Jumpstart"
+  sections:
+    Main Deck: 19
+jumpstart:
+  category: "halfdeck"
+  format: "jumpstart"
+  name: "Jumpstart"
+  sections:
+    Main Deck: 20
+modern:
+  category: "deck"
+  format: "modern"
+  name: "Modern Event Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: 15
+mtgo:
+  category: "deck"
+  format: "casual"
+  name: "MTGO Theme Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 15]
+pioneer:
+  category: "deck"
+  format: "pioneer"
+  name: "Pioneer Challenger Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 15]
+planechase:
+  category: "deck"
+  format: "planechase"
+  name: "Planechase Deck"
+  sections:
+    Main Deck: 60
+    # PCA has boxes with multiple decks and big planar deck not linked to any of the specific decks
+    # All others have 10
+    Planar Deck: [0, 10]
+premium:
+  category: "deck"
+  format: "casual"
+  name: "Premium Deck"
+  sections:
+    Main Deck: 60
+pt:
+  category: "deck"
+  format: "casual"
+  name: "Pro Tour Deck"
+  sections:
+    Main Deck: [60, 62]
+    Sideboard: 15
+pw-casual:
+  category: "deck"
+  format: "casual"
+  name: "Planeswalker Deck"
+  sections:
+    Main Deck: 60
+pw:
+  category: "deck"
+  format: "standard"
+  name: "Planeswalker Deck"
+  sections:
+    Main Deck: 60
+shandalar:
+  category: "deck"
+  format: "shandalar"
+  name: "Shandalar Enemy Deck"
+  sections:
+    Main Deck: any
+sld:
+  category: "box"
+  format: null
+  name: "Secret Lair Drop"
+  sections:
+    Main Deck: any
+    Sideboard: any
+ssk-std:
+  category: "deck"
+  format: "standard"
+  name: "Spellslinger Starter Kit"
+  sections:
+    Main Deck: 60
+ssk:
+  category: "deck"
+  format: "casual"
+  name: "Spellslinger Starter Kit"
+  sections:
+    Main Deck: 60
+starter-22:
+  category: "deck"
+  format: "casual"
+  name: "Starter Deck"
+  sections:
+    Main Deck: 22
+starter-kit-std:
+  category: "deck"
+  format: "standard"
+  name: "Starter Kit"
+  sections:
+    Main Deck: 60
+starter-kit:
+  category: "deck"
+  format: "casual"
+  name: "Starter Kit"
+  sections:
+    Main Deck: 60
+starter-std:
+  category: "deck"
+  format: "casual standard"
+  name: "Starter Deck"
+  sections:
+    Main Deck: [30, 33]
+starter:
+  category: "deck"
+  format: "casual"
+  name: "Starter Deck"
+  sections:
+    Main Deck: [30, 35, 40, 60]
+theme-40-std:
+  category: "deck"
+  format: "standard"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 40
+theme-40:
+  category: "deck"
+  format: "casual"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 40
+theme-61:
+  category: "deck"
+  format: "casual"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 61
+theme-62:
+  category: "deck"
+  format: "casual"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 62
+theme-std:
+  category: "deck"
+  format: "standard"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 60
+theme:
+  category: "deck"
+  format: "casual"
+  name: "Theme Deck"
+  sections:
+    Main Deck: 60
+wc-special:
+  category: "deck"
+  format: "casual" # WC97 had special format just for the tournament
+  name: "World Championship Deck"
+  sections:
+    Main Deck: [60, 61]
+    Sideboard: 15
+wc:
+  category: "deck"
+  format: "standard"
+  name: "World Championship Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: 15
+welcome-booster:
+  category: "box"
+  format: null
+  name: "Welcome Booster"
+  sections:
+    Main Deck: [10, 11]
+welcome:
+  category: "deck"
+  format: "casual standard"
+  name: "Welcome Deck"
+  sections:
+    Main Deck: [22, 30]

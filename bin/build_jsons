@@ -21,32 +21,17 @@ class BuildJsons
   def add_deck(name, deck, set_code, set_name, deck_type)
     deck_data = {
       name: name,
-      type: deck_type[:name],
-      category: deck_type[:category],
-      format: deck_type[:format],
+      type: deck_type.name,
+      category: deck_type.category,
+      format: deck_type.format,
       set_name: set_name,
       set_code: set_code,
       release_date: deck.release_date,
-      cards: deck.card_data,
-      sideboard: deck.sideboard_data,
-      bonus: deck.bonus_data,
-      commander: deck.commander_data,
+      cards: deck.sections,
       source: deck.source,
       display: deck.display,
     }.compact
     @decks << deck_data
-  end
-
-  def ensure_deck_size(path, deck, sizes)
-    return unless sizes # Box sets can have any size, it's fine
-
-    # Do not validate bonus_size
-    actual = "#{deck.size}+#{deck.sideboard_size}+#{deck.commander_size}"
-    allowed = sizes.map{|d,s,c| "#{d}+#{s||0}+#{c||0}"}
-
-    unless allowed.include?(actual)
-      warn "#{path}: Size is #{actual}, expected one of #{allowed.join(" ")}"
-    end
   end
 
   def validate_and_add_deck(path, deck)
@@ -58,12 +43,12 @@ class BuildJsons
       warn "Unknown set #{set_code}, skipping"
       return
     end
-    type = DeckTypes[deck_type]
+    type = DeckType[deck_type]
     if type
-      ensure_deck_size(path, deck, type[:sizes])
+      type.validate(deck)
       add_deck(name, deck, set_code, set_name, type)
     else
-      warn "Unknown deck type #{deck_type} of #{deck.size}+#{deck.sideboard_size}, skipping"
+      warn "Unknown deck type #{deck_type} with contents #{deck.contents_sizes}, skipping"
     end
   end
 
