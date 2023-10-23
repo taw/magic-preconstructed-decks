@@ -1,4 +1,3 @@
-require "pry"
 require "yaml"
 
 class DeckType
