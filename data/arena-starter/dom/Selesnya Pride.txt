@@ -33,5 +33,3 @@
 8 Plains
 2 Shefet Dunes
 4 Tranquil Expanse
-
-Sideboard

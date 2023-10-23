@@ -20,5 +20,3 @@
 1 Forest
 2 Forest [foil]
 1 Forest [DMU:281]
-
-Sideboard

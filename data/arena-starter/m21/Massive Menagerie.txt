@@ -22,5 +22,3 @@
 10 Island
 1 Temple of Mystery
 4 Thornwood Falls
-
-Sideboard

@@ -22,5 +22,3 @@
 4 Azorius Guildgate
 12 Plains
 10 Island
-
-Sideboard

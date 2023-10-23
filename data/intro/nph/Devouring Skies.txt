@@ -25,5 +25,3 @@
 1 Necropouncer
 13 Island
 11 Swamp
-
-Sideboard

@@ -25,5 +25,3 @@
 2 Mortuary Mire
 10 Swamp
 11 Plains
-
-Sideboard

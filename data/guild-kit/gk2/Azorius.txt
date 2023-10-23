@@ -39,5 +39,3 @@
 4 Azorius Guildgate
 8 Plains
 8 Island
-
-Sideboard

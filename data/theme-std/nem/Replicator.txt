@@ -21,5 +21,3 @@
 17 Forest
 7 Swamp
 1 Subterranean Hangar
-
-Sideboard

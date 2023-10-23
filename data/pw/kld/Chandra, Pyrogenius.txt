@@ -26,5 +26,3 @@
 4 Stone Quarry
 11 Mountain
 10 Plains
-
-Sideboard

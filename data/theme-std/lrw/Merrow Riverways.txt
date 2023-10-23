@@ -24,5 +24,3 @@
 2 Springleaf Drum
 9 Plains
 13 Island
-
-Sideboard

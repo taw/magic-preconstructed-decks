@@ -39,5 +39,3 @@
 1 Rupture Spire
 9 Swamp
 2 Terramorphic Expanse
-
-Sideboard

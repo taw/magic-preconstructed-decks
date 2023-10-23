@@ -25,5 +25,3 @@
 11 Island*
 2 Simic Growth Chamber
 1 Novijen, Heart of Progress
-
-Sideboard

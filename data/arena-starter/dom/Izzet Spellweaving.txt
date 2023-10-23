@@ -33,5 +33,3 @@
 4 Highland Lake
 11 Island
 8 Mountain
-
-Sideboard

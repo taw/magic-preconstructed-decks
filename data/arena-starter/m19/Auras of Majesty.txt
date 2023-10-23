@@ -23,5 +23,3 @@
 1 Sunpetal Grove
 9 Forest
 4 Tranquil Expanse
-
-Sideboard

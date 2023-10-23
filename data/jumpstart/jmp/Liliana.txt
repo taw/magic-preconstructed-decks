@@ -16,5 +16,3 @@
 1 Thriving Moor
 6 Swamp [M21]
 1 Swamp [M21:311]
-
-Sideboard

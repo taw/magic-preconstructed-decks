@@ -18,5 +18,3 @@
 3 Murder
 1 Bolas's Citadel
 25 Swamp
-
-Sideboard

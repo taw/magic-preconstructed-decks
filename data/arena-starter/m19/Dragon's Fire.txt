@@ -19,5 +19,3 @@
 3 Sure Strike
 1 Spit Flame
 25 Mountain
-
-Sideboard

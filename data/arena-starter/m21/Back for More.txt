@@ -23,5 +23,3 @@
 4 Jungle Hollow
 10 Swamp
 1 Temple of Malady
-
-Sideboard

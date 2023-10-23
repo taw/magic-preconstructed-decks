@@ -15,5 +15,3 @@
 1 Dead Weight
 1 Thriving Moor
 7 Swamp
-
-Sideboard

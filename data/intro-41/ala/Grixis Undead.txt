@@ -24,5 +24,3 @@
 3 Mountain
 2 Crumbling Necropolis
 2 Grixis Panorama
-
-Sideboard

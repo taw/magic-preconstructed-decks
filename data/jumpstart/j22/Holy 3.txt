@@ -15,5 +15,3 @@
 1 Planar Atlas
 1 Thriving Heath
 7 Plains
-
-Sideboard

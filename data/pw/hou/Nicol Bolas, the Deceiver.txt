@@ -22,5 +22,3 @@
 5 Island
 6 Swamp
 7 Mountain
-
-Sideboard

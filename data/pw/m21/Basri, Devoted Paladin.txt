@@ -18,5 +18,3 @@
 2 Banishing Light
 24 Plains
 1 Plains [M21:309]
-
-Sideboard

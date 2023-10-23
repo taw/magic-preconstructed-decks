@@ -25,5 +25,3 @@
 4 Izzet Guildgate
 10 Island
 12 Mountain
-
-Sideboard

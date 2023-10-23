@@ -28,5 +28,3 @@
 1 Market Festival
 15 Forest
 11 Island
-
-Sideboard

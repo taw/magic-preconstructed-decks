@@ -15,5 +15,3 @@
 1 Transmogrant Altar
 6 Swamp
 2 Swamp [foil]
-
-Sideboard

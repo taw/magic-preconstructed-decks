@@ -20,5 +20,3 @@
 1 Hornet Cannon
 1 Portcullis
 24 Swamp
-
-Sideboard

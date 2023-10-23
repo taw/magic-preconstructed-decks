@@ -10,5 +10,3 @@
 1 Lava Axe
 1 Fling
 2 Kiln Fiend
-
-Sideboard

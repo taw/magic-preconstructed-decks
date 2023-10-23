@@ -84,5 +84,3 @@ COMMANDER: 1 [ONC:1] Ixhel, Scion of Atraxa [foil]
 6 Plains
 6 Swamp
 8 Forest
-
-Sideboard

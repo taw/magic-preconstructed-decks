@@ -33,5 +33,3 @@
 1 Hashep Oasis
 1 Ifnir Deadlands
 9 Swamp
-
-Sideboard

@@ -24,5 +24,3 @@
 1 Awakening Zone
 10 Forest
 8 Mountain
-
-Sideboard

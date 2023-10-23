@@ -24,5 +24,3 @@
 2 Drifting Meadow
 15 Island
 9 Plains
-
-Sideboard

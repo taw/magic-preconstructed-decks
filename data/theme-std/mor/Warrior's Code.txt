@@ -24,5 +24,3 @@
 3 Obsidian Battle-Axe
 10 Mountain
 14 Forest
-
-Sideboard

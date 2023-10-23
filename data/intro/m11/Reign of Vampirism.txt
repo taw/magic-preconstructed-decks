@@ -23,5 +23,3 @@
 2 Quag Sickness
 16 Swamp
 9 Forest
-
-Sideboard

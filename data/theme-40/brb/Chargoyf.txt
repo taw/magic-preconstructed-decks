@@ -28,5 +28,3 @@
 1 Mogg Hollows
 6 Mountain
 1 Slippery Karst
-
-Sideboard

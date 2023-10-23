@@ -17,5 +17,3 @@
 1 Unsummon
 1 Sleep Paralysis
 13 Island
-
-Sideboard

@@ -83,5 +83,3 @@ COMMANDER: 1 Osgir, the Reconstructor [foil]
 1 Temple of the False God
 12 Mountain
 8 Plains
-
-Sideboard

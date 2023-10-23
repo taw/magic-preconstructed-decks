@@ -28,5 +28,3 @@
 1 Mind Control
 13 Island
 12 Swamp
-
-Sideboard

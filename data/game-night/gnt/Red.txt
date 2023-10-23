@@ -24,5 +24,3 @@
 2 Bombard
 25 Mountain
 1 Goblin Goliath
-
-Sideboard

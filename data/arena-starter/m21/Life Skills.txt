@@ -23,5 +23,3 @@
 4 Scoured Barrens
 10 Swamp
 1 Temple of Silence
-
-Sideboard

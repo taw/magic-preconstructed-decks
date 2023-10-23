@@ -95,5 +95,3 @@ COMMANDER: 1 Sliver Gravemother [foil]
 2 Swamp
 2 Mountain
 3 Forest
-
-Sideboard

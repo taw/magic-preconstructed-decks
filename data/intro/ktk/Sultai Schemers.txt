@@ -36,5 +36,3 @@
 7 Swamp
 8 Forest
 6 Island
-
-Sideboard

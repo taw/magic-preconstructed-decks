@@ -26,5 +26,3 @@
 4 Tranquil Expanse
 9 Forest
 9 Plains
-
-Sideboard

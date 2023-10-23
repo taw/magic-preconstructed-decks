@@ -19,5 +19,3 @@
 1 Double Vision
 24 Mountain
 1 Mountain [M21:312]
-
-Sideboard

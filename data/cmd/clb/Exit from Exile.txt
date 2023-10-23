@@ -80,5 +80,3 @@ COMMANDER: 1 Faldorn, Dread Wolf Herald [CLB:647] [foil]
 1 Venture Forth
 1 Sarevok's Tome
 1 Volcanic Torrent
-
-Sideboard

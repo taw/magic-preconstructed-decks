@@ -30,5 +30,3 @@
 1 Warped Landscape
 12 Forest
 11 Swamp
-
-Sideboard

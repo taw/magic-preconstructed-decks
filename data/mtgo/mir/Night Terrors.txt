@@ -26,5 +26,3 @@
 3 Charcoal Diamond
 1 Phyrexian Vault
 22 Swamp
-
-Sideboard

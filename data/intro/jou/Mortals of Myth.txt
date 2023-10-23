@@ -28,5 +28,3 @@
 2 Banishing Light
 15 Plains
 11 Forest
-
-Sideboard

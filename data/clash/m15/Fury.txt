@@ -23,5 +23,3 @@
 8 Mountain
 16 Forest
 1 Nykthos, Shrine to Nyx
-
-Sideboard

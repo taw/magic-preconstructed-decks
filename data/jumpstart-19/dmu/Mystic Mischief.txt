@@ -16,5 +16,3 @@
 5 Island
 2 Island [foil]
 1 Island [DMU:278]
-
-Sideboard

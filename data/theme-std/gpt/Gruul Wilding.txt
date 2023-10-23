@@ -27,5 +27,3 @@
 11 Mountain*
 12 Forest*
 1 Skarrg, the Rage Pits
-
-Sideboard

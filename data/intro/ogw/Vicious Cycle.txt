@@ -32,5 +32,3 @@
 2 Wastes [OGW:184a]
 8 Swamp
 9 Forest
-
-Sideboard

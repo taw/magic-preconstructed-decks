@@ -28,5 +28,3 @@
 13 Plains
 10 Island
 1 Seaside Haven
-
-Sideboard

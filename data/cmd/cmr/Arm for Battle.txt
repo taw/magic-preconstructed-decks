@@ -80,5 +80,3 @@ COMMANDER: 1 Wyleth, Soul of Steel [foil]
 1 Terramorphic Expanse [CMR:497]
 1 Transguild Promenade
 1 Wind-Scarred Crag
-
-Sideboard

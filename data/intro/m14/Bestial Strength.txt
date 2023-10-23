@@ -25,5 +25,3 @@
 1 Into the Wilds
 17 Forest
 9 Swamp
-
-Sideboard

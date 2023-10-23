@@ -25,5 +25,3 @@
 12 Plains*
 1 Krosan Verge
 1 Nantuko Monastery
-
-Sideboard

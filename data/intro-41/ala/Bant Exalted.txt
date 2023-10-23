@@ -21,5 +21,3 @@
 3 Island
 2 Bant Panorama
 2 Seaside Citadel
-
-Sideboard

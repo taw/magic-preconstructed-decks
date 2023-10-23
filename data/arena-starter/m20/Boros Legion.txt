@@ -25,5 +25,3 @@
 1 Sacred Foundry
 10 Mountain
 10 Plains
-
-Sideboard

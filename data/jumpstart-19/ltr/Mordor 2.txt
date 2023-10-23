@@ -14,5 +14,3 @@
 1 Nasty End
 1 Orcish Medicine
 8 Swamp
-
-Sideboard

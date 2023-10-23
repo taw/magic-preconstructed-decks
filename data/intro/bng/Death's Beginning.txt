@@ -27,5 +27,3 @@
 2 Weight of the Underworld
 11 Forest
 15 Swamp
-
-Sideboard

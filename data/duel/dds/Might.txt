@@ -29,5 +29,3 @@
 4 Rugged Highlands
 11 Mountain
 10 Forest
-
-Sideboard

@@ -21,5 +21,3 @@
 1 Plains [M21]
 1 Swamp [M21]
 1 Terramorphic Expanse [JMP:78]
-
-Sideboard

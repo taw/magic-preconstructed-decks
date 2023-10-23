@@ -73,5 +73,3 @@ COMMANDER: 1 Anowon, the Ruin Thief [foil]
 1 Submerged Boneyard
 15 Island
 15 Swamp
-
-Sideboard

@@ -24,5 +24,3 @@
 1 Telepathy
 11 Island
 7 Swamp
-
-Sideboard

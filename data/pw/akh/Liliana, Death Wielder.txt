@@ -25,5 +25,3 @@
 1 Grasping Dunes
 11 Swamp
 9 Forest
-
-Sideboard

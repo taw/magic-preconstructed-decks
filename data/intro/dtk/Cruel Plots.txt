@@ -30,5 +30,3 @@
 1 Evolving Wilds
 13 Swamp
 11 Island
-
-Sideboard

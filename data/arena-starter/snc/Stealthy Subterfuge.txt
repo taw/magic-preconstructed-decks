@@ -25,5 +25,3 @@
 4 Dismal Backwater
 1 Shipwreck Marsh
 2 Waterfront District
-
-Sideboard

@@ -86,5 +86,3 @@ COMMANDER: 1 Commodore Guff [foil]
 7 Island
 4 Mountain
 7 Plains
-
-Sideboard

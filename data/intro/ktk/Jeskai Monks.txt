@@ -37,5 +37,3 @@
 8 Island
 6 Mountain
 7 Plains
-
-Sideboard

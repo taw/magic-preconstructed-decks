@@ -26,5 +26,3 @@
 1 Warstorm Surge
 14 Mountain
 10 Swamp
-
-Sideboard

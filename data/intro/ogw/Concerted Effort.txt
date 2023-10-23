@@ -28,5 +28,3 @@
 1 Tranquil Expanse
 7 Forest
 15 Plains
-
-Sideboard

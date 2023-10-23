@@ -29,5 +29,3 @@
 3 Swiftwater Cliffs
 12 Island
 10 Mountain
-
-Sideboard

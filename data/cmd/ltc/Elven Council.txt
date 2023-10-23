@@ -79,5 +79,3 @@ COMMANDER: 1 Galadriel, Elven-Queen [foil] [LTC:3]
 5 Island [LTR:265]
 8 Forest [LTR:270]
 7 Forest [LTR:271]
-
-Sideboard

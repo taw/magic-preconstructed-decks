@@ -27,5 +27,3 @@
 1 First Response
 12 Plains
 13 Swamp
-
-Sideboard

@@ -37,5 +37,3 @@
 1 Jeskai Elder
 1 Thousand Winds
 2 Mystic Monastery
-
-Sideboard

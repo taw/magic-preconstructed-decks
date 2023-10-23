@@ -19,5 +19,3 @@
 2 Charmed Sleep
 24 Island
 1 Island [M21:310]
-
-Sideboard

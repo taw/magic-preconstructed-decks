@@ -28,5 +28,3 @@
 11 Plains*
 12 Forest*
 1 Tranquil Garden*
-
-Sideboard

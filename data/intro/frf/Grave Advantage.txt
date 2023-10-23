@@ -31,5 +31,3 @@
 3 Jungle Hollow
 13 Swamp
 10 Forest
-
-Sideboard

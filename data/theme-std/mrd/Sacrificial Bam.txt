@@ -25,5 +25,3 @@
 7 Swamp
 4 Great Furnace
 4 Vault of Whispers
-
-Sideboard

@@ -29,5 +29,3 @@
 1 Iron Lance
 14 Mountain
 10 Plains
-
-Sideboard

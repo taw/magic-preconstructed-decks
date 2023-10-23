@@ -36,5 +36,3 @@
 10 Plains
 1 Shefet Dunes
 2 Stone Quarry
-
-Sideboard

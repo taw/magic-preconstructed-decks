@@ -30,5 +30,3 @@
 2 Slippery Karst*
 13 Forest
 6 Swamp
-
-Sideboard

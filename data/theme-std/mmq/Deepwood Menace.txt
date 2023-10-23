@@ -22,5 +22,3 @@
 2 Desert Twister
 13 Mountain
 11 Forest
-
-Sideboard

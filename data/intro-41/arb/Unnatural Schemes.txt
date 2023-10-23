@@ -20,5 +20,3 @@
 8 Island
 8 Swamp
 2 Terramorphic Expanse
-
-Sideboard

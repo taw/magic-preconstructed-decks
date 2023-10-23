@@ -24,5 +24,3 @@
 3 Arachnus Web
 18 Forest
 7 Mountain
-
-Sideboard

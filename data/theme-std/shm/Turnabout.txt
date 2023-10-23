@@ -28,5 +28,3 @@
 11 Forest
 12 Plains
 1 Sapseep Forest
-
-Sideboard

@@ -29,5 +29,3 @@
 1 Blighted Cataract
 2 Lonely Sandbar
 21 Island
-
-Sideboard

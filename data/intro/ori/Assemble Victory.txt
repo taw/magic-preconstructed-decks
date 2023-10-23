@@ -28,5 +28,3 @@
 1 Evolving Wilds
 13 Mountain
 10 Island
-
-Sideboard

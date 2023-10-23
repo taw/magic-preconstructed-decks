@@ -21,5 +21,3 @@
 3 Swamp
 2 Jund Panorama
 2 Savage Lands
-
-Sideboard

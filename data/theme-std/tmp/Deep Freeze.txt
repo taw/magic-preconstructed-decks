@@ -27,5 +27,3 @@
 1 Emmessi Tome
 13 Island
 11 Plains
-
-Sideboard

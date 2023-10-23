@@ -15,5 +15,3 @@
 1 Thriving Bluff
 6 Mountain [M21]
 1 Mountain [M21:312]
-
-Sideboard

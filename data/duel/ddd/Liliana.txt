@@ -30,5 +30,3 @@
 1 Genju of the Fens
 2 Polluted Mire
 23 Swamp
-
-Sideboard

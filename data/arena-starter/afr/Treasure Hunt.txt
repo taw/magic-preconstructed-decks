@@ -25,5 +25,3 @@
 10 Mountain
 1 Blightstep Pathway
 4 Sulfurous Mire
-
-Sideboard

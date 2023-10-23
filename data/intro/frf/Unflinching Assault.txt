@@ -29,5 +29,3 @@
 3 Scoured Barrens
 13 Plains
 9 Swamp
-
-Sideboard

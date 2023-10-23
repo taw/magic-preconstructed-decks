@@ -37,5 +37,3 @@
 1 Sunhome, Fortress of the Legion
 8 Mountain
 8 Plains
-
-Sideboard

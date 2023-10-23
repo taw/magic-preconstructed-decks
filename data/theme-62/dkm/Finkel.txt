@@ -30,5 +30,3 @@
 12 Mountain
 1 Sulfurous Springs
 1 Underground River
-
-Sideboard

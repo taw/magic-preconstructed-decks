@@ -32,5 +32,3 @@
 1 Unhallowed Pact
 2 Leechridden Swamp
 22 Swamp
-
-Sideboard

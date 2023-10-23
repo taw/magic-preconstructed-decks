@@ -29,5 +29,3 @@
 2 Evolving Wilds
 11 Forest
 11 Island
-
-Sideboard

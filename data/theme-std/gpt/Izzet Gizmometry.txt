@@ -26,5 +26,3 @@
 10 Mountain*
 2 Izzet Boilerworks
 1 Nivix, Aerie of the Firemind
-
-Sideboard

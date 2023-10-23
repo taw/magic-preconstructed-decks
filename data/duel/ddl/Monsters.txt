@@ -34,5 +34,3 @@
 2 Llanowar Reborn
 10 Mountain
 1 Skarrg, the Rage Pits
-
-Sideboard

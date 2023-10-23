@@ -35,5 +35,3 @@
 10 Island
 4 Submerged Boneyard
 9 Swamp
-
-Sideboard

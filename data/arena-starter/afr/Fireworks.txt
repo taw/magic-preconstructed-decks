@@ -24,5 +24,3 @@
 10 Mountain
 1 Riverglide Pathway
 4 Volatile Fjord
-
-Sideboard

@@ -20,5 +20,3 @@
 4 Woodland Stream
 14 Forest
 8 Island
-
-Sideboard

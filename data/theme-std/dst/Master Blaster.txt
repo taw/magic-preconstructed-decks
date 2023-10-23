@@ -26,5 +26,3 @@
 18 Mountain*
 3 Darksteel Citadel
 3 Great Furnace*
-
-Sideboard

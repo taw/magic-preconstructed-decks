@@ -37,5 +37,3 @@
 14 Mountain
 2 Rakdos Carnarium
 6 Swamp
-
-Sideboard

@@ -33,5 +33,3 @@
 1 Worn Powerstone
 1 Phyrexian Arena
 25 Swamp
-
-Sideboard

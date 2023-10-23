@@ -23,5 +23,3 @@
 2 Roar of the Wurm*
 1 Crush of Wurms
 20 Forest*
-
-Sideboard

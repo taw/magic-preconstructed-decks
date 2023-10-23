@@ -32,5 +32,3 @@
 6 Plains
 7 Mountain
 9 Forest
-
-Sideboard

@@ -27,5 +27,3 @@
 1 Seraph Sanctuary
 13 Plains
 11 Forest
-
-Sideboard

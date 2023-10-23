@@ -39,5 +39,3 @@
 20 Island
 1 Mishra's Factory
 1 Stalking Stones
-
-Sideboard

@@ -25,5 +25,3 @@
 10 Plains*
 12 Swamp*
 2 Tainted Field
-
-Sideboard

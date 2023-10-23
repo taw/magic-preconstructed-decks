@@ -25,5 +25,3 @@
 9 Swamp*
 3 Terramorphic Expanse*
 2 Zoetic Cavern
-
-Sideboard

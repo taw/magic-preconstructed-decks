@@ -23,5 +23,3 @@
 10 Swamp
 4 Jungle Hollow
 1 Deathcap Glade
-
-Sideboard

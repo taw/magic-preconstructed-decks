@@ -25,5 +25,3 @@
 10 Swamp
 2 Dimir Aqueduct
 1 Duskmantle, House of Shadow
-
-Sideboard

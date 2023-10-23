@@ -36,5 +36,3 @@
 4 Simic Growth Chamber
 8 Island
 8 Forest
-
-Sideboard

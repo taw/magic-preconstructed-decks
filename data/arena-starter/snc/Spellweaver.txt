@@ -25,5 +25,3 @@
 10 Mountain
 4 Swiftwater Cliffs
 1 Stormcarved Coast
-
-Sideboard

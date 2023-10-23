@@ -25,5 +25,3 @@
 1 Brute Strength
 2 Lightning Strike
 26 Mountain
-
-Sideboard

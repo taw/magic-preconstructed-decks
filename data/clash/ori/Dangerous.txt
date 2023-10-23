@@ -32,5 +32,3 @@
 7 Plains
 6 Swamp
 6 Forest
-
-Sideboard

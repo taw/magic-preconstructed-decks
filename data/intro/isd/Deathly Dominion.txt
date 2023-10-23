@@ -27,5 +27,3 @@
 2 Dead Weight
 11 Swamp
 13 Forest
-
-Sideboard

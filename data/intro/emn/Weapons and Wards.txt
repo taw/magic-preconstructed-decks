@@ -27,5 +27,3 @@
 2 Faith Unbroken
 12 Forest
 13 Plains
-
-Sideboard

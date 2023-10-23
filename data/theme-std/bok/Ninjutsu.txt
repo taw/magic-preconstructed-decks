@@ -23,5 +23,3 @@
 1 Shuriken
 2 Ronin Warclub
 24 Island*
-
-Sideboard

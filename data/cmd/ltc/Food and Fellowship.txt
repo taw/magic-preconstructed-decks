@@ -91,5 +91,3 @@ COMMANDER: 1 Sam, Loyal Attendant [foil] [LTC:7]
 2 Swamp [LTR:267]
 4 Forest [LTR:270]
 4 Forest [LTR:271]
-
-Sideboard

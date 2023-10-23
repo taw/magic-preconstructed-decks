@@ -25,5 +25,3 @@
 16 Forest
 8 Swamp
 3 Eyeblight's Ending
-
-Sideboard

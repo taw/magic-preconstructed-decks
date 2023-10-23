@@ -28,5 +28,3 @@
 12 Snow-Covered Island
 11 Snow-Covered Swamp
 1 Frost Marsh
-
-Sideboard

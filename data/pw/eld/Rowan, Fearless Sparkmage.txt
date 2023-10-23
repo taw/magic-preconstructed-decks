@@ -21,5 +21,3 @@
 4 Wind-Scarred Crag
 11 Plains
 10 Mountain
-
-Sideboard

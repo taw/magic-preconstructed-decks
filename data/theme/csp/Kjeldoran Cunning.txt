@@ -25,5 +25,3 @@
 11 Plains*
 11 Island*
 2 Boreal Shelf
-
-Sideboard

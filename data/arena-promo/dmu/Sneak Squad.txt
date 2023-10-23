@@ -25,5 +25,3 @@
 2 Dismal Backwater
 8 Swamp
 7 Island
-
-Sideboard

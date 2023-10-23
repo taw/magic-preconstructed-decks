@@ -32,5 +32,3 @@
 2 Remote Isle*
 7 Plains
 13 Island
-
-Sideboard

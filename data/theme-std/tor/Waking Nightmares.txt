@@ -25,5 +25,3 @@
 12 Swamp*
 9 Mountain*
 2 Tainted Peak
-
-Sideboard

@@ -26,5 +26,3 @@
 3 Swamp
 2 Arcane Sanctum
 2 Terramorphic Expanse
-
-Sideboard

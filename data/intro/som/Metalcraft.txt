@@ -24,5 +24,3 @@
 2 Rusted Relic
 12 Island
 12 Mountain
-
-Sideboard

@@ -87,5 +87,3 @@ COMMANDER: 1 Kamiz, Obscura Oculus [NCC:3] [foil]
 5 Plains
 6 Island
 6 Swamp
-
-Sideboard

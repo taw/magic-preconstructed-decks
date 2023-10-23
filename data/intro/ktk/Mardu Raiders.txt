@@ -36,5 +36,3 @@
 8 Mountain
 5 Plains
 7 Swamp
-
-Sideboard

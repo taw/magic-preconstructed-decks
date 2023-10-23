@@ -27,5 +27,3 @@
 1 Boon of Emrakul
 13 Swamp
 12 Island
-
-Sideboard

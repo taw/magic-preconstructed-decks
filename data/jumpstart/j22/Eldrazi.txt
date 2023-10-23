@@ -17,5 +17,3 @@
 1 Wastes
 1 Ash Barrens
 5 Forest
-
-Sideboard

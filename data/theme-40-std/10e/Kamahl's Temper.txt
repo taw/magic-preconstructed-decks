@@ -19,5 +19,3 @@
 1 Dragon's Claw
 1 Phyrexian Vault
 17 Mountain
-
-Sideboard

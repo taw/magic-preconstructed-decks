@@ -37,5 +37,3 @@
 11 Mountain
 2 New Benalia
 9 Plains
-
-Sideboard

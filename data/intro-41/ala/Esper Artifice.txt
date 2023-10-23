@@ -23,5 +23,3 @@
 3 Swamp
 2 Arcane Sanctum
 2 Esper Panorama
-
-Sideboard

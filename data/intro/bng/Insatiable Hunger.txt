@@ -27,5 +27,3 @@
 2 Ordeal of Nylea
 14 Forest
 12 Mountain
-
-Sideboard

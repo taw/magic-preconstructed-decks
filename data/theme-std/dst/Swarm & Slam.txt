@@ -23,5 +23,3 @@
 1 Myr Matrix
 16 Forest*
 8 Plains*
-
-Sideboard

@@ -15,5 +15,3 @@
 1 Bushwhack
 6 Forest
 2 Forest [foil]
-
-Sideboard

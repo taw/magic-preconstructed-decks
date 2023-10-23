@@ -16,5 +16,3 @@
 1 Thriving Heath
 6 Plains [M21]
 1 Plains [JMP:39]
-
-Sideboard

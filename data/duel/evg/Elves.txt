@@ -29,5 +29,3 @@
 19 Forest
 2 Tranquil Thicket
 1 Wirewood Lodge
-
-Sideboard

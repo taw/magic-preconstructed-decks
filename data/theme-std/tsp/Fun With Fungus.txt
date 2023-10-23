@@ -25,5 +25,3 @@
 10 Swamp
 13 Forest
 1 Pendelhaven
-
-Sideboard

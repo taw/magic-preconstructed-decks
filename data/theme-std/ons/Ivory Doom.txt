@@ -26,5 +26,3 @@
 4 Barren Moor
 4 Secluded Steppe
 1 Starlit Sanctum
-
-Sideboard

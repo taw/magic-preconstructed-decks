@@ -34,5 +34,3 @@
 9 Mountain
 4 Timber Gorge
 1 Unclaimed Territory
-
-Sideboard

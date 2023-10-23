@@ -25,5 +25,3 @@
 1 Maze of Shadows
 19 Mountain
 5 Plains
-
-Sideboard

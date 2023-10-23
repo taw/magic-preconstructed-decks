@@ -25,5 +25,3 @@
 3 Lightning Blast*
 14 Island
 13 Mountain
-
-Sideboard

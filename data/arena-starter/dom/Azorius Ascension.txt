@@ -35,5 +35,3 @@
 10 Island
 4 Meandering River
 9 Plains
-
-Sideboard

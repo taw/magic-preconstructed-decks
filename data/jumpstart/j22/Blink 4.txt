@@ -15,5 +15,3 @@
 1 Panharmonicon
 7 Plains
 1 Thriving Heath
-
-Sideboard

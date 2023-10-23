@@ -10,5 +10,3 @@
 1 Phyrexian Rager
 1 Psychic Miasma
 1 Last Kiss
-
-Sideboard

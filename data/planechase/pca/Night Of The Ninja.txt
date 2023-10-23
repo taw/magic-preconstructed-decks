@@ -37,5 +37,3 @@
 9 Swamp
 1 Tainted Isle
 1 Terramorphic Expanse
-
-Sideboard

@@ -30,5 +30,3 @@
 1 Seafloor Debris
 10 Plains
 9 Island
-
-Sideboard

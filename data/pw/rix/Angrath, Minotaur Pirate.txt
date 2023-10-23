@@ -24,5 +24,3 @@
 11 Mountain
 9 Swamp
 1 Angrath, Minotaur Pirate [foil]
-
-Sideboard

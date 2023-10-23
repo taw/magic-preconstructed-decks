@@ -28,5 +28,3 @@
 1 Ebon Stronghold [foil]
 1 Polluted Mire [foil]
 21 Swamp [foil]
-
-Sideboard

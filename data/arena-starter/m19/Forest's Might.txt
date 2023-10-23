@@ -20,5 +20,3 @@
 1 Verdant Rebirth
 3 [ANB] Rabid Bite
 25 Forest
-
-Sideboard

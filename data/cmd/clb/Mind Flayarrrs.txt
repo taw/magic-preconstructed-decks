@@ -83,5 +83,3 @@ COMMANDER: 1 Captain N'ghathrod [CLB:646] [foil]
 1 Brainstealer Dragon
 1 From the Catacombs
 1 Uchuulon
-
-Sideboard

@@ -24,5 +24,3 @@
 10 Island
 2 Hickory Woodlot
 2 Saprazzan Skerry
-
-Sideboard

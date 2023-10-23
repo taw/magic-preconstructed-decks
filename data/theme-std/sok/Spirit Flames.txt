@@ -27,5 +27,3 @@
 1 Strength of Cedars*
 11 Mountain*
 13 Forest*
-
-Sideboard

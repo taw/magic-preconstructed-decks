@@ -38,5 +38,3 @@
 1 Dread Statuary
 2 Halimar Depths
 21 Island
-
-Sideboard

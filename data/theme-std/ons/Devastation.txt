@@ -27,5 +27,3 @@
 13 Forest
 2 Forgotten Cave
 2 Tranquil Thicket
-
-Sideboard

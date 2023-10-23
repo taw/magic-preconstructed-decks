@@ -22,5 +22,3 @@
 1 Glacial Fortress
 9 Plains
 4 Meandering River
-
-Sideboard

@@ -26,5 +26,3 @@
 10 Plains
 2 Boros Garrison
 1 Sunhome, Fortress of the Legion
-
-Sideboard

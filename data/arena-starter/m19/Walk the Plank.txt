@@ -23,5 +23,3 @@
 10 Swamp
 1 Drowned Catacomb
 4 Submerged Boneyard
-
-Sideboard

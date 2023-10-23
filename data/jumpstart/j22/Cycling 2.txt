@@ -16,5 +16,3 @@
 1 Forgotten Cave
 1 Thriving Bluff
 6 Mountain
-
-Sideboard

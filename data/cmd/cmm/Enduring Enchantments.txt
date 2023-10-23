@@ -85,5 +85,3 @@ COMMANDER: 1 Anikthea, Hand of Erebos [foil]
 6 Plains
 5 Swamp
 8 Forest
-
-Sideboard

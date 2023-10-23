@@ -73,5 +73,3 @@ COMMANDER: 1 Kotori, Pilot Prodigy [foil]
 1 Temple of Enlightenment
 15 Plains
 15 Island
-
-Sideboard

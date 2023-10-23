@@ -25,5 +25,3 @@
 6 Mountain
 4 Sulfurous Springs
 9 Swamp
-
-Sideboard

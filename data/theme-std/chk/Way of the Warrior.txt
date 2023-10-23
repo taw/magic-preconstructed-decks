@@ -20,5 +20,3 @@
 1 Hold the Line
 2 No-Dachi
 24 Plains
-
-Sideboard

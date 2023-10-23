@@ -28,5 +28,3 @@
 10 Plains
 1 Grasslands
 1 Mountain Valley
-
-Sideboard

@@ -16,5 +16,3 @@
 5 Mountain
 2 Mountain [foil]
 1 Mountain [DMU:280]
-
-Sideboard

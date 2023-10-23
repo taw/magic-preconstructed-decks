@@ -27,5 +27,3 @@
 2 Pacifism
 11 Mountain
 13 Plains
-
-Sideboard

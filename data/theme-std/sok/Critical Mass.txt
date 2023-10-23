@@ -28,5 +28,3 @@
 1 Shuko*
 13 Swamp*
 11 Mountain*
-
-Sideboard

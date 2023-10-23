@@ -27,5 +27,3 @@
 1 Puffer Extract
 10 Plains
 16 Island
-
-Sideboard

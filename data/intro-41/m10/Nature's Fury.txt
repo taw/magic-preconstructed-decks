@@ -25,5 +25,3 @@
 11 Forest
 5 Plains
 1 Terramorphic Expanse
-
-Sideboard

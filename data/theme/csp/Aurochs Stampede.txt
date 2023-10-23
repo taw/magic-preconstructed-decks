@@ -25,5 +25,3 @@
 8 Snow-Covered Mountain
 14 Snow-Covered Forest
 2 Highland Weald
-
-Sideboard

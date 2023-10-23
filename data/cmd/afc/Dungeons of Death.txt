@@ -85,5 +85,3 @@ COMMANDER: 1 Sefris of the Hidden Ways [foil]
 1 Bucknard's Everfull Purse
 1 Clay Golem
 1 Component Pouch
-
-Sideboard

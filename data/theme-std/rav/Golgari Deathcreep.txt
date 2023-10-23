@@ -27,5 +27,3 @@
 11 Forest
 1 Golgari Rot Farm
 1 Svogthos, the Restless Tomb
-
-Sideboard

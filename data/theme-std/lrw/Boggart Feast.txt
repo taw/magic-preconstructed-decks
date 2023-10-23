@@ -25,5 +25,3 @@
 12 Swamp
 10 Mountain
 2 Shimmering Grotto
-
-Sideboard

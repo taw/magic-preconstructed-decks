@@ -23,5 +23,3 @@
 13 Island
 1 Rootwater Depths
 11 Swamp
-
-Sideboard

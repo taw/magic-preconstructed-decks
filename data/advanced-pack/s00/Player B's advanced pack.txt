@@ -12,5 +12,3 @@
 1 Flight
 1 Hero's Resolve
 1 Inspiration
-
-Sideboard

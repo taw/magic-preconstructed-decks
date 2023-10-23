@@ -15,5 +15,3 @@
 1 Epic Confrontation
 6 Forest
 2 Forest [foil]
-
-Sideboard

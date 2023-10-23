@@ -18,5 +18,3 @@
 1 Lightning Blast
 1 Blaze
 16 Mountain
-
-Sideboard

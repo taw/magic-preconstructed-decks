@@ -15,5 +15,3 @@
 1 Oversold Cemetery
 1 Thriving Moor
 7 Swamp
-
-Sideboard

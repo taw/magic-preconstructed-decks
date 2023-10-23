@@ -25,5 +25,3 @@
 2 Looming Spires
 10 Swamp
 10 Mountain
-
-Sideboard

@@ -74,5 +74,3 @@ COMMANDER: 1 Lathril, Blade of the Elves [foil]
 1 Path of Ancestry
 1 Skemfar Elderhall
 13 Swamp
-
-Sideboard

@@ -23,5 +23,3 @@
 7 Forest
 17 Island
 1 Temple of Mystery [CP1] [foil]
-
-Sideboard

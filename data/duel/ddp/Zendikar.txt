@@ -37,5 +37,3 @@
 2 Evolving Wilds
 9 Plains
 10 Forest
-
-Sideboard

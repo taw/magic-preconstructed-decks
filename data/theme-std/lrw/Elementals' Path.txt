@@ -31,5 +31,3 @@
 1 Forest
 2 Shimmering Grotto
 1 Vivid Crag
-
-Sideboard

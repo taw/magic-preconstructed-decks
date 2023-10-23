@@ -28,5 +28,3 @@
 4 Tainted Field
 9 Plains
 13 Swamp
-
-Sideboard

@@ -28,5 +28,3 @@
 1 Vitalizing Wind
 20 Forest*
 2 Hickory Woodlot*
-
-Sideboard

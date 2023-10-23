@@ -26,5 +26,3 @@
 2 Campaign of Vengeance
 13 Plains
 12 Swamp
-
-Sideboard

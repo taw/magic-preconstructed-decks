@@ -32,5 +32,3 @@
 2 Cinder Barrens
 12 Mountain
 9 Swamp
-
-Sideboard

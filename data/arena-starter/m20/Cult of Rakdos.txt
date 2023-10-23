@@ -24,5 +24,3 @@
 4 Rakdos Guildgate
 10 Swamp
 10 Mountain
-
-Sideboard

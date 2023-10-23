@@ -27,5 +27,3 @@
 2 Unknown Shores
 12 Island
 12 Forest
-
-Sideboard

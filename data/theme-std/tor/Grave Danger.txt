@@ -26,5 +26,3 @@
 11 Island*
 11 Swamp*
 2 Tainted Isle
-
-Sideboard

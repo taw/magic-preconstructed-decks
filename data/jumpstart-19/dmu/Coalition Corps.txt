@@ -16,5 +16,3 @@
 5 Plains
 2 Plains [foil]
 1 Plains [DMU:277]
-
-Sideboard

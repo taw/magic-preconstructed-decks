@@ -16,5 +16,3 @@
 1 Thriving Isle
 6 Island [M21]
 1 Island [JMP:48]
-
-Sideboard

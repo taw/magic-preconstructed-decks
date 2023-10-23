@@ -26,5 +26,3 @@
 10 Forest
 12 Island
 4 Simic Guildgate
-
-Sideboard

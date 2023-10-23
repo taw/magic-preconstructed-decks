@@ -23,5 +23,3 @@
 9 Forest
 10 Swamp
 4 Woodland Chasm
-
-Sideboard

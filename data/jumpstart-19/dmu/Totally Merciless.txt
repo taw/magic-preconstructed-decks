@@ -16,5 +16,3 @@
 5 Swamp
 2 Swamp [foil]
 1 Swamp [DMU:279]
-
-Sideboard

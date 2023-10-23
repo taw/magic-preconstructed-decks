@@ -21,5 +21,3 @@
 1 Plummet
 2 Spidery Grasp
 26 Forest
-
-Sideboard

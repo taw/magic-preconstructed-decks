@@ -25,5 +25,3 @@
 12 Forest
 4 Gruul Guildgate
 10 Mountain
-
-Sideboard

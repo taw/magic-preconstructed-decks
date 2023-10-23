@@ -20,5 +20,3 @@
 4 Tranquil Cove
 12 Plains
 11 Island
-
-Sideboard

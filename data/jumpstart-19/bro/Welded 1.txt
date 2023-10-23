@@ -15,5 +15,3 @@
 1 Bitter Reunion
 6 Mountain
 2 Mountain [foil]
-
-Sideboard

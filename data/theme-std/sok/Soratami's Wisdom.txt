@@ -29,5 +29,3 @@
 1 Hankyu*
 12 Plains*
 11 Island*
-
-Sideboard

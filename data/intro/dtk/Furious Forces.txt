@@ -29,5 +29,3 @@
 1 Evolving Wilds
 12 Forest
 12 Mountain
-
-Sideboard

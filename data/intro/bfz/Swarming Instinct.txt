@@ -25,5 +25,3 @@
 2 Skyline Cascade
 10 Island
 11 Forest
-
-Sideboard

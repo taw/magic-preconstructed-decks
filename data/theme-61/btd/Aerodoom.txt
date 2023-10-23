@@ -42,5 +42,3 @@
 1 Remote Isle
 1 Svyelunite Temple
 11 Swamp
-
-Sideboard

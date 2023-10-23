@@ -18,5 +18,3 @@
 1 Demonic Embrace
 24 Swamp
 1 Swamp [M21:311]
-
-Sideboard

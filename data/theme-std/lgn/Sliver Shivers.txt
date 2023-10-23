@@ -20,5 +20,3 @@
 5 Island*
 2 Lonely Sandbar*
 4 Secluded Steppe*
-
-Sideboard

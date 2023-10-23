@@ -41,5 +41,3 @@
 1 Svogthos, the Restless Tomb
 10 Swamp
 1 Tranquil Thicket
-
-Sideboard

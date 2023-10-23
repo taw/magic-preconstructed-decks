@@ -24,5 +24,3 @@
 10 Island
 11 Swamp
 1 Temple of Deceit
-
-Sideboard

@@ -20,5 +20,3 @@
 1 Jack-in-the-Mox
 1 Underdome
 12 Swamp
-
-Sideboard

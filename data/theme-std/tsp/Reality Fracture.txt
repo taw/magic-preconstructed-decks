@@ -25,5 +25,3 @@
 12 Island
 11 Mountain
 1 Dreadship Reef
-
-Sideboard

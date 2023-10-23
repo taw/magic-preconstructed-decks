@@ -32,5 +32,3 @@
 3 Akoum Refuge
 7 Mountain
 13 Swamp
-
-Sideboard

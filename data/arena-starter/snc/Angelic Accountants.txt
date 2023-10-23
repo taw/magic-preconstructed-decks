@@ -24,5 +24,3 @@
 4 Tranquil Cove
 1 Deserted Beach
 2 Skybridge Towers
-
-Sideboard

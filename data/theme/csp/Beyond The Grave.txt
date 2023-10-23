@@ -26,5 +26,3 @@
 12 Swamp*
 9 Mountain*
 3 Forest*
-
-Sideboard

@@ -28,5 +28,3 @@
 7 Mountain
 1 Polluted Mire
 8 Swamp
-
-Sideboard

@@ -26,5 +26,3 @@
 2 Rock Slide
 12 Mountain*
 12 Forest*
-
-Sideboard

@@ -30,5 +30,3 @@
 12 Swamp
 12 Mountain
 1 Assassin's Strike
-
-Sideboard

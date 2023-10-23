@@ -27,5 +27,3 @@
 1 Watery Grave
 10 Island
 10 Swamp
-
-Sideboard

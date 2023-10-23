@@ -24,5 +24,3 @@
 10 Mountain
 4 Swiftwater Cliffs
 1 Temple of Epiphany
-
-Sideboard

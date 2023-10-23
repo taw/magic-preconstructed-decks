@@ -11,5 +11,3 @@
 1 Goblin Artillery
 1 Lightning Elemental
 1 Ruinous Minotaur
-
-Sideboard

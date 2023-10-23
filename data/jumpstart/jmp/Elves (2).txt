@@ -16,5 +16,3 @@
 1 Thriving Grove
 6 Forest [M21]
 1 Forest [JMP:77]
-
-Sideboard

@@ -23,5 +23,3 @@
 2 Narcolepsy
 8 Island
 10 Plains
-
-Sideboard

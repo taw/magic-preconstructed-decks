@@ -27,5 +27,3 @@
 11 Swamp*
 2 Orzhov Basilica
 1 Orzhova, the Church of Deals
-
-Sideboard

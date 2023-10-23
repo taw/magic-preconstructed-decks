@@ -16,5 +16,3 @@
 1 Treetop Village
 1 Thriving Grove
 6 Forest
-
-Sideboard

@@ -15,5 +15,3 @@
 1 Ill-Gotten Inheritance
 1 Thriving Moor
 7 Swamp
-
-Sideboard

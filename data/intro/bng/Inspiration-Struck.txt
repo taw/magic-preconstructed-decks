@@ -28,5 +28,3 @@
 15 Island
 11 Swamp
 1 Triton Shorethief
-
-Sideboard

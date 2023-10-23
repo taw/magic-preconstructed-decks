@@ -23,5 +23,3 @@
 1 Dust Bowl
 9 Mountain
 11 Plains
-
-Sideboard

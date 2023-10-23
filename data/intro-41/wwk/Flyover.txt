@@ -25,5 +25,3 @@
 7 Island
 1 Dread Statuary
 1 Terramorphic Expanse
-
-Sideboard

@@ -83,5 +83,3 @@ COMMANDER: 1 Nalia de'Arnise [CLB:649] [foil]
 1 Solemn Doomguide
 1 Multiclass Baldric
 1 Crib Swap
-
-Sideboard

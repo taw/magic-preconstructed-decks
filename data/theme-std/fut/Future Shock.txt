@@ -23,5 +23,3 @@
 9 Mountain*
 14 Forest*
 1 Dryad Arbor
-
-Sideboard

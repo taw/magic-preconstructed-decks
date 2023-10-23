@@ -26,5 +26,3 @@
 1 Lightning Diadem
 14 Mountain
 11 Swamp
-
-Sideboard

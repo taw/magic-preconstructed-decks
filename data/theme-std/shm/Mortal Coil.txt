@@ -27,5 +27,3 @@
 12 Island
 12 Swamp
 1 Inkfathom Infiltrator
-
-Sideboard

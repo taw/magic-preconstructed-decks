@@ -45,5 +45,3 @@
 2 Terramorphic Expanse
 8 Plains
 9 Island
-
-Sideboard

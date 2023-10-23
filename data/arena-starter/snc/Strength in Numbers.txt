@@ -25,5 +25,3 @@
 4 Blossoming Sands
 1 Overgrown Farmland
 2 Botanical Plaza
-
-Sideboard

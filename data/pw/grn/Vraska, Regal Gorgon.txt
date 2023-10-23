@@ -23,5 +23,3 @@
 4 Golgari Guildgate
 10 Forest
 12 Swamp
-
-Sideboard

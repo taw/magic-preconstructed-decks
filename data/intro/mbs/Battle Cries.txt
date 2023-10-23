@@ -26,5 +26,3 @@
 2 Arrest
 8 Mountain
 16 Plains
-
-Sideboard

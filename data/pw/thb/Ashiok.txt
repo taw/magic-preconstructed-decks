@@ -20,5 +20,3 @@
 2 Unknown Shores
 12 Swamp
 11 Island
-
-Sideboard

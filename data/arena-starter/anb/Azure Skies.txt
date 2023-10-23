@@ -18,5 +18,3 @@
 1 Negate
 1 Verity Circle
 25 Island
-
-Sideboard

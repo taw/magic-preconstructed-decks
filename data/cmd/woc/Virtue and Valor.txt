@@ -74,5 +74,3 @@ COMMANDER: 1 Ellivere of the Wild Court [foil]
 1 Syr Armont, the Redeemer [WOE:214]
 15 Forest
 14 Plains
-
-Sideboard

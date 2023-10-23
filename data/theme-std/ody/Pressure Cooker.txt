@@ -29,5 +29,3 @@
 1 Ravaged Highlands
 11 Swamp
 9 Mountain
-
-Sideboard

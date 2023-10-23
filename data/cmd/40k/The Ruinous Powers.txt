@@ -80,5 +80,3 @@ COMMANDER: 1 Abaddon the Despoiler [40K:171] [foil]
 1 Noise Marine
 1 Seeker of Slaanesh
 1 The Lost and the Damned
-
-Sideboard

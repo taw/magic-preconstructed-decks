@@ -25,5 +25,3 @@
 1 Evolving Wilds
 14 Island
 10 Plains
-
-Sideboard

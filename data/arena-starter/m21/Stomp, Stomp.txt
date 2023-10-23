@@ -23,5 +23,3 @@
 9 Mountain
 4 Rugged Highlands
 1 Temple of Abandon
-
-Sideboard

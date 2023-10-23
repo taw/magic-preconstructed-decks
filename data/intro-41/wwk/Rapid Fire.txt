@@ -24,5 +24,3 @@
 9 Plains
 7 Mountain
 2 Teetering Peaks
-
-Sideboard

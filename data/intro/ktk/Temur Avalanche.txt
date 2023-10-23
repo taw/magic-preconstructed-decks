@@ -33,5 +33,3 @@
 8 Forest
 5 Island
 7 Mountain
-
-Sideboard

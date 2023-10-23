@@ -26,5 +26,3 @@
 2 Sandstone Bridge
 10 Mountain
 10 Plains
-
-Sideboard

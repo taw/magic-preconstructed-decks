@@ -21,5 +21,3 @@
 10 Forest
 10 Plains
 1 Temple of Plenty
-
-Sideboard

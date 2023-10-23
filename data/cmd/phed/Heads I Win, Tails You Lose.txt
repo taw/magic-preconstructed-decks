@@ -89,5 +89,3 @@ COMMANDER: 1 Okaun, Eye of Chaos [SLD:380a] [foil]
 1 Command Tower
 1 Reliquary Tower
 1 Temple of the False God
-
-Sideboard

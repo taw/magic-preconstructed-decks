@@ -24,5 +24,3 @@
 4 Prismari Campus
 8 Island
 9 Mountain
-
-Sideboard

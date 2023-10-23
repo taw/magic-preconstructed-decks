@@ -31,5 +31,3 @@
 11 Forest
 11 Island
 2 Woodland Stream
-
-Sideboard

@@ -38,5 +38,3 @@
 4 Dimir Guildgate
 8 Island
 8 Swamp
-
-Sideboard

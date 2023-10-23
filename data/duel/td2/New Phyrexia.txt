@@ -39,5 +39,3 @@
 10 Forest
 14 Swamp
 1 Tainted Wood
-
-Sideboard

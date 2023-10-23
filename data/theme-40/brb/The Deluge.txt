@@ -28,5 +28,3 @@
 6 Forest
 9 Plains
 1 Vec Townships
-
-Sideboard

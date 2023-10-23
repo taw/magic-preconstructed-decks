@@ -16,5 +16,3 @@
 1 Bonders' Enclave
 1 Thriving Grove
 6 Forest
-
-Sideboard

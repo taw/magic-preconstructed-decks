@@ -23,5 +23,3 @@
 10 Island
 7 Forest
 1 Terramorphic Expanse
-
-Sideboard

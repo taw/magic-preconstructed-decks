@@ -78,5 +78,3 @@ COMMANDER: 1 Strefan, Maurer Progenitor [foil]
 1 Unclaimed Territory
 14 Swamp
 11 Mountain
-
-Sideboard

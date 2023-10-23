@@ -24,5 +24,3 @@
 3 Island
 2 Seaside Citadel
 2 Terramorphic Expanse
-
-Sideboard

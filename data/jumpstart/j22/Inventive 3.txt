@@ -16,5 +16,3 @@
 1 Thriving Isle
 1 Seat of the Synod
 6 Island
-
-Sideboard

@@ -27,5 +27,3 @@
 1 Inexorable Tide
 12 Forest
 12 Island
-
-Sideboard

@@ -25,5 +25,3 @@
 1 Volcanic Spray
 15 Forest
 10 Mountain
-
-Sideboard

@@ -25,5 +25,3 @@
 2 Ensoul Artifact
 12 Mountain
 12 Island
-
-Sideboard

@@ -23,5 +23,3 @@
 11 Plains
 1 Temple of Enlightenment
 4 Tranquil Cove
-
-Sideboard

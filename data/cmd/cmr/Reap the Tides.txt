@@ -73,5 +73,3 @@ COMMANDER: 1 Aesi, Tyrant of Gyre Strait [foil]
 1 Vivid Creek
 1 Vivid Grove
 1 Woodland Stream
-
-Sideboard

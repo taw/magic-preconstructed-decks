@@ -25,5 +25,3 @@
 1 Clifftop Retreat
 9 Mountain
 4 Stone Quarry
-
-Sideboard

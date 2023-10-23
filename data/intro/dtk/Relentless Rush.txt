@@ -25,5 +25,3 @@
 1 Evolving Wilds
 13 Mountain
 11 Swamp
-
-Sideboard

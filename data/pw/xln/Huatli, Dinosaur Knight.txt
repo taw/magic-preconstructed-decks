@@ -21,5 +21,3 @@
 11 Mountain
 11 Plains
 1 Huatli, Dinosaur Knight [foil]
-
-Sideboard

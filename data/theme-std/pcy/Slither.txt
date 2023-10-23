@@ -25,5 +25,3 @@
 1 Chimeric Idol
 10 Forest*
 14 Mountain*
-
-Sideboard

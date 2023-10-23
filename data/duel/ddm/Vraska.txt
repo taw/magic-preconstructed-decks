@@ -40,5 +40,3 @@
 1 Rogue's Passage
 11 Swamp
 2 Tainted Wood
-
-Sideboard

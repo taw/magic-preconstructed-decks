@@ -28,5 +28,3 @@
 1 Sunbond
 10 Island
 16 Plains
-
-Sideboard

@@ -37,5 +37,3 @@
 4 Golgari Rot Farm
 8 Swamp
 8 Forest
-
-Sideboard

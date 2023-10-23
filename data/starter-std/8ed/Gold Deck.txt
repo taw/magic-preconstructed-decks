@@ -14,5 +14,3 @@
 2 Volcanic Hammer
 7 Forest
 8 Mountain
-
-Sideboard

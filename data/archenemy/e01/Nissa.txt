@@ -32,5 +32,3 @@
 7 Island
 4 Woodland Stream
 13 Forest
-
-Sideboard

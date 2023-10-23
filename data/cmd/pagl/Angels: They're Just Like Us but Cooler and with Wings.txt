@@ -75,5 +75,3 @@ COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 Vanquisher's Banner
 1 War Room
 1 Well of Lost Dreams
-
-Sideboard

@@ -27,5 +27,3 @@
 1 Kaervek's Torch
 12 Island
 12 Mountain
-
-Sideboard

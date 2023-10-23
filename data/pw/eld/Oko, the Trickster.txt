@@ -20,5 +20,3 @@
 4 Thornwood Falls
 10 Island
 11 Forest
-
-Sideboard

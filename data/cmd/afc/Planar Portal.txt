@@ -76,5 +76,3 @@ COMMANDER: 1 Prosper, Tome-Bound [foil]
 1 Bucknard's Everfull Purse
 1 Ebony Fly
 1 Underdark Rift
-
-Sideboard

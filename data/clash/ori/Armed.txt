@@ -30,5 +30,3 @@
 1 Windswept Heath
 11 Plains
 10 Forest
-
-Sideboard

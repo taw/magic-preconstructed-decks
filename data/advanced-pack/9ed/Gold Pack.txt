@@ -8,5 +8,3 @@
 1 Dancing Scimitar
 1 Forest
 1 Mountain
-
-Sideboard

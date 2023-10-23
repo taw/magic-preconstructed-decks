@@ -27,5 +27,3 @@
 2 Quicksilver Geyser
 13 Mountain
 11 Island
-
-Sideboard

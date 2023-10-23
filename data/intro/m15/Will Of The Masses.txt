@@ -25,5 +25,3 @@
 1 Sanctified Charge
 13 Forest
 12 Plains
-
-Sideboard

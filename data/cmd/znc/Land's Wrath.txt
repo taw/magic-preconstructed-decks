@@ -83,5 +83,3 @@ COMMANDER: 1 Obuun, Mul Daya Ancestor [foil]
 4 Mountain
 10 Forest
 1 Struggle // Survive
-
-Sideboard

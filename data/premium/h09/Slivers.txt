@@ -42,5 +42,3 @@
 2 Swamp [foil]
 3 Mountain [foil]
 5 Forest [foil]
-
-Sideboard

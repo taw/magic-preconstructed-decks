@@ -27,5 +27,3 @@
 1 Enslave
 13 Swamp
 11 Mountain
-
-Sideboard

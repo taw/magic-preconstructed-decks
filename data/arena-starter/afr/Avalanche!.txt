@@ -24,5 +24,3 @@
 4 Rimewood Falls
 11 [KHM:284] Snow-Covered Forest
 10 [KHM:278] Snow-Covered Island
-
-Sideboard

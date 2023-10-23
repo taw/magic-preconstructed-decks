@@ -27,5 +27,3 @@
 9 Island*
 2 Azorius Chancery
 1 Prahv, Spires of Order
-
-Sideboard

@@ -4,5 +4,3 @@
 1 [SLD:1072] Mox Opal [foil]
 1 [SLD:1073] Mox Tantalite [foil]
 1 [SLD:1074] Sol Ring [foil]
-
-Sideboard

@@ -15,5 +15,3 @@
 1 Static Net
 6 Plains
 2 Plains [foil]
-
-Sideboard

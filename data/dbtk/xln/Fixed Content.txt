@@ -70,5 +70,3 @@
 20 Mountain
 20 Forest
 4 Evolving Wilds
-
-Sideboard

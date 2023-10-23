@@ -23,5 +23,3 @@
 8 Plains
 1 Gemstone Mine
 2 Terramorphic Expanse
-
-Sideboard

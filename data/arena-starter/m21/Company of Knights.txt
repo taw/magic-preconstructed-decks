@@ -25,5 +25,3 @@
 9 Plains
 1 Temple of Triumph
 4 Wind-Scarred Crag
-
-Sideboard

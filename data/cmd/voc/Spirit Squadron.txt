@@ -80,5 +80,3 @@ COMMANDER: 1 Millicent, Restless Revenant [foil]
 1 Unclaimed Territory
 12 Plains
 11 Island
-
-Sideboard

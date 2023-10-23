@@ -25,5 +25,3 @@
 10 Plains
 2 Selesnya Sanctuary
 1 Vitu-Ghazi, the City-Tree
-
-Sideboard

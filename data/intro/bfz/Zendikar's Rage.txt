@@ -31,5 +31,3 @@
 2 Fertile Thicket
 10 Mountain
 10 Forest
-
-Sideboard

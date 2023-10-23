@@ -25,5 +25,3 @@
 12 Swamp*
 11 Mountain*
 1 Rix Maadi, Dungeon Palace
-
-Sideboard

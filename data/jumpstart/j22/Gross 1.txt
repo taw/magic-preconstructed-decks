@@ -16,5 +16,3 @@
 1 Leechridden Swamp
 1 Thriving Moor
 6 Swamp
-
-Sideboard

@@ -23,5 +23,3 @@
 1 Spider Umbra
 9 Forest
 9 Plains
-
-Sideboard

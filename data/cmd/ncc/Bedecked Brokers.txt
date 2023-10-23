@@ -90,5 +90,3 @@ COMMANDER: 1 Perrie, the Pulverizer [NCC:5] [foil]
 5 Forest
 4 Island
 5 Plains
-
-Sideboard

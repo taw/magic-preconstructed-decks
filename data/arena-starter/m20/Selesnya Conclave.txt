@@ -23,5 +23,3 @@
 1 Temple Garden
 10 Forest
 10 Plains
-
-Sideboard

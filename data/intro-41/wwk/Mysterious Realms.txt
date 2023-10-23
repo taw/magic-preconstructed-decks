@@ -23,5 +23,3 @@
 8 Island
 8 Forest
 2 Halimar Depths
-
-Sideboard

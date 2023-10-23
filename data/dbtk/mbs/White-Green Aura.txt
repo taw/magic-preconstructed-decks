@@ -10,5 +10,3 @@
 1 Spider Umbra
 1 Hyena Umbra
 2 Aura Gnarlid
-
-Sideboard

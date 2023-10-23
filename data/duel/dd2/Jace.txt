@@ -31,5 +31,3 @@
 1 Mind Stone
 23 Island
 1 Terrain Generator
-
-Sideboard

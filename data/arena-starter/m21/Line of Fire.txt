@@ -25,5 +25,3 @@
 9 Mountain
 10 Swamp
 1 Temple of Malice
-
-Sideboard

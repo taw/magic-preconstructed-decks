@@ -29,5 +29,3 @@
 1 Dimir Guildgate
 12 Island
 13 Swamp
-
-Sideboard

@@ -24,5 +24,3 @@
 12 Plains
 5 Mountain
 1 Terramorphic Expanse
-
-Sideboard

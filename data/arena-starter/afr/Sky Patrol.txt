@@ -23,5 +23,3 @@
 11 Plains
 1 Hengegate Pathway
 4 Glacial Floodplain
-
-Sideboard

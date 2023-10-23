@@ -32,5 +32,3 @@
 1 Mosswort Bridge
 1 Treetop Village
 18 Forest
-
-Sideboard

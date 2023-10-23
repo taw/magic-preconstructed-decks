@@ -89,5 +89,3 @@ COMMANDER: 1 Henzie "Toolbox" Torre [NCC:2] [foil]
 4 Swamp
 5 Mountain
 6 Forest
-
-Sideboard

@@ -32,5 +32,3 @@
 1 Subterranean Hangar
 12 Swamp
 8 Mountain
-
-Sideboard

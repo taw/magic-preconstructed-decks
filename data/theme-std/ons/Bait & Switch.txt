@@ -27,5 +27,3 @@
 9 Swamp
 2 Barren Moor
 2 Lonely Sandbar
-
-Sideboard

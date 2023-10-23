@@ -25,5 +25,3 @@
 1 Clearwater Pathway
 4 Ice Tunnel
 1 Port of Karfell
-
-Sideboard

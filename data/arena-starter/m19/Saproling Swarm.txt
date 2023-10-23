@@ -23,5 +23,3 @@
 1 Woodland Cemetery
 10 Forest
 4 Foul Orchard
-
-Sideboard

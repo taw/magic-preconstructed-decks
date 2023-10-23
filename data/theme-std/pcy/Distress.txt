@@ -32,5 +32,3 @@
 9 Plains*
 11 Swamp*
 1 Peat Bog*
-
-Sideboard

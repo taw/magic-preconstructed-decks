@@ -26,5 +26,3 @@
 12 Mountain
 12 Forest
 2 Oxidda Scrapmelter
-
-Sideboard

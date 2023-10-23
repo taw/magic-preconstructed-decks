@@ -26,5 +26,3 @@
 9 Plains
 4 Wind-Scarred Crag
 1 Sundown Pass
-
-Sideboard

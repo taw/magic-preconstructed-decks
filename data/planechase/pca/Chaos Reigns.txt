@@ -42,5 +42,3 @@
 2 Swamp
 1 Terramorphic Expanse
 1 Vivid Creek
-
-Sideboard

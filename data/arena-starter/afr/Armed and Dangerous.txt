@@ -27,5 +27,3 @@
 10 Mountain
 1 [ZNR:263a] Needleverge Pathway
 8 Plains
-
-Sideboard

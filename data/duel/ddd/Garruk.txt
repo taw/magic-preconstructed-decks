@@ -29,5 +29,3 @@
 21 Forest
 2 Slippery Karst
 1 Treetop Village
-
-Sideboard

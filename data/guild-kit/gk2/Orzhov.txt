@@ -38,5 +38,3 @@
 4 Orzhov Guildgate
 8 Plains
 8 Swamp
-
-Sideboard

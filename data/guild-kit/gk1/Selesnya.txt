@@ -35,5 +35,3 @@
 4 Selesnya Sanctuary
 8 Plains
 8 Forest
-
-Sideboard

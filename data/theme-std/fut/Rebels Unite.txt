@@ -26,5 +26,3 @@
 12 Plains*
 10 Swamp*
 2 Terramorphic Expanse*
-
-Sideboard

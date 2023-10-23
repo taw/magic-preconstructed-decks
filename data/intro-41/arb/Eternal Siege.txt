@@ -24,5 +24,3 @@
 8 Forest
 8 Plains
 2 Terramorphic Expanse
-
-Sideboard

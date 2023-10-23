@@ -27,5 +27,3 @@
 1 Banishing Light
 15 Swamp
 11 Plains
-
-Sideboard

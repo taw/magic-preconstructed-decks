@@ -22,5 +22,3 @@
 9 Forest
 8 Mountain
 1 Terramorphic Expanse
-
-Sideboard

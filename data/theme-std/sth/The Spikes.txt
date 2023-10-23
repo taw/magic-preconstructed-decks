@@ -24,5 +24,3 @@
 2 Heartstone
 12 Forest*
 9 Mountain*
-
-Sideboard

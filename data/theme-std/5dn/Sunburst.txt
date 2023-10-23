@@ -28,5 +28,3 @@
 3 Mountain*
 9 Forest*
 2 Mirrodin's Core**
-
-Sideboard

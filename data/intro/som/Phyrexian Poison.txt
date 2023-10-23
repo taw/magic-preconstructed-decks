@@ -23,5 +23,3 @@
 1 Relic Putrescence
 13 Swamp
 13 Forest
-
-Sideboard
