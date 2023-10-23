@@ -1,6 +1,7 @@
 // NAME: Masters of Evil
 // SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-doctor-who-commander-decklists
 // DATE: 2023-10-13
+1 Missy [foil] [WHO:8]
 1 Auton Soldier
 1 The Flood of Mars
 1 Cyber Conversion
@@ -99,9 +100,6 @@
 
 Commander
 1 Davros, Dalek Creator [foil] [WHO:1]
-
-Alternative Commander
-1 Missy [foil] [WHO:8]
 
 Planar Deck
 1 City of the Daleks

@@ -16,7 +16,7 @@ class Deck
 
     main_lines.each do |line|
       case line
-      when "Main Deck", "Alternative Commander"
+      when "Main Deck"
         section_name = "Main Deck"
         next
       when "Sideboard", "Planar Deck"
