@@ -38,7 +38,7 @@
 1 Skarrg, the Rage Pits
 1 Terramorphic Expanse
 
-Sideboard
+Planar Deck
 1 Furnace Layer
 1 Jund
 1 Kilnspire District

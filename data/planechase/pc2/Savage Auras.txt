@@ -39,7 +39,7 @@
 1 Terramorphic Expanse
 1 Vitu-Ghazi, the City-Tree
 
-Sideboard
+Planar Deck
 1 Akoum
 1 Aretopolis
 1 Astral Arena

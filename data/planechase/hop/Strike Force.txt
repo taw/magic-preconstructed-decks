@@ -41,7 +41,7 @@
 2 Terramorphic Expanse
 1 Order // Chaos
 
-Sideboard
+Planar Deck
 1 Academy at Tolaria West
 1 Agyrem
 1 Glimmervoid Basin

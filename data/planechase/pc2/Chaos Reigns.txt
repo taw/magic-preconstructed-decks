@@ -42,7 +42,7 @@
 1 Terramorphic Expanse
 1 Vivid Creek
 
-Sideboard
+Planar Deck
 1 Grand Ossuary
 1 Hedron Fields of Agadeem
 1 Mount Keralia

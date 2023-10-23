@@ -37,7 +37,7 @@
 1 Tainted Isle
 1 Terramorphic Expanse
 
-Sideboard
+Planar Deck
 1 Bloodhill Bastion
 1 Gavony
 1 Glen Elendra

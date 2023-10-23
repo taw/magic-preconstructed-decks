@@ -81,7 +81,7 @@ COMMANDER: 1 Brimaz, Blight of Oreskos [foil]
 10 Plains
 13 Swamp
 
-Sideboard
+Planar Deck
 1 Esper
 1 Ketria
 1 Naktamun

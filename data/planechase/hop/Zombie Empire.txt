@@ -34,7 +34,7 @@
 1 Cabal Coffers
 2 Leechridden Swamp
 
-Sideboard
+Planar Deck
 1 The Aether Flues
 1 Cliffside Market
 1 The Dark Barony

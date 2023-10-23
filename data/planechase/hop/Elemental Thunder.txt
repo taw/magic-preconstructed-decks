@@ -40,7 +40,7 @@
 2 Terramorphic Expanse
 1 Assault // Battery
 
-Sideboard
+Planar Deck
 1 Eloren Wilds
 1 Feeding Grounds
 1 The Great Forest

@@ -86,7 +86,7 @@ COMMANDER: 1 Sidar Jabari of Zhalfir [foil]
 6 Island
 5 Swamp
 
-Sideboard
+Planar Deck
 1 The Caldaia
 1 Inys Haen
 1 Littjara
