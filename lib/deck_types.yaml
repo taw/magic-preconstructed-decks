@@ -18,6 +18,16 @@ archenemy:
   sections:
     Main Deck: 60
     Scheme Deck: [0, 20]
+# https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
+# There are two versions of the Starter Kits (the Demo Decks used in-store as part of the new player experience kit,
+# and a version sold through Amazon).
+# The differences are that the Amazon-version includes a code for the decks in of MTG Arena, while the in-store version does not,
+# also the Amazon-version includes a second Ironscale Hydra and Demon of Loathing (both regular and foil)
+# in lieu of Vito, Thorn of the Dusk Rose and Kogla, the Titan Ape. In addition, the in-store Arena Starter Kit Demo Decks
+# may vary globally — some regions receive different decks.
+#
+# So it's not really a sideboard, but I don't see better category for it.
+# I guess we could list 2 separate versions of these decks?
 arena-kit:
   category: "deck"
   format: "arena"
@@ -31,6 +41,11 @@ arena-promo:
   name: "Arena Promotional Deck"
   sections:
     Main Deck: 60
+# From https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+# Five monocolored decks are unlocked after the tutorial and can be upgraded by completing the new player Color Challenges.
+# Cards that are replaced through these upgrades are automatically moved to the sideboard.
+#
+# So it's not really a sideboard, but I don't see better category for it.
 arena-starter-std:
   category: "deck"
   format: "arena"
