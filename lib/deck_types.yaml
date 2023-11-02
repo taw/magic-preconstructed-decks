@@ -17,7 +17,7 @@ archenemy:
   name: "Archenemy Deck"
   sections:
     Main Deck: 60
-    Sideboard: [0, 20]
+    Scheme Deck: [0, 20]
 arena-kit:
   category: "deck"
   format: "arena"

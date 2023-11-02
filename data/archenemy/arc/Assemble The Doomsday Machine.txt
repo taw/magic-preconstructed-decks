@@ -39,7 +39,7 @@
 5 Swamp
 2 Terramorphic Expanse
 
-Sideboard
+Scheme Deck
 1 All in Good Time
 1 Behold the Power of Destruction
 1 Embrace My Diabolical Vision

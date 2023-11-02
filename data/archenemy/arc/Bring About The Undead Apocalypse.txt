@@ -37,7 +37,7 @@
 2 Rakdos Carnarium
 13 Swamp
 
-Sideboard
+Scheme Deck
 2 Choose Your Champion
 1 Dance, Pathetic Marionette
 2 The Dead Shall Serve

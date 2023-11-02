@@ -38,7 +38,7 @@
 1 Dragonskull Summit
 1 Grixis Panorama
 
-Sideboard
+Scheme Deck
 1 A Reckoning Approaches
 1 Because I Have Willed It
 1 Behold My Grandeur

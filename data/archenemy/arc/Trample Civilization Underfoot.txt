@@ -43,7 +43,7 @@
 1 Tranquil Thicket
 1 Vitu-Ghazi, the City-Tree
 
-Sideboard
+Scheme Deck
 2 Every Last Vestige Shall Rot
 1 Evil Comes to Fruition
 1 I Call on the Ancient Magics

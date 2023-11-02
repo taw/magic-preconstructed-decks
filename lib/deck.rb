@@ -18,7 +18,7 @@ class Deck
     main_lines.each do |line|
       case line
       # All known sections
-      when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck"
+      when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck", "Scheme Deck"
         section_name = line
         next
       end

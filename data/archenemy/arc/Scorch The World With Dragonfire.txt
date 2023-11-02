@@ -34,7 +34,7 @@
 5 Forest
 2 Kazandu Refuge
 
-Sideboard
+Scheme Deck
 2 All Shall Smolder in My Wake
 1 Approach My Molten Realm
 1 I Delight in Your Convulsions
