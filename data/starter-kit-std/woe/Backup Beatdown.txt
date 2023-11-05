@@ -1,0 +1,29 @@
+// NAME: Backup Beatdown
+// SOURCE: https://magic.wizards.com/en/news/announcements/starter-kit-2023-decklists
+// DATE: 2023-09-08
+1 Boon-Bringer Valkyrie
+1 In the Trenches
+1 Silverback Elder
+1 Dusk Legion Duelist
+1 Siege Veteran
+1 Ancient Imperiosaur
+1 Quirion Beastcaller
+1 Simian Simulacrum
+2 Recruitment Officer
+2 Storm the Seedcore
+2 Samite Herbalist
+2 Sigiled Sentinel
+3 Mesa Cavalier
+3 Cooped Up
+2 Iridescent Blademaster
+2 Chomping Kavu
+2 Magnigoth Sentry
+1 Giant Growth
+1 Titanic Growth
+2 Broken Wings
+2 Fairgrounds Trumpeter
+4 Blossoming Sands
+12 Forest
+10 Plains
+
+Sideboard

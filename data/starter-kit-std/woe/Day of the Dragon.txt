@@ -1,0 +1,26 @@
+// NAME: Day of the Dragon
+// SOURCE: https://magic.wizards.com/en/news/announcements/starter-kit-2023-decklists
+// DATE: 2023-09-08
+1 Tyrant of Kher Ridges
+1 Sarkhan, Soul Aflame
+1 Shivan Devastator
+1 Ragefire Hellkite
+1 Aether Channeler
+1 Ingenious Prodigy
+1 Dragonwing Glider
+1 Goddric, Cloaked Reveler
+3 Kolaghan Warmonger
+2 Archive Dragon
+3 Dragon Whelp
+3 Witchstalker Frenzy
+1 Shivan Branch-Burner
+2 Quick Study
+4 Stormkeld Prowler
+3 Stasis Field
+3 Lightning Strike
+2 Roc Hunter
+4 Swiftwater Cliffs
+11 Island
+11 Mountain
+
+Sideboard
