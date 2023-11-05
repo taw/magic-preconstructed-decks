@@ -1,0 +1,87 @@
+// NAME: Explorers of the Deep
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lost-caverns-of-ixalan-commander-decklists
+// DATE: 2023-11-17
+COMMANDER: 1 Hakbal of the Surging Soul [foil]
+1 Xolatoyac, the Smiling Flood [foil]
+1 Mist Dancer
+1 Ripples of Potential
+1 Wave Goodbye
+1 Bygone Marvels
+1 Deeproot Historian
+1 Topography Tracker
+1 Tributary Instructor
+1 Singer of Swift Rivers
+1 Benthic Biomancer
+1 Commit // Memory
+1 Coralhelm Commander
+1 Curse of the Swine
+1 Emperor Mihail II
+1 Herald of Secret Streams
+1 Kindred Discovery
+1 Kopala, Warden of Waves
+1 Master of the Pearl Trident
+1 Merfolk Sovereign
+1 Reflections of Littjara
+1 Seafloor Oracle
+1 Surgespanner
+1 Svyelun of Sea and Sky
+1 Thassa, God of the Sea
+1 Thieving Skydiver
+1 Branching Evolution
+1 Deeproot Elite
+1 Hardened Scales
+1 Realmwalker
+1 Ruinous Intrusion
+1 Cold-Eyed Selkie
+1 Kumena, Tyrant of Orazca
+1 Prime Speaker Zegana
+1 Quandrix Command
+1 Simic Ascendancy
+1 Tishana, Voice of Thunder
+1 Vorel of the Hull Clade
+1 Zegana, Utopian Speaker
+1 Metallic Mimic
+1 Alchemist's Refuge
+1 Hinterland Harbor
+1 Karn's Bastion
+1 Mosswort Bridge
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Merfolk Cave-Diver
+1 Aetherize
+1 Deeproot Waters
+1 Merrow Reejerey
+1 Rapid Hybridization
+1 Ravenform
+1 Sage of Fables
+1 Stonybrook Banneret
+1 Beast Within
+1 Nicanzil, Current Conductor
+1 Evolution Sage
+1 Explore
+1 Inspiring Call
+1 Kodama's Reach
+1 Growth Spiral
+1 Kiora's Follower
+1 Merfolk Mistbinder
+1 Merfolk Skydiver
+1 Tatyova, Benthic Druid
+1 Arcane Signet
+1 Commander's Sphere
+1 Simic Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Command Tower
+1 Llanowar Reborn
+1 Myriad Landscape
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rogue's Passage
+1 Secluded Courtyard
+1 Simic Growth Chamber
+1 Temple of the False God
+1 Unclaimed Territory
+7 Forest
+13 Island
+
+Sideboard
