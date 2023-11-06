@@ -76,3 +76,8 @@ COMMANDER: 1 Zedruu the Greathearted
 8 Mountain
 8 Plains
 12 Island
+
+Display Commander
+1 Numot, the Devastator [ocmd] [foil]
+1 Ruhan of the Fomori [ocmd] [foil]
+1 Zedruu the Greathearted [ocmd] [foil]

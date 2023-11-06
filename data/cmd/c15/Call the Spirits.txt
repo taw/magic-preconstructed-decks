@@ -79,3 +79,6 @@ COMMANDER: 1 Daxos the Returned
 1 Vivid Meadow
 11 Plains
 13 Swamp
+
+Display Commander
+1 Daxos the Returned [oc15] [foil]

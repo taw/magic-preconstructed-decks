@@ -82,3 +82,8 @@ COMMANDER: 1 Jeleva, Nephalia's Scourge
 1 Urza's Factory
 1 Vivid Creek
 1 Vivid Marsh
+
+Display Commander
+1 Jeleva, Nephalia's Scourge [oc13] [foil]
+1 Nekusar, the Mindrazer [oc13] [foil]
+1 Thraximundar [oc13] [foil]

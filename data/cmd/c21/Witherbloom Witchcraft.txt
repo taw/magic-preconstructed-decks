@@ -81,3 +81,6 @@ COMMANDER: 1 Willowdusk, Essence Seer [foil]
 1 Alhammarret's Archive
 1 Venser's Journal
 1 Rogue's Passage
+
+Display Commander
+1 Willowdusk, Essence Seer [oc21] [foil]

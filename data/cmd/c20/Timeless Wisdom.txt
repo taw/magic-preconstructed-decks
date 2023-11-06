@@ -89,3 +89,6 @@ COMMANDER: 1 Gavi, Nest Warden [foil]
 5 Island
 6 Mountain
 4 Plains
+
+Display Commander
+1 Gavi, Nest Warden [oc20] [foil]

@@ -88,3 +88,6 @@ COMMANDER: 1 Aminatou, the Fateshifter [foil]
 1 Geode Golem
 1 Forge of Heroes
 1 Crib Swap
+
+Display Commander
+1 Aminatou, the Fateshifter [oc18] [foil]

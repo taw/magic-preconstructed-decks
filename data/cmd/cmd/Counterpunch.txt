@@ -78,3 +78,8 @@ COMMANDER: 1 Ghave, Guru of Spores
 8 Swamp
 10 Forest
 8 Plains
+
+Display Commander
+1 Ghave, Guru of Spores [ocmd] [foil]
+1 Karador, Ghost Chieftain [ocmd] [foil]
+1 Teneb, the Harvester [ocmd] [foil]

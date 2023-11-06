@@ -88,3 +88,6 @@ COMMANDER: 1 The Ur-Dragon [foil]
 1 Vivid Grove
 1 Vivid Marsh
 1 Vivid Meadow
+
+Display Commander
+1 The Ur-Dragon [oc17] [foil]

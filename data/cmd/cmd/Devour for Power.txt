@@ -77,3 +77,8 @@ COMMANDER: 1 The Mimeoplasm
 8 Forest
 8 Island
 11 Swamp
+
+Display Commander
+1 Damia, Sage of Stone [ocmd] [foil]
+1 The Mimeoplasm [ocmd] [foil]
+1 Vorosh, the Hunter [ocmd] [foil]

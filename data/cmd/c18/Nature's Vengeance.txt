@@ -86,3 +86,6 @@ COMMANDER: 1 Lord Windgrace [foil]
 1 Loyal Apprentice
 1 Loyal Guardian
 1 Forge of Heroes
+
+Display Commander
+1 Lord Windgrace [oc18] [foil]

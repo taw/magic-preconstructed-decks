@@ -85,3 +85,6 @@ COMMANDER: 1 Yidris, Maelstrom Wielder [foil]
 5 Swamp
 5 Mountain
 5 Forest
+
+Display Commander
+1 Yidris, Maelstrom Wielder [oc16] [foil]

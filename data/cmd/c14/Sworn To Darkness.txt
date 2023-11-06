@@ -70,3 +70,6 @@ COMMANDER: 1 Ob Nixilis of the Black Oath
 1 Myriad Landscape
 1 Polluted Mire
 32 Swamp
+
+Display Commander
+1 Ob Nixilis of the Black Oath [oc14] [foil]

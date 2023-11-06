@@ -85,3 +85,6 @@ COMMANDER: 1 Ghired, Conclave Exile [foil]
 1 Rugged Highlands
 1 Selesnya Sanctuary
 1 Terramorphic Expanse
+
+Display Commander
+1 Ghired, Conclave Exile [oc19] [foil]

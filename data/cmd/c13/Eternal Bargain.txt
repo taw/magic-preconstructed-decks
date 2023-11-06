@@ -80,3 +80,8 @@ COMMANDER: 1 Oloro, Ageless Ascetic
 9 Swamp
 1 Temple of the False God
 1 Transguild Promenade
+
+Display Commander
+1 Oloro, Ageless Ascetic [oc13] [foil]
+1 Sharuum the Hegemon [oc13] [foil]
+1 Sydri, Galvanic Genius [oc13] [foil]

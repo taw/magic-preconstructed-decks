@@ -90,3 +90,6 @@ COMMANDER: 1 Arahbo, Roar of the World [foil]
 1 Tranquil Thicket
 1 Vivid Meadow
 1 Vivid Grove
+
+Display Commander
+1 Arahbo, Roar of the World [oc17] [foil]

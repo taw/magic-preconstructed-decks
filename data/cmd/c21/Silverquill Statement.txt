@@ -79,3 +79,6 @@ COMMANDER: 1 Breena, the Demagogue [foil]
 1 Debtors' Knell
 1 Ambition's Cost
 1 Rogue's Passage
+
+Display Commander
+1 Breena, the Demagogue [oc21] [foil]

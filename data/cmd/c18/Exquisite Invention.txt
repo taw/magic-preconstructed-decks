@@ -76,3 +76,6 @@ COMMANDER: 1 Saheeli, the Gifted [foil]
 1 Geode Golem
 1 Thopter Engineer
 1 Forge of Heroes
+
+Display Commander
+1 Saheeli, the Gifted [oc18] [foil]

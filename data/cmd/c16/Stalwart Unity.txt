@@ -85,3 +85,6 @@ COMMANDER: 1 Kynaios and Tiro of Meletis [foil]
 5 Island
 5 Mountain
 5 Forest
+
+Display Commander
+1 Kynaios and Tiro of Meletis [oc16] [foil]

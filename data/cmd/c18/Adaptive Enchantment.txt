@@ -81,3 +81,6 @@ COMMANDER: 1 Estrid, the Masked [foil]
 1 Loyal Drake
 1 Loyal Guardian
 1 Forge of Heroes
+
+Display Commander
+1 Estrid, the Masked [oc18] [foil]

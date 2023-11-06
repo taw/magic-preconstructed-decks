@@ -84,3 +84,8 @@ COMMANDER: 1 Derevi, Empyrial Tactician
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Transguild Promenade
+
+Display Commander
+1 Derevi, Empyrial Tactician [oc13] [foil]
+1 Roon of the Hidden Realm [oc13] [foil]
+1 Rubinia Soulsinger [oc13] [foil]

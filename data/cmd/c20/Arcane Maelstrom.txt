@@ -86,3 +86,6 @@ COMMANDER: 1 Kalamax, the Stormsire [foil]
 8 Forest
 5 Island
 5 Mountain
+
+Display Commander
+1 Kalamax, the Stormsire [oc20] [foil]

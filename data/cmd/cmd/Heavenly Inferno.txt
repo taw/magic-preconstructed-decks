@@ -80,3 +80,8 @@ COMMANDER: 1 Kaalia of the Vast
 8 Plains
 8 Swamp
 8 Mountain
+
+Display Commander
+1 Kaalia of the Vast [ocmd] [foil]
+1 Oros, the Avenger [ocmd] [foil]
+1 Tariel, Reckoner of Souls [ocmd] [foil]

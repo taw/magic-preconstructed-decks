@@ -84,3 +84,6 @@ COMMANDER: 1 Zaffai, Thunder Conductor [foil]
 1 Brass's Bounty
 1 Sunbird's Invocation
 1 Pyromancer's Goggles
+
+Display Commander
+1 Zaffai, Thunder Conductor [oc21] [foil]

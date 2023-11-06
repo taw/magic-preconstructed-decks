@@ -78,3 +78,6 @@ COMMANDER: 1 Kalemne, Disciple of Iroas
 14 Mountain
 11 Plains
 1 Crib Swap
+
+Display Commander
+1 Kalemne, Disciple of Iroas [oc15] [foil]

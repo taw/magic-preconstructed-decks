@@ -86,3 +86,6 @@ COMMANDER: 1 Kathril, Aspect Warper [foil]
 7 Plains
 7 Swamp
 4 Forest
+
+Display Commander
+1 Kathril, Aspect Warper [oc20] [foil]

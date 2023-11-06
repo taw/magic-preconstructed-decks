@@ -78,3 +78,6 @@ COMMANDER: 1 Meren of Clan Nel Toth
 1 Vivid Marsh
 13 Swamp
 12 Forest
+
+Display Commander
+1 Meren of Clan Nel Toth [oc15] [foil]

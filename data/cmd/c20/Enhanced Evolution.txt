@@ -86,3 +86,6 @@ COMMANDER: 1 Otrimi, the Ever-Playful [foil]
 5 Swamp
 11 Forest
 2 Island
+
+Display Commander
+1 Otrimi, the Ever-Playful [oc20] [foil]
