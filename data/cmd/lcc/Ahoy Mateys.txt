@@ -3,14 +3,14 @@
 // DATE: 2023-11-17
 COMMANDER: 1 Admiral Brass, Unsinkable [foil]
 1 Don Andres, the Renegade [foil]
-1 The Indomitable
-1 Storm Fleet Negotiator
-1 Francisco, Fowl Marauder
-1 The Grim Captain's Locker
-1 Skeleton Crew
-1 Broadside Bombardiers
-1 Gemcutter Buccaneer
-1 Arm-Mounted Anchor
+1 The Indomitable [LCC:75]
+1 Storm Fleet Negotiator [LCC:78]
+1 Francisco, Fowl Marauder [LCC:81]
+1 The Grim Captain's Locker [LCC:82]
+1 Skeleton Crew [LCC:85]
+1 Broadside Bombardiers [LCC:86]
+1 Gemcutter Buccaneer [LCC:87]
+1 Arm-Mounted Anchor [LCC:99]
 1 Amphin Mutineer
 1 Bident of Thassa
 1 Corsair Captain
