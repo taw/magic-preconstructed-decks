@@ -1,0 +1,7 @@
+// NAME: Ponies: The Galloping 2 foil
+// DATE: 2023-09-18
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Ponies:_The_Galloping_2_-_Extra_Life_2023
+1 [SLD:1537] Applejack [foil]
+1 [SLD:1538] Fluttershy [foil]
+1 [SLD:1539] Pinkie Pie [foil]
+1 [SLD:1540] Rainbow Dash [foil]

@@ -1,0 +1,7 @@
+// NAME: Now on VHS foil
+// DATE: 2023-08-29
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Fall_Superdrop_2023
+1 [SLD:1368] Rewind [foil]
+1 [SLD:1369] Food Chain [foil]
+1 [SLD:1370] Rampant Growth [foil]
+1 [SLD:1371] The First Sliver [foil]

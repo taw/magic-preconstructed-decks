@@ -1,0 +1,12 @@
+// NAME: The Princess Bride
+// DATE: 2023-10-02
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
+1 [SLD:1444] Sisay, Weatherlight Captain
+1 [SLD:1445] Silence
+1 [SLD:1446] Battle of Wits
+1 [SLD:1447] Baral, Chief of Compliance
+1 [SLD:1448] Pack Rat
+1 [SLD:1449] Fynn, the Fangbearer
+1 [SLD:1450] Brion Stoutarm
+1 [SLD:1451] Samut, Voice of Dissent
+1 [SLD:1452] Marchesa, the Black Rose

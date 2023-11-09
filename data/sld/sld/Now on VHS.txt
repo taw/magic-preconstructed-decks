@@ -1,0 +1,7 @@
+// NAME: Now on VHS
+// DATE: 2023-08-29
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Fall_Superdrop_2023
+1 [SLD:1368] Rewind
+1 [SLD:1369] Food Chain
+1 [SLD:1370] Rampant Growth
+1 [SLD:1371] The First Sliver
