@@ -1,8 +1,8 @@
 // NAME: Creepshow
 // DATE: 2023-10-02
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
-1 [SLD:1458] Death Baron
-1 [SLD:1459] Noxious Ghoul
-1 [SLD:1460] Zombie Master
-1 [SLD:1461] Grimgrin, Corpse-Born
-1 [SLD:1462] Unholy Grotto
+1 [SLD:1458a] Death Baron
+1 [SLD:1459a] Noxious Ghoul
+1 [SLD:1460a] Zombie Master
+1 [SLD:1461a] Grimgrin, Corpse-Born
+1 [SLD:1462a] Unholy Grotto
