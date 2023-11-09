@@ -5,5 +5,5 @@
 1 [SLD:1073] Mox Tantalite [foil]
 1 [SLD:1074] Sol Ring [foil]
 
-Sideboard:
+Sideboard
 1 [SLD:589] Arcane Signet [foil]

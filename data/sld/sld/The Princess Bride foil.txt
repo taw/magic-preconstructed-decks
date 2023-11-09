@@ -1,7 +1,7 @@
 // NAME: The Princess Bride foil
 // DATE: 2023-10-02
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
-1 [SLD:1444] Sissay, Weatherlight Captain [foil]
+1 [SLD:1444] Sisay, Weatherlight Captain [foil]
 1 [SLD:1445] Silence [foil]
 1 [SLD:1446] Battle of Wits [foil]
 1 [SLD:1447] Baral, Chief of Compliance [foil]

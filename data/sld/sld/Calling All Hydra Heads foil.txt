@@ -5,5 +5,5 @@
 1 [SLD:1330] Primordial Hydra [foil]
 1 [SLD:1331] Unbound Flourishing [foil]
 1 [SLD:1332] Hydroid Krasis [foil]
-1 [SLD:1333] Zaxara, The Exemplary [foil]
+1 [SLD:1333] Zaxara, the Exemplary [foil]
 1 [SLD:1334] Hydra token [token] [foil]
