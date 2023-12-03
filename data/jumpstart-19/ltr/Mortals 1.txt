@@ -1,0 +1,18 @@
+// NAME: Mortals 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random white rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Eagle of Deliverance
+1 Took Reaper
+1 Eastfarthing Farmer
+1 Soldier of the Grey Host
+1 Second Breakfast
+1 Fog on the Barrow-Downs
+1 Banish from Edoras
+1 Shire Shirriff
+1 Éowyn, Lady of Rohan
+1 Faramir, Field Commander
+1 Barrow-Blade
+8 Plains
+
+Sideboard

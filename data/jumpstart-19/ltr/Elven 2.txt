@@ -1,0 +1,18 @@
+// NAME: Elven 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random green rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Mirkwood Channeler
+1 Mirkwood Spider
+1 Lothlórien Lookout
+1 Chance-Met Elves
+1 Galadhrim Guide
+1 Bombadil's Song
+1 Revive the Shire
+1 Celeborn the Wise
+1 Quickbeam, Upstart Ent
+1 Stew the Coneys
+1 Ent-Draught Basin
+8 Forest
+
+Sideboard

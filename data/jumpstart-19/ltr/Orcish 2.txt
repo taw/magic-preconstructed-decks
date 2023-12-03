@@ -1,0 +1,18 @@
+// NAME: Orcish 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random black rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Warg Rider
+1 Easterling Vanguard
+1 Mordor Muster
+1 Dunland Crebain
+1 Mordor Trebuchet
+1 Lash of the Balrog
+1 Nasty End
+1 Gorbag of Minas Morgul
+1 Gothmog, Morgul Lieutenant
+1 Voracious Fell Beast
+1 March from the Black Gate
+8 Swamp
+
+Sideboard
