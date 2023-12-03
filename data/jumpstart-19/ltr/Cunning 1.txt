@@ -1,0 +1,18 @@
+// NAME: Cunning 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random blue rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Minas Tirith Garrison
+1 Pelargir Survivor
+1 Captain of Umbar
+1 Knights of Dol Amroth
+1 Bewitching Leechcraft
+1 Glorious Gale
+1 Arwen's Gift
+1 Ioreth of the Healing House
+1 Meneldor, Swift Savior
+1 Horses of the Bruinen
+1 The Bath Song
+8 Island
+
+Sideboard

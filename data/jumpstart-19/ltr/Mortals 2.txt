@@ -1,0 +1,18 @@
+// NAME: Mortals 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random white rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Eagle of Deliverance
+1 East-Mark Cavalier
+1 Took Reaper
+1 Errand-Rider of Gondor
+1 Slip On the Ring
+1 Banish from Edoras
+1 Samwise the Stouthearted
+1 Faramir, Field Commander
+1 Landroval, Horizon Witness
+1 Reprieve
+1 Inherited Envelope
+8 Plains
+
+Sideboard

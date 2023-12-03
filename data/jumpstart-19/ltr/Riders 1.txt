@@ -1,0 +1,18 @@
+// NAME: Riders 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-lord-of-the-rings-tales-of-middle-earth-jumpstart-booster-contents
+// DISPLAY: Also contains 1 random red rare or mythic rare from the base set.
+// DATE: 2023-11-3
+1 Riders of the Mark
+1 Rohirrim Lancer
+1 Rally at the Hornburg
+1 Relentless Rohirrim
+1 Gimli's Fury
+1 Smite the Deathless
+1 Quarrel's End
+1 Erkenbrand, Lord of Westfold
+1 Éomer of the Riddermark
+1 Rising of the Day
+1 Fear, Fire, Foes!
+8 Mountain
+
+Sideboard
