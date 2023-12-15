@@ -37,9 +37,14 @@ class Deck
       set = nil
       number = nil
       token = nil
+      etched = nil
 
       if name.sub!(/\[foil\]/i, "")
         foil = true
+      end
+
+      if name.sub!(/\[etched\]/i, "")
+        etched = true
       end
 
       if name.sub!(/\[token\]/i, "")
@@ -66,6 +71,7 @@ class Deck
         number: number,
         foil: foil,
         token: token,
+        etched: etched,
       )
     end
   end
