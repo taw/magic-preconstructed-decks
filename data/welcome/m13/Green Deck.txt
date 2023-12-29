@@ -1,0 +1,20 @@
+// NAME: Green Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
+// DATE: 2012-07-13
+12 Forest
+1 Borderland Ranger
+2 Centaur Courser
+1 Deadly Recluse
+2 Duskdale Wurm
+1 Elvish Visionary
+1 Primal Huntbeast
+1 Sentinel Spider
+1 Spiked Baloth
+1 Fog
+2 Titanic Growth
+1 Bountiful Harvest
+2 Prey Upon
+1 Ranger's Path
+1 Revive
+
+Sideboard

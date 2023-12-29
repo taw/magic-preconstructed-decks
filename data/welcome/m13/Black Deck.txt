@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
+// DATE: 2012-07-13
+13 Swamp
+1 Bloodhunter Bat
+1 Giant Scorpion
+1 Liliana's Shade
+2 Renegade Demon
+2 Tormented Soul
+1 Vampire Nighthawk
+2 Walking Corpse
+1 Cower in Fear
+2 Murder
+1 Disentomb
+1 Mind Rot
+1 Rise from the Grave
+1 Crippling Blight
+
+Sideboard
