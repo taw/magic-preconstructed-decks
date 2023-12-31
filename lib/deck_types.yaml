@@ -300,7 +300,7 @@ starter-std:
   format: "casual standard"
   name: "Starter Deck"
   sections:
-    Main Deck: [30, 33]
+    Main Deck: [30, 33, 40]
 starter:
   category: "deck"
   format: "casual"
