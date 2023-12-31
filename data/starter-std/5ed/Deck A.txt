@@ -1,0 +1,27 @@
+// NAME: Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Fifth_Edition/2-Player_Starter_Set
+// DATE: 1997-04-24
+1 Pearled Unicorn
+1 Samite Healer
+1 Bird Maiden
+1 Dwarven Warriors
+1 Hill Giant
+1 Ironclaw Orcs
+1 Mons's Goblin Raiders
+1 Grizzly Bears
+1 Llanowar Elves
+1 Tarpan
+1 Circle of Protection: Black
+1 Firebreathing
+1 Regeneration
+1 Disenchant
+1 Righteousness
+1 Incinerate
+1 Giant Growth
+1 Dancing Scimitar
+3 Plains
+5 Mountain
+3 Forest
+1 City of Brass
+
+Sideboard
