@@ -1,0 +1,31 @@
+// NAME: Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Sixth_Edition/2-Player_Starter_Set
+// DATE: 1999-04-21
+1 Air Elemental
+1 Anaba Bodyguard
+1 D'Avenant Archer
+1 Horned Turtle
+1 Phantom Warrior
+1 Prodigal Sorcerer
+1 Sabretooth Tiger
+1 Sibilant Spirit
+1 Storm Crow
+1 Venerable Monk
+1 Wall of Fire
+1 Wind Drake
+1 Castle
+1 Hero's Resolve
+1 Boomerang
+1 Counterspell
+1 Disenchant
+1 Lightning Blast
+1 Blaze
+1 Fit of Rage
+1 Pyrotechnics
+1 Tremor
+1 Mana Prism
+6 Island
+6 Mountain
+5 Plains
+
+Sideboard

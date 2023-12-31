@@ -1,0 +1,31 @@
+// NAME: Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Sixth_Edition/2-Player_Starter_Set
+// DATE: 1999-04-21
+1 Ardent Militia
+1 Blood Pet
+1 Drudge Skeletons
+1 Giant Spider
+1 Gravebane Zombie
+1 Hidden Horror
+1 Llanowar Elves
+1 Mischievous Poltergeist
+1 Panther Warriors
+1 Samite Healer
+1 Scaled Wurm
+1 Trained Armodon
+1 Call of the Wild
+1 Enfeeblement
+1 Giant Growth
+1 Healing Salve
+1 Terror
+1 Warrior's Honor
+1 Creeping Mold
+1 Raise Dead
+1 Rampant Growth
+1 Obsianus Golem
+1 Rod of Ruin
+7 Forest
+3 Plains
+7 Swamp
+
+Sideboard
