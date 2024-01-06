@@ -163,13 +163,13 @@ halfdeck:
     Main Deck: 30
 intro-26:
   category: "deck"
-  format: "casual"
+  format: "casual standard"
   name: "Intro Pack"
   sections:
     Main Deck: 26
 intro-30:
   category: "deck"
-  format: "casual"
+  format: "casual standard"
   name: "Intro Pack"
   sections:
     Main Deck: 30
@@ -343,19 +343,12 @@ theme:
   name: "Theme Deck"
   sections:
     Main Deck: 60
-wc-special:
+wc:
   category: "deck"
-  format: "casual" # WC97 had special format just for the tournament
+  format: "standard" # WC97 had special format just for the tournament, but it's somehow compatible with Standard?
   name: "World Championship Deck"
   sections:
     Main Deck: [60, 61]
-    Sideboard: 15
-wc:
-  category: "deck"
-  format: "standard"
-  name: "World Championship Deck"
-  sections:
-    Main Deck: 60
     Sideboard: 15
 welcome-booster:
   category: "box"
