@@ -1,0 +1,20 @@
+// NAME: Sneak Attack Amazon
+// SOURCE: https://mtg.fandom.com/wiki/2021_Arena_Starter_Kit
+// DATE: 2021-08-06
+1 Cyclone Summoner [KHM:52]
+1 Archmage Emeritus [STX:37]
+1 Arni Brokenbrow [KHM:120]
+4 Axgard Cavalry [KHM:121]
+1 Calamity Bearer [KHM:125]
+4 Evolving Wilds [AFR:256]
+2 Field Research [ZNR:58]
+4 Frost Trickster [STX:43]
+11 Island [AFR:269]
+1 Mind Flayer [AFR:63] [foil]
+12 Mountain [AFR:277]
+3 Red Dragon [AFR:160]
+4 Run Amok [KHM:147]
+4 Teeterpeak Ambusher [ZNR:169]
+3 Thundering Rebuke [ZNR:170]
+2 Vortex Runner [STX:60]
+2 Wormhole Serpent [STX:62]
