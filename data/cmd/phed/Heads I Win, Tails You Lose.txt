@@ -4,88 +4,88 @@
 // DISPLAY: Also includes one of: foil [SLD:673] Island or foil [SLD:674] Mountain
 COMMANDER: 1 Zndrsplt, Eye of Wisdom [SLD:379a] [foil]
 COMMANDER: 1 Okaun, Eye of Chaos [SLD:380a] [foil]
-1 Daretti, Scrap Savant [foil]
-1 Ral Zarek [foil]
-1 Goblin Kaboomist [foil]
-1 Krark, the Thumbless [foil]
-1 Niv-Mizzet, Parun [foil]
-1 Spark Double [foil]
-1 Frenetic Sliver [foil]
-1 Goblin Archaeologist [foil]
-1 Karplusan Minotaur [foil]
-1 Tavern Scoundrel [foil]
-1 Tribute Mage [foil]
-1 Bloodsworn Steward
-1 Goblin Engineer
-1 The Locust God
-1 Yusri, Fortune's Flame
-1 Mogg Assassin
-1 Sakashima the Impostor
+1 Daretti, Scrap Savant [foil] [PLIST:CM2-4]
+1 Ral Zarek [foil] [PLIST:DGM-94]
+1 Goblin Kaboomist [foil] [PLIST:M15-144]
+1 Krark, the Thumbless [foil] [PLIST:CMR-189]
+1 Niv-Mizzet, Parun [foil] [PLIST:GRN-192]
+1 Spark Double [foil] [PLIST:WAR-68]
+1 Frenetic Sliver [foil] [PLIST:PLC-157]
+1 Goblin Archaeologist [foil] [PLIST:DST-63]
+1 Karplusan Minotaur [foil] [PLIST:CSP-86]
+1 Tavern Scoundrel [foil] [PLIST:MH2-144]
+1 Tribute Mage [foil] [PLIST:MH1-73]
+1 Bloodsworn Steward [PLIST:C17-22]
+1 Goblin Engineer [PLIST:MH1-128]
+1 The Locust God [PLIST:C20-219]
+1 Yusri, Fortune's Flame [PLIST:MH2-218]
+1 Mogg Assassin [PLIST:EXO-88]
+1 Sakashima the Impostor [PLIST:SOK-53]
 1 Stitch in Time [SLD:382a] [foil]
-1 Blasphemous Act [foil]
-1 Fabricate [foil]
-1 Fiery Gambit [foil]
-1 Chandra's Ignition
-1 Gamble
-1 Reshape
-1 Seize the Day
-1 Ponder
-1 Preordain
-1 Serum Visions
-1 Slip Through Space
-1 Squee's Revenge
-1 Vandalblast
-1 Negate [foil]
-1 Chaos Warp
-1 Whir of Invention
-1 Counterspell
-1 Long-Term Plans
-1 Muddle the Mixture
-1 Temur Battle Rage
+1 Blasphemous Act [foil] [PLIST:CMR-162]
+1 Fabricate [foil] [PLIST:M10-52]
+1 Fiery Gambit [foil] [PLIST:MRD-90]
+1 Chandra's Ignition [PLIST:ORI-137]
+1 Gamble [PLIST:UMA-132]
+1 Reshape [PLIST:2XM-64]
+1 Seize the Day [PLIST:UMA-147]
+1 Ponder [PLIST:C21-125]
+1 Preordain [PLIST:CMR-84]
+1 Serum Visions [PLIST:C21-129]
+1 Slip Through Space [PLIST:OGW-47]
+1 Squee's Revenge [PLIST:APC-123]
+1 Vandalblast [PLIST:C15-170]
+1 Negate [foil] [PLIST:ZNR-71]
+1 Chaos Warp [PLIST:C20-146]
+1 Whir of Invention [PLIST:AER-49]
+1 Counterspell [PLIST:CMR-395]
+1 Long-Term Plans [PLIST:SCG-38]
+1 Muddle the Mixture [PLIST:RAV-60]
+1 Temur Battle Rage [PLIST:CMR-417]
 1 Krark's Thumb [SLD:383a] [foil]
-1 Izzet Signet [foil]
-1 Lightning Greaves [foil]
-1 Mind Stone [foil]
-1 Swiftfoot Boots [foil]
-1 Sword of Vengeance [foil]
-1 Thought Vessel [foil]
-1 Whispersilk Cloak [foil]
-1 Boompile
-1 Commander's Plate
-1 Embercleave
-1 Shadowspear
-1 Arcane Signet
-1 Crooked Scales
-1 Sol Ring
-1 Talisman of Creativity
+1 Izzet Signet [foil] [PLIST:MM3-223]
+1 Lightning Greaves [foil] [PLIST:2XM-267]
+1 Mind Stone [foil] [PLIST:IMA-219]
+1 Swiftfoot Boots [foil] [PLIST:A25-234]
+1 Sword of Vengeance [foil] [PLIST:M11-216]
+1 Thought Vessel [foil] [PLIST:CMR-346]
+1 Whispersilk Cloak [foil] [PLIST:M11-221]
+1 Boompile [PLIST:C16-52]
+1 Commander's Plate [PLIST:CMR-305]
+1 Embercleave [PLIST:ELD-120]
+1 Shadowspear [PLIST:THB-236]
+1 Arcane Signet [PLIST:C21-234]
+1 Crooked Scales [PLIST:MMQ-291]
+1 Sol Ring [PLIST:C21-263]
+1 Talisman of Creativity [PLIST:C21-269]
 1 Propaganda [SLD:381a] [foil]
-1 Mirror March
-1 Chance Encounter
-1 Footfall Crater
-1 Impulsive Maneuvers
-1 Planar Chaos
-1 Risky Move
-1 Temple of Epiphany [foil]
-1 Wandering Fumarole [foil]
-1 Buried Ruin [foil]
-1 Great Furnace [foil]
-1 Izzet Boilerworks [foil]
-1 Myriad Landscape [foil]
-1 Path of Ancestry [foil]
-1 Rogue's Passage [foil]
-7 Island [foil]
-8 Mountain [foil]
-1 Academy Ruins
-1 Cascade Bluffs
-1 Desolate Lighthouse
-1 Exotic Orchard
-1 Flamekin Village
-1 Inventors' Fair
-1 Shivan Reef
-1 Spinerock Knoll
-1 Sulfur Falls
-1 Tolaria West
-1 Training Center
-1 Command Tower
-1 Reliquary Tower
-1 Temple of the False God
+1 Mirror March [PLIST:RNA-108]
+1 Chance Encounter [PLIST:ODY-182]
+1 Footfall Crater [PLIST:IKO-118]
+1 Impulsive Maneuvers [PLIST:ODY-197]
+1 Planar Chaos [PLIST:JUD-97]
+1 Risky Move [PLIST:ONS-223]
+1 Temple of Epiphany [foil] [PLIST:M21-252]
+1 Wandering Fumarole [foil] [PLIST:OGW-182]
+1 Buried Ruin [foil] [PLIST:2XM-312]
+1 Great Furnace [foil] [PLIST:MRD-282]
+1 Izzet Boilerworks [foil] [PLIST:IMA-241]
+1 Myriad Landscape [foil] [PLIST:A25-243]
+1 Path of Ancestry [foil] [PLIST:CMR-353]
+1 Rogue's Passage [foil] [PLIST:UMA-250]
+7 Island [foil] [PLIST:BBD-251]
+8 Mountain [foil] [PLIST:BBD-253]
+1 Academy Ruins [PLIST:2XM-309]
+1 Cascade Bluffs [PLIST:2XM-313]
+1 Desolate Lighthouse [PLIST:C20-269]
+1 Exotic Orchard [PLIST:C21-288]
+1 Flamekin Village [PLIST:CM2-251]
+1 Inventors' Fair [PLIST:KLD-247]
+1 Shivan Reef [PLIST:C21-316]
+1 Spinerock Knoll [PLIST:C20-316]
+1 Sulfur Falls [PLIST:DOM-247]
+1 Tolaria West [PLIST:TSR-286]
+1 Training Center [PLIST:CMR-358]
+1 Command Tower [PLIST:C21-284]
+1 Reliquary Tower [PLIST:C21-311]
+1 Temple of the False God [PLIST:C21-326]
