@@ -6,96 +6,98 @@ COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a] [foil]
 1 Bloodline Keeper // Lord of Lineage [SLD:1157a] [foil]
 1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen [SLD:1158a] [foil]
 1 Westvale Abbey // Ormendahl, Profane Prince [SLD:1159a] [foil]
-1 Putrefy
-1 Rhys the Redeemed
-1 Evolving Wilds
-1 Exotic Orchard
-1 Vivid Grove
-1 Arlinn Kord // Arlinn, Embraced by the Moon
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Guardian Project
-1 Beast Whisperer
-1 Chromatic Lantern
-1 Emmara, Soul of the Accord
-1 Elbrus, the Binding Blade // Withengar Unbound
-1 Sisay, Weatherlight Captain
-1 Sol Ring
-1 Scattered Groves
-1 Sheltered Thicket
-1 Harmonize
-1 Altar of the Pantheon
-1 Kinnan, Bonder Prodigy
-1 Pongify
-1 Chandra, Fire of Kaladesh // Chandra, Roaring Flame
-1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
-1 Kytheon, Hero of Akros // Gideon, Battle-Forged
-1 Liliana, Heretical Healer // Liliana, Defiant Necromancer
-1 Nissa, Vastwood Seer // Nissa, Sage Animist
-1 Opulent Palace
-1 Azor's Gateway // Sanctum of the Sun
-1 Hadana's Climb // Winged Temple of Orazca
-1 Journey to Eternity // Atzal, Cave of Eternity
-1 Dowsing Dagger // Lost Vale
-1 Legion's Landing // Adanto, the First Fort
-1 Search for Azcanta // Azcanta, the Sunken Ruin
-1 Thaumatic Compass // Spires of Orazca
-1 Treasure Map // Treasure Cove
-1 Beast Within
-1 Farseek
-1 Garruk Relentless // Garruk, the Veil-Cursed
-1 Command Tower
-1 Brightclimb Pathway // Grimclimb Pathway
-1 Branchloft Pathway // Boulderloft Pathway
-1 Cragcrown Pathway // Timbercrown Pathway
-1 Needleverge Pathway // Pillarverge Pathway
-1 Riverglide Pathway // Lavaglide Pathway
-1 Valakut Awakening // Valakut Stoneforge
-1 Bala Ged Recovery // Bala Ged Sanctuary
-1 Clearwater Pathway // Murkwater Pathway
-1 Hagra Mauling // Hagra Broodpit
-1 Ondu Inversion // Ondu Skyruins
-1 Sandstone Oracle
-1 Sphinx of the Second Sun
-1 Meteor Golem
-1 Terramorphic Expanse
-1 Blightstep Pathway // Searstep Pathway
-1 Hengegate Pathway // Mistgate Pathway
-1 Barkchannel Pathway // Tidechannel Pathway
-1 Darkbore Pathway // Slitherbore Pathway
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
-1 Rimewood Falls
-1 Woodland Chasm
-1 Kolvori, God of Kinship // The Ringhart Crest
-1 Cosima, God of the Voyage // The Omenkeel
-1 Plargg, Dean of Chaos // Augusta, Dean of Order
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Shaile, Dean of Radiance // Embrose, Dean of Shadow
-1 Mila, Crafty Companion // Lukka, Wayward Bonder
-1 Triplicate Titan
-1 Diluvian Primordial
-1 Seaside Citadel
-1 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury
-1 Ludevic, Necrogenius // Olag, Ludevic's Hubris
-1 Dennick, Pious Apprentice // Dennick, Pious Apparition
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Butcher of Malakir
-1 Path of Ancestry
-1 Savage Lands
-1 Tireless Provisioner
-1 Fellwar Stone
-1 Urza's Ruinous Blast
-1 Zetalpa, Primal Dawn
-1 Commander's Sphere
-1 Arcane Signet
-1 Jolrael, Mwonvuli Recluse
-1 Sandsteppe Citadel
-1 Plains
-1 Swamp
-3 Forest
-1 Island
-1 Mountain
-1 Jungle Shrine
-1 Frontier Bivouac
-1 Time Wipe
-1 Utter End
-1 The World Tree
+1 Putrefy [PLIST:KHC-91]
+1 Rhys the Redeemed [PLIST:SHM-237]
+1 Evolving Wilds [PLIST:RIX-186]
+1 Exotic Orchard [PLIST:CON-142]
+1 Vivid Grove [PLIST:LRW-277]
+1 Arlinn Kord // Arlinn, Embraced by the Moon [PLIST:SOI-243a]
+1 Voldaren Pariah // Abolisher of Bloodlines [PLIST:EMN-111a]
+1 Guardian Project [PLIST:RNA-130]
+1 Beast Whisperer [PLIST:GRN-123]
+1 Chromatic Lantern [PLIST:RTR-226]
+1 Emmara, Soul of the Accord [PLIST:GRN-168]
+1 Elbrus, the Binding Blade // Withengar Unbound [PLIST:DKA-147a]
+1 Sisay, Weatherlight Captain [PLIST:MH1-29]
+1 Sol Ring [PLIST:CMD-261]
+1 Scattered Groves [PLIST:AKH-247]
+1 Sheltered Thicket [PLIST:AKH-248]
+1 Harmonize [PLIST:C20-173]
+1 Altar of the Pantheon [PLIST:THB-231]
+1 Kinnan, Bonder Prodigy [PLIST:IKO-192]
+1 Pongify [PLIST:PLC-44]
+1 Chandra, Fire of Kaladesh // Chandra, Roaring Flame [PLIST:ORI-135a]
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound [PLIST:ORI-60a]
+1 Kytheon, Hero of Akros // Gideon, Battle-Forged [PLIST:ORI-23a]
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer [PLIST:ORI-106a]
+1 Nissa, Vastwood Seer // Nissa, Sage Animist [PLIST:ORI-189a]
+1 Opulent Palace [PLIST:KTK-238]
+1 Azor's Gateway // Sanctum of the Sun [PLIST:RIX-176]
+1 Hadana's Climb // Winged Temple of Orazca [PLIST:RIX-158a]
+1 Journey to Eternity // Atzal, Cave of Eternity [PLIST:RIX-160a]
+1 Dowsing Dagger // Lost Vale [PLIST:XLN-235a]
+1 Legion's Landing // Adanto, the First Fort [PLIST:XLN-22a]
+1 Search for Azcanta // Azcanta, the Sunken Ruin [PLIST:XLN-74a]
+1 Thaumatic Compass // Spires of Orazca [PLIST:XLN-249a]
+1 Treasure Map // Treasure Cove [PLIST:XLN-250a]
+1 Beast Within [PLIST:NPH-103]
+1 Farseek [PLIST:RAV-163]
+1 Garruk Relentless // Garruk, the Veil-Cursed [PLIST:ISD-181a]
+1 Command Tower [PLIST:CMD-269]
+1 Brightclimb Pathway // Grimclimb Pathway [PLIST:ZNR-259a]
+1 Branchloft Pathway // Boulderloft Pathway [PLIST:ZNR-258a]
+1 Cragcrown Pathway // Timbercrown Pathway [PLIST:ZNR-261a]
+1 Needleverge Pathway // Pillarverge Pathway [PLIST:ZNR-263a]
+1 Riverglide Pathway // Lavaglide Pathway [PLIST:ZNR-264a]
+1 Valakut Awakening // Valakut Stoneforge [PLIST:ZNR-174a]
+1 Bala Ged Recovery // Bala Ged Sanctuary [PLIST:ZNR-180a]
+1 Clearwater Pathway // Murkwater Pathway [PLIST:ZNR-260a]
+1 Hagra Mauling // Hagra Broodpit [PLIST:ZNR-106a]
+1 Ondu Inversion // Ondu Skyruins [PLIST:ZNR-30a]
+1 Sandstone Oracle [PLIST:C15-52]
+1 Sphinx of the Second Sun [PLIST:CMR-99]
+1 Meteor Golem [PLIST:M19-241]
+1 Terramorphic Expanse [PLIST:TSP-279]
+1 Blightstep Pathway // Searstep Pathway [PLIST:KHM-252a]
+1 Hengegate Pathway // Mistgate Pathway [PLIST:KHM-260a]
+1 Barkchannel Pathway // Tidechannel Pathway [PLIST:KHM-251a]
+1 Darkbore Pathway // Slitherbore Pathway [PLIST:KHM-254a]
+1 Valki, God of Lies // Tibalt, Cosmic Impostor [PLIST:KHM-114a]
+1 Rimewood Falls [PLIST:KHM-266]
+1 Woodland Chasm [PLIST:KHM-274]
+1 Kolvori, God of Kinship // The Ringhart Crest [PLIST:KHM-181a]
+1 Cosima, God of the Voyage // The Omenkeel [PLIST:KHM-50a]
+1 Plargg, Dean of Chaos // Augusta, Dean of Order [PLIST:STX-155a]
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root [PLIST:STX-161a]
+1 Shaile, Dean of Radiance // Embrose, Dean of Shadow [PLIST:STX-158a]
+1 Mila, Crafty Companion // Lukka, Wayward Bonder [PLIST:STX-153a]
+1 Triplicate Titan [PLIST:C21-79]
+1 Diluvian Primordial [PLIST:GTC-33]
+1 Seaside Citadel [PLIST:ALA-229]
+1 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury [PLIST:MID-211a]
+1 Ludevic, Necrogenius // Olag, Ludevic's Hubris [PLIST:MID-233a]
+1 Dennick, Pious Apprentice // Dennick, Pious Apparition [PLIST:MID-217a]
+1 Tovolar's Huntmaster // Tovolar's Packleader [PLIST:MID-204a]
+1 Butcher of Malakir [PLIST:WWK-53]
+1 Path of Ancestry [PLIST:C17-56]
+1 Savage Lands [PLIST:ALA-228]
+1 Tireless Provisioner [PLIST:MH2-180]
+1 Fellwar Stone [PLIST:CMD-248]
+1 Urza's Ruinous Blast [PLIST:DMC-107]
+1 Zetalpa, Primal Dawn [PLIST:RIX-30]
+1 Commander's Sphere [PLIST:C14-54]
+1 Arcane Signet [PLIST:ELD-331]
+1 Jolrael, Mwonvuli Recluse [PLIST:M21-191]
+1 Sandsteppe Citadel [PLIST:KTK-241]
+1 Plains [PLIST:AKH-256]
+1 Swamp [PLIST:HOU-195]
+1 Forest [PLIST:HOU-198]
+1 Forest [PLIST:HOU-199]
+1 Forest [PLIST:AKH-268]
+1 Island [PLIST:AKH-258]
+1 Mountain [PLIST:AKH-264]
+1 Jungle Shrine [PLIST:ALA-226]
+1 Frontier Bivouac [PLIST:KTK-234]
+1 Time Wipe [PLIST:WAR-223]
+1 Utter End [PLIST:KTK-210]
+1 The World Tree [PLIST:KHM-275]
