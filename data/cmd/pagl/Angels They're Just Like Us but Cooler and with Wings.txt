@@ -3,75 +3,75 @@
 // DATE: 2023-08-14
 COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 Bruna, the Fading Light [foil] [SLD:1336]
-1 Ajani, Strength of the Pride
-1 Angel of Destiny [foil] [PAGL:4]
+1 Ajani, Strength of the Pride [PLIST:M20-2]
+1 Angel of Destiny [foil] [PLIST:ZNR-2]
 1 Angel of Finality [foil] [SLD:1342]
-1 Angel of Serenity [foil] [PAGL:5]
+1 Angel of Serenity [foil] [PLIST:RTR-1]
 1 Angel of the Ruins [foil] [SLD:1343]
-1 Angel of Vitality [foil] [PAGL:6]
-1 Angelic Accord
-1 Angelic Field Marshal [foil] [PAGL:3]
-1 Arcane Signet
-1 Arch of Orazca
+1 Angel of Vitality [foil] [PLIST:M20-4]
+1 Angelic Accord [PLIST:M14-3]
+1 Angelic Field Marshal [foil] [PLIST:CMM-13]
+1 Arcane Signet [PLIST:ELD-331]
+1 Arch of Orazca [PLIST:RIX-185]
 1 Archangel of Thune [foil] [SLD:1337]
-1 Archangel of Tithes [foil] [PAGL:7]
+1 Archangel of Tithes [foil] [PLIST:ORI-4]
 1 Arden Angel [foil] [SLD:1344]
-1 Austere Command
-1 Bishop of Wings
-1 Bonders' Enclave
+1 Austere Command [PLIST:LRW-3]
+1 Bishop of Wings [PLIST:M20-8]
+1 Bonders' Enclave [PLIST:IKO-245]
 1 Breathkeeper Seraph [foil] [SLD:1345]
-1 Cleansing Nova
+1 Cleansing Nova [PLIST:C21-86]
 1 Commander's Plate [foil] [SLD:1339]
-1 Cosmos Elixir
+1 Cosmos Elixir [PLIST:KHM-237]
 1 Court of Grace [foil] [SLD:1338]
-1 Dawn of Hope
+1 Dawn of Hope [PLIST:GRN-8]
 1 Dawnbreak Reclaimer [foil] [SLD:1346]
-1 Dismantling Wave
-1 Emeria Shepherd [foil] [PAGL:14]
-1 Emeria, the Sky Ruin
-1 Endless Atlas
-1 Entreat the Angels [foil] [PAGL:15]
-1 Everflowing Chalice
-1 Giada, Font of Hope
-1 Griffin Aerie
-1 Heirloom Blade
-1 Invoke the Divine
-1 Karoo
-1 Keeper of the Accord
-1 Kindred Boon
-1 Lightning Greaves
-1 Marble Diamond
-1 Mazemind Tome
-1 Mind Stone
-1 Myriad Landscape
-1 Nykthos Paragon
-1 Nykthos, Shrine to Nyx
-1 Oketra's Monument
-1 Path of Ancestry
-1 Path to Exile
-1 Pearl Medallion
+1 Dismantling Wave [PLIST:C20-25]
+1 Emeria Shepherd [foil] [PLIST:BFZ-22]
+1 Emeria, the Sky Ruin [PLIST:ZEN-213]
+1 Endless Atlas [PLIST:C18-55]
+1 Entreat the Angels [foil] [PLIST:AVR-20]
+1 Everflowing Chalice [PLIST:WWK-123]
+1 Giada, Font of Hope [PLIST:SNC-14]
+1 Griffin Aerie [PLIST:M21-22]
+1 Heirloom Blade [PLIST:C17-52]
+1 Invoke the Divine [PLIST:DOM-22]
+1 Karoo [PLIST:VIS-165]
+1 Keeper of the Accord [PLIST:CMR-27]
+1 Kindred Boon [PLIST:C17-5]
+1 Lightning Greaves [PLIST:C19-217]
+1 Marble Diamond [PLIST:MIR-310]
+1 Mazemind Tome [PLIST:M21-232]
+1 Mind Stone [PLIST:WTH-153]
+1 Myriad Landscape [PLIST:C14-61]
+1 Nykthos Paragon [PLIST:MH2-22]
+1 Nykthos, Shrine to Nyx [PLIST:THS-223]
+1 Oketra's Monument [PLIST:AKH-233]
+1 Path of Ancestry [PLIST:C17-56]
+1 Path to Exile [PLIST:CON-15]
+1 Pearl Medallion [PLIST:TMP-300]
 8 Plains [foil] [SLD:1348]
 8 Plains [foil] [SLD:1349]
 7 Plains [foil] [SLD:1350]
 7 Plains [foil] [SLD:1351]
-1 Righteous Valkyrie [foil] [PAGL:23]
-1 Search for Glory
-1 Sephara, Sky's Blade [foil] [PAGL:25]
-1 Seraph Sanctuary
-1 Serra Ascendant
-1 Shattered Angel [foil] [PAGL:27]
-1 Sol Ring
-1 Speaker of the Heavens
-1 Starnheim Aspirant
-1 Sunblast Angel [foil] [PAGL:30]
-1 Swiftfoot Boots
-1 Sword of the Animist
-1 Swords to Plowshares
-1 Thalia's Lancers
-1 The Book of Exalted Deeds
-1 Tome of Legends
-1 Urza's Incubator
+1 Righteous Valkyrie [foil] [PLIST:KHM-24]
+1 Search for Glory [PLIST:KHM-27]
+1 Sephara, Sky's Blade [foil] [PLIST:M20-36]
+1 Seraph Sanctuary [PLIST:AVR-228]
+1 Serra Ascendant [PLIST:M11-28]
+1 Shattered Angel [foil] [PLIST:NPH-23]
+1 Sol Ring [PLIST:M21-38]
+1 Speaker of the Heavens [PLIST:M21-38]
+1 Starnheim Aspirant [PLIST:KHM-380]
+1 Sunblast Angel [foil] [PLIST:SOM-22]
+1 Swiftfoot Boots [PLIST:M12-219]
+1 Sword of the Animist [PLIST:ORI-240]
+1 Swords to Plowshares [PLIST:VOC-99]
+1 Thalia's Lancers [PLIST:EMN-47]
+1 The Book of Exalted Deeds [PLIST:AFR-4]
+1 Tome of Legends [PLIST:ELD-332]
+1 Urza's Incubator [PLIST:C15-273]
 1 Valkyrie Harbinger [foil] [SLD:1347]
-1 Vanquisher's Banner
-1 War Room
-1 Well of Lost Dreams
+1 Vanquisher's Banner [PLIST:XLN-251]
+1 War Room [PLIST:CMR-361]
+1 Well of Lost Dreams [PLIST:DST-159]
