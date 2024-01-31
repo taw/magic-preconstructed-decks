@@ -1,0 +1,97 @@
+// NAME: Deadly Disguise
+// SOURCE: https://magic.wizards.com/en/news/announcements/murders-at-karlov-manor-commander-decklists
+// DATE: 2024-02-09
+COMMANDER: 1 Kaust, Eyes of the Glade [foil] [MKC:1]
+1 Duskana, the Rage Mother [foil]
+1 True Identity
+1 Unexplained Absence
+1 Veiled Ascension
+1 Boltbender
+1 Showstopping Surprise
+1 Tesak, Judith's Hellhound
+1 Experiment Twelve
+1 Printlifter Ooze
+1 Panoptic Projektor
+1 Ransom Note [MKC:47]
+1 Ugin's Mastery
+1 Austere Command
+1 Dusk // Dawn
+1 Exalted Angel
+1 Fell the Mighty
+1 Hidden Dragonslayer
+1 Master of Pearls
+1 Mastery of the Unseen
+1 Mirror Entity
+1 Welcoming Vampire
+1 Akroma, Angel of Fury
+1 Ashcloud Phoenix
+1 Chaos Warp
+1 Imperial Hellkite
+1 Jeska's Will
+1 Neheb, the Eternal
+1 Scourge of the Throne
+1 Beast Whisperer
+1 Deathmist Raptor
+1 Den Protector
+1 Hooded Hydra
+1 Krosan Cloudscraper
+1 Krosan Colossus
+1 Obscuring Aether
+1 Ohran Frostfang
+1 Return of the Wildspeaker
+1 Root Elemental
+1 Saryth, the Viper's Fang
+1 Seedborn Muse
+1 Temur War Shaman
+1 Thelonite Hermit
+1 Toski, Bearer of Secrets
+1 Trail of Mystery
+1 Whisperwood Elemental
+1 Yedora, Grave Gardener
+1 Decimate
+1 Sidar Kondo of Jamuraa
+1 Lifecrafter's Bestiary
+1 Scroll of Fate
+1 Canopy Vista
+1 Cinder Glade
+1 Exotic Orchard
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+1 Scattered Groves
+1 Sheltered Thicket
+1 Shrine of the Forsaken Gods
+1 Sungrass Prairie
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Path to Exile
+1 Ainok Survivalist
+1 Broodhatch Nantuko
+1 Nervous Gardener
+1 Nantuko Vigilante
+1 Nature's Lore
+1 Sakura-Tribe Elder
+1 Salt Road Ambushers
+1 Three Visits
+1 Wild Growth
+1 Arcane Signet
+1 Sol Ring
+1 Boros Garrison
+1 Command Tower
+1 Branch of Vitu-Ghazi
+1 Gruul Turf
+1 Jungle Shrine
+1 Krosan Verge
+1 Sacred Peaks
+1 Selesnya Sanctuary
+1 Temple of the False God
+1 Zoetic Cavern
+4 Plains
+3 Mountain
+4 Forest
+
+Sideboard
