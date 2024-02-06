@@ -84,9 +84,9 @@ COMMANDER: 1 Rin and Seri, Inseparable [SLD:1508a] [foil]
 7 Forest [SLD:1515] [foil]
 
 Display Commander
-1 Rin and Seri, Inseparable [foil] [etched] [SLD:1554a]
-1 Jetmir, Nexus of Revels [foil] [etched] [SLD:1555a]
-1 Jinnie Fay, Jetmir's Second [foil] [etched] [SLD:1556a]
+1 Rin and Seri, Inseparable [SLD:1554a]
+1 Jetmir, Nexus of Revels [SLD:1555a]
+1 Jinnie Fay, Jetmir's Second [SLD:1556a]
 
 Sideboard
 1 Nine Lives [foil] [SLD:793]
