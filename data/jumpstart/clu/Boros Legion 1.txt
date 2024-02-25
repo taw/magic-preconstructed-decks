@@ -1,0 +1,21 @@
+// NAME: Boros Legion 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Novice Inspector
+1 Fresh-Faced Recruit
+1 Sunhome Stalwart
+1 Roc Charger
+1 Parhelion Patrol
+1 Ordruun Mentor
+1 Integrity
+1 Mighty Leap
+1 Boros Signet
+1 Martial Impetus
+1 Thriving Heath
+1 Boros Guildgate
+1 Boros Garrison
+1 Aegis of the Legion
+1 Finale of Glory
+5 Plains
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Orzhov Syndicate 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Basilica Screecher
+1 Orzhov Guildmage
+1 Leering Onlooker
+1 Fleshbag Marauder
+1 Syndicate Enforcer
+1 Orzhov Racketeers
+1 Orzhov Signet
+1 Afterlife Insurance
+1 Murder
+1 Parasitic Impetus
+1 Thriving Moor
+1 Orzhov Guildgate
+1 Orzhov Basilica
+1 Covetous Elegy
+1 Seraph of the Scales
+5 Swamp
+
+Sideboard

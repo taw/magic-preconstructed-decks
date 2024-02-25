@@ -1,0 +1,21 @@
+// NAME: Izzet League 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Erratic Visionary
+1 Frostburn Weird
+1 Ecstatic Electromancer
+1 Leapfrog
+1 Thunder Drake
+1 Consider
+1 Repeal
+1 Turn to Frog
+1 Chemister's Insight
+1 Snow Day
+1 Thriving Isle
+1 Izzet Guildgate
+1 Izzet Boilerworks
+1 Resonance Technician
+1 Stunt Double
+5 Island
+
+Sideboard

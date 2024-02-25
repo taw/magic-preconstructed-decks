@@ -1,0 +1,21 @@
+// NAME: Selesnya Conclave 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Doomed Traveler
+1 War Screecher
+1 Selesnya Guildmage
+1 Seller of Songbirds
+1 Sumala Rumblers
+1 Urbis Protector
+1 Gods Willing
+1 Rootborn Defenses
+1 Martial Impetus
+1 Conclave Tribunal
+1 Thriving Heath
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Conclave Evangelist
+1 Trostani Discordant
+5 Plains
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Azorius Senate 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Owl Familiar
+1 Jeering Homunculus
+1 Cloudkin Seer
+1 Rescuer Sphinx
+1 Portal Manipulator
+1 Depose
+1 Azorius Signet
+1 Curse of Chains
+1 Turn to Mist
+1 Code of Constraint
+1 Thriving Isle
+1 Azorius Guildgate
+1 Azorius Chancery
+1 Suppressor Skyguard
+1 Lavinia of the Tenth
+5 Island
+
+Sideboard

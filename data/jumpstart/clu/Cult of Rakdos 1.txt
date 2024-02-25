@@ -1,0 +1,21 @@
+// NAME: Cult of Rakdos 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Footlight Fiend
+1 Rakdos Trumpeter
+1 Gurmag Swiftwing
+1 Daggerclaw Imp
+1 Vindictive Vampire
+1 Blade Juggler
+1 Rakdos Signet
+1 Deadly Dispute
+1 Murder
+1 Incriminating Impetus
+1 Thriving Moor
+1 Rakdos Guildgate
+1 Rakdos Carnarium
+1 Frenzied Gorespawn
+1 Spawn of Mayhem
+5 Swamp
+
+Sideboard

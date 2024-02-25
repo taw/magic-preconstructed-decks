@@ -1,0 +1,21 @@
+// NAME: Orzhov Syndicate 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Twilight Panther
+1 Syndic of Tithes
+1 Ajani's Pridemate
+1 Vizkopa Vampire
+1 Angel of Vitality
+1 Syndicate Messenger
+1 Glorifier of Dusk
+1 Deadly Riposte
+1 Afterlife Insurance
+1 Tandem Tactics
+1 Thriving Heath
+1 Orzhov Guildgate
+1 Orzhov Basilica
+1 Syndicate Heavy
+1 Council's Judgment
+5 Plains
+
+Sideboard
