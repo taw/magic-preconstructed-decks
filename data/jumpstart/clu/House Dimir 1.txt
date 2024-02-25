@@ -1,0 +1,21 @@
+// NAME: House Dimir 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Erratic Visionary
+1 Dimir Guildmage
+1 Whisper Agent
+1 Undercover Butler
+1 Watcher in the Mist
+1 Discovery
+1 Dimir Signet
+1 Dramatic Accusation
+1 Forbidden Alchemy
+1 Psychic Impetus
+1 Thriving Isle
+1 Dimir Guildgate
+1 Dimir Aqueduct
+1 Memory Vampire
+1 Duskmantle Seer
+5 Island
+
+Sideboard

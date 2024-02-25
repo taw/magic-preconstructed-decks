@@ -1,0 +1,21 @@
+// NAME: Gruul Clans 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Gravel-Hide Goblin
+1 Stormblood Berserker
+1 Pyrewild Shaman
+1 Turret Ogre
+1 Furious Spinesplitter
+1 Chainwhip Cyclops
+1 Ripscale Predator
+1 Gruul Signet
+1 Shiny Impetus
+1 Firespout
+1 Thriving Bluff
+1 Gruul Guildgate
+1 Gruul Turf
+1 Herald of Ilharg
+1 Clan Defiance
+5 Mountain
+
+Sideboard

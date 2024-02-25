@@ -1,0 +1,24 @@
+// NAME: Clue Edition Core Contents
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Apothecary White
+1 Senator Peacock
+1 Mastermind Plum
+1 Headliner Scarlett
+1 Emissary Green
+1 Commander Mustard
+1 Wrench
+1 Candlestick
+1 Lead Pipe
+1 Knife
+1 Rope
+1 Ballroom
+1 Billiard Room
+1 Conservatory
+1 Dining Room
+1 Hall
+1 Kitchen
+1 Library
+1 Lounge
+1 Secret Passage
+1 Study

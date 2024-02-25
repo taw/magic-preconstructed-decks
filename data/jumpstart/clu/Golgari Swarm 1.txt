@@ -1,0 +1,21 @@
+// NAME: Golgari Swarm 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Golgari Guildmage
+1 Leering Onlooker
+1 Gorging Vulture
+1 Tribune of Rot
+1 Pitiless Gorgon
+1 Venomous Hierophant
+1 Status
+1 Golgari Signet
+1 Corpse Churn
+1 Deal Gone Bad
+1 Thriving Moor
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Amzu, Swarm's Hunger
+1 Deadbridge Chant
+5 Swamp
+
+Sideboard

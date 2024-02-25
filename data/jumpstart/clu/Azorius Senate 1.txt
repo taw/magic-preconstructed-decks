@@ -1,0 +1,21 @@
+// NAME: Azorius Senate 1
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Law-Rune Enforcer
+1 Azorius Arrester
+1 War Screecher
+1 Trusted Pegasus
+1 Portal Manipulator
+1 Azorius Justiciar
+1 Enforcer Griffin
+1 Oust
+1 Curse of Chains
+1 Rally to Battle
+1 Thriving Heath
+1 Azorius Guildgate
+1 Azorius Chancery
+1 Lavinia, Foil to Conspiracy
+1 Supreme Verdict
+5 Plains
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Gruul Clans 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Territorial Boar
+1 Kronch Wrangler
+1 Wildwood Patrol
+1 Enraged Ceratok
+1 Furious Spinesplitter
+1 Challenger Troll
+1 Gift of Strength
+1 Pit Fight
+1 Band Together
+1 Colossal Majesty
+1 Thriving Grove
+1 Gruul Guildgate
+1 Gruul Turf
+1 Stampede Surfer
+1 Giant Adephage
+5 Forest
+
+Sideboard

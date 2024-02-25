@@ -1,0 +1,21 @@
+// NAME: Cult of Rakdos 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Footlight Fiend
+1 Ornery Goblin
+1 Rakdos Shred-Freak
+1 Deputized Protester
+1 Dagger Caster
+1 Havoc Jester
+1 Coordinated Assault
+1 Light Up the Stage
+1 Incriminating Impetus
+1 Reduce to Ashes
+1 Thriving Bluff
+1 Rakdos Guildgate
+1 Rakdos Carnarium
+1 Carnage Interpreter
+1 Rakdos, the Showstopper
+5 Mountain
+
+Sideboard

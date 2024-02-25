@@ -1,0 +1,21 @@
+// NAME: Simic Combine 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Sauroform Hybrid
+1 Duskshell Crawler
+1 Steeple Creeper
+1 Scuttling Sentinel
+1 Ivy Lane Denizen
+1 Battlefront Krushok
+1 Scuttlegator
+1 Incubation
+1 Snakeform
+1 Nissa's Judgment
+1 Thriving Grove
+1 Simic Guildgate
+1 Simic Growth Chamber
+1 Lonis, Genetics Expert
+1 Hydroid Krasis
+5 Forest
+
+Sideboard

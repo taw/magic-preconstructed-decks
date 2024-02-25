@@ -1,0 +1,21 @@
+// NAME: Boros Legion 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Frenzied Goblin
+1 Utvara Scalper
+1 Krenko's Command
+1 Firefist Striker
+1 Wojek Bodyguard
+1 Ordruun Mentor
+1 Towering Thunderfist
+1 Integrity
+1 Shiny Impetus
+1 Cosmotronic Wave
+1 Thriving Bluff
+1 Boros Guildgate
+1 Boros Garrison
+1 Boros Strike-Captain
+1 Firemane Avenger
+5 Mountain
+
+Sideboard

@@ -1,0 +1,21 @@
+// NAME: Izzet League 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Fire Urchin
+1 Frostburn Weird
+1 Spellgorger Weird
+1 Ecstatic Electromancer
+1 Goblin Wizardry
+1 Living Lightning
+1 Lightning Bolt
+1 Street Spasm
+1 Izzet Signet
+1 Direct Current
+1 Thriving Bluff
+1 Izzet Guildgate
+1 Izzet Boilerworks
+1 Corporeal Projection
+1 Hypersonic Dragon
+5 Mountain
+
+Sideboard

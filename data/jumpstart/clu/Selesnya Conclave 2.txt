@@ -1,0 +1,21 @@
+// NAME: Selesnya Conclave 2
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-clue-edition-ravnica-cluedo-edition-booster-contents
+// DATE: 2024-02-23
+1 Transluminant
+1 Vernadi Shieldmate
+1 Selesnya Guildmage
+1 Yeva's Forcemage
+1 Sumala Rumblers
+1 Affectionate Indrik
+1 Vines of the Recluse
+1 Selesnya Signet
+1 Band Together
+1 Overcome
+1 Thriving Grove
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Vernal Sovereign
+1 Beast Whisperer
+5 Forest
+
+Sideboard
