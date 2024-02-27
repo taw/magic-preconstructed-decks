@@ -1,0 +1,97 @@
+// NAME: Scrappy Survivors
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-fallout-commander-decklists
+// DATE: 2024-03-08
+COMMANDER: 1 Dogmeat, Ever Loyal [PIP:2] [foil]
+1 Preston Garvey, Minuteman [PIP:8] [foil]
+1 Codsworth, Handy Helper
+1 Idolized
+1 Pre-War Formalwear
+1 Vault 101: Birthday Party
+1 Duchess, Wayward Tavernkeep
+1 Grim Reaper's Sprint
+1 Junk Jet
+1 Megaton's Fate
+1 Vault 21: House Gambit
+1 Veronica, Dissident Scribe
+1 Animal Friend
+1 Strong Back
+1 Almost Perfect
+1 Armory Paladin
+1 Cait, Cage Brawler
+1 Cass, Hand of Vengeance
+1 Inventory Management
+1 Moira Brown, Guide Author
+1 Three Dog, Galaxy News DJ
+1 Mister Gutsy
+1 Pip-Boy 3000
+1 Junktown
+1 Sunscorched Divide
+1 Mantle of the Ancients
+1 Puresteel Paladin
+1 Single Combat
+1 Blasphemous Act
+1 Chaos Warp
+1 Heroic Intervention
+1 Basilisk Collar
+1 Bloodforged Battle-Axe
+1 Champion's Helm
+1 Masterwork of Ingenuity
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Exotic Orchard
+1 Mossfire Valley
+1 Rootbound Crag
+1 Scattered Groves
+1 Scavenger Grounds
+1 Sheltered Thicket
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Brotherhood Outcast
+1 Commander Sofia Daguerre
+1 Acquired Mutation
+1 Crimson Caravaneer
+1 Ian the Reckless
+1 Bighorner Rancher
+1 Break Down
+1 Gunner Conscript
+1 Super Mutant Scavenger
+1 Well Rested
+1 Agility Bobblehead [PIP:126]
+1 Perception Bobblehead [PIP:139]
+1 Silver Shroud Costume
+1 All That Glitters
+1 Path to Exile
+1 Valorous Stance
+1 Sticky Fingers
+1 Abundant Growth
+1 Fertile Ground
+1 Rancor
+1 Squirrel Nest
+1 Wild Growth
+1 Behemoth Sledge
+1 Arcane Signet
+1 Brass Knuckles
+1 Explorer's Scope
+1 Fireshrieker
+1 Sol Ring
+1 Swiftfoot Boots
+1 Ash Barrens
+1 Buried Ruin
+1 Command Tower
+1 Evolving Wilds
+1 Jungle Shrine
+1 Path of Ancestry
+1 Roadside Reliquary
+1 Rogue's Passage
+1 Temple of the False God
+1 Terramorphic Expanse
+2 Mountain [PIP:323]
+2 Mountain [PIP:324]
+2 Forest [PIP:325]
+2 Forest [PIP:326]
+2 Plains [PIP:317]
+2 Plains [PIP:318]

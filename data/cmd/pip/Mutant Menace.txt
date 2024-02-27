@@ -1,0 +1,94 @@
+// NAME: Mutant Menace
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-fallout-commander-decklists
+// DATE: 2024-03-08
+COMMANDER: 1 The Wise Mothman [PIP:4] [foil]
+1 The Master, Transcendent [PIP:6] [foil]
+1 Jason Bright, Glowing Prophet
+1 Mirelurk Queen
+1 Piper Wright, Publick Reporter
+1 Radstorm
+1 Struggle for Project Purity
+1 Feral Ghoul
+1 Hancock, Ghoulish Mayor
+1 Nuclear Fallout
+1 Screeching Scorchbeast
+1 Vault 12: The Necropolis
+1 Harold and Bob, First Numens
+1 Lily Bowen, Raging Grandma
+1 Power Fist
+1 Rampaging Yao Guai
+1 Strong, the Brutish Thespian
+1 Tato Farmer
+1 Watchful Radstag
+1 Agent Frank Horrigan
+1 Alpha Deathclaw
+1 Atomize
+1 Marcus, Mutant Mayor
+1 Mutational Advantage
+1 Vault 87: Forced Evolution
+1 Nuka-Nuke Launcher
+1 Recon Craft Theta
+1 Mariposa Military Base
+1 Overflowing Basin
+1 Viridescent Bog
+1 Fraying Sanity
+1 Inexorable Tide
+1 Branching Evolution
+1 Guardian Project
+1 Hardened Scales
+1 Tireless Tracker
+1 Biomass Mutation
+1 Casualties of War
+1 Find // Finality
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fetid Pools
+1 Hinterland Harbor
+1 Nesting Grounds
+1 Sunken Hollow
+1 Temple of Deceit
+1 Temple of Malady
+1 Temple of Mystery
+1 Woodland Cemetery
+1 Vexing Radgull
+1 Bloatfly Swarm
+1 Infesting Radroach
+1 Cathedral Acolyte
+1 Glowing One
+1 Lumbering Megasloth
+1 Contaminated Drink
+1 Nightkin Ambusher
+1 Raul, Trouble Shooter
+1 Young Deathclaws
+1 Strength Bobblehead [PIP:143]
+1 Cultivate
+1 Farseek
+1 Harmonize
+1 Inspiring Call
+1 Rampant Growth
+1 Corpsejack Menace
+1 Putrefy
+1 Winding Constrictor
+1 Arcane Signet
+1 Contagion Clasp
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Mortuary Mire
+1 Opulent Palace
+1 Path of Ancestry
+1 Tainted Isle
+1 Tainted Wood
+1 Temple of the False God
+1 Terramorphic Expanse
+3 Swamp [PIP:321]
+2 Swamp [PIP:322]
+3 Forest [PIP:325]
+2 Forest [PIP:326]
+3 Island [PIP:319]
+2 Island [PIP:320]
