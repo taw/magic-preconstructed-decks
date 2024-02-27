@@ -1,0 +1,95 @@
+// NAME: Hail, Caesar
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-the-gathering-fallout-commander-decklists
+// DATE: 2024-03-08
+COMMANDER: 1 Caesar, Legion's Emperor [PIP:1] [foil]
+1 Mr. House, President and CEO [PIP:7] [foil]
+1 Aradesh, the Founder
+1 Battle of Hoover Dam
+1 Overseer of Vault 76
+1 Securitron Squadron
+1 Sierra, Nuka's Biggest Fan
+1 Vault 75: Middle School
+1 Yes Man, Personal Securitron
+1 V.A.T.S.
+1 Wasteland Raider
+1 Mysterious Stranger
+1 Powder Ganger
+1 Rose, Cutthroat Raider
+1 Thrill-Kill Disciple
+1 Wild Wasteland
+1 Boomer Scrapper
+1 Colonel Autumn
+1 Desdemona, Freedom's Edge
+1 Elder Arthur Maxson
+1 Kellogg, Dangerous Mind
+1 MacCready, Lamplight Mayor
+1 The Nipton Lottery
+1 Paladin Elizabeth Taggerdy
+1 Vault 11: Voter's Dilemma
+1 ED-E, Lonesome Eyebot
+1 Desolate Mire
+1 Diamond City
+1 Captain of the Watch
+1 Entrapment Maneuver
+1 Hour of Reckoning
+1 Keeper of the Accord
+1 Marshal's Anthem
+1 Martial Coup
+1 Secure the Wastes
+1 Black Market
+1 Lethal Scheme
+1 Stolen Strategy
+1 Anguished Unmaking
+1 Assemble the Legion
+1 Fervent Charge
+1 Ruinous Ultimatum
+1 Canyon Slough
+1 Clifftop Retreat
+1 Dragonskull Summit
+1 Isolated Chapel
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Temple of Malice
+1 Temple of Silence
+1 Temple of Triumph
+1 Windbrisk Heights
+1 Gary Clone
+1 Butch DeLoria, Tunnel Snake
+1 Ruthless Radrat
+1 Craig Boone, Novac Guard
+1 Legate Lanius, Caesar's Ace
+1 White Glove Gourmand
+1 Charisma Bobblehead [PIP:130]
+1 Luck Bobblehead [PIP:135]
+1 Survivor's Med Kit
+1 Impassioned Orator
+1 Intangible Virtue
+1 Bastion of Remembrance
+1 Deadly Dispute
+1 Morbid Opportunist
+1 Pitiless Plunderer
+1 General's Enforcer
+1 Heroic Reinforcements
+1 Wear // Tear
+1 Arcane Signet
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Memorial to Glory
+1 Myriad Landscape
+1 Nomad Outpost
+1 Path of Ancestry
+1 Tainted Field
+1 Tainted Peak
+1 Terramorphic Expanse
+3 Plains [PIP:317]
+2 Plains [PIP:318]
+2 Swamp [PIP:321]
+2 Swamp [PIP:322]
+3 Mountain [PIP:323]
+2 Mountain [PIP:324]
