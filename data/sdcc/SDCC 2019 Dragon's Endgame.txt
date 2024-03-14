@@ -1,0 +1,8 @@
+// NAME: Dragon's Endgame
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2019-07-18
+1 God-Eternal Bontu [PS19]
+1 God-Eternal Kefnet [PS19]
+1 God-Eternal Oketra [PS19]
+1 God-Eternal Rhonas [PS19]
+1 Nicol Bolas, Dragon-God [PS19]

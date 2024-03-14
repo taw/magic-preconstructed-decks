@@ -1,0 +1,9 @@
+// NAME: SDCC 2017 Planeswalker Set
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2017-07-20
+1 Gideon of the Trials [PS17]
+1 Jace, Unraveler of Secrets [PS17]
+1 Liliana, Death's Majesty [PS17]
+1 Chandra, Torch of Defiance [PS17]
+1 Nissa, Steward of Elements [PS17]
+1 Nicol Bolas, God-Pharaoh [PS17]

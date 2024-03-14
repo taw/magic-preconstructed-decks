@@ -1,0 +1,8 @@
+// NAME: SDCC 2015 Planeswalker Set
+// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// DATE: 2015-07-09
+1 Kytheon, Hero of Akros // Gideon, Battle-Forged [PS15]
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound [PS15]
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer [PS15]
+1 Chandra, Fire of Kaladesh // Chandra, Roaring Flame [PS15]
+1 Nissa, Vastwood Seer // Nissa, Sage Animist [PS15]
