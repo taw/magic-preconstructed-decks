@@ -252,6 +252,12 @@ pw:
   name: "Planeswalker Deck"
   sections:
     Main Deck: 60
+sdcc:
+  category: "box"
+  format: null
+  name: "San Diego Comic Con Promos"
+  sections:
+    Main Deck: [5, 6]
 shandalar:
   category: "deck"
   format: "shandalar"
