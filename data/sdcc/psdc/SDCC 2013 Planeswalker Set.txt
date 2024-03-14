@@ -1,8 +1,8 @@
 // NAME: SDCC 2013 Planeswalker Set
 // SOURCE: https://mtg.fandom.com/wiki/Comic-Con
 // DATE: 2013-07-18
-1 Ajani, Caller of the Pride [PSDC]
-1 Jace, Memory Adept [PSDC]
-1 Liliana of the Dark Realms [PSDC]
-1 Chandra, Pyromaster [PSDC]
-1 Garruk, Caller of Beasts [PSDC]
+1 Ajani, Caller of the Pride [PSDC] [foil]
+1 Jace, Memory Adept [PSDC] [foil]
+1 Liliana of the Dark Realms [PSDC] [foil]
+1 Chandra, Pyromaster [PSDC] [foil]
+1 Garruk, Caller of Beasts [PSDC] [foil]
