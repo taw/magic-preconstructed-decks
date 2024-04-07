@@ -9,4 +9,4 @@
 1 [SLD:1009] Collective Voyage
 1 [SLD:1010] Heartbeat of Spring
 1 [SLD:1011] Sol Ring
-1 [SLD:1012a] Mana Confluence [foil]
+1 [SLD:1012a] Mana Confluence
