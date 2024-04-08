@@ -1,8 +1,8 @@
 // NAME: Most Wanted
 // SOURCE: https://magic.wizards.com/en/news/announcements/outlaws-of-thunder-junction-commander-decklists
 // DATE: 2024-04-19
-1 Olivia, Opulent Outlaw
-1 Vihaan, Goldwaker
+COMMANDER: 1 Olivia, Opulent Outlaw [OTC:2] [foil]
+1 Vihaan, Goldwaker [OTC:8] [foil]
 1 Council's Judgment
 1 Heliod's Intervention
 1 Angelic Sell-Sword

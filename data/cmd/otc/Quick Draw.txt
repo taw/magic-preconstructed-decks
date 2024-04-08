@@ -1,8 +1,8 @@
 // NAME: Quick Draw
 // SOURCE: https://magic.wizards.com/en/news/announcements/outlaws-of-thunder-junction-commander-decklists
 // DATE: 2024-04-19
-1 Stella Lee, Wild Card
-1 Eris, Roar of the Storm
+COMMANDER: 1 Stella Lee, Wild Card [OTC:3] [foil]
+1 Eris, Roar of the Storm [OTC:5] [foil]
 1 Archmage Emeritus
 1 Baral's Expertise
 1 Tezzeret's Gambit

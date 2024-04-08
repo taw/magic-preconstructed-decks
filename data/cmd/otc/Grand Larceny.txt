@@ -1,8 +1,8 @@
 // NAME: Grand Larceny
 // SOURCE: https://magic.wizards.com/en/news/announcements/outlaws-of-thunder-junction-commander-decklists
 // DATE: 2024-04-19
-1 Gonti, Canny Acquisitor
-1 Felix Five-Boots
+COMMANDER: 1 Gonti, Canny Acquisitor [OTC:1] [foil]
+1 Felix Five-Boots [OTC:6] [foil]
 1 Thieving Skydiver
 1 Sage of the Beyond
 1 Ghostly Pilferer

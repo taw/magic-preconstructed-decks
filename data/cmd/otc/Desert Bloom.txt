@@ -1,8 +1,8 @@
 // NAME: Desert Bloom
 // SOURCE: https://magic.wizards.com/en/news/announcements/outlaws-of-thunder-junction-commander-decklists
 // DATE: 2024-04-19
-1 Yuma, Proud Protector
-1 Kirri, Talented Sprout
+COMMANDER: 1 Yuma, Proud Protector [OTC:4] [foil]
+1 Kirri, Talented Sprout [OTC:7] [foil]
 1 Scavenger Grounds
 1 Sun Titan
 1 Omnath, Locus of Rage
