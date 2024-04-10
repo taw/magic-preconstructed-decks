@@ -1,0 +1,11 @@
+// NAME: Third Vanguard Series
+// SOURCE: https://mtg.fandom.com/wiki/Vanguard_(card_type)
+// DATE: 1997-12-01
+1 Eladamri
+1 Lyna
+1 Multani
+1 Oracle
+1 Rofellos
+1 Sidar Kondo
+1 Sliver Queen, Brood Mother
+1 Takara
