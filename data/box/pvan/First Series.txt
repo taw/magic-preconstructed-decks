@@ -1,0 +1,11 @@
+// NAME: First Vanguard Series
+// SOURCE: https://mtg.fandom.com/wiki/Vanguard_Gift_Box
+// DATE: 1997-12-01
+1 Ertai
+1 Gerrard
+1 Karn
+1 Maraxus
+1 Mirri
+1 Sisay
+1 Squee
+1 Tahngarth
