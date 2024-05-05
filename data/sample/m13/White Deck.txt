@@ -1,0 +1,20 @@
+// NAME: White Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
+// DATE: 2012-07-13
+13 Plains [M13]
+1 Abbey Griffin [ISD]
+1 Ajani's Sunstriker [M13]
+1 Chapel Geist [ISD]
+1 Guardian Lions [M13]
+1 Healer of the Pride [M13]
+1 Seraph of Dawn [AVR]
+1 Serra Angel [M13]
+2 Silvercoat Lion [M13]
+1 Warclamp Mastiff [M13]
+1 Elixir of Immortality [M13]
+1 Angel's Mercy [M13] // could be AVR too
+1 Zealous Strike [AVR]
+1 Divine Verdict [M13]
+1 Defang [AVR]
+1 Divine Favor [M13]
+1 Pacifism [M13]
