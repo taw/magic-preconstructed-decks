@@ -1,0 +1,17 @@
+// NAME: White Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// DATE: 2015-07-17
+13 Plains [ORI]
+1 Aegis Angel [ORI]
+1 Akroan Jailer [ORI]
+2 Charging Griffin [ORI]
+1 Eagle of the Watch [ORI]
+1 Heavy Infantry [ORI]
+1 Sentinel of the Eternal Watch [ORI]
+1 Serra Angel [ORI]
+2 Yoked Ox [ORI]
+2 Divine Verdict [ORI]
+2 Grasp of the Hieromancer [ORI]
+1 Meteorite [ORI]
+1 Mighty Leap [ORI]
+1 Valor in Akros [ORI]

@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// DATE: 2015-07-17
+13 Swamp [ORI]
+2 Catacomb Slug [ORI]
+1 Deadbridge Shaman [ORI]
+1 Eyeblight Assassin [ORI]
+1 Gold-Forged Sentinel [ORI]
+1 Malakir Cullblade [ORI]
+1 Nightmare [ORI]
+1 Rabid Bloodsucker [ORI]
+1 Sengir Vampire [ORI]
+2 Shambling Ghoul [ORI]
+1 Cruel Revival [ORI]
+1 Flesh to Dust [ORI]
+1 Infernal Scarring [ORI]
+1 Mind Rot [ORI]
+1 Reave Soul [ORI]
+1 Weight of the Underworld [ORI]
