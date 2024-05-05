@@ -1,0 +1,17 @@
+// NAME: Black Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Swamp [M11]
+2 Barony Vampire [M11]
+1 Blood Seeker [ZEN]
+2 Child of Night [M11]
+1 Pulse Tracker [WWK]
+1 Ruthless Cullblade [WWK]
+1 Vampire Lacerator [ZEN]
+1 Vampire Nighthawk [ZEN]
+2 Stabbing Pain [M11]
+1 Urge to Feed [WWK]
+2 Blood Tithe [M11]
+1 Feast of Blood [ZEN]
+1 Rise from the Grave [M11]
+2 Unholy Strength [M11]

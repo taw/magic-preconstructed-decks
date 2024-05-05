@@ -1,0 +1,19 @@
+// NAME: White Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Plains [M11]
+2 Ajani's Pridemate [M11]
+1 Assault Griffin [M11]
+1 Dawnglare Invoker [ROE]
+1 Goldenglow Moth [M11]
+1 Lone Missionary [ROE]
+2 Pillarfield Ox [ZEN]
+1 Serra Angel [M11]
+1 Soul's Attendant [ROE]
+1 Tireless Missionaries [M11]
+1 Condemn [M11]
+1 Safe Passage [M11]
+1 Solemn Offering [M11]
+1 Ajani's Mantra [M11]
+1 Nimbus Wings [ZEN]
+2 Pacifism [M11]

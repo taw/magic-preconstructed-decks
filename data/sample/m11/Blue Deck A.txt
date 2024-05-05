@@ -1,0 +1,18 @@
+// NAME: Blue Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Island [M11]
+1 Guard Gomazoa [ROE]
+1 Harbor Serpent [M11]
+1 Hedron Crab [ZEN]
+1 Merfolk Observer [ROE]
+1 Reckless Scholar [ZEN]
+2 Sea Gate Oracle [ROE]
+1 Wall of Frost [M11]
+1 Diminish [M11]
+1 Jace's Ingenuity [M11]
+2 Negate [M11]
+2 Preordain [M11]
+1 Tome Scour [M11]
+1 Jace's Erasure [M11]
+2 Paralyzing Grasp [ZEN]

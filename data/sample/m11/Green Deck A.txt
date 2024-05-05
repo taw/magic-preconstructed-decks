@@ -1,0 +1,18 @@
+// NAME: Green Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Forest [M11]
+1 Arbor Elf [WWK]
+1 Awakener Druid [M11]
+1 Baloth Woodcrasher [M11] // could be ZEN too
+1 Giant Spider [M11]
+2 Grazing Gladehart [ZEN]
+1 Ondu Giant [ROE]
+2 Sylvan Ranger [M11]
+2 Timbermaw Larva [ZEN]
+1 Vastwood Gorger [M11]
+1 Fog [M11]
+1 Harrow [ZEN]
+1 Naturalize [M11]
+2 Primal Bellow [ZEN]
+1 Vastwood Zendikon [WWK]

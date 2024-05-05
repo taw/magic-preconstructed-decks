@@ -1,0 +1,17 @@
+// NAME: Black Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+13 Swamp [M11]
+2 Death Cultist [ROE]
+1 Giant Scorpion [ZEN]
+1 Gravedigger [M11]
+2 Liliana's Specter [M11]
+2 Nether Horror [M11]
+1 Nightwing Shade [M11]
+1 Reassembling Skeleton [M11]
+2 Disfigure [ZEN]
+1 Doom Blade [M11]
+1 Corrupt [M11]
+1 Diabolic Tutor [M11]
+1 Mind Rot [M11]
+1 Liliana's Caress [M11]

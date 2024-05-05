@@ -1,0 +1,18 @@
+// NAME: Green Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Forest [M11]
+2 Garruk's Companion [M11]
+1 Greater Basilisk [M11]
+1 Leatherback Baloth [WWK]
+2 Llanowar Elves [M11]
+1 Garruk's Packleader [M11]
+1 Prized Unicorn [M11]
+1 Sacred Wolf [M11]
+1 Wall of Vines [M11]
+2 Yavimaya Wurm [M11]
+1 Giant Growth [M11]
+1 Cultivate [M11]
+1 Explore [WWK]
+2 Feral Contest [WWK]
+1 Canopy Cover [WWK]
