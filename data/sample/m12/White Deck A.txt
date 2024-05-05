@@ -1,0 +1,18 @@
+// NAME: White Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// DATE: 2011-07-15
+13 Plains [M12]
+1 Alabaster Mage [M12]
+2 Assault Griffin [M12]
+1 Auramancer [M12]
+1 Inquisitor Exarch [NPH]
+2 Kemba's Skyguard [SOM]
+1 Loxodon Wayfarer [SOM]
+1 Pride Guardian [M12]
+1 Shattered Angel [NPH]
+1 Siege Mastodon [M12]
+1 Greatsword [M12]
+1 Banishment Decree [MBS]
+2 Arrest [SOM]
+1 Divine Favor [M12]
+1 Lifelink [M12]

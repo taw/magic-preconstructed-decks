@@ -1,0 +1,19 @@
+// NAME: Green Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// DATE: 2011-07-15
+12 Forest [M12]
+1 Alpha Tyrranax [SOM]
+1 Ezuri's Archers [SOM]
+2 Garruk's Companion [M12]
+1 Gladecover Scout [M12]
+1 Llanowar Elves [M12]
+2 Runeclaw Bear [M12]
+1 Sacred Wolf [M12]
+2 Tangle Mantis [MBS]
+1 Hunter's Insight [M12]
+1 Plummet [M12]
+1 Slice in Twain [SOM]
+1 Titanic Growth [M12]
+1 Lead the Stampede [MBS]
+1 Lure [M12]
+1 Trollhide [M12]

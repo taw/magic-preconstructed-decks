@@ -1,0 +1,16 @@
+// NAME: Red Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// DATE: 2011-07-15
+12 Mountain [M12]
+2 Blisterstick Shaman [MBS]
+2 Goblin Arsonist [M12]
+1 Goblin Bangchuckers [M12]
+2 Goblin Fireslinger [M12]
+2 Goblin Piker [M12]
+2 Goblin Tunneler [M12]
+1 Goblin Wardriver [MBS]
+2 Shock [M12]
+1 Slaughter Cry [M12]
+1 Goblin Grenade [M12]
+1 Tectonic Rift [M12]
+1 Goblin War Paint [M12]
