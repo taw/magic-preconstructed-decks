@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
 12 Island [M11]
-1 AEther Adept [M11]
+1 Aether Adept [M11]
 1 Air Servant [M11]
 2 Augury Owl [M11]
 2 Azure Drake [M11]

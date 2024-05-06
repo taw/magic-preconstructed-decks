@@ -5,7 +5,7 @@
 1 Angel of Mercy [10E]
 2 Apothecary Initiate [SHM]
 1 Goldenglow Moth [SHM]
-2 Skyhunter Patrol []
+2 Skyhunter Patrol [10E]
 2 Venerable Monk [10E]
 2 Youthful Knight [10E]
 1 Angel's Feather [10E]
