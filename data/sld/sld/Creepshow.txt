@@ -8,4 +8,4 @@
 1 [SLD:1462a] Unholy Grotto
 
 Sideboard
-1 [SLD:750] Terror
+1 [SLD:750a] Terror

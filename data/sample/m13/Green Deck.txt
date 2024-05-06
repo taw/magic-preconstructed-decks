@@ -13,6 +13,7 @@
 1 Fog [M13]
 2 Titanic Growth [M13]
 1 Bountiful Harvest [M13]
-2 Prey Upon [M13] // could be AVR too
+// could be AVR too:
+2 Prey Upon [M13]
 1 Ranger's Path [M13]
 1 Revive [M13]

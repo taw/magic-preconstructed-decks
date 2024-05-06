@@ -12,7 +12,8 @@
 2 Silvercoat Lion [M13]
 1 Warclamp Mastiff [M13]
 1 Elixir of Immortality [M13]
-1 Angel's Mercy [M13] // could be AVR too
+ // could be AVR too:
+1 Angel's Mercy [M13]
 1 Zealous Strike [AVR]
 1 Divine Verdict [M13]
 1 Defang [AVR]

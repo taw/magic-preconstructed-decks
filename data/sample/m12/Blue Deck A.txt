@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
 12 Island [M12]
-2 Æther Adept [M12]
+2 Aether Adept [M12]
 2 Aven Fleetwing [M12]
 2 Coral Merfolk [M12]
 1 Lumengrid Gargoyle [MBS]

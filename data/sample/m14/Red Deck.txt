@@ -12,7 +12,8 @@
 2 Chandra's Outrage [M14]
 1 Shock [M14]
 1 Thunder Strike [M14]
-1 Act of Treason [M14] // could be GTC too
+// could be GTC too:
+1 Act of Treason [M14]
 1 Flames of the Firebrand [M14]
 1 Lava Axe [M14]
 1 Seismic Stomp [M14]

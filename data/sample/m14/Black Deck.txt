@@ -13,7 +13,8 @@
 1 Wring Flesh [M14]
 1 Assassin's Strike [RTR]
 1 Corrupt [M14]
-1 Mind Rot [M14] // could be RTR too
+// could be RTR too:
+1 Mind Rot [M14]
 1 Mark of the Vampire [M14]
 2 Quag Sickness [M14]
 1 Sinister Possession [DGM]

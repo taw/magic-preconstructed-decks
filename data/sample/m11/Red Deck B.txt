@@ -7,7 +7,8 @@
 1 Ember Hauler [M11]
 2 Goblin Roughrider [WWK]
 2 Goblin Shortcutter [ZEN]
-1 Goblin Tunneler [M11] // could be ROE too
+// could be ROE too:
+1 Goblin Tunneler [M11]
 2 Torch Slinger [ZEN]
 1 Flame Slash [ROE]
 1 Forked Bolt [ROE]
