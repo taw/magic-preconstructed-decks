@@ -1,0 +1,16 @@
+// NAME: Black Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Swamp [10E]
+2 Highway Robber [10E]
+2 Moonglove Winnower [LRW]
+2 Ravenous Rats [10E]
+2 Smolder Initiate [SHM]
+1 Afflict [10E]
+1 Corrupt [SHM]
+1 Distress [10E]
+2 Essence Drain [10E]
+1 Gloomlance [SHM]
+2 Mind Rot [10E]
+1 Contaminated Bond [10E]
+1 Megrim [10E]

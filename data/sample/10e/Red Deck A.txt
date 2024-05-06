@@ -1,0 +1,15 @@
+// NAME: Red Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Mountain [10E]
+2 Boggart Forager [LRW]
+2 Goblin Sky Raider [10E]
+2 Goblin Piker [10E]
+1 Horde of Boggarts [SHM]
+2 Mudbrawler Cohort [SHM]
+2 Mudbutton Torchrunner [LRW]
+2 Raging Goblin [10E]
+1 Tar Pitcher [LRW]
+1 Fists of the Anvil [10E]
+1 Ember Gale [SHM]
+2 Spitting Earth [10E]

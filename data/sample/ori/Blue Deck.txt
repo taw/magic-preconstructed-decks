@@ -1,0 +1,17 @@
+// NAME: Blue Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// DATE: 2015-07-17
+13 Island [ORI]
+1 Jhessian Thief [ORI]
+1 Mahamoti Djinn [ORI]
+2 Maritime Guard [ORI]
+1 Ringwarden Owl [ORI]
+1 Scrapskin Drake [ORI]
+2 Separatist Voidmage [ORI]
+1 Tower Geist [ORI]
+2 Claustrophobia [ORI]
+1 Disperse [ORI]
+1 Hydrolash [ORI]
+1 Into the Void [ORI]
+1 Veteran's Sidearm [ORI]
+2 Weave Fate [ORI]

@@ -1,0 +1,17 @@
+// NAME: Green Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// DATE: 2015-07-17
+13 Forest [ORI]
+1 Conclave Naturalists [ORI]
+1 Elvish Visionary [ORI]
+1 Hitchclaw Recluse [ORI]
+2 Leaf Gilder [ORI]
+1 Prized Unicorn [ORI]
+1 Terra Stomper [ORI]
+2 Vastwood Gorger [ORI]
+1 Yeva's Forcemage [ORI]
+1 Jayemdae Tome [ORI]
+1 Joraga Invocation [ORI]
+1 Mantle of Webs [ORI]
+2 Plummet [ORI]
+2 Titanic Growth [ORI]

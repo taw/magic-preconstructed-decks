@@ -1,0 +1,18 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
+// DATE: 2014-07-18
+13 Swamp [M15]
+1 Gravedigger [M15]
+1 Nightmare [M15]
+1 Paragon of Open Graves [M15]
+1 Sengir Vampire [M15]
+2 Typhoid Rats [M15]
+1 Walking Corpse [M15]
+2 Witch's Familiar [M15]
+1 Zof Shade [M15]
+1 Crippling Blight [M15]
+1 Festergloom [M15]
+2 Flesh to Dust [M15]
+1 Mind Rot [M15]
+1 Sign in Blood [M15]
+1 Staff of the Death Magus [M15]

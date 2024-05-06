@@ -1,0 +1,15 @@
+// NAME: Blue Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Island [10E]
+1 Air Elemental [10E]
+2 Briarberry Cohort [SHM]
+2 Cloud Elemental [10E]
+2 Cloud Sprite [10E]
+2 Sage Owl [10E]
+2 Snapping Drake [10E]
+1 Thieving Magpie [10E]
+2 Disperse [MOR]
+1 Unsummon [10E]
+1 Dehydration [10E]
+2 Robe of Mirrors [10E]

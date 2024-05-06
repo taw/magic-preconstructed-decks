@@ -1,0 +1,19 @@
+// NAME: Black Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// DATE: 2011-07-15
+13 Swamp [M12]
+1 Child of Night [M12]
+2 Devouring Swarm [M12]
+1 Gravedigger [M12]
+2 Mortis Dogs [NPH]
+1 Reassembling Skeleton [M12]
+1 Sengir Vampire [M12]
+1 Warpath Ghoul [M12]
+1 Zombie Goliath [M12]
+1 Doom Blade [M12]
+1 Consume Spirit [M12]
+1 Disentomb [M12]
+1 Distress [M12]
+1 Mind Rot [M12]
+1 Brink of Disaster [M12]
+1 Zombie Infestation [M12]

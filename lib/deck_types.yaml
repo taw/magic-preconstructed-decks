@@ -252,6 +252,12 @@ pw:
   name: "Planeswalker Deck"
   sections:
     Main Deck: 60
+sample:
+  category: "deck"
+  format: "casual"
+  name: "Sample Deck"
+  sections:
+    Main Deck: 30
 sdcc:
   category: "box"
   format: null

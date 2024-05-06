@@ -1,0 +1,16 @@
+// NAME: White Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Plains [10E]
+1 Angel of Mercy [10E]
+2 Apothecary Initiate [SHM]
+1 Goldenglow Moth [SHM]
+2 Skyhunter Patrol []
+2 Venerable Monk [10E]
+2 Youthful Knight [10E]
+1 Angel's Feather [10E]
+1 Holy Day [10E]
+1 Reviving Dose [10E]
+2 Angelic Blessing [10E]
+1 Heart of Light [10E]
+2 Pacifism [10E]

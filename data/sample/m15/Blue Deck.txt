@@ -1,0 +1,18 @@
+// NAME: Blue Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
+// DATE: 2014-07-18
+13 Island [M15]
+2 Frost Lynx [M15]
+2 Fugitive Wizard [M15]
+1 Mahamoti Djinn [M15]
+2 Nimbus of the Isles [M15]
+1 Paragon of Gathering Mists [M15]
+1 Research Assistant [M15]
+1 Welkin Tern [M15]
+1 Cancel [M15]
+1 Chronostutter [M15]
+1 Divination [M15]
+1 Into the Void [M15]
+1 Jace's Ingenuity [M15]
+1 Negate [M15]
+1 Staff of the Mind Magus [M15]

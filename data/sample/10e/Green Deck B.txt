@@ -1,0 +1,17 @@
+// NAME: Green Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+11 Forest [10E]
+2 Civic Wayfinder [10E]
+2 Elvish Berserker [10E]
+1 Elvish Eulogist [LRW]
+2 Elvish Warrior [MOR]
+1 Gilt-Leaf Seer [LRW]
+1 Jagged-Scar Archers [LRW]
+2 Leaf Gilder [LRW]
+2 Llanowar Elves [10E]
+2 Giant Growth [10E]
+1 Commune with Nature [10E]
+1 Creeping Mold [10E]
+1 Natural Spring [10E]
+1 Treetop Bracers [10E]

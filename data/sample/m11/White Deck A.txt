@@ -1,0 +1,17 @@
+// NAME: White Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Plains [M11]
+2 Cloud Crusader [M11]
+1 Elite Vanguard [M11]
+1 Infantry Veteran [M11]
+1 Kor Hookmaster [ZEN]
+1 Shepherd of the Lost [ZEN]
+2 Silvercoat Lion [M11]
+2 Wild Griffin [M11]
+1 Mighty Leap [M11]
+1 Excommunicate [M11]
+1 Windborne Charge [ZEN]
+1 Armored Ascension [M11]
+2 Holy Strength [M11]
+2 Journey to Nowhere [ZEN]

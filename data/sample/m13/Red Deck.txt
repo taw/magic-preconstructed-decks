@@ -1,0 +1,19 @@
+// NAME: Red Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
+// DATE: 2012-07-13
+13 Mountain [M13]
+1 Bladetusk Boar [M13]
+1 Dragon Hatchling [M13]
+1 Fervent Cathar [AVR]
+1 Fire Elemental [M13]
+1 Furnace Whelp [M13]
+1 Goblin Arsonist [M13]
+1 Goblin Battle Jester [M13]
+2 Riot Devils [ISD]
+1 Scalding Devil [AVR]
+1 Chandra's Fury [M13]
+1 Kindled Fury [M13]
+2 Searing Spear [M13]
+1 Cleaver Riot [M13]
+1 Flames of the Firebrand [M13]
+1 Wild Guess [M13]

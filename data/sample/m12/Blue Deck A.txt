@@ -1,0 +1,17 @@
+// NAME: Blue Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// DATE: 2011-07-15
+12 Island [M12]
+2 Æther Adept [M12]
+2 Aven Fleetwing [M12]
+2 Coral Merfolk [M12]
+1 Lumengrid Gargoyle [MBS]
+1 Neurok Invisimancer [SOM]
+1 Phantasmal Dragon [M12]
+1 Skywinder Drake [M12]
+1 Spire Monitor [NPH]
+2 Cancel [M12]
+2 Frost Breath [M12]
+1 Turn to Frog [M12]
+1 Unsummon [M12]
+1 Mind Control [M12]

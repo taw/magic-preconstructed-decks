@@ -1,0 +1,16 @@
+// NAME: Red Deck A
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+13 Mountain [M11]
+2 Arc Runner [M11]
+1 Chandra's Spitfire [M11]
+1 Fire Servant [M11]
+2 Goblin Arsonist [ROE]
+1 Prodigal Pyromancer [M11]
+1 Shatterskull Giant [ZEN]
+2 Chandra's Outrage [M11]
+1 Fling [M11]
+2 Lightning Bolt [M11]
+1 Act of Treason [M11]
+1 Fireball [M11]
+2 Lava Axe [M11]

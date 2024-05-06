@@ -1,0 +1,19 @@
+// NAME: Blue Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
+// DATE: 2012-07-13
+12 Island [M13]
+1 Archaeomancer [M13]
+1 Gryff Vanguard [AVR]
+1 Jace's Phantasm [M13]
+2 Kraken Hatchling [M13]
+1 Mist Raven [AVR]
+1 Scroll Thief [M13]
+1 Vedalken Entrancer [M13]
+2 Wind Drake [M13]
+1 Essence Scatter [M13]
+2 Thought Scour [DKA]
+1 Unsummon [M13]
+1 Divination [M13]
+1 Mind Sculpt [M13]
+1 Sleep [M13]
+1 Switcheroo [M13]

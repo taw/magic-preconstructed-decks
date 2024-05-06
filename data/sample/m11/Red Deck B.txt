@@ -1,0 +1,17 @@
+// NAME: Red Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// DATE: 2010-07-16
+12 Mountain [M11]
+2 Battle-Rattle Shaman [ROE]
+2 Goblin Balloon Brigade [M11]
+1 Ember Hauler [M11]
+2 Goblin Roughrider [WWK]
+2 Goblin Shortcutter [ZEN]
+1 Goblin Tunneler [M11] // could be ROE too
+2 Torch Slinger [ZEN]
+1 Flame Slash [ROE]
+1 Forked Bolt [ROE]
+1 Spire Barrage [ZEN]
+1 Quest for the Goblin Lord [WWK]
+1 Shiv's Embrace [M11]
+1 Volcanic Strength [M11]

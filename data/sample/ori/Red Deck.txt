@@ -1,0 +1,18 @@
+// NAME: Red Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// DATE: 2015-07-17
+13 Mountain [ORI]
+1 Bellows Lizard [ORI]
+2 Cobblebrute [ORI]
+1 Enthralling Victor [ORI]
+1 Fiery Hellhound [ORI]
+1 Runed Servitor [ORI]
+1 Seismic Elemental [ORI]
+1 Shivan Dragon  [ORI]
+2 Subterranean Scout [ORI]
+1 Volcanic Rambler [ORI]
+2 Act of Treason [ORI]
+1 Chandra's Fury [ORI]
+1 Fiery Conclusion [ORI]
+1 Lightning Javelin [ORI]
+1 Titan's Strength [ORI]
