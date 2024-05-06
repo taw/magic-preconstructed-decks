@@ -6,3 +6,6 @@
 1 [SLD:1460a] Zombie Master [foil]
 1 [SLD:1461a] Grimgrin, Corpse-Born [foil]
 1 [SLD:1462a] Unholy Grotto [foil]
+
+Sideboard
+1 [SLD:750] Terror [foil]
