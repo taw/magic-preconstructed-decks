@@ -5,3 +5,6 @@
 1 [SLD:1538] Fluttershy [foil]
 1 [SLD:1539] Pinkie Pie [foil]
 1 [SLD:1540] Rainbow Dash [foil]
+
+Sideboard
+1 [SLD:798] Discord, Lord of Disharmony [foil]
