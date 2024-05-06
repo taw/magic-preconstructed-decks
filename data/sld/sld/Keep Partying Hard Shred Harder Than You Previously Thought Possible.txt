@@ -5,3 +5,6 @@
 1 [SLD:1200] Godo, Bandit Warlord
 1 [SLD:1201] Jeska, Thrice Reborn
 1 [SLD:1202] Vial Smasher the Fierce
+
+Sideboard
+1 [SLD:1199] Tevesh Szat, Doom of Fools
