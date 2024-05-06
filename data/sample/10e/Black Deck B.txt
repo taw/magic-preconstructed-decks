@@ -1,0 +1,17 @@
+// NAME: Black Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Swamp [10E]
+2 Dross Crocodile [10E]
+1 Drudge Skeletons [10E]
+1 Festering Goblin [10E]
+1 Gravedigger [10E]
+1 Looming Shade [10E]
+2 Scathe Zombies [10E]
+2 Severed Legion [10E]
+2 Spineless Thug [10E]
+1 Diabolic Tutor [10E]
+2 Terror [10E]
+1 Assassinate [10E]
+1 Recover [10E]
+1 Unholy Strength [10E]

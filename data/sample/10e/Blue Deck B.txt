@@ -1,0 +1,18 @@
+// NAME: Blue Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Island [10E]
+1 Aven Windreader [10E]
+1 Aven Fisher [10E]
+2 Drowner Initiate [SHM]
+2 Lumengrid Warden [10E]
+2 Merrow Witsniper [MOR]
+1 Sea Monster [10E]
+1 Wall of Air [10E]
+1 Moonglove Extract [LRW]
+1 Cancel [10E]
+1 Peek [10E]
+2 Remove Soul [10E]
+1 Ponder [LRW]
+1 Sift [10E]
+1 Persuasion [10E]

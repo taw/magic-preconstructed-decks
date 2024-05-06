@@ -1,0 +1,16 @@
+// NAME: White Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Plains [10E]
+2 Honor Guard [10E]
+1 Loxodon Mystic [10E]
+1 Samite Healer [10E]
+1 Skyhunter Prowler [10E]
+2 Steadfast Guard [10E]
+2 Suntail Hawk [10E]
+2 Wild Griffin [10E]
+2 Neck Snap [LRW]
+1 Armored Ascension [SHM]
+1 Holy Strength [10E]
+1 Serra's Embrace [10E]
+2 Soaring Hope [LRW]

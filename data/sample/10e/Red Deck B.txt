@@ -1,0 +1,17 @@
+// NAME: Red Deck B
+// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// DATE: 2007-07-13
+12 Mountain [10E]
+1 Anaba Bodyguard [10E]
+1 Axegrinder Giant [LRW]
+2 Flamekin Brawler [LRW]
+1 Hill Giant [10E]
+2 Lightning Elemental [10E]
+1 Prodigal Pyromancer [10E]
+1 Wall of Fire [10E]
+2 Incinerate [10E]
+1 Kindled Fury [MOR]
+2 Shock [10E]
+1 Blaze [10E]
+2 Lava Axe [10E]
+1 Demolish [10E]
