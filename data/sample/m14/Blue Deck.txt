@@ -1,0 +1,21 @@
+// NAME: Blue Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// DATE: 2012-07-13
+13 Island [M14]
+1 Air Servant [M14]
+1 Archaeomancer [M14]
+1 Coral Merfolk [M14]
+1 Messenger Drake [M14]
+1 Phantom Warrior [M14]
+1 Scroll Thief [M14]
+1 Seacoast Drake [M14]
+1 Skyline Predator [RTR]
+1 Warden of Evos Isle [M14]
+1 Wind Drake [DGM]
+1 Cancel [M14]
+1 Disperse [M14]
+1 Essence Scatter [M14]
+1 Frost Breath [M14]
+1 Divination [M14]
+1 Time Ebb [M14]
+1 Claustrophobia [M14]

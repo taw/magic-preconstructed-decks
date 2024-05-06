@@ -1,0 +1,20 @@
+// NAME: Green Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// DATE: 2012-07-13
+13 Forest [M14]
+1 Archweaver [RTR]
+1 Axebane Stag [RTR]
+1 Brindle Boar [M14]
+1 Deadly Recluse [M14]
+2 Elvish Mystic [M14]
+1 Giant Spider [M14]
+1 Kalonian Tusker [M14]
+1 Rootwalla [M14]
+1 Rumbling Baloth [M14]
+1 Woodborn Behemoth [M14]
+1 Chorus of Might [RTR]
+1 Fog [M14]
+1 Giant Growth [M14]
+1 Wildwood Rebirth [GTC]
+1 Hunt the Weak [M14]
+1 Seek the Horizon [RTR]

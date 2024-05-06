@@ -1,0 +1,19 @@
+// NAME: White Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// DATE: 2012-07-13
+13 Plains [M14]
+1 Assault Griffin [GTC]
+1 Auramancer [M14]
+1 Capashen Knight [M14]
+1 Concordia Pegasus [RTR]
+2 Master of Diversion [M14]
+1 Serra Angel [M14]
+1 Soulmender [M14]
+1 Stonehorn Chanter [M14]
+1 Sunspire Griffin [RTR]
+1 Brave the Elements [M14]
+1 Show of Valor [M14]
+1 Righteous Charge [GTC]
+1 Divine Favor [M14]
+1 Ethereal Armor [RTR]
+2 Pacifism [M14]

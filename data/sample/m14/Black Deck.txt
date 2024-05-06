@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// DATE: 2014-07-19
+13 Swamp [M14]
+1 Child of Night [M14]
+1 Corpse Hauler [M14]
+1 Deathgaze Cockatrice [M14]
+1 Gutter Skulk [GTC]
+1 Nightwing Shade [M14]
+1 Sengir Vampire [M14]
+2 Undead Minotaur [M14]
+1 Vampire Warlord [M14]
+1 Wring Flesh [M14]
+1 Assassin's Strike [RTR]
+1 Corrupt [M14]
+1 Mind Rot [M14] // could be RTR too
+1 Mark of the Vampire [M14]
+2 Quag Sickness [M14]
+1 Sinister Possession [DGM]

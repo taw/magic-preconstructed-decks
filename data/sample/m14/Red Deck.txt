@@ -1,0 +1,19 @@
+// NAME: Red Deck
+// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// DATE: 2012-07-13
+13 Mountain [M14]
+1 Canyon Minotaur [M14]
+1 Dragon Hatchling [M14]
+2 Goblin Shortcutter [M14]
+1 Guttersnipe [RTR]
+1 Pitchburn Devils [M14]
+1 Regathan Firecat [M14]
+1 Ripscale Predator [GTC]
+2 Chandra's Outrage [M14]
+1 Shock [M14]
+1 Thunder Strike [M14]
+1 Act of Treason [M14] // could be GTC too
+1 Flames of the Firebrand [M14]
+1 Lava Axe [M14]
+1 Seismic Stomp [M14]
+1 Volcanic Geyser [M14]
