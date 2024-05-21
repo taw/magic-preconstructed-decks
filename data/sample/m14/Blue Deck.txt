@@ -1,6 +1,6 @@
 // NAME: Blue Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
-// DATE: 2012-07-13
+// DATE: 2014-07-19
 13 Island [M14]
 1 Air Servant [M14]
 1 Archaeomancer [M14]

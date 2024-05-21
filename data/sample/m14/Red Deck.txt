@@ -1,6 +1,6 @@
 // NAME: Red Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
-// DATE: 2012-07-13
+// DATE: 2014-07-19
 13 Mountain [M14]
 1 Canyon Minotaur [M14]
 1 Dragon Hatchling [M14]

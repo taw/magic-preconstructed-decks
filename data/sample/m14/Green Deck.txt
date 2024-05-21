@@ -1,6 +1,6 @@
 // NAME: Green Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
-// DATE: 2012-07-13
+// DATE: 2014-07-19
 13 Forest [M14]
 1 Archweaver [RTR]
 1 Axebane Stag [RTR]

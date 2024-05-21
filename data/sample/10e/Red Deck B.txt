@@ -1,6 +1,6 @@
 // NAME: Red Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
-// DATE: 2007-07-13
+// DATE: 2008-05-02
 12 Mountain [10E]
 1 Anaba Bodyguard [10E]
 1 Axegrinder Giant [LRW]

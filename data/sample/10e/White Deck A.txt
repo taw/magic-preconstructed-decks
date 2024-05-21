@@ -1,6 +1,6 @@
 // NAME: White Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
-// DATE: 2007-07-13
+// DATE: 2008-05-02
 12 Plains [10E]
 1 Angel of Mercy [10E]
 2 Apothecary Initiate [SHM]

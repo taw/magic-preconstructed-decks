@@ -254,7 +254,7 @@ pw:
     Main Deck: 60
 sample:
   category: "deck"
-  format: "casual"
+  format: "casual standard"
   name: "Sample Deck"
   sections:
     Main Deck: 30
