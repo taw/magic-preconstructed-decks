@@ -1,4 +1,4 @@
-// NAME: White Deck
+// NAME: White Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
 // DATE: 2012-07-13
 13 Plains [M13]

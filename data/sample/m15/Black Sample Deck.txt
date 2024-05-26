@@ -1,4 +1,4 @@
-// NAME: Black Deck
+// NAME: Black Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
 // DATE: 2014-07-18
 13 Swamp [M15]
