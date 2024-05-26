@@ -149,12 +149,6 @@ guild-kit:
   name: "Guild Kit"
   sections:
     Main Deck: 60
-halfdeck-std:
-  category: "halfdeck"
-  format: "standard"
-  name: "Halfdeck"
-  sections:
-    Main Deck: 30
 halfdeck:
   category: "halfdeck"
   format: "casual"
