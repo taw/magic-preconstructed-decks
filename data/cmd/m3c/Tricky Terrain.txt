@@ -1,0 +1,100 @@
+// NAME: Tricky Terrain
+// SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
+// DATE: 2024-06-14
+COMMANDER: 1 Omo, Queen of Vesuva [foil]
+1 Jyoti, Moag Ancient [foil]
+1 March from Velis Vel
+1 Wonderscape Sage
+1 Copy Land
+1 Desert Warfare
+1 Trenchpost
+1 Sage of the Maze
+1 Lazotep Quarry
+1 Rampant Frogantua
+1 Sunken Palace
+1 Horizon of Progress
+1 Planar Nexus
+1 Aggressive Biomancy
+1 Talon Gates of Madara
+1 Hydroid Krasis
+1 Terastodon
+1 Lair of the Hydra
+1 Nissa, Steward of Elements
+1 Magus of the Candelabra
+1 Lumbering Falls
+1 Blast Zone
+1 Apex Devastator
+1 Dreamroot Cascade
+1 Summary Dismissal
+1 Yavimaya Coast
+1 Flooded Grove
+1 Hour of Promise
+1 Ramunap Excavator
+1 Hydra Broodmaster
+1 Drown in Dreams
+1 Vineglimmer Snarl
+1 Vivien Reid
+1 Yavimaya, Cradle of Growth
+1 Dryad of the Ilysian Grove
+1 Mirage Mirror
+1 Overflowing Basin
+1 Temple of Mystery
+1 Chromatic Lantern
+1 Oblivion Stone
+1 Scute Swarm
+1 Ulvenwald Hydra
+1 Evacuation
+1 Replication Technique
+1 Finale of Revelation
+1 Mana Reflection
+1 Uro, Titan of Nature's Wrath
+1 Curse of the Swine
+1 Vesuva
+1 Dark Depths
+1 Thespian's Stage
+1 Avenger of Zendikar
+1 Seer's Sundial
+1 Rampaging Baloths
+1 Fog Bank
+1 Urza's Power Plant
+1 Urza's Tower
+1 Urza's Mine
+1 Satyr Wayfinder
+1 Arcane Denial
+1 Simic Guildgate
+1 Treasure Cruise
+1 Sol Ring
+1 Basilisk Gate
+1 Beast Within
+1 Tatyova, Benthic Druid
+1 Propaganda
+1 Simic Growth Chamber
+1 Floriferous Vinewall
+1 Arcane Signet
+1 Desert of the Indomitable
+1 Hashep Oasis
+1 Expedition Map
+1 Hidden Cataract
+1 Hidden Nursery
+1 Volatile Fault
+1 Growth Spiral
+1 Elvish Rejuvenator
+1 Urban Evolution
+1 Harmonize
+1 Thornwood Falls
+1 Cloudpost
+1 Sylvan Scrying
+1 Acidic Slime
+1 Pongify
+1 Lush Oasis
+1 Skullwinder
+1 Desert of the Mindful
+1 Command Tower
+1 Poison Dart Frog
+1 Glimmerpost
+1 Eureka Moment
+1 Quandrix Campus
+3 Island
+4 Forest
+
+Sideboard

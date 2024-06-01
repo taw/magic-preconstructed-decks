@@ -1,0 +1,88 @@
+// NAME: Creative Energy
+// SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
+// DATE: 2024-06-14
+COMMANDER: 1 Satya, Aetherflux Genius [foil]
+1 Cayth, Famed Mechanist [foil]
+1 Sphinx of the Revelation
+1 Filigree Racer
+1 Localized Destruction
+1 Aether Refinery
+1 Hourglass of the Lost
+1 Salvation Colossus
+1 Blaster Hulk
+1 Razorfield Ripper
+1 Silverquill Lecturer
+1 Overclocked Electromancer
+1 Stone Idol Generator
+1 Aurora Shifter
+1 Conversion Apparatus
+1 Gonti's Aether Heart
+1 Lightning Runner
+1 Aethertide Whale
+1 Aethergeode Miner
+1 Aethersphere Harvester
+1 Bident of Thassa
+1 Temple of Enlightenment
+1 Battlefield Forge
+1 Myr Battlesphere
+1 Grenzo, Havoc Raiser
+1 Brudiclad, Telchor Engineer
+1 Coveted Jewel
+1 Goldspan Dragon
+1 Legion Loyalty
+1 Mystic Gate
+1 Akroma's Will
+1 Adarkar Wastes
+1 Shivan Reef
+1 Coalition Relic
+1 Combustible Gearhulk
+1 Aetherworks Marvel
+1 Angel of Invention
+1 Confiscation Coup
+1 Aetherstorm Roc
+1 Aethersquall Ancient
+1 Frostboil Snarl
+1 Austere Command
+1 Furycalm Snarl
+1 Midnight Clock
+1 Professional Face-Breaker
+1 Farewell
+1 Port Town
+1 Temple of Triumph
+1 Solemn Simulacrum
+1 Temple of Epiphany
+1 Prairie Stream
+1 Skyclave Apparition
+1 Castle Vantress
+1 Jolted Awake
+1 Bespoke Battlewagon
+1 Roil Cartographer
+1 Unstable Amulet
+1 Amped Raptor
+1 Solar Transformer
+1 Scurry of Gremlins
+1 Izzet Generatorium
+1 Talisman of Conviction
+1 Tezzeret's Gambit
+1 Izzet Boilerworks
+1 Azorius Chancery
+1 Talisman of Progress
+1 Command Tower
+1 Burnished Hart
+1 Arcane Signet
+1 Sol Ring
+1 Era of Innovation
+1 Aether Hub
+1 Decoction Module
+1 Glimmer of Genius
+1 Whirler Virtuoso
+1 Talisman of Creativity
+1 Swords to Plowshares
+1 Wayfarer's Bauble
+1 Demolition Field
+1 Mystic Monastery
+10 Plains
+5 Island
+5 Mountain
+
+Sideboard
