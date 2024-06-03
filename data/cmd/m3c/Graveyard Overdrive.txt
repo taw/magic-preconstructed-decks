@@ -1,8 +1,8 @@
 // NAME: Graveyard Overdrive
 // SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
 // DATE: 2024-06-14
-COMMANDER: 1 Disa the Restless [foil]
-1 Coram, the Undertaker [foil]
+COMMANDER: 1 Disa the Restless [foil] [M3C:1]
+1 Coram, the Undertaker [foil] [M3C:7]
 1 Bloodbraid Challenger
 1 Broodmate Tyrant
 1 Tempt with Mayhem

@@ -1,8 +1,8 @@
 // NAME: Creative Energy
 // SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
 // DATE: 2024-06-14
-COMMANDER: 1 Satya, Aetherflux Genius [foil]
-1 Cayth, Famed Mechanist [foil]
+COMMANDER: 1 Satya, Aetherflux Genius [foil] [M3C:3]
+1 Cayth, Famed Mechanist [foil] [M3C:6]
 1 Sphinx of the Revelation
 1 Filigree Racer
 1 Localized Destruction

@@ -1,8 +1,8 @@
 // NAME: Tricky Terrain
 // SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
 // DATE: 2024-06-14
-COMMANDER: 1 Omo, Queen of Vesuva [foil]
-1 Jyoti, Moag Ancient [foil]
+COMMANDER: 1 Omo, Queen of Vesuva [foil] [M3C:2]
+1 Jyoti, Moag Ancient [foil] [M3C:8]
 1 March from Velis Vel
 1 Wonderscape Sage
 1 Copy Land

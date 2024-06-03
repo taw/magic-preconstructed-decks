@@ -1,8 +1,8 @@
 // NAME: Eldrazi Incursion
 // SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
 // DATE: 2024-06-14
-COMMANDER: 1 Ulalek, Fused Atrocity [foil]
-1 Azlask, the Swelling Scourge [foil]
+COMMANDER: 1 Ulalek, Fused Atrocity [foil] [M3C:4]
+1 Azlask, the Swelling Scourge [foil] [M3C:5]
 1 Ulamog's Dreadsire
 1 Benthic Anomaly
 1 Eldritch Immunity
