@@ -89,8 +89,11 @@ COMMANDER: 1 Disa the Restless [foil] [M3C:1]
 1 Sol Ring
 1 Talisman of Impulse
 1 Evolving Wilds
-4 Swamp [MH3]
-3 Mountain [MH3]
-5 Forest [MH3]
+2 Swamp [MH3:314]
+2 Swamp [MH3:315]
+2 Mountain [MH3:316]
+1 Mountain [MH3:317]
+3 Forest [MH3:318]
+2 Forest [MH3:319]
 
 Sideboard
