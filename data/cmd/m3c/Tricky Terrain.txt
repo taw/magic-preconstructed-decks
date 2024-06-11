@@ -94,7 +94,9 @@ COMMANDER: 1 Omo, Queen of Vesuva [foil] [M3C:2]
 1 Glimmerpost
 1 Eureka Moment
 1 Quandrix Campus
-3 Island [MH3]
-4 Forest [MH3]
+2 Island [MH3:312]
+1 Island [MH3:313]
+2 Forest [MH3:318]
+2 Forest [MH3:319]
 
 Sideboard
