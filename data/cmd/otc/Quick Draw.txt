@@ -74,7 +74,9 @@ COMMANDER: 1 Stella Lee, Wild Card [OTC:3] [foil]
 1 Reliquary Tower
 1 Izzet Boilerworks
 1 Propaganda
-14 Island
-13 Mountain
+7 Island [OTJ:279]
+7 Island [OTJ:280]
+7 Mountain [OTJ:283]
+6 Mountain [OTJ:284]
 
 Sideboard

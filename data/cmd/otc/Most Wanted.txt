@@ -93,8 +93,11 @@ COMMANDER: 1 Olivia, Opulent Outlaw [OTC:2] [foil]
 1 Sunhome, Fortress of the Legion
 1 Nomad Outpost
 1 Temple of the False God
-2 Plains
-4 Swamp
-2 Mountain
+1 Plains [OTJ:277]
+1 Plains [OTJ:278]
+2 Swamp [OTJ:281]
+2 Swamp [OTJ:282]
+1 Mountain [OTJ:283]
+1 Mountain [OTJ:284]
 
 Sideboard

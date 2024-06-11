@@ -86,8 +86,11 @@ COMMANDER: 1 Gonti, Canny Acquisitor [OTC:1] [foil]
 1 Access Tunnel
 1 Dimir Aqueduct
 1 Opulent Palace
-5 Island
-6 Swamp
-4 Forest
+3 Island [OTJ:279]
+2 Island [OTJ:280]
+3 Swamp [OTJ:281]
+3 Swamp [OTJ:282]
+2 Forest [OTJ:285]
+2 Forest [OTJ:286]
 
 Sideboard

@@ -84,8 +84,11 @@ COMMANDER: 1 Yuma, Proud Protector [OTC:4] [foil]
 1 Abraded Bluffs
 1 Scaretiller
 1 Nantuko Cultivator
-6 Plains
-4 Mountain
-7 Forest
+3 Plains [OTJ:277]
+3 Plains [OTJ:278]
+2 Mountain [OTJ:283]
+2 Mountain [OTJ:284]
+4 Forest [OTJ:285]
+3 Forest [OTJ:286]
 
 Sideboard
