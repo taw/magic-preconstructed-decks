@@ -9,7 +9,7 @@ COMMANDER: 1 Ulalek, Fused Atrocity [foil] [M3C:4]
 1 Selective Obliteration
 1 Angelic Aberration
 1 Bismuth Mindrender
-1 Hideous Taskmaster
+1 Hideous Taskmaster [M3C:109]
 1 Twins of Discord
 1 Mutated Cultist
 1 Eldrazi Confluence
@@ -59,19 +59,19 @@ COMMANDER: 1 Ulalek, Fused Atrocity [foil] [M3C:4]
 1 Bonders' Enclave
 1 Exotic Orchard
 1 Forsaken Monument
-1 Snapping Voidcraw
+1 Snapping Voidcraw [MH3:204]
 1 Herald's Horn
 1 Everflowing Chalice
-1 Glaring Fleshraker
-1 Wastescape Battlemage
+1 Glaring Fleshraker [MH3:7]
+1 Wastescape Battlemage [MH3:17]
 1 Crib Swap
-1 Titans' Vanguard
+1 Titans' Vanguard [MH3:206]
 1 Talisman of Resilience
 1 Hedron Archive
 1 Spawning Bed
 1 Ulamog's Nullifier
-1 Twisted Landscape
-1 Tranquil Landscape
+1 Twisted Landscape [MH3:232]
+1 Tranquil Landscape [MH3:231]
 1 Tectonic Edge
 1 Reliquary Tower
 1 Sol Ring

@@ -54,14 +54,14 @@ COMMANDER: 1 Satya, Aetherflux Genius [foil] [M3C:3]
 1 Prairie Stream
 1 Skyclave Apparition
 1 Castle Vantress
-1 Jolted Awake
-1 Bespoke Battlewagon
-1 Roil Cartographer
-1 Unstable Amulet
-1 Amped Raptor
-1 Solar Transformer
-1 Scurry of Gremlins
-1 Izzet Generatorium
+1 Jolted Awake [MH3:33]
+1 Bespoke Battlewagon [MH3:52]
+1 Roil Cartographer [MH3:67]
+1 Unstable Amulet [MH3:142]
+1 Amped Raptor [MH3:114]
+1 Solar Transformer [MH3:211]
+1 Scurry of Gremlins [MH3:203]
+1 Izzet Generatorium [MH3:191]
 1 Talisman of Conviction
 1 Tezzeret's Gambit
 1 Izzet Boilerworks

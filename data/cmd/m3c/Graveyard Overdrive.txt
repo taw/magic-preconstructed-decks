@@ -65,7 +65,7 @@ COMMANDER: 1 Disa the Restless [foil] [M3C:1]
 1 Syr Konrad, the Grim
 1 Grapple with the Past
 1 Dakmor Salvage
-1 Accursed Marauder
+1 Accursed Marauder [MH3:80]
 1 Brawn
 1 Faithless Looting
 1 Rampant Growth
