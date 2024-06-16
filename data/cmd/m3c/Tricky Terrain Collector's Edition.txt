@@ -1,4 +1,4 @@
-// NAME: Tricky Terrain
+// NAME: Tricky Terrain Collector's Edition
 // SOURCE: https://magic.wizards.com/en/news/announcements/modern-horizons-3-commander-decklists
 // DATE: 2024-06-14
 COMMANDER: 1 Omo, Queen of Vesuva [foil] [M3C:141]
