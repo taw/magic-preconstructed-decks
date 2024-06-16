@@ -51,7 +51,7 @@ COMMANDER: 1 Disa the Restless [foil] [M3C:1]
 1 Terminate
 1 Demolition Field
 1 Command Tower
-1 Twisted Landscape
+1 Twisted Landscape [MH3:232]
 1 Grisly Salvage
 1 Yavimaya Elder
 1 Bituminous Blast
