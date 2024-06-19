@@ -26,5 +26,7 @@
 1 Ram Through
 1 Wirewood Pride
 1 Vow of Wildness
-24 Forest
+8 Forest [GN3:134]
+8 Forest [GN3:135]
+8 Forest [GN3:136]
 1 Imaryll, Elfhame Elite [foil]

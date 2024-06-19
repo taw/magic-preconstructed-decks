@@ -25,5 +25,7 @@
 1 Sword of Vengeance
 2 Trusty Machete
 1 Vow of Duty
-26 Plains
+9 Plains [GN3:122]
+9 Plains [GN3:123]
+8 Plains [GN3:124]
 1 Zamriel, Seraph of Steel [foil]
