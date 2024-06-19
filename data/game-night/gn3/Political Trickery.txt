@@ -24,5 +24,7 @@
 1 Supreme Will
 1 Bloodthirsty Blade
 1 Vow of Flight
-25 Island
+9 Island [GN3:125]
+8 Island [GN3:126]
+8 Island [GN3:127]
 1 Maeve, Insidious Singer [foil]

@@ -20,7 +20,9 @@
 3 Lightning Strike
 2 Roc Hunter
 4 Swiftwater Cliffs
-11 Island
-11 Mountain
+6 Island [WOE:269]
+5 Island [WOE:270]
+6 Mountain [WOE:273]
+5 Mountain [WOE:274]
 
 Sideboard

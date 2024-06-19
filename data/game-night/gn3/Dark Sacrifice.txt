@@ -25,6 +25,8 @@
 1 Bloodsoaked Altar
 1 Demonic Embrace
 1 Liliana's Mastery
-26 Swamp
+9 Swamp [GN3:128]
+9 Swamp [GN3:129]
+8 Swamp [GN3:130]
 1 Vogar, Necropolis Tyrant [foil]
 1 Vow of Torment

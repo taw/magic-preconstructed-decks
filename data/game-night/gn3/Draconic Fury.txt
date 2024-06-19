@@ -24,5 +24,7 @@
 1 Crucible of Fire
 1 Dragon Tempest
 1 Vow of Lightning
-25 Mountain
+9 Mountain [GN3:131]
+8 Mountain [GN3:132]
+8 Mountain [GN3:133]
 1 Nogi, Draco-Zealot [foil]

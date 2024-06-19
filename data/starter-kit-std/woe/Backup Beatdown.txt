@@ -23,7 +23,9 @@
 2 Broken Wings
 2 Fairgrounds Trumpeter
 4 Blossoming Sands
-12 Forest
-10 Plains
+6 Forest [WOE:275]
+6 Forest [WOE:276]
+5 Plains [WOE:267]
+5 Plains [WOE:268]
 
 Sideboard
