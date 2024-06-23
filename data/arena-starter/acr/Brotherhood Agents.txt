@@ -1,0 +1,25 @@
+// NAME: Brotherhood Agents
+// SOURCE: https://magic.wizards.com/en/news/announcements/assassins-creed-starter-kit-decklists
+// DATE: 2024-07-05
+1 Achilles Davenport
+1 Ezio, Blade of Vengeance [foil]
+2 Auditore Ambush
+1 Rooftop Bypass
+3 Tranquilize
+2 Hookblade Veteran
+3 Brotherhood Spy
+2 Assassin Den
+3 Merciless Harlequin
+2 Brotherhood Patriarch
+2 Poison-Blade Mentor
+3 Brotherhood Ambushers
+3 Hired Blade
+3 Submerged Boneyard
+1 Assassin Initiate
+1 Restart Sequence
+1 Chain Assassination
+1 Towering Viewpoint
+1 Eagle Vision
+2 Murder
+11 Island
+11 Swamp
