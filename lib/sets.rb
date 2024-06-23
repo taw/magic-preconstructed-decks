@@ -16,6 +16,7 @@ MagicSets = {
   "8ed" => "Eighth Edition",
   "9ed" => "Ninth Edition",
   "a25" => "Masters 25",
+  "acr" => "Assassin's Creed",
   "aer" => "Aether Revolt",
   "afc" => "Forgotten Realms Commander",
   "afr" => "Adventures in the Forgotten Realms",
