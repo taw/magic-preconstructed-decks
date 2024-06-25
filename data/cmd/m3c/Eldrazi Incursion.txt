@@ -9,7 +9,7 @@ COMMANDER: 1 Ulalek, Fused Atrocity [foil] [M3C:4]
 1 Selective Obliteration
 1 Angelic Aberration
 1 Bismuth Mindrender
-1 Hideous Taskmaster [M3C:109]
+1 Hideous Taskmaster [M3C:57]
 1 Twins of Discord
 1 Mutated Cultist
 1 Eldrazi Confluence
