@@ -4,6 +4,3 @@
 1 [SLD:60] Storm Crow [foil]
 1 [SLD:61] Goblin Snowman [foil]
 1 [SLD:62] Mudhole [foil]
-
-Sideboard
-1 [SLD:537] Tibalt, the Fiend-Blooded [foil]

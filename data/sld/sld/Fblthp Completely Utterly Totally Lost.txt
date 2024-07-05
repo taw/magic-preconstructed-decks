@@ -6,6 +6,3 @@
 1 [SLD:228] Frantic Search
 1 [SLD:229] Intruder Alarm
 1 [SLD:230] Shelldock Isle
-
-Sideboard
-1 [SLD:583] Fblthp, the Lost

@@ -5,6 +5,3 @@
 1 [SLD:120] Sower of Temptation
 1 [SLD:121] Damnation
 1 [SLD:122] Enchanted Evening
-
-Sideboard
-1 [SLD:539] Swamp

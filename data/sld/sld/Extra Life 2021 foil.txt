@@ -7,7 +7,3 @@
 1 [SLD:376] Craterhoof Behemoth [foil]
 1 [SLD:377] Metalwork Colossus [foil]
 1 [SLD:378] Metalwork Colossus [foil]
-
-Sideboard
-1 [SLD:671] Questing Phelddagrif [foil]
-1 [SLD:672] Questing Phelddagrif [foil]

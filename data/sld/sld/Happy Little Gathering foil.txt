@@ -11,6 +11,3 @@
 1 [SLD:107] Mountain [foil]
 1 [SLD:108] Forest [foil]
 1 [SLD:109] Forest [foil]
-
-Sideboard
-1 [SLD:538] Evolving Wilds [foil]

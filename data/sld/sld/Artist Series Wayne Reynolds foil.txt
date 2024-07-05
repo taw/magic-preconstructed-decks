@@ -5,6 +5,3 @@
 1 [SLD:462] Balthor the Defiled [foil]
 1 [SLD:463] Torbran, Thane of Red Fell [foil]
 1 [SLD:464] Depala, Pilot Exemplar [foil]
-
-Sideboard
-1 [SLD:678] Torbran, Thane of Red Fell [foil]

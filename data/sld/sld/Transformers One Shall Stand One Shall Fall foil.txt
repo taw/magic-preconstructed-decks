@@ -6,6 +6,3 @@
 1 [SLD:1090] Swamp [foil]
 1 [SLD:1091] Mountain [foil]
 1 [SLD:1092] Forest [foil]
-
-Sideboard
-1 [SLD:710] Command Tower [foil]

@@ -6,6 +6,3 @@
 1 [SLD:1582] The Celestial Toymaker [foil]
 1 [SLD:1583] The Fourteenth Doctor [foil]
 1 [SLD:1584] The Fifteenth Doctor [foil]
-
-Sideboard
-1 [SLD:803] Sonic Screwdriver [foil]

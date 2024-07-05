@@ -8,6 +8,3 @@
 1 [SLD:26] Mirri, Weatherlight Duelist [foil]
 1 [SLD:27] Cat [token]
 1 [SLD:28] Cat [token]
-
-Sideboard
-1 [SLD:520] Ajani, the Greathearted [foil]

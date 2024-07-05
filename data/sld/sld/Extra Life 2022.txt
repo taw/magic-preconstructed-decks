@@ -7,7 +7,3 @@
 1 [SLD:1148] Birds of Paradise
 1 [SLD:1149] Sliver Legion
 1 [SLD:1150] Sliver Legion
-
-Sideboard
-1 [SLD:718] Maro
-1 [SLD:719] Maro

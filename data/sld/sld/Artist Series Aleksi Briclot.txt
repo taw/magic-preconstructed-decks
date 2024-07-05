@@ -5,6 +5,3 @@
 1 [SLD:1152] Inquisition of Kozilek
 1 [SLD:1153] Reality Smasher
 1 [SLD:1154] Eldrazi Temple
-
-Sideboard
-1 [SLD:720] Thought-Knot Seer

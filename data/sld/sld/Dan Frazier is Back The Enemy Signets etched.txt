@@ -7,6 +7,3 @@
 1 [SLD:293] Izzet Signet [foil] [etched]
 1 [SLD:294] Orzhov Signet [foil] [etched]
 1 [SLD:295] Simic Signet [foil] [etched]
-
-Sideboard
-1 [SLD:589] Arcane Signet [foil] [etched]

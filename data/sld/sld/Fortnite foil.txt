@@ -8,6 +8,3 @@
 1 [SLD:445] Triumph of the Hordes [foil]
 1 [SLD:446] Smuggler's Copter [foil]
 1 [SLD:447] Planar Bridge [foil]
-
-Sideboard
-1 [SLD:676] Pyrite Spellbomb

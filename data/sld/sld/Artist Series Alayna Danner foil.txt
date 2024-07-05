@@ -5,6 +5,3 @@
 1 [SLD:1290] Sunblast Angel [foil]
 1 [SLD:1291] Emeria, the Sky Ruin [foil]
 1 [SLD:1292] Seraph Sanctuary [foil]
-
-Sideboard
-1 [SLD:733] Seraph Sanctuary [foil]

@@ -5,6 +5,3 @@
 1 [SLD:30] Serum Visions [foil]
 1 [SLD:31] Serum Visions [foil]
 1 [SLD:32] Serum Visions [foil]
-
-Sideboard
-1 [SLD:528] Ashiok, Dream Render [foil]

@@ -8,6 +8,3 @@
 1 [SLD:481] Krosan Grip [foil]
 1 [SLD:482] Counterflux [foil]
 1 [SLD:483] Thran Dynamo [foil]
-
-Sideboard
-1 [SLD:696] Spore Frog [foil]

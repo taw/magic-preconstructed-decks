@@ -8,6 +8,3 @@
 1 [SLD:1016] Old Gnawbone [foil]
 1 [SLD:1017] Tiamat [foil]
 1 [SLD:1018] Icingdeath, Frost Tongue [foil] [token]
-
-Sideboard
-1 [SLD:709] Dragon's Hoard [foil]

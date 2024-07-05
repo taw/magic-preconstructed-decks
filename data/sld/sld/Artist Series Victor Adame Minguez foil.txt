@@ -5,6 +5,3 @@
 1 [SLD:1045] Knight of the White Orchid [foil]
 1 [SLD:1046] Lord of the Undead [foil]
 1 [SLD:1047] Compost [foil]
-
-Sideboard
-1 [SLD:707] Knight Exemplar [foil]

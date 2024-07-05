@@ -6,6 +6,3 @@
 1 [SLD:279] Carpet of Flowers [foil]
 1 [SLD:280] Sphere of Safety [foil]
 1 [SLD:281] Karmic Guide [foil]
-
-Sideboard
-1 [SLD:588] Sphere of Safety [foil]

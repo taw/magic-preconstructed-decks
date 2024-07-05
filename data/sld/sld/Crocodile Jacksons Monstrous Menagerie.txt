@@ -6,6 +6,3 @@
 1 [SLD:307] Pathbreaker Ibex
 1 [SLD:308] Temur Sabertooth
 1 [SLD:309] Winding Constrictor
-
-Sideboard
-1 [SLD:590] Lurking Crocodile

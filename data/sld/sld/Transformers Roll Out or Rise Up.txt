@@ -7,6 +7,3 @@
 1 [SLD:1085] Collective Brutality
 1 [SLD:1086] By Force
 1 [SLD:1087] Greater Good
-
-Sideboard
-1 [SLD:710] Command Tower

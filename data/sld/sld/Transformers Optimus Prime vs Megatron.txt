@@ -4,6 +4,3 @@
 1 [SLD:1079a] Blightsteel Colossus
 1 [SLD:1080a] Doubling Cube
 1 [SLD:1081a] Darksteel Colossus
-
-Sideboard
-1 [SLD:710] Command Tower

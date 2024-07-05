@@ -5,6 +5,3 @@
 1 [SLD:165] Consecrated Sphinx [foil]
 1 [SLD:166] Collected Company [foil]
 1 [SLD:167] Amulet of Vigor [foil]
-
-Sideboard
-1 [SLD:520] Ajani, the Greathearted [foil]

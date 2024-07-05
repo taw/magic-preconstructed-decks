@@ -8,6 +8,3 @@
 1 [SLD:313] Impact Tremors
 1 [SLD:314] Primal Vigor
 1 [SLD:315] Commander's Sphere
-
-Sideboard
-1 [SLD:591] Crash Through

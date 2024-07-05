@@ -4,6 +4,3 @@
 1 [SLD:1079a] Blightsteel Colossus [foil]
 1 [SLD:1080a] Doubling Cube [foil]
 1 [SLD:1081a] Darksteel Colossus [foil]
-
-Sideboard
-1 [SLD:710] Command Tower [foil]

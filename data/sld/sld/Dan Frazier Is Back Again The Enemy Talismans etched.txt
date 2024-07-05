@@ -6,6 +6,3 @@
 1 [SLD:1059] Talisman of Resilience [foil] [etched]
 1 [SLD:1060] Talisman of Conviction [foil] [etched]
 1 [SLD:1061] Talisman of Curiosity [foil] [etched]
-
-Sideboard
-1 [SLD:708] Fellwar Stone [foil] [etched]

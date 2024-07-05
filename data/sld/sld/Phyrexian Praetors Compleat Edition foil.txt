@@ -7,6 +7,3 @@
 1 [SLD:211] Sheoldred, Whispering One [foil]
 1 [SLD:212] Urabrask the Hidden [foil]
 1 [SLD:213] Vorinclex, Voice of Hunger [foil]
-
-Sideboard
-1 [SLD:560] Swamp [foil]

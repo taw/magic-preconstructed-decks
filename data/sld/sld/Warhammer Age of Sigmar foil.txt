@@ -6,6 +6,3 @@
 1 [SLD:1032] Najeela, the Blade-Blossom [foil]
 1 [SLD:1033] Scourge of the Throne [foil]
 1 [SLD:1034] Loxodon Warhammer [foil]
-
-Sideboard
-1 [SLD:705] Wastes [foil]

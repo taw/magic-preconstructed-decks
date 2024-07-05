@@ -9,6 +9,3 @@
 1 [SLD:433] Tadeas, Juniper Ascendant
 1 [SLD:434] Immard, the Stormcleaver
 1 [SLD:435] Maarika, Brutal Gladiator
-
-Sideboard
-1 [SLD:675] Lightning Bolt

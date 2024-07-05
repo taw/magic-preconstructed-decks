@@ -1,7 +1,6 @@
 // NAME: Artist Series Ryan Alexander Lee foil
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Summer_Superdrop_2023
 // DATE: 2023-06-26
-// DISPLAY: Bonus card unknown
 1 [SLD:1302] Nemesis of Reason [foil]
 1 [SLD:1303] Gaea's Blessing [foil]
 1 [SLD:1304] Twilight Prophet [foil]

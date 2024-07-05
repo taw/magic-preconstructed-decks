@@ -5,6 +5,3 @@
 1 [SLD:1152] Inquisition of Kozilek [foil]
 1 [SLD:1153] Reality Smasher [foil]
 1 [SLD:1154] Eldrazi Temple [foil]
-
-Sideboard
-1 [SLD:720] Thought-Knot Seer [foil]

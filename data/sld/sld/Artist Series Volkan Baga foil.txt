@@ -5,6 +5,3 @@
 1 [SLD:1002] Patron Wizard [foil]
 1 [SLD:1003] Berserk [foil]
 1 [SLD:1004] Verduran Enchantress [foil]
-
-Sideboard
-1 [SLD:701] Elspeth, Knight-Errant [foil]

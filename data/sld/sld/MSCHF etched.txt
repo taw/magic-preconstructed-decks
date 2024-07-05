@@ -7,7 +7,3 @@
 1 [SLD:366] Blood Moon [foil] [etched]
 1 [SLD:367a] Cut [foil] [etched]
 1 [SLD:368] Teferi's Puzzle Box [foil]
-
-Sideboard
-1 [SLD:669] Battlefield Forge [foil]
-1 [SLD:670] Plains [foil]

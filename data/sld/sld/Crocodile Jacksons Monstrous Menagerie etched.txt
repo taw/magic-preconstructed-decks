@@ -6,6 +6,3 @@
 1 [SLD:307] Pathbreaker Ibex [foil] [etched]
 1 [SLD:308] Temur Sabertooth [foil] [etched]
 1 [SLD:309] Winding Constrictor [foil] [etched]
-
-Sideboard
-1 [SLD:590] Lurking Crocodile [foil] [etched]

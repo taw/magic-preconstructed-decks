@@ -5,6 +5,3 @@
 1 [SLD:1286] Selfless Savior [foil]
 1 [SLD:1287] Akroma, Angel of Fury [foil]
 1 [SLD:1288] Umezawa's Jitte [foil]
-
-Sideboard
-1 [SLD:732] Selfless Savior [foil]

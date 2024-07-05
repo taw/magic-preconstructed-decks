@@ -6,6 +6,3 @@
 1 [SLD:1374] Blooming Marsh [foil]
 1 [SLD:1375] Inspiring Vantage [foil]
 1 [SLD:1376] Botanical Sanctum [foil]
-
-Sideboard
-1 [SLD:738] Woodland Cemetery [foil]

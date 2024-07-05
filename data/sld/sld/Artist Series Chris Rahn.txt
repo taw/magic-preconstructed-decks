@@ -5,6 +5,3 @@
 1 [SLD:494] Primeval Titan
 1 [SLD:495a] Huntmaster of the Fells
 1 [SLD:496] Platinum Angel
-
-Sideboard
-1 [SLD:700a] Huntmaster of the Fells

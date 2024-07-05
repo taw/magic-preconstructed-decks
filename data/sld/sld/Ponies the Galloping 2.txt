@@ -5,6 +5,3 @@
 1 [SLD:1538] Fluttershy
 1 [SLD:1539] Pinkie Pie
 1 [SLD:1540] Rainbow Dash
-
-Sideboard
-1 [SLD:798] Discord, Lord of Disharmony 

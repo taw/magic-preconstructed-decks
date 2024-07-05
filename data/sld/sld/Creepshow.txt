@@ -6,6 +6,3 @@
 1 [SLD:1460a] Zombie Master
 1 [SLD:1461a] Grimgrin, Corpse-Born
 1 [SLD:1462a] Unholy Grotto
-
-Sideboard
-1 [SLD:750a] Terror

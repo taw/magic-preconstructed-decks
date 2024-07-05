@@ -6,6 +6,3 @@
 1 [SLD:135] Scavenging Ooze
 1 [SLD:136] The Mimeoplasm
 1 [SLD:137] Voidslime
-
-Sideboard
-1 [SLD:536] Vraska, Swarm's Eminence [foil]

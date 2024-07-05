@@ -7,6 +7,3 @@
 1 [SLD:1038] Fling
 1 [SLD:1039] Defense of the Heart
 1 [SLD:1040] Fellwar Stone
-
-Sideboard
-1 [SLD:706] Wastes

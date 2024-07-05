@@ -7,6 +7,3 @@
 1 [SLD:187] Decree of Pain
 1 [SLD:188] Gamble
 1 [SLD:189] Nature's Lore
-
-Sideboard
-1 [SLD:516] Arlinn, Voice of the Pack [foil]

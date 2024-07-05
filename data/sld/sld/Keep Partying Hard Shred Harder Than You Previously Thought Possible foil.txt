@@ -5,6 +5,3 @@
 1 [SLD:1200] Godo, Bandit Warlord [foil]
 1 [SLD:1201] Jeska, Thrice Reborn [foil]
 1 [SLD:1202] Vial Smasher the Fierce [foil]
-
-Sideboard
-1 [SLD:1199] Tevesh Szat, Doom of Fools [foil]

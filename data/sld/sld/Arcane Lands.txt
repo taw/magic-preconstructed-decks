@@ -6,6 +6,3 @@
 1 [SLD:486] Swamp
 1 [SLD:487] Mountain
 1 [SLD:488] Forest
-
-Sideboard
-1 [SLD:697] Command Tower

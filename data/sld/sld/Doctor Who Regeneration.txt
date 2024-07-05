@@ -6,6 +6,3 @@
 1 [SLD:1582] The Celestial Toymaker
 1 [SLD:1583] The Fourteenth Doctor
 1 [SLD:1584] The Fifteenth Doctor
-
-Sideboard
-1 [SLD:803] Sonic Screwdriver
