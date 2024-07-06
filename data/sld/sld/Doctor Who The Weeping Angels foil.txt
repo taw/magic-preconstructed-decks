@@ -6,6 +6,3 @@
 1 [SLD:1379] Blinding Angel [foil]
 1 [SLD:1380] Restoration Angel [foil]
 1 [SLD:1381] Sublime Archangel [foil]
-
-Sideboard
-1 [SLD:739] Isolated Chapel [foil]

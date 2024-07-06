@@ -5,6 +5,3 @@
 1 [SLD:84] Lightning Bolt [foil]
 1 [SLD:85] Lightning Bolt [foil]
 1 [SLD:86] Lightning Bolt [foil]
-
-Sideboard
-1 [SLD:523] Ral, Storm Conduit [foil]

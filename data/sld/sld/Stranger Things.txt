@@ -10,6 +10,3 @@
 1 [SLD:346] Othelm, Sigardian Outcast
 1 [SLD:347] Wernog, Rider's Chaplain
 1 [SLD:348] Clue [token]
-
-Sideboard
-1 [SLD:609a] Havengul Laboratory

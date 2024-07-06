@@ -7,6 +7,3 @@
 1 [SLD:217] Boros Charm
 1 [SLD:218] Gisela, Blade of Goldnight
 1 [SLD:219] Goblin [token]
-
-Sideboard
-1 [SLD:572] Forest [foil]

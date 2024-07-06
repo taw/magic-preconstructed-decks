@@ -8,6 +8,3 @@
 1 [SLD:445] Triumph of the Hordes
 1 [SLD:446] Smuggler's Copter
 1 [SLD:447] Planar Bridge
-
-Sideboard
-1 [SLD:676] Pyrite Spellbomb

@@ -6,6 +6,3 @@
 1 [SLD:1027] Krenko, Tin Street Kingpin [foil]
 1 [SLD:1028] Zurgo Helmsmasher [foil]
 1 [SLD:1029] Skysovereign, Consul Flagship [foil]
-
-Sideboard
-1 [SLD:704] Wastes [foil]

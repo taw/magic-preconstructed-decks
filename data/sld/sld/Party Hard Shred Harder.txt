@@ -6,6 +6,3 @@
 1 [SLD:140] Decimate
 1 [SLD:141] Dreadbore
 1 [SLD:142] Thraximundar
-
-Sideboard
-1 [SLD:527] Angrath, Captain of Chaos [foil]

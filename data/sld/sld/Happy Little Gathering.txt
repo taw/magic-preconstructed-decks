@@ -11,6 +11,3 @@
 1 [SLD:107] Mountain
 1 [SLD:108] Forest
 1 [SLD:109] Forest
-
-Sideboard
-1 [SLD:538] Evolving Wilds

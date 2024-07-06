@@ -5,6 +5,3 @@
 1 Carnage Tyrant [SLD:1174] [foil]
 1 Fleshbag Marauder [SLD:1175] [foil]
 1 It That Betrays [SLD:1176] [foil]
-
-Sideboard
-1 Fleshbag Marauder [SLD:725] [foil]

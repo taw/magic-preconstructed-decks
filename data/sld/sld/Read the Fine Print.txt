@@ -6,6 +6,3 @@
 1 [SLD:161] Liliana's Contract
 1 [SLD:162] Kothophed, Soul Hoarder
 1 [SLD:163] Razaketh, the Foulblooded
-
-Sideboard
-1 [SLD:510] Liliana, Dreadhorde General [foil]

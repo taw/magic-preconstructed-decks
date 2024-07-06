@@ -5,6 +5,3 @@
 1 [SLD:206] Exquisite Blood [foil]
 1 [SLD:207] Night's Whisper [foil]
 1 [SLD:208] Phyrexian Tower [foil]
-
-Sideboard
-1 [SLD:562] Swamp [foil]

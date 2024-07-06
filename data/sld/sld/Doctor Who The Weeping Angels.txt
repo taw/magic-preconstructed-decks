@@ -6,6 +6,3 @@
 1 [SLD:1379] Blinding Angel
 1 [SLD:1380] Restoration Angel
 1 [SLD:1381] Sublime Archangel
-
-Sideboard
-1 [SLD:739] Isolated Chapel

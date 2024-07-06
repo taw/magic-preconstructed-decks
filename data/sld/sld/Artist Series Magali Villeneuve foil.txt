@@ -5,6 +5,3 @@
 1 [SLD:474] Death's Shadow [foil]
 1 [SLD:475] Elvish Mystic [foil]
 1 [SLD:476] Forest [foil]
-
-Sideboard
-1 [SLD:690] Forest [foil]

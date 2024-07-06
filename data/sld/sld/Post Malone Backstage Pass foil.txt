@@ -5,6 +5,3 @@
 1 [SLD:1187] Bolas's Citadel [foil]
 1 [SLD:1188] Leshrac's Sigil [foil]
 1 [SLD:1189] Jet Medallion [foil]
-
-Sideboard
-1 [SLD:726] Zur the Enchanter [foil]

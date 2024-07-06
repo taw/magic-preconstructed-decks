@@ -5,6 +5,3 @@
 1 [SLD:1094] Tireless Tracker [foil]
 1 [SLD:1095] Contagion Engine [foil]
 1 [SLD:1096] Sword of Truth and Justice [foil]
-
-Sideboard
-1 [SLD:711] Tireless Tracker [foil]

@@ -7,6 +7,3 @@
 1 [SLD:1240] Holga, Relentless Rager
 1 [SLD:1241a] Doric, Nature's Warden
 1 [SLD:1242] Edgin, Larcenous Lutenist
-
-Sideboard
-1 [SLD:728] Themberchaud

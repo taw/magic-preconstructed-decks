@@ -5,6 +5,3 @@
 1 [SLD:97] Dig Through Time [foil]
 1 [SLD:98] Ancient Grudge [foil]
 1 [SLD:99] Lightning Greaves [foil]
-
-Sideboard
-1 [SLD:517] Jiang Yanggu, Wildcrafter [foil]

@@ -6,6 +6,3 @@
 1 [SLD:1374] Blooming Marsh
 1 [SLD:1375] Inspiring Vantage
 1 [SLD:1376] Botanical Sanctum
-
-Sideboard
-1 [SLD:738] Woodland Cemetery

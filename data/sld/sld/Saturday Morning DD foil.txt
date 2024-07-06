@@ -8,6 +8,3 @@
 1 [SLD:313] Impact Tremors [foil]
 1 [SLD:314] Primal Vigor [foil]
 1 [SLD:315] Commander's Sphere [foil]
-
-Sideboard
-1 [SLD:591] Crash Through [foil]

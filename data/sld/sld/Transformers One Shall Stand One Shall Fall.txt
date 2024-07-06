@@ -6,6 +6,3 @@
 1 [SLD:1090] Swamp
 1 [SLD:1091] Mountain
 1 [SLD:1092] Forest
-
-Sideboard
-1 [SLD:710] Command Tower

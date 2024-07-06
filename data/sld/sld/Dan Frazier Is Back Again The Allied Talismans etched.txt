@@ -6,6 +6,3 @@
 1 [SLD:1054] Talisman of Indulgence [foil] [etched]
 1 [SLD:1055] Talisman of Impulse [foil] [etched]
 1 [SLD:1056] Talisman of Unity [foil] [etched]
-
-Sideboard
-1 [SLD:708] Fellwar Stone [foil] [etched]

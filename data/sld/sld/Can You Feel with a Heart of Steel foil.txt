@@ -4,6 +4,3 @@
 1 [SLD:56] Arcbound Ravager [foil]
 1 [SLD:57] Darksteel Colossus [foil]
 1 [SLD:58] Walking Ballista [foil]
-
-Sideboard
-1 [SLD:501] Karn, the Great Creator [foil]

@@ -5,6 +5,3 @@
 1 [SLD:1252] Serra the Benevolent [foil]
 1 [SLD:1253] Stoneforge Mystic [foil]
 1 [SLD:1254] Muddle the Mixture [foil]
-
-Sideboard
-1 [SLD:730] Cleansing Nova [foil]

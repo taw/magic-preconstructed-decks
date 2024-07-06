@@ -6,6 +6,3 @@
 1 [SLD:1170] Dark Ritual [foil]
 1 [SLD:1171] Midnight Reaper [foil]
 1 [SLD:1172] Seize the Day [foil]
-
-Sideboard
-1 [SLD:724] Lightning Strike [foil]

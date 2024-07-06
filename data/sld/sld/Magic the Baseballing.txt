@@ -1,6 +1,5 @@
 // NAME: Magic The Baseballing
 // SOURCE: https://secretlair.wizards.com/us/en/product/865798/magic-the-baseballing
-// DISPLAY: Bonus card unknown
 // DATE: 2023-09-15
 1 [SLD:1453a] Ajani Goldmane
 1 [SLD:1454a] Jace Beleren

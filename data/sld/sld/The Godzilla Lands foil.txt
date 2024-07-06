@@ -6,6 +6,3 @@
 1 [SLD:65] Swamp [foil]
 1 [SLD:66] Mountain [foil]
 1 [SLD:67] Forest [foil]
-
-Sideboard
-1 [SLD:518] Nissa, Who Shakes the World [foil]

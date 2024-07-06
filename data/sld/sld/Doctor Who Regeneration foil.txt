@@ -1,4 +1,4 @@
-// NAME: Doctor Who The Dalek Lands
+// NAME: Doctor Who Regeneration foil
 // DATE: 2023-10-02
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Doctor_Who:_Regeneration
 1 [SLD:1580] Rose Noble [foil]
@@ -6,6 +6,3 @@
 1 [SLD:1582] The Celestial Toymaker [foil]
 1 [SLD:1583] The Fourteenth Doctor [foil]
 1 [SLD:1584] The Fifteenth Doctor [foil]
-
-Sideboard
-1 [SLD:803] Sonic Screwdriver [foil]

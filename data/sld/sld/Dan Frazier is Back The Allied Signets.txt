@@ -7,6 +7,3 @@
 1 [SLD:288] Gruul Signet
 1 [SLD:289] Rakdos Signet
 1 [SLD:290] Selesnya Signet
-
-Sideboard
-1 [SLD:589] Arcane Signet

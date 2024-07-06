@@ -8,6 +8,3 @@
 1 [SLD:176] Birds of Paradise
 1 [SLD:177] Howling Mine
 1 [SLD:178] Wasteland
-
-Sideboard
-1 [SLD:582] Brainstorm [foil]

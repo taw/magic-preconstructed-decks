@@ -7,6 +7,3 @@
 1 [SLD:1038] Fling [foil]
 1 [SLD:1039] Defense of the Heart [foil]
 1 [SLD:1040] Fellwar Stone [foil]
-
-Sideboard
-1 [SLD:706] Wastes [foil]

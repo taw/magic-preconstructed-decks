@@ -5,6 +5,3 @@
 1 [SLD:120] Sower of Temptation [foil]
 1 [SLD:121] Damnation [foil]
 1 [SLD:122] Enchanted Evening [foil]
-
-Sideboard
-1 [SLD:539] Swamp [foil]

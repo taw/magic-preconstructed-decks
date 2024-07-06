@@ -7,6 +7,3 @@
 1 [SLD:261] Toshiro Umezawa [foil]
 1 [SLD:262] Heartless Hidetsugu [foil]
 1 [SLD:263] Reki, the History of Kamigawa [foil]
-
-Sideboard
-1 [SLD:553] Island [foil]

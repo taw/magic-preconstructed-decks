@@ -6,6 +6,3 @@
 1 [SLD:1192] Swamp [foil]
 1 [SLD:1193] Mountain [foil]
 1 [SLD:1194] Forest [foil]
-
-Sideboard
-1 [SLD:727] Fabled Passage [foil]

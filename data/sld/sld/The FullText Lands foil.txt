@@ -7,6 +7,3 @@
 1 [SLD:256] Swamp [foil]
 1 [SLD:257] Mountain [foil]
 1 [SLD:258] Forest [foil]
-
-Sideboard
-1 [SLD:585] Terramorphic Expanse [foil]

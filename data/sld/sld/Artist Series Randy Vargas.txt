@@ -5,6 +5,3 @@
 1 [SLD:1286] Selfless Savior
 1 [SLD:1287] Akroma, Angel of Fury
 1 [SLD:1288] Umezawa's Jitte
-
-Sideboard
-1 [SLD:732] Selfless Savior

@@ -5,6 +5,3 @@
 1 [SLD:490] Mikaeus, the Unhallowed
 1 [SLD:491] Glissa Sunseeker
 1 [SLD:492] Olivia, Mobilized for War
-
-Sideboard
-1 [SLD:699] Olivia, Mobilized for War

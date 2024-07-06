@@ -7,6 +7,3 @@
 1 [SLD:236] Meandering Towershell
 1 [SLD:237] Ohran Frostfang
 1 [SLD:238] Thragtusk
-
-Sideboard
-1 [SLD:584] Wrexial, the Risen Deep [foil]

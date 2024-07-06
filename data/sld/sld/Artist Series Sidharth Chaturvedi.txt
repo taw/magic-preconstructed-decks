@@ -5,6 +5,3 @@
 1 [SLD:466] Island
 1 [SLD:467] Concordant Crossroads
 1 [SLD:468] Ghost Quarter
-
-Sideboard
-1 [SLD:679] Ghost Quarter

@@ -6,6 +6,3 @@
 1 [SLD:1170] Dark Ritual
 1 [SLD:1171] Midnight Reaper
 1 [SLD:1172] Seize the Day
-
-Sideboard
-1 [SLD:724] Lightning Strike
