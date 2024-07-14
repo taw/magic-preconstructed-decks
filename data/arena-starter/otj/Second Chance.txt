@@ -1,28 +1,28 @@
 // NAME: Second Chance
 // SOURCE: MTG Arena
 // DATE: 2024-07-08
-1 Melek, Reforged Researcher (MKM) 430
-10 Island (OTJ) 280
-10 Mountain (OTJ) 284
-1 Spirebluff Canal (OTJ) 270
-1 Archmage's Newt (OTJ) 39
-1 Malcolm, the Eyes (OTJ) 219
-1 Breeches, the Blastmaker (OTJ) 197
-1 Hell to Pay (OTJ) 126
-1 Ill-Timed Explosion (MKM) 207
-1 Case of the Crimson Pulse (MKM) 114
-2 Johann, Apprentice Sorcerer (WOE) 207
-2 Razzle-Dazzler (OTJ) 63
-2 Slick Sequence (OTJ) 233
-1 Kraum, Violent Cacophony (OTJ) 214
-2 Rodeo Pyromancers (OTJ) 143
-2 Aquatic Alchemist (WOE) 40
-2 Shock (MKM) 144
-2 Abrade (LCI) 131
-2 Thunder Salvo (OTJ) 150
-3 Demand Answers (MKM) 122
-3 Seize the Secrets (OTJ) 64
-2 Flick a Coin (WOE) 128
-4 Eroded Canyon (OTJ) 256
-1 Scalding Viper (WOE) 235
-2 Reckless Lackey (OTJ) 140
+1 Melek, Reforged Researcher [MKM:430]
+10 Island [OTJ:280]
+10 Mountain [OTJ:284]
+1 Spirebluff Canal [OTJ:270]
+1 Archmage's Newt [OTJ:39]
+1 Malcolm, the Eyes [OTJ:219]
+1 Breeches, the Blastmaker [OTJ:197]
+1 Hell to Pay [OTJ:126]
+1 Ill-Timed Explosion [MKM:207]
+1 Case of the Crimson Pulse [MKM:114]
+2 Johann, Apprentice Sorcerer [WOE:207]
+2 Razzle-Dazzler [OTJ:63]
+2 Slick Sequence [OTJ:233]
+1 Kraum, Violent Cacophony [OTJ:214]
+2 Rodeo Pyromancers [OTJ:143]
+2 Aquatic Alchemist [WOE:40]
+2 Shock [MKM:144]
+2 Abrade [LCI:131]
+2 Thunder Salvo [OTJ:150]
+3 Demand Answers [MKM:122]
+3 Seize the Secrets [OTJ:64]
+2 Flick a Coin [WOE:128]
+4 Eroded Canyon [OTJ:256]
+1 Scalding Viper [WOE:235]
+2 Reckless Lackey [OTJ:140]
