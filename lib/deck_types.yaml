@@ -155,6 +155,13 @@ halfdeck:
   name: "Halfdeck"
   sections:
     Main Deck: 30
+hist-brawl:
+  category: "deck"
+  format: "historic brawl"
+  name: "Historic Brawl Precon Deck"
+  sections:
+    Commander: 1
+    Main Deck: 99
 intro-26:
   category: "deck"
   format: "casual standard"
