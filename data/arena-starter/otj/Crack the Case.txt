@@ -3,11 +3,11 @@
 // DATE: 2024-07-08
 3 Novice Inspector [MKM:29]
 10 Island [LTR:264]
-2 Seasoned Consultant [MKM:3]
+2 Seasoned Consultant [MKM:33]
 3 Jaded Analyst [MKM:62]
 2 Projektor Inspector [MKM:68]
 2 Cold Case Cracker [MKM:46]
-1 Agency Outfitter [MKM:3]
+1 Agency Outfitter [MKM:38]
 2 Private Eye [MKM:223]
 1 Ezrim, Agency Chief [MKM:202]
 2 Granite Witness [MKM:206]

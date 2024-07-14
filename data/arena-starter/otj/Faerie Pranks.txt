@@ -1,7 +1,7 @@
 // NAME: Faerie Pranks
 // SOURCE: MTG Arena
 // DATE: 2024-07-08
-2 Picklock Prankster [WOE:64]
+2 Picklock Prankster [WOE:64a]
 7 Swamp [OTJ:282]
 2 Snaremaster Sprite [WOE:68]
 3 Mocking Sprite [WOE:62]
@@ -24,4 +24,4 @@
 2 Faerie Fencing [WOE:90]
 3 Quick Study [WOE:65]
 2 Freeze in Place [WOE:50]
-2 Spellscorn Coven [WOE:237]
+2 Spellscorn Coven [WOE:237a]

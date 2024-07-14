@@ -4,7 +4,7 @@
 3 Etali's Favor [LCI:149]
 8 Plains [OTJ:278]
 2 Curator of Sun's Creation [LCI:141]
-2 A-Geological Appraiser [LCI:150]
+2 Geological Appraiser (Alchemy) [LCI:A-150e]
 2 Daring Discovery [LCI:142]
 1 Bonehoard Dracosaur [LCI:134]
 8 Mountain [OTJ:283]

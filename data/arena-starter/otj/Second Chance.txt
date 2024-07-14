@@ -1,7 +1,7 @@
 // NAME: Second Chance
 // SOURCE: MTG Arena
 // DATE: 2024-07-08
-1 Melek, Reforged Researcher [MKM:430]
+1 Melek, Reforged Researcher [MKM:430] [foil]
 10 Island [OTJ:280]
 10 Mountain [OTJ:284]
 1 Spirebluff Canal [OTJ:270]
@@ -16,7 +16,7 @@
 2 Slick Sequence [OTJ:233]
 1 Kraum, Violent Cacophony [OTJ:214]
 2 Rodeo Pyromancers [OTJ:143]
-2 Aquatic Alchemist [WOE:40]
+2 Aquatic Alchemist [WOE:40a]
 2 Shock [MKM:144]
 2 Abrade [LCI:131]
 2 Thunder Salvo [OTJ:150]
@@ -24,5 +24,5 @@
 3 Seize the Secrets [OTJ:64]
 2 Flick a Coin [WOE:128]
 4 Eroded Canyon [OTJ:256]
-1 Scalding Viper [WOE:235]
+1 Scalding Viper [WOE:235a]
 2 Reckless Lackey [OTJ:140]

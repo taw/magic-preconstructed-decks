@@ -22,6 +22,6 @@
 2 Rubblebelt Maverick [MKM:174]
 2 Hardbristle Bandit [OTJ:168]
 3 Rootrider Faun [WOE:182]
-2 Beanstalk Wurm [WOE:161]
+2 Beanstalk Wurm [WOE:161a]
 3 Huatli's Final Strike [LCI:190]
 2 Waterwind Scout [LCI:84]
