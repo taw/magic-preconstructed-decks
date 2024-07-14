@@ -1,0 +1,27 @@
+// NAME: Power to the People
+// SOURCE: MTG Arena
+// DATE: 2024-07-08
+10 Plains (OTJ) 277
+10 Swamp (OTJ) 282
+2 Snarling Gorehound (MKM) 105
+3 Marketwatch Phantom (MKM) 24
+1 Assemble the Players (MKM) 3
+1 Sanguine Evangelist (LCI) 34
+1 Expel the Interlopers (WOE) 13
+4 Forlorn Flats (OTJ) 258
+1 Shadowy Backstreet (MKM) 268
+2 Skullcap Snail (LCI) 119
+2 Neighborhood Guardian (MKM) 26
+2 Ironpaw Aspirant (LCI) 18
+3 Outlaw Medic (OTJ) 23
+1 Wojek Investigator (MKM) 36
+1 Slimy Dualleech (MKM) 104
+1 Delney, Streetwise Lookout (MKM) 12
+1 Rankle's Prank (WOE) 102
+2 Screaming Phantom (LCI) 118
+2 Deep-Cavern Bat (LCI) 102
+2 Auspicious Arrival (MKM) 5
+2 Make Your Move (MKM) 22
+2 Consuming Ashes (OTJ) 83
+2 Makeshift Binding (MKM) 23
+2 Wispdrinker Vampire (MKM) 243

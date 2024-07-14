@@ -1,0 +1,84 @@
+// NAME: Flashy Fliers
+// SOURCE: MTG Arena
+// DATE: 2024-07-08
+Commander
+1 Errant and Giada (MOM) 224
+
+Deck
+1 Arcane Signet (ANB) 117
+1 Mind Stone (WTH) 153
+1 Coldsteel Heart (CSP) 136
+1 Ornithopter of Paradise (MH2) 232
+1 Solemn Simulacrum (M21) 239
+1 Command Tower (ANB) 118
+1 Terramorphic Expanse (ONE) 261
+1 Evolving Wilds (M20) 246
+1 Inspiring Overseer (SNC) 18
+1 Giada, Font of Hope (SNC) 14
+1 Lyra Dawnbringer (DAR) 26
+1 Restoration Angel (J21) 18
+1 Cavalier of Gales (M20) 52
+1 Thriving Isle (JMP) 36
+1 Thriving Heath (JMP) 35
+1 Azorius Guildgate (RNA) 244
+1 Glacial Floodplain (KHM) 257
+1 Idyllic Beachfront (DMU) 249
+1 Meandering River (M19) 253
+1 Port Town (SIR) 273
+1 Razortide Bridge (MH2) 252
+1 Skybridge Towers (SNC) 256
+1 Tranquil Cove (NEO) 280
+1 Brokers Hideout (SNC) 248
+1 Obscura Storefront (SNC) 252
+1 Empyrean Eagle (M20) 208
+1 Jubilant Skybonder (IKO) 223
+1 Skycat Sovereign (IKO) 207
+1 Raff Capashen, Ship's Mage (DAR) 202
+1 Angel of the Dire Hour (JMP) 85
+1 Thryx, the Sudden Storm (THB) 76
+1 Warden of Evos Isle (ANB) 38
+1 Lawmage's Binding (JMP) 453
+1 Tamiyo's Compleation (NEO) 83
+1 Wavebreak Hippocamp (THB) 80
+1 Brineborn Cutthroat (M20) 50
+1 Fumigate (KLR) 19
+1 Winged Words (ANB) 43
+1 Staggering Insight (THB) 228
+1 Elite Guardmage (WAR) 195
+13 Island (BRO) 271
+1 Faerie Vandal (SNC) 44
+1 Omen of the Sea (THB) 58
+1 Nebelgast Intruder (MID) 64
+1 Cathar Commando (MID) 10
+1 Spectral Sailor (JMP) 178
+1 Rescuer Chwinga (HBG) 101
+1 Prayer of Binding (DMU) 28
+1 Seal Away (DAR) 31
+1 Angelic Edict (JMP) 87
+1 Ossification (ONE) 26
+1 Thopter Arrest (KLR) 34
+1 Dungeon Geists (M20) 57
+1 Cloudblazer (KLR) 189
+1 Gust of Wind (IKO) 54
+1 Cloudkin Seer (ANB) 25
+1 Siren Stormtamer (XLN) 79
+1 Faerie Seer (MH1) 51
+1 Aven Gagglemaster (M21) 5
+1 Watcher of the Spheres (M21) 227
+1 Wispweaver Angel (KLR) 37
+1 White Dragon (AFR) 41
+1 Mulldrifter (J21) 38
+1 Capture Sphere (M21) 47
+1 Mist Raven (SIS) 18
+1 Kor Skyfisher (J21) 16
+1 Favorable Winds (XLN) 56
+1 Opt (STA) 19
+1 Chart a Course (JMP) 142
+1 Lofty Denial (M21) 56
+1 Air-Cult Elemental (HBG) 109
+1 Juvenile Mist Dragon (HBG) 124
+1 Scouting Hawk (HBG) 102
+1 Curious Obsession (JMP) 148
+1 Oji, the Exquisite Blade (HBG) 246
+11 Plains (ONE) 272
+1 Wayfarer's Bauble (CM2) 229

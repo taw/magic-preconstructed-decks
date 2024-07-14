@@ -1,0 +1,28 @@
+// NAME: Outlaw Posse
+// SOURCE: MTG Arena
+// DATE: 2024-07-08
+1 Kaervek, the Punisher (OTJ) 92
+10 Mountain (ONE) 275
+1 Vadmir, New Blood (OTJ) 113
+1 Tinybones, the Pickpocket (OTJ) 109
+1 Laughing Jasper Flint (OTJ) 215
+1 Charming Scoundrel (WOE) 124
+14 Swamp (MOM) 279
+1 Magda, the Hoardmaster (OTJ) 133
+1 Hellspur Posse Boss (OTJ) 128
+1 Raucous Theater (MKM) 266
+2 Shoot the Sheriff (OTJ) 106
+2 Nezumi Linkbreaker (OTJ) 96
+2 Rakish Crew (OTJ) 99
+1 Scorching Shot (OTJ) 145
+1 Hellspur Brute (OTJ) 127
+2 Vault Plunderer (OTJ) 114
+2 Boneyard Desecrator (OTJ) 81
+3 Deadeye Duelist (OTJ) 119
+2 Greedy Freebooter (LCI) 109
+2 Cerebral Confiscation (MKM) 81
+2 Murder (MKM) 95
+2 Outlaws' Fury (OTJ) 136
+2 Trick Shot (OTJ) 151
+2 Plundering Pirate (LCI) 160
+1 Vial Smasher, Gleeful Grenadier (OTJ) 235
