@@ -1,0 +1,95 @@
+// NAME: Family Matters
+// SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
+// DATE: 2024-08-02
+COMMANDER: 1 Zinnia, Valley's Voice [foil]
+1 Arthur, Marigold Knight [foil]
+1 Elspeth, Sun's Champion
+1 Jazal Goldmane
+1 Martial Coup
+1 Storm of Souls
+1 Selfless Spirit
+1 Murmuration
+1 Blade Splicer
+1 Hanged Executioner
+1 Loyal Warhound
+1 Restoration Angel
+1 Jacked Rabbit
+1 Skyclave Apparition
+1 Dusk // Dawn
+1 Boss's Chauffeur
+1 Angel of the Ruins
+1 Luminous Broodmoth
+1 Sun Titan
+1 Pollywog Prodigy
+1 Fortune Teller's Talent
+1 Aether Channeler
+1 Pull from Tomorrow
+1 Shield Broker
+1 Stolen by the Fae
+1 Rapid Augmenter
+1 Bident of Thassa
+1 Curiosity Crafter
+1 Devilish Valet
+1 Siege-Gang Commander
+1 Echoing Assault
+1 Agate Instigator
+1 Calamity of Cinders
+1 Rose Room Treasurer
+1 Combat Celebrant
+1 Inferno Titan
+1 Time Wipe
+1 Solemn Simulacrum
+1 Helm of the Host
+1 Glacial Fortress
+1 Adarkar Wastes
+1 Temple of Enlightenment
+1 Castle Ardenvale
+1 Seachrome Coast
+1 Sulfur Falls
+1 Cascade Bluffs
+1 Exotic Orchard
+1 Clifftop Retreat
+1 Shivan Reef
+1 Temple of Triumph
+1 Battlefield Forge
+1 Skycloud Expanse
+1 Temple of Epiphany
+1 Ferrous Lake
+1 Rugged Prairie
+1 Sunscorched Divide
+1 Spirited Companion
+1 Inspiring Overseer
+1 Cut a Deal
+1 Path to Exile
+1 Illusory Ambusher
+1 Rowdy Research
+1 Plumecreed Escort
+1 Rapid Hybridization
+1 Junk Winder
+1 Aetherize
+1 Chart a Course
+1 Tetsuko Umezawa, Fugitive
+1 Thopter Engineer
+1 Cloudblazer
+1 Arcane Signet
+1 Boros Signet
+1 Ornithopter of Paradise
+1 Azorius Signet
+1 Izzet Signet
+1 Circuit Mender
+1 Fellwar Stone
+1 Sol Ring
+1 Mind Stone
+1 Terramorphic Expanse
+1 Path of Ancestry
+1 Thriving Heath
+1 Evolving Wilds
+1 Thriving Isle
+1 Thriving Bluff
+1 Command Tower
+1 Mystic Monastery
+5 Plains
+4 Island
+4 Mountain
+
+Sideboard
