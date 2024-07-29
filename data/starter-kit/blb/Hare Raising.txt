@@ -1,0 +1,25 @@
+// NAME: Hare Raising
+// SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-starter-kit-decklists
+// DATE: 2024-08-02
+1 Byrke, Long Ear of the Law [foil]
+1 Serra Redeemer
+1 Colossification
+1 Fecund Greenshell
+1 Finneas, Ace Archer
+3 Pileated Provisioner
+3 Warren Elder
+2 Rabbit Response
+2 Carrot Cake
+2 Repel Calamity
+2 Hop to It
+3 Druid of the Spade
+3 Treeguard Duo
+2 Rabid Bite
+2 Giant Growth
+2 Clifftop Lookout
+2 Burrowguard Mentor
+4 Blossoming Sands
+12 Plains
+11 Forest
+
+Sideboard
