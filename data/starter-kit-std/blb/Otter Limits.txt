@@ -2,9 +2,9 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-starter-kit-decklists
 // DATE: 2024-08-02
 1 Bria, Riptide Rogue [foil]
-1 Mockingbird
+1 Mockingbird [BLB:61]
 1 Mind Spring
-1 Alania, Divergent Storm
+1 Alania, Divergent Storm [BLB:204]
 1 Sword of Vengeance
 3 Thieving Otter
 3 Bellowing Crier

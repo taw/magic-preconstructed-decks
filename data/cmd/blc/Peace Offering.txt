@@ -1,0 +1,96 @@
+// NAME: Peace Offering
+// SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
+// DATE: 2024-08-02
+COMMANDER: 1 Ms. Bumbleflower [foil] [BLC:3]
+1 Mr. Foxglove [foil] [BLC:6]
+1 Tamiyo, Field Researcher
+1 Tenuous Truce
+1 Loran of the Third Path
+1 Steelburr Champion [BLC:12]
+1 Tempt with Bunnies [BLC:13]
+1 Perch Protection [BLC:11]
+1 Sunscorch Regent
+1 Promise of Loyalty
+1 Hoofprints of the Stag
+1 Mangara, the Diplomat
+1 Realm-Cloaked Giant
+1 Sphinx of Enlightenment
+1 Forgotten Ancient
+1 Bloodroot Apothecary [BLC:27]
+1 Communal Brewing [BLC:29]
+1 Managorger Hydra
+1 Rishkar, Peema Renegade
+1 Rites of Flourishing
+1 Tempt with Discovery
+1 Kalonian Hydra
+1 Faeburrow Elder
+1 Exotic Orchard
+1 Simic Ascendancy
+1 Ghirapur Orrery
+1 Psychosis Crawler
+1 Adarkar Wastes
+1 Temple of Enlightenment
+1 Seachrome Coast
+1 Glacial Fortress
+1 Hinterland Harbor
+1 Razorverge Thicket
+1 Flooded Grove
+1 Skycloud Expanse
+1 Canopy Vista
+1 Prairie Stream
+1 Brushland
+1 Temple of Mystery
+1 Yavimaya Coast
+1 Overflowing Basin
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Triskaidekaphile
+1 Octomancer [BLC:37]
+1 Twenty-Toed Toad [BLC:16]
+1 Intellectual Offering
+1 Illusionist's Gambit
+1 Body of Knowledge
+1 Chasm Skulker
+1 Perplexing Test
+1 Jolrael, Mwonvuli Recluse
+1 Fisher's Talent
+1 Selvala, Explorer Returned
+1 Kwain, Itinerant Meddler
+1 Coveted Jewel
+1 Temple of Plenty
+1 Generous Gift
+1 Swords to Plowshares
+1 Secret Rendezvous
+1 Baird, Steward of Argive
+1 An Offer You Can't Refuse
+1 Wizard Class
+1 Cultivate
+1 Farseek
+1 Broken Wings
+1 Spore Frog
+1 Wear Down
+1 Peerless Recycling
+1 Coiling Oracle
+1 Riot Control
+1 Martial Impetus
+1 Jolly Gerbils
+1 Long River's Pull
+1 Thought Vessel
+1 Arcane Signet
+1 Swiftfoot Boots
+1 Fellwar Stone
+1 Sol Ring
+1 Mind Stone
+1 Thriving Heath
+1 Thriving Isle
+1 Thriving Grove
+1 Terramorphic Expanse
+1 Command Tower
+1 Evolving Wilds
+1 Reliquary Tower
+1 Seaside Citadel
+4 Plains
+4 Island
+4 Forest
+
+Sideboard

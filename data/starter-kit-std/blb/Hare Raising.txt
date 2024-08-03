@@ -5,7 +5,7 @@
 1 Serra Redeemer
 1 Colossification
 1 Fecund Greenshell
-1 Finneas, Ace Archer
+1 Finneas, Ace Archer [BLB:212]
 3 Pileated Provisioner
 3 Warren Elder
 2 Rabbit Response

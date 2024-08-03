@@ -1,0 +1,90 @@
+// NAME: Squirreled Away
+// SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
+// DATE: 2024-08-02
+COMMANDER: 1 Hazel of the Rootbloom [foil] [BLC:2]
+1 The Odd Acorn Gang [foil] [BLC:7]
+1 Garruk, Cursed Huntsman
+1 Chittering Witch
+1 Insatiable Frugivore [BLC:18]
+1 Moonstone Eulogist [BLC:19]
+1 Swarmyard Massacre [BLC:20]
+1 Hazel's Brewmaster [BLC:17]
+1 Woe Strider
+1 Saw in Half
+1 Ogre Slumlord
+1 Decree of Pain
+1 Gourmand's Talent
+1 Rootcast Apprenticeship [BLC:32]
+1 Scurry of Squirrels [BLC:33]
+1 End-Raze Forerunners
+1 Arasta of the Endless Web
+1 Deep Forest Hermit
+1 Toski, Bearer of Secrets
+1 Beastmaster Ascension
+1 Second Harvest
+1 Shamanic Revelation
+1 Chatterfang, Squirrel General
+1 Temple of Malady
+1 Casualties of War
+1 Windgrace's Judgment
+1 Maskwood Nexus
+1 Academy Manufactor
+1 Woodland Cemetery
+1 Necroblossom Snarl
+1 Oran-Rief, the Vastwood
+1 Swarmyard
+1 Exotic Orchard
+1 Llanowar Wastes
+1 Grim Backwoods
+1 Viridescent Bog
+1 Twilight Mire
+1 Gilded Goose
+1 Chitterspitter
+1 Maelstrom Pulse
+1 Beledros Witherbloom
+1 Idol of Oblivion
+1 Sword of the Squeak [BLC:40]
+1 Morbid Opportunist
+1 Nadier's Nightblade
+1 Plumb the Forbidden
+1 Bastion of Remembrance
+1 Plaguecrafter
+1 Cache Grab
+1 Chatterstorm
+1 Poison-Tip Archer
+1 Moldervine Reclamation
+1 Ravenous Squirrel
+1 Skyfisher Spider
+1 Binding the Old Gods
+1 Golgari Rot Farm
+1 Jungle Hollow
+1 Haunted Mire
+1 Nested Shambler
+1 Deadly Dispute
+1 Zulaport Cutthroat
+1 Squirrel Sovereign
+1 Prosperous Innkeeper
+1 Haywire Mite
+1 Tireless Provisioner
+1 Squirrel Nest
+1 Honored Dreyleader
+1 Tear Asunder
+1 Wolfwillow Haven
+1 Putrefy
+1 Arcane Signet
+1 Golgari Signet
+1 Talisman of Resilience
+1 Sol Ring
+1 Skullclamp
+1 Terramorphic Expanse
+1 Path of Ancestry
+1 Evolving Wilds
+1 Command Tower
+1 Tranquil Thicket
+1 Bojuka Bog
+1 Tainted Wood
+1 Barren Moor
+8 Swamp
+9 Forest
+
+Sideboard
