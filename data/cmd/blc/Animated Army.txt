@@ -1,12 +1,12 @@
 // NAME: Animated Army
 // SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
 // DATE: 2024-08-02
-COMMANDER: 1 Bello, Bard of the Brambles [foil]
-1 Wildsear, Scouring Maw [foil]
+COMMANDER: 1 Bello, Bard of the Brambles [foil] [BLC:1]
+1 Wildsear, Scouring Maw [foil] [BLC:8]
 1 Domri, Anarch of Bolas
 1 Etali, Primal Storm
-1 Prosperous Bandit
-1 Pyreswipe Hawk
+1 Prosperous Bandit [BLC:25]
+1 Pyreswipe Hawk [BLC:26]
 1 Alchemist's Talent
 1 Berserkers' Onslaught
 1 Outpost Siege
@@ -17,10 +17,10 @@ COMMANDER: 1 Bello, Bard of the Brambles [foil]
 1 Warstorm Surge
 1 Starstorm
 1 Lotus Cobra
-1 Evercoat Ursine
-1 Brightcap Badger
-1 Trailtracker Scout
-1 Thickest in the Thicket
+1 Evercoat Ursine [BLC:30]
+1 Brightcap Badger [BLC:28a]
+1 Trailtracker Scout [BLC:35]
+1 Thickest in the Thicket [BLC:34]
 1 Ghalta, Primal Hunger
 1 Esika's Chariot
 1 Unnatural Growth
@@ -49,7 +49,7 @@ COMMANDER: 1 Bello, Bard of the Brambles [foil]
 1 Goreclaw, Terror of Qal Sisma
 1 Path of Discovery
 1 Decimate
-1 Rolling Hamsphere
+1 Rolling Hamsphere [BLC:39]
 1 Teapot Slinger
 1 Explore
 1 Farseek

@@ -1,14 +1,14 @@
 // NAME: Peace Offering
 // SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
 // DATE: 2024-08-02
-COMMANDER: 1 Ms. Bumbleflower [foil]
-1 Mr. Foxglove [foil]
+COMMANDER: 1 Ms. Bumbleflower [foil] [BLC:3]
+1 Mr. Foxglove [foil] [BLC:6]
 1 Tamiyo, Field Researcher
 1 Tenuous Truce
 1 Loran of the Third Path
-1 Steelburr Champion
-1 Tempt with Bunnies
-1 Perch Protection
+1 Steelburr Champion [BLC:12]
+1 Tempt with Bunnies [BLC:13]
+1 Perch Protection [BLC:11]
 1 Sunscorch Regent
 1 Promise of Loyalty
 1 Hoofprints of the Stag
@@ -16,8 +16,8 @@ COMMANDER: 1 Ms. Bumbleflower [foil]
 1 Realm-Cloaked Giant
 1 Sphinx of Enlightenment
 1 Forgotten Ancient
-1 Bloodroot Apothecary
-1 Communal Brewing
+1 Bloodroot Apothecary [BLC:27]
+1 Communal Brewing [BLC:29]
 1 Managorger Hydra
 1 Rishkar, Peema Renegade
 1 Rites of Flourishing
@@ -45,8 +45,8 @@ COMMANDER: 1 Ms. Bumbleflower [foil]
 1 Sungrass Prairie
 1 Sunpetal Grove
 1 Triskaidekaphile
-1 Octomancer
-1 Twenty-Toed Toad
+1 Octomancer [BLC:37]
+1 Twenty-Toed Toad [BLC:16]
 1 Intellectual Offering
 1 Illusionist's Gambit
 1 Body of Knowledge

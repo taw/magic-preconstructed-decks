@@ -1,21 +1,21 @@
 // NAME: Squirreled Away
 // SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
 // DATE: 2024-08-02
-COMMANDER: 1 Hazel of the Rootbloom [foil]
-1 The Odd Acorn Gang [foil]
+COMMANDER: 1 Hazel of the Rootbloom [foil] [BLC:2]
+1 The Odd Acorn Gang [foil] [BLC:7]
 1 Garruk, Cursed Huntsman
 1 Chittering Witch
-1 Insatiable Frugivore
-1 Moonstone Eulogist
-1 Swarmyard Massacre
-1 Hazel's Brewmaster
+1 Insatiable Frugivore [BLC:18]
+1 Moonstone Eulogist [BLC:19]
+1 Swarmyard Massacre [BLC:20]
+1 Hazel's Brewmaster [BLC:17]
 1 Woe Strider
 1 Saw in Half
 1 Ogre Slumlord
 1 Decree of Pain
 1 Gourmand's Talent
-1 Rootcast Apprenticeship
-1 Scurry of Squirrels
+1 Rootcast Apprenticeship [BLC:32]
+1 Scurry of Squirrels [BLC:33]
 1 End-Raze Forerunners
 1 Arasta of the Endless Web
 1 Deep Forest Hermit
@@ -43,7 +43,7 @@ COMMANDER: 1 Hazel of the Rootbloom [foil]
 1 Maelstrom Pulse
 1 Beledros Witherbloom
 1 Idol of Oblivion
-1 Sword of the Squeak
+1 Sword of the Squeak [BLC:40]
 1 Morbid Opportunist
 1 Nadier's Nightblade
 1 Plumb the Forbidden

@@ -1,39 +1,39 @@
 // NAME: Family Matters
 // SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-commander-decklists
 // DATE: 2024-08-02
-COMMANDER: 1 Zinnia, Valley's Voice [foil]
-1 Arthur, Marigold Knight [foil]
+COMMANDER: 1 Zinnia, Valley's Voice [foil] [BLC:4]
+1 Arthur, Marigold Knight [foil] [BLC:5]
 1 Elspeth, Sun's Champion
 1 Jazal Goldmane
 1 Martial Coup
 1 Storm of Souls
 1 Selfless Spirit
-1 Murmuration
+1 Murmuration [BLC:10]
 1 Blade Splicer
 1 Hanged Executioner
 1 Loyal Warhound
 1 Restoration Angel
-1 Jacked Rabbit
+1 Jacked Rabbit [BLC:9]
 1 Skyclave Apparition
 1 Dusk // Dawn
 1 Boss's Chauffeur
 1 Angel of the Ruins
 1 Luminous Broodmoth
 1 Sun Titan
-1 Pollywog Prodigy
+1 Pollywog Prodigy [BLC:15]
 1 Fortune Teller's Talent
 1 Aether Channeler
 1 Pull from Tomorrow
 1 Shield Broker
 1 Stolen by the Fae
-1 Rapid Augmenter
+1 Rapid Augmenter [BLC:38]
 1 Bident of Thassa
 1 Curiosity Crafter
 1 Devilish Valet
 1 Siege-Gang Commander
-1 Echoing Assault
-1 Agate Instigator
-1 Calamity of Cinders
+1 Echoing Assault [BLC:24]
+1 Agate Instigator [BLC:21]
+1 Calamity of Cinders [BLC:23]
 1 Rose Room Treasurer
 1 Combat Celebrant
 1 Inferno Titan
