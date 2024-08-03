@@ -1,0 +1,24 @@
+// NAME: Otter Limits
+// SOURCE: https://magic.wizards.com/en/news/announcements/bloomburrow-starter-kit-decklists
+// DATE: 2024-08-02
+1 Bria, Riptide Rogue [foil]
+1 Mockingbird
+1 Mind Spring
+1 Alania, Divergent Storm
+1 Sword of Vengeance
+3 Thieving Otter
+3 Bellowing Crier
+3 Waterspout Warden
+3 Pearl of Wisdom
+2 Charmed Sleep
+3 Alania's Pathmaker
+3 Flame Lash
+2 Coruscation Mage
+2 Quaketusk Boar
+2 Rabid Gnaw
+2 Stormcatch Mentor
+4 Swiftwater Cliffs
+11 Island
+12 Mountain
+
+Sideboard
