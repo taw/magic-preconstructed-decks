@@ -1,0 +1,14 @@
+// NAME: Sampler Booster
+// SOURCE: https://mtg.fandom.com/wiki/Sampler
+// DATE: 2001-04-11
+1 Plains
+1 Razorfoot Griffin
+1 Island
+1 Coral Merfolk
+1 Swamp
+1 Scathe Zombies
+1 Mountain
+1 Splitting Earth
+1 Forest
+1 Gorilla Chieftan
+
