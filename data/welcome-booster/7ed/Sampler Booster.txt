@@ -8,7 +8,7 @@
 1 Swamp
 1 Scathe Zombies
 1 Mountain
-1 Splitting Earth
+1 Spitting Earth
 1 Forest
-1 Gorilla Chieftan
+1 Gorilla Chieftain
 
