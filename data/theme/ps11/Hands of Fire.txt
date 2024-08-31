@@ -1,0 +1,25 @@
+// NAME: Hands of Fire
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+24 Mountain
+1 Kamahl, Pit Fighter
+1 Shivan Dragon
+1 Prodigal Pyromancer
+1 Bloodmark Mentor
+2 Cinder Pyromancer
+2 Earth Elemental
+2 Goblin Sky Raider
+4 Goblin Piker
+4 Lightning Elemental
+4 Hill Giant
+1 Enrage
+2 Shock
+3 Incinerate
+1 Blaze
+1 Banefire
+2 Act of Treason
+1 Furnace of Rath
+1 Rage Reflection
+2 Dragon's Claw
+
+Sideboard

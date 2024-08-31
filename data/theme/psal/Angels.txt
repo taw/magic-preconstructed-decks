@@ -1,0 +1,31 @@
+// NAME: Angels
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+9 Island
+15 Plains
+2 Angel of Mercy
+1 Angel of Retribution
+2 Ardent Militia
+2 Auratouched Mage
+3 Freewind Equenaut
+1 Genju of the Falls
+1 Genju of the Fields
+1 Kitsune Mystic
+1 Loxodon Stalwart
+1 Luminous Angel
+2 Nightguard Patrol
+1 Sanctum Guardian
+2 Skyrider Trainee
+2 Soulsworn Jury
+1 Three Dreams
+1 Confiscate
+1 Flight of Fancy
+2 Guardian's Magemark
+2 Infiltrator's Magemark
+2 Pacifism
+2 Plumes of Peace
+1 Sinstriker's Will
+1 Spirit Link
+1 Thran Golem
+
+Sideboard

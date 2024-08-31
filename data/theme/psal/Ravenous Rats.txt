@@ -1,0 +1,28 @@
+// NAME: Ravenous Rats
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+24 Swamp
+1 Marrow-Gnawer
+3 Swarm of Rats
+3 Skullsnatcher
+3 Chittering Rats
+2 Dirty Wererat
+2 Nezumi Cutthroat
+1 Patron of the Nezumi
+1 Crypt Rats
+2 Nezumi Graverobber
+3 Carrion Rats
+1 Nezumi Bone-Reader
+1 Nocturnal Raid
+1 Betrayal of Flesh
+2 Crippling Fatigue
+1 Infernal Contract
+2 Sever Soul
+1 Dirge of Dread
+1 Suppress
+2 Rats' Feast
+1 Diabolic Tutor
+1 Gravestorm
+1 Larceny
+
+Sideboard
