@@ -1,6 +1,6 @@
-// NAME: Artist Series: Aleksi Briclot - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_December_Superdrop_2022
-// DATE: 2022-12-02
+// NAME: Artist Series: Aleksi Briclot Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/810227
+// DATE: 2022-12-19
 1 [SLD:1151] Thought-Knot Seer [foil]
 1 [SLD:1152] Inquisition of Kozilek [foil]
 1 [SLD:1153] Reality Smasher [foil]

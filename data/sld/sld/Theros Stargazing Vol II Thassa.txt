@@ -1,5 +1,5 @@
-// NAME: Theros Stargazing, Volume II - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Theros_Stargazing
+// NAME: Theros Stargazing: Vol. II (Thassa)
+// SOURCE: https://secretlair.wizards.com/us/product/600153
 // DATE: 2020-02-14
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:506] Jace, [SLD:507] Kasmina, [SLD:508] Narset, [SLD:522] Nicol Bolas, [SLD:523] Ral, [SLD:525] Tamiyo, [SLD:526] Teferi, [SLD:528] Ashiok, [SLD:529] Dovin, [SLD:532] Kiora, or [SLD:534] Saheeli
 1 [SLD:71] Thassa, God of the Sea [foil]

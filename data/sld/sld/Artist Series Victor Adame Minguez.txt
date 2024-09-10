@@ -1,6 +1,6 @@
 // NAME: Artist Series: Victor Adame Minguez
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_August_Superdrop_2022
-// DATE: 2022-11-02
+// SOURCE: https://secretlair.wizards.com/us/product/766560
+// DATE: 2022-10-25
 1 [SLD:1044] Knight Exemplar
 1 [SLD:1045] Knight of the White Orchid
 1 [SLD:1046] Lord of the Undead

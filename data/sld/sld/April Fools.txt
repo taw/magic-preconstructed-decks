@@ -1,4 +1,4 @@
-// NAME: April Fools - Foil
+// NAME: April Fools
 // SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Fools
 // DATE: 2020-09-30
 1 [SLD:60] Storm Crow [foil]

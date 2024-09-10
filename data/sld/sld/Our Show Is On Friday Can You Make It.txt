@@ -1,6 +1,6 @@
 // NAME: Our Show Is On Friday, Can You Make It?
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Dr._Lair%27s_Secretorium_Superdrop
-// DATE: 2021-04-26
+// SOURCE: https://secretlair.wizards.com/us/product/634201
+// DATE: 2021-08-25
 // DISPLAY: All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
 1 [SLD:185] Wrath of God
 1 [SLD:186] Preordain

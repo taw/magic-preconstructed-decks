@@ -1,6 +1,6 @@
 // NAME: Valentine's Day 2021
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Smitten_Superdrop
-// DATE: 2021-02-12
+// SOURCE: https://secretlair.wizards.com/us/product/629374
+// DATE: 2021-04-13
 // DISPLAY: Due to a technical issue, this secret lair drop was shipped without [SLD:214] Heliod, Sun-Crowned. The card was shipped after-the-fact to all affected customers along with 5 additional goblin tokens.
 1 [SLD:215] Goblin Rabblemaster
 1 [SLD:216] Monastery Swiftspear

@@ -1,6 +1,6 @@
-// NAME: Artist Series: Rebecca Guay - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spring_Superdrop_2023
-// DATE: 2023-04-23
+// NAME: Artist Series: Rebecca Guay Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/813934
+// DATE: 2023-04-28
 1 [SLD:1251] Cleansing Nova [foil]
 1 [SLD:1252] Serra the Benevolent [foil]
 1 [SLD:1253] Stoneforge Mystic [foil]

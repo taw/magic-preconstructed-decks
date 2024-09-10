@@ -1,6 +1,6 @@
-// NAME: Arcane
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021
-// DATE: 2021-11-29
+// NAME: Secret Lair x Arcane
+// SOURCE: https://secretlair.wizards.com/us/product/696669
+// DATE: 2022-05-06
 1 [SLD:477] Path to Exile
 1 [SLD:478] Rhystic Study
 1 [SLD:479] Duress

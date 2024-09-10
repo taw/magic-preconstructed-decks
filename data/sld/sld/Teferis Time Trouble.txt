@@ -1,6 +1,6 @@
 // NAME: Teferi's Time Trouble
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Out_of_Time_Superdrop
-// DATE: 2021-08-24
+// SOURCE: https://secretlair.wizards.com/us/product/679509
+// DATE: 2021-12-13
 // DISPLAY: Also includes one of: foil [SLD:551] Island or foil [SLD:597] Persistent Petitioners
 1 [SLD:251] Dack Fayden
 1 [SLD:252] Teferi, Time Raveler

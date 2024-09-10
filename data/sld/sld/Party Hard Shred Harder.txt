@@ -1,6 +1,6 @@
 // NAME: Party Hard, Shred Harder
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary
-// DATE: 2020-11-30
+// SOURCE: https://secretlair.wizards.com/us/product/615001
+// DATE: 2021-03-15
 1 [SLD:138] Anguished Unmaking
 1 [SLD:139] Assassin's Trophy
 1 [SLD:140] Decimate

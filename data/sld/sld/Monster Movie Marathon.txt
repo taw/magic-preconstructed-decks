@@ -1,6 +1,6 @@
 // NAME: Monster Movie Marathon
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_(2021)
-// DATE: 2021-10-15
+// SOURCE: https://secretlair.wizards.com/us/product/687508
+// DATE: 2022-01-28
 // DISPLAY: Also contains 1 of 21 possible foil Jumpstart basic lands [SLD:540-579]. Has a 5% chance to include either a foil Blueprint card [SLD:603-607] or a foil [SLD:596] Persistent Petitioners
 1 [SLD:321] Dismember
 1 [SLD:322] Blasphemous Act

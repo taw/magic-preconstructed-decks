@@ -1,5 +1,5 @@
-// NAME: Can You Feel with a Heart of Steel? - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Summer_Superdrop
+// NAME: Can You Feel With A Heart of Steel?
+// SOURCE: https://secretlair.wizards.com/us/product/608489
 // DATE: 2020-06-02
 1 [SLD:56] Arcbound Ravager [foil]
 1 [SLD:57] Darksteel Colossus [foil]

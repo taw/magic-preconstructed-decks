@@ -1,6 +1,6 @@
 // NAME: Fblthp: Completely, Utterly, Totally Lost
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021
-// DATE: 2021-11-29
+// SOURCE: https://secretlair.wizards.com/us/product/696659
+// DATE: 2022-05-06
 1 [SLD:226] Path to Exile
 1 [SLD:227] Well of Lost Dreams
 1 [SLD:228] Frantic Search

@@ -1,6 +1,6 @@
 // NAME: Far Out, Man
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary_2021
-// DATE: 2021-11-29
+// SOURCE: https://secretlair.wizards.com/us/product/696663
+// DATE: 2022-05-06
 // DISPLAY: Also contains 1 of 18 possible foil Jumpstart basic lands [SLD:540-579]. Has a 5% chance to include either a foil Blueprint card [SLD:603-607] or a foil [SLD:595] Persistent Petitioners
 1 [SLD:330] Aether Gust
 1 [SLD:331] Counterspell

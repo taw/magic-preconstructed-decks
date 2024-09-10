@@ -1,6 +1,6 @@
-// NAME: Artist Series: Sidharth Chaturvedi - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
-// DATE: 2022-04-11
+// NAME: Artist Series: Sidharth Chaturvedi Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/724655
+// DATE: 2022-08-05
 1 [SLD:465] Nomad Outpost [foil]
 1 [SLD:466] Island [foil]
 1 [SLD:467] Concordant Crossroads [foil]

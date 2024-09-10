@@ -1,6 +1,6 @@
-// NAME: Black is Magic
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Black_is_Magic
-// DATE: 2021-02-22
+// NAME: Black Is Magic
+// SOURCE: https://secretlair.wizards.com/us/product/629725
+// DATE: 2021-05-13
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:519] Vivien, [SLD:526] Teferi, [SLD:531] Kaya, or [SLD:535] Samut.
 1 [SLD:244] Shalai, Voice of Plenty
 1 [SLD:245] Ponder

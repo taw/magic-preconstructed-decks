@@ -1,6 +1,6 @@
-// NAME: Dan Frazier Is Back Again: The Enemy Talismans - Foil Etched
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_August_Superdrop_2022
-// DATE: 2022-11-02
+// NAME: Dan Frazier Is Back Again: The Enemy Talismans Foil Etched Edition
+// SOURCE: https://secretlair.wizards.com/us/product/766555
+// DATE: 2022-10-25
 1 [SLD:1057] Talisman of Hierarchy [foil] [etched]
 1 [SLD:1058] Talisman of Creativity [foil] [etched]
 1 [SLD:1059] Talisman of Resilience [foil] [etched]

@@ -1,6 +1,6 @@
-// NAME: MSCHF - Foil Etched
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_MSCHF
-// DATE: 2021-11-20
+// NAME: Secret Lair x MSCHF
+// SOURCE: https://secretlair.wizards.com/us/product/696840
+// DATE: 2022-02-04
 // DISPLAY: This drop featured diffent styles of foil finishes, so not all cards are etched, despite the name.
 1 [SLD:364] Swords to Plowshares [foil] [etched]
 1 [SLD:365] Grim Tutor [foil]

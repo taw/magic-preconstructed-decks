@@ -1,5 +1,5 @@
-// NAME: Theros Stargazing, Volume V - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Theros_Stargazing
+// NAME: Theros Stargazing: Vol. V (Nylea)
+// SOURCE: https://secretlair.wizards.com/us/product/600167
 // DATE: 2020-02-14
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:516] Arlinn, [SLD:517] Yanggu, [SLD:518] Nissa, [SLD:519] Vivien, [SLD:520] Ajani, [SLD:521] Domri, [SLD:525] Tamiyo, [SLD:530] Huatli, [SLD:532] Kiora, [SLD:535] Samut, or [SLD:536] Vraska
 1 [SLD:80] Nylea, God of the Hunt [foil]

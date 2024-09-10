@@ -1,5 +1,5 @@
-// NAME: Every Dog Has Its Day
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Every_Dog_Has_Its_Day
+// NAME: Every Dog Has Its Day - Regular
+// SOURCE: https://secretlair.wizards.com/us/product/611547
 // DATE: 2020-08-26
 1 [SLD:96] Rest in Peace
 1 [SLD:97] Dig Through Time

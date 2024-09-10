@@ -1,6 +1,6 @@
-// NAME: Year of the Rat - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Year_of_the_Rat
-// DATE: 2020-01-27
+// NAME: Year of the Rat
+// SOURCE: https://secretlair.wizards.com/us/product/599137
+// DATE: 2020-01-07
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:523] Ral, [SLD:516] Arlinn, [SLD:504] Teyo, or [SLD:514] Sarkhan
 1 [SLD:33] Ink-Eyes, Servant of Oni [foil]
 1 [SLD:34] Marrow-Gnawer [foil]
