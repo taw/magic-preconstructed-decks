@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Brain Dead: Creatures
+// SOURCE: https://secretlair.wizards.com/us/product/1002037
+// DATE: 2024-07-30
+1 [SLD:1657] Consecrated Sphinx
+1 [SLD:1658] Chaotic Goo
+1 [SLD:1659] Kiki-Jiki, Mirror Breaker
+1 [SLD:1660] Meteor Golem
+1 [SLD:1661] Wurmcoil Engine

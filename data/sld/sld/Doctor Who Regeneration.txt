@@ -1,6 +1,6 @@
-// NAME: Doctor Who Regeneration
-// DATE: 2023-10-02
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Doctor_Who:_Regeneration
+// NAME: Secret Lair x Doctor Who: Regeneration
+// SOURCE: https://secretlair.wizards.com/us/product/923726
+// DATE: 2024-04-09
 1 [SLD:1580] Rose Noble
 1 [SLD:1581] The Meep
 1 [SLD:1582] The Celestial Toymaker

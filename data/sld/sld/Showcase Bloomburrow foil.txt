@@ -1,0 +1,8 @@
+// NAME: Showcase: Bloomburrow™ Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002032
+// DATE: 2024-07-30
+1 [SLD:1698] Sorin Markov [foil]
+1 [SLD:1699] Huatli, Radiant Champion [foil]
+1 [SLD:1700] Kiora, Behemoth Beckoner [foil]
+1 [SLD:1701] Tezzeret, Master of the Bridge [foil]
+1 [SLD:1702] Vraska, Golgari Queen [foil]

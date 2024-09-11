@@ -1,5 +1,5 @@
-// NAME: Featuring Gary Baseman foil
-// SOURCE: https://secretlair.wizards.com/us/en/product/865794/featuring-gary-baseman
+// NAME: Featuring: Gary Baseman Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/865795
 // DATE: 2023-09-15
 1 [SLD:1382] Plains [foil]
 1 [SLD:1383] Island [foil]

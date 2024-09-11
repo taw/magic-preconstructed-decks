@@ -1,0 +1,10 @@
+// NAME: OMG KITTIES!
+// SOURCE: https://secretlair.wizards.com/us/product/594789
+// DATE: 2019-12-09
+1 [SLD:22] Leonin Warleader [foil]
+1 [SLD:23] Regal Caracal [foil]
+1 [SLD:24] Qasali Slingers [foil]
+1 [SLD:25] Arahbo, Roar of the World [foil]
+1 [SLD:26] Mirri, Weatherlight Duelist [foil]
+1 [SLD:27] Cat [token]
+1 [SLD:28] Cat [token]

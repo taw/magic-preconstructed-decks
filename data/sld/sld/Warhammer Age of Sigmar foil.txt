@@ -1,6 +1,6 @@
-// NAME: Warhammer Age of Sigmar - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
-// DATE: 2022-11-28
+// NAME: Secret Lair x Warhammer Age of Sigmar Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/771995
+// DATE: 2022-12-05
 1 [SLD:1030] Blind Obedience [foil]
 1 [SLD:1031] Danitha Capashen, Paragon [foil]
 1 [SLD:1032] Najeela, the Blade-Blossom [foil]

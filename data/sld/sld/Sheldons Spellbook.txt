@@ -1,0 +1,10 @@
+// NAME: Sheldon's Spellbook
+// SOURCE: https://secretlair.wizards.com/us/product/924736
+// DATE: 2024-07-03
+1 [SLD:1691] Teferi's Protection
+1 [SLD:1692] Eladamri's Vineyard
+1 [SLD:1693] Greater Good
+1 [SLD:1694] Inkshield
+1 [SLD:1695] Ruhan of the Fomori
+1 [SLD:1696] Sol Ring
+1 [SLD:1697] Command Tower

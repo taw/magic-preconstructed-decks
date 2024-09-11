@@ -1,6 +1,6 @@
-// NAME: Fortnite
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Fortnite
-// DATE: 2022-07-07
+// NAME: Secret Lair x FORTNITE
+// SOURCE: https://secretlair.wizards.com/us/product/763874
+// DATE: 2022-09-02
 1 [SLD:441] Wrath of God
 1 [SLD:442] Dance of Many
 1 [SLD:443] Etherium Sculptor

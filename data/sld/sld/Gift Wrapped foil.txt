@@ -1,0 +1,8 @@
+// NAME: Gift Wrapped Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879338
+// DATE: 2023-12-05
+1 [SLD:1463★] Giver of Runes [foil]
+1 [SLD:1464★] Distant Melody [foil]
+1 [SLD:1465★] Cathartic Reunion [foil]
+1 [SLD:1466★] Moment's Peace [foil]
+1 [SLD:1467★] Homeward Path [foil]

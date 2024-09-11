@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Brain Dead: Creatures Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002036
+// DATE: 2024-07-30
+1 [SLD:1657] Consecrated Sphinx [foil]
+1 [SLD:1658] Chaotic Goo [foil]
+1 [SLD:1659] Kiki-Jiki, Mirror Breaker [foil]
+1 [SLD:1660] Meteor Golem [foil]
+1 [SLD:1661] Wurmcoil Engine [foil]

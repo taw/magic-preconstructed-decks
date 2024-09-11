@@ -1,0 +1,8 @@
+// NAME: Hard-Boiled Thrillers
+// SOURCE: https://secretlair.wizards.com/us/product/924633
+// DATE: 2024-02-23
+1 [SLD:1575] Reconnaissance
+1 [SLD:1576] Jace, Wielder of Mysteries
+1 [SLD:1577] Black Market
+1 [SLD:1578] Dire Undercurrents
+1 [SLD:1579] Obeka, Brute Chronologist

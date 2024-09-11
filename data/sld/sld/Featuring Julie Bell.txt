@@ -1,0 +1,8 @@
+// NAME: Featuring: Julie Bell
+// SOURCE: https://secretlair.wizards.com/us/product/1001714
+// DATE: 2024-07-10
+1 [SLD:1708] Soul Warden
+1 [SLD:1709] Shivan Dragon
+1 [SLD:1710] Elves of Deep Shadow
+1 [SLD:1711] Good-Fortune Unicorn
+1 [SLD:1712] Coat of Arms

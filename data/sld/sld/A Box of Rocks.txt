@@ -1,6 +1,6 @@
 // NAME: A Box of Rocks
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Secretversary
-// DATE: 2020-11-30
+// SOURCE: https://secretlair.wizards.com/us/product/615019
+// DATE: 2021-03-15
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:523] Ral, [SLD:511] Ob Nixilis, [SLD:512] Chandra, [SLD:507] Kasmina, or [SLD:535] Samut
 1 [SLD:201] Arcane Signet
 1 [SLD:202] Chromatic Lantern

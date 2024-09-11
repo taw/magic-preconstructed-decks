@@ -1,5 +1,5 @@
-// NAME: Showcase: All Will Be One - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Winter_Superdrop_2023
+// NAME: Showcase: All Will Be One Step-and-Compleat Edition
+// SOURCE: https://secretlair.wizards.com/us/product/811028
 // DATE: 2023-04-14
 // DISPLAY: Also includes one foil extended art sliver [SLD:610-667]. Other bonus cards may be possible but have not been confirmed.
 1 [SLD:1213] Phyrexian Unlife [foil]

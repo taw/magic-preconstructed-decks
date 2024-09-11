@@ -1,0 +1,8 @@
+// NAME: Poker Faces Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/965735
+// DATE: 2024-05-30
+1 [SLD:1703] Jaxis, the Troublemaker [foil]
+1 [SLD:1704] Coffin Queen [foil]
+1 [SLD:1705] Goblin King [foil]
+1 [SLD:1706] Professional Face-Breaker [foil]
+1 [SLD:1707] Rankle, Master of Pranks [foil]

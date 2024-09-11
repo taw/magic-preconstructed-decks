@@ -1,0 +1,7 @@
+// NAME: Extra Life 2020
+// SOURCE: https://secretlair.wizards.com/us/product/614992
+// DATE: 2020-11-06
+1 [SLD:164] Teferi's Protection [foil]
+1 [SLD:165] Consecrated Sphinx [foil]
+1 [SLD:166] Collected Company [foil]
+1 [SLD:167] Amulet of Vigor [foil]

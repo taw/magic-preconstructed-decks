@@ -1,0 +1,9 @@
+// NAME: The Full-Text Lands
+// SOURCE: https://secretlair.wizards.com/us/product/634204
+// DATE: 2021-08-25
+// DISPLAY: All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
+1 [SLD:254] Plains
+1 [SLD:255] Island
+1 [SLD:256] Swamp
+1 [SLD:257] Mountain
+1 [SLD:258] Forest

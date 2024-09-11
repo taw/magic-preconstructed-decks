@@ -1,0 +1,7 @@
+// NAME: Tales of the Time Stoppers Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879328
+// DATE: 2023-12-05
+1 [SLD:1497★] Beacon of Tomorrows [foil]
+1 [SLD:1498★] Nexus of Fate [foil]
+1 [SLD:1499★] Time Reversal [foil]
+1 [SLD:1500★] Time Stop [foil]

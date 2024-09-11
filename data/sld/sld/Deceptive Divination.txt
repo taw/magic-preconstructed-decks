@@ -1,0 +1,8 @@
+// NAME: Deceptive Divination
+// SOURCE: https://secretlair.wizards.com/us/product/924641
+// DATE: 2024-02-23
+1 [SLD:1518] Wall of Omens
+1 [SLD:1519] Circular Logic
+1 [SLD:1520] Scheming Symmetry
+1 [SLD:1521] Price of Progress
+1 [SLD:1522] Eternal Witness

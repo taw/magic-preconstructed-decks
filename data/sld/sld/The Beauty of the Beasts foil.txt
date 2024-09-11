@@ -1,0 +1,8 @@
+// NAME: The Beauty of the Beasts Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/924640
+// DATE: 2024-02-23
+1 [SLD:1487★] Felidar Guardian [foil]
+1 [SLD:1488★] Peregrine Drake [foil]
+1 [SLD:1489★] Serpent of Yawning Depths [foil]
+1 [SLD:1490★] Scourge of Valkas [foil]
+1 [SLD:1491★] Voracious Hydra [foil]

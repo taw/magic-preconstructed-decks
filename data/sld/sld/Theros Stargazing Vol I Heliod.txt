@@ -1,0 +1,7 @@
+// NAME: Theros Stargazing: Vol. I (Heliod)
+// SOURCE: https://secretlair.wizards.com/us/product/600150
+// DATE: 2020-02-14
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:503] Gideon, [SLD:504] Teyo, [SLD:505] The Wanderer, [SLD:520] Ajani, [SLD:524] Sorin, [SLD:526] Teferi, [SLD:529] Dovin, [SLD:530] Huatli, [SLD:531] Kaya, or [SLD:533] Nahiri
+1 [SLD:68] Heliod, God of the Sun [foil]
+1 [SLD:69] Karametra, God of Harvests [foil]
+1 [SLD:70] Iroas, God of Victory [foil]

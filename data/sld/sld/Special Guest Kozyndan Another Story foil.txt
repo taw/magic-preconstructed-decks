@@ -1,0 +1,9 @@
+// NAME: Special Guest: Kozyndan: Another Story Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/810219
+// DATE: 2022-12-19
+// DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:681-688].
+1 [SLD:1125] Serra Ascendant [foil]
+1 [SLD:1126] Rapid Hybridization [foil]
+1 [SLD:1127] Demonic Consultation [foil]
+1 [SLD:1128] Winds of Change [foil]
+1 [SLD:1129] Llanowar Elves [foil]

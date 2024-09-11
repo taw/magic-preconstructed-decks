@@ -1,0 +1,9 @@
+// NAME: The Evil Dead Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/en/product/872676
+// DATE: 2023-10-02
+1 [SLD:1352] Puresteel Paladin [foil]
+1 [SLD:1353] Vanquish the Horde [foil]
+1 [SLD:1354] Zombie Apocalypse [foil]
+1 [SLD:1355] Varina, Lich Queen [foil]
+1 [SLD:1356] Field of the Dead [foil]
+1 [SLD:1357] Zombie [token] [foil]

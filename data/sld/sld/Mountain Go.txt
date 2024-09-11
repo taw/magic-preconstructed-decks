@@ -1,0 +1,7 @@
+// NAME: Mountain, Go
+// SOURCE: https://secretlair.wizards.com/us/product/608492
+// DATE: 2020-06-08
+1 [SLD:83] Lightning Bolt [foil]
+1 [SLD:84] Lightning Bolt [foil]
+1 [SLD:85] Lightning Bolt [foil]
+1 [SLD:86] Lightning Bolt [foil]

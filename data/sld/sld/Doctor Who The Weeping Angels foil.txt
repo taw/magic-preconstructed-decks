@@ -1,6 +1,6 @@
-// NAME: Doctor Who: The Weeping Angels foil
-// DATE: 2023-10-02
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
+// NAME: Secret Lair x Doctor Who: The Weeping Angels Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/872682
+// DATE: 2023-11-30
 1 [SLD:1377] Angel of Serenity [foil]
 1 [SLD:1378] Angel of the Ruins [foil]
 1 [SLD:1379] Blinding Angel [foil]

@@ -1,0 +1,8 @@
+// NAME: Prismatic Nightmares
+// SOURCE: https://secretlair.wizards.com/us/product/924637
+// DATE: 2024-02-23
+1 [SLD:1545] Arcane Denial
+1 [SLD:1546] Nightscape Familiar
+1 [SLD:1547] Rain of Filth
+1 [SLD:1548] Simian Spirit Guide
+1 [SLD:1549] Prince of Thralls

@@ -1,6 +1,6 @@
-// NAME: Extra Life 2021 - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Extra_Life_2021
-// DATE: 2021-11-05
+// NAME: Extra Life 2021 Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/694982
+// DATE: 2022-01-28
 1 [SLD:373] Mulldrifter [foil]
 1 [SLD:374] Mulldrifter [foil]
 1 [SLD:375] Craterhoof Behemoth [foil]

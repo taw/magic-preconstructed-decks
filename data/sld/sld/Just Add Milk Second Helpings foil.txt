@@ -1,0 +1,6 @@
+// NAME: Just Add Milk: Second Helpings Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/924632
+// DATE: 2024-02-23
+1 [SLD:1541a] Sakashima of a Thousand Faces [foil]
+1 [SLD:1542a] Yargle, Glutton of Urborg [foil]
+1 [SLD:1543a] Krark, the Thumbless [foil]

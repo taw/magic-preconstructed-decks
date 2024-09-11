@@ -1,6 +1,6 @@
-// NAME: Wizards of the Street - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_December_Superdrop_2022
-// DATE: 2022-12-02
+// NAME: Wizards of the Street Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/810231
+// DATE: 2022-12-19
 // DISPLAY: Also includes one foil extended art sliver [SLD:610-667], foil blueprint card [SLD:603-607], or Shadowborn Apostle [SLD:681-688].
 1 [SLD:1164] Baral, Chief of Compliance [foil]
 1 [SLD:1165] Spellseeker [foil]

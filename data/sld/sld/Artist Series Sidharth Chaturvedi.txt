@@ -1,6 +1,6 @@
 // NAME: Artist Series: Sidharth Chaturvedi
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_April_Superdrop_2022
-// DATE: 2022-04-11
+// SOURCE: https://secretlair.wizards.com/us/product/724656
+// DATE: 2022-08-05
 1 [SLD:465] Nomad Outpost
 1 [SLD:466] Island
 1 [SLD:467] Concordant Crossroads

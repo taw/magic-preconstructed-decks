@@ -1,0 +1,7 @@
+// NAME: Featuring: Andrew MacLean Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002040
+// DATE: 2024-07-30
+1 [SLD:1316] Nirkana Revenant [foil]
+1 [SLD:1317] Arbor Elf [foil]
+1 [SLD:1318] Terastodon [foil]
+1 [SLD:1319] Maelstrom Wanderer [foil]

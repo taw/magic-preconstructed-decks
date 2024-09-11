@@ -1,6 +1,6 @@
 // NAME: Artist Series: Chris Rahn
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_June_Superdrop_2022
-// DATE: 2022-06-13
+// SOURCE: https://secretlair.wizards.com/us/product/762462
+// DATE: 2022-09-13
 1 [SLD:493] Kozilek, the Great Distortion
 1 [SLD:494] Primeval Titan
 1 [SLD:495a] Huntmaster of the Fells

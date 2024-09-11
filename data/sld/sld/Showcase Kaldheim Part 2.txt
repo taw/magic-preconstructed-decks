@@ -1,0 +1,7 @@
+// NAME: Showcase: Kaldheim - Part 2
+// SOURCE: https://secretlair.wizards.com/us/product/629362
+// DATE: 2021-04-13
+// DISPLAY: Also includes one foil Jumpstart basic land: [SLD:557] Swamp or [SLD:566] Mountain
+1 [SLD:223] Grave Titan
+1 [SLD:224] Inferno Titan
+1 [SLD:225] Kroxa, Titan of Death's Hunger

@@ -1,0 +1,7 @@
+// NAME: Showcase: Outlaws of Thunder Junction Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/965741
+// DATE: 2024-05-30
+1 [SLD:1687] Kalitas, Traitor of Ghet [foil]
+1 [SLD:1688] Magda, Brazen Outlaw [foil]
+1 [SLD:1689] Dack Fayden [foil]
+1 [SLD:1690] Greasefang, Okiba Boss [foil]

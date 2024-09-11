@@ -1,6 +1,6 @@
-// NAME: Meditations on Nature foil
-// DATE: 2023-10-02
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
+// NAME: Meditations on Nature Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/872688
+// DATE: 2023-11-30
 1 [SLD:1399] Plains [foil]
 1 [SLD:1400] Island [foil]
 1 [SLD:1401] Swamp [foil]

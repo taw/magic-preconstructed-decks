@@ -1,5 +1,5 @@
-// NAME: Magic The Baseballing
-// SOURCE: https://secretlair.wizards.com/us/en/product/865798/magic-the-baseballing
+// NAME: Magic: The Baseballing
+// SOURCE: https://secretlair.wizards.com/us/product/865798
 // DATE: 2023-09-15
 1 [SLD:1453a] Ajani Goldmane
 1 [SLD:1454a] Jace Beleren

@@ -1,0 +1,7 @@
+// NAME: Artist Series: Rovina Cai
+// SOURCE: https://secretlair.wizards.com/us/product/928733
+// DATE: 2024-04-15
+1 [SLD:1639] Inalla, Archmage Ritualist
+1 [SLD:1640] Aether Vial
+1 [SLD:1641] Arcane Signet
+1 [SLD:1642] Sword of the Animist

@@ -1,6 +1,6 @@
-// NAME: Post Malone: The Lands - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_October_Superdrop_2022
-// DATE: 2022-11-28
+// NAME: Secret Lair x Post Malone: The Lands Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/772016
+// DATE: 2022-12-05
 1 [SLD:1190] Plains [foil]
 1 [SLD:1191] Island [foil]
 1 [SLD:1192] Swamp [foil]

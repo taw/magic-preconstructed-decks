@@ -1,0 +1,8 @@
+// NAME: Goblingram
+// SOURCE: https://secretlair.wizards.com/us/product/965734
+// DATE: 2024-05-30
+1 [SLD:1614] Brash Taunter
+1 [SLD:1615] Goblin Chieftain
+1 [SLD:1616] Goblin Ringleader
+1 [SLD:1617] Goblin Welder
+1 [SLD:1618] Mogg War Marshal

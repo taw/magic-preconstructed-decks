@@ -1,6 +1,6 @@
-// NAME: Kamigawa: The Manga: The Cards
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_February_Superdrop_2022
-// DATE: 2022-02-18
+// NAME: Kamigawa: the Manga: the Cards
+// SOURCE: https://secretlair.wizards.com/us/product/719249
+// DATE: 2022-07-22
 // DISPLAY: Also includes one foil extended art sliver: [SLD:617] Ward Sliver, [SLD:628] Winged Sliver, [SLD:646] Two-Headed Sliver, [SLD:647] Brood Sliver, [SLD:649] Horned Sliver, or [SLD:657] Tempered Sliver. There is a roughly 6% chance to instead get one of the foil blueprint artifact card [SLD:603-607], or a foil [SLD:599] Persistent Petitioners.
 1 [SLD:1020] Idyllic Tutor
 1 [SLD:1021] Swords to Plowshares

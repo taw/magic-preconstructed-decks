@@ -1,0 +1,13 @@
+// NAME: Secret Lair x Brain Dead: Lands Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002038
+// DATE: 2024-07-30
+1 [SLD:1647] Plains [foil]
+1 [SLD:1648] Island [foil]
+1 [SLD:1649] Swamp [foil]
+1 [SLD:1650] Mountain [foil]
+1 [SLD:1651] Forest [foil]
+1 [SLD:1652] Plains [foil]
+1 [SLD:1653] Island [foil]
+1 [SLD:1654] Swamp [foil]
+1 [SLD:1655] Mountain [foil]
+1 [SLD:1656] Forest [foil]

@@ -1,0 +1,8 @@
+// NAME: PixelLands_v02.jpg
+// SOURCE: https://secretlair.wizards.com/us/product/872691
+// DATE: 2023-11-30
+1 [SLD:1468] Plains
+1 [SLD:1469] Island
+1 [SLD:1470] Swamp
+1 [SLD:1471] Mountain
+1 [SLD:1472] Forest

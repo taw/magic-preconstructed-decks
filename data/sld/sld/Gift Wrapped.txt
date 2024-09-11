@@ -1,0 +1,8 @@
+// NAME: Gift Wrapped
+// SOURCE: https://secretlair.wizards.com/us/product/879339
+// DATE: 2023-12-05
+1 [SLD:1463] Giver of Runes
+1 [SLD:1464] Distant Melody
+1 [SLD:1465] Cathartic Reunion
+1 [SLD:1466] Moment's Peace
+1 [SLD:1467] Homeward Path

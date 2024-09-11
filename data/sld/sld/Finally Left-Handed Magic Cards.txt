@@ -1,0 +1,8 @@
+// NAME: Finally! Left-Handed Magic Cards
+// SOURCE: https://secretlair.wizards.com/us/product/724660
+// DATE: 2022-08-05
+1 [SLD:9995] Garruk, Caller of Beasts
+1 [SLD:9996] Rograkh, Son of Rohgahh
+1 [SLD:9997] Geralf's Messenger
+1 [SLD:9998] Empress Galina
+1 [SLD:9999] Sisay, Weatherlight Captain

@@ -1,0 +1,8 @@
+// NAME: Faerie, Faerie, Faerie Rad
+// SOURCE: https://secretlair.wizards.com/us/product/629377
+// DATE: 2021-04-13
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:512] Chandra, [SLD:529] Dovin or [SLD:534] Saheeli
+1 [SLD:115] Glen Elendra Archmage [foil]
+1 [SLD:116] Mistbind Clique [foil]
+1 [SLD:117] Spellstutter Sprite [foil]
+1 [SLD:118] Vendilion Clique [foil]

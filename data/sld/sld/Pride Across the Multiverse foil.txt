@@ -1,6 +1,6 @@
-// NAME: Pride Across the Multiverse - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Pride_Across_the_Multiverse
-// DATE: 2022-05-04
+// NAME: Pride Across the Multiverse Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/758581
+// DATE: 2022-08-05
 // DISPLAY: Also includes one of: [SLD:530] Huatli, or [SLD:534] Saheeli
 1 [SLD:1005] Triumphant Reckoning [foil]
 1 [SLD:1006] Savor the Moment [foil]

@@ -1,0 +1,10 @@
+// NAME: An Exhibition of Adventure
+// SOURCE: https://secretlair.wizards.com/us/product/1016833
+// DATE: 2024-08-28
+1 [SLD:1778] Fell the Mighty
+1 [SLD:1779] Faithless Looting
+1 [SLD:1780] Goldspan Dragon
+1 [SLD:1781] Reality Shift
+1 [SLD:1782a] Monster Manual
+1 [SLD:1783] Ponder
+1 [SLD:1784] Acererak the Archlich

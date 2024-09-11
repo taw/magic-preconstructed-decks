@@ -1,6 +1,6 @@
-// NAME: The Princess Bride
-// DATE: 2023-10-02
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Spookydrop_2023
+// NAME: Secret Lair x The Princess Bride
+// SOURCE: https://secretlair.wizards.com/us/product/872681
+// DATE: 2023-11-30
 1 [SLD:1444] Sisay, Weatherlight Captain
 1 [SLD:1445] Silence
 1 [SLD:1446] Battle of Wits

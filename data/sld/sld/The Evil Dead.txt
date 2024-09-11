@@ -1,0 +1,9 @@
+// NAME: The Evil Dead
+// SOURCE: https://secretlair.wizards.com/eu/it/product/872693
+// DATE: 2023-10-02
+1 [SLD:1352] Puresteel Paladin
+1 [SLD:1353] Vanquish the Horde
+1 [SLD:1354] Zombie Apocalypse
+1 [SLD:1355] Varina, Lich Queen
+1 [SLD:1356] Field of the Dead
+1 [SLD:1357] Zombie [token]

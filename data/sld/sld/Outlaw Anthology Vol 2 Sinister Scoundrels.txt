@@ -1,0 +1,7 @@
+// NAME: Outlaw Anthology Vol. 2: Sinister Scoundrels
+// SOURCE: https://secretlair.wizards.com/us/product/965740
+// DATE: 2024-05-30
+1 [SLD:1623] Vorinclex, Voice of Hunger
+1 [SLD:1624] Karona, False God
+1 [SLD:1625] Korvold, Fae-Cursed King
+1 [SLD:1626] Memnarch

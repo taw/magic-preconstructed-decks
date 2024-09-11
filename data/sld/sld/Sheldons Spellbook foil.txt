@@ -1,0 +1,10 @@
+// NAME: Sheldon's Spellbook Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/924737
+// DATE: 2024-07-03
+1 [SLD:1691] Teferi's Protection [foil]
+1 [SLD:1692] Eladamri's Vineyard [foil]
+1 [SLD:1693] Greater Good [foil]
+1 [SLD:1694] Inkshield [foil]
+1 [SLD:1695] Ruhan of the Fomori [foil]
+1 [SLD:1696] Sol Ring [foil]
+1 [SLD:1697] Command Tower [foil]

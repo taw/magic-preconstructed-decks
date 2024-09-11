@@ -1,0 +1,7 @@
+// NAME: Featuring: Andrew MacLean
+// SOURCE: https://secretlair.wizards.com/us/product/1002041
+// DATE: 2024-07-30
+1 [SLD:1316] Nirkana Revenant
+1 [SLD:1317] Arbor Elf
+1 [SLD:1318] Terastodon
+1 [SLD:1319] Maelstrom Wanderer

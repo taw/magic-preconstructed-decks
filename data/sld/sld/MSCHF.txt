@@ -1,0 +1,9 @@
+// NAME: Secret Lair x MSCHF
+// SOURCE: https://secretlair.wizards.com/us/product/696840
+// DATE: 2022-02-04
+// DISPLAY: This drop featured diffent styles of foil finishes, so not all cards are etched, despite the name.
+1 [SLD:364] Swords to Plowshares [foil] [etched]
+1 [SLD:365] Grim Tutor [foil]
+1 [SLD:366] Blood Moon [foil] [etched]
+1 [SLD:367a] Cut [foil] [etched]
+1 [SLD:368] Teferi's Puzzle Box [foil]

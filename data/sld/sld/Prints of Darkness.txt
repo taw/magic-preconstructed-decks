@@ -1,0 +1,8 @@
+// NAME: Prints of Darkness
+// SOURCE: https://secretlair.wizards.com/us/product/1001718
+// DATE: 2024-07-10
+1 [SLD:1713] Dictate of Erebos
+1 [SLD:1714] Fecundity
+1 [SLD:1715] Mayhem Devil
+1 [SLD:1716] Moldervine Reclamation
+1 [SLD:1717] Prossh, Skyraider of Kher

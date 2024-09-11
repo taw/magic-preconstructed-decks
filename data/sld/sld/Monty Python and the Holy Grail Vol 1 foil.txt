@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Monty Python and the Holy Grail: Vol. 1 Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002028
+// DATE: 2024-07-30
+1 [SLD:1672] Prodigal Sorcerer [foil]
+1 [SLD:1673] Buried Alive [foil]
+1 [SLD:1674] Dismember [foil]
+1 [SLD:1675a] Birds of Paradise [foil]
+1 [SLD:1676] Three Visits [foil]

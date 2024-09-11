@@ -1,0 +1,8 @@
+// NAME: Year of the Rat
+// SOURCE: https://secretlair.wizards.com/us/product/599137
+// DATE: 2020-01-07
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:523] Ral, [SLD:516] Arlinn, [SLD:504] Teyo, or [SLD:514] Sarkhan
+1 [SLD:33] Ink-Eyes, Servant of Oni [foil]
+1 [SLD:34] Marrow-Gnawer [foil]
+1 [SLD:35] Pack Rat [foil]
+5 [SLD:36] Rat Colony [foil]

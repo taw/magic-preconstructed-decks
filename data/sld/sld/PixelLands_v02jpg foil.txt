@@ -1,0 +1,8 @@
+// NAME: PixelLands_v02.jpg Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/872690
+// DATE: 2023-11-30
+1 [SLD:1468] Plains [foil]
+1 [SLD:1469] Island [foil]
+1 [SLD:1470] Swamp [foil]
+1 [SLD:1471] Mountain [foil]
+1 [SLD:1472] Forest [foil]

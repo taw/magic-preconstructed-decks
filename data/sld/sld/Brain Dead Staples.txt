@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Brain Dead: Staples
+// SOURCE: https://secretlair.wizards.com/us/product/1002035
+// DATE: 2024-07-30
+1 [SLD:1662] Lightning Greaves
+1 [SLD:1663] Skullclamp
+1 [SLD:1664] Sol Ring
+1 [SLD:1665] Thought Vessel
+1 [SLD:1666] Command Tower

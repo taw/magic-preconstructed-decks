@@ -1,0 +1,10 @@
+// NAME: Secret Lair x Tomb Raider Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879322
+// DATE: 2023-12-05
+1 [SLD:1501] Lara Croft, Tomb Raider [foil]
+1 [SLD:1502a] Search for Azcanta [foil]
+1 [SLD:1503] Anger of the Gods [foil]
+1 [SLD:1504] Bow of Nylea [foil]
+1 [SLD:1505] Shadowspear [foil]
+1 [SLD:1506] Academy Ruins [foil]
+1 [SLD:1507] Treasure [foil] [token]

@@ -1,0 +1,6 @@
+// NAME: Mycosynthwave
+// SOURCE: https://secretlair.wizards.com/us/product/879331
+// DATE: 2023-12-05
+1 [SLD:1433] Mycosynth Golem
+1 [SLD:1434] Mycosynth Lattice
+1 [SLD:1435] Mycosynth Wellspring

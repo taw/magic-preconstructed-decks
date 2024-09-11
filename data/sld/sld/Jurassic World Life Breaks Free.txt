@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Jurassic World: Life Breaks Free
+// SOURCE: https://secretlair.wizards.com/us/product/879325
+// DATE: 2023-12-05
+1 [SLD:1389] Etali, Primal Storm
+1 [SLD:1390] Rampaging Ferocidon
+1 [SLD:1391] Polyraptor
+1 [SLD:1392] Wayward Swordtooth
+1 [SLD:1393] Regisaur Alpha

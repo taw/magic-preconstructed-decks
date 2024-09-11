@@ -1,0 +1,7 @@
+// NAME: Showcase: Kaldheim - Part 1
+// SOURCE: https://secretlair.wizards.com/us/product/629356
+// DATE: 2021-04-13
+// DISPLAY: Also includes one foil Jumpstart basic land: [SLD:555] Island or [SLD:573] Forest
+1 [SLD:220] Frost Titan
+1 [SLD:221] Primeval Titan
+1 [SLD:222] Uro, Titan of Nature's Wrath

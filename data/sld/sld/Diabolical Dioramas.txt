@@ -1,0 +1,7 @@
+// NAME: Diabolical Dioramas
+// SOURCE: https://secretlair.wizards.com/us/product/928731
+// DATE: 2024-04-15
+1 [SLD:1643] Gravebreaker Lamia
+1 [SLD:1644] Aura Shards
+1 [SLD:1645] Fiend Artisan
+1 [SLD:1646] Karador, Ghost Chieftain

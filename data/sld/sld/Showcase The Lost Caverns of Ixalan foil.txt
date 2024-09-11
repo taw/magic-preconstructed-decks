@@ -1,0 +1,8 @@
+// NAME: Showcase: The Lost Caverns of Ixalan Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879334
+// DATE: 2023-12-05
+1 [SLD:1409★] Captain Lannery Storm [foil]
+1 [SLD:1410★] Admiral Beckett Brass [foil]
+1 [SLD:1411★] Elenda, the Dusk Rose [foil]
+1 [SLD:1412★] Kumena, Tyrant of Orazca [foil]
+1 [SLD:1413★] Vona, Butcher of Magan [foil]

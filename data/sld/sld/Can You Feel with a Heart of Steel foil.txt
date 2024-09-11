@@ -1,6 +1,0 @@
-// NAME: Can You Feel with a Heart of Steel? - Foil
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Summer_Superdrop
-// DATE: 2020-06-02
-1 [SLD:56] Arcbound Ravager [foil]
-1 [SLD:57] Darksteel Colossus [foil]
-1 [SLD:58] Walking Ballista [foil]

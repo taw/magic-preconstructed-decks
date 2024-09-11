@@ -1,0 +1,10 @@
+// NAME: Secret Lair x Fallout®: S.P.E.C.I.A.L.
+// SOURCE: https://secretlair.wizards.com/us/product/928727
+// DATE: 2024-04-15
+1 [SLD:1632] Steelshaper's Gift
+1 [SLD:1633] Propaganda
+1 [SLD:1634] Elixir of Immortality
+1 [SLD:1635] Council's Judgment
+1 [SLD:1636] Idyllic Tutor
+1 [SLD:1637] Anger
+1 [SLD:1638] Lightning Bolt
