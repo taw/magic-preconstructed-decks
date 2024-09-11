@@ -1,0 +1,7 @@
+// NAME: Outlaw Anthology Vol. 1: Rebellious Renegades Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/965737
+// DATE: 2024-05-30
+1 [SLD:1619] Tezzeret the Seeker [foil]
+1 [SLD:1620] Griselbrand [foil]
+1 [SLD:1621] Grenzo, Havoc Raiser [foil]
+1 [SLD:1622] Nicol Bolas, Planeswalker [foil]

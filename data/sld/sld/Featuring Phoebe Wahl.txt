@@ -1,0 +1,8 @@
+// NAME: Featuring: Phoebe Wahl
+// SOURCE: https://secretlair.wizards.com/us/product/928729
+// DATE: 2024-04-15
+1 [SLD:1627] Swords to Plowshares
+1 [SLD:1628] Faerie Artisans
+1 [SLD:1629] Dockside Chef
+1 [SLD:1630] Alela, Artful Provocateur
+1 [SLD:1631] Door of Destinies

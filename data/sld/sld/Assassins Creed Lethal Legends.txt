@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Assassin's Creed: Lethal Legends
+// SOURCE: https://secretlair.wizards.com/us/product/1001708
+// DATE: 2024-07-10
+1 [SLD:1557] Najeela, the Blade-Blossom
+1 [SLD:1558] Kelsien, the Plague
+1 [SLD:1559] Queen Marchesa
+1 [SLD:1560] Ramses, Assassin Lord
+1 [SLD:1561] Admiral Beckett Brass

@@ -1,0 +1,8 @@
+// NAME: Karlach's Rage
+// SOURCE: https://secretlair.wizards.com/us/product/1016841
+// DATE: 2024-08-28
+1 [SLD:1802] Karlach, Fury of Avernus
+1 [SLD:1803] City on Fire
+1 [SLD:1804] Stranglehold
+1 [SLD:1805] Thrill of Possibility
+1 [SLD:1806] Dolmen Gate

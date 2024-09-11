@@ -1,0 +1,7 @@
+// NAME: Secret Lair x Fallout®: Vault Boy
+// SOURCE: https://secretlair.wizards.com/us/product/928723
+// DATE: 2024-04-15
+1 [SLD:1483] Grand Arbiter Augustin IV
+1 [SLD:1484] Sphere of Resistance
+1 [SLD:1485] Trinisphere
+1 [SLD:1486] Winter Orb

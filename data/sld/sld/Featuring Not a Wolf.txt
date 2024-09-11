@@ -1,0 +1,9 @@
+// NAME: Featuring: Not a Wolf
+// SOURCE: https://secretlair.wizards.com/us/product/1001716
+// DATE: 2024-07-10
+1 [SLD:1608a] Avabruck Caretaker
+1 [SLD:1609] Beastmaster Ascension
+1 [SLD:1610] Howl of the Night Pack
+1 [SLD:1611] Second Harvest
+1 [SLD:1612a] Tovolar, Dire Overlord
+1 [SLD:1613] Wolf [token]

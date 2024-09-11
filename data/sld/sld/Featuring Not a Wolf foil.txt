@@ -1,0 +1,9 @@
+// NAME: Featuring: Not a Wolf Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1001715
+// DATE: 2024-07-10
+1 [SLD:1608a] Avabruck Caretaker [foil]
+1 [SLD:1609] Beastmaster Ascension [foil]
+1 [SLD:1610] Howl of the Night Pack [foil]
+1 [SLD:1611] Second Harvest [foil]
+1 [SLD:1612a] Tovolar, Dire Overlord [foil]
+1 [SLD:1613] Wolf [foil] [token]

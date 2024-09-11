@@ -1,0 +1,8 @@
+// NAME: Paradise Frost Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879336
+// DATE: 2023-12-05
+1 [SLD:1473★] Snow-Covered Plains [foil]
+1 [SLD:1474★] Snow-Covered Island [foil]
+1 [SLD:1475★] Snow-Covered Swamp [foil]
+1 [SLD:1476★] Snow-Covered Mountain [foil]
+1 [SLD:1477★] Snow-Covered Forest [foil]

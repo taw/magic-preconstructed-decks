@@ -1,0 +1,8 @@
+// NAME: Astarion's Thirst Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1016838
+// DATE: 2024-08-28
+1 [SLD:1797] Astarion, the Decadent [foil]
+1 [SLD:1798] Exquisite Blood [foil]
+1 [SLD:1799] Sanguine Bond [foil]
+1 [SLD:1800] Anguished Unmaking [foil]
+1 [SLD:1801] Mortify [foil]

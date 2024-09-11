@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Jurassic World: Dr. Ian Malcolm Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/879326
+// DATE: 2023-12-05
+1 [SLD:1394★] Laboratory Maniac [foil]
+1 [SLD:1395★] Tasha's Hideous Laughter [foil]
+1 [SLD:1396★] Tasigur, the Golden Fang [foil]
+1 [SLD:1397★] Atla Palani, Nest Tender [foil]
+1 [SLD:1398★] Egg [foil] [token]

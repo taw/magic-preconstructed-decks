@@ -1,0 +1,8 @@
+// NAME: Deceptive Divination Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/924642
+// DATE: 2024-02-23
+1 [SLD:1518★] Wall of Omens [foil]
+1 [SLD:1519★] Circular Logic [foil]
+1 [SLD:1520★] Scheming Symmetry [foil]
+1 [SLD:1521★] Price of Progress [foil]
+1 [SLD:1522★] Eternal Witness [foil]

@@ -1,0 +1,8 @@
+// NAME: Featuring: Julie Bell Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1001713
+// DATE: 2024-07-10
+1 [SLD:1708] Soul Warden [foil]
+1 [SLD:1709] Shivan Dragon [foil]
+1 [SLD:1710] Elves of Deep Shadow [foil]
+1 [SLD:1711] Good-Fortune Unicorn [foil]
+1 [SLD:1712] Coat of Arms [foil]

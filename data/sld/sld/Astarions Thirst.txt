@@ -1,0 +1,8 @@
+// NAME: Astarion's Thirst
+// SOURCE: https://secretlair.wizards.com/us/product/1016839
+// DATE: 2024-08-28
+1 [SLD:1797] Astarion, the Decadent
+1 [SLD:1798] Exquisite Blood
+1 [SLD:1799] Sanguine Bond
+1 [SLD:1800] Anguished Unmaking
+1 [SLD:1801] Mortify

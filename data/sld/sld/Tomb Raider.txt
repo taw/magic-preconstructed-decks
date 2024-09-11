@@ -1,0 +1,10 @@
+// NAME: Secret Lair x Tomb Raider
+// SOURCE: https://secretlair.wizards.com/us/product/879323
+// DATE: 2023-12-05
+1 [SLD:1501] Lara Croft, Tomb Raider
+1 [SLD:1502a] Search for Azcanta
+1 [SLD:1503] Anger of the Gods
+1 [SLD:1504] Bow of Nylea
+1 [SLD:1505] Shadowspear
+1 [SLD:1506] Academy Ruins
+1 [SLD:1507] Treasure [token]

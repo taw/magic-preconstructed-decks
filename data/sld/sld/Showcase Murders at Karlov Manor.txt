@@ -1,0 +1,7 @@
+// NAME: Showcase: Murders at Karlov Manor
+// SOURCE: https://secretlair.wizards.com/us/product/924635
+// DATE: 2024-02-23
+1 [SLD:1566] Gonti, Lord of Luxury
+1 [SLD:1567] Vilis, Broker of Blood
+1 [SLD:1568] Anowon, the Ruin Thief
+1 [SLD:1569] Grenzo, Dungeon Warden

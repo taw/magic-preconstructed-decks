@@ -1,0 +1,7 @@
+// NAME: Diabolical Dioramas Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/928730
+// DATE: 2024-04-15
+1 [SLD:1643★] Gravebreaker Lamia [foil]
+1 [SLD:1644★] Aura Shards [foil]
+1 [SLD:1645★] Fiend Artisan [foil]
+1 [SLD:1646★] Karador, Ghost Chieftain [foil]

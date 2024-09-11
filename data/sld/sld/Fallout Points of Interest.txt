@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Fallout®: Points of Interest
+// SOURCE: https://secretlair.wizards.com/us/product/928725
+// DATE: 2024-04-15
+1 [SLD:1532] Bojuka Bog
+1 [SLD:1533] Command Beacon
+1 [SLD:1534] Fabled Passage
+1 [SLD:1535] Reflecting Pool
+1 [SLD:1536] Reliquary Tower

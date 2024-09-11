@@ -1,0 +1,7 @@
+// NAME: Secret Lair x Monty Python and the Holy Grail: Vol. 2 Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1002030
+// DATE: 2024-07-30
+1 [SLD:1678] Door to Nothingness [foil]
+1 [SLD:1679] Ashnod's Altar [foil]
+1 [SLD:1680] Dark Depths [foil]
+1 [SLD:1681] Marit Lage [foil] [token]

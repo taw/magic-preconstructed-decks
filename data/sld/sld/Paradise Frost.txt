@@ -1,0 +1,8 @@
+// NAME: Paradise Frost
+// SOURCE: https://secretlair.wizards.com/us/product/879337
+// DATE: 2023-12-05
+1 [SLD:1473] Snow-Covered Plains
+1 [SLD:1474] Snow-Covered Island
+1 [SLD:1475] Snow-Covered Swamp
+1 [SLD:1476] Snow-Covered Mountain
+1 [SLD:1477] Snow-Covered Forest

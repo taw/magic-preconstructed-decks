@@ -1,0 +1,8 @@
+// NAME: Through the Wormhole
+// SOURCE: https://secretlair.wizards.com/us/product/879333
+// DATE: 2023-12-05
+1 [SLD:1492] Arcane Signet
+1 [SLD:1493] Lightning Greaves
+1 [SLD:1494] Sol Ring
+1 [SLD:1495] Thought Vessel
+1 [SLD:1496] Command Tower
