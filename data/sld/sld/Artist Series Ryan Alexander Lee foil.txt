@@ -5,3 +5,4 @@
 1 [SLD:1303] Gaea's Blessing [foil]
 1 [SLD:1304] Twilight Prophet [foil]
 1 [SLD:1305] Worldspine Wurm [foil]
+1 [SLD:1306] Wurm [foil] [token]

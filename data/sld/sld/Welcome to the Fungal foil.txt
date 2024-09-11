@@ -6,3 +6,4 @@
 1 [SLD:1136] Mycoloth [foil]
 1 [SLD:1137] Ghave, Guru of Spores [foil]
 1 [SLD:1138] Slimefoot, the Stowaway [foil]
+1 [SLD:1139] Saproling [foil] [token]
