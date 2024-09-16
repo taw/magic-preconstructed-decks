@@ -1,0 +1,13 @@
+// NAME: Blue and White Flying
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Cartouche of Solidarity
+1 Tasseled Dromedary
+1 Compulsory Rest
+1 Cartouche of Knowledge
+1 Hinterland Drake
+1 Vedalken Blademaster
+1 Trial of Solidarity
+1 Aerial Responder
+1 Trial of Knowledge
+1 Angler Drake

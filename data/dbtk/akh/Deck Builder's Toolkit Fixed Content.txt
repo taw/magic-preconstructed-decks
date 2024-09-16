@@ -1,0 +1,78 @@
+// NAME: Deck Builder's Toolkit Fixed Content
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Victory's Herald
+1 Sphinx of Magosi
+1 Nightmare
+1 Shivan Dragon
+1 Garruk's Horde
+1 Serra Angel
+1 Stormfront Pegasus
+1 Aviary Mechanic
+1 Fan Bearer
+1 Standing Troops
+1 Graceful Cat
+1 Divine Verdict
+1 Fragmentize
+1 Inspired Charge
+1 Compulsory Rest
+1 Air Elemental
+1 Angler Drake
+1 Nimble Innovator
+1 Stealer of Secrets
+1 Leave in the Dust
+1 Tricks of the Trade
+1 Negate
+1 Malfunction
+1 Essence Scatter
+1 Revolutionary Rebuff
+1 Sengir Vampire
+1 Gifted Aetherborn
+2 Tattered Mummy
+1 Bloodhunter Bat
+1 Painful Lesson
+1 Daring Demolition
+1 Untamed Hunger
+1 Supernatural Stamina
+1 Raise Dead
+1 Brazen Scourge
+1 Hungry Flames
+1 Thundering Giant
+1 Bloodlust Inciter
+1 Spireside Infiltrator
+1 Cathartic Reunion
+1 Hijack
+1 Fling
+2 Shock
+1 Arborback Stomper
+1 Blossoming Defense
+2 Druid of the Cowl
+1 Rootwalla
+1 Stalking Tiger
+1 Wild Wanderer
+1 Greater Sandwurm
+1 Wing Snare
+1 Oakenform
+1 Filigree Familiar
+2 Renegade Map
+1 Night Market Guard
+1 Renegade Freighter
+1 Irontread Crusher
+2 Cinder Barrens
+2 Meandering River
+2 Submerged Boneyard
+2 Timber Gorge
+2 Tranquil Expanse
+2 Forsaken Sanctuary
+2 Foul Orchard
+2 Highland Lake
+2 Stone Quarry
+2 Woodland Stream
+20 Plains
+20 Island
+20 Swamp
+20 Mountain
+20 Forest
+4 Evolving Wilds
+
+Sideboard

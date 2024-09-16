@@ -1,0 +1,13 @@
+// NAME: Black and Red Artifacts
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Augmenting Automaton
+1 Implement of Malice
+1 Dhund Operative
+1 Welder Automaton
+1 Sweatworks Brawler
+1 Welding Sparks
+1 Embraal Bruiser
+1 Unlicensed Disintegration
+1 Enraged Giant
+1 Inventor's Apprentice

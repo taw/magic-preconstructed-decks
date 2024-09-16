@@ -1,0 +1,13 @@
+// NAME: Blue and Colorless Artifacts
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Bastion Inventor
+1 Gearseeker Serpent
+1 Metallic Rebuke
+1 Consulate Skygate
+1 Implement of Examination
+1 Watchers of the Dead
+1 Trophy Mage
+1 Reverse Engineer
+1 Filigree Familiar
+1 Pacification Array
