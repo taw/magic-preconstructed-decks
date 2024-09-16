@@ -1,0 +1,13 @@
+// NAME: Green and White
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Compulsory Rest
+1 Those Who Serve
+1 Dawnfeather Eagle
+1 Prey Upon
+1 Narnam Cobra
+1 Shed Weakness
+1 Fairgrounds Warden
+1 Thopter Arrest
+1 Arborback Stomper
+1 Manglehorn

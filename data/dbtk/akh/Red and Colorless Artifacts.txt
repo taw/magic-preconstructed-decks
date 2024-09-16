@@ -1,0 +1,13 @@
+// NAME: Red and Colorless Artifacts
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Sweatworks Brawler
+1 Fireforger's Puzzleknot
+1 Embraal Gear-Smasher
+1 Implement of Combustion
+1 Welder Automaton
+1 Watchers of the Dead
+1 Inventor's Apprentice
+1 Enraged Giant
+1 Snare Thopter
+1 Servo Schematic

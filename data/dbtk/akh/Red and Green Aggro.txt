@@ -1,0 +1,13 @@
+// NAME: Red and Green Aggro
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Cartouche of Zeal
+1 Fling
+1 Nef-Crop Entangler
+1 Cartouche of Strength
+1 Initiate's Companion
+1 Larger Than Life
+1 Trial of Zeal
+1 Ahn-Crop Crasher
+1 Trial of Strength
+1 Crocodile of the Crossing

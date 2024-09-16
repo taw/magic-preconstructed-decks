@@ -1,0 +1,12 @@
+// NAME: White and Black Zombies
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+2 Binding Mummy
+1 Doomed Dissenter
+1 In Oketra's Name
+1 Festering Mummy
+1 Miasmic Mummy
+1 Trueheart Duelist
+1 Wayward Servant
+1 Lord of the Accursed
+1 Stir the Sands

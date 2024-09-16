@@ -1,0 +1,13 @@
+// NAME: Blue and Green Ramp
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Hekma Sentinels
+1 Hieroglyphic Illumination
+1 River Serpent
+1 Greater Sandwurm
+1 Wild Wanderer
+1 Oashra Cultivator
+1 Lay Claim
+1 Spring // Mind
+1 Weaver of Currents
+1 Shefet Monitor

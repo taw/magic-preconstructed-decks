@@ -1,0 +1,13 @@
+// NAME: Blue and Black Noncreatures
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Cartouche of Knowledge
+1 Vedalken Blademaster
+1 Hieroglyphic Illumination
+1 Dune Beetle
+1 Cartouche of Ambition
+1 Prakhata Pillar-Bug
+1 Edifice of Authority
+1 Trial of Knowledge
+1 Trial of Ambition
+1 Stir the Sands

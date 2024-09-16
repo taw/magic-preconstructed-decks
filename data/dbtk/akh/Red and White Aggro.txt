@@ -1,0 +1,13 @@
+// NAME: Red and White Aggro
+// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// DATE: 2017-04-28
+1 Cartouche of Solidarity
+1 Gust Walker
+1 Rhet-Crop Spearmaster
+1 Cartouche of Zeal
+1 Nef-Crop Entangler
+1 Emberhorn Minotaur
+1 Trial of Solidarity
+1 Honored Crop-Captain
+1 Trial of Zeal
+1 Ahn-Crop Crasher
