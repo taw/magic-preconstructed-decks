@@ -1,62 +1,43 @@
 // NAME: Miracle Worker
 // SOURCE: https://magic.wizards.com/en/news/announcements/duskmourn-house-of-horror-commander-decklists
 // DATE: 2024-09-27
-COMMANDER: 1 Aminatou, Veil Piercer [foil] [DCS:1]
-1 The Master of Keys [foil] [DCS:4]
+COMMANDER: 1 Aminatou, Veil Piercer [foil] [DSC:1]
+1 The Master of Keys [foil] [DSC:4]
+1 Redress Fate
+1 Secret Arcade // Dusty Parlor
 1 Soaring Lightbringer
 1 Fear of Sleep Paralysis
 1 Ancient Cellarspawn
+1 Cramped Vents // Access Maze
 1 Metamorphosis Fanatic
 1 Phenomenon Investigators
 1 Mesa Enchantress
+1 Terminus
+1 Aminatou's Augury
+1 Utter End
+1 Entreat the Angels
+1 Monologue Tax
 1 Ondu Spiritdancer
+1 Sigil of the Empty Throne
 1 Starfield Mystic
+1 Timely Ward
 1 Verge Rangers
 1 Dream Eater
+1 Extravagant Replication
+1 Mirrormade
+1 One with the Multiverse
 1 Prognostic Sphinx
+1 Shark Typhoon
 1 Arvinox, the Mind Flail
 1 Demon of Fate's Design
 1 Doomwake Giant
 1 Nightmare Shepherd
 1 Athreos, Shroud-Veiled
-1 Solemn Simulacrum
-1 Auramancer
-1 Moon-Blessed Cleric
-1 Archetype of Imagination
-1 Burnished Hart
-1 Redress Fate
-1 Terminus
-1 Aminatou's Augury
-1 Entreat the Angels
-1 Time Wipe
-1 Ponder
-1 Portent
-1 Diabolic Vision
-1 Read the Bones
-1 Secret Arcade // Dusty Parlor
-1 Cramped Vents // Access Maze
-1 Monologue Tax
-1 Sigil of the Empty Throne
-1 Timely Ward
-1 Extravagant Replication
-1 Mirrormade
-1 One with the Multiverse
-1 Shark Typhoon
+1 Inkshield
 1 Life Insurance
 1 Spirit-Sister's Call
-1 Bottomless Pool // Locker Room
-1 Cast Out
-1 Sphere of Safety
-1 The Eldest Reborn
-1 Utter End
-1 Inkshield
-1 Swords to Plowshares
-1 Telling Time
-1 Return to Dust
-1 Arcane Denial
-1 Brainstorm
-1 Otherworldly Gaze
-1 Thirst for Meaning
+1 Time Wipe
+1 Solemn Simulacrum
 1 Adarkar Wastes
 1 Caves of Koilos
 1 Hall of Heliod's Generosity
@@ -64,8 +45,34 @@ COMMANDER: 1 Aminatou, Veil Piercer [foil] [DCS:1]
 1 Temple of Enlightenment
 1 Temple of Silence
 1 Underground River
+1 Bottomless Pool // Locker Room
 1 Terramorphic Expanse
+1 Auramancer
+1 Swords to Plowshares
+1 Moon-Blessed Cleric
+1 Ponder
+1 Portent
+1 Telling Time
+1 Diabolic Vision
+1 Arcane Signet
+1 Sol Ring
 1 Command Tower
+1 Cast Out
+1 Return to Dust
+1 Sphere of Safety
+1 Arcane Denial
+1 Archetype of Imagination
+1 Brainstorm
+1 Otherworldly Gaze
+1 Thirst for Meaning
+1 The Eldest Reborn
+1 Read the Bones
+1 Azorius Signet
+1 Brainstone
+1 Burnished Hart
+1 Commander's Sphere
+1 Mind Stone
+1 Orzhov Signet
 1 Arcane Sanctum
 1 Ash Barrens
 1 Azorius Chancery
@@ -83,13 +90,6 @@ COMMANDER: 1 Aminatou, Veil Piercer [foil] [DCS:1]
 5 Plains
 4 Island
 5 Swamp
-1 Arcane Signet
-1 Sol Ring
-1 Azorius Signet
-1 Brainstone
-1 Commander's Sphere
-1 Mind Stone
-1 Orzhov Signet
 
 Scheme Deck
 1 Choose Your Demise
