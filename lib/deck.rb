@@ -16,10 +16,10 @@ class Deck
     section_name = "Main Deck"
 
     main_lines.each do |line|
-      case line
+      case line.strip
       # All known sections
       when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck", "Scheme Deck"
-        section_name = line
+        section_name = line.strip
         next
       end
 
