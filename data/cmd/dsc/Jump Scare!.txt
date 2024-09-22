@@ -1,0 +1,99 @@
+// NAME: Jump Scare!
+// SOURCE: https://magic.wizards.com/en/news/announcements/duskmourn-house-of-horror-commander-decklists
+// DATE: 2024-09-27
+COMMANDER: 1 Zimone, Mystery Unraveler [foil] [DSC:8]
+1 Kianne, Corrupted Memory [foil] [DCS:2]
+1 Glitch Interpreter
+1 Curator Beastie
+1 Shriekwood Devourer
+1 Giggling Skitterspike
+1 Citanul Hierophants
+1 Body of Knowledge
+1 Kefnet the Mindful
+1 Kheru Spellsnatcher
+1 Skaab Ruinator
+1 Ashaya, Soul of the Wild
+1 Augur of Autumn
+1 Deathmist Raptor
+1 Hydra Omnivore
+1 Multani, Yavimaya's Avatar
+1 Scute Swarm
+1 Shigeki, Jukai Visionary
+1 Temur War Shaman
+1 Thunderfoot Baloth
+1 Whisperwood Elemental
+1 Worldspine Wurm
+1 Aesi, Tyrant of Gyre Strait
+1 Arixmethes, Slumbering Isle
+1 Rashmi, Eternities Crafter
+1 Overgrown Zealot
+1 Beanstalk Giant
+1 Greater Tanuki
+1 Sakura-Tribe Elder
+1 Yavimaya Elder
+1 Yedora, Grave Gardener
+1 Tatyova, Benthic Druid
+1 Trygon Predator
+1 They Came from the Pipes
+1 Experimental Lab // Staff Room
+1 Primordial Mist
+1 Sandwurm Convergence
+1 Trail of Mystery
+1 Growing Dread
+1 Retreat to Coralhelm
+1 Wilderness Reclamation
+1 Zimone's Hypothesis
+1 Cackling Counterpart
+1 Dig Through Time
+1 Biomass Mutation
+1 Beast Within
+1 Growth Spiral
+1 Counterspell
+1 Reality Shift
+1 Eureka Moment
+1 Disorienting Choice
+1 Aether Gale
+1 Ezuri's Predation
+1 Overwhelming Stampede
+1 Oversimplify
+1 Cultivate
+1 Explosive Vegetation
+1 Rampant Growth
+1 Scroll of Fate
+1 Arcane Signet
+1 Sol Ring
+1 Simic Signet
+1 Castle Vantress
+1 Drownyard Temple
+1 Flooded Grove
+1 Hinterland Harbor
+1 Mosswort Bridge
+1 Overflowing Basin
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Terramorphic Expanse
+1 Command Tower
+1 Ash Barrens
+1 Evolving Wilds
+1 Myriad Landscape
+1 Quandrix Campus
+1 Reliquary Tower
+1 Simic Growth Chamber
+1 Tangled Islet
+1 Temple of the False God
+1 Thornwood Falls
+9 Island
+9 Forest
+
+Scheme Deck 
+1 My Laughter Echoes
+1 Power Without Equal
+1 I Am Untouchable
+1 Mine Is the Only Truth
+1 Your Own Face Mocks You
+1 Kneel Before My Legions
+1 You Are Unworthy of Mercy
+1 Chaos Is My Plaything
+1 Your Plans Mean Nothing
+1 You Will Know True Suffering
