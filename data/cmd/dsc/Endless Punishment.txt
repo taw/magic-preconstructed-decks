@@ -1,0 +1,101 @@
+// NAME: Endless Punishment
+// SOURCE: https://magic.wizards.com/en/news/announcements/duskmourn-house-of-horror-commander-decklists
+// DATE: 2024-09-27
+COMMANDER: 1 Valgavoth, Harrower of Souls [foil] [DSC:6]
+1 The Lord of Pain [foil] [DSC:3]
+1 Persistent Constrictor
+1 Sadistic Shell Game
+1 Suspended Sentence
+1 Barbflare Gremlin
+1 Gleeful Arsonist
+1 Spiked Corridor // Torture Pit
+1 Star Athlete
+1 Séance Board
+1 Bedevil
+1 Mogis, God of Slaughter
+1 Braids, Arisen Nightmare
+1 Decree of Pain
+1 Fate Unraveler
+1 Kederekt Parasite
+1 Mask of Griselbrand
+1 Massacre Girl
+1 Massacre Wurm
+1 Nightshade Harvester
+1 Blasphemous Act
+1 Brash Taunter
+1 Chaos Warp
+1 Combustible Gearhulk
+1 Enchanter's Bane
+1 Harsh Mentor
+1 Rampaging Ferocidon
+1 Tectonic Giant
+1 Florian, Voldaren Scion
+1 Kaervek the Merciless
+1 Rakdos, Lord of Riots
+1 Spiteful Visions
+1 Stormfist Crusader
+1 Theater of Horrors
+1 Vial Smasher the Fierce
+1 Basilisk Collar
+1 Solemn Simulacrum
+1 Blackcleave Cliffs
+1 Canyon Slough
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Graven Cairns
+1 Shadowblood Ridge
+1 Shivan Gorge
+1 Smoldering Marsh
+1 Spinerock Knoll
+1 Sulfurous Springs
+1 Temple of Malice
+1 Witch's Clinic
+1 Fear of Burning Alive
+1 Grab the Prize
+1 Terramorphic Expanse
+1 Blood Pact
+1 Blood Seeker
+1 Feed the Swarm
+1 Arcane Signet
+1 Lightning Greaves
+1 Sol Ring
+1 Command Tower
+1 Bastion of Remembrance
+1 Blood Artist
+1 Falkenrath Noble
+1 Gray Merchant of Asphodel
+1 Infernal Grasp
+1 Morbid Opportunist
+1 Sign in Blood
+1 Syr Konrad, the Grim
+1 Light Up the Stage
+1 Kardur, Doomscourge
+1 Mayhem Devil
+1 Rakdos Charm
+1 Fellwar Stone
+1 Mind Stone
+1 Rakdos Signet
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Ash Barrens
+1 Bloodfell Caves
+1 Evolving Wilds
+1 Geothermal Bog
+1 Leechridden Swamp
+1 Tainted Peak
+1 Temple of the False God
+8 Swamp
+8 Mountain
+
+Scheme Deck
+1 When Will You Learn?
+1 My Crushing Masterstroke
+1 Fear My Authority
+1 Reality Is Mine to Control
+1 Running Is Useless
+1 You Exist Only to Amuse
+1 I Call for Slaughter
+1 I Will Savor Your Agony
+1 Your Nightmares Are Delicious
+1 No Secret Is Hidden from Me
