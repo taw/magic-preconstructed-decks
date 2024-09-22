@@ -96,6 +96,15 @@ cmd-pc:
     Main Deck + Commander: 100
     Planar Deck: 10
     Display Commander: [0, 1]
+cmd-arc:
+  category: "deck"
+  format: "archenemy commander"
+  name: "Commander Deck"
+  sections:
+    Main Deck: [98, 99]
+    Commander: [1, 2]
+    Main Deck + Commander: 100
+    Scheme Deck: 10
 cmd:
   category: "deck"
   format: "commander"
