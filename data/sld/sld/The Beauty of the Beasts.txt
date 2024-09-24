@@ -1,0 +1,8 @@
+// NAME: The Beauty of the Beasts
+// SOURCE: https://secretlair.wizards.com/us/product/924639
+// DATE: 2024-02-23
+1 [SLD:1487] Felidar Guardian
+1 [SLD:1488] Peregrine Drake
+1 [SLD:1489] Serpent of Yawning Depths
+1 [SLD:1490] Scourge of Valkas
+1 [SLD:1491] Voracious Hydra
