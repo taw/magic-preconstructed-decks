@@ -18,5 +18,9 @@
 2 Brute Suit
 2 Fading Hope
 4 Tranquil Cove
-12 Plains
-11 Island
+4 Plains [MID:380]
+4 Plains [VOW:398]
+4 Plains [NEO:283]
+4 Island [VOW:399]
+4 Island [NEO:285]
+3 Island [SNC:264]

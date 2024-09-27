@@ -17,5 +17,9 @@
 3 Abrade
 2 Burn the Accursed
 4 Rugged Highlands
-12 Mountain
-11 Forest
+4 Mountain [VOW:401]
+4 Mountain [NEO:289]
+4 Mountain [SNC:268]
+4 Forest [MID:384]
+4 Forest [NEO:291]
+3 Forest [SNC:271]
