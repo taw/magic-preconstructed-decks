@@ -28,5 +28,8 @@
 1 Goblin Charbelcher
 2 Blighted Gorge
 2 Forgotten Cave
-20 Mountain
+5 Mountain [DDT:60]
+5 Mountain [DDT:61]
+5 Mountain [DDT:62]
+5 Mountain [DDT:63]
 2 Tarfire

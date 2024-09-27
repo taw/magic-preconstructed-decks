@@ -28,4 +28,7 @@
 2 Claustrophobia
 1 Blighted Cataract
 2 Lonely Sandbar
-21 Island
+6 Island [DDT:28]
+5 Island [DDT:29]
+5 Island [DDT:30]
+5 Island [DDT:31]

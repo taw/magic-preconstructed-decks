@@ -22,9 +22,13 @@
 3 Swiftwater Cliffs
 3 Tranquil Cove
 4 Wind-Scarred Crag
-5 Island
-2 Mountain
-2 Plains
+2 Island [WAR:253]
+2 Island [WAR:254]
+1 Island [WAR:255]
+1 Mountain [WAR:259]
+1 Mountain [WAR:260]
+1 Plains [WAR:250]
+1 Plains [WAR:251]
 
 Sideboard
 1 Sarkhan the Masterless

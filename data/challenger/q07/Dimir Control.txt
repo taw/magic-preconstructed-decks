@@ -19,7 +19,8 @@
 2 Field of Ruin
 4 Ice Tunnel
 2 Hall of Storm Giants
-2 Evolving Wilds
+1 Evolving Wilds [AFR:353]
+1 Evolving Wilds [AFR:256]
 4 Shipwreck Marsh
 7 Snow-Covered Swamp [KHM:280]
 5 Snow-Covered Island [KHM:278]
