@@ -16,9 +16,15 @@
 2 Castle Vantress
 1 Fabled Passage
 2 Temple of Mystery
-3 Thornwood Falls
-8 Forest
-8 Island
+3 Thornwood Falls [M20:258]
+2 Forest [ELD:266]
+2 Forest [ELD:267]
+2 Forest [ELD:268]
+2 Forest [ELD:269]
+2 Island [ELD:254]
+2 Island [ELD:255]
+2 Island [ELD:256]
+2 Island [ELD:257]
 
 Sideboard
 3 Shifting Ceratops
