@@ -24,7 +24,6 @@ Sideboard
 3 Thundering Rebuke
 2 Tovolar, Dire Overlord
 3 Burning Hands
-1 Kappa Tech-Wrecker [NEO:302]
-1 Kappa Tech-Wrecker
+2 Kappa Tech-Wrecker
 2 Lantern of the Lost
 1 Froghemoth
