@@ -15,15 +15,16 @@
 4 Snakeskin Veil
 4 Ranger Class
 4 Rockfall Vale
-10 Forest
+10 Forest [MID:276]
 2 Lair of the Hydra
-8 Mountain
+8 Mountain [MID:274]
 
 Sideboard
 2 Twinshot Sniper
 3 Thundering Rebuke
 2 Tovolar, Dire Overlord
 3 Burning Hands
-2 Kappa Tech-Wrecker
+1 Kappa Tech-Wrecker [NEO:302]
+1 Kappa Tech-Wrecker
 2 Lantern of the Lost
 1 Froghemoth

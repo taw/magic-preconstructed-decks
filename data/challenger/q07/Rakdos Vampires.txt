@@ -4,7 +4,8 @@
 4 Voldaren Bloodcaster
 1 Henrika Domnathi
 4 Voldaren Epicure
-4 Bloodtithe Harvester
+1 Bloodtithe Harvester [VOW:310]
+3 Bloodtithe Harvester
 2 Sokenzan Smelter
 2 Vampire Socialite
 2 Florian, Voldaren Scion
@@ -19,8 +20,8 @@
 3 Voldaren Estate
 2 Den of the Bugbear
 4 Bloodfell Caves
-7 Swamp
-6 Mountain
+7 Swamp [VOW:272]
+6 Mountain [VOW:274]
 
 Sideboard
 1 Infernal Grasp

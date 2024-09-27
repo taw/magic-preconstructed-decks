@@ -22,6 +22,7 @@ Sideboard
 3 Cathar Commando
 2 Portable Hole
 2 Maul of the Skyclaves
-2 Selfless Samurai
+1 Selfless Samurai [NEO:312]
+1 Selfless Samurai
 2 Sungold Sentinel
 2 Imperial Recovery Unit
