@@ -1,0 +1,25 @@
+// NAME: Thoughts of the Wind
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+25 Island
+2 Air Elemental
+4 Cloud Sprite
+1 Denizen of the Deep
+1 Mahamoti Djinn
+1 Phantom Warrior
+3 Snapping Drake
+2 Thieving Magpie
+2 Wall of Spears
+1 Counterbore
+1 Evacuation
+2 Cancel
+2 Unsummon
+2 Negate
+2 Boomerang
+2 Deluge
+3 Essence Scatter
+1 Mind Spring
+1 Mind Control
+2 Kraken's Eye
+
+Sideboard

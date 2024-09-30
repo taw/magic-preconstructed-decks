@@ -1,0 +1,34 @@
+// NAME: Cats
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+12 Plains
+5 Forest
+4 Terramorphic Expanse
+2 Selesnya Sanctuary
+1 Jedit Ojanen of Efrava
+2 Skyhunter Skirmisher
+1 Taj-Nar Swordsmith
+1 Jedit's Dragoons
+3 Skyhunter Cub
+1 Seht's Tiger
+2 Arctic Nishoba
+3 Leonin Den-Guard
+2 Skyhunter Patrol
+1 Mirri, Cat Warrior
+1 Whitemane Lion
+1 Leonin Shikari
+1 Nacatl War-Pride
+1 Raksha Golden Cub
+1 Leonin Elder
+1 Leonin Skyhunter
+2 Saltblast
+1 Lightning Greaves
+2 Bonesplitter
+1 Specter's Shroud
+1 Leonin Bola
+2 Grifter's Blade
+1 Vulshok Gauntlets
+3 Selesnya Signet
+1 Slagwurm Armor
+
+Sideboard

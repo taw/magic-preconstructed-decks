@@ -1,0 +1,27 @@
+// NAME: Relics of Doom
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+13 Island
+11 Swamp
+1 Sharding Sphinx
+1 Faerie Mechanist
+1 Master of Etherium
+1 Razormane Masticore
+1 Parasitic Strix
+2 Salvage Slasher
+2 Alpha Myr
+2 Ornithopter
+2 Bottle Gnomes
+3 Etherium Sculptor
+4 Glaze Fiend
+4 Tidehollow Strix
+2 Cancel
+1 Font of Mythos
+1 Howling Mine
+1 Kraken's Eye
+1 Demon's Horn
+2 Leonin Scimitar
+2 Onyx Goblet
+2 Trusty Machete
+
+Sideboard

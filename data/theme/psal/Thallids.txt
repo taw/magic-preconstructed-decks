@@ -1,0 +1,32 @@
+// NAME: Thallids
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+14 Forest
+10 Plains
+1 Bramble Elemental
+1 Herd Gnarr
+1 Juniper Order Ranger
+1 Sandsower
+2 Savage Thallid
+2 Selesnya Evangel
+1 Selesnya Guildmage
+2 Soul Warden
+1 Sporesower Thallid
+3 Thallid Germinator
+2 Thallid Shell-Dweller
+1 Thelonite Hermit
+1 Tolsimir Wolfblood
+1 Twilight Drover
+1 Wojek Apothecary
+1 Scatter the Seeds
+1 Seed Spark
+2 Sprout
+3 Strength in Numbers
+2 Fertile Imagination
+1 Overwhelm
+2 Supply // Demand
+1 Detainment Spell
+1 Leyline of the Meek
+1 Beast of Burden
+
+Sideboard

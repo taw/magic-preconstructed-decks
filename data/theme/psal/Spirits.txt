@@ -1,0 +1,32 @@
+// NAME: Spirits
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+12 Mountain
+12 Plains
+1 Angelic Page
+3 Blademane Baku
+1 Blinking Spirit
+1 Celestial Kirin
+2 Frostling
+1 Horizon Seed
+2 Kami of the Palace Fields
+1 Lavaborn Muse
+1 Nikko-Onna
+1 Oyobi, Who Split the Heavens
+2 Pain Kami
+2 Phantom Flock
+2 Phantom Nomad
+1 Sandsower
+3 Shinen of Fury's Fire
+2 Soul of Magma
+2 Waxmane Baku
+1 Yuki-Onna
+1 Aether Shockwave
+1 Crushing Pain
+1 Devouring Rage
+1 Stir the Pride
+1 Kirtar's Wrath
+1 Volcanic Hammer
+1 Spirit Link
+
+Sideboard

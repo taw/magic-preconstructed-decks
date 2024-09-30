@@ -1,0 +1,31 @@
+// NAME: Berserk
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+10 Forest
+13 Mountain
+1 Skarrg, the Rage Pits
+1 Burning-Tree Bloodscale
+1 Frenzied Goblin
+2 Ghor-Clan Savage
+3 Goblin Chariot
+1 Goblin Fire Fiend
+1 Goblin Striker
+2 Gruul Scrapper
+1 Indrik Stomphowler
+1 Kamahl, Pit Fighter
+1 Lovisa Coldeyes
+3 Primal Forcemage
+3 Raging Goblin
+2 Scab-Clan Mauler
+1 Stalking Vengeance
+1 Thundermare
+1 Vulshok Sorcerer
+2 Balduvian Rage
+2 Shock
+1 Tears of Rage
+2 Feral Lightning
+2 Threaten
+1 Undying Rage
+1 Lightning Coils
+
+Sideboard

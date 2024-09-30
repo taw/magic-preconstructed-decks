@@ -1,0 +1,28 @@
+// NAME: Zombies
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+24 Swamp
+2 Blind Creeper
+1 Carrion Howler
+1 Fallen Angel
+3 Festering Goblin
+1 Gluttonous Zombie
+1 Golgari Guildmage
+3 Gravedigger
+1 Helldozer
+1 Lord of the Undead
+3 Nantuko Husk
+2 Plagued Rusalka
+1 Sanguine Praetor
+3 Spineless Thug
+2 Woebearer
+1 Call for Blood
+3 Dark Banishing
+2 Death Denied
+1 Dance of Shadows
+1 Death Pit Offering
+1 Horror of Horrors
+1 Mind Slash
+1 Necromantic Thirst
+
+Sideboard

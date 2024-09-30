@@ -1,0 +1,32 @@
+// NAME: Elves
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+23 Forest
+1 Wirewood Lodge
+1 Voice of the Woods
+2 Nullmage Shepherd
+2 Wirewood Hivemaster
+2 Treetop Scout
+1 Wellwisher
+1 Elvish Vanguard
+2 Sylvan Messenger
+2 Llanowar Elite
+2 Timberwatch Elf
+1 Ambush Commander
+1 Wirewood Channeler
+1 Bloodline Shaman
+2 Seeker of Skybreak
+1 Viridian Scout
+1 Caller of the Claw
+1 Heedless One
+2 Elvish Warrior
+1 Wirewood Herald
+1 Elvish Champion
+1 Golgari Guildmage
+1 Selesnya Guildmage
+2 Birchlore Rangers
+3 Wirewood Pride
+1 Alpha Status
+1 Crown of Vigor
+
+Sideboard

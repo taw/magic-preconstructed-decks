@@ -1,0 +1,24 @@
+// NAME: Eyes of Shadow
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+25 Swamp
+1 Mortivore
+1 Crowd of Cinders
+1 Ascendant Evincar
+1 Sengir Vampire
+2 Dusk Imp
+2 Abyssal Specter
+2 Severed Legion
+3 Drudge Skeletons
+3 Ravenous Rats
+4 Terror
+1 Mind Shatter
+2 Consume Spirit
+4 Mind Rot
+1 Underworld Dreams
+2 Unholy Strength
+2 Megrim
+1 The Rack
+2 Demon's Horn
+
+Sideboard

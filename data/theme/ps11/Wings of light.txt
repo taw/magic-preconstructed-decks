@@ -1,0 +1,24 @@
+// NAME: Wings of light
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+24 Plains
+4 Angel of Mercy
+2 Goldenglow Moth
+1 Serra Angel
+1 Skyhunter Skirmisher
+1 Spirit of the Hearth
+4 Suntail Hawk
+3 Venerable Monk
+1 Voice of All
+4 Youthful Knight
+3 Holy Day
+3 Angelic Blessing
+1 Mass Calcify
+1 Luminarch Ascension
+1 Serra's Embrace
+2 Holy Strength
+1 Glorious Anthem
+1 Honor of the Pure
+2 Angel's Feather
+
+Sideboard
