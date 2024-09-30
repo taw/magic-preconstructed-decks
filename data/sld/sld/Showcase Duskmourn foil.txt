@@ -1,7 +1,7 @@
 // NAME: Showcase: Duskmourn™ Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018460
 // DATE: 2024-10-01
-1 [SLD:1758] Metamorph [foil]
+1 [SLD:1758] Phyrexian Metamorph [foil]
 1 [SLD:1759] Cauldron Familiar [foil]
 1 [SLD:1760] Dauthi Voidwalker [foil]
 1 [SLD:1761] Magus of the Moon [foil]

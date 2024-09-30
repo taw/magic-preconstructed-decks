@@ -1,7 +1,7 @@
 // NAME: Secret Lair x Chucky Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018452
 // DATE: 2024-10-01
-1 [SLD:1807] Kardur, Doomscourge [foil]
+1 [SLD:1807a] Kardur, Doomscourge [foil]
 1 [SLD:1808] Phyrexian Reclamation [foil]
 1 [SLD:1809] Varragoth, Bloodsky Sire [foil]
 1 [SLD:1810] Twinflame [foil]

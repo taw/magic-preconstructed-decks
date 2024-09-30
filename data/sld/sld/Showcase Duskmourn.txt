@@ -1,7 +1,7 @@
 // NAME: Showcase: Duskmourn™
 // SOURCE: https://secretlair.wizards.com/us/product/1018461
 // DATE: 2024-10-01
-1 [SLD:1758] Metamorph
+1 [SLD:1758] Phyrexian Metamorph
 1 [SLD:1759] Cauldron Familiar
 1 [SLD:1760] Dauthi Voidwalker
 1 [SLD:1761] Magus of the Moon
