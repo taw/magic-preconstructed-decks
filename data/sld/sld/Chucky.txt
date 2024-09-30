@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Chucky
+// SOURCE: https://secretlair.wizards.com/us/product/1018453
+// DATE: 2024-10-01
+1 [SLD:1807] Kardur, Doomscourge
+1 [SLD:1808] Phyrexian Reclamation
+1 [SLD:1809] Varragoth, Bloodsky Sire
+1 [SLD:1810] Twinflame
+1 [SLD:1811] Genesis Chamber

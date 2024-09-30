@@ -1,0 +1,8 @@
+// NAME: Monstrous Magazines Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018458
+// DATE: 2024-10-01
+1 [SLD:1763] Doom Whisperer [foil]
+1 [SLD:1764] Ravenous Chupacabra [foil]
+1 [SLD:1765] Koma, Cosmos Serpent [foil]
+1 [SLD:1766] Mazirek, Kraul Death Priest [foil]
+1 [SLD:1767] Uril, the Miststalker [foil]

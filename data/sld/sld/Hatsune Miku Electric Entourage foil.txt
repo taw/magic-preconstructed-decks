@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Hatsune Miku: Electric Entourage EN Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018448
+// DATE: 2024-10-01
+1 [SLD:1585] Elspeth Tirel [foil]
+1 [SLD:1590] Jace, Unraveler of Secrets [foil]
+1 [SLD:1593] Liliana of the Dark Realms [foil]
+1 [SLD:1598] Freyalise, Llanowar's Fury [foil]
+1 [SLD:1600] The Royal Scions [foil]

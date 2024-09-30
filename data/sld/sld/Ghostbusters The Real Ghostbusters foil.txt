@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Ghostbusters: The Real Ghostbusters Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018454
+// DATE: 2024-10-01
+1 [SLD:1768] Careful Study [foil]
+1 [SLD:1769] Living End [foil]
+1 [SLD:1770] Eladamri's Call [foil]
+1 [SLD:1771] Boros Charm [foil]
+1 [SLD:1772] Unlicensed Hearse [foil]

@@ -1,0 +1,8 @@
+// NAME: Featuring: Peach Momoko Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018446
+// DATE: 2024-10-01
+1 [SLD:1667] Aetherize [foil]
+1 [SLD:1668] Drown in Dreams [foil]
+1 [SLD:1669] Psychic Corrosion [foil]
+1 [SLD:1670] Visions of Beyond [foil]
+1 [SLD:1671] Time Sieve [foil]

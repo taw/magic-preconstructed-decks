@@ -1,0 +1,8 @@
+// NAME: Secret Lair x Ghostbusters: Slimer Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018456
+// DATE: 2024-10-01
+1 [SLD:1773] The Mimeoplasm [foil]
+1 [SLD:1774] Trickbind [foil]
+1 [SLD:1775] Windfall [foil]
+1 [SLD:1776] Incarnation Technique [foil]
+1 [SLD:1777] Pernicious Deed [foil]

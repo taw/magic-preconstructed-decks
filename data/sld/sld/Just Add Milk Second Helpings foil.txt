@@ -4,3 +4,4 @@
 1 [SLD:1541a] Sakashima of a Thousand Faces [foil]
 1 [SLD:1542a] Yargle, Glutton of Urborg [foil]
 1 [SLD:1543a] Krark, the Thumbless [foil]
+1 [SLD:1544a] Adrix and Nev, Twincasters [foil]
