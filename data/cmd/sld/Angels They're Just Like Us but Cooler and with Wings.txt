@@ -75,3 +75,7 @@ COMMANDER: 1 Gisela, the Broken Blade [foil] [SLD:1335]
 1 Vanquisher's Banner [PLST:XLN-251]
 1 War Room [PLST:CMR-361]
 1 Well of Lost Dreams [PLST:DST-159]
+
+Display Commander
+1 Gisela, the Broken Blade [SLD:1387]
+1 Bruna, the Fading Light [SLD:1388]

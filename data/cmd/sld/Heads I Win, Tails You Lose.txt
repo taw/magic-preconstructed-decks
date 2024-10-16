@@ -89,3 +89,7 @@ COMMANDER: 1 Okaun, Eye of Chaos [SLD:380a] [foil]
 1 Command Tower [PLST:C21-284]
 1 Reliquary Tower [PLST:C21-311]
 1 Temple of the False God [PLST:C21-326]
+
+Display Commander
+1 Zndrsplt, Eye of Wisdom [SLD:379★a]
+1 Okaun, Eye of Chaos [SLD:380★a]
