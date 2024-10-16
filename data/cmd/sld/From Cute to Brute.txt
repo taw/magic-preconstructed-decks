@@ -101,3 +101,10 @@ COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a] [foil]
 1 Time Wipe [PLST:WAR-223]
 1 Utter End [PLST:KTK-210]
 1 The World Tree [PLST:KHM-275]
+
+Display Commander
+1 Esika, God of the Tree // The Prismatic Bridge [SLD:1208a]
+1 Archangel Avacyn // Avacyn, the Purifier [SLD:1209a]
+1 Bloodline Keeper // Lord of Lineage [SLD:1210a]
+1 Nicol Bolas, the Ravager // Nicol Bolas, the Arisen [SLD:1211a]
+1 Westvale Abbey // Ormendahl, Profane Prince [SLD:1212a]
