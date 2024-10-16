@@ -1,0 +1,7 @@
+// NAME: Pixel Perfect
+// SOURCE: https://secretlair.wizards.com/us/product/1018598
+// DATE: 2024-10-15
+1 [SLD:1821] Mana Geyser
+1 [SLD:1822] Lightning Bolt
+1 [SLD:1823] Fierce Guardianship
+1 [SLD:1824] Delayed Blast Fireball
