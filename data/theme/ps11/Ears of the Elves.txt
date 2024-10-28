@@ -1,0 +1,29 @@
+// NAME: Ears of the Elves
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+16 Forest
+8 Swamp
+1 Drove of Elves
+2 Elven Riders
+1 Elvish Champion
+3 Elvish Eulogist
+2 Elvish Visionary
+3 Elvish Warrior
+1 Gaea's Herald
+1 Greenweaver Druid
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Lys Alana Huntmaster
+2 Moonglove Winnower
+1 Talara's Battalion
+3 Eyeblight's Ending
+4 Giant Growth
+1 Naturalize
+1 Elvish Promenade
+2 Essence Drain
+1 Nature's Spiral
+1 Coat of Arms
+2 Wurm's Tooth
+
+Sideboard

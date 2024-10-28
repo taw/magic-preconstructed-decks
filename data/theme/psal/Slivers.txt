@@ -1,0 +1,31 @@
+// NAME: Slivers
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+1 Darigaaz's Caldera
+7 Forest
+7 Mountain
+7 Swamp
+4 Blade Sliver
+1 Brood Sliver
+3 Crypt Sliver
+3 Hunter Sliver
+1 Magma Sliver
+3 Quick Sliver
+2 Root Sliver
+2 Spectral Sliver
+1 Toxin Sliver
+1 Bloodscent
+2 Darigaaz's Charm
+2 Dark Banishing
+1 Engulfing Flames
+1 Naturalize
+2 Aphetto Dredging
+1 Savage Offensive
+1 Cover of Darkness
+1 Crown of Vigor
+1 Keldon Mantle
+1 Riptide Replicator
+2 Terrarion
+2 Wayfarer's Bauble
+
+Sideboard
