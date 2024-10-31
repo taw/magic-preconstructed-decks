@@ -148,6 +148,7 @@ MagicSets = {
   "f15" => "Friday Night Magic 2015",
   "f16" => "Friday Night Magic 2016",
   "f17" => "Friday Night Magic 2017",
+  "fdn" => "Foundations",
   "fem" => "Fallen Empires",
   "fnm" => "Friday Night Magic 2000",
   "frf" => "Fate Reforged",

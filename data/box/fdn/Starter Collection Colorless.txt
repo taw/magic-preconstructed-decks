@@ -1,66 +1,66 @@
 // NAME: Starter Collection Colorless
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
 // DATE: 2024-11-15
-Adaptive Automaton
-Gilded Lotus
-Maze's End
-Expedition Map
-Hedron Archive
-Swiftfoot Boots
-Basilisk Collar
-Cultivator's Caravan
-Darksteel Colossus
-Mazemind Tome
-Pyromancer's Goggles
-Ramos, Dragon Engine
-Steel Hellkite
-Crawling Barrens
-Temple of Abandon
-Temple of Deceit
-Temple of Enlightenment
-Temple of Epiphany
-Temple of Malady
-Temple of Malice
-Temple of Mystery
-Temple of Plenty
-Temple of Silence
-Temple of Triumph
-Ravenous Amulet
-Burnished Hart
-Heraldic Banner
-Meteor Golem
+1 Adaptive Automaton
+1 Gilded Lotus
+1 Maze's End
+1 Expedition Map
+1 Hedron Archive
+1 Swiftfoot Boots
+1 Basilisk Collar
+1 Cultivator's Caravan
+1 Darksteel Colossus
+1 Mazemind Tome
+1 Pyromancer's Goggles
+1 Ramos, Dragon Engine
+1 Steel Hellkite
+1 Crawling Barrens
+1 Temple of Abandon
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Malice
+1 Temple of Mystery
+1 Temple of Plenty
+1 Temple of Silence
+1 Temple of Triumph
+1 Ravenous Amulet
+1 Burnished Hart
+1 Heraldic Banner
+1 Meteor Golem
 2 Bloodfell Caves
 2 Blossoming Sands
 2 Dismal Backwater
 2 Evolving Wilds
 2 Jungle Hollow
-Rogue's Passage
+1 Rogue's Passage
 2 Rugged Highlands
 2 Scoured Barrens
 2 Swiftwater Cliffs
 2 Thornwood Falls
 2 Tranquil Cove
 2 Wind-Scarred Crag
-Diamond Mare
-Feldon's Cane
-Fireshrieker
-Gate Colossus
-Sorcerous Spyglass
-Soul-Guide Lantern
-Three Tree Mascot
-Azorius Guildgate
-Boros Guildgate
-Cryptic Caves
-Demolition Field
-Dimir Guildgate
-Golgari Guildgate
-Gruul Guildgate
-Izzet Guildgate
-Orzhov Guildgate
-Rakdos Guildgate
-Selesnya Guildgate
-Simic Guildgate
-Arcane Signet
-Sol Ring
-Command Tower
+1 Diamond Mare
+1 Feldon's Cane
+1 Fireshrieker
+1 Gate Colossus
+1 Sorcerous Spyglass
+1 Soul-Guide Lantern
+1 Three Tree Mascot
+1 Azorius Guildgate
+1 Boros Guildgate
+1 Cryptic Caves
+1 Demolition Field
+1 Dimir Guildgate
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Izzet Guildgate
+1 Orzhov Guildgate
+1 Rakdos Guildgate
+1 Selesnya Guildgate
+1 Simic Guildgate
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
 

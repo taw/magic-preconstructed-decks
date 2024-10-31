@@ -1,39 +1,39 @@
 // NAME: Starter Collection Black
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
 // DATE: 2024-11-15
-Massacre Wurm
-Feed the Swarm
-Gatekeeper of Malakir
-Vengeful Bloodwitch
-Demonic Pact
-Desecration Demon
-Dread Summons
-Kalastria Highborn
-Midnight Reaper
-Myojin of Night's Reach
-Nullpriest of Oblivion
-Wishclaw Talisman
-Arbiter of Woe
+1 Massacre Wurm
+1 Feed the Swarm
+1 Gatekeeper of Malakir
+1 Vengeful Bloodwitch
+1 Demonic Pact
+1 Desecration Demon
+1 Dread Summons
+1 Kalastria Highborn
+1 Midnight Reaper
+1 Myojin of Night's Reach
+1 Nullpriest of Oblivion
+1 Wishclaw Talisman
+1 Arbiter of Woe
 2 Infestation Sage
-Midnight Snack
-Seeker's Folly
+1 Midnight Snack
+1 Seeker's Folly
 3 Vengeful Bloodwitch
-Exsanguinate
+1 Exsanguinate
 2 Hero's Downfall
-Marauding Blight-Priest
-Stromkirk Bloodthief
-Vampire Nighthawk
-Zombify
-Moment of Craving
-Suspicious Shambler
-Undying Malice
-Deathmark
-Driver of the Dead
-Duress
-Knight of Malice
-Pulse Tracker
-Sanguine Indulgence
-Tribute to Hunger
-Vampiric Rites
-Vile Entomber
+1 Marauding Blight-Priest
+1 Stromkirk Bloodthief
+1 Vampire Nighthawk
+1 Zombify
+1 Moment of Craving
+1 Suspicious Shambler
+1 Undying Malice
+1 Deathmark
+1 Driver of the Dead
+1 Duress
+1 Knight of Malice
+1 Pulse Tracker
+1 Sanguine Indulgence
+1 Tribute to Hunger
+1 Vampiric Rites
+1 Vile Entomber
 
