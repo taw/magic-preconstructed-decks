@@ -1,0 +1,33 @@
+// NAME: Starter Collection Multicolor
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
+// DATE: 2024-11-15
+Boros Charm
+Unflinching Courage
+Aurelia, the Warleader
+Ayli, Eternal Pilgrim
+Drogskol Reaver
+Halana and Alena, Partners
+Immersturm Predator
+Maelstrom Pulse
+Ovika, Enigma Goliath
+Prime Speaker Zegana
+Wilt-Leaf Liege
+Dreadwing Scavenger
+Fiendish Panda
+Perforating Artist
+Wardens of the Cycle
+Empyrean Eagle
+Heroic Reinforcements
+Ruby, Daring Tracker
+Tatyova, Benthic Druid
+Cloudblazer
+Deadly Brew
+Dryad Militant
+Enigma Drake
+Garna, Bloodfist of Keld
+Mortify
+Savage Ventmaw
+Teach by Example
+Trygon Predator
+Consuming Aberration
+
