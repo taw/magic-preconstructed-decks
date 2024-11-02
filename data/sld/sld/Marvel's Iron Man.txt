@@ -1,0 +1,9 @@
+// NAME: Marvel's Iron Man
+// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
+// DATE: 2024-11-04
+1 [SLD:1731] Iron Man, Titan of Innovation
+1 [SLD:1732] Galvanic Blast
+1 [SLD:1733] Commander's Plate
+1 [SLD:1734] Sol Ring
+1 [SLD:1735] Inventors' Fair
+1 [SLD:1736] Treasure [token]
