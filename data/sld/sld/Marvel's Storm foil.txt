@@ -1,0 +1,8 @@
+// NAME: Marvel's Storm foil
+// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
+// DATE: 2024-11-04
+1 [SLD:1742] Storm, Force of Nature [foil]
+1 [SLD:1743] Lightning Bolt [foil]
+1 [SLD:1744] Storm's Will [foil]
+1 [SLD:1745] Ice Storm [foil]
+1 [SLD:1746] Ororo Borealis [foil]
