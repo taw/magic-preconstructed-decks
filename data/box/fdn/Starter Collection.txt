@@ -1,0 +1,260 @@
+// NAME: Starter Collection
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
+// DATE: 2024-11-15
+1 Lyra Dawnbringer
+1 Angel of Vitality
+1 Make a Stand
+2 Ajani's Pridemate
+1 Angelic Destiny
+1 Charming Prince
+1 Felidar Retreat
+1 Fumigate
+1 Linden, the Steadfast Queen
+1 Mentor of the Meek
+1 Regal Caracal
+1 Zetalpa, Primal Dawn
+1 Cat Collector
+1 Divine Resilience
+1 Joust Through
+1 Twinblade Blessing
+1 Angel of Finality
+1 Resolute Reinforcements
+1 Savannah Lions
+1 Stroke of Midnight
+1 Inspiring Overseer
+1 Archway Angel
+1 Ballyrush Banneret
+1 Crusader of Odric
+1 Dawnwing Marshal
+1 Devout Decree
+1 Disenchant
+1 Felidar Cub
+1 Knight of Grace
+1 Release the Dogs
+2 Stasis Snare
+1 Syr Alin, the Lion's Claw
+1 Valorous Stance
+4 Hinterland Sanctifier
+1 Rite of Replication
+1 Confiscate
+1 Negate
+1 Refute
+1 Arcanis the Omnipotent
+1 Dictate of Kruphix
+1 Finale of Revelation
+1 Harbinger of the Tides
+1 River's Rebuke
+1 Sphinx of the Final Word
+1 Tempest Djinn
+1 Voracious Greatshark
+1 Clinquant Skymage
+1 Faebloom Trick
+2 Mischievous Mystic
+2 Brineborn Cutthroat
+1 Essence Scatter
+1 Micromancer
+1 Mocking Sprite
+2 Spectral Sailor
+2 Think Twice
+1 Tolarian Terror
+1 Witness Protection
+1 Into the Roil
+4 Opt
+1 Chart a Course
+1 Dive Down
+1 Flashfreeze
+1 Fog Bank
+1 Gateway Sneak
+1 Mystical Teachings
+1 Shipwreck Dowser
+1 Unsummon
+1 Massacre Wurm
+1 Feed the Swarm
+1 Gatekeeper of Malakir
+1 Vengeful Bloodwitch
+1 Demonic Pact
+1 Desecration Demon
+1 Dread Summons
+1 Kalastria Highborn
+1 Midnight Reaper
+1 Myojin of Night's Reach
+1 Nullpriest of Oblivion
+1 Wishclaw Talisman
+1 Arbiter of Woe
+2 Infestation Sage
+1 Midnight Snack
+1 Seeker's Folly
+3 Vengeful Bloodwitch
+1 Exsanguinate
+2 Hero's Downfall
+1 Marauding Blight-Priest
+1 Stromkirk Bloodthief
+1 Vampire Nighthawk
+1 Zombify
+1 Moment of Craving
+1 Suspicious Shambler
+1 Undying Malice
+1 Deathmark
+1 Driver of the Dead
+1 Duress
+1 Knight of Malice
+1 Pulse Tracker
+1 Sanguine Indulgence
+1 Tribute to Hunger
+1 Vampiric Rites
+1 Vile Entomber
+1 Gratuitous Violence
+1 Guttersnipe
+1 Impact Tremors
+1 Abrade
+1 Ball Lightning
+1 Dragonmaster Outcast
+1 Harmless Offering
+1 Lathliss, Dragon Queen
+1 Redcap Gutter-Dweller
+1 Stromkirk Noble
+1 Taurean Mauler
+2 Crackling Cyclops
+1 Goblin Negotiation
+1 Strongbox Raider
+4 Burst Lightning
+1 Fanatical Firebrand
+2 Heartfire Immolator
+1 Hidetsugu's Second Rite
+1 Seismic Rupture
+1 Thrill of Possibility
+2 Dragon Fodder
+1 Bolt Bend
+1 Crash Through
+1 Dragon Mage
+2 Ghitu Lavarunner
+1 Giant Cindermaw
+1 Hoarding Dragon
+1 Mindsparker
+1 Obliterating Bolt
+1 Ravenous Giant
+1 Viashino Pyromancer
+1 Gigantosaurus
+2 Imperious Perfect
+1 Pelakka Wurm
+1 Reclamation Sage
+1 Heroes' Bane
+1 Predator Ooze
+1 Primal Might
+1 Primeval Bounty
+1 Rampaging Baloths
+1 Surrak, the Hunt Caller
+1 Vizier of the Menagerie
+1 Wildborn Preserver
+1 Elvish Regrower
+1 Quakestrider Ceratops
+1 Bite Down
+1 Broken Wings
+1 Bushwhack
+2 Dwynen's Elite
+1 Garruk's Uprising
+1 Giant Growth
+4 Llanowar Elves
+1 Overrun
+1 Snakeskin Veil
+1 Wildwood Scourge
+1 Thornweald Archer
+2 Circuitous Route
+1 Fierce Empath
+1 Fynn, the Fangbearer
+1 Gnarlback Rhino
+1 Mold Adder
+1 Ordeal of Nylea
+1 Springbloom Druid
+1 Venom Connoisseur
+1 Adaptive Automaton
+1 Gilded Lotus
+1 Maze's End
+1 Expedition Map
+1 Hedron Archive
+1 Swiftfoot Boots
+1 Basilisk Collar
+1 Cultivator's Caravan
+1 Darksteel Colossus
+1 Mazemind Tome
+1 Pyromancer's Goggles
+1 Ramos, Dragon Engine
+1 Steel Hellkite
+1 Crawling Barrens
+1 Temple of Abandon
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Malice
+1 Temple of Mystery
+1 Temple of Plenty
+1 Temple of Silence
+1 Temple of Triumph
+1 Ravenous Amulet
+1 Burnished Hart
+1 Heraldic Banner
+1 Meteor Golem
+2 Bloodfell Caves
+2 Blossoming Sands
+2 Dismal Backwater
+2 Evolving Wilds
+2 Jungle Hollow
+1 Rogue's Passage
+2 Rugged Highlands
+2 Scoured Barrens
+2 Swiftwater Cliffs
+2 Thornwood Falls
+2 Tranquil Cove
+2 Wind-Scarred Crag
+1 Diamond Mare
+1 Feldon's Cane
+1 Fireshrieker
+1 Gate Colossus
+1 Sorcerous Spyglass
+1 Soul-Guide Lantern
+1 Three Tree Mascot
+1 Azorius Guildgate
+1 Boros Guildgate
+1 Cryptic Caves
+1 Demolition Field
+1 Dimir Guildgate
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Izzet Guildgate
+1 Orzhov Guildgate
+1 Rakdos Guildgate
+1 Selesnya Guildgate
+1 Simic Guildgate
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Boros Charm
+1 Unflinching Courage
+1 Aurelia, the Warleader
+1 Ayli, Eternal Pilgrim
+1 Drogskol Reaver
+1 Halana and Alena, Partners
+1 Immersturm Predator
+1 Maelstrom Pulse
+1 Ovika, Enigma Goliath
+1 Prime Speaker Zegana
+1 Wilt-Leaf Liege
+1 Dreadwing Scavenger
+1 Fiendish Panda
+1 Perforating Artist
+1 Wardens of the Cycle
+1 Empyrean Eagle
+1 Heroic Reinforcements
+1 Ruby, Daring Tracker
+1 Tatyova, Benthic Druid
+1 Cloudblazer
+1 Deadly Brew
+1 Dryad Militant
+1 Enigma Drake
+1 Garna, Bloodfist of Keld
+1 Mortify
+1 Savage Ventmaw
+1 Teach by Example
+1 Trygon Predator
+1 Consuming Aberration
