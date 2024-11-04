@@ -1,10 +1,11 @@
 // NAME: Starter Collection
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
 // DATE: 2024-11-15
-1 Lyra Dawnbringer
-1 Angel of Vitality
-1 Make a Stand
-2 Ajani's Pridemate
+1 Lyra Dawnbringer [foil]
+1 Angel of Vitality [foil]
+1 Make a Stand [foil]
+1 Ajani's Pridemate
+1 Ajani's Pridemate [FDN:293]
 1 Angelic Destiny
 1 Charming Prince
 1 Felidar Retreat
@@ -35,10 +36,10 @@
 1 Syr Alin, the Lion's Claw
 1 Valorous Stance
 4 Hinterland Sanctifier
-1 Rite of Replication
-1 Confiscate
-1 Negate
-1 Refute
+1 Rite of Replication [foil]
+1 Confiscate [foil]
+1 Negate [foil]
+1 Refute [FDN:313]
 1 Arcanis the Omnipotent
 1 Dictate of Kruphix
 1 Finale of Revelation
@@ -68,10 +69,10 @@
 1 Mystical Teachings
 1 Shipwreck Dowser
 1 Unsummon
-1 Massacre Wurm
-1 Feed the Swarm
-1 Gatekeeper of Malakir
-1 Vengeful Bloodwitch
+1 Massacre Wurm [foil]
+1 Feed the Swarm [foil]
+1 Gatekeeper of Malakir [foil]
+1 Vengeful Bloodwitch [FDN:325]
 1 Demonic Pact
 1 Desecration Demon
 1 Dread Summons
@@ -103,10 +104,10 @@
 1 Tribute to Hunger
 1 Vampiric Rites
 1 Vile Entomber
-1 Gratuitous Violence
-1 Guttersnipe
-1 Impact Tremors
-1 Abrade
+1 Gratuitous Violence [foil]
+1 Guttersnipe [foil]
+1 Impact Tremors [foil]
+1 Abrade [FDN:327]
 1 Ball Lightning
 1 Dragonmaster Outcast
 1 Harmless Offering
@@ -134,10 +135,10 @@
 1 Obliterating Bolt
 1 Ravenous Giant
 1 Viashino Pyromancer
-1 Gigantosaurus
-2 Imperious Perfect
+1 Gigantosaurus [FDN:718] [foil]
+2 Imperious Perfect [foil]
 1 Pelakka Wurm
-1 Reclamation Sage
+1 Reclamation Sage [FDN:340]
 1 Heroes' Bane
 1 Predator Ooze
 1 Primal Might
@@ -167,12 +168,12 @@
 1 Ordeal of Nylea
 1 Springbloom Druid
 1 Venom Connoisseur
-1 Adaptive Automaton
-1 Gilded Lotus
-1 Maze's End
-1 Expedition Map
-1 Hedron Archive
-1 Swiftfoot Boots
+1 Adaptive Automaton [foil]
+1 Gilded Lotus [foil]
+1 Maze's End [foil]
+1 Expedition Map [foil]
+1 Hedron Archive [foil]
+1 Swiftfoot Boots [FDN:355]
 1 Basilisk Collar
 1 Cultivator's Caravan
 1 Darksteel Colossus
@@ -226,11 +227,11 @@
 1 Rakdos Guildgate
 1 Selesnya Guildgate
 1 Simic Guildgate
-1 Arcane Signet
-1 Sol Ring
-1 Command Tower
-1 Boros Charm
-1 Unflinching Courage
+1 Arcane Signet [FDC:1] [foil]
+1 Sol Ring [FDC:2] [foil]
+1 Command Tower [FDC:3] [foil]
+1 Boros Charm [foil]
+1 Unflinching Courage [foil]
 1 Aurelia, the Warleader
 1 Ayli, Eternal Pilgrim
 1 Drogskol Reaver
@@ -258,3 +259,18 @@
 1 Teach by Example
 1 Trygon Predator
 1 Consuming Aberration
+16 Plains
+1 Plains [FDN:282]
+1 Plains [FDN:283]
+16 Island
+1 Island [FDN:284]
+1 Island [FDN:285]
+16 Swamp
+1 Swamp [FDN:286]
+1 Swamp [FDN:287]
+16 Mountain
+1 Mountain [FDN:288]
+1 Mountain [FDN:289]
+16 Forest
+1 Forest [FDN:290]
+1 Forest [FDN:291]
