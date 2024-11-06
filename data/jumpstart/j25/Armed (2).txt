@@ -1,0 +1,18 @@
+// NAME: Armed (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Stone Haven Outfitter
+1 Faithful Pikemaster
+1 Danitha Capashen, Paragon
+1 Plate Armor
+1 Ancestral Blade
+1 Divine Arrow
+1 Fencing Ace
+1 Hexgold Hoverwings
+1 Light the Way
+1 Militant Inquisitor
+1 Mirran Bardiche
+1 Pacifism
+1 Thriving Heath
+7 Plains
+
+Sideboard

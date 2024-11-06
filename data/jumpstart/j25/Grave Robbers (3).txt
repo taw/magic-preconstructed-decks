@@ -1,0 +1,19 @@
+// NAME: Grave Robbers (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Isareth the Awakener
+1 Revoke Demise
+1 Eternal Taskmaster
+1 Boneclad Necromancer
+1 Deal Gone Bad
+1 Dreadhound
+1 Gorging Vulture
+1 Grave Strength
+1 Gravedigger
+1 Murder
+1 Persistent Specimen
+1 Wailing Ghoul
+1 Memorial to Folly
+1 Thriving Moor
+6 Swamp
+
+Sideboard

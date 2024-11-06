@@ -1,0 +1,18 @@
+// NAME: Encounter (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Oran-Rief Ooze
+1 Saurian Symbiote
+1 Spined Tyrranax
+1 Mowu, Loyal Companion
+1 Aggressive Instinct
+1 Deepwood Denizen
+1 Duskshell Crawler
+1 Greenwood Sentinel
+1 Invigorating Surge
+1 Jiang Yanggu, Wildcrafter
+1 Jungle Delver
+1 Stony Strength
+1 Thriving Grove
+7 Forest
+
+Sideboard

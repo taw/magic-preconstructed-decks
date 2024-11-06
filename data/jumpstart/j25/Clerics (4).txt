@@ -1,0 +1,18 @@
+// NAME: Clerics (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Vito, Thorn of the Dusk Rose
+1 Priest of Forgotten Gods
+1 Revoke Demise
+1 Bonecaller Cleric
+1 Dark Bargain
+1 Priest of Gix
+1 Alchemist's Gift
+1 Archfiend's Vessel
+1 Extinguish the Light
+1 Scion of the Swarm
+1 Skemfar Shadowsage
+1 Stronghold Confessor
+1 Thriving Moor
+7 Swamp
+
+Sideboard

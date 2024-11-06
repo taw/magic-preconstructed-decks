@@ -1,0 +1,18 @@
+// NAME: Landfall (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Ancient Greenwarden
+1 Sutina, Speaker of the Tajuru
+1 Bite Down
+1 Bond of Flourishing
+1 Canopy Baloth
+1 Kazandu Nectarpot
+1 Kazandu Stomper
+1 Krosan Tusker
+1 Retreat to Kazandu
+1 Snapping Gnarlid
+1 Territorial Scythecat
+1 Evolving Wilds
+1 Thriving Grove
+7 Forest
+
+Sideboard

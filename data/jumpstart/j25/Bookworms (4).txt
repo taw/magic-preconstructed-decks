@@ -1,0 +1,19 @@
+// NAME: Bookworms (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Nadir Kraken
+1 Phantasmal Shieldback
+1 Starlight Snare
+1 Syr Elenora, the Discerning
+1 Drag Under
+1 Faerie Vandal
+1 Lat-Nam Adept
+1 Opt
+1 Reckless Scholar
+1 Sky-Eel School
+1 Soul Read
+1 Tolarian Kraken
+1 Memorial to Genius
+1 Thriving Isle
+6 Island
+
+Sideboard

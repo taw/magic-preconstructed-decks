@@ -1,0 +1,18 @@
+// NAME: Elves (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Elvish Archdruid
+1 Razorgrass Invoker
+1 Dionus, Elvish Archdruid
+1 Elvish Visionary
+1 Llanowar Elves
+1 Bounty of Skemfar
+1 Dwynen's Elite
+1 High-Rise Sawjack
+1 Hunter's Edge
+1 Kujar Seedsculptor
+1 Might of the Masses
+1 Overcome
+1 Thriving Grove
+7 Forest
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Inventive (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Padeem, Consul of Innovation
+1 Gilded Scuttler
+1 Shardless Outlander
+1 Ornithopter of Paradise
+1 Blink of an Eye
+1 Bury in Books
+1 Experimental Aviator
+1 Chief of the Foundry
+1 Eager Construct
+1 Guardian Idol
+1 Prophetic Prism
+1 Treasure Keeper
+1 Seat of the Synod
+1 Thriving Isle
+6 Island
+
+Sideboard

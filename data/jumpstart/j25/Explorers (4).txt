@@ -1,0 +1,18 @@
+// NAME: Explorers (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Jadelight Ranger
+1 Go Forth
+1 Razorgrass Invoker
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Explore
+1 Adventurous Impulse
+1 Clear Shot
+1 Ixalli's Diviner
+1 Merfolk Branchwalker
+1 Primeval Herald
+1 Thriving Grove
+7 Forest
+
+Sideboard

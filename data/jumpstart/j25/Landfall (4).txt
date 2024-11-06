@@ -1,0 +1,18 @@
+// NAME: Landfall (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Scythecat Cub
+1 Sutina, Speaker of the Tajuru
+1 Baloth Woodcrasher
+1 Bite Down
+1 Canopy Baloth
+1 Grazing Gladehart
+1 Groundswell
+1 Harrow
+1 Skyclave Pick-Axe
+1 Snapping Gnarlid
+1 Sporemound
+1 Evolving Wilds
+1 Thriving Grove
+7 Forest
+
+Sideboard

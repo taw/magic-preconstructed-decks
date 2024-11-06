@@ -1,0 +1,18 @@
+// NAME: Icky (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Fumulus, the Infestation
+1 Endless Cockroaches
+1 Wriggling Grub
+1 Eaten Alive
+1 Devouring Swarm
+1 Go for the Throat
+1 Heartstabber Mosquito
+1 Morkrut Necropod
+1 Nantuko Husk
+1 Subtle Strike
+1 Torment of Scarabs
+1 Virus Beetle
+1 Thriving Moor
+7 Swamp
+
+Sideboard

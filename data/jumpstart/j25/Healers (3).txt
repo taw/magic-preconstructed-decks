@@ -1,0 +1,19 @@
+// NAME: Healers (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Righteous Valkyrie
+1 Hinterland Sanctifier
+1 Qala, Ajani's Pridemate
+1 Ajani's Pridemate
+1 Angel of Mercy
+1 Angel of Vitality
+1 Banisher Priest
+1 Daybreak Chaplain
+1 Deadly Riposte
+1 Moment of Heroism
+1 Recumbent Bliss
+1 Revitalize
+1 Kabira Crossroads
+1 Thriving Heath
+6 Plains
+
+Sideboard

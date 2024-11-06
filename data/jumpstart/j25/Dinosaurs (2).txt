@@ -1,0 +1,18 @@
+// NAME: Dinosaurs (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Ghalta, Primal Hunger
+1 Topiary Stomper
+1 Saurian Symbiote
+1 Cherished Hatchling
+1 Colossal Dreadmaw
+1 Commune with Dinosaurs
+1 Drowsing Tyrannodon
+1 Predator's Strike
+1 Rampant Growth
+1 Tail Swipe
+1 Thrashing Brontodon
+1 Thundering Spineback
+1 Thriving Grove
+7 Forest
+
+Sideboard

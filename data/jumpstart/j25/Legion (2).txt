@@ -1,0 +1,19 @@
+// NAME: Legion (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Adeline, Resplendent Cathar
+1 Venerated Loxodon
+1 Dawnwing Marshal
+1 Hinterland Sanctifier
+1 Mentor of the Meek
+1 Raise the Alarm
+1 Ancestral Blade
+1 Conclave Tribunal
+1 Dauntless Unity
+1 Defend the Campus
+1 Recruitment Officer
+1 Triplicate Spirits
+1 Memorial to Glory
+1 Thriving Heath
+6 Plains
+
+Sideboard

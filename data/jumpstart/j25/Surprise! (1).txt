@@ -1,0 +1,18 @@
+// NAME: Surprise! (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Thryx, the Sudden Storm
+1 Delightful Discovery
+1 Brineborn Cutthroat
+1 Capture Sphere
+1 Chrome Prowler
+1 Crystacean
+1 Opt
+1 Slimebind
+1 Spectral Sailor
+1 Stinging Lionfish
+1 Undersea Invader
+1 Wind Strider
+1 Thriving Isle
+7 Island
+
+Sideboard

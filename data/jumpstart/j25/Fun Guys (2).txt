@@ -1,0 +1,18 @@
+// NAME: Fun Guys (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Shroofus Sproutsire
+1 Verdeloth the Ancient
+1 Saurian Symbiote
+1 Slimy Piper
+1 Undercellar Myconid
+1 Band Together
+1 For the Family
+1 Fungal Plots
+1 Overcome
+1 Saproling Migration
+1 Spore Swarm
+1 Sporecrown Thallid
+1 Thriving Grove
+7 Forest
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Zealots (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Combat Celebrant
+1 Hearts on Fire
+1 Anep, Vizier of Hazoret
+1 Battlefield Scavenger
+1 Bloodlust Inciter
+1 Cartouche of Zeal
+1 Emberhorn Minotaur
+1 Fling
+1 Nef-Crop Entangler
+1 Shock
+1 Trial of Zeal
+1 Trueheart Twins
+1 Desert of the Fervent
+1 Thriving Bluff
+6 Mountain
+
+Sideboard

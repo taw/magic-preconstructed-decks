@@ -1,0 +1,18 @@
+// NAME: Armed (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Godsend
+1 Faithful Pikemaster
+1 Danitha Capashen, Paragon
+1 Plate Armor
+1 Ancestral Blade
+1 Deadly Riposte
+1 Fencing Ace
+1 Militant Inquisitor
+1 Mirran Bardiche
+1 Pacifism
+1 Sunspear Shikari
+1 Thopter Architect
+1 Thriving Heath
+7 Plains
+
+Sideboard

@@ -1,0 +1,18 @@
+// NAME: Bookworms (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Overflowing Insight
+1 Starlight Snare
+1 Syr Elenora, the Discerning
+1 Blink of an Eye
+1 Cartouche of Knowledge
+1 Faerie Vandal
+1 Lat-Nam Adept
+1 Mystic Skyfish
+1 Reckless Scholar
+1 Shore Keeper
+1 Sky-Eel School
+1 Trial of Knowledge
+1 Thriving Isle
+7 Island
+
+Sideboard

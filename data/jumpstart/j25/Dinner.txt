@@ -1,0 +1,18 @@
+// NAME: Dinner
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Hurska Sweet-Tooth
+1 Saurian Symbiote
+1 Bite Down
+1 Fierce Witchstalker
+1 Giant Opportunity
+1 Insatiable Appetite
+1 Maraleaf Rider
+1 Orchard Strider
+1 Tireless Provisioner
+1 Tough Cookie
+1 Trail of Crumbs
+1 Gingerbrute
+1 Thriving Grove
+7 Forest
+
+Sideboard

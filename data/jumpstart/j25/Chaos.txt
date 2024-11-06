@@ -1,0 +1,22 @@
+// NAME: Chaos
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Averna, the Chaos Bloom
+1 Shardless Outlander
+1 Chromatic Lantern
+1 Ash Barrens
+1 Terramorphic Expanse
+1 Fiery Fall
+1 Druid of the Anima
+1 Bituminous Blast
+1 Bloodbraid Elf
+1 Enlisted Wurm
+1 Fusion Elemental
+1 Violent Outburst
+1 Maelstrom Colossus
+1 Plains
+1 Island
+1 Swamp
+2 Mountain
+2 Forest
+
+Sideboard

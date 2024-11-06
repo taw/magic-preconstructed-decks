@@ -1,0 +1,18 @@
+// NAME: Clerics (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Taborax, Hope's Demise
+1 Nullpriest of Oblivion
+1 Revoke Demise
+1 Bonecaller Cleric
+1 Dark Bargain
+1 Agonizing Syphon
+1 Archfiend's Vessel
+1 Disfigure
+1 Eerie Soultender
+1 Koma's Faithful
+1 Scion of the Swarm
+1 Skemfar Shadowsage
+1 Thriving Moor
+7 Swamp
+
+Sideboard

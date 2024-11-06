@@ -1,0 +1,19 @@
+// NAME: Treasures (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Evereth, Viceroy of Plunder
+1 Deadly Dispute
+1 Shambling Ghast
+1 Contract Killing
+1 Dire Fleet Hoarder
+1 Dusk Mangler
+1 Fake Your Own Death
+1 Pitiless Plunderer
+1 Powerstone Fracture
+1 Reassembling Skeleton
+1 Ruthless Knave
+1 Undercity Scrounger
+1 Thriving Moor
+1 Vault of Whispers
+6 Swamp
+
+Sideboard

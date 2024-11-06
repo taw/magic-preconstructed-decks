@@ -1,0 +1,18 @@
+// NAME: Bloody (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Scion of Opulence
+1 Ivora, Insatiable Heir
+1 Blood Feud
+1 Belligerent Guest
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Flame-Blessed Bolt
+1 Insolent Neonate
+1 Markov Warlord
+1 Soul Sear
+1 Vampiric Fury
+1 Voldaren Duelist
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

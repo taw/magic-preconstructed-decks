@@ -1,0 +1,18 @@
+// NAME: Goblins (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Dropkick Bomber
+1 Goblin Surprise
+1 General Kreat, the Boltbringer
+1 Battle Cry Goblin
+1 Krenko's Command
+1 Volley Veteran
+1 Brute Strength
+1 Fissure Wizard
+1 Goblin Researcher
+1 Open Fire
+1 Shock
+1 Weaselback Redcap
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

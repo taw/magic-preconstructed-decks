@@ -1,0 +1,18 @@
+// NAME: Ninjas
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Taeko, the Patient Avalanche
+1 Starlight Snare
+1 Ninja of the Deep Hours
+1 Fading Hope
+1 Moon-Circuit Hacker
+1 Moonsnare Specialist
+1 Network Disruptor
+1 Nightveil Sprite
+1 Phantom Ninja
+1 Prosperous Thief
+1 Smoke Shroud
+1 Whirlwind Denial
+1 Thriving Isle
+7 Island
+
+Sideboard

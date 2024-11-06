@@ -1,0 +1,18 @@
+// NAME: Vampires (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Rodolf Duskbringer
+1 Scourge of the Undercity
+1 Nazar, the Velvet Fang
+1 Bleed Dry
+1 Blood Burglar
+1 Blood Fountain
+1 Epicure of Blood
+1 Exsanguinate
+1 Gluttonous Guest
+1 Moment of Craving
+1 Vampire Nighthawk
+1 Vampire of the Dire Moon
+1 Thriving Moor
+7 Swamp
+
+Sideboard

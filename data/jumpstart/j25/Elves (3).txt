@@ -1,0 +1,18 @@
+// NAME: Elves (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Marwyn, the Nurturer
+1 Go Forth
+1 Razorgrass Invoker
+1 Dionus, Elvish Archdruid
+1 Llanowar Elves
+1 Band Together
+1 Bounty of Skemfar
+1 Dwynen's Elite
+1 Llanowar Visionary
+1 Overcome
+1 Tajuru Pathwarden
+1 Thornweald Archer
+1 Thriving Grove
+7 Forest
+
+Sideboard

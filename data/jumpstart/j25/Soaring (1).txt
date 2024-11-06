@@ -1,0 +1,18 @@
+// NAME: Soaring (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+1 Windreader Sphinx
+1 Starlight Snare
+1 Cynette, Jelly Drover
+1 Uncomfortable Chill
+1 Aerial Guide
+1 Gust of Wind
+1 Nightveil Sprite
+1 Serpentine Ambush
+1 Tide Skimmer
+1 Warden of Evos Isle
+1 Waterkin Shaman
+1 Winged Words
+1 Thriving Isle
+7 Island
+
+Sideboard
