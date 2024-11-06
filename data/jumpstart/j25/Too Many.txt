@@ -3,7 +3,8 @@
 // DATE: 2024-11-07
 1 Fiendish Duo
 1 Goblin Surprise
-2 Brothers Yamazaki
+1 Brothers Yamazaki [J25:72]
+1 Brothers Yamazaki [J25:73]
 1 Battle-Rattle Shaman
 1 Krenko's Command
 1 Furious Reprisal
@@ -13,6 +14,6 @@
 1 Twinferno
 1 Weaselback Redcap
 1 Thriving Bluff
-6 Mountain
+7 Mountain
 
 Sideboard
