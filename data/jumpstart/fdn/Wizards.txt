@@ -1,0 +1,18 @@
+// NAME: Wizards
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Mystic Archaeologist
+1 Arcane Epiphany
+1 Clinquant Skymage
+1 Erudite Wizard
+1 Icewind Elemental
+1 Mischievous Mystic
+1 Fleeting Distraction
+1 Burrog Befuddler
+1 Exclusion Mage
+1 Into the Roil
+1 Quick Study
+1 Starlight Snare
+1 Uncharted Haven
+7 Island
+

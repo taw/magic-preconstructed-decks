@@ -1,0 +1,18 @@
+// NAME: Healing
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Ancestor Dragon
+1 Dazzling Angel
+1 Quick-Draw Katana
+1 Ajani's Pridemate
+1 Adamant Will
+1 Bishop's Soldier
+1 Deadly Riposte
+1 Herald of Faith
+1 Inspiring Overseer
+1 Prayer of Binding
+1 Twinblade Paladin
+1 Uncharted Haven
+1 Hinterland Sanctifier
+7 Plains
+

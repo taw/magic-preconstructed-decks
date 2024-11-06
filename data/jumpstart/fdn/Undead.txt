@@ -1,0 +1,18 @@
+// NAME: Undead
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Death Baron
+1 Hungry Ghoul
+1 Diregraf Ghoul
+1 Eaten Alive
+1 Reassembling Skeleton
+1 Cemetery Recruitment
+1 Crow of Dark Tidings
+1 Deadly Plot
+1 Maalfeld Twins
+1 Skeleton Archer
+1 Suspicious Shambler
+1 Undying Malice
+1 Uncharted Haven
+7 Swamp
+

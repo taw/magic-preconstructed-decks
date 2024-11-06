@@ -1,0 +1,18 @@
+// NAME: Elves
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Elvish Archdruid
+1 Beast-Kin Ranger
+1 Elvish Regrower
+1 Felling Blow
+1 Broken Wings
+1 Dwynen's Elite
+1 Llanowar Elves
+1 Snakeskin Veil
+1 Joraga Invocation
+1 Tajuru Pathwarden
+1 Thornweald Archer
+1 Wildheart Invoker
+1 Uncharted Haven
+7 Forest
+
