@@ -1,5 +1,6 @@
 // NAME: Inventive (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Sai, Master Thopterist
 1 Shimmer Dragon
 1 Gilded Scuttler

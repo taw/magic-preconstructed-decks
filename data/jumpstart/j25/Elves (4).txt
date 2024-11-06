@@ -1,5 +1,6 @@
 // NAME: Elves (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Tyvar Kell
 1 Voice of the Woods
 1 Dionus, Elvish Archdruid

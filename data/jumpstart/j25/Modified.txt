@@ -1,5 +1,6 @@
 // NAME: Modified
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Kodama of the West Tree
 1 Saurian Symbiote
 1 Shardless Outlander

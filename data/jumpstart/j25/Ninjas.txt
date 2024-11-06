@@ -1,5 +1,6 @@
 // NAME: Ninjas
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Taeko, the Patient Avalanche
 1 Starlight Snare
 1 Ninja of the Deep Hours

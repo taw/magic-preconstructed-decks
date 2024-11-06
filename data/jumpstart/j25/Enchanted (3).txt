@@ -1,5 +1,6 @@
 // NAME: Enchanted (3)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Nykthos Paragon
 1 Starfield Mystic
 1 Psemilla, Meletian Poet

@@ -1,5 +1,6 @@
 // NAME: Stalwart (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Light of the Legion
 1 Mikaeus, the Lunarch
 1 Urdnan, Dromoka Warrior

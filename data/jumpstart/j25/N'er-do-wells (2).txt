@@ -1,5 +1,6 @@
 // NAME: N'er-do-wells (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Rev, Tithe Extractor
 1 Thieves' Guild Enforcer
 1 Grim Bounty

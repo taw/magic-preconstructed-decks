@@ -1,5 +1,6 @@
 // NAME: Bloody (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Anje's Ravager
 1 Ivora, Insatiable Heir
 1 Abandon Reason

@@ -1,5 +1,6 @@
 // NAME: Explorers (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Realm Seekers
 1 Go Forth
 1 Razorgrass Invoker

@@ -1,5 +1,6 @@
 // NAME: Prideful
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Brimaz, King of Oreskos
 1 Dawnwing Marshal
 1 Leonin Scimitar

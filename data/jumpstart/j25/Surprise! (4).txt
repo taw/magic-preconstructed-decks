@@ -1,5 +1,6 @@
 // NAME: Surprise! (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Venser, Shaper Savant
 1 Wavebreak Hippocamp
 1 Starlight Snare

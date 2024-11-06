@@ -1,5 +1,6 @@
 // NAME: Goblins (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Goblin Rabblemaster
 1 Goblin Surprise
 1 General Kreat, the Boltbringer

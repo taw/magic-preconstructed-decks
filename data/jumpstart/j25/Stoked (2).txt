@@ -1,5 +1,6 @@
 // NAME: Stoked (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Dreadhorde Arcanist
 1 Hearts on Fire
 1 Cleon, Merry Champion

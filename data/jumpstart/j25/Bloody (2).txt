@@ -1,5 +1,6 @@
 // NAME: Bloody (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Markov Blademaster
 1 Markov Enforcer
 1 Ivora, Insatiable Heir

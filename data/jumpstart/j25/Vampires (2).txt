@@ -1,5 +1,6 @@
 // NAME: Vampires (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Crossway Troublemakers
 1 Sanctum Seeker
 1 Scourge of the Undercity

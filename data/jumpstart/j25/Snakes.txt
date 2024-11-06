@@ -1,5 +1,6 @@
 // NAME: Snakes
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Aphelia, Viper Whisperer
 1 Hooded Blightfang
 1 Scourge of the Undercity

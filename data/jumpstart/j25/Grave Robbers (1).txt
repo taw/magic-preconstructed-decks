@@ -1,5 +1,6 @@
 // NAME: Grave Robbers (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Gorex, the Tombshell
 1 Revoke Demise
 1 Eternal Taskmaster

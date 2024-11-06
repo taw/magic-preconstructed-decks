@@ -1,5 +1,6 @@
 // NAME: Enchanted (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Archon of Sun's Grace
 1 Psemilla, Meletian Poet
 1 Banishing Light

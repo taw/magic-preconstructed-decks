@@ -1,5 +1,6 @@
 // NAME: Inventive (4)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Padeem, Consul of Innovation
 1 Gilded Scuttler
 1 Shardless Outlander

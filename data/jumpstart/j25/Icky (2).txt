@@ -1,5 +1,6 @@
 // NAME: Icky (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Fumulus, the Infestation
 1 Endless Cockroaches
 1 Wriggling Grub

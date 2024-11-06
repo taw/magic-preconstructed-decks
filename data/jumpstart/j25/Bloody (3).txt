@@ -1,5 +1,6 @@
 // NAME: Bloody (3)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Scion of Opulence
 1 Ivora, Insatiable Heir
 1 Blood Feud

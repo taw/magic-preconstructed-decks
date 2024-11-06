@@ -1,5 +1,6 @@
 // NAME: Ghastly (3)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Reaper from the Abyss
 1 Wriggling Grub
 1 Ozox, the Clattering King

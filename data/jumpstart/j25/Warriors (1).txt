@@ -1,5 +1,6 @@
 // NAME: Warriors (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Gornog, the Red Reaper
 1 Ghitu Encampment
 1 Boggart Brute

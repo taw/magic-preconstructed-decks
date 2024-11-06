@@ -1,5 +1,6 @@
 // NAME: Healers (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
 1 Valkyrie Harbinger
 1 Hinterland Sanctifier
 1 Qala, Ajani's Pridemate
