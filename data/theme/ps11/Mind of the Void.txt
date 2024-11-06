@@ -1,0 +1,29 @@
+// NAME: Mind of the Void
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+14 Island
+10 Plains
+1 Deft Duelist
+1 Griffin Sentinel
+1 Isleback Spawn
+1 Air Elemental
+1 Sphinx of Jwar Isle
+2 Sky Ruin Drake
+2 Reckless Scholar
+2 Condemn
+2 Essence Scatter
+2 Dream Fracture
+3 Cancel
+1 Kiss of the Amesha
+1 Traumatize
+3 Tome Scour
+3 Divination
+1 Memory Erosion
+2 Pacifism
+2 Mind Control
+1 Angel's Feather
+1 Kraken's Eye
+1 Jayemdae Tome
+2 Dispeller's Capsule
+
+Sideboard

@@ -1,0 +1,9 @@
+// NAME: Marvel's Black Panther
+// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
+// DATE: 2024-11-04
+1 [SLD:1747] Black Panther, Wakandan King
+1 [SLD:1748] Secure the Wastes
+1 [SLD:1749] Bast's Blessing
+1 [SLD:1750] Heroic Intervention
+1 [SLD:1751] Wakandan Skyscraper
+1 [SLD:1752] Warrior [token]

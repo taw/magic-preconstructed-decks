@@ -3,7 +3,7 @@
 // DATE: 2019-04-12
 1 Vraska, Relic Seeker
 4 Merfolk Branchwalker
-4 Llanowar Elves
+4 Llanowar Elves [DOM:168]
 4 Wildgrowth Walker
 4 Seekers' Squire
 2 Jadelight Ranger
@@ -18,8 +18,10 @@
 4 Golgari Guildgate
 1 Overgrown Tomb
 2 Memorial to Folly
-8 Forest
-6 Swamp
+4 Forest [XLN:276]
+4 Forest [XLN:277]
+4 Swamp [XLN:268]
+2 Swamp [XLN:269]
 
 Sideboard
 4 Duress

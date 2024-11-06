@@ -1,0 +1,28 @@
+// NAME: Wizards
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+24 Island
+2 Aven Windreader
+1 Azami, Lady of Scrolls
+2 Belltower Sphinx
+1 Dimir Guildmage
+1 Jetting Glasskite
+2 Martyr of Frost
+1 Minamo Scrollkeeper
+2 Puppeteer
+3 Soratami Mindsweeper
+2 Soratami Rainshaper
+2 Vedalken Dismisser
+4 Vedalken Entrancer
+1 Vedalken Mastermind
+2 Boomerang
+1 Hinder
+2 Vacuumelt
+2 Dehydration
+1 Booby Trap
+1 Hair-Strung Koto
+1 Mesmeric Orb
+1 Tower of Murmurs
+1 Wizard Replica
+
+Sideboard

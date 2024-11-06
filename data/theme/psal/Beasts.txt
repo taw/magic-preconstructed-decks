@@ -1,0 +1,31 @@
+// NAME: Beasts
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+16 Forest
+8 Mountain
+2 Enormous Baloth
+1 Fangren Firstborn
+1 Fangren Hunter
+2 Fangren Pathcutter
+2 Flowstone Shambler
+4 Groffskithur
+1 Gruul Nodorog
+1 Hunted Wumpus
+2 Indrik Stomphowler
+2 Iron-Barb Hellion
+1 Karplusan Wolverine
+1 Molder Slug
+1 Rhox
+1 Ursapine
+1 Predator's Strike
+1 Kodama's Reach
+1 One Dozen Eyes
+1 Pulse of the Tangle
+1 Pyroclasm
+2 Rampant Growth
+2 Volcanic Hammer
+2 Fertile Ground
+2 Lure
+1 Serpent Skin
+
+Sideboard

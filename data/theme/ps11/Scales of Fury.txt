@@ -1,0 +1,27 @@
+// NAME: Scales of Fury
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+11 Forest
+6 Mountain
+5 Swamp
+2 Terramorphic Expanse
+1 Flameblast Dragon
+1 Shivan Dragon
+2 Plague Beetle
+2 Gravedigger
+2 Sprouting Thrinax
+3 Civic Wayfinder
+4 Furnace Whelp
+2 Naturalize
+2 Terror
+3 Incinerate
+1 Violent Ultimatum
+2 Blightning
+3 Dragon Fodder
+4 Rampant Growth
+1 Crucible of Fire
+1 Dragon Roost
+1 Wurm's Tooth
+1 Dragon's Claw
+
+Sideboard

@@ -1,0 +1,32 @@
+// NAME: Ninjas
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// DATE: 2005-08-01
+13 Island
+11 Swamp
+1 Cephalid Constable
+2 Dimir Infiltrator
+1 Doomsday Specter
+1 Higure, the Still Wind
+1 Keening Banshee
+1 Marsh Crocodile
+2 Merfolk of the Pearl Trident
+1 Mistblade Shinobi
+1 Nightscape Battlemage
+3 Ninja of the Deep Hours
+2 Okiba-Gang Shinobi
+2 Sage Owl
+3 Skullsnatcher
+1 Stormscape Battlemage
+2 Throat Slitter
+1 Urborg Emissary
+1 Vesper Ghoul
+2 Walker of Secret Ways
+1 Chill Haunting
+2 Clutch of the Undercity
+1 Deflection
+1 Struggle for Sanity
+1 Coastal Piracy
+1 Crown of Ascension
+1 Phantom Wings
+
+Sideboard

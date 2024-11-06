@@ -1,0 +1,31 @@
+// NAME: Claws of Vengeance
+// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// DATE: 2011-01-01
+12 Forest
+6 Plains
+5 Mountain
+2 Terramorphic Expanse
+1 Brion Stoutarm
+1 Knight of the Skyward Eye
+1 Cho-Manno, Revolutionary
+1 Meglonoth
+1 Kalonian Behemoth
+2 Woolly Thoctar
+2 Venerable Monk
+2 Rip-Clan Crasher
+2 Bull Cerodon
+2 Tundra Wolves
+2 Farhaven Elf
+3 Runeclaw Bear
+1 Naturalize
+2 Incinerate
+1 Sangrite Surge
+1 Wild Swing
+2 Blaze
+2 Rampant Growth
+1 Pariah
+3 Pacifism
+1 Angel's Feather
+1 Wurm's Tooth
+
+Sideboard
