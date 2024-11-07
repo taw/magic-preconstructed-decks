@@ -3,29 +3,41 @@
 // DATE: 2005-08-01
 9 Island
 15 Plains
-2 Angel of Mercy
+1 Angel of Mercy [PSAL:G14]
+1 Angel of Mercy [PSAL:G38]
 1 Angel of Retribution
-2 Ardent Militia
-2 Auratouched Mage
-3 Freewind Equenaut
+1 Ardent Militia [PSAL:G15]
+1 Ardent Militia [PSAL:G26]
+1 Auratouched Mage [PSAL:G27]
+1 Auratouched Mage [PSAL:G50]
+1 Freewind Equenaut [PSAL:G17]
+1 Freewind Equenaut [PSAL:G4]
+1 Freewind Equenaut [PSAL:G41]
 1 Genju of the Falls
 1 Genju of the Fields
 1 Kitsune Mystic
 1 Loxodon Stalwart
 1 Luminous Angel
-2 Nightguard Patrol
+1 Nightguard Patrol [PSAL:G18]
+1 Nightguard Patrol [PSAL:G29]
 1 Sanctum Guardian
-2 Skyrider Trainee
-2 Soulsworn Jury
+1 Skyrider Trainee [PSAL:G54]
+1 Skyrider Trainee [PSAL:G6]
+1 Soulsworn Jury [PSAL:G43]
+1 Soulsworn Jury [PSAL:G44]
 1 Three Dreams
 1 Confiscate
 1 Flight of Fancy
-2 Guardian's Magemark
-2 Infiltrator's Magemark
-2 Pacifism
-2 Plumes of Peace
+1 Guardian's Magemark [PSAL:G5]
+1 Guardian's Magemark [PSAL:G52]
+1 Infiltrator's Magemark [PSAL:G7]
+1 Infiltrator's Magemark [PSAL:G19]
+1 Pacifism [PSAL:G42]
+1 Pacifism [PSAL:G53]
+1 Plumes of Peace [PSAL:G31]
+1 Plumes of Peace [PSAL:G55]
 1 Sinstriker's Will
-1 Spirit Link
+1 Spirit Link [PSAL:G3]
 1 Thran Golem
 
 Sideboard
