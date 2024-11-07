@@ -1,0 +1,19 @@
+// NAME: Goblins (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Dropkick Bomber
+1 Goblin Goliath
+1 Goblin Surprise
+1 General Kreat, the Boltbringer
+1 Battle Cry Goblin
+1 Krenko's Command
+1 Volley Veteran
+1 Goblin Arsonist
+1 Kindled Fury
+1 Mogg Flunkies
+1 Open Fire
+1 Shock
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

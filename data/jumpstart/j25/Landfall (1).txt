@@ -1,0 +1,19 @@
+// NAME: Landfall (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Lotus Cobra
+1 Undergrowth Champion
+1 Sutina, Speaker of the Tajuru
+1 Adventure Awaits
+1 Baloth Woodcrasher
+1 Bite Down
+1 Canopy Baloth
+1 Harrow
+1 Kazandu Stomper
+1 Skyclave Pick-Axe
+1 Snapping Gnarlid
+1 Evolving Wilds
+1 Thriving Grove
+7 Forest
+
+Sideboard

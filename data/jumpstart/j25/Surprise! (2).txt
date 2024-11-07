@@ -1,0 +1,19 @@
+// NAME: Surprise! (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Thryx, the Sudden Storm
+1 Voracious Greatshark
+1 Delightful Discovery
+1 Brineborn Cutthroat
+1 Capture Sphere
+1 Naiad of Hidden Coves
+1 Opt
+1 Pestermite
+1 Spectral Sailor
+1 Starlit Mantle
+1 Stinging Lionfish
+1 Undersea Invader
+1 Thriving Isle
+7 Island
+
+Sideboard

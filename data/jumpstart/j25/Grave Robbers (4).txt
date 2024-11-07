@@ -1,0 +1,19 @@
+// NAME: Grave Robbers (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Isareth the Awakener
+1 Liliana, Death's Majesty
+1 Revoke Demise
+1 Shardless Outlander
+1 Eternal Taskmaster
+1 Deal Gone Bad
+1 Goremand
+1 Gorging Vulture
+1 Gravedigger
+1 Murder
+1 Persistent Specimen
+1 Undead Butler
+1 Thriving Moor
+7 Swamp
+
+Sideboard

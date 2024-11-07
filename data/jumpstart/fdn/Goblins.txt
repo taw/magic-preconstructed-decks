@@ -1,0 +1,18 @@
+// NAME: Goblins
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Dropkick Bomber
+1 Incinerating Blast
+1 Frenzied Goblin
+1 Battle-Rattle Shaman
+1 Dragon Fodder
+1 Goblin Oriflamme
+1 Goblin Smuggler
+1 Kindled Fury
+1 Raging Redcap
+1 Swab Goblin
+1 Volley Veteran
+1 Goblin Firebomb
+1 Uncharted Haven
+7 Mountain
+

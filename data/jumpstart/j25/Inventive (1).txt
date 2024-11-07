@@ -1,0 +1,20 @@
+// NAME: Inventive (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Sai, Master Thopterist
+1 Gilded Scuttler
+1 Ornithopter of Paradise
+1 Blink of an Eye
+1 Bury in Books
+1 Experimental Aviator
+1 Filigree Attendant
+1 Gearseeker Serpent
+1 Chief of the Foundry
+1 Eager Construct
+1 Prophetic Prism
+1 Whirlermaker
+1 Seat of the Synod
+1 Thriving Isle
+6 Island
+
+Sideboard

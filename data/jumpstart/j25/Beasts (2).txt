@@ -1,0 +1,19 @@
+// NAME: Beasts (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Slinza, the Spiked Stampede
+1 Garruk, Caller of Beasts
+1 Hungry Megasloth
+1 Woodland Liege
+1 Advocate of the Beast
+1 Baloth Gorger
+1 Brushstrider
+1 Bushwhack
+1 Garruk's Packleader
+1 Gnarlid Colony
+1 Predator's Strike
+1 Time to Feed
+1 Thriving Grove
+7 Forest
+
+Sideboard

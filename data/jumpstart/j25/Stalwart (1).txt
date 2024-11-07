@@ -1,0 +1,19 @@
+// NAME: Stalwart (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Generous Pup
+1 Ajani, Adversary of Tyrants
+1 Urdnan, Dromoka Warrior
+1 Banishing Light
+1 Angelic Cub
+1 Gavony Silversmith
+1 Patron of the Valiant
+1 Sandsteppe Outcast
+1 Squad Captain
+1 Steadfast Sentry
+1 Swift Response
+1 Take Up the Shield
+1 Thriving Heath
+7 Plains
+
+Sideboard

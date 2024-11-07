@@ -1,0 +1,19 @@
+// NAME: Zealots (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Sandstorm Crasher
+1 Anep, Vizier of Hazoret
+1 Ahn-Crop Crasher
+1 Battlefield Scavenger
+1 Bloodlust Inciter
+1 Cartouche of Zeal
+1 Flame-Blessed Bolt
+1 Fling
+1 Kindled Fury
+1 Pathmaker Initiate
+1 Trial of Zeal
+1 Zealot of the God-Pharaoh
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

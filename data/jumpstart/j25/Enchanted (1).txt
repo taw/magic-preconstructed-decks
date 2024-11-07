@@ -1,0 +1,19 @@
+// NAME: Enchanted (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Eidolon of Astral Winds
+1 Psemilla, Meletian Poet
+1 Banishing Light
+1 Archon of Falling Stars
+1 Captivating Unicorn
+1 Chosen by Heliod
+1 Dreadful Apathy
+1 Favored of Iroas
+1 Flutterfox
+1 Glory Bearers
+1 Indomitable Will
+1 Spirited Companion
+1 Thriving Heath
+7 Plains
+
+Sideboard

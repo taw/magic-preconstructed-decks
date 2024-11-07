@@ -1,0 +1,19 @@
+// NAME: Enchanted (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Eidolon of Astral Winds
+1 Psemilla, Meletian Poet
+1 Banishing Light
+1 Archon of Falling Stars
+1 Cage of Hands
+1 Cartouche of Solidarity
+1 Flutterfox
+1 Glory Bearers
+1 Golden-Tail Disciple
+1 Indomitable Will
+1 Nyx-Fleece Ram
+1 Sunblade Samurai
+1 Thriving Heath
+7 Plains
+
+Sideboard

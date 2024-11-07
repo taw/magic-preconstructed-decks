@@ -1,0 +1,17 @@
+// NAME: Primal
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Aggressive Mammoth
+1 Bite Down
+1 Giant Growth
+1 Mild-Mannered Librarian
+1 Wildwood Scourge
+1 Bear Cub
+1 Biogenic Upgrade
+1 Druid of the Cowl
+1 Magnigoth Sentry
+1 New Horizons
+1 Thrashing Brontodon
+1 Uncharted Haven
+8 Forest
+

@@ -1,0 +1,20 @@
+// NAME: Drowned (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Neerdiv, Devious Diver
+1 Sudden Insight
+1 Deep Analysis
+1 Expendable Lackey
+1 Locked in the Cemetery
+1 Merfolk Pupil
+1 Organ Hoarder
+1 Screaming Swarm
+1 Shipwreck Dowser
+1 Silent Departure
+1 Stitched Drake
+1 Wall of Lost Thoughts
+1 Ipnu Rivulet
+1 Thriving Isle
+6 Island
+
+Sideboard

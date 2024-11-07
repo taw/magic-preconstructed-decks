@@ -1,0 +1,19 @@
+// NAME: Wizards (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Naban, Dean of Iteration
+1 Aether Channeler
+1 Starlight Snare
+1 Faerie Seer
+1 Academy Journeymage
+1 Augur of Bolas
+1 Chilling Trap
+1 Expedition Diviner
+1 Frost Trickster
+1 Opportunity
+1 Remand
+1 Shipwreck Dowser
+1 Thriving Isle
+7 Island
+
+Sideboard

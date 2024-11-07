@@ -1,0 +1,19 @@
+// NAME: Bookworms (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Sphinx of Enlightenment
+1 Starlight Snare
+1 Syr Elenora, the Discerning
+1 Drag Under
+1 Cartouche of Knowledge
+1 Lat-Nam Adept
+1 Mystic Skyfish
+1 Omen of the Sea
+1 Reckless Scholar
+1 Shore Keeper
+1 Thopter Mechanic
+1 Trial of Knowledge
+1 Thriving Isle
+7 Island
+
+Sideboard

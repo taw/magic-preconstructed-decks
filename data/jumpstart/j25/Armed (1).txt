@@ -1,0 +1,19 @@
+// NAME: Armed (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Mace of the Valiant
+1 Faithful Pikemaster
+1 Starnheim Memento
+1 Danitha Capashen, Paragon
+1 Ancestral Blade
+1 Divine Arrow
+1 Fencing Ace
+1 Mirran Bardiche
+1 Pacifism
+1 Starnheim Courser
+1 Sunspear Shikari
+1 Valkyrie's Sword
+1 Thriving Heath
+7 Plains
+
+Sideboard

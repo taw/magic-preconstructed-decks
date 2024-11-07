@@ -1,0 +1,18 @@
+// NAME: Pirates
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Corsair Captain
+1 Bigfin Bouncer
+1 Skyship Buccaneer
+1 Brineborn Cutthroat
+1 Spectral Sailor
+1 Tolarian Terror
+1 Cancel
+1 Eaten by Piranhas
+1 Kitesail Corsair
+1 Opt
+1 Storm Fleet Spy
+1 Pirate's Cutlass
+1 Uncharted Haven
+7 Island
+

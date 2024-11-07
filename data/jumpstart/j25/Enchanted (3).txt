@@ -1,0 +1,19 @@
+// NAME: Enchanted (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Nykthos Paragon
+1 Starfield Mystic
+1 Psemilla, Meletian Poet
+1 Banishing Light
+1 Divine Favor
+1 Flutterfox
+1 Glory Bearers
+1 Golden-Tail Disciple
+1 Indomitable Will
+1 Nyx-Fleece Ram
+1 Serra's Embrace
+1 Sunblade Samurai
+1 Thriving Heath
+7 Plains
+
+Sideboard

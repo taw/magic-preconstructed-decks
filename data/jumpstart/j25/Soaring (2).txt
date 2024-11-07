@@ -1,0 +1,19 @@
+// NAME: Soaring (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Cavalier of Gales
+1 Starlight Snare
+1 Cynette, Jelly Drover
+1 Aerial Guide
+1 Cartouche of Knowledge
+1 Gust of Wind
+1 Majestic Metamorphosis
+1 Owl Familiar
+1 Shorecomber Crab
+1 Tide Skimmer
+1 Trial of Knowledge
+1 Warden of Evos Isle
+1 Thriving Isle
+7 Island
+
+Sideboard

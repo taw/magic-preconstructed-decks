@@ -1,0 +1,19 @@
+// NAME: Treasures (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Evereth, Viceroy of Plunder
+1 Ruthless Technomancer
+1 Deadly Dispute
+1 Grim Bounty
+1 Shambling Ghast
+1 Bastion of Remembrance
+1 Dire Fleet Hoarder
+1 Fake Your Own Death
+1 Pitiless Plunderer
+1 Reassembling Skeleton
+1 Ruthless Knave
+1 Undercity Scrounger
+1 Thriving Moor
+7 Swamp
+
+Sideboard

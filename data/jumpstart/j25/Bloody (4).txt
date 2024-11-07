@@ -1,0 +1,19 @@
+// NAME: Bloody (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Falkenrath Marauders
+1 Ivora, Insatiable Heir
+1 Blood Feud
+1 Belligerent Guest
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Neonate's Rush
+1 Soul Sear
+1 Stolen Vitality
+1 Voldaren Ambusher
+1 Voldaren Duelist
+1 Voldaren Epicure
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Illusions
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Pol Jamaar, Illusionist
+1 Lord of the Unreal
+1 Phantasmal Shieldback
+1 Starlight Snare
+1 Murmuring Mystic
+1 Haunting Figment
+1 Krovikan Mist
+1 Oneirophage
+1 Opt
+1 Phantasmal Form
+1 Phantom Ninja
+1 Supreme Will
+1 Thriving Isle
+7 Island
+
+Sideboard

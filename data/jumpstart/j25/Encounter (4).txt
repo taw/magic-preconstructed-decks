@@ -1,0 +1,19 @@
+// NAME: Encounter (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Primeval Bounty
+1 Quirion Beastcaller
+1 Hungry Megasloth
+1 Mowu, Loyal Companion
+1 Aggressive Instinct
+1 Armorcraft Judge
+1 Big Play
+1 Deepwood Denizen
+1 Gnarlid Colony
+1 Jiang Yanggu, Wildcrafter
+1 Moldgraf Millipede
+1 Pridemalkin
+1 Thriving Grove
+7 Forest
+
+Sideboard

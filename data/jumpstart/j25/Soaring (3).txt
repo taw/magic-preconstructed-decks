@@ -1,0 +1,19 @@
+// NAME: Soaring (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Mu Yanling, Sky Dancer
+1 Starlight Snare
+1 Cynette, Jelly Drover
+1 Aerial Guide
+1 Cloudkin Seer
+1 Gust of Wind
+1 Malcator's Watcher
+1 Serpentine Ambush
+1 Thopter Mechanic
+1 Tide Skimmer
+1 Windstorm Drake
+1 Winged Words
+1 Thriving Isle
+7 Island
+
+Sideboard

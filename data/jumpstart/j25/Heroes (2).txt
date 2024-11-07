@@ -1,0 +1,19 @@
+// NAME: Heroes (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Brigone, Soldier of Meletis
+1 Ojutai Exemplars
+1 Faithful Pikemaster
+1 Chains of Custody
+1 Defiant Strike
+1 Elite Skirmisher
+1 Favored Hoplite
+1 Fencing Ace
+1 Gird for Battle
+1 Repel the Darkness
+1 Valorous Stance
+1 Wingsteed Rider
+1 Thriving Heath
+7 Plains
+
+Sideboard

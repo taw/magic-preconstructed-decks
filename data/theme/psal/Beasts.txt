@@ -3,16 +3,24 @@
 // DATE: 2005-08-01
 16 Forest
 8 Mountain
-2 Enormous Baloth
+1 Enormous Baloth [PSAL:K2]
+1 Enormous Baloth [PSAL:K50]
 1 Fangren Firstborn
 1 Fangren Hunter
-2 Fangren Pathcutter
-2 Flowstone Shambler
-4 Groffskithur
+1 Fangren Pathcutter [PSAL:K14]
+1 Fangren Pathcutter [PSAL:K15]
+1 Flowstone Shambler [PSAL:K53]
+1 Flowstone Shambler [PSAL:K7]
+1 Groffskithur [PSAL:K30]
+1 Groffskithur [PSAL:K41]
+1 Groffskithur [PSAL:K42]
+1 Groffskithur [PSAL:K55]
 1 Gruul Nodorog
 1 Hunted Wumpus
-2 Indrik Stomphowler
-2 Iron-Barb Hellion
+1 Indrik Stomphowler [PSAL:K38]
+1 Indrik Stomphowler [PSAL:K51]
+1 Iron-Barb Hellion [PSAL:K3]
+1 Iron-Barb Hellion [PSAL:K4]
 1 Karplusan Wolverine
 1 Molder Slug
 1 Rhox
@@ -22,10 +30,14 @@
 1 One Dozen Eyes
 1 Pulse of the Tangle
 1 Pyroclasm
-2 Rampant Growth
-2 Volcanic Hammer
-2 Fertile Ground
-2 Lure
+1 Rampant Growth [PSAL:K19]
+1 Rampant Growth [PSAL:K28]
+1 Volcanic Hammer [PSAL:K17]
+1 Volcanic Hammer [PSAL:K31]
+1 Fertile Ground [PSAL:K5]
+1 Fertile Ground [PSAL:K6]
+1 Lure [PSAL:K16]
+1 Lure [PSAL:K39]
 1 Serpent Skin
 
 Sideboard

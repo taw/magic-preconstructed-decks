@@ -1,0 +1,17 @@
+// NAME: Cats
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Savannah Lions
+1 Leonin Skyhunter
+1 Prideful Parent
+1 Felidar Savior
+1 Angelic Edict
+1 Jazal Goldmane
+1 Pacifism
+1 Ingenious Leonin
+1 Helpful Hunter
+1 Leonin Vanguard
+1 Moment of Triumph
+1 Elspeth's Smite
+1 Uncharted Haven
+7 Plains

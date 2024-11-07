@@ -1,0 +1,20 @@
+// NAME: Inventive (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Padeem, Consul of Innovation
+1 Thought Monitor
+1 Gilded Scuttler
+1 Ornithopter of Paradise
+1 Experimental Aviator
+1 Fading Hope
+1 Malfunction
+1 Thoughtcast
+1 Chief of the Foundry
+1 Myr Enforcer
+1 Patchwork Automaton
+1 Prophetic Prism
+1 Seat of the Synod
+1 Thriving Isle
+6 Island
+
+Sideboard

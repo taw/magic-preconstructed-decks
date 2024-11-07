@@ -1,0 +1,20 @@
+// NAME: Warriors (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Gornog, the Red Reaper
+1 Kargan Intimidator
+1 Ghitu Encampment
+1 Boldwyr Intimidator
+1 Daybreak Combatants
+1 Goma Fada Vanguard
+1 Infuriate
+1 Keldon Raider
+1 Pyrophobia
+1 Soul Sear
+1 Unstoppable Ogre
+1 Wrecking Crew
+1 Relic Axe
+1 Thriving Bluff
+6 Mountain
+
+Sideboard

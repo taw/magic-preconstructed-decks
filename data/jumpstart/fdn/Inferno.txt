@@ -1,0 +1,17 @@
+// NAME: Inferno
+// SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
+// DATE: 2024-11-15
+1 Terror of Mount Velus
+1 Fiery Annihilation
+1 Firespitter Whelp
+1 Carnelian Orb of Dragonkind
+1 Dragonlord's Servant
+1 Fire Elemental
+1 Kargan Dragonrider
+1 Rapacious Dragon
+1 Scorching Dragonfire
+1 Seize the Spoils
+1 Skyraker Giant
+1 Uncharted Haven
+8 Mountain
+

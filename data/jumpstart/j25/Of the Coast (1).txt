@@ -1,0 +1,20 @@
+// NAME: Of the Coast (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Plagon, Lord of the Beach
+1 Delightful Discovery
+1 Gilded Scuttler
+1 Starlight Snare
+1 Run Ashore
+1 Kapsho Kitefins
+1 Omen of the Sea
+1 Purple-Crystal Crab
+1 Shorecomber Crab
+1 Sigiled Starfish
+1 Tidepool Turtle
+1 Yarok's Wavecrasher
+1 Lonely Sandbar
+1 Thriving Isle
+6 Island
+
+Sideboard
