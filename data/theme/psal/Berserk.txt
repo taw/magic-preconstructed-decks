@@ -6,25 +6,38 @@
 1 Skarrg, the Rage Pits
 1 Burning-Tree Bloodscale
 1 Frenzied Goblin
-2 Ghor-Clan Savage
-3 Goblin Chariot
+1 Ghor-Clan Savage [PSAL:I29]
+1 Ghor-Clan Savage [PSAL:I55]
+1 Goblin Chariot [PSAL:I17]
+1 Goblin Chariot [PSAL:I18]
+1 Goblin Chariot [PSAL:I4]
 1 Goblin Fire Fiend
 1 Goblin Striker
-2 Gruul Scrapper
-1 Indrik Stomphowler
+1 Gruul Scrapper [PSAL:I42]
+1 Gruul Scrapper [PSAL:I43]
+1 Indrik Stomphowler [PSAL:I38]
 1 Kamahl, Pit Fighter
 1 Lovisa Coldeyes
-3 Primal Forcemage
-3 Raging Goblin
-2 Scab-Clan Mauler
+1 Primal Forcemage [PSAL:I39]
+1 Primal Forcemage [PSAL:I40]
+1 Primal Forcemage [PSAL:I52]
+1 Raging Goblin [PSAL:I41]
+1 Raging Goblin [PSAL:I6]
+1 Raging Goblin [PSAL:I7]
+1 Scab-Clan Mauler [PSAL:I31]
+1 Scab-Clan Mauler [PSAL:I56]
 1 Stalking Vengeance
 1 Thundermare
 1 Vulshok Sorcerer
-2 Balduvian Rage
-2 Shock
+1 Balduvian Rage [PSAL:I14]
+1 Balduvian Rage [PSAL:I15]
+1 Shock [PSAL:I53]
+1 Shock [PSAL:I54]
 1 Tears of Rage
-2 Feral Lightning
-2 Threaten
+1 Feral Lightning [PSAL:I2]
+1 Feral Lightning [PSAL:I50]
+1 Threaten [PSAL:I26]
+1 Threaten [PSAL:I27]
 1 Undying Rage
 1 Lightning Coils
 

@@ -1,0 +1,20 @@
+// NAME: Healers (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Speaker of the Heavens
+1 Hinterland Sanctifier
+1 Qala, Ajani's Pridemate
+1 Ajani's Pridemate
+1 Angel of Mercy
+1 Angel of Vitality
+1 Brightmare
+1 Desperate Lunge
+1 Divine Arrow
+1 Faith's Fetters
+1 Mesa Unicorn
+1 Revitalize
+1 Kabira Crossroads
+1 Thriving Heath
+6 Plains
+
+Sideboard

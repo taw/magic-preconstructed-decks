@@ -1,0 +1,19 @@
+// NAME: Stoked (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Frontline Heroism
+1 Hearts on Fire
+1 Scholar of Combustion
+1 Cleon, Merry Champion
+1 Kiln Fiend
+1 Arena Athlete
+1 Resistance Skywarden
+1 Roil Eruption
+1 Satyr Hoplite
+1 Titan's Strength
+1 Twinferno
+1 Uncaged Fury
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Stalwart (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Light of the Legion
+1 Mikaeus, the Lunarch
+1 Urdnan, Dromoka Warrior
+1 Banishing Light
+1 Battlefield Promotion
+1 Gavony Silversmith
+1 Gird for Battle
+1 Parhelion Patrol
+1 Sandsteppe Outcast
+1 Steadfast Sentry
+1 Sunhome Stalwart
+1 Swift Response
+1 Thriving Heath
+7 Plains
+
+Sideboard

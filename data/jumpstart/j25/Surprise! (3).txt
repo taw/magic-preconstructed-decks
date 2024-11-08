@@ -1,0 +1,19 @@
+// NAME: Surprise! (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Venser, Shaper Savant
+1 Starlight Snare
+1 Breaching Hippocamp
+1 Brineborn Cutthroat
+1 Naiad of Hidden Coves
+1 Opt
+1 Pestermite
+1 Spectral Sailor
+1 Starlit Mantle
+1 Stinging Lionfish
+1 Supreme Will
+1 Wind Strider
+1 Thriving Isle
+7 Island
+
+Sideboard

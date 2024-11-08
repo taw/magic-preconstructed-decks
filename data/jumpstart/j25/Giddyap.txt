@@ -1,0 +1,19 @@
+// NAME: Giddyap
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Thurid, Mare of Destiny
+1 Banishing Light
+1 Celestial Unicorn
+1 Steadfast Unicorn
+1 Tenacity
+1 Brightmare
+1 Moment of Triumph
+1 Outflank
+1 Ronom Unicorn
+1 Shield Mare
+1 Sungrace Pegasus
+1 Sunmane Pegasus
+1 Thriving Heath
+7 Plains
+
+Sideboard

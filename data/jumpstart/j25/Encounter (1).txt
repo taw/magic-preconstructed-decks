@@ -1,0 +1,19 @@
+// NAME: Encounter (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Forgotten Ancient
+1 Spined Tyrranax
+1 Mowu, Loyal Companion
+1 Biogenic Upgrade
+1 Aggressive Instinct
+1 Ainok Artillerist
+1 Deepwood Denizen
+1 Duskshell Crawler
+1 Greenwood Sentinel
+1 Jiang Yanggu, Wildcrafter
+1 Servant of the Scale
+1 Snakeskin Veil
+1 Thriving Grove
+7 Forest
+
+Sideboard

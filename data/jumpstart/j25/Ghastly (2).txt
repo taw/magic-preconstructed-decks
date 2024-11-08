@@ -1,0 +1,19 @@
+// NAME: Ghastly (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Bloodgift Demon
+1 Ozox, the Clattering King
+1 Blood Beckoning
+1 Defenestrate
+1 Doomed Dissenter
+1 Falkenrath Noble
+1 Gnawing Zombie
+1 Moan of the Unhallowed
+1 Morbid Opportunist
+1 Tragic Slip
+1 Typhoid Rats
+1 Village Rites
+1 Thriving Moor
+7 Swamp
+
+Sideboard

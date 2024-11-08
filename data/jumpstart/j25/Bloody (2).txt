@@ -1,0 +1,19 @@
+// NAME: Bloody (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Markov Blademaster
+1 Markov Enforcer
+1 Ivora, Insatiable Heir
+1 Blood Hypnotist
+1 Blood Petal Celebrant
+1 Falkenrath Celebrants
+1 Flame-Blessed Bolt
+1 Insolent Neonate
+1 Markov Retribution
+1 Soul Sear
+1 Stolen Vitality
+1 Voldaren Duelist
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

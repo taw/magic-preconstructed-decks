@@ -1,0 +1,19 @@
+// NAME: Vampires (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Crossway Troublemakers
+1 Sanctum Seeker
+1 Scourge of the Undercity
+1 Nazar, the Velvet Fang
+1 Alchemist's Gift
+1 Bleed Dry
+1 Blood Fountain
+1 Bloodthirsty Aerialist
+1 Creeping Bloodsucker
+1 Gluttonous Guest
+1 Urge to Feed
+1 Vampire of the Dire Moon
+1 Thriving Moor
+7 Swamp
+
+Sideboard

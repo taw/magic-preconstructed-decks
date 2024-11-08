@@ -1,0 +1,19 @@
+// NAME: Snakes
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Aphelia, Viper Whisperer
+1 Hooded Blightfang
+1 Scourge of the Undercity
+1 Killing Glare
+1 Serpent Assassin
+1 Coat with Venom
+1 Night's Whisper
+1 Pharika's Chosen
+1 Ukud Cobra
+1 Venomous Hierophant
+1 Vraska's Finisher
+1 Gorgon Flail
+1 Thriving Moor
+7 Swamp
+
+Sideboard

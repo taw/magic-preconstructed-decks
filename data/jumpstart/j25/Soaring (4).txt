@@ -1,0 +1,19 @@
+// NAME: Soaring (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Sprite Noble
+1 Stolen by the Fae
+1 Starlight Snare
+1 Cynette, Jelly Drover
+1 Faerie Seer
+1 Aerial Guide
+1 Air Elemental
+1 Majestic Metamorphosis
+1 Nightveil Sprite
+1 Opt
+1 Tide Skimmer
+1 Winged Words
+1 Thriving Isle
+7 Island
+
+Sideboard

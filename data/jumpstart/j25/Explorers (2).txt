@@ -1,0 +1,19 @@
+// NAME: Explorers (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Tireless Tracker
+1 Go Forth
+1 Razorgrass Invoker
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Explore
+1 Ainok Guide
+1 Byway Courier
+1 Clear Shot
+1 Primeval Herald
+1 Ulvenwald Mysteries
+1 Thriving Grove
+7 Forest
+
+Sideboard

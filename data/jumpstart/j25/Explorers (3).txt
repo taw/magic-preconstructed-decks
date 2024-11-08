@@ -1,0 +1,19 @@
+// NAME: Explorers (3)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Briarbridge Tracker
+1 Somberwald Beastmaster
+1 Go Forth
+1 Slimy Piper
+1 Shardless Outlander
+1 Braulios of Pheres Band
+1 Explore
+1 Ambassador Oak
+1 Byway Courier
+1 Clear Shot
+1 Ulvenwald Mysteries
+1 Woodland Champion
+1 Thriving Grove
+7 Forest
+
+Sideboard

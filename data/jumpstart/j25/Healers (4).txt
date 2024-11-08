@@ -1,0 +1,19 @@
+// NAME: Healers (4)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Felidar Sovereign
+1 Rhox Faithmender
+1 Hinterland Sanctifier
+1 Qala, Ajani's Pridemate
+1 Ajani's Pridemate
+1 Angel of Vitality
+1 Battlefield Promotion
+1 Brightmare
+1 Divine Arrow
+1 Faith's Fetters
+1 Mesa Unicorn
+1 Revitalize
+1 Thriving Heath
+7 Plains
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Nefarious
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Vilis, Broker of Blood
+1 Dark Confidant
+1 Scourge of the Undercity
+1 Howling Banshee
+1 Alchemist's Gift
+1 Arrogant Outlaw
+1 Audacious Thief
+1 Infernal Grasp
+1 Read the Bones
+1 Ulcerate
+1 Vampire Scrivener
+1 Metalspinner's Puzzleknot
+1 Thriving Moor
+7 Swamp
+
+Sideboard

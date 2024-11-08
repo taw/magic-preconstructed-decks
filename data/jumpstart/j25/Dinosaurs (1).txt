@@ -1,0 +1,19 @@
+// NAME: Dinosaurs (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
+// DATE: 2024-11-07
+1 Ghalta, Primal Hunger
+1 Saurian Symbiote
+1 Armored Kincaller
+1 Colossal Dreadmaw
+1 Commune with Dinosaurs
+1 Drover of the Mighty
+1 Drowsing Tyrannodon
+1 Giant Growth
+1 Rampant Growth
+1 Savage Stomp
+1 Thrashing Brontodon
+1 Thundering Spineback
+1 Thriving Grove
+7 Forest
+
+Sideboard
