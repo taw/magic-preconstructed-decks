@@ -36,74 +36,6 @@
 1 Syr Alin, the Lion's Claw
 1 Valorous Stance
 4 Hinterland Sanctifier
-1 Rite of Replication [foil]
-1 Confiscate [foil]
-1 Negate [foil]
-1 Refute [FDN:313]
-1 Arcanis the Omnipotent
-1 Dictate of Kruphix
-1 Finale of Revelation
-1 Harbinger of the Tides
-1 River's Rebuke
-1 Sphinx of the Final Word
-1 Tempest Djinn
-1 Voracious Greatshark
-1 Clinquant Skymage
-1 Faebloom Trick
-2 Mischievous Mystic
-2 Brineborn Cutthroat
-1 Essence Scatter
-1 Micromancer
-1 Mocking Sprite
-2 Spectral Sailor
-2 Think Twice
-1 Tolarian Terror
-1 Witness Protection
-1 Into the Roil
-4 Opt
-1 Chart a Course
-1 Dive Down
-1 Flashfreeze
-1 Fog Bank
-1 Gateway Sneak
-1 Mystical Teachings
-1 Shipwreck Dowser
-1 Unsummon
-1 Massacre Wurm [foil]
-1 Feed the Swarm [foil]
-1 Gatekeeper of Malakir [foil]
-1 Vengeful Bloodwitch [FDN:325]
-1 Demonic Pact
-1 Desecration Demon
-1 Dread Summons
-1 Kalastria Highborn
-1 Midnight Reaper
-1 Myojin of Night's Reach
-1 Nullpriest of Oblivion
-1 Wishclaw Talisman
-1 Arbiter of Woe
-2 Infestation Sage
-1 Midnight Snack
-1 Seeker's Folly
-3 Vengeful Bloodwitch
-1 Exsanguinate
-2 Hero's Downfall
-1 Marauding Blight-Priest
-1 Stromkirk Bloodthief
-1 Vampire Nighthawk
-1 Zombify
-1 Moment of Craving
-1 Suspicious Shambler
-1 Undying Malice
-1 Deathmark
-1 Driver of the Dead
-1 Duress
-1 Knight of Malice
-1 Pulse Tracker
-1 Sanguine Indulgence
-1 Tribute to Hunger
-1 Vampiric Rites
-1 Vile Entomber
 1 Gratuitous Violence [foil]
 1 Guttersnipe [foil]
 1 Impact Tremors [foil]
@@ -135,6 +67,35 @@
 1 Obliterating Bolt
 1 Ravenous Giant
 1 Viashino Pyromancer
+1 Boros Charm [foil]
+1 Unflinching Courage [foil]
+1 Aurelia, the Warleader
+1 Ayli, Eternal Pilgrim
+1 Drogskol Reaver
+1 Halana and Alena, Partners
+1 Immersturm Predator
+1 Maelstrom Pulse
+1 Ovika, Enigma Goliath
+1 Prime Speaker Zegana
+1 Wilt-Leaf Liege
+1 Dreadwing Scavenger
+1 Fiendish Panda
+1 Perforating Artist
+1 Wardens of the Cycle
+1 Empyrean Eagle
+1 Heroic Reinforcements
+1 Ruby, Daring Tracker
+1 Tatyova, Benthic Druid
+1 Cloudblazer
+1 Deadly Brew
+1 Dryad Militant
+1 Enigma Drake
+1 Garna, Bloodfist of Keld
+1 Mortify
+1 Savage Ventmaw
+1 Teach by Example
+1 Trygon Predator
+1 Consuming Aberration
 1 Gigantosaurus [FDN:718] [foil]
 2 Imperious Perfect [foil]
 1 Pelakka Wurm
@@ -230,35 +191,74 @@
 1 Arcane Signet [FDC:1] [foil]
 1 Sol Ring [FDC:2] [foil]
 1 Command Tower [FDC:3] [foil]
-1 Boros Charm [foil]
-1 Unflinching Courage [foil]
-1 Aurelia, the Warleader
-1 Ayli, Eternal Pilgrim
-1 Drogskol Reaver
-1 Halana and Alena, Partners
-1 Immersturm Predator
-1 Maelstrom Pulse
-1 Ovika, Enigma Goliath
-1 Prime Speaker Zegana
-1 Wilt-Leaf Liege
-1 Dreadwing Scavenger
-1 Fiendish Panda
-1 Perforating Artist
-1 Wardens of the Cycle
-1 Empyrean Eagle
-1 Heroic Reinforcements
-1 Ruby, Daring Tracker
-1 Tatyova, Benthic Druid
-1 Cloudblazer
-1 Deadly Brew
-1 Dryad Militant
-1 Enigma Drake
-1 Garna, Bloodfist of Keld
-1 Mortify
-1 Savage Ventmaw
-1 Teach by Example
-1 Trygon Predator
-1 Consuming Aberration
+1 Rite of Replication [foil]
+1 Confiscate [foil]
+1 Negate [foil]
+1 Refute [FDN:313]
+1 Arcanis the Omnipotent
+1 Dictate of Kruphix
+1 Finale of Revelation
+1 Harbinger of the Tides
+1 River's Rebuke
+1 Sphinx of the Final Word
+1 Tempest Djinn
+1 Voracious Greatshark
+1 Clinquant Skymage
+1 Faebloom Trick
+2 Mischievous Mystic
+2 Brineborn Cutthroat
+1 Essence Scatter
+1 Micromancer
+1 Mocking Sprite
+2 Spectral Sailor
+2 Think Twice
+1 Tolarian Terror
+1 Witness Protection
+1 Into the Roil
+4 Opt
+1 Chart a Course
+1 Dive Down
+1 Flashfreeze
+1 Fog Bank
+1 Gateway Sneak
+1 Mystical Teachings
+1 Shipwreck Dowser
+1 Unsummon
+1 Massacre Wurm [foil]
+1 Feed the Swarm [foil]
+1 Gatekeeper of Malakir [foil]
+1 Vengeful Bloodwitch [FDN:325]
+3 Vengeful Bloodwitch
+1 Demonic Pact
+1 Desecration Demon
+1 Dread Summons
+1 Kalastria Highborn
+1 Midnight Reaper
+1 Myojin of Night's Reach
+1 Nullpriest of Oblivion
+1 Wishclaw Talisman
+1 Arbiter of Woe
+2 Infestation Sage
+1 Midnight Snack
+1 Seeker's Folly
+1 Exsanguinate
+2 Hero's Downfall
+1 Marauding Blight-Priest
+1 Stromkirk Bloodthief
+1 Vampire Nighthawk
+1 Zombify
+1 Moment of Craving
+1 Suspicious Shambler
+1 Undying Malice
+1 Deathmark
+1 Driver of the Dead
+1 Duress
+1 Knight of Malice
+1 Pulse Tracker
+1 Sanguine Indulgence
+1 Tribute to Hunger
+1 Vampiric Rites
+1 Vile Entomber
 16 Plains
 1 Plains [FDN:282]
 1 Plains [FDN:283]
