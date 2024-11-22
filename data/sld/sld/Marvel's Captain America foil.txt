@@ -6,3 +6,4 @@
 1 [SLD:1728] Flawless Maneuver [foil]
 1 [SLD:1729] In the Trenches [foil]
 1 [SLD:1730] Shield of War and Peace [foil]
+1 [SLD:863] Masterwork of Ingenuity [foil]

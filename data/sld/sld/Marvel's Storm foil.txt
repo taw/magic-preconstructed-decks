@@ -6,3 +6,4 @@
 1 [SLD:1744] Storm's Will [foil]
 1 [SLD:1745] Ice Storm [foil]
 1 [SLD:1746] Ororo Borealis [foil]
+1 [SLD:866] Regrowth [foil]
