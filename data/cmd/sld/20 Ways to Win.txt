@@ -101,6 +101,8 @@ COMMANDER: 1 Go-Shintai of Life's Origin [SLD:1825] [foil]
 1 Twenty-Toed Toad [PLST:BLB-16]
 1 Wooded Bastion [PLST:2XM-332]
 1 Yahenni, Undying Partisan [PLST:AER-74]
+
+Sideboard
 2 Shrine [SLD:1835] [token] [foil]
 
 Display Commander
