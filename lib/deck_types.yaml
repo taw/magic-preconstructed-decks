@@ -384,3 +384,8 @@ welcome:
   name: "Welcome Deck"
   sections:
     Main Deck: [22, 30]
+redemption:
+  category: "box"
+  format: null
+  name: "MTGO Redemption"
+  # Any size
