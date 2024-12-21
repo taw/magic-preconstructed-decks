@@ -1,5 +1,4 @@
 // NAME: Bloomburrow Redemption
-// SOURCE: https://web.archive.org/web/20241218135430/https://www.mtgo.com/en/mtgo/redemption
 // DATE: 2024-08-02
 1 Agate Assault [BLB:122] [foil]
 1 Agate-Blade Assassin [BLB:82] [foil]

@@ -1,5 +1,4 @@
 // NAME: Outlaws of Thunder Junction Redemption
-// SOURCE: https://web.archive.org/web/20241218135430/https://www.mtgo.com/en/mtgo/redemption
 // DATE: 2024-04-19
 1 Abraded Bluffs [OTJ:251] [foil]
 1 Akul the Unrepentant [OTJ:189] [foil]
