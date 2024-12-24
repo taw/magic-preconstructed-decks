@@ -205,7 +205,7 @@
 1 Rattleblaze Scarecrow [SHM:259]
 1 Raven's Run Dragoon [SHM:235]
 1 Reaper King [SHM:260]
-1 Reflecting Pool [SHM:278★]
+1 Reflecting Pool [SHM:278]
 1 Reknit [SHM:236]
 1 Repel Intruders [SHM:147]
 1 Resplendent Mentor [SHM:19]
