@@ -1,5 +1,5 @@
 // NAME: Prismat
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0992.dck
+// SOURCE: 0992.DCK from game files
 // DATE: 1997-04-01
 1 Black Lotus
 2 Detonate

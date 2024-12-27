@@ -1,5 +1,5 @@
 // NAME: Fungus Master
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0094.dck
+// SOURCE: 0094.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Power Sink +2 Kormus Bell
 // DISPLAY: Against Blue: No changes

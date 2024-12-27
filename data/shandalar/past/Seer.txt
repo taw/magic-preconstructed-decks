@@ -1,5 +1,5 @@
 // NAME: Seer
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0069.dck
+// SOURCE: 0069.DCK from game files
 // DATE: 1997-04-01
 2 Counterspell
 4 Crystal Rod

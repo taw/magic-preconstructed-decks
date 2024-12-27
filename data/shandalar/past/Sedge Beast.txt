@@ -1,5 +1,5 @@
 // NAME: Sedge Beast
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0219.dck
+// SOURCE: 0219.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Weakness +2 Hurr Jackal
 // DISPLAY: Against Blue: No changes

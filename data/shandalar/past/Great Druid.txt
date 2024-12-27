@@ -1,5 +1,5 @@
 // NAME: Great Druid
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0095.dck
+// SOURCE: 0095.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Desert Twister +2 Lifeforce
 // DISPLAY: Against Blue: -2 Desert Twister +2 Tsunami

@@ -1,5 +1,5 @@
 // NAME: Cleric
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0211.dck
+// SOURCE: 0211.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Disenchant +1 Karma
 // DISPLAY: Against Blue: No changes

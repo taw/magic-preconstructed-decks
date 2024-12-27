@@ -1,5 +1,5 @@
 // NAME: Queltosh
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0442.dck
+// SOURCE: 0442.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Angry Mob, +1 Karma, +1 Northern Paladin
 // DISPLAY: Against Blue: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Magnetic Mountain, +1 Red Elemental Blast, +1 Crystal Rod

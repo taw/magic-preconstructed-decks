@@ -1,5 +1,5 @@
 // NAME: Centaur Warchief
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0897.dck
+// SOURCE: 0897.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Swords to Plowshares +2 Kormus Bell
 // DISPLAY: Against Blue: -2 Swords to Plowshares +2 Magnetic Mountain

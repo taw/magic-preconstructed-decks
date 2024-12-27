@@ -1,5 +1,5 @@
 // NAME: Paladin
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0175.dck
+// SOURCE: 0175.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Magical Hack, -2 Sleight of Mind +1 Swords to Plowshares, +2 Divine Transformation
 // DISPLAY: Against Blue: No changes

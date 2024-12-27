@@ -1,5 +1,5 @@
 // NAME: Sorcerer
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0192.dck
+// SOURCE: 0192.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: No changes

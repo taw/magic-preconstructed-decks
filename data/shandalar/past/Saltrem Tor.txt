@@ -1,5 +1,5 @@
 // NAME: Saltrem Tor
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0456.dck
+// SOURCE: 0456.DCK from game files
 // DATE: 1997-04-01
 3 Birds of Paradise
 2 Control Magic

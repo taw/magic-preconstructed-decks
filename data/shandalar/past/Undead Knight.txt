@@ -1,5 +1,5 @@
 // NAME: Undead Knight
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0016.dck
+// SOURCE: 0016.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -3 Terror +3 Bog Wraith
 // DISPLAY: Against Blue: No changes

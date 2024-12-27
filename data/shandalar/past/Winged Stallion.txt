@@ -1,5 +1,5 @@
 // NAME: Winged Stallion
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0127.dck
+// SOURCE: 0127.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Conversion +1 Counterspell
 // DISPLAY: Against Blue: -1 Conversion +1 Counterspell

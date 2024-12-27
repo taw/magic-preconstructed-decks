@@ -1,5 +1,5 @@
 // NAME: Crusader
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0283.dck
+// SOURCE: 0283.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Swords to Plowshares +2 Black Ward
 // DISPLAY: Against Blue: -2 Swords to Plowshares +2 Blue Ward
@@ -13,10 +13,10 @@
 2 Dancing Scimitar
 2 Disenchant
 4 Eye for an Eye
-4 Knights of the Rainbow Vale
 2 Morale
 4 Pikemen
 22 Plains
+4 Rainbow Knights
 4 Swords to Plowshares
 4 White Knight
 

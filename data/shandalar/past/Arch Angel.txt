@@ -1,5 +1,5 @@
 // NAME: Arch Angel
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0221.dck
+// SOURCE: 0221.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: No changes

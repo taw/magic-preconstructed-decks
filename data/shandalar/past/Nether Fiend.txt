@@ -1,5 +1,5 @@
 // NAME: Nether Fiend
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0151.dck
+// SOURCE: 0151.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -3 Terror +3 Bog Imp
 // DISPLAY: Against Blue: No changes

@@ -1,5 +1,5 @@
 // NAME: Elementalist
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0399.dck
+// SOURCE: 0399.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: -2 Drain Power, -1 Energy Flux +3 Red Elemental Blast

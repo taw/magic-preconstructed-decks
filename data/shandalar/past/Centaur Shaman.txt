@@ -1,5 +1,5 @@
 // NAME: Centaur Shaman
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0179.dck
+// SOURCE: 0179.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Carrion Ants +2 Lifeforce
 // DISPLAY: Against Blue: No changes

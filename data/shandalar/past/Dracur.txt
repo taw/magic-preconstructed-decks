@@ -1,5 +1,5 @@
 // NAME: Dracur
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0993.dck
+// SOURCE: 0993.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Earthquake +1 Tranquility
 // DISPLAY: Against Blue: -2 Earthquake +1 Tsunami, +1 Tranquility

@@ -1,5 +1,5 @@
 // NAME: Azaar - Lichlord
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0141.dck
+// SOURCE: 0141.DCK from game files
 // DATE: 1997-04-01
 1 Black Lotus
 1 Black Vise

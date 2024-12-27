@@ -1,5 +1,5 @@
 // NAME: Whim
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0991.dck
+// SOURCE: 0991.DCK from game files
 // DATE: 1997-04-01
 1 Alabaster Potion
 1 Black Lotus

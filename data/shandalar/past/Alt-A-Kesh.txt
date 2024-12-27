@@ -1,5 +1,5 @@
 // NAME: Alt-A-Kesh
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0426.dck
+// SOURCE: 0426.DCK from game files
 // DATE: 1997-04-01
 1 Ancestral Recall
 2 Birds of Paradise

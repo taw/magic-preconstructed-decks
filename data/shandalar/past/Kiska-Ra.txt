@@ -1,5 +1,5 @@
 // NAME: Kiska-Ra
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0994.dck
+// SOURCE: 0994.DCK from game files
 // DATE: 1997-04-01
 1 Ancestral Recall
 2 Birds of Paradise

@@ -1,5 +1,5 @@
 // NAME: High Priest
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0203.dck
+// SOURCE: 0203.DCK from game files
 // DATE: 1997-04-01
 4 Armageddon
 1 Balance

@@ -1,5 +1,5 @@
 // NAME: Kzzy'n - The Dragon Lord
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0135.dck
+// SOURCE: 0135.DCK from game files
 // DATE: 1997-04-01
 4 Birds of Paradise
 2 Celestial Prism

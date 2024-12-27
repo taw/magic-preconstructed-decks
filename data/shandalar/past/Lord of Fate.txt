@@ -1,5 +1,5 @@
 // NAME: Lord of Fate
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0010.dck
+// SOURCE: 0010.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -3 Ornithopter +3 Brass Man
 // DISPLAY: Against Blue: No changes

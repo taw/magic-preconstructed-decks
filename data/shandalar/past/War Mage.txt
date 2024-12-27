@@ -1,5 +1,5 @@
 // NAME: War Mage
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0229.dck
+// SOURCE: 0229.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: -1 Detonate +1 Red Elemental Blast

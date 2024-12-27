@@ -1,5 +1,5 @@
 // NAME: Sainted One
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0021.dck
+// SOURCE: 0021.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -2 Swords to Plowshares, -1 Disenchant +1 Karma, +1 Circle of Protection: Black, +1 Angry Mob
 // DISPLAY: Against Blue: -2 Swords to Plowshares +2 Circle of Protection: Blue
@@ -15,11 +15,11 @@
 4 Circle of Protection: Artifacts
 3 Dingus Egg
 1 Disenchant
-3 Knights of the Rainbow Vale
 1 Mishra's Workshop
 1 Mox Pearl
 2 Personal Incarnation
 22 Plains
+3 Rainbow Knights
 2 Serra Angel
 1 Sol Ring
 2 Swords to Plowshares

@@ -1,5 +1,5 @@
 // NAME: Astral Visionary
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0245.dck
+// SOURCE: 0245.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: No changes

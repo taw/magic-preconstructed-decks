@@ -1,5 +1,5 @@
 // NAME: Ape Lord
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0437.dck
+// SOURCE: 0437.DCK from game files
 // DATE: 1997-04-01
 4 Birds of Paradise
 2 Craw Wurm

@@ -1,5 +1,5 @@
 // NAME: Forest Dragon
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0049.dck
+// SOURCE: 0049.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Crumble +1 Wall of Brambles
 // DISPLAY: Against Blue: -1 Wall of Brambles, -1 Crumble +2 Giant Spider

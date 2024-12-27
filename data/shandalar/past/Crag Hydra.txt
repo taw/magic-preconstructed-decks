@@ -1,5 +1,5 @@
 // NAME: Crag Hydra
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0207.dck
+// SOURCE: 0207.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: No changes
 // DISPLAY: Against Blue: -1 The Hive +1 Red Elemental Blast

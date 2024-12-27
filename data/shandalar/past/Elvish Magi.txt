@@ -1,5 +1,5 @@
 // NAME: Elvish Magi
-// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0076.dck
+// SOURCE: 0076.DCK from game files
 // DATE: 1997-04-01
 // DISPLAY: Against Black: -1 Untamed Wilds +1 Whirling Dervish
 // DISPLAY: Against Blue: -1 Untamed Wilds +1 Web
