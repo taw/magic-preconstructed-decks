@@ -1,0 +1,26 @@
+// NAME: Sea Drake
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0218.dck
+// DATE: 1997-04-01
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -1 Counterspell +1 Lifetap
+// DISPLAY: Against Red: -1 Counterspell +1 Blue Elemental Blast
+// DISPLAY: Against White: No changes
+3 Counterspell
+4 Creature Bond
+4 Giant Tortoise
+22 Island
+2 Island Fish Jasconius
+4 Jump
+1 Leviathan
+2 Mana Vault
+4 Phantasmal Terrain
+4 Sea Serpent
+4 Segovian Leviathan
+4 Siren's Call
+2 Water Elemental
+
+Sideboard
+1 Blue Elemental Blast
+1 Counterspell
+1 Lifetap

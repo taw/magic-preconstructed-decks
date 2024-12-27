@@ -1,17 +1,17 @@
 // NAME: High Priest
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0203.dck
 // DATE: 1997-04-01
-22 Plains
-4 Mesa Pegasus
-4 Savannah Lions
-4 White Knight
-4 Tundra Wolves
-2 Holy Strength
 4 Armageddon
 1 Balance
-4 Healing Salve
-2 Disenchant
-3 Righteousness
 3 Dingus Egg
+2 Disenchant
 2 Fellwar Stone
+4 Healing Salve
+2 Holy Strength
+4 Mesa Pegasus
+22 Plains
+3 Righteousness
+4 Savannah Lions
+4 Tundra Wolves
+4 White Knight
 2 White Mana Battery

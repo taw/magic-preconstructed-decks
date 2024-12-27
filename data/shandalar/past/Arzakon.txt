@@ -1,52 +1,78 @@
 // NAME: Arzakon
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0999.dck
 // DATE: 1997-04-01
-6 Plains
-6 Island
-6 Swamp
-6 Mountain
-6 Forest
-4 Gem Bazaar
-4 Mishra's Factory [ATQ:80a]
-2 Mesa Pegasus
-2 Pikemen
-2 Samite Healer
-2 Savannah Lions
+1 Aladdin's Ring
+1 Ancestral Recall
+2 Animate Dead
+1 Berserk
+1 Black Mana Battery
+2 Blood Lust
+1 Blue Mana Battery
+1 Braingeyser
+2 Brass Man
+1 Circle of Protection: Artifacts
 1 Circle of Protection: Black
 1 Circle of Protection: Blue
 1 Circle of Protection: Green
 1 Circle of Protection: Red
 1 Circle of Protection: White
-2 Spirit Link
-2 Zephyr Falcon
-1 Time Walk
-1 Timetwister
-1 Braingeyser
-2 Power Sink
-1 Ancestral Recall
-2 Siren's Call
+1 Clockwork Avian
+1 Clockwork Beast
+1 Colossus of Sardia
+1 Dancing Scimitar
+2 Desert Twister
+1 Diabolic Machine
+2 Disintegrate
+2 Elvish Archers
 2 Erg Raiders
-2 Will-o'-the-Wisp
-2 Animate Dead
-2 Paralyze
-1 Mind Twist
-2 Raise Dead
+4 Fellwar Stone
+2 Fog
+6 Forest
+4 Gem Bazaar
+2 Giant Growth
+2 Giant Strength
+1 Grapeshot Catapult
+1 Green Mana Battery
+2 Grizzly Bears
 2 Howl from Beyond
 2 Hurr Jackal
-2 Wall of Dust
-2 Giant Strength
 2 Immolation
-1 Wheel of Fortune
-2 Disintegrate
-2 Pyrotechnics
-2 Blood Lust
+6 Island
 2 Lightning Bolt
-2 Elvish Archers
-2 Grizzly Bears
-1 Regrowth
-2 Desert Twister
-1 Berserk
-2 Fog
-2 Giant Growth
+2 Mesa Pegasus
+1 Mind Twist
+4 Mishra's Factory
+1 Mishra's Workshop
+6 Mountain
 1 Mox Emerald
 1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Obsianus Golem
+2 Paralyze
+2 Pikemen
+6 Plains
+2 Power Sink
+2 Pyrotechnics
+2 Raise Dead
+1 Red Mana Battery
+1 Regrowth
+2 Samite Healer
+2 Savannah Lions
+1 Shapeshifter
+2 Siren's Call
+1 Sol Ring
+2 Spirit Link
+6 Swamp
+1 Tetravus
+2 The Hive
+1 Time Walk
+1 Timetwister
+1 Triskelion
+1 Urza's Avenger
+2 Wall of Dust
+1 Wheel of Fortune
+1 White Mana Battery
+2 Will-O'-The-Wisp
+2 Zephyr Falcon

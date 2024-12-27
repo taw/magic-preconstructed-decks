@@ -1,15 +1,28 @@
 // NAME: Goblin Warlord
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0102.dck
 // DATE: 1997-04-01
-21 Mountain
-4 Goblin King
-4 Goblin Balloon Brigade
-4 Mons's Goblin Raiders
-4 Keldon Warlord
-4 Goblin Polka Band
-4 Orcish Oriflamme
-2 Immolation
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -1 Manabarbs +1 Red Elemental Blast
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -1 Manabarbs, -1 Shatter +2 Goblin Rock Sled
+// DISPLAY: Against White: -1 Shatter +1 Sunglasses of Urza
 4 Giant Strength
-3 Manabarbs
+4 Goblin Balloon Brigade
+4 Goblin King
+4 Goblin Polka Band
 4 Helm of Chatzuk
-2 Tawnos's Weaponry
+2 Immolation
+4 Keldon Warlord
+2 Manabarbs
+4 Mons Goblin Raiders
+21 Mountain
+4 Orcish Oriflamme
+1 Shatter
+2 Tawnos' Weaponry
+
+Sideboard
+2 Goblin Rock Sled
+1 Manabarbs
+1 Red Elemental Blast
+1 Shatter
+1 Sunglasses of Urza

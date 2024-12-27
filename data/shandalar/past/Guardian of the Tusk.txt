@@ -1,0 +1,18 @@
+// NAME: Guardian of the Tusk
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0414.dck
+// DATE: 1997-04-01
+1 Berserk
+4 Birds of Paradise
+2 Colossus of Sardia
+2 Desert Twister
+2 Divine Transformation
+2 Elder Land Wurm
+2 Force of Nature
+12 Forest
+4 Giant Growth
+4 Holy Strength
+12 Plains
+3 Savannah Lions
+3 Timber Wolves
+3 Tundra Wolves
+4 War Mammoth

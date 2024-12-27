@@ -1,0 +1,64 @@
+// NAME: Queltosh
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0442.dck
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Angry Mob, +1 Karma, +1 Northern Paladin
+// DISPLAY: Against Blue: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Magnetic Mountain, +1 Red Elemental Blast, +1 Crystal Rod
+// DISPLAY: Against Green: -1 Divine Transformation, -1 Pearled Unicorn +1 Lifetap, +1 Wooden Sphere
+// DISPLAY: Against Red: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Blue Elemental Blast, +1 Burrowing, +1 Circle of Protection Red
+// DISPLAY: Against White: -1 Reverse Damage, -1 Divine Transformation, -1 Pearled Unicorn +1 Ivory Cup, +1 Flashfires, +1 Disenchant
+1 Ancestral Recall
+1 Black Vise
+1 Brass Man
+1 Candelabra of Tawnos
+1 Clockwork Avian
+1 Control Magic
+1 Counterspell
+1 Disenchant
+1 Divine Transformation
+1 Eye for an Eye
+1 Feedback
+1 Fire Elemental
+1 Fireball
+1 Giant Tortoise
+8 Island
+1 Land Tax
+1 Lightning Bolt
+1 Mahamoti Djinn
+1 Mesa Pegasus
+8 Mountain
+1 Pearled Unicorn
+1 Phantasmal Forces
+1 Phantom Monster
+1 Pikemen
+8 Plains
+1 Power Sink
+1 Prodigal Sorcerer
+1 Reverse Damage
+1 Serra Angel
+1 Spell Blast
+1 Spirit Link
+1 The Hive
+1 Time Elemental
+1 Unstable Mutation
+1 Urza's Avenger
+1 Wall of Air
+1 Wall of Dust
+1 White Knight
+1 Zephyr Falcon
+
+Sideboard
+1 Angry Mob
+1 Blue Elemental Blast
+1 Burrowing
+1 Circle of Protection Red
+1 Crystal Rod
+1 Disenchant
+1 Flashfires
+1 Ivory Cup
+1 Karma
+1 Lifetap
+1 Magnetic Mountain
+1 Northern Paladin
+1 Red Elemental Blast
+1 Reverse Damage
+1 Wooden Sphere

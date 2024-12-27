@@ -1,0 +1,27 @@
+// NAME: Whim
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0991.dck
+// DATE: 1997-04-01
+1 Alabaster Potion
+1 Black Lotus
+2 Carrion Ants
+2 Colossus of Sardia
+2 Drain Power
+7 Island
+2 Kismet
+1 Kormus Bell
+2 Meekstone
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+6 Plains
+4 Power Sink
+4 Psychic Venom
+4 Royal Assassin
+2 Serra Angel
+2 Shapeshifter
+2 Siren's Call
+6 Swamp
+2 Twiddle
+1 Whimsy
+2 Word of Binding
+4 Yotian Soldiers

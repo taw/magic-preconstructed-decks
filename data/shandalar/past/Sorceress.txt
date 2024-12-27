@@ -1,15 +1,27 @@
 // NAME: Sorceress
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0074.dck
 // DATE: 1997-04-01
-23 Mountain
-4 Hurr Jackal
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -1 The Brute +1 Red Elemental Blast
+// DISPLAY: Against Green: -1 Shatter +1 The Brute
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 The Brute +1 Sunglasses of Urza
+3 Ball Lightning
 4 Bird Maiden
-4 Dwarven Warriors
-2 Hurloon Minotaur
-2 Dragon Whelp
-4 Ball Lightning
-4 Firebreathing
-3 The Brute
 4 Blood Lust
+2 Dragon Whelp
+4 Dwarven Warriors
+4 Firebreathing
+2 Hurloon Minotaur
+4 Hurr Jackal
 3 Iron Star
-3 Meekstone
+2 Meekstone
+23 Mountain
+2 Shatter
+3 The Brute
+
+Sideboard
+1 Red Elemental Blast
+1 Shatter
+1 Sunglasses of Urza
+2 The Brute

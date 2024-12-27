@@ -1,17 +1,29 @@
 // NAME: Paladin
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0175.dck
 // DATE: 1997-04-01
-18 Plains
-6 Island
-4 Northern Paladin
-4 White Knight
-3 Benalish Hero
+// DISPLAY: Against Black: -1 Magical Hack, -2 Sleight of Mind +1 Swords to Plowshares, +2 Divine Transformation
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
 4 Angry Mob
-4 Holy Strength
-2 Red Ward
-3 Karma
-2 Circle of Protection: Black
+2 Benalish Hero
+2 Circle of Protection Black
 1 Disenchant
-2 Swords to Plowshares
-3 Sleight of Mind
+4 Holy Strength
+6 Island
+3 Karma
 3 Magical Hack
+4 Northern Paladin
+18 Plains
+2 Red Ward
+2 Segovian Leviathan
+4 Sleight of Mind
+1 Swords to Plowshares
+4 White Knight
+
+Sideboard
+2 Divine Transformation
+1 Magical Hack
+2 Sleight of Mind
+1 Swords to Plowshares

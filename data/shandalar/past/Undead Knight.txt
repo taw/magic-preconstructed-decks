@@ -1,20 +1,32 @@
 // NAME: Undead Knight
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0016.dck
 // DATE: 1997-04-01
-22 Swamp
+// DISPLAY: Against Black: -3 Terror +3 Bog Wraith
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -3 Terror +3 Animate Dead
+// DISPLAY: Against Red: -3 Terror +3 Simulacrum
+// DISPLAY: Against White: -3 Terror +2 Brass Man, +1 Obsianus Golem
+4 Bad Moon
 4 Black Knight
 2 Drudge Skeletons
-2 Scathe Zombies
-2 Frozen Shade
-2 Lost Soul
-3 El-Hajjâj
-2 Nightmare
-3 Unholy Strength
-4 Bad Moon
+3 El-Hajjaj
 2 Fear
-2 Spirit Shackle
-3 Howl from Beyond
-2 Marsh Gas
-2 Terror
 2 Flying Carpet
+2 Frozen Shade
+3 Howl from Beyond
+2 Lost Soul
+2 Marsh Gas
+2 Nightmare
+2 Scathe Zombies
+2 Spirit Shackle
+22 Swamp
+3 Terror
+3 Unholy Strength
+
+Sideboard
+3 Animate Dead
+3 Bog Wraith
+2 Brass Man
 1 Obsianus Golem
+3 Simulacrum
+3 Terror

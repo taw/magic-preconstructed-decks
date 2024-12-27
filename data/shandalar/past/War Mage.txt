@@ -1,16 +1,25 @@
 // NAME: War Mage
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0229.dck
 // DATE: 1997-04-01
-23 Mountain
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -1 Detonate +1 Red Elemental Blast
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 Detonate +1 Celestial Prism
+2 Aladdin's Ring
 4 Ball Lightning
-2 Wall of Stone
-2 Smoke
-4 Mana Flare
-4 Fireball
-4 Earthquake
+3 Detonate
 4 Disintegrate
-1 Detonate
+4 Earthquake
+2 Fellwar Stone
+4 Fireball
 4 Lightning Bolt
 4 Mana Vault
-2 Fellwar Stone
-2 Aladdin's Ring
+4 Manaflare
+23 Mountain
+2 Smoke
+
+Sideboard
+1 Celestial Prism
+1 Detonate
+1 Red Elemental Blast

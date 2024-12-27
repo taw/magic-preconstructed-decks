@@ -1,15 +1,26 @@
 // NAME: Elvish Magi
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0076.dck
 // DATE: 1997-04-01
-22 Forest
-4 Elvish Archers
+// DISPLAY: Against Black: -1 Untamed Wilds +1 Whirling Dervish
+// DISPLAY: Against Blue: -1 Untamed Wilds +1 Web
+// DISPLAY: Against Green: -1 Untamed Wilds +1 Wall of Brambles
+// DISPLAY: Against Red: -1 Untamed Wilds +1 Living Artifact
+// DISPLAY: Against White: -1 Untamed Wilds +1 Tranquility
 4 Elven Riders
+4 Elvish Archers
+22 Forest
+4 Giant Spider
+4 Hurricane
+2 Jayemdae Tome
 4 Llanowar Elves
+4 Stream of Life
+4 Untamed Wilds
 4 War Mammoth
 4 Winter Blast
-4 Hurricane
-4 Stream of Life
-4 Giant Spider
-2 Tranquility
-2 Jayemdae Tome
-2 Green Mana Battery
+
+Sideboard
+1 Living Artifact
+1 Tranquility
+1 Wall of Brambles
+1 Web
+1 Whirling Dervish

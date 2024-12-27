@@ -1,0 +1,36 @@
+// NAME: Mandurang
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0990.dck
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -3 Cursed Land +3 Bog Wraith
+// DISPLAY: Against Blue: -3 Cursed Land +3 Red Elemental Blast
+// DISPLAY: Against Green: -3 Cursed Land +2 Deathgrip, +1 Lifetap
+// DISPLAY: Against Red: -3 Cursed Land +3 Blue Elemental Blast
+// DISPLAY: Against White: -3 Cursed Land +1 Gloom, +2 Flashfires
+1 Blood Lust
+1 Braingeyser
+2 Carrion Ants
+2 Celestial Prism
+3 Cursed Land
+4 Dancing Scimitar
+4 Giant Strength
+6 Island
+2 Jayemdae Tome
+6 Mountain
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+4 Ornithopter
+6 Swamp
+4 Unholy Strength
+4 Unstable Mutation
+4 Will-O-The-Wisp
+4 Zephyr Falcon
+
+Sideboard
+3 Blue Elemental Blast
+3 Bog Wraith
+2 Deathgrip
+2 Flashfires
+1 Gloom
+1 Lifetap
+3 Red Elemental Blast

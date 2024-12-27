@@ -1,0 +1,28 @@
+// NAME: Fungus Master
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0094.dck
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -2 Power Sink +2 Kormus Bell
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -2 Power Sink +2 Living Lands
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+2 Carnivorous Plant
+11 Forest
+4 Fungusaur
+3 Ironroot Treefolk
+11 Island
+2 Oasis
+3 Power Sink
+4 Prodigal Sorcerer
+4 Regeneration
+4 Rod of Ruin
+4 Unsummon
+2 Untamed Wilds
+2 Wall of Brambles
+2 Wall of Wood
+2 Wild Growth
+
+Sideboard
+2 Kormus Bell
+2 Living Lands
+2 Power Sink

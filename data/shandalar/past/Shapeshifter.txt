@@ -1,18 +1,18 @@
 // NAME: Shapeshifter
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0263.dck
 // DATE: 1997-04-01
-20 Island
-4 Mishra's Factory [ATQ:80a]
-1 Mishra's Workshop
 3 Apprentice Wizard
-2 Power Struggle
 2 Backfire
+2 Fellwar Stone
+4 Hurkyl's Recall
+20 Island
+1 Ivory Tower
+3 Mana Vault
+4 Mishra's Factory
+2 Power Struggle
+4 Primal Clay
+3 Shapeshifter
+3 Triskelion
 4 Unstable Mutation
 4 Unsummon
-4 Hurkyl's Recall
-3 Shapeshifter
-4 Primal Clay
-3 Mana Vault
-2 Fellwar Stone
-1 Ivory Tower
 3 Urza's Avenger

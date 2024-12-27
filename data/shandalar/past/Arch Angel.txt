@@ -1,15 +1,24 @@
 // NAME: Arch Angel
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0221.dck
 // DATE: 1997-04-01
-22 Plains
-4 Mishra's Factory [ATQ:80a]
-4 Serra Angel
-4 Osai Vultures
-2 Mesa Pegasus
-4 Wrath of God
-2 Swords to Plowshares
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -3 Swords to Plowshares +3 Reverse Damage
+// DISPLAY: Against White: -3 Swords to Plowshares +3 Disenchant
 2 Mana Vault
-4 Soul Net
-4 The Hive
+4 Mishra's Factory
 4 Onulet
+4 Osai Vultures
+22 Plains
+4 Serra Angel
+4 Soul Net
+4 Swords to Plowshares
 4 Tetravus
+4 The Hive
+4 Wrath of God
+
+Sideboard
+3 Disenchant
+3 Reverse Damage
+3 Swords to Plowshares

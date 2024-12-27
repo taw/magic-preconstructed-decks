@@ -1,16 +1,16 @@
 // NAME: Seer
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0069.dck
 // DATE: 1997-04-01
-22 Island
-4 Zephyr Falcon
-4 Ghost Ship
-2 Time Elemental
-4 Unstable Mutation
-3 Drain Power
 2 Counterspell
-4 Unsummon
-2 Hurkyl's Recall
 4 Crystal Rod
-3 Tetravus
-3 Triskelion
+3 Drain Power
+4 Ghost Ship
+2 Hurkyl's Recall
+22 Island
 3 Ornithopter
+3 Tetravus
+2 Time Elemental
+3 Triskelion
+4 Unstable Mutation
+4 Unsummon
+4 Zephyr Falcon

@@ -1,0 +1,31 @@
+// NAME: Kiska-Ra
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0994.dck
+// DATE: 1997-04-01
+1 Ancestral Recall
+2 Birds of Paradise
+1 Braingeyser
+2 Control Magic
+2 Desert Twister
+2 Elvish Archers
+6 Forest
+3 Gem Bazaar
+3 Giant Growth
+2 Giant Tortoise
+3 Holy Strength
+6 Island
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Sapphire
+2 Pikemen
+6 Plains
+1 Regrowth
+2 Samite Healer
+2 Savannah Lions
+2 Scryb Sprites
+4 Tawnos's Weaponry
+2 Timber Wolves
+1 Time Walk
+1 Timetwister
+2 Tundra Wolves
+3 Unstable Mutation
+2 Zephyr Falcons

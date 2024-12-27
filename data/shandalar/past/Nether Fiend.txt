@@ -1,16 +1,26 @@
 // NAME: Nether Fiend
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0151.dck
 // DATE: 1997-04-01
-21 Swamp
-4 Mishra's Factory [ATQ:80a]
-4 Nether Shadow
-4 Lord of the Pit
-3 Erg Raiders
-4 Black Knight
-3 Frozen Shade
-2 Junún Efreet
-3 Xenic Poltergeist
+// DISPLAY: Against Black: -3 Terror +3 Bog Imp
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
 4 Animate Dead
-2 Soul Net
-4 The Hive
+4 Black Knight
+3 Erg Raiders
+2 Frozen Shade
+2 Junun Efreet
 2 Kormus Bell
+4 Lord of the Pit
+4 Mishra's Factory
+4 Nether Shadow
+2 Soul Net
+20 Swamp
+3 Terror
+4 The Hive
+3 Xenic Poltergeist
+
+Sideboard
+3 Bog Imp
+3 Terror

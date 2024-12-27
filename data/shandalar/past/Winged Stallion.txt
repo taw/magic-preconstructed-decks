@@ -1,20 +1,30 @@
 // NAME: Winged Stallion
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0127.dck
 // DATE: 1997-04-01
-12 Island
-12 Plains
-2 Dancing Scimitar
-4 Mesa Pegasus
-2 Phantasmal Forces
-4 Psionic Entity
-2 Segovian Leviathan
-2 Serra Angel
-3 Howling Mine
+// DISPLAY: Against Black: -1 Conversion +1 Counterspell
+// DISPLAY: Against Blue: -1 Conversion +1 Counterspell
+// DISPLAY: Against Green: -1 Conversion +1 Counterspell
+// DISPLAY: Against Red: -1 Counterspell +1 Conversion
+// DISPLAY: Against White: -1 Conversion +1 Counterspell
 1 Conversion
+2 Counterspell
+2 Dancing Scimitar
+1 Disenchant
 3 Holy Armor
 3 Holy Strength
+3 Howling Mine
+12 Island
 3 Island Sanctuary
 2 Karma
 2 Lifetap
-1 Disenchant
 4 Magical Hack
+4 Mesa Pegasus
+2 Phantasmal Forces
+12 Plains
+4 Psionic Entity
+2 Segovian Leviathan
+2 Serra Angel
+
+Sideboard
+2 Conversion
+2 Counterspell

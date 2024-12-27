@@ -1,19 +1,35 @@
 // NAME: Troll Shaman
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0261.dck
 // DATE: 1997-04-01
-22 Mountain
-2 Strip Mine [ATQ:82a]
-2 Oasis
-4 Stone Giant
-4 Hill Giant
-2 Gray Ogre
-4 Uthden Troll
-2 Hurloon Minotaur
-1 Shivan Dragon
-3 The Brute
-3 Eternal Warrior
-3 Fireball
-2 Lightning Bolt
-2 Shatter
+// DISPLAY: Against Black: -1 Shivan Dragon +1 Throne of Bone
+// DISPLAY: Against Blue: -1 Shatter +1 Red Elemental Blast
+// DISPLAY: Against Green: -1 Shivan Dragon +1 Wooden Sphere
+// DISPLAY: Against Red: -1 Shatter +1 Burrowing
+// DISPLAY: Against White: -2 Shatter, -1 Shivan Dragon +1 Ivory Cup, +1 Celestial Prism, +1 Colossus of Sardia
 2 Conservator
 2 Dancing Scimitar
+3 Eternal Warrior
+3 Fireball
+2 Gray Ogre
+4 Hill Giant
+2 Hurloon Minotaur
+2 Lightning Bolt
+22 Mountain
+2 Oasis
+2 Shatter
+1 Shivan Dragon
+4 Stone Giant
+2 Stripmine
+3 The Brute
+4 Uthden Troll
+
+Sideboard
+1 Burrowing
+1 Celestial Prism
+1 Colossus of Sardia
+1 Ivory Cup
+1 Red Elemental Blast
+2 Shatter
+1 Shivan Dragon
+1 Throne of Bone
+1 Wooden Sphere

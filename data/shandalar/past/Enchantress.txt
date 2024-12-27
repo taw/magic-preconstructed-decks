@@ -1,20 +1,32 @@
 // NAME: Enchantress
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0262.dck
 // DATE: 1997-04-01
-22 Forest
-4 Llanowar Elves
-3 Verduran Enchantress
-3 Cockatrice
-3 Thicket Basilisk
-2 Durkwood Boars
-3 Lure
-2 Web
-3 Regeneration
-3 Living Artifact
+// DISPLAY: Against Black: -1 Desert Twister, -1 Library of Leng +2 Kormus Bell
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -1 Desert Twister, -1 Library of Leng +2 Living Lands
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 Desert Twister, -1 Library of Leng +2 Primal Clay
 4 Aspect of Wolf
-2 Wild Growth
-2 Instill Energy
-2 Desert Twister
-1 Ivory Tower
+3 Cockatrice
 2 Coral Helm
+2 Desert Twister
+2 Durkwood Boars
+22 Forest
+2 Instill Energy
+1 Ivory Tower
 1 Library of Leng
+3 Living Artifact
+4 Llanowar Elves
+3 Lure
+3 Regeneration
+3 Thicket Basilisk
+3 Verduran Enchantress
+2 Web
+2 Wild Growth
+
+Sideboard
+1 Desert Twister
+2 Kormus Bell
+1 Library of Leng
+2 Living Lands
+2 Primal Clay

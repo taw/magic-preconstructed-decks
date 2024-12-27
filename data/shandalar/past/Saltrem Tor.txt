@@ -1,0 +1,22 @@
+// NAME: Saltrem Tor
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0456.dck
+// DATE: 1997-04-01
+3 Birds of Paradise
+2 Control Magic
+3 Crimson Manticore
+2 Eternal Warrior
+2 Fireball
+11 Forest
+2 Fungusaur
+3 Giant Strength
+2 Giant Tortoise
+6 Island
+6 Mountain
+3 Prodigal Sorcerer
+2 Regeneration
+2 Siren's Call
+2 Timber Wolves
+3 Unstable Mutation
+2 Verduran Enchantress
+2 Web
+2 Whirling Dervish

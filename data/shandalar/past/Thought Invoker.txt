@@ -1,0 +1,27 @@
+// NAME: Thought Invoker
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0232.dck
+// DATE: 1997-04-01
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -1 Twiddle +1 Lifetap
+// DISPLAY: Against Red: -1 Twiddle +1 Volcanic Eruption
+// DISPLAY: Against White: No changes
+2 Control Magic
+3 Drain Power
+2 Energy Flux
+4 Ghost Ship
+4 Giant Tortoise
+22 Island
+1 Mahamoti Djinn
+3 Mana Short
+4 Phantom Monster
+3 Power Leak
+3 Power Sink
+4 Psychic Venom
+2 Time Elemental
+3 Twiddle
+
+Sideboard
+1 Lifetap
+1 Twiddle
+1 Volcanic Eruption

@@ -1,22 +1,38 @@
 // NAME: Sainted One
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0021.dck
 // DATE: 1997-04-01
-22 Plains
-1 Mishra's Workshop
-2 Serra Angel
-2 Personal Incarnation
-3 White Knight
-3 Rainbow Knights
-2 Blessing
-4 Circle of Protection: Artifacts
-1 Balance
+// DISPLAY: Against Black: -2 Swords to Plowshares, -1 Disenchant +1 Karma, +1 Circle of Protection Black, +1 Angry Mob
+// DISPLAY: Against Blue: -2 Swords to Plowshares +2 Circle of Protection Blue
+// DISPLAY: Against Green: -2 Swords to Plowshares +2 Circle of Protection Green
+// DISPLAY: Against Red: -2 Swords to Plowshares, -1 Disenchant +2 Circle of Protection Red, +1 Conversion
+// DISPLAY: Against White: -2 Swords to Plowshares +3 Circle of Protection White, +1 Disenchant
 3 Armageddon
-2 Swords to Plowshares
-1 Disenchant
-1 Mox Pearl
-1 Sol Ring
-1 Black Lotus
-2 White Mana Battery
-3 Dingus Egg
 3 Armageddon Clock
+1 Balance
+1 Black Lotus
+2 Blessing
 3 Bottle of Suleiman
+4 Circle of Protection from Artifacts
+3 Dingus Egg
+1 Disenchant
+3 Knights of the Rainbow Vale
+1 Mishra's Workshop
+1 Mox Pearl
+2 Personal Incarnation
+22 Plains
+2 Serra Angel
+1 Sol Ring
+2 Swords to Plowshares
+3 White Knight
+2 White Mana Battery
+
+Sideboard
+1 Angry Mob
+1 Circle of Protection Black
+2 Circle of Protection Blue
+2 Circle of Protection Green
+2 Circle of Protection Red
+3 Circle of Protection White
+1 Conversion
+2 Disenchant
+1 Karma

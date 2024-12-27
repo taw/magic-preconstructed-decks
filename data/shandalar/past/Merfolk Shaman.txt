@@ -1,15 +1,15 @@
 // NAME: Merfolk Shaman
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0150.dck
 // DATE: 1997-04-01
-23 Island
-4 Merfolk of the Pearl Trident
+4 Coral Merfolk
+18 Island
 4 Lord of Atlantis
-4 Segovian Leviathan
-3 Pirate Ship
-3 Sea Serpent
-2 Island Fish Jasconius
-4 Unstable Mutation
+4 Master of the Pearl Trident
+4 Merfolk Sovereign
+4 Merfolk of the Pearl Trident
 4 Phantasmal Terrain
-3 Lifetap
-3 Sunken City
-3 Magical Hack
+2 Power Sink
+4 Sejiri Merfolk
+4 Triton Shorestalker
+4 Tundra
+4 Unstable Mutation
