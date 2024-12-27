@@ -26,4 +26,3 @@ Sideboard
 3 Amulet of Kroog
 3 Animate Dead
 3 Brass Man
-3 Ornithopter

@@ -22,7 +22,5 @@
 
 Sideboard
 2 Goblin Rock Sled
-1 Manabarbs
 1 Red Elemental Blast
-1 Shatter
 1 Sunglasses of Urza

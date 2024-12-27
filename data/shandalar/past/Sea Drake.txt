@@ -22,5 +22,4 @@
 
 Sideboard
 1 Blue Elemental Blast
-1 Counterspell
 1 Lifetap

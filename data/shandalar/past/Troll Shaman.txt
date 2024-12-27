@@ -29,7 +29,5 @@ Sideboard
 1 Colossus of Sardia
 1 Ivory Cup
 1 Red Elemental Blast
-2 Shatter
-1 Shivan Dragon
 1 Throne of Bone
 1 Wooden Sphere

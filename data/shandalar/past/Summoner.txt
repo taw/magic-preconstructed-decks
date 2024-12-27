@@ -23,6 +23,5 @@
 
 Sideboard
 1 Disenchant
-1 Giant Growth
 1 Lifeforce
 1 Tsunami

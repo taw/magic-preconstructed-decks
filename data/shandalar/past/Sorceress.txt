@@ -22,6 +22,5 @@
 
 Sideboard
 1 Red Elemental Blast
-1 Shatter
 1 Sunglasses of Urza
 2 The Brute

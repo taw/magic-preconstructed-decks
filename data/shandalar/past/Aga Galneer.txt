@@ -33,4 +33,3 @@
 Sideboard
 2 Deathgrip
 3 Disenchant
-3 Drain Life

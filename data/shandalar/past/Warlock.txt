@@ -22,7 +22,5 @@
 Sideboard
 1 Conservator
 1 Deathgrip
-2 Fear
 1 Gloom
-1 Terror
 3 Throne of Bone

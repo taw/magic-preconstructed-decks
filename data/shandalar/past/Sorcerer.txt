@@ -22,5 +22,4 @@
 Sideboard
 2 Burrowing
 1 Celestial Prism
-3 Immolation
 2 Ornithopter

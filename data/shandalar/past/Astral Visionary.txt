@@ -25,5 +25,4 @@
 
 Sideboard
 2 Blue Elemental Blast
-2 Drain Power
 2 Lifetap

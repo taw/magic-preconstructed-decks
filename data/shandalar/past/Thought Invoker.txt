@@ -23,5 +23,4 @@
 
 Sideboard
 1 Lifetap
-1 Twiddle
 1 Volcanic Eruption

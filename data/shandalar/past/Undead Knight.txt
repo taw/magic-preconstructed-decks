@@ -29,4 +29,3 @@ Sideboard
 2 Brass Man
 1 Obsianus Golem
 3 Simulacrum
-3 Terror

@@ -25,4 +25,3 @@
 Sideboard
 2 Kormus Bell
 2 Living Lands
-2 Power Sink

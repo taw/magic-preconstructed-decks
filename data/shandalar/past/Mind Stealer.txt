@@ -29,5 +29,4 @@ Sideboard
 1 Deathgrip
 1 Gloom
 1 Lifetap
-2 Sindbad
 1 Volcanic Eruption

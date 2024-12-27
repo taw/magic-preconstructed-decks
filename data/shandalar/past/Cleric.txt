@@ -22,5 +22,4 @@
 
 Sideboard
 1 Conversion
-1 Disenchant
 1 Karma

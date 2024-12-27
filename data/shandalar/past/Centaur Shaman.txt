@@ -22,6 +22,5 @@
 4 Whirling Dervish
 
 Sideboard
-2 Carrion Ants
 2 Deathgrip
 2 Lifeforce

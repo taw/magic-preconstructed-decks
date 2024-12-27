@@ -21,5 +21,4 @@
 
 Sideboard
 1 Celestial Prism
-1 Detonate
 1 Red Elemental Blast
