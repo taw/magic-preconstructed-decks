@@ -8,7 +8,7 @@
 // DISPLAY: Against White: No changes
 4 Angry Mob
 2 Benalish Hero
-2 Circle of Protection Black
+2 Circle of Protection: Black
 1 Disenchant
 4 Holy Strength
 6 Island

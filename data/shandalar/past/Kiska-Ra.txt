@@ -28,4 +28,4 @@
 1 Timetwister
 2 Tundra Wolves
 3 Unstable Mutation
-2 Zephyr Falcons
+2 Zephyr Falcon

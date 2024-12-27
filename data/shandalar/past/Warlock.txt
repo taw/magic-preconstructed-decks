@@ -8,7 +8,7 @@
 // DISPLAY: Against White: -1 Terror +1 Gloom
 4 Dark Ritual
 4 Drain Life
-4 El-Hajjaj
+4 El-Hajjâj
 2 Fear
 2 Frozen Shade
 4 Howl from Beyond
@@ -16,7 +16,7 @@
 4 Murk Dwellers
 4 Pit Scorpion
 23 Swamp
-4 Tawnos' Wand
+4 Tawnos's Wand
 1 Terror
 
 Sideboard

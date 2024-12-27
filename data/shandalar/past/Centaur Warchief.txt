@@ -22,7 +22,7 @@
 3 Smoke
 3 Swords to Plowshares
 2 Wall of Swords
-4 Yotian Soldiers
+4 Yotian Soldier
 
 Sideboard
 2 Kormus Bell

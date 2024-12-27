@@ -11,7 +11,7 @@
 4 Fireball
 4 Inferno
 2 Lightning Bolt
-4 Manaflare
+4 Mana Flare
 22 Mountain
 4 Onulet
 4 Power Surge

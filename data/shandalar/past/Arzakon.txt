@@ -41,7 +41,7 @@
 2 Lightning Bolt
 2 Mesa Pegasus
 1 Mind Twist
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 1 Mishra's Workshop
 6 Mountain
 1 Mox Emerald
@@ -74,5 +74,5 @@
 2 Wall of Dust
 1 Wheel of Fortune
 1 White Mana Battery
-2 Will-O'-The-Wisp
+2 Will-o'-the-Wisp
 2 Zephyr Falcon

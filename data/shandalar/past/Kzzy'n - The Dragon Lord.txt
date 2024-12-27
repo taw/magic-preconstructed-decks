@@ -14,7 +14,7 @@
 4 Gem Bazaar
 1 Ivory Tower
 4 Lightning Bolt
-2 Manaflare
+2 Mana Flare
 18 Mountain
 2 Plains
 2 Prismatic Dragon

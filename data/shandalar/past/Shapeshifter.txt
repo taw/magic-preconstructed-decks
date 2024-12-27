@@ -8,7 +8,7 @@
 20 Island
 1 Ivory Tower
 3 Mana Vault
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 2 Power Struggle
 4 Primal Clay
 3 Shapeshifter

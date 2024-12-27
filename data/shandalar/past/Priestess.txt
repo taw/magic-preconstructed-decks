@@ -1,11 +1,11 @@
 // NAME: Priestess
 // SOURCE: https://github.com/ShandalarMagic/Shandalar/blob/master/Decks_original/0204.dck
 // DATE: 1997-04-01
-// DISPLAY: Against Black: -1 Swords to Plowshares +1 Circle of Protection Black
-// DISPLAY: Against Blue: -1 Swords to Plowshares +1 Circle of Protection Blue
-// DISPLAY: Against Green: -1 Swords to Plowshares +1 Circle of Protection Green
-// DISPLAY: Against Red: -1 Swords to Plowshares +1 Circle of Protection Red
-// DISPLAY: Against White: -1 Swords to Plowshares +1 Circle of Protection White
+// DISPLAY: Against Black: -1 Swords to Plowshares +1 Circle of Protection: Black
+// DISPLAY: Against Blue: -1 Swords to Plowshares +1 Circle of Protection: Blue
+// DISPLAY: Against Green: -1 Swords to Plowshares +1 Circle of Protection: Green
+// DISPLAY: Against Red: -1 Swords to Plowshares +1 Circle of Protection: Red
+// DISPLAY: Against White: -1 Swords to Plowshares +1 Circle of Protection: White
 4 Animate Wall
 2 Benalish Hero
 2 Blessing
@@ -25,8 +25,8 @@
 4 Wall of Swords
 
 Sideboard
-1 Circle of Protection Black
-1 Circle of Protection Blue
-1 Circle of Protection Green
-1 Circle of Protection Red
-1 Circle of Protection White
+1 Circle of Protection: Black
+1 Circle of Protection: Blue
+1 Circle of Protection: Green
+1 Circle of Protection: Red
+1 Circle of Protection: White

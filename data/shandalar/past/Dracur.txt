@@ -20,15 +20,15 @@
 3 Gem Bazaar
 4 Hypnotic Specter
 2 Lightning Bolt
-2 Manaflare
+2 Mana Flare
 1 Mind Twist
 5 Mountain
 1 Mox Emerald
 1 Mox Jet
 1 Mox Ruby
-2 Ragman
+2 Rag Man
 4 Stone Rain
-2 Strip Mine
+2 Strip Mine [ATQ:82a]
 5 Swamp
 1 Tranquility
 3 Wall of Dust

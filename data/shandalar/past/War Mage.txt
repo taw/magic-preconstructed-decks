@@ -14,8 +14,8 @@
 2 Fellwar Stone
 4 Fireball
 4 Lightning Bolt
+4 Mana Flare
 4 Mana Vault
-4 Manaflare
 23 Mountain
 2 Smoke
 

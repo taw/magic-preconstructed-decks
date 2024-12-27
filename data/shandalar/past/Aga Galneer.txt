@@ -8,7 +8,7 @@
 // DISPLAY: Against White: -3 Drain Life +3 Disenchant
 2 Ashes to Ashes
 3 Drain Life
-2 El-Hajjaj
+2 El-Hajjâj
 2 Erg Raiders
 6 Forest
 2 Fungusaur

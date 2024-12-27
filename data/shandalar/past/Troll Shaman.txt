@@ -19,7 +19,7 @@
 2 Shatter
 1 Shivan Dragon
 4 Stone Giant
-2 Stripmine
+2 Strip Mine [ATQ:82a]
 3 The Brute
 4 Uthden Troll
 

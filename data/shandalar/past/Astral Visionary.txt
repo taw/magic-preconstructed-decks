@@ -20,7 +20,7 @@
 1 Timetwister
 2 Twiddle
 3 Unstable Mutation
-4 Yotian Soldiers
+4 Yotian Soldier
 4 Zephyr Falcon
 
 Sideboard

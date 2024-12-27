@@ -13,7 +13,7 @@
 2 Fellwar Stone
 3 Hypnotic Specter
 11 Island
-2 Junun Efreet
+2 Junún Efreet
 1 Mind Twist
 2 Phantasmal Forces
 2 Phantom Monster
@@ -23,7 +23,7 @@
 2 Steal Artifact
 11 Swamp
 4 Unholy Strength
-3 Will-O-The-Wisp
+3 Will-o'-the-Wisp
 
 Sideboard
 1 Deathgrip

@@ -7,7 +7,7 @@
 // DISPLAY: Against Red: -3 Swords to Plowshares +3 Reverse Damage
 // DISPLAY: Against White: -3 Swords to Plowshares +3 Disenchant
 2 Mana Vault
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 4 Onulet
 4 Osai Vultures
 22 Plains

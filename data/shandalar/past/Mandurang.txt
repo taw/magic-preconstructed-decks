@@ -23,7 +23,7 @@
 6 Swamp
 4 Unholy Strength
 4 Unstable Mutation
-4 Will-O-The-Wisp
+4 Will-o'-the-Wisp
 4 Zephyr Falcon
 
 Sideboard

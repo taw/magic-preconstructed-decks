@@ -10,10 +10,10 @@
 4 Black Knight
 3 Erg Raiders
 2 Frozen Shade
-2 Junun Efreet
+2 Junún Efreet
 2 Kormus Bell
 4 Lord of the Pit
-4 Mishra's Factory
+4 Mishra's Factory [ATQ:80a]
 4 Nether Shadow
 2 Soul Net
 20 Swamp

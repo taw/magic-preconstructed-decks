@@ -16,7 +16,7 @@
 4 Ironclaw Orcs
 10 Mountain
 4 Stone Rain
-4 Strip Mine
+4 Strip Mine [ATQ:82a]
 10 Swamp
 4 Uthden Troll
 2 Weakness

@@ -8,7 +8,7 @@
 // DISPLAY: Against White: -1 Giant Growth +1 Disenchant
 4 Birds of Paradise
 1 Channel
-3 Circle of Protection Green
+3 Circle of Protection: Green
 2 Colossus of Sardia
 2 Disenchant
 3 Force of Nature

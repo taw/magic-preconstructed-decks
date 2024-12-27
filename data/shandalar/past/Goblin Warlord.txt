@@ -14,11 +14,11 @@
 2 Immolation
 4 Keldon Warlord
 2 Manabarbs
-4 Mons Goblin Raiders
+4 Mons's Goblin Raiders
 21 Mountain
 4 Orcish Oriflamme
 1 Shatter
-2 Tawnos' Weaponry
+2 Tawnos's Weaponry
 
 Sideboard
 2 Goblin Rock Sled

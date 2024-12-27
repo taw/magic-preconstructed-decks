@@ -12,7 +12,7 @@
 3 Drudge Skeletons
 3 Healing Salve
 3 Holy Strength
-2 Necropolis of Azaar
+2 Necropolis of Azar
 3 Ornithopter
 3 Osai Vultures
 3 Pestilence
@@ -20,7 +20,7 @@
 4 Serra Angel
 11 Swamp
 3 Unholy Strength
-4 Yotian Soldiers
+4 Yotian Soldier
 
 Sideboard
 3 Amulet of Kroog

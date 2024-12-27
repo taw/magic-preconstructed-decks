@@ -19,7 +19,7 @@
 4 Unholy Strength
 2 Wall of Bone
 3 Weakness
-4 Will-O-The-Wisp
+4 Will-o'-the-Wisp
 
 Sideboard
 1 Gloom

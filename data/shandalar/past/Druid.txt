@@ -17,8 +17,8 @@
 2 Killer Bees
 3 Ley Druid
 3 Llanowar Elves
-4 Mishra's Factory
-2 Naf's Asp
+4 Mishra's Factory [ATQ:80a]
+2 Nafs Asp
 2 Oasis
 2 Wall of Wood
 3 Wanderlust
