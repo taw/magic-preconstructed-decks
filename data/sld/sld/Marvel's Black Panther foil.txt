@@ -7,4 +7,3 @@
 1 [SLD:1750] Heroic Intervention [foil]
 1 [SLD:1751] Wakandan Skyscraper [foil]
 1 [SLD:1752] Warrior [foil] [token]
-1 [SLD:867] Nature's Lore [foil]

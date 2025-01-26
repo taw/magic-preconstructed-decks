@@ -6,4 +6,3 @@
 1 [SLD:1739] Rite of Passage
 1 [SLD:1740] Rhythm of the Wild
 1 [SLD:1741] Adamantium Bonding Tank
-1 [SLD:865] Unnatural Growth [foil]

@@ -7,4 +7,3 @@
 1 [SLD:1734] Sol Ring
 1 [SLD:1735] Inventors' Fair
 1 [SLD:1736] Treasure [token]
-1 [SLD:864] Sculpting Steel [foil]
