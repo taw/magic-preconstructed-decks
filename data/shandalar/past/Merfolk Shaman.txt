@@ -1,15 +1,15 @@
 // NAME: Merfolk Shaman
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0150.DCK from game files
 // DATE: 1997-04-01
-23 Island
-4 Merfolk of the Pearl Trident
+22 Island
+2 Island Fish Jasconius
+3 Lifetap
 4 Lord of Atlantis
-4 Segovian Leviathan
+3 Magical Hack
+4 Merfolk of the Pearl Trident
+4 Phantasmal Terrain
 3 Pirate Ship
 3 Sea Serpent
-2 Island Fish Jasconius
+4 Segovian Leviathan
 4 Unstable Mutation
-4 Phantasmal Terrain
-3 Lifetap
-3 Sunken City
-3 Magical Hack
+4 Unsummon

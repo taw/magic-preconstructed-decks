@@ -1,16 +1,28 @@
 // NAME: Forest Dragon
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0049.DCK from game files
 // DATE: 1997-04-01
-22 Forest
-4 Craw Wurm
+// DISPLAY: Against Black: -1 Crumble +1 Wall of Brambles
+// DISPLAY: Against Blue: -1 Wall of Brambles, -1 Crumble +2 Giant Spider
+// DISPLAY: Against Green: -1 Wall of Brambles, -1 Crumble +2 Living Lands
+// DISPLAY: Against Red: -1 Wall of Brambles, -1 Crumble +2 Stream of Life
+// DISPLAY: Against White: -1 Crumble +1 Wall of Brambles
 4 Cockatrice
-4 Thicket Basilisk
+4 Craw Wurm
+1 Crumble
+3 Desert Twister
+22 Forest
+3 Living Lands
 4 Llanowar Elves
-2 Wall of Brambles
 4 Lure
 2 Regeneration
-3 Living Lands
-3 Desert Twister
-2 Stream of Life
-4 Untamed Wilds
 2 Sandstorm
+2 Stream of Life
+4 Thicket Basilisk
+4 Untamed Wilds
+2 Wall of Brambles
+
+Sideboard
+2 Giant Spider
+2 Living Lands
+2 Stream of Life
+2 Wall of Brambles

@@ -1,0 +1,29 @@
+// NAME: Centaur Warchief
+// SOURCE: 0897.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -2 Swords to Plowshares +2 Kormus Bell
+// DISPLAY: Against Blue: -2 Swords to Plowshares +2 Magnetic Mountain
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+2 Ali Baba
+2 Cave People
+2 Colossus of Sardia
+2 Dragon Whelp
+2 Eternal Warrior
+2 Healing Salve
+3 Kismet
+1 Land Tax
+2 Lightning Bolt
+12 Mountain
+12 Plains
+2 Savannah Lions
+4 Serra Angel
+3 Smoke
+3 Swords to Plowshares
+2 Wall of Swords
+4 Yotian Soldier
+
+Sideboard
+2 Kormus Bell
+2 Magnetic Mountain

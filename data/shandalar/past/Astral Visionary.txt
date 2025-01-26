@@ -1,19 +1,28 @@
 // NAME: Astral Visionary
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0245.DCK from game files
 // DATE: 1997-04-01
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -2 Drain Power +2 Lifetap
+// DISPLAY: Against Red: -2 Drain Power +2 Blue Elemental Blast
+// DISPLAY: Against White: No changes
+1 Ancestral Recall
+1 Black Lotus
+1 Copy Artifact
+4 Counterspell
+3 Drain Power
+4 Howling Mine
 24 Island
 4 Leviathan
-4 Zephyr Falcon
-1 Copy Artifact
+1 Mox Sapphire
 4 Stasis
-3 Unstable Mutation
 1 Time Walk
 1 Timetwister
-3 Drain Power
-4 Counterspell
-1 Ancestral Recall
 2 Twiddle
-1 Mox Sapphire
-1 Black Lotus
+3 Unstable Mutation
 4 Yotian Soldier
-4 Howling Mine
+4 Zephyr Falcon
+
+Sideboard
+2 Blue Elemental Blast
+2 Lifetap

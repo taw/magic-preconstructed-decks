@@ -1,0 +1,40 @@
+// NAME: Dracur
+// SOURCE: 0993.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -1 Earthquake +1 Tranquility
+// DISPLAY: Against Blue: -2 Earthquake +1 Tsunami, +1 Tranquility
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -2 Earthquake +2 Stream of Life
+// DISPLAY: Against White: -2 Earthquake +1 Gloom, +1 Tranquility
+1 Black Lotus
+2 Blight
+2 Desert Twister
+2 Dingus Egg
+2 Disintegrate
+2 Disrupting Scepter
+2 Earthquake
+2 Fellwar Stone
+2 Fireball
+3 Fissure
+5 Forest
+3 Gem Bazaar
+4 Hypnotic Specter
+2 Lightning Bolt
+2 Mana Flare
+1 Mind Twist
+5 Mountain
+1 Mox Emerald
+1 Mox Jet
+1 Mox Ruby
+2 Rag Man
+4 Stone Rain
+2 Strip Mine [ATQ:82a]
+5 Swamp
+1 Tranquility
+3 Wall of Dust
+
+Sideboard
+1 Gloom
+2 Stream of Life
+1 Tranquility
+1 Tsunami

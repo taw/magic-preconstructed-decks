@@ -1,14 +1,26 @@
 // NAME: Warlock
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0055.DCK from game files
 // DATE: 1997-04-01
-23 Swamp
-4 Hypnotic Specter
-4 El-Hajjâj
-4 Pit Scorpion
-2 Frozen Shade
-4 Murk Dwellers
-4 Drain Life
+// DISPLAY: Against Black: -1 Terror, -2 Fear +3 Throne of Bone
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -1 Terror +1 Deathgrip
+// DISPLAY: Against Red: -1 Terror +1 Conservator
+// DISPLAY: Against White: -1 Terror +1 Gloom
 4 Dark Ritual
+4 Drain Life
+4 El-Hajjâj
+2 Fear
+2 Frozen Shade
 4 Howl from Beyond
-3 Terror
+4 Hypnotic Specter
+4 Murk Dwellers
+4 Pit Scorpion
+23 Swamp
 4 Tawnos's Wand
+1 Terror
+
+Sideboard
+1 Conservator
+1 Deathgrip
+1 Gloom
+3 Throne of Bone

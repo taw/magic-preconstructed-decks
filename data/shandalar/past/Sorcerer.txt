@@ -1,15 +1,25 @@
 // NAME: Sorcerer
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0192.DCK from game files
 // DATE: 1997-04-01
-20 Mountain
-4 Goblin Balloon Brigade
-4 Mons's Goblin Raiders
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -2 Immolation +2 Burrowing
+// DISPLAY: Against White: -3 Immolation +1 Celestial Prism, +2 Ornithopter
 3 Ali Baba
-3 Hurr Jackal
-4 Sisters of the Flame
-4 Manabarbs
-4 Giant Strength
-3 Immolation
-4 Winds of Change
-4 Lightning Bolt
 3 Brass Man
+4 Giant Strength
+4 Goblin Balloon Brigade
+3 Hurr Jackal
+3 Immolation
+4 Lightning Bolt
+4 Manabarbs
+4 Mons's Goblin Raiders
+20 Mountain
+4 Sisters of the Flame
+4 Winds of Change
+
+Sideboard
+2 Burrowing
+1 Celestial Prism
+2 Ornithopter

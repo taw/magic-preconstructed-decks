@@ -1,19 +1,32 @@
 // NAME: Priestess
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0204.DCK from game files
 // DATE: 1997-04-01
-23 Plains
-4 Wall of Swords
-2 Pikemen
-2 Benalish Hero
-2 Mesa Pegasus
-2 Elder Land Wurm
+// DISPLAY: Against Black: -1 Swords to Plowshares +1 Circle of Protection: Black
+// DISPLAY: Against Blue: -1 Swords to Plowshares +1 Circle of Protection: Blue
+// DISPLAY: Against Green: -1 Swords to Plowshares +1 Circle of Protection: Green
+// DISPLAY: Against Red: -1 Swords to Plowshares +1 Circle of Protection: Red
+// DISPLAY: Against White: -1 Swords to Plowshares +1 Circle of Protection: White
 4 Animate Wall
-3 Spirit Link
-2 Fortified Area
+2 Benalish Hero
 2 Blessing
 2 Castle
-2 Reverse Damage
+1 Disenchant
+2 Elder Land Wurm
+2 Fortified Area
 3 Healing Salve
-2 Disenchant
 3 Ivory Cup
+2 Mesa Pegasus
+2 Pikemen
+23 Plains
+2 Reverse Damage
+3 Spirit Link
+2 Swords to Plowshares
 4 Wall of Spears
+4 Wall of Swords
+
+Sideboard
+1 Circle of Protection: Black
+1 Circle of Protection: Blue
+1 Circle of Protection: Green
+1 Circle of Protection: Red
+1 Circle of Protection: White

@@ -1,15 +1,24 @@
 // NAME: Vampire Lord
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0220.DCK from game files
 // DATE: 1997-04-01
-22 Swamp
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -3 Howling Mine +3 Black Knight
+// DISPLAY: Against Red: -3 Howling Mine +3 Winter Orb
+// DISPLAY: Against White: -3 Howling Mine +3 Black Knight
+4 Animate Dead
+4 Carrion Ants
+4 Dark Ritual
+3 Howling Mine
+3 Mana Vault
 4 Sengir Vampire
 4 Sorceress Queen
-4 Carrion Ants
-4 Vampire Bats
-2 Uncle Istvan
-4 Animate Dead
-4 Weakness
-4 Dark Ritual
+22 Swamp
 2 Terror
-3 Mana Vault
-3 Howling Mine
+2 Uncle Istvan
+4 Vampire Bats
+4 Weakness
+
+Sideboard
+3 Black Knight
+3 Winter Orb

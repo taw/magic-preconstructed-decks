@@ -1,0 +1,24 @@
+// NAME: Crag Hydra
+// SOURCE: 0207.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -1 The Hive +1 Red Elemental Blast
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+1 Detonate
+4 Disintegrate
+4 Fireball
+4 Inferno
+2 Lightning Bolt
+4 Mana Flare
+22 Mountain
+4 Onulet
+4 Power Surge
+2 Shivan Dragon
+2 Soul Net
+3 The Hive
+4 Wall of Fire
+
+Sideboard
+1 Red Elemental Blast

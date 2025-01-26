@@ -1,17 +1,25 @@
 // NAME: Witch
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0056.DCK from game files
 // DATE: 1997-04-01
-23 Swamp
-2 Wall of Bone
-4 Drudge Skeletons
-4 Will-o'-the-Wisp
-3 Scavenging Ghoul
-2 Greed
-4 Unholy Strength
-3 Weakness
-2 Drain Life
-2 Dark Ritual
-3 Throne of Bone
-4 Nevinyrral's Disk
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 Weakness +1 Gloom
 3 Clay Statue
+2 Dark Ritual
 3 Diabolic Machine
+2 Drain Life
+4 Drudge Skeletons
+2 Greed
+4 Nevinyrral's Disk
+3 Scavenging Ghoul
+23 Swamp
+3 Throne of Bone
+4 Unholy Strength
+2 Wall of Bone
+3 Weakness
+4 Will-o'-the-Wisp
+
+Sideboard
+1 Gloom

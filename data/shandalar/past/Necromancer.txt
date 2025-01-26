@@ -1,18 +1,27 @@
 // NAME: Necromancer
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0291.DCK from game files
 // DATE: 1997-04-01
-22 Swamp
-4 Scathe Zombies
-4 Zombie Master
-4 Bog Wraith
-2 Wall of Bone
-4 Lost Soul
-2 Cosmic Horror
-2 Unholy Strength
-2 Bad Moon
-2 Necropolis of Azar
+// DISPLAY: Against Black: -3 Evil Presence +2 Paralyze, +1 Throne of Bone
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
 2 Animate Dead
-4 Evil Presence
-2 Drain Life
-2 Raise Dead
+2 Bad Moon
+4 Bog Wraith
+2 Cosmic Horror
 2 Dark Ritual
+2 Drain Life
+4 Evil Presence
+4 Lost Soul
+2 Necropolis of Azar
+2 Raise Dead
+4 Scathe Zombies
+22 Swamp
+2 Unholy Strength
+2 Wall of Bone
+4 Zombie Master
+
+Sideboard
+2 Paralyze
+1 Throne of Bone

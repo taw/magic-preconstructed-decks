@@ -1,17 +1,27 @@
 // NAME: Summoner
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0030.DCK from game files
 // DATE: 1997-04-01
-5 Plains
-18 Forest
-4 Circle of Protection: Green
-2 Disenchant
-3 Healing Salve
+// DISPLAY: Against Black: -1 Giant Growth +1 Lifeforce
+// DISPLAY: Against Blue: -1 Giant Growth +1 Tsunami
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 Giant Growth +1 Disenchant
 4 Birds of Paradise
-4 War Mammoth
-3 Force of Nature
-4 Radjan Spirit
 1 Channel
+3 Circle of Protection: Green
+2 Colossus of Sardia
+2 Disenchant
+3 Force of Nature
+20 Forest
+3 Giant Growth
+2 Healing Salve
 4 Hurricane
 4 Lifelace
-2 Colossus of Sardia
-2 Flying Carpet
+4 Plains
+4 Radjan Spirit
+4 War Mammoth
+
+Sideboard
+1 Disenchant
+1 Lifeforce
+1 Tsunami

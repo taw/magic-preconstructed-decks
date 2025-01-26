@@ -1,0 +1,20 @@
+// NAME: Azaar - Lichlord
+// SOURCE: 0141.DCK from game files
+// DATE: 1997-04-01
+1 Black Lotus
+1 Black Vise
+3 Bog Imp
+4 Dark Ritual
+4 Drain Life
+1 Gloom
+2 Greed
+4 Howl from Beyond
+4 Hypnotic Specter
+2 Lord of the Pit
+1 Mind Twist
+1 Mox Jet
+4 Sengir Vampire
+1 Sol Ring
+22 Swamp
+3 Tetravus
+3 Will-o'-the-Wisp

@@ -1,20 +1,32 @@
 // NAME: Mind Stealer
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0289.DCK from game files
 // DATE: 1997-04-01
-11 Island
-11 Swamp
-4 Hypnotic Specter
-2 Phantasmal Forces
-2 Phantom Monster
-4 Sengir Vampire
-3 Will-o'-the-Wisp
-2 Junún Efreet
-2 Fellwar Stone
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -2 Sindbad +1 Lifetap, +1 Deathgrip
+// DISPLAY: Against Red: -1 Sindbad +1 Volcanic Eruption
+// DISPLAY: Against White: -1 Sindbad +1 Gloom
 2 Animate Dead
 2 Call from the Grave
 4 Control Magic
-2 Steal Artifact
-4 Unholy Strength
-2 Siren's Call
 2 Drain Power
+2 Fellwar Stone
+3 Hypnotic Specter
+11 Island
+2 Junún Efreet
 1 Mind Twist
+2 Phantasmal Forces
+2 Phantom Monster
+4 Sengir Vampire
+3 Sindbad
+2 Siren's Call
+2 Steal Artifact
+11 Swamp
+4 Unholy Strength
+3 Will-o'-the-Wisp
+
+Sideboard
+1 Deathgrip
+1 Gloom
+1 Lifetap
+1 Volcanic Eruption

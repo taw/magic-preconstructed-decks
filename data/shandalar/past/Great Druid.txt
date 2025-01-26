@@ -1,0 +1,27 @@
+// NAME: Great Druid
+// SOURCE: 0095.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -2 Desert Twister +2 Lifeforce
+// DISPLAY: Against Blue: -2 Desert Twister +2 Tsunami
+// DISPLAY: Against Green: -2 Desert Twister +2 Shanodin Dryads
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+4 Aspect of Wolf
+3 Birds of Paradise
+3 Desert Twister
+22 Forest
+3 Gaea's Liege
+3 Instill Energy
+3 Jayemdae Tome
+4 Killer Bees
+2 Living Artifact
+2 Living Lands
+3 Llanowar Elves
+3 Stream of Life
+3 Untamed Wilds
+2 Verduran Enchantress
+
+Sideboard
+2 Lifeforce
+2 Shanodin Dryads
+2 Tsunami

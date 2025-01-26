@@ -1,19 +1,28 @@
 // NAME: Druid
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0139.DCK from game files
 // DATE: 1997-04-01
-20 Forest
-1 Oasis
-4 Mishra's Factory [ATQ:80a]
-3 Ley Druid
-3 Llanowar Elves
-2 Wall of Wood
-2 Nafs Asp
-2 Giant Spider
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -3 Grizzly Bears +3 Shanodin Dryads
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
 2 Craw Wurm
+2 Durkwood Boars
+20 Forest
+4 Giant Growth
+2 Giant Spider
+3 Grizzly Bears
+3 Instill Energy
 2 Ironroot Treefolk
 2 Killer Bees
-2 Durkwood Boars
+3 Ley Druid
+3 Llanowar Elves
+4 Mishra's Factory [ATQ:80a]
+2 Nafs Asp
+2 Oasis
+2 Wall of Wood
 3 Wanderlust
-3 Instill Energy
-4 Giant Growth
-4 Wooden Sphere
+3 Wooden Sphere
+
+Sideboard
+3 Shanodin Dryads

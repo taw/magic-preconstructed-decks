@@ -1,17 +1,26 @@
 // NAME: Beast Master
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0170.DCK from game files
 // DATE: 1997-04-01
-21 Forest
-2 Birds of Paradise
-4 Timber Wolves
-4 Nafs Asp
-4 Grizzly Bears
-4 Aswan Jaguar
-2 Durkwood Boars
-2 Giant Spider
-2 Killer Bees
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -1 Stream of Life +1 Tsunami
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: -1 Stream of Life +1 Tranquility
 4 Aspect of Wolf
-2 Web
-3 Stream of Life
-2 Untamed Wilds
+4 Aswan Jaguar
+2 Birds of Paradise
+2 Desert Twister
+2 Durkwood Boars
+21 Forest
 4 Giant Growth
+2 Giant Spider
+4 Grizzly Bears
+4 Nafs Asp
+3 Stream of Life
+4 Timber Wolves
+2 Untamed Wilds
+2 Web
+
+Sideboard
+1 Tranquility
+1 Tsunami

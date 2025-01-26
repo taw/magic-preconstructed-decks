@@ -1,17 +1,25 @@
 // NAME: Sedge Beast
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0219.DCK from game files
 // DATE: 1997-04-01
-10 Mountain
-10 Swamp
-4 Strip Mine [ATQ:82a]
+// DISPLAY: Against Black: -2 Weakness +2 Hurr Jackal
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+4 Blight
+4 Cyclopean Mummy
 2 Dancing Scimitar
 2 Diabolic Machine
-4 Cyclopean Mummy
 4 Erg Raiders
-4 Ironclaw Orcs
-4 Uthden Troll
-4 Blight
-2 Immolation
-2 Weakness
 4 Fissure
+2 Immolation
+4 Ironclaw Orcs
+10 Mountain
 4 Stone Rain
+4 Strip Mine [ATQ:82a]
+10 Swamp
+4 Uthden Troll
+2 Weakness
+
+Sideboard
+2 Hurr Jackal

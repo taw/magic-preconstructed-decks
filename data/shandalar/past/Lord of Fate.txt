@@ -1,0 +1,28 @@
+// NAME: Lord of Fate
+// SOURCE: 0010.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -3 Ornithopter +3 Brass Man
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -3 Ornithopter +3 Animate Dead
+// DISPLAY: Against Red: -3 Ornithopter +3 Amulet of Kroog
+// DISPLAY: Against White: -3 Ornithopter +3 Brass Man
+3 Castle
+2 Dark Ritual
+2 Divine Transformation
+3 Drudge Skeletons
+3 Healing Salve
+3 Holy Strength
+2 Necropolis of Azar
+3 Ornithopter
+3 Osai Vultures
+3 Pestilence
+11 Plains
+4 Serra Angel
+11 Swamp
+3 Unholy Strength
+4 Yotian Soldier
+
+Sideboard
+3 Amulet of Kroog
+3 Animate Dead
+3 Brass Man

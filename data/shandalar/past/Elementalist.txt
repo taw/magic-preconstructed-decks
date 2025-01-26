@@ -1,0 +1,30 @@
+// NAME: Elementalist
+// SOURCE: 0399.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: No changes
+// DISPLAY: Against Blue: -2 Drain Power, -1 Energy Flux +3 Red Elemental Blast
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -2 Drain Power, -1 Energy Flux +3 Blue Elemental Blast
+// DISPLAY: Against White: No changes
+3 Air Elemental
+4 Drain Power
+3 Earth Elemental
+3 Earthquake
+2 Energy Flux
+3 Fire Elemental
+3 Fireball
+2 Gem Bazaar
+12 Island
+2 Lightning Bolt
+2 Mana Vault
+12 Mountain
+2 Unstable Mutation
+1 Wall of Air
+1 Wall of Fire
+1 Wall of Stone
+1 Wall of Water
+3 Water Elemental
+
+Sideboard
+3 Blue Elemental Blast
+3 Red Elemental Blast

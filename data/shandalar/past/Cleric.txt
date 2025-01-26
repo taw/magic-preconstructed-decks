@@ -1,17 +1,25 @@
 // NAME: Cleric
-// SOURCE: https://www.speedrun.com/Magic_the_Gathering_Shandalar/guide/u4eyi
+// SOURCE: 0211.DCK from game files
 // DATE: 1997-04-01
-21 Plains
+// DISPLAY: Against Black: -1 Disenchant +1 Karma
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: No changes
+// DISPLAY: Against Red: -1 Disenchant +1 Conversion
+// DISPLAY: Against White: No changes
+4 Amrou Kithkin
 4 Benalish Hero
+3 Disenchant
+3 Holy Armor
+4 Holy Strength
+3 Meekstone
 4 Mesa Pegasus
+2 Pikemen
+21 Plains
 2 Samite Healer
 2 Savannah Lions
-4 Amrou Kithkin
-2 Pikemen
-4 Holy Strength
-3 Holy Armor
-1 Karma
 4 Swords to Plowshares
-2 Disenchant
-3 Meekstone
 4 Tawnos's Weaponry
+
+Sideboard
+1 Conversion
+1 Karma

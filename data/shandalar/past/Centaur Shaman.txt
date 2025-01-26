@@ -1,0 +1,26 @@
+// NAME: Centaur Shaman
+// SOURCE: 0179.DCK from game files
+// DATE: 1997-04-01
+// DISPLAY: Against Black: -2 Carrion Ants +2 Lifeforce
+// DISPLAY: Against Blue: No changes
+// DISPLAY: Against Green: -2 Carrion Ants +2 Deathgrip
+// DISPLAY: Against Red: No changes
+// DISPLAY: Against White: No changes
+2 Birds of Paradise
+4 Carrion Ants
+3 Cockatrice
+4 Cursed Land
+2 Dark Ritual
+11 Forest
+4 Onulet
+3 Paralyze
+2 Pestilence
+2 Stream of Life
+11 Swamp
+4 Wanderlust
+4 Warp Artifact
+4 Whirling Dervish
+
+Sideboard
+2 Deathgrip
+2 Lifeforce

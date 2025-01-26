@@ -114,6 +114,8 @@ cmd:
     Commander: [1, 2]
     Main Deck + Commander: 100
     Display Commander: [0, 1, 2, 3, 5]
+    # tokens
+    Sideboard: any
 dbtk:
   category: "box"
   format: null
@@ -280,6 +282,7 @@ shandalar:
   name: "Shandalar Enemy Deck"
   sections:
     Main Deck: any
+    Sideboard: any
 sld:
   category: "box"
   format: null
@@ -384,3 +387,8 @@ welcome:
   name: "Welcome Deck"
   sections:
     Main Deck: [22, 30]
+redemption:
+  category: "box"
+  format: null
+  name: "MTGO Redemption"
+  # Any size
