@@ -1,0 +1,90 @@
+// NAME: Living Energy
+// SOURCE: https://magic.wizards.com/en/news/announcements/aetherdrift-commander-decklists
+// DATE: 2025-02-14
+COMMANDER: 1 Saheeli, Radiant Creator [DRC:3] [foil]
+1 Pia Nalaar, Chief Mechanic [DRC:2] [foil]
+1 Territorial Aetherkite
+1 Nissa, Worldsoul Speaker
+1 Peema Trailblazer
+1 Rampaging Aetherhood
+1 Adaptive Omnitool
+1 Aetherflux Conduit
+1 Aetheric Amplifier
+1 Stridehangar Automaton
+1 Chain Reaction
+1 Chaos Warp
+1 Druid of Purification
+1 Chromatic Lantern
+1 Duplicant
+1 Academy Ruins
+1 Aethersquall Ancient
+1 Aethertide Whale
+1 Confiscation Coup
+1 Disallow
+1 Midnight Clock
+1 One with the Machine
+1 Sai, Master Thopterist
+1 Thopter Spy Network
+1 Blasphemous Act
+1 Combustible Gearhulk
+1 Lightning Runner
+1 Pia and Kiran Nalaar
+1 Aetherwind Basker
+1 Architect of the Untamed
+1 Bootleggers' Stash
+1 Elder Gargaroth
+1 Aetherworks Marvel
+1 Conjurer's Closet
+1 Cultivator's Caravan
+1 Panharmonicon
+1 Retrofitter Foundry
+1 Solemn Simulacrum
+1 Triplicate Titan
+1 Exotic Orchard
+1 Frostboil Snarl
+1 Hinterland Harbor
+1 Karplusan Forest
+1 Overflowing Basin
+1 Rootbound Crag
+1 Sheltered Thicket
+1 Shivan Reef
+1 Spire of Industry
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Treasure Vault
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Reality Shift
+1 Arcane Signet [DRC:52]
+1 Lightning Greaves
+1 Sol Ring [DRC:57]
+1 Command Tower [DRC:60]
+1 Arcane Denial
+1 Bespoke Battlewagon
+1 Era of Innovation
+1 Glimmer of Genius
+1 Whirler Rogue
+1 Loyal Apprentice
+1 Reckless Fireweaver
+1 Attune with Aether
+1 Explosive Vegetation
+1 Peema Aether-Seer
+1 Servant of the Conduit
+1 Rogue Refiner
+1 Saheeli, Sublime Artificer
+1 Whirler Virtuoso
+1 Commander’s Sphere
+1 Decoction Module
+1 Ornithopter of Paradise
+1 Solar Transformer
+1 Soul-Guide Lantern
+1 Talisman of Curiosity
+1 Aether Hub
+1 Evolving Wilds
+1 Frontier Bivouac
+1 Path of Ancestry
+1 Slagwoods Bridge
+1 Tanglepool Bridge
+5 Island
+5 Mountain
+6 Forest
