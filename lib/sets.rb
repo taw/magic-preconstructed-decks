@@ -114,6 +114,7 @@ MagicSets = {
   "dom" => "Dominaria",
   "dpa" => "Duels of the Planeswalkers",
   "drb" => "From the Vault: Dragons",
+  "drc" => "Aetherdrift Commander",
   "drk" => "The Dark",
   "dsc" => "Duskmourn: House of Horror Commander",
   "dsk" => "Duskmourn: House of Horror",
