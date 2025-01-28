@@ -37,7 +37,7 @@ COMMANDER: 1 Temmet, Naktamun's Will [DRC:3] [foil]
 1 Plague Belcher
 1 Rot Hulk
 1 The Scarab God
-1 God-Pharaoh’s Gift
+1 God-Pharaoh's Gift
 1 Maskwood Nexus
 1 Adarkar Wastes
 1 Caves of Koilos
