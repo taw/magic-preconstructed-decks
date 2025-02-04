@@ -1,7 +1,7 @@
 // NAME: Eternal Might
 // SOURCE: https://magic.wizards.com/en/news/announcements/aetherdrift-commander-decklists
 // DATE: 2025-02-14
-COMMANDER: 1 Temmet, Naktamun's Will [DRC:3] [foil]
+COMMANDER: 1 Temmet, Naktamun's Will [DRC:4] [foil]
 1 Hashaton, Scarab's Fist [DRC:1] [foil]
 1 On Wings of Gold
 1 Priest of the Crossing
@@ -87,6 +87,6 @@ COMMANDER: 1 Temmet, Naktamun's Will [DRC:3] [foil]
 1 Evolving Wilds
 1 Orzhov Basilica
 1 Terramorphic Expanse
-5 Plains [4oFaP9dos1ptLTrBCnnp6T]
-4 Island [6fHl1ldF0kWqQEan9ZDBei]
-5 Swamp [aqd6LvFUawhHI6zECsU0G]
+5 Plains
+4 Island
+5 Swamp
