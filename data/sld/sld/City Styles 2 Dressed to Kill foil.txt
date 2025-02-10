@@ -1,0 +1,8 @@
+// NAME: City Styles 2: Dressed to Kill Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151113
+// DATE: 2025-02-11
+1 [SLD:1911] Karmic Guide [foil]
+1 [SLD:1912] Ninja of the Deep Hours [foil]
+1 [SLD:1913] Captain Sisay [foil]
+1 [SLD:1914] Selvala, Explorer Returned [foil]
+1 [SLD:1915] Veyran, Voice of Duality [foil]
