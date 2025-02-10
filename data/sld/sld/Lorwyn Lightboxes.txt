@@ -1,0 +1,8 @@
+// NAME: Lorwyn Lightboxes
+// SOURCE: https://secretlair.wizards.com/us/product/1151120
+// DATE: 2025-02-11
+1 [SLD:1320] Ancient Amphitheater
+1 [SLD:1321] Auntie's Hovel
+1 [SLD:1322] Gilt-Leaf Palace
+1 [SLD:1323] Secluded Glen
+1 [SLD:1324] Wanderwine Hub

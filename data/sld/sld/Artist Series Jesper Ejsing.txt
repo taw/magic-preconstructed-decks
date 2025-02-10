@@ -1,0 +1,7 @@
+// NAME: Artist Series: Jesper Ejsing
+// SOURCE: https://secretlair.wizards.com/us/product/1151110
+// DATE: 2025-02-11
+1 [SLD:1550] Sun Titan
+1 [SLD:1551] Breeches, Eager Pillager
+1 [SLD:1552] Deflecting Swat
+1 [SLD:1553] Llanowar Elves

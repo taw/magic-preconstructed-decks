@@ -1,0 +1,7 @@
+// NAME: Featuring: Luke Pearson
+// SOURCE: https://secretlair.wizards.com/us/product/1151108
+// DATE: 2025-02-11
+1 [SLD:1722] Witch of the Moors
+1 [SLD:1723] Bear Umbra
+1 [SLD:1724] Realmwalker
+1 [SLD:1725] Solemn Simulacrum
