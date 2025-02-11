@@ -1,9 +1,9 @@
 // NAME: Aether Drifters Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151117
 // DATE: 2025-02-11
-1 [SLD:1964] Parhelion II [foil]
-1 [SLD:1965] Mechtitan Core [foil]
-1 [SLD:1966] Peacewalker Colossus [foil]
-1 [SLD:1967] Reckoner Bankbuster [foil]
-1 [SLD:1968] Smuggler's Copter [foil]
+1 [SLD:1964a] Parhelion II [foil]
+1 [SLD:1965a] Mechtitan Core [foil]
+1 [SLD:1966a] Peacewalker Colossus [foil]
+1 [SLD:1967a] Reckoner Bankbuster [foil]
+1 [SLD:1968a] Smuggler's Copter [foil]
 1 [SLD:1979] Mechtitan [foil] [token]

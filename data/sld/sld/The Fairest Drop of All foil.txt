@@ -4,4 +4,4 @@
 1 [SLD:1325a] Estrid's Invocation [foil]
 1 [SLD:1326a] Steely Resolve [foil]
 1 [SLD:1327a] Estrid, the Masked [foil]
-1 [SLD:1328a] Tuvasa, the Sunlit [foil]
+1 [SLD:1328a] Tuvasa the Sunlit [foil]
