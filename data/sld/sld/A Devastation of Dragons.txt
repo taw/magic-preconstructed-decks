@@ -1,0 +1,7 @@
+// NAME: A Devastation of Dragons 
+// SOURCE: https://mtgrocks.com/mtg-a-devastation-of-dragons/
+// DATE: 2025-02-20
+1 [SLD:1528] Kokusho, the Evening Star [foil]
+1 [SLD:1529] Skyline Despot [foil]
+1 [SLD:1530] Niv-Mizzet, Parun [foil]
+1 [SLD:1531] Scion of the Ur-Dragon [foil]
