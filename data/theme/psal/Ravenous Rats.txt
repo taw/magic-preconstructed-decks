@@ -3,24 +3,38 @@
 // DATE: 2005-08-01
 24 Swamp
 1 Marrow-Gnawer
-3 Swarm of Rats
-3 Skullsnatcher
-3 Chittering Rats
-2 Dirty Wererat
-2 Nezumi Cutthroat
+1 Swarm of Rats [PSAL:A14]
+1 Swarm of Rats [PSAL:A2]
+1 Swarm of Rats [PSAL:A27]
+1 Skullsnatcher [PSAL:A4]
+1 Skullsnatcher [PSAL:A42]
+1 Skullsnatcher [PSAL:A43]
+1 Chittering Rats [PSAL:A19]
+1 Chittering Rats [PSAL:A5]
+1 Chittering Rats [PSAL:A54]
+1 Dirty Wererat [PSAL:A31]
+1 Dirty Wererat [PSAL:A7]
+1 Nezumi Cutthroat [PSAL:A17]
+1 Nezumi Cutthroat [PSAL:A29]
 1 Patron of the Nezumi
 1 Crypt Rats
-2 Nezumi Graverobber
-3 Carrion Rats
+1 Nezumi Graverobber [PSAL:A38a]
+1 Nezumi Graverobber [PSAL:A39a]
+1 Carrion Rats [PSAL:A40]
+1 Carrion Rats [PSAL:A41]
+1 Carrion Rats [PSAL:A53]
 1 Nezumi Bone-Reader
 1 Nocturnal Raid
 1 Betrayal of Flesh
-2 Crippling Fatigue
+1 Crippling Fatigue [PSAL:A30]
+1 Crippling Fatigue [PSAL:A6]
 1 Infernal Contract
-2 Sever Soul
+1 Sever Soul [PSAL:A15]
+1 Sever Soul [PSAL:A16]
 1 Dirge of Dread
 1 Suppress
-2 Rats' Feast
+1 Rats' Feast [PSAL:A44]
+1 Rats' Feast [PSAL:A55]
 1 Diabolic Tutor
 1 Gravestorm
 1 Larceny

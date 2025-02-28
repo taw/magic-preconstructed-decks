@@ -2,23 +2,37 @@
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
 24 Island
-2 Aven Windreader
+1 Aven Windreader [PSAL:H52]
+1 Aven Windreader [PSAL:H53]
 1 Azami, Lady of Scrolls
-2 Belltower Sphinx
+1 Belltower Sphinx [PSAL:H14]
+1 Belltower Sphinx [PSAL:H26]
 1 Dimir Guildmage
 1 Jetting Glasskite
-2 Martyr of Frost
+1 Martyr of Frost [PSAL:H17]
+1 Martyr of Frost [PSAL:H5]
 1 Minamo Scrollkeeper
-2 Puppeteer
-3 Soratami Mindsweeper
-2 Soratami Rainshaper
-2 Vedalken Dismisser
-4 Vedalken Entrancer
+1 Puppeteer [PSAL:H2]
+1 Puppeteer [PSAL:H39]
+1 Soratami Mindsweeper [PSAL:H28]
+1 Soratami Mindsweeper [PSAL:H3]
+1 Soratami Mindsweeper [PSAL:H50]
+1 Soratami Rainshaper [PSAL:H30]
+1 Soratami Rainshaper [PSAL:H43]
+1 Vedalken Dismisser [PSAL:H54]
+1 Vedalken Dismisser [PSAL:H55]
+1 Vedalken Entrancer [PSAL:H18]
+1 Vedalken Entrancer [PSAL:H31]
+1 Vedalken Entrancer [PSAL:H44]
+1 Vedalken Entrancer [PSAL:H7]
 1 Vedalken Mastermind
-2 Boomerang
+1 Boomerang [PSAL:H16]
+1 Boomerang [PSAL:H29]
 1 Hinder
-2 Vacuumelt
-2 Dehydration
+1 Vacuumelt [PSAL:H4]
+1 Vacuumelt [PSAL:H40]
+1 Dehydration [PSAL:H41]
+1 Dehydration [PSAL:H42]
 1 Booby Trap
 1 Hair-Strung Koto
 1 Mesmeric Orb
