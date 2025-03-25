@@ -1,0 +1,89 @@
+// NAME: Abzan Armor
+// SOURCE: https://magic.wizards.com/en/news/announcements/tarkir-dragonstorm-commander-decklists#Abzan
+// DATE:  2025-04-11
+COMMANDER: 1 Felothar the Steadfast [TDC:4] [foil]
+1 Betor, Ancestor's Voice [TDC:1] [foil]
+1 Protector of the Wastes
+1 Reunion of the House
+1 Jaws of Defeat
+1 Tip the Scales
+1 Will of the Abzan
+1 Arbor Adherent
+1 Canopy Gargantuan
+1 Rampart Architect
+1 Tree of Redemption
+1 Ikra Shidiqi, the Usurper
+1 Baldin, Century Herdmaster
+1 Expel the Interlopers
+1 Indomitable Ancients
+1 Rhox Faithmender
+1 Shalai, Voice of Plenty
+1 Wakestone Gargoyle
+1 Wall of Reverence
+1 Welcoming Vampire
+1 Zetalpa, Primal Dawn
+1 Arasta of the Endless Web
+1 Assault Formation
+1 Hornet Nest
+1 Seedborn Muse
+1 Sylvan Caryatid
+1 Towering Titan
+1 Anguished Unmaking
+1 Dragonlord Dromoka
+1 Faeburrow Elder
+1 Shadrix Silverquill
+1 Sidar Kondo of Jamuraa
+1 Colfenor's Urn
+1 Staff of Compleation
+1 Weathered Sentinels
+1 Canopy Vista
+1 Exotic Orchard
+1 Fortified Village
+1 Isolated Chapel
+1 Overgrown Farmland
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+1 Twilight Mire
+1 Woodland Cemetery
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Nyx-Fleece Ram
+1 Slaughter the Strong
+1 Swords to Plowshares
+1 Wall of Omens
+1 Wingmantle Chaplain
+1 Behind the Scenes
+1 Blight Pile
+1 Feed the Swarm
+1 Infernal Grasp
+1 Wall of Limbs
+1 Arboreal Grazer
+1 Axebane Guardian
+1 Carven Caryatid
+1 Evolving Wilds
+1 Jaddi Offshoot
+1 Overgrown Battlement
+1 Sandsteppe Citadel
+1 Tower Defense
+1 Wall of Blossoms
+1 Wall of Roots
+1 Despark
+1 Indulging Patrician
+1 Crashing Drawbridge
+1 Orzhov Signet
+1 Selesnya Signet
+1 Swiftfoot Boots
+1 Walking Bulwark
+1 Access Tunnel
+1 Bojuka Bog
+1 Deceptive Landscape
+1 Path of Ancestry
+1 Radiant Grove
+6 Plains
+5 Swamp
+7 Forest
+
