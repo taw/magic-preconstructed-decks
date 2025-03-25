@@ -73,7 +73,7 @@ COMMANDER: 1 Saheeli, Radiant Creator [DRC:3] [foil]
 1 Rogue Refiner
 1 Saheeli, Sublime Artificer
 1 Whirler Virtuoso
-1 Commander’s Sphere
+1 Commander's Sphere
 1 Decoction Module
 1 Ornithopter of Paradise
 1 Solar Transformer

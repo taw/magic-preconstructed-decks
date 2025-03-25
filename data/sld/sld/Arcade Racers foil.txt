@@ -1,0 +1,8 @@
+// NAME: Arcade Racers Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151111
+// DATE: 2025-02-11
+1 [SLD:1955] Big Score [foil]
+1 [SLD:1956] Final Fortune [foil]
+1 [SLD:1957] Heat Shimmer [foil]
+1 [SLD:1958] Roiling Vortex [foil]
+1 [SLD:1959] Wheel of Misfortune [foil]

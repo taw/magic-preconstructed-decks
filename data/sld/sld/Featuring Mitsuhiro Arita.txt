@@ -1,0 +1,7 @@
+// NAME: Featuring: Mitsuhiro Arita
+// SOURCE: https://secretlair.wizards.com/us/product/1151116
+// DATE: 2025-02-11
+1 [SLD:1877] Light-Paws, Emperor's Voice
+1 [SLD:1878] Murktide Regent
+1 [SLD:1879] Lightning Bolt
+1 [SLD:1880] Shorikai, Genesis Engine

@@ -4,29 +4,40 @@
 23 Forest
 1 Wirewood Lodge
 1 Voice of the Woods
-2 Nullmage Shepherd
-2 Wirewood Hivemaster
-2 Treetop Scout
+1 Nullmage Shepherd [PSAL:B2]
+1 Nullmage Shepherd [PSAL:B40]
+1 Wirewood Hivemaster [PSAL:B3]
+1 Wirewood Hivemaster [PSAL:B4]
+1 Treetop Scout [PSAL:B5]
+1 Treetop Scout [PSAL:B6]
 1 Wellwisher
 1 Elvish Vanguard
-2 Sylvan Messenger
-2 Llanowar Elite
-2 Timberwatch Elf
+1 Sylvan Messenger [PSAL:B14]
+1 Sylvan Messenger [PSAL:B15]
+1 Llanowar Elite [PSAL:B16]
+1 Llanowar Elite [PSAL:B17]
+1 Timberwatch Elf [PSAL:B18]
+1 Timberwatch Elf [PSAL:B19]
 1 Ambush Commander
 1 Wirewood Channeler
 1 Bloodline Shaman
-2 Seeker of Skybreak
+1 Seeker of Skybreak [PSAL:B29]
+1 Seeker of Skybreak [PSAL:B30]
 1 Viridian Scout
 1 Caller of the Claw
 1 Heedless One
-2 Elvish Warrior
+1 Elvish Warrior [PSAL:B41]
+1 Elvish Warrior [PSAL:B42]
 1 Wirewood Herald
 1 Elvish Champion
-1 Golgari Guildmage
-1 Selesnya Guildmage
-2 Birchlore Rangers
-3 Wirewood Pride
+1 Golgari Guildmage [PSAL:B50]
+1 Selesnya Guildmage [PSAL:B51]
+1 Birchlore Rangers [PSAL:B52]
+1 Birchlore Rangers [PSAL:B53]
+1 Wirewood Pride [PSAL:B32]
+1 Wirewood Pride [PSAL:B44]
+1 Wirewood Pride [PSAL:B55]
 1 Alpha Status
-1 Crown of Vigor
+1 Crown of Vigor [PSAL:B54]
 
 Sideboard

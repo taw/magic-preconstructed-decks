@@ -1,6 +1,6 @@
-// NAME: Marvel's Black Panther foil
-// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
-// DATE: 2024-11-04
+// NAME: Secret Lair x Marvel's Black Panther Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018565
+// DATE: 2024-11-05
 1 [SLD:1747] Black Panther, Wakandan King [foil]
 1 [SLD:1748] Secure the Wastes [foil]
 1 [SLD:1749] Bast's Blessing [foil]

@@ -1,0 +1,9 @@
+// NAME: Aether Drifters
+// SOURCE: https://secretlair.wizards.com/us/product/1151118
+// DATE: 2025-02-11
+1 [SLD:1964a] Parhelion II
+1 [SLD:1965a] Mechtitan Core
+1 [SLD:1966a] Peacewalker Colossus
+1 [SLD:1967a] Reckoner Bankbuster
+1 [SLD:1968a] Smuggler's Copter
+1 [SLD:1969] Mechtitan [token]

@@ -4,7 +4,7 @@
 1 Eager Cadet
 4 Glory Seeker
 3 Giant Octopus
-2 Vizzerdrix
+2 Vizzerdrix [9ED:S7]
 2 Coral Eel
 1 Fugitive Wizard
 2 Sacred Nectar
