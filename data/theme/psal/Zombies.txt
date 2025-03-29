@@ -2,23 +2,37 @@
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
 24 Swamp
-2 Blind Creeper
+1 Blind Creeper [PSAL:F29]
+1 Blind Creeper [PSAL:F4]
 1 Carrion Howler
 1 Fallen Angel
-3 Festering Goblin
+1 Festering Goblin [PSAL:F17]
+1 Festering Goblin [PSAL:F5]
+1 Festering Goblin [PSAL:F6]
 1 Gluttonous Zombie
-1 Golgari Guildmage
-3 Gravedigger
+1 Golgari Guildmage [PSAL:F39]
+1 Gravedigger [PSAL:F43]
+1 Gravedigger [PSAL:F55]
+1 Gravedigger [PSAL:F7]
 1 Helldozer
 1 Lord of the Undead
-3 Nantuko Husk
-2 Plagued Rusalka
+1 Nantuko Husk [PSAL:F15]
+1 Nantuko Husk [PSAL:F27]
+1 Nantuko Husk [PSAL:F3]
+1 Plagued Rusalka [PSAL:F28]
+1 Plagued Rusalka [PSAL:F40]
 1 Sanguine Praetor
-3 Spineless Thug
-2 Woebearer
+1 Spineless Thug [PSAL:F18]
+1 Spineless Thug [PSAL:F19]
+1 Spineless Thug [PSAL:F31]
+1 Woebearer [PSAL:F16]
+1 Woebearer [PSAL:F51]
 1 Call for Blood
-3 Dark Banishing
-2 Death Denied
+1 Dark Banishing [PSAL:F30]
+1 Dark Banishing [PSAL:F41]
+1 Dark Banishing [PSAL:F53]
+1 Death Denied [PSAL:F42]
+1 Death Denied [PSAL:F54]
 1 Dance of Shadows
 1 Death Pit Offering
 1 Horror of Horrors

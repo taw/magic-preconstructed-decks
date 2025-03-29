@@ -1,8 +1,8 @@
-// NAME: Marvel's Captain America
-// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
-// DATE: 2024-11-04
+// NAME: Secret Lair x Marvel's Captain America
+// SOURCE: https://secretlair.wizards.com/us/product/1018558
+// DATE: 2024-11-05
 1 [SLD:1726] Captain America, First Avenger
-1 [SLD:1727] Captain America's Aid
+1 [SLD:1727] Sigarda's Aid
 1 [SLD:1728] Flawless Maneuver
 1 [SLD:1729] In the Trenches
-1 [SLD:1730] Shield of War and Peace
+1 [SLD:1730] Sword of War and Peace

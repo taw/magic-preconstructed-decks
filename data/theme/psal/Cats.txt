@@ -3,17 +3,28 @@
 // DATE: 2005-08-01
 12 Plains
 5 Forest
-4 Terramorphic Expanse
-2 Selesnya Sanctuary
+1 Terramorphic Expanse [PSAL:L20]
+1 Terramorphic Expanse [PSAL:L34]
+1 Terramorphic Expanse [PSAL:L45]
+1 Terramorphic Expanse [PSAL:L8]
+1 Selesnya Sanctuary [PSAL:L33]
+1 Selesnya Sanctuary [PSAL:L44]
 1 Jedit Ojanen of Efrava
-2 Skyhunter Skirmisher
+1 Skyhunter Skirmisher [PSAL:L3]
+1 Skyhunter Skirmisher [PSAL:L39]
 1 Taj-Nar Swordsmith
 1 Jedit's Dragoons
-3 Skyhunter Cub
+1 Skyhunter Cub [PSAL:L18]
+1 Skyhunter Cub [PSAL:L42]
+1 Skyhunter Cub [PSAL:L7]
 1 Seht's Tiger
-2 Arctic Nishoba
-3 Leonin Den-Guard
-2 Skyhunter Patrol
+1 Arctic Nishoba [PSAL:L14]
+1 Arctic Nishoba [PSAL:L26]
+1 Leonin Den-Guard [PSAL:L17]
+1 Leonin Den-Guard [PSAL:L29]
+1 Leonin Den-Guard [PSAL:L30]
+1 Skyhunter Patrol [PSAL:L19]
+1 Skyhunter Patrol [PSAL:L54]
 1 Mirri, Cat Warrior
 1 Whitemane Lion
 1 Leonin Shikari
@@ -21,14 +32,19 @@
 1 Raksha Golden Cub
 1 Leonin Elder
 1 Leonin Skyhunter
-2 Saltblast
+1 Saltblast [PSAL:L28]
+1 Saltblast [PSAL:L53]
 1 Lightning Greaves
-2 Bonesplitter
+1 Bonesplitter [PSAL:L40]
+1 Bonesplitter [PSAL:L5]
 1 Specter's Shroud
 1 Leonin Bola
-2 Grifter's Blade
+1 Grifter's Blade [PSAL:L27]
+1 Grifter's Blade [PSAL:L50]
 1 Vulshok Gauntlets
-3 Selesnya Signet
+1 Selesnya Signet [PSAL:L41]
+1 Selesnya Signet [PSAL:L55]
+1 Selesnya Signet [PSAL:L56]
 1 Slagwurm Armor
 
 Sideboard

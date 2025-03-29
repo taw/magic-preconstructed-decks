@@ -631,6 +631,7 @@ MagicSets = {
   "td0" => "Magic Online Theme Decks",
   "td2" => "Duel Decks: Mirrodin Pure vs. New Phyrexia",
   "tdag" => "Defeat a God",
+  "tdc" => "Tarkir: Dragonstorm Commander",
   "tfth" => "Face the Hydra",
   "thb" => "Theros Beyond Death",
   "thp1" => "Theros Hero's Path",

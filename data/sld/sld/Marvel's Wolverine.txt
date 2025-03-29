@@ -1,8 +1,8 @@
-// NAME: Marvel's Wolverine
-// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
-// DATE: 2024-11-04
+// NAME: Secret Lair x Marvel's Wolverine
+// SOURCE: https://secretlair.wizards.com/us/product/1018562
+// DATE: 2024-11-05
 1 [SLD:1737] Wolverine, Best There Is
 1 [SLD:1738] Berserk
 1 [SLD:1739] Rite of Passage
 1 [SLD:1740] Rhythm of the Wild
-1 [SLD:1741] Adamantium Bonding Tank
+1 [SLD:1741] The Ozolith

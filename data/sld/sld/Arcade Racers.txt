@@ -1,0 +1,8 @@
+// NAME: Arcade Racers
+// SOURCE: https://secretlair.wizards.com/us/product/1151112
+// DATE: 2025-02-11
+1 [SLD:1955] Big Score
+1 [SLD:1956] Final Fortune
+1 [SLD:1957] Heat Shimmer
+1 [SLD:1958] Roiling Vortex
+1 [SLD:1959] Wheel of Misfortune

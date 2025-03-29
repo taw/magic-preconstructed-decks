@@ -4,25 +4,36 @@
 13 Island
 11 Swamp
 1 Cephalid Constable
-2 Dimir Infiltrator
+1 Dimir Infiltrator [PSAL:E4]
+1 Dimir Infiltrator [PSAL:E5]
 1 Doomsday Specter
 1 Higure, the Still Wind
 1 Keening Banshee
 1 Marsh Crocodile
-2 Merfolk of the Pearl Trident
+1 Merfolk of the Pearl Trident [PSAL:E42]
+1 Merfolk of the Pearl Trident [PSAL:E43]
 1 Mistblade Shinobi
 1 Nightscape Battlemage
-3 Ninja of the Deep Hours
-2 Okiba-Gang Shinobi
-2 Sage Owl
-3 Skullsnatcher
+1 Ninja of the Deep Hours [PSAL:E30]
+1 Ninja of the Deep Hours [PSAL:E41]
+1 Ninja of the Deep Hours [PSAL:E6]
+1 Okiba-Gang Shinobi [PSAL:E53]
+1 Okiba-Gang Shinobi [PSAL:E54]
+1 Sage Owl [PSAL:E31]
+1 Sage Owl [PSAL:E7]
+1 Skullsnatcher [PSAL:E17]
+1 Skullsnatcher [PSAL:E18]
+1 Skullsnatcher [PSAL:E19]
 1 Stormscape Battlemage
-2 Throat Slitter
+1 Throat Slitter [PSAL:E2]
+1 Throat Slitter [PSAL:E3]
 1 Urborg Emissary
 1 Vesper Ghoul
-2 Walker of Secret Ways
+1 Walker of Secret Ways [PSAL:E51]
+1 Walker of Secret Ways [PSAL:E52]
 1 Chill Haunting
-2 Clutch of the Undercity
+1 Clutch of the Undercity [PSAL:E14]
+1 Clutch of the Undercity [PSAL:E38]
 1 Deflection
 1 Struggle for Sanity
 1 Coastal Piracy

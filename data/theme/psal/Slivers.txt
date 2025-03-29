@@ -5,27 +5,43 @@
 7 Forest
 7 Mountain
 7 Swamp
-4 Blade Sliver
+1 Blade Sliver [PSAL:D2]
+1 Blade Sliver [PSAL:D3]
+1 Blade Sliver [PSAL:D38]
+1 Blade Sliver [PSAL:D52]
 1 Brood Sliver
-3 Crypt Sliver
-3 Hunter Sliver
+1 Crypt Sliver [PSAL:D29]
+1 Crypt Sliver [PSAL:D30]
+1 Crypt Sliver [PSAL:D50]
+1 Hunter Sliver [PSAL:D53]
+1 Hunter Sliver [PSAL:D7]
+1 Hunter Sliver [PSAL:D8]
 1 Magma Sliver
-3 Quick Sliver
-2 Root Sliver
-2 Spectral Sliver
+1 Quick Sliver [PSAL:D16]
+1 Quick Sliver [PSAL:D17]
+1 Quick Sliver [PSAL:D42]
+1 Root Sliver [PSAL:D14]
+1 Root Sliver [PSAL:D15]
+1 Spectral Sliver [PSAL:D27]
+1 Spectral Sliver [PSAL:D28]
 1 Toxin Sliver
 1 Bloodscent
-2 Darigaaz's Charm
-2 Dark Banishing
+1 Darigaaz's Charm [PSAL:D39]
+1 Darigaaz's Charm [PSAL:D51]
+1 Dark Banishing [PSAL:D31]
+1 Dark Banishing [PSAL:D32]
 1 Engulfing Flames
 1 Naturalize
-2 Aphetto Dredging
+1 Aphetto Dredging [PSAL:D40]
+1 Aphetto Dredging [PSAL:D41]
 1 Savage Offensive
 1 Cover of Darkness
-1 Crown of Vigor
+1 Crown of Vigor [PSAL:D6]
 1 Keldon Mantle
 1 Riptide Replicator
-2 Terrarion
-2 Wayfarer's Bauble
+1 Terrarion [PSAL:D19]
+1 Terrarion [PSAL:D20]
+1 Wayfarer's Bauble [PSAL:D43]
+1 Wayfarer's Bauble [PSAL:D44]
 
 Sideboard

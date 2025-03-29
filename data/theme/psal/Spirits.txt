@@ -4,29 +4,40 @@
 12 Mountain
 12 Plains
 1 Angelic Page
-3 Blademane Baku
+1 Blademane Baku [PSAL:C30]
+1 Blademane Baku [PSAL:C4]
+1 Blademane Baku [PSAL:C53]
 1 Blinking Spirit
 1 Celestial Kirin
-2 Frostling
+1 Frostling [PSAL:C16]
+1 Frostling [PSAL:C6]
 1 Horizon Seed
-2 Kami of the Palace Fields
+1 Kami of the Palace Fields [PSAL:C27]
+1 Kami of the Palace Fields [PSAL:C50]
 1 Lavaborn Muse
 1 Nikko-Onna
 1 Oyobi, Who Split the Heavens
-2 Pain Kami
-2 Phantom Flock
-2 Phantom Nomad
-1 Sandsower
-3 Shinen of Fury's Fire
-2 Soul of Magma
-2 Waxmane Baku
+1 Pain Kami [PSAL:C28]
+1 Pain Kami [PSAL:C29]
+1 Phantom Flock [PSAL:C3]
+1 Phantom Flock [PSAL:C39]
+1 Phantom Nomad [PSAL:C17]
+1 Phantom Nomad [PSAL:C7]
+1 Sandsower [PSAL:C51]
+1 Shinen of Fury's Fire [PSAL:C42]
+1 Shinen of Fury's Fire [PSAL:C54]
+1 Shinen of Fury's Fire [PSAL:C55]
+1 Soul of Magma [PSAL:C18]
+1 Soul of Magma [PSAL:C19]
+1 Waxmane Baku [PSAL:C31]
+1 Waxmane Baku [PSAL:C32]
 1 Yuki-Onna
 1 Aether Shockwave
 1 Crushing Pain
 1 Devouring Rage
 1 Stir the Pride
 1 Kirtar's Wrath
-1 Volcanic Hammer
-1 Spirit Link
+1 Volcanic Hammer [PSAL:C43]
+1 Spirit Link [PSAL:C40]
 
 Sideboard

@@ -1,0 +1,9 @@
+// NAME: Secret Lair x Hatsune Miku: Winter Diva EN Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151103
+// DATE: 2025-02-11
+1 [SLD:1586] Giada, Font of Hope [foil]
+1 [SLD:1588] Youthful Valkyrie [foil]
+1 [SLD:1589] Counterspell [foil]
+1 [SLD:1591] Swan Song [foil]
+1 [SLD:1601] Brago, King Eternal [foil]
+1 [SLD:1606] Scrying Sheets [foil]

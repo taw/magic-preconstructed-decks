@@ -1,0 +1,4 @@
+// NAME: The Strange Sands: Swamp Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1016906
+// DATE: 2025-01-15
+1 [SLD:1480] Swamp [foil]
