@@ -2,7 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/tarkir-dragonstorm-commander-decklists#Sultai
 // DATE:  2025-04-11
 COMMANDER: 1 Teval, the Balanced Scale [TDC:8] [foil]
-1 Kotis, Sibsig Champion [TDC:6] [foil]
+1 Kotis, Sibsig Champion [TDC:5] [foil]
 1 Diviner of Mist
 1 Afterlife from the Loam
 1 Teval's Judgment
