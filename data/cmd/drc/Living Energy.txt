@@ -85,6 +85,6 @@ COMMANDER: 1 Saheeli, Radiant Creator [DRC:3] [foil]
 1 Path of Ancestry
 1 Slagwoods Bridge
 1 Tanglepool Bridge
-5 Island
-5 Mountain
-6 Forest
+5 Island [DFT:280]
+5 Mountain [DFT:286]
+6 Forest [DFT:289]
