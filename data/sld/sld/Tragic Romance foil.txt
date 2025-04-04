@@ -1,0 +1,7 @@
+// NAME: Tragic Romance Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151500
+// DATE: 2025-03-25
+1 [SLD:1562] Skithiryx, the Blight Dragon [foil]
+1 [SLD:1563] Kaalia of the Vast [foil]
+1 [SLD:1564] Angel of Despair [foil]
+1 [SLD:1565] Master of Cruelties [foil]

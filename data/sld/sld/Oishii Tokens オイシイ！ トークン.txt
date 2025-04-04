@@ -1,0 +1,7 @@
+// NAME: Oishii! Tokens オイシイ！ トークン
+// SOURCE: https://secretlair.wizards.com/us/product/1151225
+// DATE: 2025-03-27
+1 [SLD:2010] Food [token]
+1 [SLD:2011] Food [token]
+1 [SLD:2012] Food [token]
+1 [SLD:2013] Food [token]

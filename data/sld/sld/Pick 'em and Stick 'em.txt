@@ -1,0 +1,13 @@
+// NAME: Pick 'em & Stick 'em
+// SOURCE: https://secretlair.wizards.com/us/product/1151497
+// DATE: 2025-03-25
+1 [SLD:1428] Thalia, Heretic Cathar
+1 [SLD:1429] Clever Impersonator
+1 [SLD:1430] Hedron Crab
+1 [SLD:1431] Pitiless Plunderer
+1 [SLD:1432] Treasure [token]
+1 [SLD:335] Sticker sheet
+1 [SLD:336] Sticker sheet
+1 [SLD:337] Sticker sheet
+1 [SLD:338] Sticker sheet
+1 [SLD:339] Sticker sheet

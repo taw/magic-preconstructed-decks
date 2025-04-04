@@ -1,0 +1,8 @@
+// NAME: Secret Lair x SpongeBob SquarePants: Lands Under the Sea Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151488
+// DATE: 2025-03-25
+2 [SLD:1939] Plains [foil]
+2 [SLD:1940] Island [foil]
+2 [SLD:1941] Swamp [foil]
+2 [SLD:1942] Mountain [foil]
+2 [SLD:1943] Forest [foil]

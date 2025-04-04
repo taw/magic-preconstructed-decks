@@ -1,0 +1,7 @@
+// NAME: Secret Lair High: Class of '87
+// SOURCE: https://secretlair.wizards.com/us/product/1151499
+// DATE: 2025-03-25
+1 [SLD:1873a] Aesi, Tyrant of Gyre Strait
+1 [SLD:1874a] Anje Falkenrath
+1 [SLD:1875a] Chulane, Teller of Tales
+1 [SLD:1876a] Radha, Heart of Keld

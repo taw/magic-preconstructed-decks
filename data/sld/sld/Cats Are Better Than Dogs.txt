@@ -1,0 +1,8 @@
+// NAME: Cats Are Better Than Dogs
+// SOURCE: https://secretlair.wizards.com/us/product/1151170
+// DATE: 2025-03-18
+1 [SLD:1916] Escape to the Wilds
+1 [SLD:1917] Rip Apart
+1 [SLD:1918] Titanic Ultimatum
+1 [SLD:1919] Arcane Signet
+1 [SLD:1920] Basilisk Collar

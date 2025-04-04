@@ -1,0 +1,8 @@
+// NAME: Twisted Toons
+// SOURCE: https://secretlair.wizards.com/us/product/1151503
+// DATE: 2025-03-25
+1 [SLD:1816] Silence
+1 [SLD:1817] Winds of Abandon
+1 [SLD:1818] Culling the Weak
+1 [SLD:1819] Fatal Push
+1 [SLD:1820] Young Wolf

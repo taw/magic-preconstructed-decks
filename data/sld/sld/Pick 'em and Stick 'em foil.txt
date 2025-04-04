@@ -1,0 +1,13 @@
+// NAME: Pick ‘em & Stick ‘em Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151496
+// DATE: 2025-03-25
+1 [SLD:1428] Thalia, Heretic Cathar [foil]
+1 [SLD:1429] Clever Impersonator [foil]
+1 [SLD:1430] Hedron Crab [foil]
+1 [SLD:1431] Pitiless Plunderer [foil]
+1 [SLD:1432] Treasure [foil] [token]
+1 [SLD:335] Sticker sheet [foil]
+1 [SLD:336] Sticker sheet [foil]
+1 [SLD:337] Sticker sheet [foil]
+1 [SLD:338] Sticker sheet [foil]
+1 [SLD:339] Sticker sheet [foil]

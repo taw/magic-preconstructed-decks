@@ -1,0 +1,8 @@
+// NAME: Twisted Toons Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151502
+// DATE: 2025-03-25
+1 [SLD:1816] Silence [foil]
+1 [SLD:1817] Winds of Abandon [foil]
+1 [SLD:1818] Culling the Weak [foil]
+1 [SLD:1819] Fatal Push [foil]
+1 [SLD:1820] Young Wolf [foil]

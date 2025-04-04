@@ -1,0 +1,9 @@
+// NAME: Secret Lair x SpongeBob SquarePants: Internet Sensation Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151486
+// DATE: 2025-03-25
+1 [SLD:1933] Counterspell [foil]
+1 [SLD:1934] Daze [foil]
+1 [SLD:1935] Inevitable Betrayal [foil]
+1 [SLD:1936] Force of Despair [foil]
+1 [SLD:1937] Night's Whisper [foil]
+1 [SLD:1938] Food [foil] [token]
