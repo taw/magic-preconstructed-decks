@@ -1,0 +1,10 @@
+// NAME: Secret Lair x SpongeBob SquarePants: Legends of Bikini Bottom
+// SOURCE: https://secretlair.wizards.com/us/product/1151491
+// DATE: 2025-03-25
+1 [SLD:1926] Skrelv, Defector Mite
+1 [SLD:1927] Charix, the Raging Isle
+1 [SLD:1928] Grazilaxx, Illithid Scholar
+1 [SLD:1929] Toxrill, the Corrosive
+1 [SLD:1930] Toski, Bearer of Secrets
+1 [SLD:1931] Barktooth Warbeard
+1 [SLD:1932] Jodah, the Unifier

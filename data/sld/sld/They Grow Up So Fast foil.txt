@@ -1,0 +1,8 @@
+// NAME: They Grow Up So Fast Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151492
+// DATE: 2025-03-25
+1 [SLD:1970a] Dragonlord Atarka [foil]
+1 [SLD:1971a] Dragonlord Dromoka [foil]
+1 [SLD:1972a] Dragonlord Kolaghan [foil]
+1 [SLD:1973a] Dragonlord Ojutai [foil]
+1 [SLD:1974a] Dragonlord Silumgar [foil]
