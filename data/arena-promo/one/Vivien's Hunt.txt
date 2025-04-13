@@ -5,13 +5,13 @@
 1 Howlpack Piper
 1 Gala Greeters
 1 Titan of Industry
-1 Shigeki, Jukai Visionary
+1 Shigeki, Jukai Visionary [NEO:206]
 1 Graaz, Unstoppable Juggernaut
 1 Tovolar's Huntmaster
 1 Workshop Warchief
 1 Augur of Autumn
 1 Gaea's Courser
-2 Fang of Shigeki
+2 Fang of Shigeki [NEO:183]
 2 Reclusive Taxidermist
 3 Elfhame Wurm
 3 Dawnhart Rejuvenator
