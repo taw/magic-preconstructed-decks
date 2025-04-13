@@ -7,7 +7,7 @@
 1 Tenacious Underdog
 3 Undead Butler
 1 Old Stickfingers
-1 Shigeki, Jukai Visionary
+1 Shigeki, Jukai Visionary [NEO:206]
 2 Gravelighter
 3 Fell Stinger
 2 Gloomshrieker

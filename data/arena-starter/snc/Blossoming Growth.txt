@@ -1,7 +1,7 @@
 // NAME: Blossoming Growth
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2022-09-09
-2 Fang of Shigeki
+2 Fang of Shigeki [NEO:183]
 1 Triskaidekaphile [MID:81]
 3 Jewel Thief
 1 Psychic Pickpocket

@@ -10,7 +10,7 @@
 1 Lion Sash
 2 Selfless Samurai
 2 Twinblade Geist
-3 Eiganjo Exemplar
+3 Eiganjo Exemplar [NEO:10]
 1 Blade-Blizzard Kitsune
 1 Risona, Asari Commander
 1 Raiyuu, Storm's Edge
