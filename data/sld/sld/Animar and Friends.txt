@@ -1,0 +1,8 @@
+// NAME: Animar & Friends
+// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Animar_%26_Friends
+// DATE: 2025-02-03
+1 [SLD:1887] Mulldrifter [foil]
+1 [SLD:1888] All Will Be One [foil]
+1 [SLD:1889] Benevolent Hydra [foil]
+1 [SLD:1890] Forgotten Ancient [foil]
+1 [SLD:1891] Animar, Soul of Elements [foil]
