@@ -1,0 +1,7 @@
+// NAME: Adventures of the Little Witch Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1107792
+// DATE: 2025-04-23
+1 [SLD:1892] Secret Rendezvous [foil]
+1 [SLD:1893] Serenity [foil]
+1 [SLD:1894] Esika's Chariot [foil]
+1 [SLD:1895] Realms Uncharted [foil]
