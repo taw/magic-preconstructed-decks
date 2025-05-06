@@ -9,4 +9,4 @@
 1 Sol Ring [foil]
 1 Command Tower [foil]
 1 Liliana, Heretical Healer [foil]
-1 Snake [token] [foil]
+1 Snake [token] [foil] [CC2:9a]

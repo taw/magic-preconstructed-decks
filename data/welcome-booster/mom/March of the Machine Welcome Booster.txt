@@ -8,7 +8,7 @@
 1 [M21:151] Hellkite Punisher
 1 [MIC:134] Bestial Menace
 1 [M21:135] Chandra, Heart of Fire
-1 [TMOM:2] Soldier [token]
+1 [MOM:2] Soldier [token]
 1 [KTK:200] Siege Rhino
 1 [C21:142] Defiant Bloodlord
 1 [DMU:323] Tura Kennerüd, Skyknight

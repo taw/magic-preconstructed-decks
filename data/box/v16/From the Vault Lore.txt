@@ -16,4 +16,4 @@
 1 Tolaria West [foil]
 1 Umezawa's Jitte [foil]
 1 Unmask [foil]
-1 Marit Lage [foil] [token]
+1 Marit Lage [foil] [token] [V16:16]

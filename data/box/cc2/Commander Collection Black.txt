@@ -9,4 +9,4 @@
 1 Sol Ring
 1 Command Tower
 1 Liliana, Heretical Healer
-1 Snake [token]
+1 Snake [token] [CC2:9b]
