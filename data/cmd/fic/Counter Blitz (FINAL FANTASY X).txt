@@ -1,0 +1,103 @@
+// NAME: Counter Blitz (FINAL FANTASY X)
+// SOURCE: https://magic.wizards.com/en/news/announcements/final-fantasy-commander-decklists
+// DATE: 2025-06-13
+COMMANDER: 1 Tidus, Yuna's Guardian [FIC:5] [foil]
+1 Yuna, Grand Summoner [FIC:8] [foil]
+1 Auron, Venerated Guardian
+1 Chocobo Knights
+1 Gatta and Luzzu
+1 Lord Jyscal Guado
+1 Protection Magic
+1 Summon: Ixion
+1 Summon: Yojimbo
+1 Summoner's Sending
+1 Blitzball Stadium
+1 Lulu, Stern Guardian
+1 O'aka, Traveling Merchant
+1 Rikku, Resourceful Guardian
+1 Summon: Valefor
+1 Maester Seymour
+1 Sphere Grid
+1 Summon: Magus Sisters
+1 Tromell, Seymour's Butler
+1 Yuna's Decision
+1 Yuna's Whistle
+1 Kimahri, Valiant Guardian
+1 Shelinda, Yevon Acolyte
+1 Sin, Unending Cataclysm
+1 Wakka, Devoted Guardian
+1 Collective Effort
+1 Damning Verdict
+1 Farewell
+1 Luminous Broodmoth
+1 Promise of Loyalty
+1 Resourceful Defense
+1 Scholar of New Horizons
+1 Sunscorch Regent
+1 Together Forever
+1 Chasm Skulker
+1 Inexorable Tide
+1 Pull from Tomorrow
+1 Bane of Progress
+1 Fight Rigging
+1 Forgotten Ancient
+1 Generous Patron
+1 Gyre Sage
+1 Hardened Scales
+1 Incubation Druid
+1 Path of Discovery
+1 Rampant Rejuvenator
+1 Tireless Tracker
+1 Altered Ego
+1 Endless Detour
+1 Fathom Mage
+1 Walking Ballista
+1 Brushland
+1 Canopy Vista
+1 Exotic Orchard
+1 Flooded Grove
+1 Fortified Village
+1 Glacial Fortress
+1 Hinterland Harbor
+1 Overflowing Basin
+1 Port Town
+1 Prairie Stream
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Vineglimmer Snarl
+1 Destroy Evil
+1 Grateful Apparition
+1 Path to Exile
+1 An Offer You Can't Refuse
+1 Duskshell Crawler
+1 Farseek
+1 Inspiring Call
+1 Three Visits
+1 Bred for the Hunt
+1 Arcane Signet [FIC:334]
+1 Everflowing Chalice
+1 Sol Ring [FIC:358]
+1 Ash Barrens
+1 Evolving Wilds
+1 Forge of Heroes
+1 Idyllic Beachfront
+1 Nesting Grounds
+1 Path of Ancestry
+1 Radiant Grove
+1 Seaside Citadel
+1 Tangled Islet
+1 Temple of the False God
+1 Command Tower [FIC:486]
+1 Island [FIN:297]
+1 Island [FIN:298]
+1 Island [FIN:299]
+1 Forest [FIN:306]
+1 Forest [FIN:307]
+1 Forest [FIN:308]
+1 Plains [FIN:294]
+1 Plains [FIN:295]
+1 Plains [FIN:296]
