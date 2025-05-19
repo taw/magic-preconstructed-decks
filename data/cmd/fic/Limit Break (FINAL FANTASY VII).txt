@@ -1,0 +1,103 @@
+// NAME: Limit Break (FINAL FANTASY VII)
+// SOURCE: https://magic.wizards.com/en/news/announcements/final-fantasy-commander-decklists
+// DATE: 2025-06-13
+COMMANDER: 1 Cloud, Ex-SOLDIER [FIC:2] [foil]
+1 Tifa, Martial Artist [FIC:6] [foil]
+1 Cid, Freeflier Pilot
+1 Cloud's Limit Break
+1 Elena, Turk Recruit
+1 Heidegger, Shinra Executive
+1 Helitrooper
+1 SOLDIER Military Program
+1 Ultimate Magic: Holy
+1 Avalanche of Sector 7
+1 Cait Sith, Fortune Teller
+1 Summon: Kujata
+1 Ultimate Magic: Meteor
+1 Vincent, Vengeful Atoner
+1 Yuffie, Materia Hunter
+1 Bugenhagen, Wise Elder
+1 Lifestream's Blessing
+1 Professor Hojo
+1 Summoning Materia
+1 Aerith, Last Ancient
+1 Barret, Avalanche Leader
+1 Red XIII, Proud Warrior
+1 Sephiroth, Fallen Hero
+1 Conformer Shuriken
+1 Wrecking Ball Arm
+1 Austere Command
+1 Bastion Protector
+1 Bronze Guardian
+1 Clever Concealment
+1 Puresteel Paladin
+1 Unfinished Business
+1 Vanquish the Horde
+1 Chaos Warp
+1 Hellkite Tyrant
+1 Professional Face-Breaker
+1 Decimate
+1 Armory Automaton
+1 Champion's Helm
+1 Conqueror's Flail
+1 Darksteel Plate
+1 Inspiring Statuary
+1 Sword of the Animist
+1 Battlefield Forge
+1 Bonders' Enclave
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Exotic Orchard
+1 Fire-Lit Thicket
+1 Fortified Village
+1 Furycalm Snarl
+1 Game Trail
+1 Mossfire Valley
+1 Rootbound Crag
+1 Rugged Prairie
+1 Scavenger Grounds
+1 Slayers' Stronghold
+1 Spire of Industry
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Sunscorched Divide
+1 Zack Fair
+1 Barret Wallace
+1 Dispatch
+1 Secret Rendezvous [FIC:217]
+1 Furious Rise
+1 Vandalblast
+1 Cultivate
+1 Harmonize
+1 Nature's Lore
+1 Rampant Growth
+1 Behemoth Sledge
+1 Arcane Signet [FIC:333]
+1 Colossus Hammer
+1 Explorer's Scope
+1 Hero's Blade
+1 Hero's Heirloom
+1 Lightning Greaves
+1 Mask of Memory
+1 Skullclamp
+1 Sol Ring [FIC:357]
+1 Trailblazer's Boots
+1 Ash Barrens
+1 Evolving Wilds
+1 Jungle Shrine
+1 Path of Ancestry
+1 Radiant Grove
+1 Sacred Peaks
+1 Wooded Ridgeline
+1 Command Tower [FIC:485]
+1 Mountain [FIN:303]
+1 Mountain [FIN:304]
+1 Mountain [FIN:305]
+1 Forest [FIN:306]
+1 Forest [FIN:307]
+1 Forest [FIN:308]
+1 Plains [FIN:294]
+1 Plains [FIN:295]
+1 Plains [FIN:296]
