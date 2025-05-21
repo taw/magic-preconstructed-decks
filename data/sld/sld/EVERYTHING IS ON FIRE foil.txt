@@ -1,0 +1,8 @@
+// NAME: EVERYTHING IS ON FIRE Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1161309
+// DATE: 2025-05-13
+1 [SLD:2047] Chain Lightning [foil]
+1 [SLD:2048] Dragon's Rage Channeler [foil]
+1 [SLD:2049] Lava Spike [foil]
+1 [SLD:2050] Rift Bolt [foil]
+1 [SLD:2051] Skewer the Critics [foil]

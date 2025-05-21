@@ -1,0 +1,8 @@
+// NAME: Featuring: Jay Howell
+// SOURCE: https://secretlair.wizards.com/us/product/1161313
+// DATE: 2025-05-13
+1 [SLD:2005] Agent of Treachery
+1 [SLD:2006] Priest of Forgotten Gods
+1 [SLD:2007] Treasonous Ogre
+1 [SLD:2008] Uncivil Unrest
+1 [SLD:2009] Marchesa, the Black Rose

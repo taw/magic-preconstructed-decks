@@ -1,0 +1,8 @@
+// NAME: Secret Lair x KEXP: You Are Not Alone Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1161301
+// DATE: 2025-05-13
+1 [SLD:2071] Cultural Exchange [foil]
+1 [SLD:2072] Folio of Fancies [foil]
+1 [SLD:2073] Concordant Crossroads [foil]
+1 [SLD:2074] Rites of Flourishing [foil]
+1 [SLD:2075] Font of Mythos [foil]
