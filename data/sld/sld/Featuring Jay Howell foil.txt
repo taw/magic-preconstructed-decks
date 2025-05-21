@@ -1,0 +1,8 @@
+// NAME: Featuring: Jay Howell Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1161312
+// DATE: 2025-05-13
+1 [SLD:2005] Agent of Treachery [foil]
+1 [SLD:2006] Priest of Forgotten Gods [foil]
+1 [SLD:2007] Treasonous Ogre [foil]
+1 [SLD:2008] Uncivil Unrest [foil]
+1 [SLD:2009] Marchesa, the Black Rose [foil]

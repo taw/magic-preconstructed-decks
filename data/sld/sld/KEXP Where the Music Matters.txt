@@ -1,0 +1,8 @@
+// NAME: Secret Lair x KEXP: Where the Music Matters®
+// SOURCE: https://secretlair.wizards.com/us/product/1161300
+// DATE: 2025-05-13
+2 [SLD:2076] Plains
+2 [SLD:2077] Island
+2 [SLD:2078] Swamp
+2 [SLD:2079] Mountain
+2 [SLD:2080] Forest
