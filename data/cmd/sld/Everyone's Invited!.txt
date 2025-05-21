@@ -102,3 +102,11 @@ COMMANDER: 1 Morophon, the Boundless [SLD:1896] [foil]
 1 Island [PLST:JMP-47]
 1 Swamp [PLST:JMP-59]
 
+Sideboard
+1 Shapeshifter [SLD:1906] [foil] [token]
+1 Shapeshifter [SLD:1907] [foil] [token]
+1 Shapeshifter [SLD:1908] [foil] [token]
+1 Shapeshifter [SLD:1909] [foil] [token]
+
+Display Commander
+1 Morophon, the Boundless [SLD:1944] [foil]
