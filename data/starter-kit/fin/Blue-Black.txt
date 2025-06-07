@@ -1,0 +1,28 @@
+// NAME: Blue-Black
+// SOURCE: https://magic.wizards.com/en/news/announcements/final-fantasy-starter-kit-decklists
+// DATE: 2025-06-13
+1 Sephiroth, Planet's Heir [FIN:553] [foil]
+1 Sahagin
+3 Il Mheg Pixie
+2 Retrieve the Esper
+2 Dreams of Laguna
+1 Relm's Sketching
+1 Ultimecia, Temporal Threat [FIN:556]
+4 Undercity Dire Rat
+3 Shinra Reinforcements
+3 Sephiroth's Intervention
+3 Shambling Cie'th
+3 Al Bhed Salvagers
+2 Overkill
+2 Evil Reawakened
+1 Seymour Flux [FIN:558]
+1 Deadly Embrace [FIN:557]
+1 Xande, Dark Mage [FIN:561]
+1 Magitek Scythe
+4 Treno, Dark City
+3 Island [FIN:297]
+3 Island [FIN:298]
+3 Island [FIN:299]
+4 Swamp [FIN:300]
+4 Swamp [FIN:301]
+4 Swamp [FIN:302]
