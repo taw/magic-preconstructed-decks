@@ -1,4 +1,4 @@
-// NAME: Rogue (2)
+// NAME: Rogues (2)
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
 // DATE: 2020-07-17
 1 Corpse Traders
