@@ -1,0 +1,8 @@
+// NAME: Secret Lair x FINAL FANTASY: Grimoire EN
+// SOURCE: https://secretlair.wizards.com/us/product/1245647
+// DATE: 2025-06-10
+1 [SLD:1868] Prismatic Ending
+1 [SLD:1869] Cyclonic Rift
+1 [SLD:1870] Damn
+1 [SLD:1871] Lightning Bolt
+1 [SLD:1872] Heroic Intervention

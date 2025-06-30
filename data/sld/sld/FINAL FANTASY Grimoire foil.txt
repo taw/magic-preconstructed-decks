@@ -1,0 +1,8 @@
+// NAME: Secret Lair x FINAL FANTASY: Grimoire EN Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1245646
+// DATE: 2025-06-10
+1 [SLD:1868] Prismatic Ending [foil]
+1 [SLD:1869] Cyclonic Rift [foil]
+1 [SLD:1870] Damn [foil]
+1 [SLD:1871] Lightning Bolt [foil]
+1 [SLD:1872] Heroic Intervention [foil]
