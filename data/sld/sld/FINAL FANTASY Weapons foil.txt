@@ -1,0 +1,8 @@
+// NAME: Secret Lair x FINAL FANTASY: Weapons EN Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1245642
+// DATE: 2025-06-10
+1 [SLD:1863] Staff of the Storyteller [foil]
+1 [SLD:1864] Blade of Selves [foil]
+1 [SLD:1865] Umezawa's Jitte [foil]
+1 [SLD:1866] Colossus Hammer [foil]
+1 [SLD:1867] Sword of Truth and Justice [foil]

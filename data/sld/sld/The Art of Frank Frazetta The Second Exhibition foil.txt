@@ -1,0 +1,8 @@
+// NAME: The Art of Frank Frazetta: The Second Exhibition Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1161077
+// DATE: 2025-06-10
+1 [SLD:1979] Deadly Dispute [foil]
+1 [SLD:1980] Murderous Rider [foil]
+1 [SLD:1981] Zulaport Cutthroat [foil]
+1 [SLD:1982] Aggravated Assault [foil]
+1 [SLD:1983] Desperate Ritual [foil]
