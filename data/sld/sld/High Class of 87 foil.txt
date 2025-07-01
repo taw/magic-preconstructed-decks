@@ -1,7 +1,7 @@
 // NAME: Secret Lair High: Class of '87 Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151498
 // DATE: 2025-03-25
-1 [SLD:1873] Aesi, Tyrant of Gyre Strait [foil]
-1 [SLD:1874] Anje Falkenrath [foil]
-1 [SLD:1875] Chulane, Teller of Tales [foil]
-1 [SLD:1876] Radha, Heart of Keld [foil]
+1 [SLD:1873a] Aesi, Tyrant of Gyre Strait [foil]
+1 [SLD:1874a] Anje Falkenrath [foil]
+1 [SLD:1875a] Chulane, Teller of Tales [foil]
+1 [SLD:1876a] Radha, Heart of Keld [foil]
