@@ -1,8 +1,8 @@
 // NAME: The Art of Frank Frazetta: The Second Exhibition
 // SOURCE: https://secretlair.wizards.com/us/product/1161078
 // DATE: 2025-06-10
-1 [SLD:1979] Deadly Dispute
-1 [SLD:1980] Murderous Rider
-1 [SLD:1981] Zulaport Cutthroat
-1 [SLD:1982] Aggravated Assault
-1 [SLD:1983] Desperate Ritual
+1 [SLD:1980] Deadly Dispute
+1 [SLD:1981a] Murderous Rider
+1 [SLD:1982] Zulaport Cutthroat
+1 [SLD:1983] Aggravated Assault
+1 [SLD:1984] Desperate Ritual
