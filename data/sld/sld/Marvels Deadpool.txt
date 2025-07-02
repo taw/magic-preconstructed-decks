@@ -1,8 +1,0 @@
-// NAME: Secret Lair x Marvel's Deadpool
-// SOURCE: https://secretlair.wizards.com/us/product/1151231
-// DATE: 2025-04-02
-1 [SLD:1753] Deadpool, Trading Card
-1 [SLD:1754] Deadly Rollick
-1 [SLD:1755] Saw in Half
-1 [SLD:1756] Blasphemous Act
-1 [SLD:1757] Vandalblast
