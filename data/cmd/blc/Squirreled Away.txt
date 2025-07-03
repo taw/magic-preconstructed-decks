@@ -3,7 +3,7 @@
 // DATE: 2024-08-02
 COMMANDER: 1 Hazel of the Rootbloom [foil] [BLC:2]
 1 The Odd Acorn Gang [foil] [BLC:7]
-1 Garruk, Cursed Huntsman
+1 Garruk, Cursed Huntsman [foil]
 1 Chittering Witch
 1 Insatiable Frugivore [BLC:18]
 1 Moonstone Eulogist [BLC:19]
