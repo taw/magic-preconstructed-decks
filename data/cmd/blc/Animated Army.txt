@@ -3,7 +3,7 @@
 // DATE: 2024-08-02
 COMMANDER: 1 Bello, Bard of the Brambles [foil] [BLC:1]
 1 Wildsear, Scouring Maw [foil] [BLC:8]
-1 Domri, Anarch of Bolas
+1 Domri, Anarch of Bolas [foil]
 1 Etali, Primal Storm
 1 Prosperous Bandit [BLC:25]
 1 Pyreswipe Hawk [BLC:26]

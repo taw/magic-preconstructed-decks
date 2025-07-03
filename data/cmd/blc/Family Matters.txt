@@ -3,7 +3,7 @@
 // DATE: 2024-08-02
 COMMANDER: 1 Zinnia, Valley's Voice [foil] [BLC:4]
 1 Arthur, Marigold Knight [foil] [BLC:5]
-1 Elspeth, Sun's Champion
+1 Elspeth, Sun's Champion [foil]
 1 Jazal Goldmane
 1 Martial Coup
 1 Storm of Souls

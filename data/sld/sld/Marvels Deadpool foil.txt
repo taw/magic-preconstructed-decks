@@ -1,8 +1,0 @@
-// NAME: Secret Lair x Marvel's Deadpool Foil Edition
-// SOURCE: https://secretlair.wizards.com/us/product/1151230
-// DATE: 2025-04-02
-1 [SLD:1753] Deadpool, Trading Card [foil]
-1 [SLD:1754] Deadly Rollick [foil]
-1 [SLD:1755] Saw in Half [foil]
-1 [SLD:1756] Blasphemous Act [foil]
-1 [SLD:1757] Vandalblast [foil]

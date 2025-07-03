@@ -3,7 +3,7 @@
 // DATE: 2024-08-02
 COMMANDER: 1 Ms. Bumbleflower [foil] [BLC:3]
 1 Mr. Foxglove [foil] [BLC:6]
-1 Tamiyo, Field Researcher
+1 Tamiyo, Field Researcher [foil]
 1 Tenuous Truce
 1 Loran of the Third Path
 1 Steelburr Champion [BLC:12]
