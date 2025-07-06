@@ -106,4 +106,4 @@ Sideboard
 2 Shrine [SLD:1835] [token] [foil]
 
 Display Commander
-1 Go-Shintai of Life's Origin [SLD:1825] [foil]
+1 Go-Shintai of Life's Origin [SLD:1853] [foil]
