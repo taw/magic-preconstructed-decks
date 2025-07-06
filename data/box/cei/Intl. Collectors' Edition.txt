@@ -92,21 +92,9 @@
 1 Fog
 1 Force of Nature
 1 Forcefield
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
-1 Forest
+5 Forest [CEI:300]
+5 Forest [CEI:301]
+5 Forest [CEI:302]
 1 Fork
 1 Frozen Shade
 1 Fungusaur
@@ -141,22 +129,9 @@
 1 Iron Star
 1 Ironclaw Orcs
 1 Ironroot Treefolk
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
-1 Island
+5 Island [CEI:291]
+6 Island [CEI:292]
+5 Island [CEI:293]
 1 Island Sanctuary
 1 Ivory Cup
 1 Jade Monolith
@@ -194,22 +169,9 @@
 1 Mesa Pegasus
 1 Mind Twist
 1 Mons's Goblin Raiders
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
-1 Mountain
+6 Mountain [CEI:297]
+5 Mountain [CEI:298]
+5 Mountain [CEI:299]
 1 Mox Emerald
 1 Mox Jet
 1 Mox Pearl
@@ -233,20 +195,9 @@
 1 Phantom Monster
 1 Pirate Ship
 1 Plague Rats
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
-1 Plains
+4 Plains [CEI:288]
+5 Plains [CEI:289]
+5 Plains [CEI:290]
 1 Plateau
 1 Power Leak
 1 Power Sink
@@ -297,21 +248,9 @@
 1 Stone Rain
 1 Stream of Life
 1 Sunglasses of Urza
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
-1 Swamp
+5 Swamp [CEI:294]
+5 Swamp [CEI:295]
+5 Swamp [CEI:296]
 1 Swords to Plowshares
 1 Taiga
 1 Terror
