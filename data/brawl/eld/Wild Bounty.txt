@@ -41,11 +41,11 @@ COMMANDER: 1 Chulane, Teller of Tales [foil]
 5 Plains
 4 Island
 6 Forest
-1 Azorius Guildgate
+1 Azorius Guildgate [RNA:243]
 1 Blossoming Sands
 1 Command Tower
 1 Evolving Wilds
-1 Selesnya Guildgate
-1 Simic Guildgate
+1 Selesnya Guildgate [GRN:256]
+1 Simic Guildgate [RNA:258]
 1 Tranquil Cove
 1 Thornwood Falls

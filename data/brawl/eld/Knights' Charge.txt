@@ -43,11 +43,11 @@ COMMANDER: 1 Syr Gwyn, Hero of Ashvale [foil]
 3 Swamp
 5 Mountain
 1 Bloodfell Caves
-1 Boros Guildgate
+1 Boros Guildgate [GRN:243]
 1 Command Tower
 1 Evolving Wilds
-1 Orzhov Guildgate
-1 Rakdos Guildgate
+1 Orzhov Guildgate [RNA:253]
+1 Rakdos Guildgate [RNA:256]
 1 Scoured Barrens
 1 Tournament Grounds
 1 Wind-Scarred Crag
