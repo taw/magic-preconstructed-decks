@@ -22,7 +22,7 @@
 2 Sphinx's Insight
 1 Precognitive Perception
 1 Time Wipe
-4 Azorius Guildgate
+4 Azorius Guildgate [RNA:243]
 1 Hallowed Fountain
 10 Plains
 10 Island

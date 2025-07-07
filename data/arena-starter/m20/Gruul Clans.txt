@@ -22,7 +22,7 @@
 1 Domri's Ambush
 2 Lava Coil
 2 Savage Smash
-4 Gruul Guildgate
+4 Gruul Guildgate [RNA:249]
 1 Stomping Ground
 10 Mountain
 10 Forest

@@ -22,6 +22,6 @@
 1 Kaya's Wrath
 1 Revival // Revenge
 1 Godless Shrine
-4 Orzhov Guildgate
+4 Orzhov Guildgate [RNA:252]
 10 Plains
 10 Swamp

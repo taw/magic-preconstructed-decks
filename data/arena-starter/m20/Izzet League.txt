@@ -20,7 +20,7 @@
 3 Shock
 1 Direct Current
 3 Lava Coil
-4 Izzet Guildgate
+4 Izzet Guildgate [GRN:251]
 1 Steam Vents
 10 Island
 10 Mountain

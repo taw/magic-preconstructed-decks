@@ -21,7 +21,7 @@
 1 Act of Treason
 2 Lava Coil
 1 Tectonic Rift
-4 Boros Guildgate
+4 Boros Guildgate [GRN:243]
 1 Sacred Foundry
 10 Mountain
 10 Plains

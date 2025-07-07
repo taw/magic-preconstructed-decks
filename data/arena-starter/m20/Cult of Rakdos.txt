@@ -21,6 +21,6 @@
 2 Light Up the Stage
 3 Skewer the Critics
 1 Blood Crypt
-4 Rakdos Guildgate
+4 Rakdos Guildgate [RNA:255]
 10 Swamp
 10 Mountain

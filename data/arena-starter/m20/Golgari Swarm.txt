@@ -22,7 +22,7 @@
 1 Casualties of War
 1 Find // Finality
 1 Undercity Uprising
-4 Golgari Guildgate
+4 Golgari Guildgate [RNA:248]
 1 Overgrown Tomb
 10 Swamp
 10 Forest
