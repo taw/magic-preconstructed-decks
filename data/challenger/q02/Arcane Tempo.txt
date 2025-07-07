@@ -16,7 +16,7 @@
 1 Blink of an Eye
 1 The Mirari Conjecture
 3 Sulfur Falls
-4 Izzet Guildgate
+4 Izzet Guildgate [GRN:251]
 8 Island
 7 Mountain
 
