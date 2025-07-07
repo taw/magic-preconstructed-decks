@@ -19,6 +19,7 @@
 2 Burn Bright
 2 Stony Strength
 1 Glass of the Guildpact
-4 Gruul Guildgate
+2 Gruul Guildgate [RNA:249]
+2 Gruul Guildgate [RNA:250]
 11 Mountain
 11 Forest
