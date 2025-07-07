@@ -33,7 +33,8 @@
 1 Status // Statue
 2 Golgari Signet
 1 Deadbridge Chant
-4 Golgari Guildgate
+2 Golgari Guildgate [GRN:249]
+2 Golgari Guildgate [GRN:250]
 4 Golgari Rot Farm
 8 Swamp
 8 Forest

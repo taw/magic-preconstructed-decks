@@ -1,5 +1,6 @@
 // NAME: Dimir
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/guilds-ravnica-guild-kits-2018-09-25
+// DATE: 2018-11-02
 1 Lazav, Dimir Mastermind
 1 Etrata, the Silencer [foil]
 1 Blood Operative
@@ -32,9 +33,9 @@
 1 Price of Fame
 1 Syncopate
 1 Discovery // Dispersal
-// DATE: 2018-11-02
 2 Dimir Signet
 4 Dimir Aqueduct
-4 Dimir Guildgate
+2 Dimir Guildgate [GRN:245]
+2 Dimir Guildgate [GRN:246]
 8 Island
 8 Swamp

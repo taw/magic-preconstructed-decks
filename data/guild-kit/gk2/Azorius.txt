@@ -36,6 +36,7 @@
 1 Dovescape
 1 Sky Tether
 4 Azorius Chancery
-4 Azorius Guildgate
+2 Azorius Guildgate [RNA:243]
+2 Azorius Guildgate [RNA:244]
 8 Plains
 8 Island
