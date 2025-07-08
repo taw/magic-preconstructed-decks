@@ -35,7 +35,7 @@
 1 Theater of Horrors
 1 Riot Spikes
 4 Rakdos Carnarium
-2 Rakdos Guildgate [RNA:252]
-2 Rakdos Guildgate [RNA:253]
+2 Rakdos Guildgate [RNA:255]
+2 Rakdos Guildgate [RNA:256]
 8 Swamp
 8 Mountain

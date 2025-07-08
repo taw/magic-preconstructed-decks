@@ -32,8 +32,8 @@
 2 Simic Signet
 1 Simic Ascendancy
 1 Guardian Project
-2 Simic Guildgate [RNA:253]
-2 Simic Guildgate [RNA:254]
+2 Simic Guildgate [RNA:257]
+2 Simic Guildgate [RNA:258]
 4 Simic Growth Chamber
 8 Island
 8 Forest
