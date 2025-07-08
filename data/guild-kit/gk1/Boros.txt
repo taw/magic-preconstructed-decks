@@ -33,7 +33,8 @@
 2 Boros Signet
 1 Boros Keyrune
 4 Boros Garrison
-4 Boros Guildgate
+2 Boros Guildgate [GRN:243]
+2 Boros Guildgate [GRN:244]
 1 Sunhome, Fortress of the Legion
 8 Mountain
 8 Plains

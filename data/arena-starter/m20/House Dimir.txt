@@ -23,7 +23,7 @@
 2 Notion Rain
 1 Connive // Concoct
 2 Deadly Visit
-4 Dimir Guildgate
+4 Dimir Guildgate [GRN:245]
 1 Watery Grave
 10 Island
 10 Swamp

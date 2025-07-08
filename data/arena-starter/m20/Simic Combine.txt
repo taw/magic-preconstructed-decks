@@ -22,6 +22,6 @@
 2 Stony Strength
 2 Titanic Brawl
 1 Breeding Pool
-4 Simic Guildgate
+4 Simic Guildgate [RNA:257]
 10 Forest
 10 Island

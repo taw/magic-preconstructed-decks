@@ -19,7 +19,7 @@
 1 March of the Multitudes
 2 Pledge of Unity
 3 Flower // Flourish
-4 Selesnya Guildgate
+4 Selesnya Guildgate [GRN:255]
 1 Temple Garden
 10 Forest
 10 Plains

@@ -34,7 +34,8 @@
 1 Cindervines
 1 Wurmweaver Coil
 1 Rhythm of the Wild
-4 Gruul Guildgate
+2 Gruul Guildgate [RNA:249]
+2 Gruul Guildgate [RNA:250]
 4 Gruul Turf
 8 Mountain
 8 Forest

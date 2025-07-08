@@ -35,6 +35,7 @@
 1 Pillory of the Sleepless
 1 One Thousand Lashes
 4 Orzhov Basilica
-4 Orzhov Guildgate
+2 Orzhov Guildgate [RNA:252]
+2 Orzhov Guildgate [RNA:253]
 8 Plains
 8 Swamp

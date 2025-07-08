@@ -19,6 +19,7 @@
 2 Code of Constraint
 1 Sphinx's Insight
 1 Verity Circle
-4 Azorius Guildgate
+2 Azorius Guildgate [RNA:243]
+2 Azorius Guildgate [RNA:243]
 12 Plains
 10 Island
