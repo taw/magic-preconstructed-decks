@@ -1,18 +1,18 @@
-// NAME: N'er-do-wells (2)
+// NAME: Ne'er-do-wells (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-jumpstart-booster-themes
 // DATE: 2024-11-07
 1 Rev, Tithe Extractor
-1 Thieves' Guild Enforcer
-1 Grim Bounty
+1 Serpent Assassin
 1 Thieves' Tools
 1 Audacious Thief
-1 Balustrade Spy
-1 Bloodtithe Collector
-1 Expedition Skulker
+1 Crooked Custodian
 1 Fake Your Own Death
 1 Foul Play
 1 Masked Blackguard
+1 Midnight Assassin
 1 Morbid Opportunist
+1 Murder
+1 Pilfering Imp
 1 Thriving Moor
 7 Swamp
 
