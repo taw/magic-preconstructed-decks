@@ -1,8 +1,9 @@
-// NAME: Discarding 1
+// NAME: Discarding (2)
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18
 // DATE: 2020-07-17
+1 Liliana's Reaver
+1 Nyxathid
 1 Fell Specter
-1 Tinybones, Trinket Thief
 1 Ravenous Chupacabra
 1 Entomber Exarch
 1 Burglar Rat
@@ -10,7 +11,6 @@
 1 Slate Street Ruffian
 2 Wight of Precinct Six
 1 Assassin's Strike
-1 Mind Rot
 1 Death's Approach
 1 Thriving Moor
 6 Swamp [M21]
