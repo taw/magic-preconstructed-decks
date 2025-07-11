@@ -241,7 +241,7 @@
 1 Teferi, Temporal Pilgrim [BRO:66] [foil]
 1 Terisian Mindbreaker [BRO:83] [foil]
 1 The Fall of Kroog [BRO:133] [foil]
-1 The Mightstone and Weakstone [BRO:238a] [foil]
+1 The Mightstone and Weakstone [BRO:238] [foil]
 1 The Stasis Coffin [BRO:245] [foil]
 1 The Stone Brain [BRO:247] [foil]
 1 The Temporal Anchor [BRO:82] [foil]
