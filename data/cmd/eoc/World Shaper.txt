@@ -85,9 +85,9 @@ COMMANDER: 1 Hearthhull, the Worldseed [EOC:1] [foil]
 1 Riveteers Overlook
 1 Rocky Tar Pit
 1 Wastes
-3 Swamp [EOS:271]
-2 Swamp [EOS:272]
-2 Mountain [EOS:273]
-1 Mountain [EOS:274]
-4 Forest [EOS:275]
-4 Forest [EOS:276]
+3 Swamp [EOE:271]
+2 Swamp [EOE:272]
+2 Mountain [EOE:273]
+1 Mountain [EOE:274]
+4 Forest [EOE:275]
+4 Forest [EOE:276]

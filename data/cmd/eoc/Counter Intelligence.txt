@@ -92,9 +92,9 @@ COMMANDER: 1 Inspirit, Flagship Vessel [EOC:2] [foil]
 1 Seat of the Synod
 1 Secluded Steppe
 1 Silverbluff Bridge
-2 Plains [EOS:267]
-1 Plains [EOS:268]
-2 Island [EOS:269]
-1 Island [EOS:270]
-2 Mountain [EOS:273]
-1 Mountain [EOS:274]
+2 Plains [EOE:267]
+1 Plains [EOE:268]
+2 Island [EOE:269]
+1 Island [EOE:270]
+2 Mountain [EOE:273]
+1 Mountain [EOE:274]
