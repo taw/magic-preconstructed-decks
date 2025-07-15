@@ -1,0 +1,93 @@
+// NAME: World Shaper
+// SOURCE: https://magic.wizards.com/en/news/announcements/edge-of-eternities-commander-decklists
+// DATE: 2025-08-01
+COMMANDER: 1 Hearthhull, the Worldseed [EOC:1] [foil]
+1 Szarel, Genesis Shepherd [EOC:4] [foil]
+1 Eumidian Wastewaker
+1 Evendo Brushrazer
+1 Planetary Annihilation
+1 Baloth Prime
+1 Exploration Broodship
+1 Horizon Explorer
+1 Scouring Swarm
+1 Eumidian Hatchery
+1 Festering Thicket
+1 Vernal Fen
+1 Fabled Passage
+1 Braids, Arisen Nightmare
+1 God-Eternal Bontu
+1 Blasphemous Act
+1 Hammer of Purphoros
+1 Moraug, Fury of Akoum
+1 Augur of Autumn
+1 Centaur Vinecrasher
+1 Formless Genesis
+1 Loamcrafter Faun
+1 Multani, Yavimaya's Avatar
+1 Oracle of Mul Daya
+1 Pest Infestation
+1 Rampaging Baloths
+1 Splendid Reclamation
+1 Tireless Tracker
+1 Titania, Protector of Argoth
+1 World Breaker
+1 Escape to the Wilds
+1 Gaze of Granite
+1 The Gitrog Monster
+1 Korvold, Fae-Cursed King
+1 Mazirek, Kraul Death Priest
+1 Omnath, Locus of Rage
+1 Soul of Windgrace
+1 Windgrace's Judgment
+1 Worldsoul's Rage
+1 Canyon Slough
+1 Cinder Glade
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Sheltered Thicket
+1 Smoldering Marsh
+1 Sulfurous Springs
+1 Twilight Mire
+1 Viridescent Bog
+1 Farseek
+1 Springbloom Druid
+1 Binding the Old Gods
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Mountain Valley
+1 Terramorphic Expanse
+1 Infernal Grasp
+1 Night's Whisper
+1 Sprouting Goblin
+1 Aftermath Analyst
+1 Beast Within
+1 Cultivate
+1 Groundskeeper
+1 Harrow
+1 Nature's Lore
+1 Roiling Regrowth
+1 Satyr Wayfinder
+1 Skyshroud Claim
+1 Tear Asunder
+1 Juri, Master of the Revue
+1 Mayhem Devil
+1 Putrefy
+1 Rakdos Charm
+1 Uurg, Spawn of Turg
+1 Bojuka Bog
+1 Cabaretti Courtyard
+1 Dakmor Salvage
+1 Escape Tunnel
+1 Evolving Wilds
+1 Maestros Theater
+1 Myriad Landscape
+1 Riveteers Overlook
+1 Rocky Tar Pit
+1 Wastes
+3 Swamp [EOS:271]
+2 Swamp [EOS:272]
+2 Mountain [EOS:273]
+1 Mountain [EOS:274]
+4 Forest [EOS:275]
+4 Forest [EOS:276]
