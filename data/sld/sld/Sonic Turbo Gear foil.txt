@@ -1,0 +1,10 @@
+// NAME: Secret Lair x Sonic: Turbo Gear Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1161307
+// DATE: 2025-08-08
+1 [SLD:2095] The Reaver Cleaver [foil]
+1 [SLD:2096] Swiftfoot Boots [foil]
+1 [SLD:2097] Myr Battlesphere [foil]
+1 [SLD:2098] Hammer of Nazahn [foil]
+1 [SLD:2099] Lightning Greaves [foil]
+1 [SLD:2100] Weatherlight [foil]
+1 [SLD:2101] Myr [foil] [token]

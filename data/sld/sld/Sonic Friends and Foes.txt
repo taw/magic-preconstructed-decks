@@ -1,0 +1,10 @@
+// NAME: Secret Lair x Sonic: Friends & Foes
+// SOURCE: https://secretlair.wizards.com/us/product/1161306
+// DATE: 2025-08-08
+1 [SLD:2081] Super State
+1 [SLD:2082] Knuckles the Echidna
+1 [SLD:2083] Amy Rose
+1 [SLD:2084] Dr. Eggman
+1 [SLD:2085] Miles “Tails” Prower
+1 [SLD:2086] Shadow the Hedgehog
+1 [SLD:2087] Sonic the Hedgehog
