@@ -1,6 +1,6 @@
 // NAME: Corrupting Influence
 // SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Commander_decks
-// DATE: 2023-02-03
+// DATE: 2023-02-10
 COMMANDER: 1 [ONC:1] Ixhel, Scion of Atraxa [foil]
 1 Bilious Skulldweller
 1 Blight Mamba
