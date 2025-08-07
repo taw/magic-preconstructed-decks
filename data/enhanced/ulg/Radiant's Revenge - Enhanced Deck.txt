@@ -23,8 +23,8 @@
 2 Drifting Meadow
 1 Faerie Conclave
 2 Forbidding Watchtower
-7 Island
-3 Plains
+7 Island [USG:*]
+3 Plains [USG:*]
 2 Reflecting Pool
 2 Remote Isle
 3 Thalakos Lowlands

@@ -19,9 +19,9 @@
 2 Cursed Scroll
 1 Thran Turbine
 1 City of Brass
-4 Forest
+4 Forest [USG:*]
 3 Karplusan Forest
-5 Mountain
+5 Mountain [USG:*]
 2 Reflecting Pool
 2 Slippery Karst
 2 Smoldering Crater

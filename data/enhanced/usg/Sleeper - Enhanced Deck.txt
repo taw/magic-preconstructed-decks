@@ -21,8 +21,8 @@
 3 Pariah
 1 Worship
 4 Drifting Meadow
-10 Forest
-6 Plains
+10 Forest [USG:*]
+6 Plains [USG:*]
 4 Slippery Karst
 
 Sideboard

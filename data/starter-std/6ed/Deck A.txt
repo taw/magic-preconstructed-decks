@@ -24,8 +24,8 @@
 1 Rampant Growth
 1 Obsianus Golem
 1 Rod of Ruin
-7 Forest
-3 Plains
-7 Swamp
+7 Forest [6ED:*]
+3 Plains [6ED:*]
+7 Swamp [6ED:*]
 
 Sideboard

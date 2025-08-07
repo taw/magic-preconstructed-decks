@@ -18,6 +18,6 @@
 2 Lightning Strike
 2 Rallying Roar
 4 Stone Quarry
-11 Mountain
-11 Plains
+11 Mountain [XLN:*]
+11 Plains [XLN:*]
 1 Huatli, Dinosaur Knight [foil]

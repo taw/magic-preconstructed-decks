@@ -24,8 +24,8 @@
 1 Pyrotechnics
 1 Tremor
 1 Mana Prism
-6 Island
-6 Mountain
-5 Plains
+6 Island [6ED:*]
+6 Mountain [6ED:*]
+5 Plains [6ED:*]
 
 Sideboard

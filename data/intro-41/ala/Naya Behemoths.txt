@@ -17,8 +17,8 @@
 1 Blaze
 2 Giant Growth
 1 Naturalize
-3 Mountain
-7 Forest
-3 Plains
+3 Mountain [ALA:*]
+7 Forest [ALA:*]
+3 Plains [ALA:*]
 2 Jungle Shrine
 2 Naya Panorama

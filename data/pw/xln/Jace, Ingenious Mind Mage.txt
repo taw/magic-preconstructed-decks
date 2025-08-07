@@ -18,6 +18,6 @@
 3 River Heralds' Boon
 4 Castaway's Despair
 4 Woodland Stream
-11 Forest
-11 Island
+11 Forest [XLN:*]
+11 Island [XLN:*]
 1 Jace, Ingenious Mind-Mage [foil]

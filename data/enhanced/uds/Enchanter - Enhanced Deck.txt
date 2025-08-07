@@ -18,8 +18,8 @@
 2 Zephid's Embrace
 3 Adarkar Wastes
 2 Drifting Meadow
-18 Island
-1 Plains
+18 Island [USG:*]
+1 Plains [USG:*]
 
 Sideboard
 2 Wasteland

@@ -22,5 +22,5 @@
 1 Aether Sting
 1 Jagged Lightning*
 1 Urza's Incubator
-9 Island
-14 Mountain
+9 Island [USG:*]
+14 Mountain [USG:*]

@@ -21,12 +21,12 @@
 3 Cinder Marsh
 3 City of Brass
 1 Ghitu Encampment
-6 Mountain
+6 Mountain [USG:*]
 1 Polluted Mire
 3 Reflecting Pool
 1 Smoldering Crater
 1 Spawning Pool
-7 Swamp
+7 Swamp [USG:*]
 
 Sideboard
 2 Dread of Night

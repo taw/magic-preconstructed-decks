@@ -20,10 +20,10 @@
 1 Spirit Mirror
 1 Worship
 3 Drifting Meadow
-7 Plains
+7 Plains [USG:*]
 2 Polluted Mire
 4 Reflecting Pool
-8 Swamp
+8 Swamp [USG:*]
 
 Sideboard
 2 Circle of Protection: Red

@@ -18,5 +18,5 @@
 1 Explorer's Scope
 1 Trusty Machete
 2 Pacifism
-16 Plains
+16 Plains [ZEN:*]
 2 Kabira Crossroads

@@ -19,7 +19,7 @@
 1 Terror
 1 Rod of Ruin
 1 Soul Net
-6 Swamp
-6 Island
+6 Swamp [5ED:*]
+6 Island [5ED:*]
 
 Sideboard

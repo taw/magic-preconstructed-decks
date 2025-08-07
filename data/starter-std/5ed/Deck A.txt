@@ -19,9 +19,9 @@
 1 Incinerate
 1 Giant Growth
 1 Dancing Scimitar
-3 Plains
-5 Mountain
-3 Forest
+3 Plains [5ED:*]
+5 Mountain [5ED:*]
+3 Forest [5ED:*]
 1 City of Brass
 
 Sideboard

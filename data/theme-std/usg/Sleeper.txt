@@ -3,7 +3,7 @@
 // SOURCE: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
 // DATE: 1998-10-12
 4 Drifting Meadow
-18 Plains
+18 Plains [USG:*]
 3 Angelic Page
 1 Disciple of Grace
 1 Disciple of Law

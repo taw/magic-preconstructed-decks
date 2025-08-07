@@ -21,9 +21,9 @@
 2 Brushland
 2 City of Brass
 1 Drifting Meadow
-6 Forest
-4 Island
-2 Plains
+6 Forest [USG:*]
+4 Island [USG:*]
+2 Plains [USG:*]
 2 Reflecting Pool
 1 Remote Isle
 2 Skyshroud Forest

@@ -21,4 +21,4 @@
 1 Essence Drain
 1 Consume Spirit
 1 Demon's Horn
-17 Swamp
+17 Swamp [10E:*]

@@ -1,8 +1,8 @@
 // NAME: Gatecrasher
 // SOURCE: https://mtg.gamepedia.com/Weatherlight/Theme_decks
 // DATE: 2007-12-12
-15 Forest
-7 Mountain
+15 Forest [MIR:*]
+7 Mountain [MIR:*]
 1 Aboroth
 3 Arctic Wolves
 1 Bogardan Firefiend

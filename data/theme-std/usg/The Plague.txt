@@ -2,8 +2,8 @@
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
 // SOURCE: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
 // DATE: 1998-10-12
-7 Plains
-12 Swamp
+7 Plains [USG:*]
+12 Swamp [USG:*]
 3 Drifting Meadow
 2 Polluted Mire
 1 Blood Vassal

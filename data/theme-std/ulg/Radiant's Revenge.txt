@@ -2,8 +2,8 @@
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
 // SOURCE: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
 // DATE: 1999-02-15
-12 Island
-11 Plains
+12 Island [USG:*]
+11 Plains [USG:*]
 1 Drifting Meadow
 2 Remote Isle
 1 Fog Bank

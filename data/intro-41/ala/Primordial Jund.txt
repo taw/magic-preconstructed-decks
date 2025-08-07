@@ -16,8 +16,8 @@
 2 Shock
 1 Resounding Thunder
 1 Obelisk of Jund
-3 Forest
-7 Mountain
-3 Swamp
+3 Forest [ALA:*]
+7 Mountain [ALA:*]
+3 Swamp [ALA:*]
 2 Jund Panorama
 2 Savage Lands

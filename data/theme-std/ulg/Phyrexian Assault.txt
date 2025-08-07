@@ -2,8 +2,8 @@
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
 // SOURCE: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
 // DATE: 1999-02-15
-10 Mountain
-12 Swamp
+10 Mountain [USG:*]
+12 Swamp [USG:*]
 1 Ghitu Encampment
 1 Polluted Mire
 1 Smoldering Crater

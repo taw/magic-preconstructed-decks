@@ -1,7 +1,7 @@
 // NAME: Fiery Fury
 // SOURCE: https://mtg.gamepedia.com/Weatherlight/Theme_decks
 // DATE: 2007-12-12
-23 Mountain
+23 Mountain [MIR:*]
 1 Crystal Vein
 3 Bloodrock Cyclops
 3 Goblin Vandal

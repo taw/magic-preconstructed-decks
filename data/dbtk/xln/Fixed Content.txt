@@ -64,9 +64,9 @@
 2 Woodland Stream
 1 Unclaimed Territory
 1 Sunscorched Desert
-20 Plains
-20 Island
-20 Swamp
-20 Mountain
-20 Forest
+20 Plains [XLN:*]
+20 Island [XLN:*]
+20 Swamp [XLN:*]
+20 Mountain [XLN:*]
+20 Forest [XLN:*]
 4 Evolving Wilds

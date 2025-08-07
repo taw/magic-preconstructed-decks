@@ -2,9 +2,9 @@
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
 // SOURCE: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
 // DATE: 1998-10-12
-9 Island
-3 Plains
-9 Swamp
+9 Island [USG:*]
+3 Plains [USG:*]
+9 Swamp [USG:*]
 2 Drifting Meadow
 2 Polluted Mire
 2 Remote Isle
