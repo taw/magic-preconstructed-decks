@@ -20,7 +20,7 @@
 2 Gift of Growth
 1 Pierce the Sky
 1 Gilded Lotus
-11 Mountain
-11 Forest
+11 Mountain [DOM:*]
+11 Forest [DOM:*]
 4 Timber Gorge
 1 Chandra, Bold Pyromancer [foil]

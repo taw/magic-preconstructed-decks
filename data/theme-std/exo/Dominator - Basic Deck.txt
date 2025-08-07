@@ -2,7 +2,7 @@
 // SOURCE: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
-26 Island
+26 Island [TMP:*]
 2 Cloud Spirit
 4 Thalakos Scout
 1 Dominating Licid

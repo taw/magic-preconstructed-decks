@@ -1,9 +1,9 @@
 // NAME: Rituals of Rebirth
 // SOURCE: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
 // DATE: 2007-02-02
-11 Forest
-4 Plains
-7 Swamp
+11 Forest [TSP:*]
+4 Plains [TSP:*]
+7 Swamp [TSP:*]
 2 Terramorphic Expanse
 1 Bog Serpent
 2 Essence Warden

@@ -23,7 +23,7 @@
 2 Recollect
 1 Rolling Spoil
 2 Putrefy
-11 Swamp
-11 Forest
+11 Swamp [RAV:*]
+11 Forest [RAV:*]
 1 Golgari Rot Farm
 1 Svogthos, the Restless Tomb

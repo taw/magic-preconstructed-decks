@@ -4,10 +4,10 @@
 1 Ancient Spring
 1 Coastal Tower
 2 Dromar's Cavern
-7 Island
-4 Plains
+7 Island [INV:*]
+4 Plains [INV:*]
 1 Salt Marsh
-6 Swamp
+6 Swamp [INV:*]
 1 Terminal Moraine
 1 Arctic Merfolk
 3 Cavern Harpy

@@ -23,6 +23,6 @@
 2 Bred for the Hunt
 1 Krasis Incubation
 2 Runner's Bane
-10 Forest
-12 Island
+10 Forest [RTR:*]
+12 Island [RTR:*]
 4 Simic Guildgate

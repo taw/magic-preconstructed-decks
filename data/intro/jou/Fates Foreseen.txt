@@ -26,5 +26,5 @@
 1 Font of Fortunes
 1 Font of Ire
 2 Knowledge and Power
-13 Island
-13 Mountain
+13 Island [THS:*]
+13 Mountain [THS:*]

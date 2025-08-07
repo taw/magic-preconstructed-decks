@@ -22,5 +22,5 @@
 2 Wild Hunger
 1 Greatsword
 1 Gutter Grime
-13 Forest
-11 Mountain
+13 Forest [ISD:*]
+11 Mountain [ISD:*]

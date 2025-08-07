@@ -22,4 +22,4 @@
 3 Mystic Restraints*
 1 Shuriken
 2 Ronin Warclub
-24 Island*
+24 Island [CHK:*]

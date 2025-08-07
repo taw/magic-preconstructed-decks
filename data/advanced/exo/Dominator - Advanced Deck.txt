@@ -2,7 +2,7 @@
 // SOURCE: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
-17 Island
+17 Island [TMP:*]
 3 Undiscovered Paradise
 4 Wasteland
 3 Man-o'-War

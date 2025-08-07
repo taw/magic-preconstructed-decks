@@ -13,5 +13,5 @@
 1 Skyknight Legionnaire
 1 Shattering Blow
 1 Boros Guildgate
-5 Plains
-5 Mountain
+5 Plains [RTR:*]
+5 Mountain [RTR:*]

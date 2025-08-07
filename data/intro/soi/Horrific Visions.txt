@@ -28,5 +28,5 @@
 1 Crawling Sensation
 1 Foul Orchard
 1 Warped Landscape
-12 Forest
-11 Swamp
+12 Forest [SOI:*]
+11 Swamp [SOI:*]

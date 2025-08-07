@@ -23,5 +23,5 @@
 2 Specter's Shroud
 1 Skeleton Shard*
 2 Geth's Grimoire
-17 Swamp*
+17 Swamp [MRD:*]
 4 Vault of Whispers*

@@ -34,6 +34,6 @@
 1 Swiftwater Cliffs
 1 Tranquil Cove
 1 Wind-Scarred Crag
-8 Island
-6 Mountain
-7 Plains
+8 Island [KTK:*]
+6 Mountain [KTK:*]
+7 Plains [KTK:*]

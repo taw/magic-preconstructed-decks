@@ -24,5 +24,5 @@
 1 Viridian Claw
 1 Whispersilk Cloak
 2 Arrest
-8 Mountain
-16 Plains
+8 Mountain [MBS:*]
+16 Plains [MBS:*]

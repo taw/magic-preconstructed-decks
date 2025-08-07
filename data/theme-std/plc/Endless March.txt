@@ -1,8 +1,8 @@
 // NAME: Endless March
 // SOURCE: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
 // DATE: 2007-02-02
-10 Mountain
-11 Plains
+10 Mountain [TSP:*]
+11 Plains [TSP:*]
 3 Terramorphic Expanse
 1 Avalanche Riders
 3 Aven Riftwatcher

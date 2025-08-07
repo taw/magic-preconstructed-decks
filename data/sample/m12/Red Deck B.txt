@@ -1,7 +1,7 @@
 // NAME: Red Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
-12 Mountain [M12]
+12 Mountain [M12:*]
 2 Blisterstick Shaman [MBS]
 2 Goblin Arsonist [M12]
 1 Goblin Bangchuckers [M12]

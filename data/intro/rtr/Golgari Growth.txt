@@ -28,5 +28,5 @@
 2 Launch Party
 2 Golgari Keyrune
 1 Golgari Guildgate
-12 Swamp
-12 Forest
+12 Swamp [RTR:*]
+12 Forest [RTR:*]

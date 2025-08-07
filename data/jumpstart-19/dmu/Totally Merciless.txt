@@ -13,6 +13,6 @@
 1 Extinguish the Light
 1 Braids's Frightful Return
 1 Pilfer
-5 Swamp
+5 Swamp [DMU:*]
 2 Swamp [foil]
 1 Swamp [DMU:279]

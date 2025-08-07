@@ -23,6 +23,6 @@
 2 Barbed Sextant*
 1 Coldsteel Heart
 1 Skull Catapult*
-12 Swamp*
-9 Mountain*
-3 Forest*
+12 Swamp [CST:*]
+9 Mountain [CST:*]
+3 Forest [CST:*]

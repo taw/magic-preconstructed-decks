@@ -19,8 +19,8 @@
 2 Gleam of Resistance
 2 Pacifism
 1 Asha's Favor
-3 Forest
-7 Plains
-3 Island
+3 Forest [ALA:*]
+7 Plains [ALA:*]
+3 Island [ALA:*]
 2 Seaside Citadel
 2 Terramorphic Expanse

@@ -78,8 +78,8 @@
 1 Vastwood Gorger
 1 Kitesail
 4 Terramorphic Expanse
-20 Plains
-20 Island
-20 Swamp
-20 Mountain
-20 Forest
+20 Plains [ROE:*]
+20 Island [ROE:*]
+20 Swamp [ROE:*]
+20 Mountain [ROE:*]
+20 Forest [ROE:*]

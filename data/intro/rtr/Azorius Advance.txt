@@ -25,5 +25,5 @@
 2 Arrest
 1 Righteous Authority
 1 Azorius Guildgate
-12 Plains
-12 Island
+12 Plains [RTR:*]
+12 Island [RTR:*]

@@ -1,11 +1,11 @@
 // NAME: Domain
 // SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
 // DATE: 2001-02-05
-8 Forest
-3 Island
-3 Mountain
-3 Plains
-3 Swamp
+8 Forest [INV:*]
+3 Island [INV:*]
+3 Mountain [INV:*]
+3 Plains [INV:*]
+3 Swamp [INV:*]
 2 Terminal Moraine
 1 Kavu Recluse
 2 Kavu Scout

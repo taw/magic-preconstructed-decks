@@ -25,4 +25,4 @@
 1 Drain Life
 3 Charcoal Diamond
 1 Phyrexian Vault
-22 Swamp
+22 Swamp [MIR:*]

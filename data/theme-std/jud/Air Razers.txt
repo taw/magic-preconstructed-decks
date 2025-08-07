@@ -22,5 +22,5 @@
 2 Swelter
 1 Violent Eruption**
 2 Shower of Coals*
-12 Island*
-12 Mountain*
+12 Island [ODY:*]
+12 Mountain [ODY:*]

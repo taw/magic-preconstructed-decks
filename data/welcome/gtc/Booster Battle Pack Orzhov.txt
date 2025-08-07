@@ -13,5 +13,5 @@
 1 Beckon Apparition
 1 Gift of Orzhova
 1 Orzhov Guildgate
-5 Plains
-5 Swamp
+5 Plains [RTR:*]
+5 Swamp [RTR:*]

@@ -22,5 +22,5 @@
 1 Fistful of Force
 1 Heal the Scars
 3 Obsidian Battle-Axe
-10 Mountain
-14 Forest
+10 Mountain [LRW:*]
+14 Forest [LRW:*]

@@ -1,7 +1,7 @@
 // NAME: Black Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-12 Swamp [10E]
+12 Swamp [10E:*]
 2 Highway Robber [10E]
 2 Moonglove Winnower [LRW]
 2 Ravenous Rats [10E]

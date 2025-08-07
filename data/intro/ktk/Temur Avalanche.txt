@@ -30,6 +30,6 @@
 1 Rugged Highlands
 1 Swiftwater Cliffs
 1 Thornwood Falls
-8 Forest
-5 Island
-7 Mountain
+8 Forest [KTK:*]
+5 Island [KTK:*]
+7 Mountain [KTK:*]

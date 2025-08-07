@@ -25,5 +25,5 @@
 1 Convolute
 2 Geistblast
 1 Dance with Devils
-13 Island
-12 Mountain
+13 Island [SOI:*]
+12 Mountain [SOI:*]

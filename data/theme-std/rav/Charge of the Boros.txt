@@ -22,7 +22,7 @@
 1 Terrarion
 1 Cyclopean Snare
 1 Sunforger
-10 Mountain
-10 Plains
+10 Mountain [RAV:*]
+10 Plains [RAV:*]
 2 Boros Garrison
 1 Sunhome, Fortress of the Legion

@@ -25,5 +25,5 @@
 2 Silkwrap
 1 Skywise Teachings
 1 Evolving Wilds
-13 Island
-11 Plains
+13 Island [DTK:*]
+11 Plains [DTK:*]

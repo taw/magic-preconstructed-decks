@@ -1,7 +1,7 @@
 // NAME: Black Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
-13 Swamp [ORI]
+13 Swamp [ORI:*]
 2 Catacomb Slug [ORI]
 1 Deadbridge Shaman [ORI]
 1 Eyeblight Assassin [ORI]

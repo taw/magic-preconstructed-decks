@@ -25,5 +25,5 @@
 1 Boomerang*
 1 Ray of Command*
 2 Enfeeblement*
-12 Island*
-12 Swamp*
+12 Island [MIR:*]
+12 Swamp [MIR:*]

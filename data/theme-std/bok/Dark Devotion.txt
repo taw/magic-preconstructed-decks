@@ -23,5 +23,5 @@
 1 Kumano's Blessing
 1 Overblaze
 2 Torrent of Stone
-14 Swamp*
-10 Mountain*
+14 Swamp [CHK:*]
+10 Mountain [CHK:*]

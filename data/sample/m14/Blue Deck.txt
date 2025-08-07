@@ -1,7 +1,7 @@
 // NAME: Blue Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
 // DATE: 2014-07-19
-13 Island [M14]
+13 Island [M14:*]
 1 Air Servant [M14]
 1 Archaeomancer [M14]
 1 Coral Merfolk [M14]

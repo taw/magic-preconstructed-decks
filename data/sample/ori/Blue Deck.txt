@@ -1,7 +1,7 @@
 // NAME: Blue Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
-13 Island [ORI]
+13 Island [ORI:*]
 1 Jhessian Thief [ORI]
 1 Mahamoti Djinn [ORI]
 2 Maritime Guard [ORI]

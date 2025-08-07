@@ -17,6 +17,6 @@
 1 Wooded Ridgeline
 1 Radiant Grove
 1 Haunted Mire
-1 Forest
+1 Forest [DMU:*]
 2 Forest [foil]
 1 Forest [DMU:281]

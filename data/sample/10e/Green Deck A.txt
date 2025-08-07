@@ -1,7 +1,7 @@
 // NAME: Green Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-13 Forest [10E]
+13 Forest [10E:*]
 2 Crabapple Cohort [SHM]
 2 Craw Wurm [10E]
 2 Giant Spider [10E]

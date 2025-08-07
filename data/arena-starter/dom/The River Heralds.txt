@@ -28,6 +28,6 @@
 1 Chart a Course
 2 Dive Down
 2 River Heralds' Boon
-11 Forest
-11 Island
+11 Forest [DOM:*]
+11 Island [DOM:*]
 2 Woodland Stream

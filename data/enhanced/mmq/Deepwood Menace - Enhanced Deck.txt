@@ -17,7 +17,7 @@
 2 Collective Unconscious
 2 Volcanic Wind
 4 Rancor
-12 Forest
+12 Forest [MMQ:*]
 2 Gaea's Cradle
-6 Mountain
+6 Mountain [MMQ:*]
 2 Treetop Village

@@ -2,11 +2,11 @@
 // SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
 // DATE: 2001-02-05
 1 Elfhame Palace
-11 Forest
+11 Forest [INV:*]
 1 Geothermal Crevice
 1 Irrigation Ditch
-2 Mountain
-3 Plains
+2 Mountain [INV:*]
+3 Plains [INV:*]
 2 Rith's Grove
 1 Shivan Oasis
 1 Amphibious Kavu

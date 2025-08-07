@@ -23,5 +23,5 @@
 3 Obscura Storefront
 4 Waterfront District
 2 Dismal Backwater
-8 Swamp
-7 Island
+8 Swamp [DMU:*]
+7 Island [DMU:*]

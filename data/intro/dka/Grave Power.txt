@@ -22,5 +22,5 @@
 1 Gnaw to the Bone
 1 Executioner's Hood
 2 Wreath of Geists
-14 Forest
-10 Island
+14 Forest [ISD:*]
+10 Island [ISD:*]

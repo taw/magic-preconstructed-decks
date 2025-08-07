@@ -1,7 +1,7 @@
 // NAME: Green Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
-12 Forest [M11]
+12 Forest [M11:*]
 2 Garruk's Companion [M11]
 1 Greater Basilisk [M11]
 1 Leatherback Baloth [WWK]

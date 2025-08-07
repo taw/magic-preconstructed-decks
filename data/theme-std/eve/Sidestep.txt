@@ -22,5 +22,5 @@
 1 Oona's Grace
 1 Inside Out
 3 Clout of the Dominus
-11 Island
-14 Mountain
+11 Island [SHM:*]
+14 Mountain [SHM:*]

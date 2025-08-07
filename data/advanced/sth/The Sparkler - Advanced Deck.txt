@@ -20,8 +20,8 @@
 2 Propaganda
 1 Coral Atoll
 1 Dwarven Ruins
-13 Island
-9 Mountain
+13 Island [TMP:*]
+9 Mountain [TMP:*]
 4 Quicksand
 
 Sideboard

@@ -30,5 +30,5 @@
 2 Magma Spray
 1 Reaver Ambush
 2 Cinder Barrens
-12 Mountain
-9 Swamp
+12 Mountain [DOM:*]
+9 Swamp [DOM:*]

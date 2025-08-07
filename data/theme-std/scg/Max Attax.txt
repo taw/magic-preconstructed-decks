@@ -20,8 +20,8 @@
 2 Dragon Fangs
 2 Sprouting Vines
 3 Accelerated Mutation
-6 Swamp*
-14 Forest*
+6 Swamp [ONS:*]
+14 Forest [ONS:*]
 2 Barren Moor*
 2 Temple of the False God
 2 Tranquil Thicket*

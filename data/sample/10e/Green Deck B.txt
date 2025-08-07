@@ -1,7 +1,7 @@
 // NAME: Green Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-11 Forest [10E]
+11 Forest [10E:*]
 2 Civic Wayfinder [10E]
 2 Elvish Berserker [10E]
 1 Elvish Eulogist [LRW]

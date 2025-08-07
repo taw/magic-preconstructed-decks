@@ -1,7 +1,7 @@
 // NAME: White Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
 // DATE: 2014-07-18
-13 Plains [M15]
+13 Plains [M15:*]
 1 Aegis Angel [M15]
 1 Ajani's Pridemate [M15]
 1 Kinsbaile Skirmisher [M15]

@@ -13,5 +13,5 @@
 1 Skarrg Guildmage
 1 Pit Fight
 1 Gruul Guildgate
-5 Mountain
-5 Forest
+5 Mountain [RTR:*]
+5 Forest [RTR:*]

@@ -1,7 +1,7 @@
 // NAME: Red Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
-13 Mountain [ORI]
+13 Mountain [ORI:*]
 1 Bellows Lizard [ORI]
 2 Cobblebrute [ORI]
 1 Enthralling Victor [ORI]

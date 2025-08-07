@@ -43,5 +43,5 @@
 1 Forbidding Watchtower
 2 Seat of the Synod
 2 Terramorphic Expanse
-8 Plains
-9 Island
+8 Plains [TD2:*]
+9 Island [TD2:*]

@@ -31,5 +31,5 @@
 1 Desert of the Mindful
 1 Field of Ruin
 4 Highland Lake
-11 Island
-8 Mountain
+11 Island [DOM:*]
+8 Mountain [DOM:*]

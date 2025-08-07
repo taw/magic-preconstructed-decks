@@ -23,5 +23,5 @@
 1 Reverent Silence**
 1 Desert Twister*
 1 Chimeric Idol
-10 Forest*
-14 Mountain*
+10 Forest [MMQ:*]
+14 Mountain [MMQ:*]

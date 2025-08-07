@@ -14,7 +14,7 @@
 3 Armageddon
 4 Crusade
 2 Empyrial Armor
-18 Plains
+18 Plains [TMP:*]
 
 Sideboard
 1 Angelic Renewal

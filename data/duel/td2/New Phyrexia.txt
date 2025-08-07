@@ -36,6 +36,6 @@
 1 Mortarpod
 1 Phyrexian Altar
 1 Spawning Pit
-10 Forest
-14 Swamp
+10 Forest [TD2:*]
+14 Swamp [TD2:*]
 1 Tainted Wood

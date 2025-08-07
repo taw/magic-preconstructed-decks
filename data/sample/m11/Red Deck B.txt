@@ -1,7 +1,7 @@
 // NAME: Red Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
-12 Mountain [M11]
+12 Mountain [M11:*]
 2 Battle-Rattle Shaman [ROE]
 2 Goblin Balloon Brigade [M11]
 1 Ember Hauler [M11]

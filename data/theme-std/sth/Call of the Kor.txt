@@ -25,5 +25,5 @@
 1 Dark Banishing*
 2 Evincar's Justice*
 3 Endless Scream*
-13 Plains*
-11 Swamp*
+13 Plains [TMP:*]
+11 Swamp [TMP:*]

@@ -22,7 +22,7 @@
 1 Reroute*
 1 Leyline of Lightning
 1 Electrolyze
-12 Island*
-10 Mountain*
+12 Island [RAV:*]
+10 Mountain [RAV:*]
 2 Izzet Boilerworks
 1 Nivix, Aerie of the Firemind

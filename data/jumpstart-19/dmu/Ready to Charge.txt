@@ -13,6 +13,6 @@
 1 Twinferno
 1 Furious Bellow
 1 Jaya's Firenado
-5 Mountain
+5 Mountain [DMU:*]
 2 Mountain [foil]
 1 Mountain [DMU:280]

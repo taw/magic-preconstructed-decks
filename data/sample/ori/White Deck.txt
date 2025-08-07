@@ -1,7 +1,7 @@
 // NAME: White Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
-13 Plains [ORI]
+13 Plains [ORI:*]
 1 Aegis Angel [ORI]
 1 Akroan Jailer [ORI]
 2 Charging Griffin [ORI]

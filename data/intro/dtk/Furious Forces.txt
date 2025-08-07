@@ -27,5 +27,5 @@
 1 Atarka Monument
 1 Berserkers' Onslaught
 1 Evolving Wilds
-12 Forest
-12 Mountain
+12 Forest [DTK:*]
+12 Mountain [DTK:*]

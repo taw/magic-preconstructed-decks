@@ -26,7 +26,7 @@
 1 Temporal Fissure
 1 Mind's Desire
 
-14 Plains*
-6 Island*
+14 Plains [ONS:*]
+6 Island [ONS:*]
 2 Lonely Sandbar*
 2 Secluded Steppe*

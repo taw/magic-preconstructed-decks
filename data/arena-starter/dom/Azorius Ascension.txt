@@ -32,6 +32,6 @@
 1 Supreme Will
 1 Arch of Orazca
 1 Field of Ruin
-10 Island
+10 Island [DOM:*]
 4 Meandering River
-9 Plains
+9 Plains [DOM:*]

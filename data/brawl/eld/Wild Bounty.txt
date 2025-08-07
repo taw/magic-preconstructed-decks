@@ -38,9 +38,9 @@ COMMANDER: 1 Chulane, Teller of Tales [foil]
 1 Prison Realm
 1 Hallowed Fountain
 1 Temple of Mystery
-5 Plains
-4 Island
-6 Forest
+5 Plains [ELD:*]
+4 Island [ELD:*]
+6 Forest [ELD:*]
 1 Azorius Guildgate [RNA:243]
 1 Blossoming Sands
 1 Command Tower

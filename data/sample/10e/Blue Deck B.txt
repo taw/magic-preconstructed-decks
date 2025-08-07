@@ -1,7 +1,7 @@
 // NAME: Blue Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-12 Island [10E]
+12 Island [10E:*]
 1 Aven Windreader [10E]
 1 Aven Fisher [10E]
 2 Drowner Initiate [SHM]

@@ -2,8 +2,8 @@
 // SOURCE: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
-14 Island
-11 Swamp
+14 Island [TMP:*]
+11 Swamp [TMP:*]
 3 Manta Riders
 4 Merfolk Looter
 1 Keeper of the Mind

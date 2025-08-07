@@ -25,5 +25,5 @@
 1 Hope Against Hope
 1 Equestrian Skill
 2 Faith Unbroken
-12 Forest
-13 Plains
+12 Forest [SOI:*]
+13 Plains [SOI:*]

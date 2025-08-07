@@ -23,5 +23,5 @@
 1 Sinister Concoction
 1 Senseless Rage
 1 Creeping Dread
-13 Swamp
-12 Mountain
+13 Swamp [SOI:*]
+12 Mountain [SOI:*]

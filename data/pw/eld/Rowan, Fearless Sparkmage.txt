@@ -19,5 +19,5 @@
 3 Scorching Dragonfire
 2 Weapon Rack
 4 Wind-Scarred Crag
-11 Plains
-10 Mountain
+11 Plains [ELD:*]
+10 Mountain [ELD:*]

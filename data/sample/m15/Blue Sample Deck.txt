@@ -1,7 +1,7 @@
 // NAME: Blue Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
 // DATE: 2014-07-18
-13 Island [M15]
+13 Island [M15:*]
 2 Frost Lynx [M15]
 2 Fugitive Wizard [M15]
 1 Mahamoti Djinn [M15]

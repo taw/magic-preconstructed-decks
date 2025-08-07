@@ -21,7 +21,7 @@
 1 Spirit Flare**
 2 Second Thoughts*
 1 Mirari's Wake
-12 Forest*
-12 Plains*
+12 Forest [ODY:*]
+12 Plains [ODY:*]
 1 Krosan Verge
 1 Nantuko Monastery

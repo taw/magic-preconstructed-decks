@@ -20,5 +20,5 @@
 1 Fireball
 2 Lightning Bolt
 1 Vendetta
-9 Mountain
-9 Swamp
+9 Mountain [ROE:*]
+9 Swamp [ROE:*]

@@ -17,9 +17,9 @@
 2 Dark Temper
 1 Branching Bolt
 2 Fiery Fall
-4 Swamp
-5 Mountain
-4 Forest
+4 Swamp [ALA:*]
+5 Mountain [ALA:*]
+4 Forest [ALA:*]
 2 Savage Lands
 2 Terramorphic Expanse
 2 Tukatongue Thallid

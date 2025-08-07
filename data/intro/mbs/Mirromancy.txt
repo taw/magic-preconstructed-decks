@@ -25,5 +25,5 @@
 1 Turn the Tide
 1 Rally the Forces
 2 Quicksilver Geyser
-13 Mountain
-11 Island
+13 Mountain [MBS:*]
+11 Island [MBS:*]

@@ -39,9 +39,9 @@ COMMANDER: 1 Syr Gwyn, Hero of Ashvale [foil]
 1 Knights' Charge
 1 Godless Shrine
 1 Temple of Triumph
-5 Plains
-3 Swamp
-5 Mountain
+5 Plains [ELD:*]
+3 Swamp [ELD:*]
+5 Mountain [ELD:*]
 1 Bloodfell Caves
 1 Boros Guildgate [GRN:243]
 1 Command Tower

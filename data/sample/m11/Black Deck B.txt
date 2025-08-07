@@ -1,7 +1,7 @@
 // NAME: Black Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
-12 Swamp [M11]
+12 Swamp [M11:*]
 2 Barony Vampire [M11]
 1 Blood Seeker [ZEN]
 2 Child of Night [M11]

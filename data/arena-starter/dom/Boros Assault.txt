@@ -32,7 +32,7 @@
 1 Lightning Strike
 2 Magma Spray
 2 Rallying Roar
-10 Mountain
-10 Plains
+10 Mountain [DOM:*]
+10 Plains [DOM:*]
 1 Shefet Dunes
 2 Stone Quarry

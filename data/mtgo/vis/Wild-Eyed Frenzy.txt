@@ -21,4 +21,4 @@
 3 Flare*
 2 Fireblast
 2 Song of Blood
-23 Mountain*
+23 Mountain [MIR:*]

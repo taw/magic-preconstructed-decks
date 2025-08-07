@@ -1,7 +1,7 @@
 // NAME: Red Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-12 Mountain [10E]
+12 Mountain [10E:*]
 1 Anaba Bodyguard [10E]
 1 Axegrinder Giant [LRW]
 2 Flamekin Brawler [LRW]

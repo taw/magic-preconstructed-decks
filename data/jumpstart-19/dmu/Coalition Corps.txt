@@ -13,6 +13,6 @@
 1 Prayer of Binding
 1 Love Song of Night and Day
 1 Join Forces
-5 Plains
+5 Plains [DMU:*]
 2 Plains [foil]
 1 Plains [DMU:277]

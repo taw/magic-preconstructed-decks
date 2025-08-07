@@ -25,7 +25,7 @@
 1 Tar Pitcher
 1 Spitting Earth
 2 Boggart Shenanigans
-22 Mountain
+22 Mountain [EVG:*]
 1 Goblin Burrows
 1 Forgotten Cave
 3 Tarfire

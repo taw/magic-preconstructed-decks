@@ -28,8 +28,8 @@
 1 Pounce
 1 Desert of the Indomitable
 1 Desert of the True
-7 Forest
+7 Forest [DOM:*]
 2 Hashep Oasis
-8 Plains
+8 Plains [DOM:*]
 2 Shefet Dunes
 4 Tranquil Expanse

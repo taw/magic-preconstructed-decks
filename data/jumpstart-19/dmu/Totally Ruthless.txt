@@ -13,6 +13,6 @@
 1 Cut Down
 1 Battle-Rage Blessing
 1 Braids's Frightful Return
-5 Swamp
+5 Swamp [DMU:*]
 2 Swamp [foil]
 1 Swamp [DMU:279]

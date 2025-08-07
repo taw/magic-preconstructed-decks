@@ -21,9 +21,9 @@
 4 Verdant Haven
 2 Evolving Wilds
 4 Simic Guildgate
-6 Island
-1 Mountain
-10 Forest
+6 Island [RTR:*]
+1 Mountain [RTR:*]
+10 Forest [RTR:*]
 
 Sideboard
 3 Rancor

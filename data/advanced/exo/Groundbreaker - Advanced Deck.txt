@@ -3,13 +3,13 @@
 // SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
 1 City of Brass
-1 Forest
+1 Forest [TMP:*]
 2 Karplusan Forest
-3 Mountain
+3 Mountain [TMP:*]
 3 Quicksand
 3 Reflecting Pool
 2 Sulfurous Springs
-3 Swamp
+3 Swamp [TMP:*]
 2 Undiscovered Paradise
 4 Wasteland
 2 Anarchist

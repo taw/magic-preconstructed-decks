@@ -24,5 +24,5 @@
 2 Vessel of Ephemera
 2 Bound by Moonsilver
 1 Sleep Paralysis
-13 Plains
-12 Island
+13 Plains [SOI:*]
+12 Island [SOI:*]

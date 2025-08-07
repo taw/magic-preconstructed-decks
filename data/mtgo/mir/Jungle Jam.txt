@@ -23,8 +23,8 @@
 1 Afterlife
 1 Sawback Manticore
 1 Vitalizing Cascade
-1 Mountain
-10 Forest
-10 Plains
+1 Mountain [MIR:*]
+10 Forest [MIR:*]
+10 Plains [MIR:*]
 1 Grasslands
 1 Mountain Valley

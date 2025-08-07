@@ -21,7 +21,7 @@
 2 Thrive
 2 Stasis Cell*
 2 Shielding Plax
-10 Forest*
-11 Island*
+10 Forest [RAV:*]
+11 Island [RAV:*]
 2 Simic Growth Chamber
 1 Novijen, Heart of Progress

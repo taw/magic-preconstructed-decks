@@ -1,7 +1,7 @@
 // NAME: Red Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-12 Mountain [10E]
+12 Mountain [10E:*]
 2 Boggart Forager [LRW]
 2 Goblin Sky Raider [10E]
 2 Goblin Piker [10E]

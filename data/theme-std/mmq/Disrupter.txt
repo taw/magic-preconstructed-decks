@@ -30,5 +30,5 @@
 3 Stone Rain
 2 Thunderclap
 1 Subterranean Hangar
-12 Swamp
-8 Mountain
+12 Swamp [MMQ:*]
+8 Mountain [MMQ:*]

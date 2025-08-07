@@ -25,5 +25,5 @@
 1 Ensouled Scimitar
 1 Loxodon Warhammer*
 1 Whispersilk Cloak**
-8 Island*
-16 Swamp*
+8 Island [MRD:*]
+16 Swamp [MRD:*]

@@ -33,6 +33,6 @@
 2 Nomad Outpost
 1 Scoured Barrens
 1 Wind-Scarred Crag
-8 Mountain
-5 Plains
-7 Swamp
+8 Mountain [KTK:*]
+5 Plains [KTK:*]
+7 Swamp [KTK:*]

@@ -28,5 +28,5 @@
 1 Silumgar Monument
 1 Reduce in Stature
 1 Evolving Wilds
-13 Swamp
-11 Island
+13 Swamp [DTK:*]
+11 Island [DTK:*]

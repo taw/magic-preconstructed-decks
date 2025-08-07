@@ -24,5 +24,5 @@
 1 Emerald Charm
 3 Feral Instinct
 2 Rock Slide
-12 Mountain*
-12 Forest*
+12 Mountain [MIR:*]
+12 Forest [MIR:*]

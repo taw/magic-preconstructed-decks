@@ -23,5 +23,5 @@
 1 Shatter*
 2 Fanning the Flames
 3 Lightning Blast*
-14 Island
-13 Mountain
+14 Island [TMP:*]
+13 Mountain [TMP:*]

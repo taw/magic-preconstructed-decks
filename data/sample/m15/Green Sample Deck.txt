@@ -1,7 +1,7 @@
 // NAME: Green Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
 // DATE: 2014-07-18
-13 Forest [M15]
+13 Forest [M15:*]
 1 Centaur Courser [M15]
 1 Charging Rhino [M15]
 2 Elvish Mystic [M15]

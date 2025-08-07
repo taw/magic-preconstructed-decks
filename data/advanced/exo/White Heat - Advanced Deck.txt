@@ -4,8 +4,8 @@
 // DATE: 1998-06-15
 2 City of Brass
 3 Gemstone Mine
-4 Mountain
-7 Plains
+4 Mountain [TMP:*]
+7 Plains [TMP:*]
 3 Undiscovered Paradise
 2 Infantry Veteran
 4 Order of the White Shield

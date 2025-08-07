@@ -18,5 +18,5 @@
 3 Charmed Sleep
 3 Frogify
 4 Thornwood Falls
-10 Island
-11 Forest
+10 Island [ELD:*]
+11 Forest [ELD:*]

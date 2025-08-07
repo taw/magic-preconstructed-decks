@@ -21,8 +21,8 @@
 1 Executioner's Capsule
 1 Rod of Ruin
 1 Dehydration
-3 Plains
-7 Island
-3 Swamp
+3 Plains [ALA:*]
+7 Island [ALA:*]
+3 Swamp [ALA:*]
 2 Arcane Sanctum
 2 Terramorphic Expanse

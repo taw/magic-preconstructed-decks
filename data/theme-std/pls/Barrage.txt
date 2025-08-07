@@ -1,8 +1,8 @@
 // NAME: Barrage
 // SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
 // DATE: 2001-02-05
-11 Mountain
-12 Forest
+11 Mountain [INV:*]
+12 Forest [INV:*]
 2 Alpha Kavu
 1 Amphibious Kavu
 1 Caldera Kavu

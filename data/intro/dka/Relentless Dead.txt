@@ -26,5 +26,5 @@
 1 Endless Ranks of the Dead
 1 Zombie Infestation
 2 Evolving Wilds
-10 Island
-12 Swamp
+10 Island [ISD:*]
+12 Swamp [ISD:*]

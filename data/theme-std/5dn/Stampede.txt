@@ -30,5 +30,5 @@
 1 Pyrite Spellbomb*
 2 Talisman of Impulse*
 1 Goblin Cannon
-12 Mountain*
-11 Forest*
+12 Mountain [MRD:*]
+11 Forest [MRD:*]

@@ -21,6 +21,6 @@
 2 Rakdos Cluestone
 1 Havoc Festival
 1 Sinister Possession
-10 Mountain
+10 Mountain [RTR:*]
 4 Rakdos Guildgate
-12 Swamp
+12 Swamp [RTR:*]

@@ -1,7 +1,7 @@
 // NAME: Black Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
 // DATE: 2014-07-19
-13 Swamp [M14]
+13 Swamp [M14:*]
 1 Child of Night [M14]
 1 Corpse Hauler [M14]
 1 Deathgaze Cockatrice [M14]

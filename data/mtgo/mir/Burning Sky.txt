@@ -25,5 +25,5 @@
 1 Incinerate
 1 Goblin Scouts
 1 Kaervek's Torch
-12 Island
-12 Mountain
+12 Island [MIR:*]
+12 Mountain [MIR:*]

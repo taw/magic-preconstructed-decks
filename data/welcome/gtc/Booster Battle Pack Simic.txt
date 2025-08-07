@@ -13,5 +13,5 @@
 1 Nimbus Swimmer
 1 Bioshift
 1 Simic Guildgate
-5 Island
-5 Forest
+5 Island [RTR:*]
+5 Forest [RTR:*]

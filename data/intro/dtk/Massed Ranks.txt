@@ -23,5 +23,5 @@
 2 Pacifism
 1 Sheltered Aerie
 1 Evolving Wilds
-13 Plains
-11 Forest
+13 Plains [DTK:*]
+11 Forest [DTK:*]

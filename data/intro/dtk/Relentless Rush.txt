@@ -23,5 +23,5 @@
 1 Kolaghan Monument
 2 Impact Tremors
 1 Evolving Wilds
-13 Mountain
-11 Swamp
+13 Mountain [DTK:*]
+11 Swamp [DTK:*]

@@ -23,5 +23,5 @@
 1 Trip Noose
 2 Favor of the Overbeing
 1 Fable of Wolf and Owl
-12 Forest
-12 Island
+12 Forest [SHM:*]
+12 Island [SHM:*]

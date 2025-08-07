@@ -23,5 +23,5 @@
 2 Spreading Flames
 2 Blood Mist
 3 Wolfkin Bond
-13 Mountain
-12 Forest
+13 Mountain [SOI:*]
+12 Forest [SOI:*]

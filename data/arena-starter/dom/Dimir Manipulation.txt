@@ -32,6 +32,6 @@
 1 Vanquish the Weak
 2 Evolving Wilds
 1 Field of Ruin
-10 Island
+10 Island [DOM:*]
 4 Submerged Boneyard
-9 Swamp
+9 Swamp [DOM:*]

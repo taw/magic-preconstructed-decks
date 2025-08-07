@@ -28,8 +28,8 @@
 1 Final Reward
 2 Moment of Craving
 1 Reaver Ambush
-10 Forest
+10 Forest [DOM:*]
 4 Foul Orchard
 1 Hashep Oasis
 1 Ifnir Deadlands
-9 Swamp
+9 Swamp [DOM:*]

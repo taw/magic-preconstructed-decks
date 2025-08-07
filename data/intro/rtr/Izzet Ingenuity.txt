@@ -25,5 +25,5 @@
 2 Izzet Keyrune
 1 Pursuit of Flight
 1 Izzet Guildgate
-12 Island
-12 Mountain
+12 Island [RTR:*]
+12 Mountain [RTR:*]

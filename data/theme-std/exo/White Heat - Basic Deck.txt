@@ -2,8 +2,8 @@
 // SOURCE: http://www.wizards.com/magic/expert/Exodus/exodus_pcds.asp
 // SOURCE: https://mtg.gamepedia.com/Exodus/Theme_decks
 // DATE: 1998-06-15
-9 Mountain
-13 Plains
+9 Mountain [TMP:*]
+13 Plains [TMP:*]
 4 Soltari Foot Soldier
 2 Master Decoy
 2 Pegasus Stampede

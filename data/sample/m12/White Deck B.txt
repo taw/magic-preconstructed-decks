@@ -1,7 +1,7 @@
 // NAME: White Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
-12 Plains [M12]
+12 Plains [M12:*]
 1 Arbalest Elite [M12]
 1 Armored Warhorse [M12]
 1 Gideon's Lawkeeper [M12]

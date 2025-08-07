@@ -21,8 +21,8 @@
 1 Fated Conflagration
 2 Turn // Burn
 4 Izzet Guildgate
-12 Mountain
-9 Island
+12 Mountain [THS:*]
+9 Island [THS:*]
 
 Sideboard
 2 Flames of the Firebrand

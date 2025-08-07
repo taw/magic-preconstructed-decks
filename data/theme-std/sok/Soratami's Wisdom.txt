@@ -27,5 +27,5 @@
 1 Freed from the Real
 1 Overwhelming Intellect
 1 Hankyu*
-12 Plains*
-11 Island*
+12 Plains [CHK:*]
+11 Island [CHK:*]

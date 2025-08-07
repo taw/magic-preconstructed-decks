@@ -20,6 +20,6 @@
 2 Sylvan Might*
 1 Narcissism
 2 Acorn Harvest
-12 Swamp*
-10 Forest*
+12 Swamp [ODY:*]
+10 Forest [ODY:*]
 2 Tainted Wood

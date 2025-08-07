@@ -1,7 +1,7 @@
 // NAME: Black Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
-13 Swamp [M11]
+13 Swamp [M11:*]
 2 Death Cultist [ROE]
 1 Giant Scorpion [ZEN]
 1 Gravedigger [M11]

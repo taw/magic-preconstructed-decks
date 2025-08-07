@@ -38,9 +38,9 @@ COMMANDER: 1 Korvold, Fae-Cursed King [foil]
 1 Moldervine Reclamation
 1 Temple of Malady
 1 Stomping Ground
-6 Swamp
-2 Mountain
-6 Forest
+6 Swamp [ELD:*]
+2 Mountain [ELD:*]
+6 Forest [ELD:*]
 1 Bloodfell Caves
 1 Cryptic Caves
 1 Command Tower

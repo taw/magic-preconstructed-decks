@@ -1,7 +1,7 @@
 // NAME: White Deck B
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
-12 Plains [M11]
+12 Plains [M11:*]
 2 Ajani's Pridemate [M11]
 1 Assault Griffin [M11]
 1 Dawnglare Invoker [ROE]

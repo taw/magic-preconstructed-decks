@@ -15,8 +15,8 @@
 4 Pacifism*
 2 Akroma's Blessing*
 2 Mage's Guile*
-7 Forest*
-9 Plains*
-5 Island*
+7 Forest [ONS:*]
+9 Plains [ONS:*]
+5 Island [ONS:*]
 2 Lonely Sandbar*
 4 Secluded Steppe*

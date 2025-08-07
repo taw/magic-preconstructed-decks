@@ -87,9 +87,9 @@ COMMANDER: 1 Aminatou, Veil Piercer [foil] [DSC:1]
 1 Thriving Heath
 1 Thriving Isle
 1 Thriving Moor
-5 Plains
-4 Island
-5 Swamp
+5 Plains [DSK:*]
+4 Island [DSK:*]
+5 Swamp [DSK:*]
 
 Scheme Deck
 1 Choose Your Demise

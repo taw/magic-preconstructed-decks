@@ -23,9 +23,9 @@
 2 Birthing Pod
 1 Mortarpod
 2 Evolving Wilds
-14 Forest
+14 Forest [ISD:*]
 1 Grim Backwoods
-8 Swamp
+8 Swamp [ISD:*]
 
 Sideboard
 1 Wakedancer

@@ -26,8 +26,8 @@
 1 Dictate of Heliod
 1 Caves of Koilos
 4 Scoured Barrens
-10 Plains
-9 Swamp
+10 Plains [KTK:*]
+9 Swamp [KTK:*]
 
 Sideboard
 2 Despise

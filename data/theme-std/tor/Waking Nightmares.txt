@@ -22,6 +22,6 @@
 1 Demolish*
 2 Temporary Insanity
 1 Flaming Gambit
-12 Swamp*
-9 Mountain*
+12 Swamp [ODY:*]
+9 Mountain [ODY:*]
 2 Tainted Peak

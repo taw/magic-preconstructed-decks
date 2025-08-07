@@ -20,4 +20,4 @@
 2 Inspired Charge
 3 Origin Spellbomb
 3 Arrest
-24 Plains
+24 Plains [SOM:*]

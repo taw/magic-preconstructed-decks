@@ -1,7 +1,7 @@
 // NAME: White Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
 // DATE: 2014-07-19
-13 Plains [M14]
+13 Plains [M14:*]
 1 Assault Griffin [GTC]
 1 Auramancer [M14]
 1 Capashen Knight [M14]

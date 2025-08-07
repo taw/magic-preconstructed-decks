@@ -37,9 +37,9 @@ COMMANDER: 1 Alela, Artful Provocateur [foil]
 1 Lawmage's Binding
 1 Temple of Silence
 1 Watery Grave
-6 Plains
-5 Island
-4 Swamp
+6 Plains [ELD:*]
+5 Island [ELD:*]
+4 Swamp [ELD:*]
 1 Azorius Guildgate [RNA:243]
 1 Command Tower
 1 Dimir Guildgate [GRN:246]

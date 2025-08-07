@@ -1,8 +1,8 @@
 // NAME: Unraveling Mind
 // SOURCE: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
 // DATE: 2007-02-02
-7 Mountain
-14 Swamp
+7 Mountain [TSP:*]
+14 Swamp [TSP:*]
 3 Terramorphic Expanse
 2 Big Game Hunter
 2 Brain Gorgers

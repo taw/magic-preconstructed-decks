@@ -25,5 +25,5 @@
 2 Spontaneous Mutation
 1 Ghostly Wings
 1 Boon of Emrakul
-13 Swamp
-12 Island
+13 Swamp [SOI:*]
+12 Island [SOI:*]

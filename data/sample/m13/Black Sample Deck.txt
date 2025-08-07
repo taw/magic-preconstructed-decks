@@ -1,7 +1,7 @@
 // NAME: Black Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
 // DATE: 2012-07-13
-13 Swamp [M13]
+13 Swamp [M13:*]
 1 Bloodhunter Bat [M13]
 1 Giant Scorpion [M13]
 1 Liliana's Shade [M13]

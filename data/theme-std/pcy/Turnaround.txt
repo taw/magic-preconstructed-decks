@@ -26,5 +26,5 @@
 1 Rhystic Study
 1 Foil
 1 Heightened Awareness
-14 Plains*
-10 Island*
+14 Plains [MMQ:*]
+10 Island [MMQ:*]

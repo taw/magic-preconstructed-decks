@@ -1,7 +1,7 @@
 // NAME: Blue Sample Deck
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2013/Sample_decks
 // DATE: 2012-07-13
-12 Island [M13]
+12 Island [M13:*]
 1 Archaeomancer [M13]
 1 Gryff Vanguard [AVR]
 1 Jace's Phantasm [M13]

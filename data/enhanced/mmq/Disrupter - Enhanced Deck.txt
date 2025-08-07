@@ -22,6 +22,6 @@
 2 Thunderclap
 2 Befoul
 2 Snuff Out
-6 Mountain
+6 Mountain [MMQ:*]
 4 Sulfurous Springs
-9 Swamp
+9 Swamp [MMQ:*]

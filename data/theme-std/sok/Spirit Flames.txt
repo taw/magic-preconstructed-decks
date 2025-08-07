@@ -25,5 +25,5 @@
 2 Unchecked Growth*
 1 Rending Vines
 1 Strength of Cedars*
-11 Mountain*
-13 Forest*
+11 Mountain [CHK:*]
+13 Forest [CHK:*]

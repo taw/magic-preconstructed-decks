@@ -23,7 +23,7 @@
 2 Castigate
 1 Mortify
 2 Pillory of the Sleepless
-10 Plains*
-11 Swamp*
+10 Plains [RAV:*]
+11 Swamp [RAV:*]
 2 Orzhov Basilica
 1 Orzhova, the Church of Deals

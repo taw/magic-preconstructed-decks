@@ -27,5 +27,5 @@
 1 Blood Reckoning
 1 One Thousand Lashes
 1 Orzhov Guildgate
-12 Plains
-13 Swamp
+12 Plains [RTR:*]
+13 Swamp [RTR:*]

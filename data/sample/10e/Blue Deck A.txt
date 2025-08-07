@@ -1,7 +1,7 @@
 // NAME: Blue Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
-12 Island [10E]
+12 Island [10E:*]
 1 Air Elemental [10E]
 2 Briarberry Cohort [SHM]
 2 Cloud Elemental [10E]

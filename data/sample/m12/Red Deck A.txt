@@ -1,7 +1,7 @@
 // NAME: Red Deck A
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
-13 Mountain [M12]
+13 Mountain [M12:*]
 1 Bonebreaker Giant [M12]
 1 Crimson Mage [M12]
 2 Fiery Hellhound [M12]

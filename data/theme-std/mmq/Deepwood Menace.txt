@@ -20,5 +20,5 @@
 1 Tiger Claws
 1 Tranquility
 2 Desert Twister
-13 Mountain
-11 Forest
+13 Mountain [MMQ:*]
+11 Forest [MMQ:*]

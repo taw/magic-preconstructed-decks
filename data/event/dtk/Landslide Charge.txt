@@ -24,9 +24,9 @@
 4 Evolving Wilds
 4 Frontier Bivouac
 1 Temple of Abandon
-10 Forest
-5 Mountain
-1 Island
+10 Forest [DTK:*]
+5 Mountain [DTK:*]
+1 Island [DTK:*]
 
 Sideboard
 1 Stubborn Denial

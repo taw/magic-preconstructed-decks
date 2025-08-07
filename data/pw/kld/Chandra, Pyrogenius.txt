@@ -24,5 +24,5 @@
 1 Fleetwheel Cruiser
 1 Ovalchase Dragster
 4 Stone Quarry
-11 Mountain
-10 Plains
+11 Mountain [KLD:*]
+10 Plains [KLD:*]

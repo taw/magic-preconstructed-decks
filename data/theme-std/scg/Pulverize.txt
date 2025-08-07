@@ -22,5 +22,5 @@
 2 Erratic Explosion*
 3 Torrent of Fire
 1 Slice and Dice*
-12 Island*
-12 Mountain*
+12 Island [ONS:*]
+12 Mountain [ONS:*]

@@ -24,5 +24,5 @@
 1 Dying Wish
 1 Gift of Orzhova
 4 Orzhov Guildgate
-11 Plains
-12 Swamp
+11 Plains [RTR:*]
+12 Swamp [RTR:*]

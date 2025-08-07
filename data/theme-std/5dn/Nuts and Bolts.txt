@@ -27,7 +27,7 @@
 1 Viridian Longbow*
 1 Healer's Headdress
 1 Salvaging Station
-12 Plains*
-7 Island*
+12 Plains [MRD:*]
+7 Island [MRD:*]
 2 Ancient Den*
 2 Seat of the Synod*

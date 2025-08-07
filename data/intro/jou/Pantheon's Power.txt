@@ -25,5 +25,5 @@
 2 Nyx Infusion
 1 Armament of Nyx
 1 Banishing Light
-15 Swamp
-11 Plains
+15 Swamp [THS:*]
+11 Plains [THS:*]

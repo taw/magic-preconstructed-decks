@@ -20,8 +20,8 @@
 3 Boros Guildgate
 1 Clifftop Retreat
 1 Slayers' Stronghold
-10 Plains
-8 Mountain
+10 Plains [RTR:*]
+8 Mountain [RTR:*]
 
 Sideboard
 3 Electrickery
