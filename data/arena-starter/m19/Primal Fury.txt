@@ -20,7 +20,7 @@
 3 Shock
 3 Lightning Strike
 1 Banefire
-10 Forest
+10 Forest [M19:*]
 1 Rootbound Crag
-9 Mountain
+9 Mountain [M19:*]
 4 Timber Gorge

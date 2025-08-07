@@ -18,4 +18,4 @@
 3 [ANB] Shock
 3 Sure Strike
 1 Spit Flame
-25 Mountain
+25 Mountain [M19:*]

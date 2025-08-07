@@ -13,6 +13,6 @@
 1 Landroval, Horizon Witness
 1 Reprieve
 1 Inherited Envelope
-8 Plains
+8 Plains [LTR:*]
 
 Sideboard

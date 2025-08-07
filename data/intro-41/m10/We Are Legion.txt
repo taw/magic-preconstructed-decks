@@ -21,6 +21,6 @@
 1 Honor of the Pure
 2 Pacifism
 1 Armored Ascension
-12 Plains
-5 Mountain
+12 Plains [M10:*]
+5 Mountain [M10:*]
 1 Terramorphic Expanse

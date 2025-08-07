@@ -14,4 +14,4 @@
 1 Dark Remedy
 1 Disfigure
 1 Murder
-13 Swamp
+13 Swamp [M20:*]

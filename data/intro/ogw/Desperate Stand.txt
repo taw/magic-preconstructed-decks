@@ -25,5 +25,5 @@
 1 Smite the Monstrous
 1 Blighted Fen
 1 Evolving Wilds
-14 Plains
-9 Swamp
+14 Plains [BFZ:*]
+9 Swamp [BFZ:*]

@@ -21,7 +21,7 @@
 1 Dub
 2 Infuriate
 2 Scorching Dragonfire
-10 Mountain
-9 Plains
+10 Mountain [M21:*]
+9 Plains [M21:*]
 1 Temple of Triumph
 4 Wind-Scarred Crag

@@ -13,6 +13,6 @@
 1 Gothmog, Morgul Lieutenant
 1 Grond, the Gatebreaker
 1 Bitter Downfall
-8 Swamp
+8 Swamp [LTR:*]
 
 Sideboard

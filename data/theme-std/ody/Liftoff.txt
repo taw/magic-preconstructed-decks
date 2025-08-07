@@ -28,5 +28,5 @@
 2 Think Tank
 1 Abandoned Outpost
 1 Seafloor Debris
-10 Plains
-9 Island
+10 Plains [ODY:*]
+9 Island [ODY:*]

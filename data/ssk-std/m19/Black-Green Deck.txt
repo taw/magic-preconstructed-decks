@@ -25,5 +25,5 @@
 2 Titanic Growth
 1 Prodigious Growth
 4 Foul Orchard
-10 Swamp
-10 Forest
+10 Swamp [M19:*]
+10 Forest [M19:*]

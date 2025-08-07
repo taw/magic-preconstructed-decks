@@ -28,9 +28,9 @@
 4 Opulent Palace
 2 Jungle Hollow
 2 Evolving Wilds
-3 Island
-8 Forest
-5 Swamp
+3 Island [FRF:*]
+8 Forest [FRF:*]
+5 Swamp [FRF:*]
 Sideboard
 1 Typhoid Rats
 1 Annul

@@ -90,9 +90,9 @@
 1 Mystic Monastery
 1 Ominous Cemetery
 1 Rogue's Passage
-3 Plains
-3 Island
-3 Mountain
+3 Plains [WHO:*]
+3 Island [WHO:*]
+3 Mountain [WHO:*]
 
 Commander
 1 The Tenth Doctor [foil] [WHO:3]

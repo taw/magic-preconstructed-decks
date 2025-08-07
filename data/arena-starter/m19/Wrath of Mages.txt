@@ -20,6 +20,6 @@
 3 Sift
 1 River's Rebuke
 1 Sulfur Falls
-10 Island
+10 Island [M19:*]
 4 Highland Lake
-10 Mountain
+10 Mountain [M19:*]

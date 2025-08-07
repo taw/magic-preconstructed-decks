@@ -6,7 +6,7 @@
 3 Ember Hauler
 3 Chandra's Outrage
 4 Shock
-25 Mountain
+25 Mountain [M20:*]
 1 Drakuseth, Maw of Flames
 2 Chandra's Flame Wave
 4 Pack Mastiff

@@ -22,6 +22,6 @@
 1 Eat to Extinction
 2 Forbidden Friendship
 4 Bloodfell Caves
-9 Mountain
-10 Swamp
+9 Mountain [M21:*]
+10 Swamp [M21:*]
 1 Temple of Malice

@@ -23,5 +23,5 @@
 2 Titanic Brawl
 1 Breeding Pool
 4 Simic Guildgate [RNA:257]
-10 Forest
-10 Island
+10 Forest [M20:*]
+10 Island [M20:*]

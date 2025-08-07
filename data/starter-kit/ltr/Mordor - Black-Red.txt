@@ -28,5 +28,5 @@
 1 Uglúk of the White Hand
 1 Mind Stone [LTC:282]
 4 Evolving Wilds [LTC:306]
-11 Swamp
-11 Mountain
+11 Swamp [LTR:*]
+11 Mountain [LTR:*]

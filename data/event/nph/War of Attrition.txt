@@ -19,7 +19,7 @@
 1 Skinwing
 4 Journey to Nowhere
 2 Dread Statuary
-21 Plains
+21 Plains [NPH:*]
 
 Sideboard
 1 Kor Duelist

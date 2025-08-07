@@ -16,4 +16,4 @@
 1 Befuddle
 1 Unsummon
 1 Sleep Paralysis
-13 Island
+13 Island [M20:*]

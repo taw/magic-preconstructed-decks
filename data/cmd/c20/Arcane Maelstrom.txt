@@ -83,9 +83,9 @@ COMMANDER: 1 Kalamax, the Stormsire [foil]
 1 Rugged Highlands
 1 Swiftwater Cliffs
 1 Thornwood Falls
-8 Forest
-5 Island
-5 Mountain
+8 Forest [IKO:*]
+5 Island [IKO:*]
+5 Mountain [IKO:*]
 
 Display Commander
 1 Kalamax, the Stormsire [oc20] [foil]

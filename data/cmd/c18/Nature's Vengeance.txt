@@ -43,9 +43,9 @@ COMMANDER: 1 Lord Windgrace [foil]
 1 Retreat to Hagra
 1 Khalni Heart Expedition
 1 Deathreap Ritual
-6 Swamp
-5 Mountain
-7 Forest
+6 Swamp [C18:*]
+5 Mountain [C18:*]
+7 Forest [C18:*]
 1 Akoum Refuge
 1 Barren Moor
 1 Blighted Woodland

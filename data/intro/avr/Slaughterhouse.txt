@@ -23,5 +23,5 @@
 2 Fling
 1 Scroll of Griselbrand
 1 Unhallowed Pact
-13 Swamp
-12 Mountain
+13 Swamp [AVR:*]
+12 Mountain [AVR:*]

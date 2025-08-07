@@ -20,8 +20,8 @@
 2 Contact Other Plane
 1 Baleful Mastery
 3 Skull Raid
-10 Island
-10 Swamp
+10 Island [AFR:*]
+10 Swamp [AFR:*]
 1 Clearwater Pathway
 4 Ice Tunnel
 1 Port of Karfell

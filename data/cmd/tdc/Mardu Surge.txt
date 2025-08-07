@@ -86,7 +86,6 @@ COMMANDER: 1 Zurgo Stormrender [TDC:10] [foil]
 1 Path of Ancestry
 1 Shattered Landscape
 1 Terramorphic Expanse
-5 Plains
-5 Swamp
-5 Mountain
-
+5 Plains [TDM:*]
+5 Swamp [TDM:*]
+5 Mountain [TDM:*]

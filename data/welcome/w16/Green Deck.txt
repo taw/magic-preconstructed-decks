@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
 // DATE: 2016-04-08
 1 Blighted Woodland
-12 Forest
+12 Forest [SOI:*]
 2 Broodhunter Wurm
 1 Giant Mantis
 1 Gloomwidow

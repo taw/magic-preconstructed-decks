@@ -25,5 +25,5 @@
 1 Naturalize
 1 Demonmail Hauberk
 2 Dead Weight
-11 Swamp
-13 Forest
+11 Swamp [ISD:*]
+13 Forest [ISD:*]

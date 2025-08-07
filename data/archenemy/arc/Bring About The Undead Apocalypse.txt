@@ -33,9 +33,9 @@
 2 Rakdos Signet
 1 Zombie Infestation
 2 Barren Moor
-7 Mountain
+7 Mountain [ARC:*]
 2 Rakdos Carnarium
-13 Swamp
+13 Swamp [ARC:*]
 
 Scheme Deck
 2 Choose Your Champion

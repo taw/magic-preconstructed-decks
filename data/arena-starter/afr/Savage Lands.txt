@@ -18,8 +18,8 @@
 3 Roil Eruption
 3 Scale the Heights
 2 Vastwood Surge
-9 Mountain
-8 Forest
+9 Mountain [AFR:*]
+8 Forest [AFR:*]
 1 Cragcrown Pathway
 4 Highland Forest
 4 Evolving Wilds

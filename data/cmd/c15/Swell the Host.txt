@@ -76,8 +76,8 @@ COMMANDER: 1 Ezuri, Claw of Progress
 1 Vivid Creek
 1 Vivid Grove
 1 Zoetic Cavern
-14 Forest
-11 Island
+14 Forest [C15:*]
+11 Island [C15:*]
 
 Display Commander
 1 Ezuri, Claw of Progress [oc15] [foil]

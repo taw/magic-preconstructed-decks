@@ -13,5 +13,5 @@
 1 Overwhelming Remorse
 1 Dredging Claw
 1 Transmogrant Altar
-6 Swamp
+6 Swamp [BRO:*]
 2 Swamp [foil]

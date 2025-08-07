@@ -19,7 +19,7 @@
 1 Riddlemaster Sphinx
 3 Murder
 2 Chart a Course
-10 Island
-10 Swamp
+10 Island [M19:*]
+10 Swamp [M19:*]
 1 Drowned Catacomb
 4 Submerged Boneyard

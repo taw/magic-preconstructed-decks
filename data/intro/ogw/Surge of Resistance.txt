@@ -23,5 +23,5 @@
 2 Pyromancer's Assault
 1 Blighted Gorge
 1 Evolving Wilds
-12 Mountain
-11 Island
+12 Mountain [BFZ:*]
+11 Island [BFZ:*]

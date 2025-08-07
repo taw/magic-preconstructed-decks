@@ -22,5 +22,5 @@
 1 Staff of the Mind Magus
 3 Claustrophobia
 2 Illusionary Armor
-16 Island
-9 Plains
+16 Island [M14:*]
+9 Plains [M14:*]

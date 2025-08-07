@@ -63,9 +63,9 @@ COMMANDER: 1 Sefris of the Hidden Ways [foil]
 1 Thriving Heath
 1 Thriving Isle
 1 Thriving Moor
-7 Plains
-5 Island
-7 Swamp
+7 Plains [AFR:*]
+5 Island [AFR:*]
+7 Swamp [AFR:*]
 1 Nihiloor [foil]
 1 Immovable Rod
 1 Radiant Solar

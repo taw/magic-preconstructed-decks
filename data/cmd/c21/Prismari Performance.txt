@@ -77,8 +77,8 @@ COMMANDER: 1 Zaffai, Thunder Conductor [foil]
 1 Myriad Landscape
 1 Reliquary Tower
 1 Temple of the False God
-10 Island
-9 Mountain
+10 Island [STX:*]
+9 Mountain [STX:*]
 1 Elementalist's Palette
 1 Mind's Desire
 1 Brass's Bounty

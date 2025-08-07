@@ -25,5 +25,5 @@
 1 Witches' Eye
 1 Whip of Erebos
 1 Ordeal of Thassa
-16 Swamp
-9 Island
+16 Swamp [THS:*]
+9 Island [THS:*]

@@ -21,7 +21,7 @@
 1 Soul Shatter
 2 Magic Missile
 2 Grim Bounty
-9 Swamp
-10 Mountain
+9 Swamp [AFR:*]
+10 Mountain [AFR:*]
 1 Blightstep Pathway
 4 Sulfurous Mire

@@ -23,5 +23,5 @@
 1 Staff of the Mind Magus
 1 Darksteel Citadel
 2 Ensoul Artifact
-12 Mountain
-12 Island
+12 Mountain [M15:*]
+12 Island [M15:*]

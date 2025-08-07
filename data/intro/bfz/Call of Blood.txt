@@ -23,5 +23,5 @@
 1 Blighted Steppe
 2 Evolving Wilds
 2 Mortuary Mire
-10 Swamp
-11 Plains
+10 Swamp [BFZ:*]
+11 Plains [BFZ:*]

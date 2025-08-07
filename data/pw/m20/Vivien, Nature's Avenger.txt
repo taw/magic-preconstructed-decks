@@ -6,7 +6,7 @@
 3 Rabid Bite
 1 Might of the Masses
 3 Titanic Growth
-25 Forest
+25 Forest [M20:*]
 1 Wakeroot Elemental
 2 Ethereal Elk
 3 Barkhide Troll

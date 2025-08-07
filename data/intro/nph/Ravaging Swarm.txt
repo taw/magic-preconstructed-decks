@@ -25,5 +25,5 @@
 1 Defensive Stance
 1 Corrupted Conscience
 1 Inexorable Tide
-12 Forest
-12 Island
+12 Forest [NPH:*]
+12 Island [NPH:*]

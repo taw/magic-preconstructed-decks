@@ -22,6 +22,6 @@
 1 Hoarder's Greed
 2 Tarfire
 2 Boggart Shenanigans
-12 Swamp
-10 Mountain
+12 Swamp [LRW:*]
+10 Mountain [LRW:*]
 2 Shimmering Grotto

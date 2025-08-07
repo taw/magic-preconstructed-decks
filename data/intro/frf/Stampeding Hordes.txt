@@ -25,5 +25,5 @@
 2 War Flare
 2 Heat Ray
 3 Wind-Scarred Crag
-13 Mountain
-9 Plains
+13 Mountain [FRF:*]
+9 Plains [FRF:*]

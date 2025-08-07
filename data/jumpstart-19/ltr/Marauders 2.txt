@@ -13,4 +13,4 @@
 1 Smite the Deathless
 1 Rush the Room
 1 Quarrel's End
-8 Mountain
+8 Mountain [LTR:*]

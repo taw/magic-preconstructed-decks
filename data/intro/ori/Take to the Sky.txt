@@ -23,5 +23,5 @@
 2 Claustrophobia
 2 Suppression Bonds
 1 Evolving Wilds
-14 Island
-10 Plains
+14 Island [ORI:*]
+10 Plains [ORI:*]

@@ -23,7 +23,7 @@
 1 Primal Boost
 3 Explosive Vegetation
 1 Cryptic Gateway
-9 Mountain
-13 Forest
+9 Mountain [ONS:*]
+13 Forest [ONS:*]
 2 Forgotten Cave
 2 Tranquil Thicket

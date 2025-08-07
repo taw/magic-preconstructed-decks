@@ -21,6 +21,6 @@
 2 Lightning Bolt
 1 Negate
 2 Seismic Strike
-12 Mountain
-5 Island
+12 Mountain [M10:*]
+5 Island [M10:*]
 1 Terramorphic Expanse

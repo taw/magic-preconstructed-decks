@@ -25,5 +25,5 @@
 1 Pristine Talisman
 2 Rage Extractor
 2 Pacifism
-11 Mountain
-13 Plains
+11 Mountain [NPH:*]
+13 Plains [NPH:*]

@@ -25,5 +25,5 @@
 2 Deadly Visit
 4 Dimir Guildgate [GRN:245]
 1 Watery Grave
-10 Island
-10 Swamp
+10 Island [M20:*]
+10 Swamp [M20:*]

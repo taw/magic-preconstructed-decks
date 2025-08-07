@@ -87,7 +87,6 @@ COMMANDER: 1 Eshki, Temur's Roar [TDC:3] [foil]
 1 Talisman of Impulse
 1 Bountiful Landscape
 1 Path of Ancestry
-3 Island
-6 Mountain
-5 Forest
-
+3 Island [TDM:*]
+6 Mountain [TDM:*]
+5 Forest [TDM:*]

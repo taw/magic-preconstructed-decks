@@ -25,6 +25,6 @@
 2 Airborne Aid
 1 Dispersing Orb
 1 Essence Fracture
-13 Plains
-10 Island
+13 Plains [ONS:*]
+10 Island [ONS:*]
 1 Seaside Haven

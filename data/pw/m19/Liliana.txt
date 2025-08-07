@@ -20,5 +20,5 @@
 2 Abnormal Endurance
 2 Murder
 1 Strangling Spores
-26 Swamp
+26 Swamp [M19:*]
 1 Liliana, the Necromancer [foil]

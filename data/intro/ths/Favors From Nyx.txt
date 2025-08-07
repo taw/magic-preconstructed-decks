@@ -24,8 +24,8 @@
 1 Ordeal of Heliod
 2 Ordeal of Erebos
 1 Gift of Immortality
-16 Plains
-9 Swamp
+16 Plains [THS:*]
+9 Swamp [THS:*]
 2 Heliod's Emissary
 1 Erebos's Emissary
 2 Pharika's Cure

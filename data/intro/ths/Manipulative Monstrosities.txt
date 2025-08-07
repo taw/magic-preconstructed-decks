@@ -24,5 +24,5 @@
 2 Griptide
 1 Volcanic Geyser
 1 Ordeal of Purphoros
-16 Island
-10 Mountain
+16 Island [THS:*]
+10 Mountain [THS:*]

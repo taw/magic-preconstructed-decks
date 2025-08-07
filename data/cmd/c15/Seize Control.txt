@@ -74,8 +74,8 @@ COMMANDER: 1 Mizzix of the Izmagnus
 1 Terramorphic Expanse
 1 Vivid Crag
 1 Vivid Creek
-14 Island
-13 Mountain
+14 Island [C15:*]
+13 Mountain [C15:*]
 
 Display Commander
 1 Mizzix of the Izmagnus [oc15] [foil]

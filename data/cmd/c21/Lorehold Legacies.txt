@@ -81,8 +81,8 @@ COMMANDER: 1 Osgir, the Reconstructor [foil]
 1 Secluded Steppe
 1 Sunhome, Fortress of the Legion
 1 Temple of the False God
-12 Mountain
-8 Plains
+12 Mountain [STX:*]
+8 Plains [STX:*]
 
 Display Commander
 1 Osgir, the Reconstructor [oc21] [foil]

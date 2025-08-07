@@ -22,5 +22,5 @@
 1 Slaughter Cry
 2 Greatsword
 3 Arachnus Web
-18 Forest
-7 Mountain
+18 Forest [M12:*]
+7 Mountain [M12:*]

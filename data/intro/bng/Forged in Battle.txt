@@ -26,5 +26,5 @@
 2 Rise to the Challenge
 1 Searing Blood
 2 Ordeal of Purphoros
-14 Mountain
-11 Plains
+14 Mountain [THS:*]
+11 Plains [THS:*]

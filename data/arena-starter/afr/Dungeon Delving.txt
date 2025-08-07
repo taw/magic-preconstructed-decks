@@ -19,6 +19,6 @@
 3 Cloister Gargoyle
 2 Precipitous Drop
 1 Brightclimb Pathway
-9 Plains
+9 Plains [AFR:*]
 4 Snowfield Sinkhole
-10 Swamp
+10 Swamp [AFR:*]

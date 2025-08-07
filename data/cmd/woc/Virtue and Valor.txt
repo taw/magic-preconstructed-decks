@@ -72,5 +72,5 @@ COMMANDER: 1 Ellivere of the Wild Court [foil]
 1 Vitu-Ghazi, the City-Tree
 1 Tanglespan Lookout
 1 Syr Armont, the Redeemer [WOE:214]
-15 Forest
-14 Plains
+15 Forest [WOE:*]
+14 Plains [WOE:*]

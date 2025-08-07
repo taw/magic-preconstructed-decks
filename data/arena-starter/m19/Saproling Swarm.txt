@@ -19,7 +19,7 @@
 3 Vicious Offering
 2 Spore Swarm
 3 Saproling Migration
-10 Swamp
+10 Swamp [M19:*]
 1 Woodland Cemetery
-10 Forest
+10 Forest [M19:*]
 4 Foul Orchard

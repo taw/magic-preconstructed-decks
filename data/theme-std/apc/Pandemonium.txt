@@ -1,11 +1,11 @@
 // NAME: Pandemonium
 // SOURCE: https://mtg.gamepedia.com/Apocalypse/Theme_decks
 // DATE: 2001-06-04
-12 Forest
-3 Island
-2 Mountain
-3 Plains
-3 Swamp
+12 Forest [INV:*]
+3 Island [INV:*]
+2 Mountain [INV:*]
+3 Plains [INV:*]
+3 Swamp [INV:*]
 1 Emblazoned Golem
 1 Helionaut
 1 Nomadic Elf

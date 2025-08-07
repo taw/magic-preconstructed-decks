@@ -81,10 +81,10 @@ COMMANDER: 1 Yidris, Maelstrom Wielder [foil]
 1 Swiftwater Cliffs
 1 Terramorphic Expanse
 1 Thornwood Falls
-5 Island
-5 Swamp
-5 Mountain
-5 Forest
+5 Island [C16:*]
+5 Swamp [C16:*]
+5 Mountain [C16:*]
+5 Forest [C16:*]
 
 Display Commander
 1 Yidris, Maelstrom Wielder [oc16] [foil]

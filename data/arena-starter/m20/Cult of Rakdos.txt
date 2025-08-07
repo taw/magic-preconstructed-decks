@@ -22,5 +22,5 @@
 3 Skewer the Critics
 1 Blood Crypt
 4 Rakdos Guildgate [RNA:255]
-10 Swamp
-10 Mountain
+10 Swamp [M20:*]
+10 Mountain [M20:*]

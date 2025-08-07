@@ -13,6 +13,6 @@
 1 Éomer of the Riddermark
 1 Rising of the Day
 1 Fear, Fire, Foes!
-8 Mountain
+8 Mountain [LTR:*]
 
 Sideboard

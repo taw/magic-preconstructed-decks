@@ -13,5 +13,5 @@
 1 Bushwhack
 1 Shoot Down
 1 Epic Confrontation
-6 Forest
+6 Forest [BRO:*]
 2 Forest [foil]

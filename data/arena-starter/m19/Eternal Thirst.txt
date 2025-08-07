@@ -20,7 +20,7 @@
 2 Nightmare's Thirst
 3 Murder
 1 Vraska's Contempt
-10 Plains
+10 Plains [M19:*]
 1 Isolated Chapel
-10 Swamp
+10 Swamp [M19:*]
 4 Forsaken Sanctuary

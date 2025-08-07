@@ -20,6 +20,6 @@
 1 Aetherspouts
 2 Jace's Ingenuity
 2 Pin to the Earth
-7 Forest
-17 Island
+7 Forest [M15:*]
+17 Island [M15:*]
 1 Temple of Mystery [CP1] [foil]

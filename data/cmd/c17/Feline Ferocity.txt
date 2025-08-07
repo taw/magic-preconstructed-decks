@@ -66,8 +66,8 @@ COMMANDER: 1 Arahbo, Roar of the World [foil]
 1 Curse of Bounty
 1 Mosswort Bridge
 1 Stirring Wildwood
-7 Plains
-6 Forest
+7 Plains [C17:*]
+6 Forest [C17:*]
 1 Path of Ancestry
 1 Blighted Woodland
 1 Blossoming Sands

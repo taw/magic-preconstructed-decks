@@ -21,4 +21,4 @@
 3 [ANB] Tactical Advantage
 1 [ANB] Confront the Assault
 2 Take Vengeance
-25 Plains
+25 Plains [M19:*]

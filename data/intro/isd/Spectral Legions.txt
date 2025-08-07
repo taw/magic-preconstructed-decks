@@ -24,5 +24,5 @@
 2 Pacifism
 1 Spirit Mantle
 1 Ghostly Possession
-14 Plains
-10 Island
+14 Plains [ISD:*]
+10 Island [ISD:*]

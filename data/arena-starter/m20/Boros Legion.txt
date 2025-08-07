@@ -23,5 +23,5 @@
 1 Tectonic Rift
 4 Boros Guildgate [GRN:243]
 1 Sacred Foundry
-10 Mountain
-10 Plains
+10 Mountain [M20:*]
+10 Plains [M20:*]

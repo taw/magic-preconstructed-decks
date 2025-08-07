@@ -34,9 +34,9 @@
 1 Thunderstaff
 1 Unbender Tine
 1 March of the Machines
-10 Island
-7 Plains
-5 Swamp
+10 Island [ARC:*]
+7 Plains [ARC:*]
+5 Swamp [ARC:*]
 2 Terramorphic Expanse
 
 Scheme Deck

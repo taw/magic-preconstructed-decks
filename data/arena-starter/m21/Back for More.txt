@@ -19,7 +19,7 @@
 2 Sudden Spinnerets
 2 Drag to the Underworld
 2 Back for More
-10 Forest
+10 Forest [M21:*]
 4 Jungle Hollow
-10 Swamp
+10 Swamp [M21:*]
 1 Temple of Malady

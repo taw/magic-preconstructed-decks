@@ -15,4 +15,4 @@
 1 Show of Valor
 1 Glaring Aegis
 1 Pacifism
-13 Plains
+13 Plains [M20:*]

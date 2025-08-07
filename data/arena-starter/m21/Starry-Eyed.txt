@@ -19,7 +19,7 @@
 2 Karametra's Blessing
 3 Thirst for Meaning
 1 Banish into Fable
-9 Island
-11 Plains
+9 Island [M21:*]
+11 Plains [M21:*]
 1 Temple of Enlightenment
 4 Tranquil Cove

@@ -23,5 +23,5 @@
 1 Blighted Cataract
 2 Evolving Wilds
 2 Skyline Cascade
-10 Island
-11 Forest
+10 Island [BFZ:*]
+11 Forest [BFZ:*]

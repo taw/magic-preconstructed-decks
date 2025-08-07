@@ -18,9 +18,9 @@
 3 Righteous Blow
 3 Oblivion Ring
 2 Glacial Fortress
-9 Island
+9 Island [AVR:*]
 1 Moorland Haunt
-12 Plains
+12 Plains [AVR:*]
 
 Sideboard
 3 Cathedral Sanctifier

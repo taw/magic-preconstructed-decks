@@ -27,5 +27,5 @@
 2 Debilitating Injury
 2 Raiders' Spoils
 3 Scoured Barrens
-13 Plains
-9 Swamp
+13 Plains [FRF:*]
+9 Swamp [FRF:*]

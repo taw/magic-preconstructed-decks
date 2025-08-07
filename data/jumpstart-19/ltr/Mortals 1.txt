@@ -13,6 +13,6 @@
 1 Éowyn, Lady of Rohan
 1 Faramir, Field Commander
 1 Barrow-Blade
-8 Plains
+8 Plains [LTR:*]
 
 Sideboard

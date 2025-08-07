@@ -88,9 +88,9 @@
 1 Path of Ancestry
 1 Command Tower [WHO:265]
 1 Ominous Cemetery
-4 Island
-3 Mountain
-4 Forest
+4 Island [WHO:*]
+3 Mountain [WHO:*]
+4 Forest [WHO:*]
 
 Commander
 1 The Thirteenth Doctor [foil] [WHO:4]

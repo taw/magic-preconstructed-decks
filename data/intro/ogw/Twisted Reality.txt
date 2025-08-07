@@ -26,4 +26,4 @@
 1 Evolving Wilds
 5 Wastes [OGW:183a]
 5 Wastes [OGW:184a]
-14 Island
+14 Island [BFZ:*]

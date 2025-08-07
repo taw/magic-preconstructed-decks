@@ -20,5 +20,5 @@
 1 The Great Henge
 4 Blossoming Sands
 1 Fabled Passage
-10 Forest
-10 Plains
+10 Forest [M21:*]
+10 Plains [M21:*]

@@ -20,6 +20,6 @@
 1 Extinction
 1 Lobotomy
 1 Essence Bottle
-13 Island
+13 Island [TMP:*]
 1 Rootwater Depths
-11 Swamp
+11 Swamp [TMP:*]

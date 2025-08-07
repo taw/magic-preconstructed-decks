@@ -19,7 +19,7 @@
 2 Behold the Multiverse
 1 Starnheim Unleashed
 1 Doomskar
-9 Island
-11 Plains
+9 Island [AFR:*]
+11 Plains [AFR:*]
 1 Hengegate Pathway
 4 Glacial Floodplain

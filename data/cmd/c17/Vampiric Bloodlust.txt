@@ -64,9 +64,9 @@ COMMANDER: 1 Edgar Markov [foil]
 1 Outpost Siege
 1 Curse of Vitality
 1 Curse of Disturbance
-8 Swamp
-4 Mountain
-3 Plains
+8 Swamp [C17:*]
+4 Mountain [C17:*]
+3 Plains [C17:*]
 1 Path of Ancestry
 1 Akoum Refuge
 1 Bloodfell Caves

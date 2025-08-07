@@ -83,7 +83,6 @@ COMMANDER: 1 Felothar the Steadfast [TDC:4] [foil]
 1 Deceptive Landscape
 1 Path of Ancestry
 1 Radiant Grove
-6 Plains
-5 Swamp
-7 Forest
-
+6 Plains [TDM:*]
+5 Swamp [TDM:*]
+7 Forest [TDM:*]

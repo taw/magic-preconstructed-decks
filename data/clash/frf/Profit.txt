@@ -27,5 +27,5 @@
 1 Nyx Infusion
 1 Whip of Erebos [CP2] [foil]
 2 Jungle Hollow
-12 Forest
-11 Swamp
+12 Forest [FRF:*]
+11 Swamp [FRF:*]

@@ -23,5 +23,5 @@
 1 Stab Wound
 1 Caustic Tar
 1 Burning Anger
-13 Swamp
-13 Mountain
+13 Swamp [M15:*]
+13 Mountain [M15:*]

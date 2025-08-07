@@ -25,8 +25,8 @@
 4 Jungle Hollow
 1 Llanowar Wastes
 2 Rogue's Passage
-7 Forest
-6 Swamp
+7 Forest [BFZ:*]
+6 Swamp [BFZ:*]
 
 Sideboard
 3 Duress

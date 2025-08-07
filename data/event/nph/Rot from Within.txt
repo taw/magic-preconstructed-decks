@@ -15,7 +15,7 @@
 4 Carrion Call
 1 Contagion Clasp
 1 Inkmoth Nexus
-22 Forest
+22 Forest [NPH:*]
 
 Sideboard
 1 Viridian Corrupter

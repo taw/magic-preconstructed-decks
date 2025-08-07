@@ -17,7 +17,7 @@
 1 Creeping Mold
 4 Ensnare
 3 Dehydration
-10 Forest
+10 Forest [MMQ:*]
 2 Hickory Woodlot
-10 Island
+10 Island [MMQ:*]
 2 Saprazzan Skerry

@@ -30,5 +30,5 @@
 2 Fertile Thicket
 2 Wastes [OGW:183a]
 2 Wastes [OGW:184a]
-8 Swamp
-9 Forest
+8 Swamp [BFZ:*]
+9 Forest [BFZ:*]

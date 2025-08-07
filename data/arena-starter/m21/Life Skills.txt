@@ -19,7 +19,7 @@
 3 Revitalize
 2 Unexpected Fangs
 2 Bake into a Pie
-10 Plains
+10 Plains [M21:*]
 4 Scoured Barrens
-10 Swamp
+10 Swamp [M21:*]
 1 Temple of Silence

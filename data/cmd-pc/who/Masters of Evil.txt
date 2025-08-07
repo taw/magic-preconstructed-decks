@@ -94,9 +94,9 @@
 1 Reliquary Tower
 1 Crumbling Necropolis
 1 Ominous Cemetery
-2 Island
-2 Swamp
-2 Mountain
+2 Island [WHO:*]
+2 Swamp [WHO:*]
+2 Mountain [WHO:*]
 
 Commander
 1 Davros, Dalek Creator [foil] [WHO:1]

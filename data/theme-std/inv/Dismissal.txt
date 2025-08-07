@@ -1,10 +1,10 @@
 // NAME: Dismissal
 // SOURCE: https://mtg.gamepedia.com/Invasion/Theme_decks
 // DATE: 2000-10-02
-11 Island
+11 Island [INV:*]
 2 Salt Marsh
 1 Sulfur Vent
-9 Swamp
+9 Swamp [INV:*]
 2 Dream Thrush
 1 Duskwalker
 2 Faerie Squadron

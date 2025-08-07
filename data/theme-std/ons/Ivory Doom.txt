@@ -21,8 +21,8 @@
 2 Swat
 1 Death Pulse
 2 Profane Prayers
-8 Plains
-8 Swamp
+8 Plains [ONS:*]
+8 Swamp [ONS:*]
 4 Barren Moor
 4 Secluded Steppe
 1 Starlit Sanctum

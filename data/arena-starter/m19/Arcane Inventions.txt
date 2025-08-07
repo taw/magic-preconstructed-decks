@@ -20,4 +20,4 @@
 2 Disperse
 1 Befuddle
 1 Divination
-25 Island
+25 Island [M19:*]

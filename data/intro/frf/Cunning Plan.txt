@@ -27,5 +27,5 @@
 1 Quiet Contemplation
 1 Goblinslide
 3 Swiftwater Cliffs
-12 Island
-10 Mountain
+12 Island [FRF:*]
+10 Mountain [FRF:*]

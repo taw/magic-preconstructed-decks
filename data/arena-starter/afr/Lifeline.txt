@@ -20,7 +20,7 @@
 2 You Meet in a Tavern
 2 Cleric Class
 2 Minimus Containment
-9 Forest
-10 Plains
+9 Forest [AFR:*]
+10 Plains [AFR:*]
 1 Branchloft Pathway
 4 Arctic Treeline

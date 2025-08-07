@@ -21,5 +21,5 @@
 1 Naturalize
 1 Sorcerer's Strongbox
 2 Quag Sickness
-16 Swamp
-9 Forest
+16 Swamp [M11:*]
+9 Forest [M11:*]

@@ -69,7 +69,7 @@ COMMANDER: 1 Nahiri, the Lithomancer
 1 Karoo
 1 Secluded Steppe
 1 Temple of the False God
-32 Plains
+32 Plains [C14:*]
 
 Display Commander
 1 Nahiri, the Lithomancer [oc14] [foil]

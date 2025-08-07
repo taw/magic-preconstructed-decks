@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
 // DATE: 2016-04-08
 1 Blighted Steppe
-12 Plains
+12 Plains [SOI:*]
 1 Aegis Angel
 1 Angel of Renewal
 1 Affa Protector

@@ -25,5 +25,5 @@
 1 Moment of Triumph
 2 Luminous Bonds
 4 Stone Quarry
-10 Plains
-10 Mountain
+10 Plains [M19:*]
+10 Mountain [M19:*]

@@ -22,5 +22,5 @@
 2 Oblivion Ring
 1 Levitation
 1 Mind Control
-14 Island
-10 Plains
+14 Island [M12:*]
+10 Plains [M12:*]

@@ -63,9 +63,9 @@ COMMANDER: 1 Sevinne, the Chronoclasm [foil]
 1 Burning Vengeance
 1 Exotic Orchard
 1 Prairie Stream
-9 Plains
-8 Island
-4 Mountain
+9 Plains [C19:*]
+8 Island [C19:*]
+4 Mountain [C19:*]
 1 Ash Barrens
 1 Azorius Chancery
 1 Boros Garrison

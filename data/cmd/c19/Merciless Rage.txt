@@ -65,8 +65,8 @@ COMMANDER: 1 Anje Falkenrath [foil]
 1 Drownyard Temple
 1 Exotic Orchard
 1 Geier Reach Sanitarium
-10 Swamp
-10 Mountain
+10 Swamp [C19:*]
+10 Mountain [C19:*]
 1 Akoum Refuge
 1 Ash Barrens
 1 Barren Moor

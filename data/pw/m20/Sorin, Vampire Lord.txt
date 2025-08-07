@@ -5,7 +5,7 @@
 2 Vampire Opportunist
 3 Murder
 4 Sorin's Thirst
-25 Swamp
+25 Swamp [M20:*]
 1 Dread Presence
 2 Sorin's Guide
 4 Blood Burglar

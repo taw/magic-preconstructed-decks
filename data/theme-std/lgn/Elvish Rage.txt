@@ -2,7 +2,7 @@
 // SOURCE: http://www.wizards.com/magic/displaythemedeck.asp?set=legions&decknum=1&lang=en is missing a card
 // COMMENTS: so getting it from http://mtg.gamepedia.com/Legions/Theme_decks
 // DATE: 2003-02-03
-25 Forest
+25 Forest [ONS:*]
 1 Birchlore Rangers
 1 Bloodline Shaman
 3 Defiant Elf

@@ -22,8 +22,8 @@
 4 Lead the Stampede
 1 Green Sun's Zenith
 2 Razorverge Thicket
-12 Forest
-8 Plains
+12 Forest [M13:*]
+8 Plains [M13:*]
 
 Sideboard
 3 Cloudshift

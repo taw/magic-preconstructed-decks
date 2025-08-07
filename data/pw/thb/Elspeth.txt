@@ -15,4 +15,4 @@
 2 Phalanx Tactics
 3 Indomitable Will
 3 Dreadful Apathy
-25 Plains
+25 Plains [THB:*]

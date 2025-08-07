@@ -24,6 +24,6 @@
 1 Showdown of the Skalds
 4 Alpine Meadow
 1 Axgard Armory
-10 Mountain
+10 Mountain [AFR:*]
 1 [ZNR:263a] Needleverge Pathway
-8 Plains
+8 Plains [AFR:*]

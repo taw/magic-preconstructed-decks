@@ -23,5 +23,5 @@
 1 Seize the Day
 2 Sylvan Might
 1 Volcanic Spray
-15 Forest
-10 Mountain
+15 Forest [ODY:*]
+10 Mountain [ODY:*]

@@ -20,7 +20,7 @@
 1 Stolen by the Fae
 3 Experimental Overload
 2 Boon of the Wish-Giver
-10 Island
-10 Mountain
+10 Island [M21:*]
+10 Mountain [M21:*]
 4 Swiftwater Cliffs
 1 Temple of Epiphany

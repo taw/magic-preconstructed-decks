@@ -65,7 +65,7 @@ COMMANDER: 1 Prossh, Skyraider of Kher
 1 Akoum Refuge
 1 Command Tower
 1 Evolving Wilds
-7 Forest
+7 Forest [C13:*]
 1 Golgari Guildgate
 1 Golgari Rot Farm
 1 Grim Backwoods
@@ -75,12 +75,12 @@ COMMANDER: 1 Prossh, Skyraider of Kher
 1 Khalni Garden
 1 Kher Keep
 1 Llanowar Reborn
-7 Mountain
+7 Mountain [C13:*]
 1 Opal Palace
 1 Rakdos Guildgate
 1 Rupture Spire
 1 Savage Lands
-6 Swamp
+6 Swamp [C13:*]
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Vivid Grove

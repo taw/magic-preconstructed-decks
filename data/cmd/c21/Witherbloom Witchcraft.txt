@@ -73,8 +73,8 @@ COMMANDER: 1 Willowdusk, Essence Seer [foil]
 1 Sapseep Forest
 1 Tainted Wood
 1 Temple of the False God
-11 Swamp
-11 Forest
+11 Swamp [STX:*]
+11 Forest [STX:*]
 1 Witch's Clinic
 1 Nissa's Renewal
 1 Verdant Sun's Avatar

@@ -22,6 +22,6 @@
 1 Krosan Grip
 1 Verdant Embrace
 1 Claws of Gix
-10 Swamp
-13 Forest
+10 Swamp [TSP:*]
+13 Forest [TSP:*]
 1 Pendelhaven

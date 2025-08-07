@@ -84,7 +84,7 @@ COMMANDER: 1 Hazel of the Rootbloom [foil] [BLC:2]
 1 Bojuka Bog
 1 Tainted Wood
 1 Barren Moor
-8 Swamp
-9 Forest
+8 Swamp [BLB:*]
+9 Forest [BLB:*]
 
 Sideboard

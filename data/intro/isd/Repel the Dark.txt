@@ -25,5 +25,5 @@
 1 Sharpened Pitchfork
 1 Butcher's Cleaver
 2 Bonds of Faith
-10 Forest
-14 Plains
+10 Forest [ISD:*]
+14 Plains [ISD:*]

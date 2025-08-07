@@ -24,5 +24,5 @@
 1 Ravaging Blaze
 1 Weight of the Underworld
 1 Evolving Wilds
-14 Swamp
-10 Mountain
+14 Swamp [ORI:*]
+10 Mountain [ORI:*]

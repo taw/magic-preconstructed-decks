@@ -89,8 +89,8 @@ COMMANDER: 1 Ms. Bumbleflower [foil] [BLC:3]
 1 Evolving Wilds
 1 Reliquary Tower
 1 Seaside Citadel
-4 Plains
-4 Island
-4 Forest
+4 Plains [BLB:*]
+4 Island [BLB:*]
+4 Forest [BLB:*]
 
 Sideboard

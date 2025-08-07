@@ -86,7 +86,6 @@ COMMANDER: 1 Teval, the Balanced Scale [TDC:8] [foil]
 1 Memorial to Folly
 1 Myriad Landscape
 1 Terramorphic Expanse
-4 Island
-5 Swamp
-6 Forest
-
+4 Island [TDM:*]
+5 Swamp [TDM:*]
+6 Forest [TDM:*]

@@ -1,11 +1,11 @@
 // NAME: Spectrum
 // SOURCE: https://mtg.gamepedia.com/Invasion/Theme_decks
 // DATE: 2000-10-02
-2 Island
-14 Forest
-2 Mountain
-2 Plains
-2 Swamp
+2 Island [INV:*]
+14 Forest [INV:*]
+2 Mountain [INV:*]
+2 Plains [INV:*]
+2 Swamp [INV:*]
 1 Halam Djinn
 2 Kavu Climber
 1 Nomadic Elf

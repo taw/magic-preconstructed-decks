@@ -74,5 +74,5 @@ COMMANDER: 1 Chishiro, the Shattered Blade [foil]
 1 Oran-Rief, the Vastwood
 1 Raging Ravine
 1 Temple of Abandon
-12 Mountain
-14 Forest
+12 Mountain [NEO:*]
+14 Forest [NEO:*]

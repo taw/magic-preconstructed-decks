@@ -74,9 +74,9 @@ COMMANDER: 1 The Mimeoplasm
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Tranquil Thicket
-8 Forest
-8 Island
-11 Swamp
+8 Forest [CMD:*]
+8 Island [CMD:*]
+11 Swamp [CMD:*]
 
 Display Commander
 1 Damia, Sage of Stone [ocmd] [foil]

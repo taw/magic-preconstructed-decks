@@ -20,6 +20,6 @@
 1 Boulderfall
 1 Fated Intervention [CP1] [foil]
 1 Font of Fertility [CP1] [foil]
-8 Mountain
-16 Forest
+8 Mountain [M15:*]
+16 Forest [M15:*]
 1 Nykthos, Shrine to Nyx

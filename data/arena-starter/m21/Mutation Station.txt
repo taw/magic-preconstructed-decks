@@ -21,6 +21,6 @@
 2 Eliminate
 2 Unexpected Fangs
 4 Dismal Backwater
-10 Island
-11 Swamp
+10 Island [M21:*]
+11 Swamp [M21:*]
 1 Temple of Deceit

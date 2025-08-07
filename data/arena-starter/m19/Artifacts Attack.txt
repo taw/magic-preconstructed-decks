@@ -18,7 +18,7 @@
 1 Settle the Wreckage
 2 Temporal Machinations
 1 One with the Machine
-11 Island
+11 Island [M19:*]
 1 Glacial Fortress
-9 Plains
+9 Plains [M19:*]
 4 Meandering River

@@ -15,8 +15,8 @@
 1 Collective Unconscious
 2 Thran Foundry
 3 Rancor
-14 Forest
+14 Forest [MMQ:*]
 1 Mercadian Bazaar
-3 Mountain
+3 Mountain [MMQ:*]
 4 Smoldering Crater
 2 Treetop Village

@@ -21,6 +21,6 @@
 2 Doom Blade
 1 Naturalize
 1 Tendrils of Corruption
-12 Swamp
-5 Forest
+12 Swamp [M10:*]
+5 Forest [M10:*]
 1 Terramorphic Expanse

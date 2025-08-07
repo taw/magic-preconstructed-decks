@@ -26,5 +26,5 @@
 1 Crystal Ball
 1 Pacifism
 1 Mind Control
-16 Island
-9 Plains
+16 Island [M11:*]
+9 Plains [M11:*]

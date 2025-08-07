@@ -26,5 +26,5 @@
 1 Rancor
 1 Crippling Blight
 1 Evolving Wilds
-16 Forest
-8 Swamp
+16 Forest [M13:*]
+8 Swamp [M13:*]

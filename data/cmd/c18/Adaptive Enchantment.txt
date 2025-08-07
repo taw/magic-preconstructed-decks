@@ -47,9 +47,9 @@ COMMANDER: 1 Estrid, the Masked [foil]
 1 Vow of Wildness
 1 Wild Growth
 1 Unflinching Courage
-9 Plains
-6 Island
-8 Forest
+9 Plains [C18:*]
+6 Island [C18:*]
+8 Forest [C18:*]
 1 Azorius Chancery
 1 Blossoming Sands
 1 Command Tower

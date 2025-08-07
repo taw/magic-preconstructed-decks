@@ -27,5 +27,5 @@
 1 Bog Wreckage
 2 Cabal Pit
 1 Ravaged Highlands
-11 Swamp
-9 Mountain
+11 Swamp [ODY:*]
+9 Mountain [ODY:*]

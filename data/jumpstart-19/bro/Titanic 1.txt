@@ -13,5 +13,5 @@
 1 Gaea's Gift
 1 Shoot Down
 1 Bushwhack
-6 Forest
+6 Forest [BRO:*]
 2 Forest [foil]

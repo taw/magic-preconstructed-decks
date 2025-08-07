@@ -11,7 +11,7 @@
 1 Tectonic Rift
 2 Sure Strike
 2 Shock
-26 Mountain
+26 Mountain [M20:*]
 2 Daggersail Aeronaut
 1 Drakuseth, Maw of Flames
 1 Glint-Horn Buccaneer

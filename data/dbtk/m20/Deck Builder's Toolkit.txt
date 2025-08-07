@@ -98,8 +98,8 @@
 2 Thornwood Falls
 2 Tranquil Cove
 2 Wind-Scarred Crag
-20 Plains
-20 Island
-20 Swamp
-20 Mountain
-20 Forest
+20 Plains [M20:*]
+20 Island [M20:*]
+20 Swamp [M20:*]
+20 Mountain [M20:*]
+20 Forest [M20:*]

@@ -26,5 +26,5 @@
 2 Isolation Zone
 1 Evolving Wilds
 1 Tranquil Expanse
-7 Forest
-15 Plains
+7 Forest [BFZ:*]
+15 Plains [BFZ:*]

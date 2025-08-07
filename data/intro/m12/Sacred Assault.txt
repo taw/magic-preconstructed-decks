@@ -22,5 +22,5 @@
 2 Spirit Mantle
 1 Trollhide
 1 Lure
-14 Plains
-10 Forest
+14 Plains [M12:*]
+10 Forest [M12:*]

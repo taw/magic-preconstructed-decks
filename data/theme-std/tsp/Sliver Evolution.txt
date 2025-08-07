@@ -18,8 +18,8 @@
 2 Strength in Numbers
 1 Molder
 2 Spirit Loop
-6 Mountain
-8 Forest
-8 Plains
+6 Mountain [TSP:*]
+8 Forest [TSP:*]
+8 Plains [TSP:*]
 1 Gemstone Mine
 2 Terramorphic Expanse

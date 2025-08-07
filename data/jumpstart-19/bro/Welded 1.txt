@@ -13,5 +13,5 @@
 1 Unleash Shell
 1 Whirling Strike
 1 Bitter Reunion
-6 Mountain
+6 Mountain [BRO:*]
 2 Mountain [foil]

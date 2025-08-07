@@ -23,5 +23,5 @@
 1 Overrun
 2 Joint Assault
 1 Ice Cage
-13 Forest
-12 Island
+13 Forest [AVR:*]
+12 Island [AVR:*]

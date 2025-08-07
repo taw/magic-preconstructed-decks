@@ -13,6 +13,6 @@
 1 Meneldor, Swift Savior
 1 Horses of the Bruinen
 1 The Bath Song
-8 Island
+8 Island [LTR:*]
 
 Sideboard

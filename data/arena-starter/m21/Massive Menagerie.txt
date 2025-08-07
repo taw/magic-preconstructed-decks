@@ -18,7 +18,7 @@
 3 Fully Grown
 1 Sublime Epiphany
 2 Cultivate
-11 Forest
-10 Island
+11 Forest [M21:*]
+10 Island [M21:*]
 1 Temple of Mystery
 4 Thornwood Falls

@@ -65,18 +65,18 @@ COMMANDER: 1 Marath, Will of the Wild
 1 Contested Cliffs
 1 Drifting Meadow
 1 Evolving Wilds
-8 Forest
+8 Forest [C13:*]
 1 Forgotten Cave
 1 Gruul Guildgate
 1 Homeward Path
 1 Jungle Shrine
 1 Khalni Garden
 1 Mosswort Bridge
-5 Mountain
+5 Mountain [C13:*]
 1 Naya Panorama
 1 New Benalia
 1 Opal Palace
-4 Plains
+4 Plains [C13:*]
 1 Rupture Spire
 1 Secluded Steppe
 1 Selesnya Guildgate

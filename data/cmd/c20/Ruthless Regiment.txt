@@ -85,9 +85,9 @@ COMMANDER: 1 Jirina Kudro [foil]
 1 Evolving Wilds
 1 Scoured Barrens
 1 Wind-Scarred Crag
-4 Mountain
-8 Plains
-4 Swamp
+4 Mountain [IKO:*]
+8 Plains [IKO:*]
+4 Swamp [IKO:*]
 
 Display Commander
 1 Jirina Kudro [oc20] [foil]

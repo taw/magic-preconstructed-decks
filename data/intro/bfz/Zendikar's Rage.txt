@@ -29,5 +29,5 @@
 1 Blighted Woodland
 3 Evolving Wilds
 2 Fertile Thicket
-10 Mountain
-10 Forest
+10 Mountain [BFZ:*]
+10 Forest [BFZ:*]

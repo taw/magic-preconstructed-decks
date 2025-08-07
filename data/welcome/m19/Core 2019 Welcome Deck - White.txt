@@ -17,4 +17,4 @@
 1 Revitalize
 1 Knight's Pledge
 1 Luminous Bonds
-13 Plains
+13 Plains [M19:*]

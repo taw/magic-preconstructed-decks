@@ -23,5 +23,5 @@
 1 Valor in Akros
 2 Knightly Valor
 1 Evolving Wilds
-14 Plains
-10 Forest
+14 Plains [ORI:*]
+10 Forest [ORI:*]

@@ -19,5 +19,5 @@
 2 Ring of Gix
 4 Seal of Fire
 2 Seal of Cleansing
-13 Mountain
-9 Plains
+13 Mountain [MMQ:*]
+9 Plains [MMQ:*]

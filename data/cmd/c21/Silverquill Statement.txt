@@ -73,8 +73,8 @@ COMMANDER: 1 Breena, the Demagogue [foil]
 1 Secluded Steppe
 1 Tainted Field
 1 Temple of the False God
-14 Plains
-10 Swamp
+14 Plains [STX:*]
+10 Swamp [STX:*]
 1 Duelist's Heritage
 1 Debtors' Knell
 1 Ambition's Cost

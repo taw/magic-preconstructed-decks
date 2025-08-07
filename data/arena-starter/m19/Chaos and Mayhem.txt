@@ -18,7 +18,7 @@
 3 Murder
 4 Act of Treason
 2 Blood Divination
-10 Mountain
-10 Swamp
+10 Mountain [M19:*]
+10 Swamp [M19:*]
 1 Dragonskull Summit
 4 Cinder Barrens

@@ -22,8 +22,8 @@
 1 Curse of the Swine
 2 Divination
 1 Font of Fertility [CP1] [foil]
-16 Forest
-7 Island
+16 Forest [M15:*]
+7 Island [M15:*]
 1 Nykthos, Shrine to Nyx
 1 Temple of Mystery [CP1] [foil]
 Sideboard

@@ -23,5 +23,5 @@
 2 Weight of the Underworld
 1 Consecrated by Blood
 1 Evolving Wilds
-11 Forest
-12 Swamp
+11 Forest [ORI:*]
+12 Swamp [ORI:*]

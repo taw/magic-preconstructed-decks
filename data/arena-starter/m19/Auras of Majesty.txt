@@ -19,7 +19,7 @@
 1 On Serra's Wings
 2 Knightly Valor
 1 Prodigious Growth
-11 Plains
+11 Plains [M19:*]
 1 Sunpetal Grove
-9 Forest
+9 Forest [M19:*]
 4 Tranquil Expanse

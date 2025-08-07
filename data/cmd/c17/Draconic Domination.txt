@@ -66,11 +66,11 @@ COMMANDER: 1 The Ur-Dragon [foil]
 1 Elemental Bond
 1 Crucible of the Spirit Dragon
 1 Haven of the Spirit Dragon
-6 Mountain
-3 Swamp
-3 Forest
-3 Plains
-3 Island
+6 Mountain [C17:*]
+3 Swamp [C17:*]
+3 Forest [C17:*]
+3 Plains [C17:*]
+3 Island [C17:*]
 1 Path of Ancestry
 1 Arcane Sanctum
 1 Command Tower

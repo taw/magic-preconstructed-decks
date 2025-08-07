@@ -28,5 +28,5 @@
 2 Blossoming Sands
 2 Evolving Wilds
 1 Windswept Heath
-11 Plains
-10 Forest
+11 Plains [ORI:*]
+10 Forest [ORI:*]

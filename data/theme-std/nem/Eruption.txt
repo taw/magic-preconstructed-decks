@@ -27,5 +27,5 @@
 1 Belbe's Armor
 1 Flowstone Armor
 1 Iron Lance
-14 Mountain
-10 Plains
+14 Mountain [MMQ:*]
+10 Plains [MMQ:*]

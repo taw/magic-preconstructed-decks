@@ -15,4 +15,4 @@
 1 Act of Treason
 1 Engulfing Eruption
 1 Maniacal Rage
-13 Mountain
+13 Mountain [M20:*]

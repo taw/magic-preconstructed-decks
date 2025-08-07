@@ -16,4 +16,4 @@
 1 Murder
 2 Strangling Spores
 1 Infernal Scarring
-13 Swamp
+13 Swamp [M19:*]

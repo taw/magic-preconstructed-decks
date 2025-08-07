@@ -13,4 +13,4 @@
 1 Gollum's Bite
 1 Nasty End
 1 Shelob's Ambush
-8 Swamp
+8 Swamp [LTR:*]

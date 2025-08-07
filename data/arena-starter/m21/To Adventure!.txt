@@ -18,6 +18,6 @@
 3 Banishing Light
 1 Primal Might
 4 Blossoming Sands
-10 Forest
-10 Plains
+10 Forest [M21:*]
+10 Plains [M21:*]
 1 Temple of Plenty

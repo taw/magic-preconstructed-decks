@@ -20,7 +20,7 @@
 2 Ensnare
 1 Parallax Inhibitor
 1 Puffer Extract
-10 Forest
-10 Island
+10 Forest [MMQ:*]
+10 Island [MMQ:*]
 2 Hickory Woodlot
 2 Saprazzan Skerry

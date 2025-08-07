@@ -85,10 +85,10 @@ COMMANDER: 1 Saskia the Unyielding [foil]
 1 Sunpetal Grove
 1 Terramorphic Expanse
 1 Windbrisk Heights
-3 Plains
-3 Swamp
-5 Mountain
-5 Forest
+3 Plains [C16:*]
+3 Swamp [C16:*]
+5 Mountain [C16:*]
+5 Forest [C16:*]
 
 Display Commander
 1 Saskia the Unyielding [oc16] [foil]

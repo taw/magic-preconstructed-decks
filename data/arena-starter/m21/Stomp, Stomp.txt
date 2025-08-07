@@ -19,7 +19,7 @@
 3 Unleash Fury
 1 Return of the Wildspeaker
 1 Volcanic Salvo
-10 Forest
-9 Mountain
+10 Forest [M21:*]
+9 Mountain [M21:*]
 4 Rugged Highlands
 1 Temple of Abandon

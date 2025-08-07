@@ -25,5 +25,5 @@
 1 Crippling Blight
 1 Divine Favor
 1 First Response
-12 Plains
-13 Swamp
+12 Plains [M15:*]
+13 Swamp [M15:*]

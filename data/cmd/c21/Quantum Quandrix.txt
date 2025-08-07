@@ -75,8 +75,8 @@ COMMANDER: 1 Adrix and Nev, Twincasters [foil]
 1 Simic Growth Chamber
 1 Temple of the False God
 1 Tranquil Thicket
-11 Forest
-10 Island
+11 Forest [STX:*]
+10 Island [STX:*]
 1 Commander's Insight
 1 Ezuri's Predation
 1 Kodama's Reach

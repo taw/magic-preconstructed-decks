@@ -80,10 +80,10 @@ COMMANDER: 1 Atraxa, Praetors' Voice [foil]
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Underground River
-5 Plains
-4 Island
-5 Swamp
-7 Forest
+5 Plains [C16:*]
+4 Island [C16:*]
+5 Swamp [C16:*]
+7 Forest [C16:*]
 
 Display Commander
 1 Atraxa, Praetors' Voice [oc16] [foil]

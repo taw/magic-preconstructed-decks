@@ -30,6 +30,6 @@
 4 Opulent Palace
 2 Evolving Wilds
 2 Dismal Backwater
-7 Swamp
-5 Island
-5 Forest
+7 Swamp [FRF:*]
+5 Island [FRF:*]
+5 Forest [FRF:*]

@@ -20,5 +20,5 @@
 1 Revitalize
 1 Knight's Pledge
 2 Luminous Bonds
-25 Plains
+25 Plains [M19:*]
 1 Ajani, Wise Counselor [foil]

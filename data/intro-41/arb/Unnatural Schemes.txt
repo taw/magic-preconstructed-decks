@@ -17,6 +17,6 @@
 2 Agony Warp
 1 Countersquall
 1 Soul Manipulation
-8 Island
-8 Swamp
+8 Island [ALA:*]
+8 Swamp [ALA:*]
 2 Terramorphic Expanse

@@ -16,5 +16,5 @@
 3 Fight as One
 2 Swift Response
 2 Banishing Light
-24 Plains
+24 Plains [M21:*]
 1 Plains [M21:309]

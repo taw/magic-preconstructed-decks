@@ -17,5 +17,5 @@
 2 Unleash Fury
 2 Sure Strike
 1 Double Vision
-24 Mountain
+24 Mountain [M21:*]
 1 Mountain [M21:312]

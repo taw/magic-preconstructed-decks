@@ -68,11 +68,11 @@
 2 Highland Lake
 2 Stone Quarry
 2 Woodland Stream
-20 Plains
-20 Island
-20 Swamp
-20 Mountain
-20 Forest
+20 Plains [AKH:*]
+20 Island [AKH:*]
+20 Swamp [AKH:*]
+20 Mountain [AKH:*]
+20 Forest [AKH:*]
 4 Evolving Wilds
 
 Sideboard

@@ -20,7 +20,7 @@
 2 Thundering Rebuke
 3 Mentor's Guidance
 1 Meteor Swarm
-10 Island
-10 Mountain
+10 Island [AFR:*]
+10 Mountain [AFR:*]
 1 Riverglide Pathway
 4 Volatile Fjord

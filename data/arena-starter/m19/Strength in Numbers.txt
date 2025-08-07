@@ -21,7 +21,7 @@
 1 Inspired Charge
 1 Act of Treason
 3 Heroic Reinforcements
-10 Plains
+10 Plains [M19:*]
 1 Clifftop Retreat
-9 Mountain
+9 Mountain [M19:*]
 4 Stone Quarry

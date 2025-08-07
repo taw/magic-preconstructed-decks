@@ -18,5 +18,5 @@
 2 Ambuscade
 1 Bounty of the Luxa
 4 Woodland Stream
-14 Forest
-8 Island
+14 Forest [HOU:*]
+8 Island [HOU:*]

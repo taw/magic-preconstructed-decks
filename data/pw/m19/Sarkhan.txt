@@ -19,6 +19,6 @@
 2 Lightning Strike
 2 Shock
 1 Trumpet Blast
-26 Mountain
+26 Mountain [M19:*]
 1 Sarkhan, Dragonsoul [foil]
 2 Viashino Pyromancer

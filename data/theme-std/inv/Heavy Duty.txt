@@ -2,8 +2,8 @@
 // SOURCE: https://mtg.gamepedia.com/Invasion/Theme_decks
 // DATE: 2000-10-02
 2 Elfhame Palace
-11 Forest
-11 Plains
+11 Forest [INV:*]
+11 Plains [INV:*]
 2 Angel of Mercy
 1 Ardent Soldier
 1 Benalish Emissary

@@ -24,10 +24,10 @@
 3 Consuming Bonfire
 2 Springleaf Drum
 3 Wanderer's Twig
-1 Plains
-2 Island
-2 Swamp
-12 Mountain
-1 Forest
+1 Plains [LRW:*]
+2 Island [LRW:*]
+2 Swamp [LRW:*]
+12 Mountain [LRW:*]
+1 Forest [LRW:*]
 2 Shimmering Grotto
 1 Vivid Crag

@@ -25,5 +25,5 @@
 2 Singing Bell Strike
 2 Secret Plans
 3 Thornwood Falls
-11 Forest
-12 Island
+11 Forest [FRF:*]
+12 Island [FRF:*]

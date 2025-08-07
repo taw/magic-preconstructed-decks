@@ -19,7 +19,7 @@
 2 Clifftop Lookout
 2 Burrowguard Mentor
 4 Blossoming Sands
-12 Plains
-11 Forest
+12 Plains [BLB:*]
+11 Forest [BLB:*]
 
 Sideboard

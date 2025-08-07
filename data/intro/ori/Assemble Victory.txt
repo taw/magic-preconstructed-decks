@@ -26,5 +26,5 @@
 3 Infectious Bloodlust
 2 Ghirapur Aether Grid
 1 Evolving Wilds
-13 Mountain
-10 Island
+13 Mountain [ORI:*]
+10 Island [ORI:*]

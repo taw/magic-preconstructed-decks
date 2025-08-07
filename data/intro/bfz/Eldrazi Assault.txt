@@ -23,5 +23,5 @@
 1 Blighted Fen
 2 Evolving Wilds
 2 Looming Spires
-10 Swamp
-10 Mountain
+10 Swamp [BFZ:*]
+10 Mountain [BFZ:*]

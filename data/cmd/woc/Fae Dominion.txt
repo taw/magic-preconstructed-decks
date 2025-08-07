@@ -76,5 +76,5 @@ COMMANDER: 1 Tegwyll, Duke of Splendor [foil]
 1 Path of Ancestry
 1 Tainted Isle
 1 Temple of the False God
-13 Island
-12 Swamp
+13 Island [WOE:*]
+12 Swamp [WOE:*]

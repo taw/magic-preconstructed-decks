@@ -14,4 +14,4 @@
 2 Shock
 1 Fling
 1 Flame Lash
-13 Mountain
+13 Mountain [AKH:*]

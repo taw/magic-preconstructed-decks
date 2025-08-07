@@ -25,5 +25,5 @@
 2 Mask of Avacyn
 1 Gruesome Deformity
 1 Curse of Stalked Prey
-12 Mountain
-12 Swamp
+12 Mountain [ISD:*]
+12 Swamp [ISD:*]

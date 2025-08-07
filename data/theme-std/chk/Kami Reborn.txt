@@ -22,5 +22,5 @@
 2 Kodama's Reach
 1 Honden of Life's Web
 1 Long-Forgotten Gohei
-12 Swamp
-12 Forest
+12 Swamp [CHK:*]
+12 Forest [CHK:*]

@@ -69,10 +69,10 @@ COMMANDER: 1 Derevi, Empyrial Tactician
 1 Command Tower
 1 Evolving Wilds
 1 Faerie Conclave
-6 Forest
-7 Island
+6 Forest [C13:*]
+7 Island [C13:*]
 1 Opal Palace
-7 Plains
+7 Plains [C13:*]
 1 Rupture Spire
 1 Saltcrusted Steppe
 1 Seaside Citadel

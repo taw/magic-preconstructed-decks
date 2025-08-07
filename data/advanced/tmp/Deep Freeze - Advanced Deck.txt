@@ -19,8 +19,8 @@
 1 Angelic Renewal
 2 Binding Grasp
 4 Adarkar Wastes
-10 Island
-6 Plains
+10 Island [TMP:*]
+6 Plains [TMP:*]
 2 Quicksand
 1 Svyelunite Temple
 3 Thalakos Lowlands

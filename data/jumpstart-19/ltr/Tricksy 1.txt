@@ -13,4 +13,4 @@
 1 Elrond, Lord of Rivendell
 1 Meneldor, Swift Savior
 1 Willow-Wind
-8 Island
+8 Island [LTR:*]

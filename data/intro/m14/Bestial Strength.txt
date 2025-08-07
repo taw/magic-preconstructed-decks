@@ -23,5 +23,5 @@
 2 Vial of Poison
 1 Staff of the Wild Magus
 1 Into the Wilds
-17 Forest
-9 Swamp
+17 Forest [M14:*]
+9 Swamp [M14:*]

@@ -15,4 +15,4 @@
 1 Shock
 1 Trumpet Blast
 1 Radiating Lightning
-13 Mountain
+13 Mountain [M19:*]

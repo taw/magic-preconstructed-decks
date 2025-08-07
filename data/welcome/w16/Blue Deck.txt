@@ -2,7 +2,7 @@
 // SOURCE: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
 // DATE: 2016-04-08
 1 Blighted Cataract
-12 Island
+12 Island [SOI:*]
 1 Air Servant
 2 Ancient Crab
 1 Cloud Manta
