@@ -29,6 +29,6 @@
 2 Prismatic Lens
 1 Quicksilver Amulet
 4 Jungle Shrine
-6 Plains
-7 Mountain
-9 Forest
+6 Plains [XLN:*]
+7 Mountain [XLN:*]
+9 Forest [XLN:*]

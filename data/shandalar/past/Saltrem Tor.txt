@@ -6,11 +6,11 @@
 3 Crimson Manticore
 2 Eternal Warrior
 2 Fireball
-11 Forest
+11 Forest [3ED:*]
 2 Fungusaur
 3 Giant Strength
 2 Giant Tortoise
-6 Island
+6 Island [3ED:*]
 6 Mountain
 3 Prodigal Sorcerer
 2 Regeneration

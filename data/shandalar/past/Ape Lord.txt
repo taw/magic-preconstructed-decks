@@ -8,7 +8,7 @@
 2 Dragon Engine
 3 Fireball
 4 Firebreathing
-12 Forest
+12 Forest [3ED:*]
 4 Killer Bees
 4 Llanowar Elves
 2 Mana Vault

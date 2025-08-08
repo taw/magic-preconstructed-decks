@@ -25,5 +25,5 @@
 2 Unsummon
 2 Prismatic Lens
 2 Unknown Shores
-12 Island
-12 Forest
+12 Island [XLN:*]
+12 Forest [XLN:*]

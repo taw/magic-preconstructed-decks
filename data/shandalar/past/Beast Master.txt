@@ -11,7 +11,7 @@
 2 Birds of Paradise
 2 Desert Twister
 2 Durkwood Boars
-21 Forest
+21 Forest [3ED:*]
 4 Giant Growth
 2 Giant Spider
 4 Grizzly Bears

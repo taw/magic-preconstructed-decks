@@ -8,10 +8,10 @@
 2 Divine Transformation
 2 Elder Land Wurm
 2 Force of Nature
-12 Forest
+12 Forest [3ED:*]
 4 Giant Growth
 4 Holy Strength
-12 Plains
+12 Plains [3ED:*]
 3 Savannah Lions
 3 Timber Wolves
 3 Tundra Wolves

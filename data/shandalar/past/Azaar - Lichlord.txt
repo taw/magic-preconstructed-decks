@@ -15,6 +15,6 @@
 1 Mox Jet
 4 Sengir Vampire
 1 Sol Ring
-22 Swamp
+22 Swamp [3ED:*]
 3 Tetravus
 3 Will-o'-the-Wisp

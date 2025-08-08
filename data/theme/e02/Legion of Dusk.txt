@@ -26,5 +26,5 @@
 1 Vanquisher's Banner
 2 Prismatic Lens
 4 Tainted Field
-9 Plains
-13 Swamp
+9 Plains [XLN:*]
+13 Swamp [XLN:*]

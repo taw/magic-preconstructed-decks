@@ -6,7 +6,7 @@
 3 Drain Power
 4 Ghost Ship
 2 Hurkyl's Recall
-22 Island
+22 Island [3ED:*]
 3 Ornithopter
 3 Tetravus
 2 Time Elemental

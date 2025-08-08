@@ -7,10 +7,10 @@
 // DISPLAY: Against Red: No changes
 // DISPLAY: Against White: No changes
 2 Carnivorous Plant
-11 Forest
+11 Forest [3ED:*]
 4 Fungusaur
 3 Ironroot Treefolk
-11 Island
+11 Island [3ED:*]
 2 Oasis
 3 Power Sink
 4 Prodigal Sorcerer

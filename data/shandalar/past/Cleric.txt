@@ -14,7 +14,7 @@
 3 Meekstone
 4 Mesa Pegasus
 2 Pikemen
-21 Plains
+21 Plains [3ED:*]
 2 Samite Healer
 2 Savannah Lions
 4 Swords to Plowshares

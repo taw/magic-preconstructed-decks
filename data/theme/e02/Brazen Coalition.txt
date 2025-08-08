@@ -25,6 +25,6 @@
 2 Rush of Adrenaline
 2 Prismatic Lens
 4 Crumbling Necropolis
-7 Island
-7 Swamp
-8 Mountain
+7 Island [XLN:*]
+7 Swamp [XLN:*]
+8 Mountain [XLN:*]

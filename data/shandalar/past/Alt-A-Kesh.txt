@@ -6,9 +6,9 @@
 2 Bog Imp
 2 Cockatrice
 2 Energy Flux
-7 Forest
+7 Forest [3ED:*]
 4 Gem Bazaar
-7 Island
+7 Island [3ED:*]
 2 Junún Efreet
 2 Lord of the Pit
 2 Mahamoti Djinn
@@ -16,7 +16,7 @@
 2 Phantom Monster
 2 Scryb Sprites
 2 Stream of Life
-7 Swamp
+7 Swamp [3ED:*]
 1 Time Walk
 1 Timetwister
 2 Untamed Wilds

@@ -9,7 +9,7 @@
 3 Counterspell
 4 Creature Bond
 4 Giant Tortoise
-22 Island
+22 Island [3ED:*]
 2 Island Fish Jasconius
 4 Jump
 1 Leviathan

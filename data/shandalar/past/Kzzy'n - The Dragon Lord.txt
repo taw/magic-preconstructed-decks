@@ -10,13 +10,13 @@
 2 Elder Land Wurm
 2 Faerie Dragon
 2 Fellwar Stone
-2 Forest
+2 Forest [3ED:*]
 4 Gem Bazaar
 1 Ivory Tower
 4 Lightning Bolt
 2 Mana Flare
 18 Mountain
-2 Plains
+2 Plains [3ED:*]
 2 Prismatic Dragon
 4 Shivan Dragon
 3 Winds of Change

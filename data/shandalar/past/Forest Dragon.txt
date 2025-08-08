@@ -10,7 +10,7 @@
 4 Craw Wurm
 1 Crumble
 3 Desert Twister
-22 Forest
+22 Forest [3ED:*]
 3 Living Lands
 4 Llanowar Elves
 4 Lure

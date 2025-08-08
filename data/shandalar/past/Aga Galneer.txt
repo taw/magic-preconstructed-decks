@@ -10,7 +10,7 @@
 3 Drain Life
 2 El-Hajjâj
 2 Erg Raiders
-6 Forest
+6 Forest [3ED:*]
 2 Fungusaur
 2 Gem Bazaar
 2 Giant Growth
@@ -20,14 +20,14 @@
 2 Hurricane
 2 Jade Monolith
 3 Onulet
-8 Plains
+8 Plains [3ED:*]
 2 Savannah Lions
 2 Sengir Vampire
 2 Serra Angel
 1 Sol Ring
 3 Spirit Link
 2 Stream of Life
-8 Swamp
+8 Swamp [3ED:*]
 2 Unholy Strength
 
 Sideboard

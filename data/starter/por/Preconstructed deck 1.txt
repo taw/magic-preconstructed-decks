@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 1
 // SOURCE: https://mtg.gamepedia.com/Portal/2-Player_Starter_Set
 // DATE: 1997-05-01
-6 Plains
-6 Mountain
-3 Forest
+6 Plains [POR:*]
+6 Mountain [POR:*]
+3 Forest [POR:*]
 1 Defiant Stand
 1 Devoted Hero
 1 Armored Pegasus

@@ -13,7 +13,7 @@
 3 Mana Vault
 4 Sengir Vampire
 4 Sorceress Queen
-22 Swamp
+22 Swamp [3ED:*]
 2 Terror
 2 Uncle Istvan
 4 Vampire Bats

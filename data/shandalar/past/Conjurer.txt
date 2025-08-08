@@ -12,7 +12,7 @@
 2 Counterspell
 2 Fellwar Stone
 3 Giant Tortoise
-22 Island
+22 Island [3ED:*]
 3 Jayemdae Tome
 4 Pirate Ship
 4 Prodigal Sorcerer
