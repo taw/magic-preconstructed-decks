@@ -1,7 +1,29 @@
 // NAME: Elves
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-23 Forest
+1 Forest [PSAL:B8]
+1 Forest [PSAL:B9]
+1 Forest [PSAL:B10]
+1 Forest [PSAL:B11]
+1 Forest [PSAL:B12]
+1 Forest [PSAL:B20]
+1 Forest [PSAL:B21]
+1 Forest [PSAL:B22]
+1 Forest [PSAL:B23]
+1 Forest [PSAL:B24]
+1 Forest [PSAL:B33]
+1 Forest [PSAL:B34]
+1 Forest [PSAL:B35]
+1 Forest [PSAL:B36]
+1 Forest [PSAL:B45]
+1 Forest [PSAL:B46]
+1 Forest [PSAL:B47]
+1 Forest [PSAL:B48]
+1 Forest [PSAL:B56]
+1 Forest [PSAL:B57]
+1 Forest [PSAL:B58]
+1 Forest [PSAL:B59]
+1 Forest [PSAL:B60]
 1 Wirewood Lodge
 1 Voice of the Woods
 1 Nullmage Shepherd [PSAL:B2]

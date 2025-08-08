@@ -14,5 +14,4 @@
 1 Thornweald Archer
 1 Wildheart Invoker
 1 Uncharted Haven
-7 Forest
-
+7 Forest [FDN:*]

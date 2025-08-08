@@ -68,9 +68,9 @@ COMMANDER: 1 Wyleth, Soul of Steel [foil]
 1 Evolving Wilds
 1 Forgotten Cave
 1 Memorial to War
-9 Mountain
+9 Mountain [CMR:*]
 1 Myriad Landscape
-14 Plains
+14 Plains [CMR:*]
 1 Rogue's Passage
 1 Rupture Spire [CMR:490]
 1 Secluded Steppe

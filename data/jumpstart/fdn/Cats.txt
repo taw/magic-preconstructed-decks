@@ -14,4 +14,4 @@
 1 Moment of Triumph
 1 Elspeth's Smite
 1 Uncharted Haven
-7 Plains
+7 Plains [FDN:*]

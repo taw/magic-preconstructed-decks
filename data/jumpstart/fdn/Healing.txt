@@ -14,5 +14,4 @@
 1 Twinblade Paladin
 1 Uncharted Haven
 1 Hinterland Sanctifier
-7 Plains
-
+7 Plains [FDN:*]

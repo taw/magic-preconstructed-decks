@@ -1,8 +1,30 @@
 // NAME: Beasts
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-16 Forest
-8 Mountain
+1 Forest [PSAL:K8]
+1 Forest [PSAL:K9]
+1 Forest [PSAL:K10]
+1 Forest [PSAL:K20]
+1 Forest [PSAL:K21]
+1 Forest [PSAL:K22]
+1 Forest [PSAL:K23]
+1 Forest [PSAL:K32]
+1 Forest [PSAL:K33]
+1 Forest [PSAL:K34]
+1 Forest [PSAL:K45]
+1 Forest [PSAL:K46]
+1 Forest [PSAL:K47]
+1 Forest [PSAL:K56]
+1 Forest [PSAL:K57]
+1 Forest [PSAL:K58]
+1 Mountain [PSAL:K11]
+1 Mountain [PSAL:K12]
+1 Mountain [PSAL:K24]
+1 Mountain [PSAL:K35]
+1 Mountain [PSAL:K36]
+1 Mountain [PSAL:K48]
+1 Mountain [PSAL:K59]
+1 Mountain [PSAL:K60]
 1 Enormous Baloth [PSAL:K2]
 1 Enormous Baloth [PSAL:K50]
 1 Fangren Firstborn

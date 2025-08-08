@@ -1,8 +1,30 @@
 // NAME: Spirits
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-12 Mountain
-12 Plains
+1 Mountain [PSAL:C11]
+1 Mountain [PSAL:C12]
+1 Mountain [PSAL:C22]
+1 Mountain [PSAL:C23]
+1 Mountain [PSAL:C24]
+1 Mountain [PSAL:C35]
+1 Mountain [PSAL:C36]
+1 Mountain [PSAL:C47]
+1 Mountain [PSAL:C48]
+1 Mountain [PSAL:C58]
+1 Mountain [PSAL:C59]
+1 Mountain [PSAL:C60]
+1 Plains [PSAL:C8]
+1 Plains [PSAL:C9]
+1 Plains [PSAL:C10]
+1 Plains [PSAL:C20]
+1 Plains [PSAL:C21]
+1 Plains [PSAL:C33]
+1 Plains [PSAL:C34]
+1 Plains [PSAL:C44]
+1 Plains [PSAL:C45]
+1 Plains [PSAL:C46]
+1 Plains [PSAL:C56]
+1 Plains [PSAL:C57]
 1 Angelic Page
 1 Blademane Baku [PSAL:C30]
 1 Blademane Baku [PSAL:C4]

@@ -14,5 +14,4 @@
 1 Quick Study
 1 Starlight Snare
 1 Uncharted Haven
-7 Island
-
+7 Island [FDN:*]

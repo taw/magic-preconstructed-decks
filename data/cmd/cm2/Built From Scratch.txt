@@ -72,4 +72,4 @@ COMMANDER: 1 Daretti, Scrap Savant [foil]
 1 Reliquary Tower
 1 Smoldering Crater
 1 Temple of the False God [CM2:271]
-29 Mountain
+29 Mountain [CM2:*]

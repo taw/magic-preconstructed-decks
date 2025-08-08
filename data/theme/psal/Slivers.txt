@@ -2,9 +2,27 @@
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
 1 Darigaaz's Caldera
-7 Forest
-7 Mountain
-7 Swamp
+1 Forest [PSAL:D11]
+1 Forest [PSAL:D12]
+1 Forest [PSAL:D23]
+1 Forest [PSAL:D24]
+1 Forest [PSAL:D48]
+1 Forest [PSAL:D59]
+1 Forest [PSAL:D60]
+1 Mountain [PSAL:D9]
+1 Mountain [PSAL:D10]
+1 Mountain [PSAL:D21]
+1 Mountain [PSAL:D22]
+1 Mountain [PSAL:D47]
+1 Mountain [PSAL:D57]
+1 Mountain [PSAL:D58]
+1 Swamp [PSAL:D33]
+1 Swamp [PSAL:D34]
+1 Swamp [PSAL:D35]
+1 Swamp [PSAL:D36]
+1 Swamp [PSAL:D45]
+1 Swamp [PSAL:D46]
+1 Swamp [PSAL:D56]
 1 Blade Sliver [PSAL:D2]
 1 Blade Sliver [PSAL:D3]
 1 Blade Sliver [PSAL:D38]

@@ -1,8 +1,30 @@
 // NAME: Thallids
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-14 Forest
-10 Plains
+1 Forest [PSAL:J8]
+1 Forest [PSAL:J9]
+1 Forest [PSAL:J10]
+1 Forest [PSAL:J20]
+1 Forest [PSAL:J21]
+1 Forest [PSAL:J22]
+1 Forest [PSAL:J33]
+1 Forest [PSAL:J34]
+1 Forest [PSAL:J44]
+1 Forest [PSAL:J45]
+1 Forest [PSAL:J46]
+1 Forest [PSAL:J56]
+1 Forest [PSAL:J57]
+1 Forest [PSAL:J58]
+1 Plains [PSAL:J11]
+1 Plains [PSAL:J12]
+1 Plains [PSAL:J23]
+1 Plains [PSAL:J24]
+1 Plains [PSAL:J35]
+1 Plains [PSAL:J36]
+1 Plains [PSAL:J47]
+1 Plains [PSAL:J48]
+1 Plains [PSAL:J59]
+1 Plains [PSAL:J60]
 1 Bramble Elemental
 1 Herd Gnarr
 1 Juniper Order Ranger

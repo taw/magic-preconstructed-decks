@@ -72,8 +72,8 @@ COMMANDER: 1 Captain N'ghathrod [CLB:646] [foil]
 1 Rogue's Passage
 1 Tainted Isle
 1 Temple of the False God
-9 Island
-11 Swamp
+9 Island [CLB:*]
+11 Swamp [CLB:*]
 1 Zellix, Sanity Flayer [foil]
 1 Haunted One [foil]
 1 Aboleth Spawn

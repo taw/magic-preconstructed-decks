@@ -1,7 +1,7 @@
 // NAME: Vampires
 // SOURCE: https://magic.wizards.com/en/news/feature/foundations-beginner-box-contents
 // DATE: 2024-11-15
-7 Swamp
+7 Swamp [FDN:*]
 1 Vampire Interloper
 1 Vampire Spawn
 1 Moment of Craving

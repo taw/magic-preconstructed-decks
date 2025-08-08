@@ -1,8 +1,30 @@
 // NAME: Angels
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-9 Island
-15 Plains
+1 Island [PSAL:G11]
+1 Island [PSAL:G12]
+1 Island [PSAL:G24]
+1 Island [PSAL:G35]
+1 Island [PSAL:G36]
+1 Island [PSAL:G47]
+1 Island [PSAL:G48]
+1 Island [PSAL:G59]
+1 Island [PSAL:G60]
+1 Plains [PSAL:G8]
+1 Plains [PSAL:G9]
+1 Plains [PSAL:G10]
+1 Plains [PSAL:G20]
+1 Plains [PSAL:G21]
+1 Plains [PSAL:G22]
+1 Plains [PSAL:G23]
+1 Plains [PSAL:G32]
+1 Plains [PSAL:G33]
+1 Plains [PSAL:G34]
+1 Plains [PSAL:G45]
+1 Plains [PSAL:G46]
+1 Plains [PSAL:G56]
+1 Plains [PSAL:G57]
+1 Plains [PSAL:G58]
 1 Angel of Mercy [PSAL:G14]
 1 Angel of Mercy [PSAL:G38]
 1 Angel of Retribution

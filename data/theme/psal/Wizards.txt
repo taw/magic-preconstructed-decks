@@ -1,7 +1,30 @@
 // NAME: Wizards
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-24 Island
+1 Island [PSAL:H8]
+1 Island [PSAL:H9]
+1 Island [PSAL:H10]
+1 Island [PSAL:H11]
+1 Island [PSAL:H12]
+1 Island [PSAL:H20]
+1 Island [PSAL:H21]
+1 Island [PSAL:H22]
+1 Island [PSAL:H23]
+1 Island [PSAL:H24]
+1 Island [PSAL:H32]
+1 Island [PSAL:H33]
+1 Island [PSAL:H34]
+1 Island [PSAL:H35]
+1 Island [PSAL:H36]
+1 Island [PSAL:H45]
+1 Island [PSAL:H46]
+1 Island [PSAL:H47]
+1 Island [PSAL:H48]
+1 Island [PSAL:H56]
+1 Island [PSAL:H57]
+1 Island [PSAL:H58]
+1 Island [PSAL:H59]
+1 Island [PSAL:H60]
 1 Aven Windreader [PSAL:H52]
 1 Aven Windreader [PSAL:H53]
 1 Azami, Lady of Scrolls

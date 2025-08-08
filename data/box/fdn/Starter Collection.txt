@@ -259,18 +259,18 @@
 1 Tribute to Hunger
 1 Vampiric Rites
 1 Vile Entomber
-16 Plains
+16 Plains [FDN:*]
 1 Plains [FDN:282]
 1 Plains [FDN:283]
-16 Island
+16 Island [FDN:*]
 1 Island [FDN:284]
 1 Island [FDN:285]
-16 Swamp
+16 Swamp [FDN:*]
 1 Swamp [FDN:286]
 1 Swamp [FDN:287]
-16 Mountain
+16 Mountain [FDN:*]
 1 Mountain [FDN:288]
 1 Mountain [FDN:289]
-16 Forest
+16 Forest [FDN:*]
 1 Forest [FDN:290]
 1 Forest [FDN:291]

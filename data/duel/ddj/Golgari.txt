@@ -36,8 +36,8 @@
 1 Yoke of the Damned
 1 Barren Moor
 1 Dakmor Salvage
-8 Forest
+8 Forest [DDJ:*]
 2 Golgari Rot Farm
 1 Svogthos, the Restless Tomb
-10 Swamp
+10 Swamp [DDJ:*]
 1 Tranquil Thicket

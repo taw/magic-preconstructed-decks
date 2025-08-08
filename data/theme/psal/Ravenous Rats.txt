@@ -1,7 +1,30 @@
 // NAME: Ravenous Rats
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-24 Swamp
+1 Swamp [PSAL:A8]
+1 Swamp [PSAL:A9]
+1 Swamp [PSAL:A10]
+1 Swamp [PSAL:A11]
+1 Swamp [PSAL:A12]
+1 Swamp [PSAL:A20]
+1 Swamp [PSAL:A21]
+1 Swamp [PSAL:A22]
+1 Swamp [PSAL:A23]
+1 Swamp [PSAL:A24]
+1 Swamp [PSAL:A32]
+1 Swamp [PSAL:A33]
+1 Swamp [PSAL:A34]
+1 Swamp [PSAL:A35]
+1 Swamp [PSAL:A36]
+1 Swamp [PSAL:A45]
+1 Swamp [PSAL:A46]
+1 Swamp [PSAL:A47]
+1 Swamp [PSAL:A48]
+1 Swamp [PSAL:A56]
+1 Swamp [PSAL:A57]
+1 Swamp [PSAL:A58]
+1 Swamp [PSAL:A59]
+1 Swamp [PSAL:A60]
 1 Marrow-Gnawer
 1 Swarm of Rats [PSAL:A14]
 1 Swarm of Rats [PSAL:A2]

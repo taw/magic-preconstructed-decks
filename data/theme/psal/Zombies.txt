@@ -1,7 +1,30 @@
 // NAME: Zombies
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-24 Swamp
+1 Swamp [PSAL:F8]
+1 Swamp [PSAL:F9]
+1 Swamp [PSAL:F10]
+1 Swamp [PSAL:F11]
+1 Swamp [PSAL:F12]
+1 Swamp [PSAL:F20]
+1 Swamp [PSAL:F21]
+1 Swamp [PSAL:F22]
+1 Swamp [PSAL:F23]
+1 Swamp [PSAL:F24]
+1 Swamp [PSAL:F32]
+1 Swamp [PSAL:F33]
+1 Swamp [PSAL:F34]
+1 Swamp [PSAL:F35]
+1 Swamp [PSAL:F36]
+1 Swamp [PSAL:F45]
+1 Swamp [PSAL:F46]
+1 Swamp [PSAL:F47]
+1 Swamp [PSAL:F48]
+1 Swamp [PSAL:F56]
+1 Swamp [PSAL:F57]
+1 Swamp [PSAL:F58]
+1 Swamp [PSAL:F59]
+1 Swamp [PSAL:F60]
 1 Blind Creeper [PSAL:F29]
 1 Blind Creeper [PSAL:F4]
 1 Carrion Howler

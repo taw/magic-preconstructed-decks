@@ -1,8 +1,29 @@
 // NAME: Berserk
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-10 Forest
-13 Mountain
+1 Forest [PSAL:I33]
+1 Forest [PSAL:I34]
+1 Forest [PSAL:I35]
+1 Forest [PSAL:I36]
+1 Forest [PSAL:I46]
+1 Forest [PSAL:I47]
+1 Forest [PSAL:I48]
+1 Forest [PSAL:I58]
+1 Forest [PSAL:I59]
+1 Forest [PSAL:I60]
+1 Mountain [PSAL:I9]
+1 Mountain [PSAL:I10]
+1 Mountain [PSAL:I11]
+1 Mountain [PSAL:I12]
+1 Mountain [PSAL:I20]
+1 Mountain [PSAL:I21]
+1 Mountain [PSAL:I22]
+1 Mountain [PSAL:I23]
+1 Mountain [PSAL:I24]
+1 Mountain [PSAL:I32]
+1 Mountain [PSAL:I44]
+1 Mountain [PSAL:I45]
+1 Mountain [PSAL:I57]
 1 Skarrg, the Rage Pits
 1 Burning-Tree Bloodscale
 1 Frenzied Goblin

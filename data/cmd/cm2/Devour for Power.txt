@@ -74,6 +74,6 @@ COMMANDER: 1 The Mimeoplasm [foil]
 1 Temple of the False God [CM2:271]
 1 Terramorphic Expanse
 1 Tranquil Thicket
-8 Forest
-8 Island
-11 Swamp
+8 Forest [CM2:*]
+8 Island [CM2:*]
+11 Swamp [CM2:*]

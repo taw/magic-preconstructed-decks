@@ -1,8 +1,23 @@
 // NAME: Cats
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-12 Plains
-5 Forest
+1 Plains [PSAL:L9]
+1 Plains [PSAL:L10]
+1 Plains [PSAL:L11]
+1 Plains [PSAL:L21]
+1 Plains [PSAL:L22]
+1 Plains [PSAL:L23]
+1 Plains [PSAL:L35]
+1 Plains [PSAL:L46]
+1 Plains [PSAL:L47]
+1 Plains [PSAL:L57]
+1 Plains [PSAL:L58]
+1 Plains [PSAL:L59]
+1 Forest [PSAL:L12]
+1 Forest [PSAL:L24]
+1 Forest [PSAL:L36]
+1 Forest [PSAL:L48]
+1 Forest [PSAL:L60]
 1 Terramorphic Expanse [PSAL:L20]
 1 Terramorphic Expanse [PSAL:L34]
 1 Terramorphic Expanse [PSAL:L45]

@@ -1,8 +1,30 @@
 // NAME: Ninjas
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
 // DATE: 2005-08-01
-13 Island
-11 Swamp
+1 Island [PSAL:E8]
+1 Island [PSAL:E9]
+1 Island [PSAL:E10]
+1 Island [PSAL:E20]
+1 Island [PSAL:E21]
+1 Island [PSAL:E32]
+1 Island [PSAL:E33]
+1 Island [PSAL:E34]
+1 Island [PSAL:E45]
+1 Island [PSAL:E46]
+1 Island [PSAL:E56]
+1 Island [PSAL:E57]
+1 Island [PSAL:E58]
+1 Swamp [PSAL:E11]
+1 Swamp [PSAL:E12]
+1 Swamp [PSAL:E22]
+1 Swamp [PSAL:E23]
+1 Swamp [PSAL:E24]
+1 Swamp [PSAL:E35]
+1 Swamp [PSAL:E36]
+1 Swamp [PSAL:E47]
+1 Swamp [PSAL:E48]
+1 Swamp [PSAL:E59]
+1 Swamp [PSAL:E60]
 1 Cephalid Constable
 1 Dimir Infiltrator [PSAL:E4]
 1 Dimir Infiltrator [PSAL:E5]

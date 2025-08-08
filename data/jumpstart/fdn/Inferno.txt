@@ -13,5 +13,4 @@
 1 Seize the Spoils
 1 Skyraker Giant
 1 Uncharted Haven
-8 Mountain
-
+8 Mountain [FDN:*]

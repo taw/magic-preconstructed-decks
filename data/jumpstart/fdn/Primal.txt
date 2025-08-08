@@ -13,5 +13,4 @@
 1 New Horizons
 1 Thrashing Brontodon
 1 Uncharted Haven
-8 Forest
-
+8 Forest [FDN:*]
