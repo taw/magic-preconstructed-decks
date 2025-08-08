@@ -15,4 +15,4 @@
 1 Kitesail
 1 Bonders' Enclave
 1 Thriving Grove
-6 Forest
+6 Forest [J22:*]

@@ -14,4 +14,4 @@
 1 Preordain
 1 Raiders' Karve
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

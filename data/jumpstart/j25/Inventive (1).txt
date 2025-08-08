@@ -15,6 +15,6 @@
 1 Whirlermaker
 1 Seat of the Synod
 1 Thriving Isle
-6 Island
+6 Island [J25:*]
 
 Sideboard

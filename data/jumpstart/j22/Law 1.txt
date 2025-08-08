@@ -14,4 +14,4 @@
 1 Divine Verdict
 1 Arrest
 1 Thriving Heath
-7 Plains
+7 Plains [J22:*]

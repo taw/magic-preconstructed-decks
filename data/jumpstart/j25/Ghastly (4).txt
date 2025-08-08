@@ -14,6 +14,6 @@
 1 Tragic Slip
 1 Wakedancer
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

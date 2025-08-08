@@ -14,4 +14,4 @@
 1 Crashing Tide
 1 Heirloom Blade
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

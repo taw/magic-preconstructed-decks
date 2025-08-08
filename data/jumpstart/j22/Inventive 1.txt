@@ -15,4 +15,4 @@
 1 Aether Spellbomb
 1 Thriving Isle
 1 Seat of the Synod
-6 Island
+6 Island [J22:*]

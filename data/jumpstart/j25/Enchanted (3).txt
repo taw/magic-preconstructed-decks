@@ -14,6 +14,6 @@
 1 Serra's Embrace
 1 Sunblade Samurai
 1 Thriving Heath
-7 Plains
+7 Plains [J25:*]
 
 Sideboard

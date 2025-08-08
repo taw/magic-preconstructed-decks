@@ -15,4 +15,4 @@
 1 Reptilian Reflection
 1 Forgotten Cave
 1 Thriving Bluff
-6 Mountain
+6 Mountain [J22:*]

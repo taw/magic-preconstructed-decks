@@ -14,4 +14,4 @@
 1 Rush of Adrenaline
 1 Swift Kick
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J22:*]

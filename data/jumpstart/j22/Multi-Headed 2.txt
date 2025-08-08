@@ -14,4 +14,4 @@
 1 Ordeal of Nylea
 1 Hydra's Growth
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

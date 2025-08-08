@@ -14,4 +14,4 @@
 1 Blood Price
 1 Ill-Gotten Inheritance
 1 Thriving Moor
-7 Swamp
+7 Swamp [J22:*]

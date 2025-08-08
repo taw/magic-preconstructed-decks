@@ -14,4 +14,4 @@
 1 Savage Punch
 1 Colossal Majesty
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

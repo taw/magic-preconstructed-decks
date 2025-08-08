@@ -15,4 +15,4 @@
 1 Triskaidekaphobia
 1 Piranha Marsh
 1 Thriving Moor
-6 Swamp
+6 Swamp [J22:*]

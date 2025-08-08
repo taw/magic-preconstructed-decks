@@ -14,4 +14,4 @@
 1 Multiple Choice
 1 Rhystic Study
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

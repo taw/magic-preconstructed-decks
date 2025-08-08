@@ -15,4 +15,4 @@
 1 Adventuring Gear
 1 Evolving Wilds
 1 Thriving Grove
-6 Forest
+6 Forest [J22:*]

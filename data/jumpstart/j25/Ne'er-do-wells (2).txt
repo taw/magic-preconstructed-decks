@@ -14,6 +14,6 @@
 1 Masked Blackguard
 1 Morbid Opportunist
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

@@ -14,6 +14,6 @@
 1 Trail of Crumbs
 1 Gingerbrute
 1 Thriving Grove
-7 Forest
+7 Forest [J25:*]
 
 Sideboard

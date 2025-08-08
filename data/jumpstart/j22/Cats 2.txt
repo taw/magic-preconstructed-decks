@@ -14,4 +14,4 @@
 1 Felidar Retreat
 1 Weight of Conscience
 1 Thriving Heath
-7 Plains
+7 Plains [J22:*]

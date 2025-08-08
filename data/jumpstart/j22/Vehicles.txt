@@ -14,4 +14,4 @@
 1 Imperial Recovery Unit
 1 Aradara Express
 1 Thriving Heath
-7 Plains
+7 Plains [J22:*]

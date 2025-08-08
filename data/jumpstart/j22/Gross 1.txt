@@ -15,4 +15,4 @@
 1 Infernal Idol
 1 Leechridden Swamp
 1 Thriving Moor
-6 Swamp
+6 Swamp [J22:*]

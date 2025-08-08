@@ -14,4 +14,4 @@
 1 Hunter's Edge
 1 Crawling Sensation
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

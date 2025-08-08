@@ -13,5 +13,5 @@
 1 Justiciar's Portal
 1 Settle Beyond Reality
 1 Faith's Fetters
-7 Plains
+7 Plains [J22:*]
 1 Thriving Heath

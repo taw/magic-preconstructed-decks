@@ -14,4 +14,4 @@
 1 Feed the Pack
 1 Wolfwillow Haven
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

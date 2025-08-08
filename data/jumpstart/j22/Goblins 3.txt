@@ -14,4 +14,4 @@
 1 Destructive Tampering
 1 Instruments of War
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J22:*]

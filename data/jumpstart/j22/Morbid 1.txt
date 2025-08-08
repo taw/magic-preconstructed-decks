@@ -15,4 +15,4 @@
 1 Spawning Pit
 1 Mortuary Mire
 1 Thriving Moor
-6 Swamp
+6 Swamp [J22:*]

@@ -14,4 +14,4 @@
 1 Dawn of Hope
 1 Planar Atlas
 1 Thriving Heath
-7 Plains
+7 Plains [J22:*]

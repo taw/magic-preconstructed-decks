@@ -14,4 +14,4 @@
 1 Gift of the Gargantuan
 1 Overgrowth
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

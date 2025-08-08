@@ -15,4 +15,4 @@
 1 Phyrexian Reclamation
 1 Blighted Fen
 1 Thriving Moor
-6 Swamp
+6 Swamp [J22:*]

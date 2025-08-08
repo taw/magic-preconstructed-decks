@@ -15,4 +15,4 @@
 1 Mantle of Tides
 1 Memorial to Genius
 1 Thriving Isle
-6 Island
+6 Island [J22:*]

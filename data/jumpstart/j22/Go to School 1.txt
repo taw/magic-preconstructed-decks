@@ -14,4 +14,4 @@
 1 Tragic Lesson
 1 Bury in Books
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

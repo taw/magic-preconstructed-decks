@@ -14,6 +14,6 @@
 1 Recruitment Officer
 1 Search Party Captain
 1 Thriving Heath
-7 Plains
+7 Plains [J25:*]
 
 Sideboard

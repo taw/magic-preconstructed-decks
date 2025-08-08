@@ -14,6 +14,6 @@
 1 Sparktongue Dragon
 1 Forgotten Cave
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

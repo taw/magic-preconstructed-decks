@@ -15,4 +15,4 @@
 1 Lay Claim
 1 Desert of the Mindful
 1 Thriving Isle
-6 Island
+6 Island [J22:*]

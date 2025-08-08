@@ -14,6 +14,6 @@
 1 Thopter Mechanic
 1 Trial of Knowledge
 1 Thriving Isle
-7 Island
+7 Island [J25:*]
 
 Sideboard

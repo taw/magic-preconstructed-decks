@@ -15,4 +15,4 @@
 1 Dragon Blood
 1 Sandstone Bridge
 1 Thriving Heath
-6 Plains
+6 Plains [J22:*]

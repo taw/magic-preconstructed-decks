@@ -14,4 +14,4 @@
 1 Ghoul's Feast
 1 Corpse Churn
 1 Thriving Moor
-7 Swamp
+7 Swamp [J22:*]

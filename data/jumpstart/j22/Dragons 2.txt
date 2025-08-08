@@ -14,4 +14,4 @@
 1 Tormenting Voice
 1 Dragon's Hoard
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J22:*]

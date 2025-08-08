@@ -14,6 +14,6 @@
 1 Trial of Knowledge
 1 Warden of Evos Isle
 1 Thriving Isle
-7 Island
+7 Island [J25:*]
 
 Sideboard

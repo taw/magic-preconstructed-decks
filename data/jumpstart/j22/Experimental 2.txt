@@ -14,4 +14,4 @@
 1 Act on Impulse
 1 Firebolt
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J22:*]

@@ -15,6 +15,6 @@
 1 Swift Response
 1 Cave of Temptation
 1 Thriving Heath
-6 Plains
+6 Plains [J25:*]
 
 Sideboard

@@ -14,4 +14,4 @@
 1 Colossal Majesty
 1 Rosethorn Halberd
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

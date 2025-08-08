@@ -14,6 +14,6 @@
 1 Jungle Delver
 1 Stony Strength
 1 Thriving Grove
-7 Forest
+7 Forest [J25:*]
 
 Sideboard

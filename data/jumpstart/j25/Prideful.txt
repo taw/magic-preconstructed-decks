@@ -14,6 +14,6 @@
 1 Savannah Lions
 1 Take Up the Shield
 1 Thriving Heath
-7 Plains
+7 Plains [J25:*]
 
 Sideboard

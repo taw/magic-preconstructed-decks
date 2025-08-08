@@ -14,4 +14,4 @@
 1 Anchor to the Aether
 1 Explorer's Scope
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

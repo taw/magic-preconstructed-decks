@@ -14,4 +14,4 @@
 1 Eternity Snare
 1 Hedron Archive
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

@@ -14,4 +14,4 @@
 1 Infernal Idol
 1 Eaten Alive
 1 Thriving Moor
-7 Swamp
+7 Swamp [J22:*]

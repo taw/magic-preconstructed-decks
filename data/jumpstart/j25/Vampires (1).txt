@@ -14,6 +14,6 @@
 1 Urge to Feed
 1 Vampire of the Dire Moon
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard
