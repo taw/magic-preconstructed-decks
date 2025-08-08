@@ -85,8 +85,8 @@ COMMANDER: 1 Pantlaza, Sun-Favored [foil]
 1 Thriving Grove
 1 Thriving Heath
 1 Unclaimed Territory
-8 Forest
-4 Plains
-4 Mountain
+8 Forest [LCI:*]
+4 Plains [LCI:*]
+4 Mountain [LCI:*]
 
 Sideboard

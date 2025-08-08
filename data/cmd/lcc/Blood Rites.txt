@@ -80,7 +80,7 @@ COMMANDER: 1 Clavileño, First of the Blessed [foil]
 1 Tainted Field
 1 Temple of the False God
 1 Unclaimed Territory
-8 Plains
-13 Swamp
+8 Plains [LCI:*]
+13 Swamp [LCI:*]
 
 Sideboard

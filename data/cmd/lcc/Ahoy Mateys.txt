@@ -86,8 +86,8 @@ COMMANDER: 1 Admiral Brass, Unsinkable [foil]
 1 Thriving Isle
 1 Thriving Moor
 1 Unclaimed Territory
-6 Island
-4 Swamp
-5 Mountain
+6 Island [LCI:*]
+4 Swamp [LCI:*]
+5 Mountain [LCI:*]
 
 Sideboard

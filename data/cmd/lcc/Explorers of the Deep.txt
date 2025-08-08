@@ -81,7 +81,7 @@ COMMANDER: 1 Hakbal of the Surging Soul [foil]
 1 Simic Growth Chamber
 1 Temple of the False God
 1 Unclaimed Territory
-7 Forest
-13 Island
+7 Forest [LCI:*]
+13 Island [LCI:*]
 
 Sideboard
