@@ -35,8 +35,8 @@
 1 Steel of the Godhead
 1 Azorius Chancery
 1 Flood Plain
-11 Island
+11 Island [DDI:*]
 1 New Benalia
-7 Plains
+7 Plains [DDI:*]
 2 Sejiri Refuge
 1 Soaring Seacliff

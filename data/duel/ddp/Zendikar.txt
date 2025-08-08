@@ -35,5 +35,5 @@
 1 Stirring Wildwood
 2 Turntimber Grove
 2 Evolving Wilds
-9 Plains
-10 Forest
+9 Plains [DDP:*]
+10 Forest [DDP:*]

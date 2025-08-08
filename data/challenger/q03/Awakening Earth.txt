@@ -11,8 +11,8 @@
 4 Growth Spiral
 4 Chemister's Insight
 4 Mass Manipulation
-9 Island
-8 Forest
+9 Island [ELD:*]
+8 Forest [ELD:*]
 1 Breeding Pool
 4 Temple of Mystery
 4 Thornwood Falls

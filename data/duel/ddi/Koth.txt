@@ -31,4 +31,4 @@
 1 Vulshok Battlegear
 1 Vulshok Morningstar
 2 Wayfarer's Bauble
-25 Mountain
+25 Mountain [DDI:*]

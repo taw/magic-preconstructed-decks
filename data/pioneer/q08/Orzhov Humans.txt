@@ -18,7 +18,7 @@
 2 Mutavault [CLB]
 4 Unclaimed Territory
 4 Secluded Courtyard
-3 Plains [DMU]
+3 Plains [DMU:*]
 
 Sideboard
 1 Giant Killer

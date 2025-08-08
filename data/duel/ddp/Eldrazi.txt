@@ -30,5 +30,5 @@
 2 Rocky Tar Pit
 1 Eldrazi Temple
 3 Akoum Refuge
-7 Mountain
-13 Swamp
+7 Mountain [DDP:*]
+13 Swamp [DDP:*]

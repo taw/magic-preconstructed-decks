@@ -11,5 +11,5 @@
 1 Breath of Life
 2 Vengeance
 1 Sleight of Hand
-7 Plains
-7 Island
+7 Plains [7ED:*]
+7 Island [7ED:*]

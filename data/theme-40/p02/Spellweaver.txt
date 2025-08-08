@@ -1,7 +1,7 @@
 // NAME: Spellweaver
 // SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
 // DATE: 1998-06-24
-15 Island
+15 Island [P02:*]
 2 Air Elemental
 2 Apprentice Sorcerer
 2 Talas Air Ship

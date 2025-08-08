@@ -19,8 +19,8 @@
 2 Drowned Catacomb
 1 Watery Grave
 4 Field of Ruin
-7 Island
-8 Swamp
+7 Island [DMU:*]
+8 Swamp [DMU:*]
 
 Sideboard
 2 Mystical Dispute

@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 2
 // SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/2-Player_Starter_Set
 // DATE: 1998-06-24
-3 Forest
-5 Island
-5 Plains
+3 Forest [P02:*]
+5 Island [P02:*]
+5 Plains [P02:*]
 1 Alaborn Trooper
 1 Angel of Mercy
 1 Bear Cub

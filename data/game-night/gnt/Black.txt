@@ -22,5 +22,5 @@
 2 Cruel Revival
 1 Liliana's Mastery
 1 Open the Graves
-25 Swamp
+25 Swamp [GNT:*]
 1 Rot Hulk

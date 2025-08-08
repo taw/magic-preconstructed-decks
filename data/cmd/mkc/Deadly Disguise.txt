@@ -90,8 +90,8 @@ COMMANDER: 1 Kaust, Eyes of the Glade [foil] [MKC:1]
 1 Selesnya Sanctuary
 1 Temple of the False God
 1 Zoetic Cavern
-4 Plains
-3 Mountain
-4 Forest
+4 Plains [MKM:*]
+3 Mountain [MKM:*]
+4 Forest [MKM:*]
 
 Sideboard

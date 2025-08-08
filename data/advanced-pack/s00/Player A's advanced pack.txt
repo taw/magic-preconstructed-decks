@@ -1,9 +1,9 @@
 // NAME: Player A's advanced pack
 // SOURCE: https://mtg.gamepedia.com/Starter_2000
 // DATE: 2000-04-24
-2 Forest
-2 Mountain
-2 Swamp
+2 Forest [6ED:*]
+2 Mountain [6ED:*]
+2 Swamp [6ED:*]
 1 Drudge Skeletons
 1 Flame Spirit
 1 Llanowar Elves

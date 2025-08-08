@@ -33,11 +33,11 @@
 2 Recumbent Bliss
 1 Searing Meditation
 2 Evolving Wilds
-8 Forest
+8 Forest [DDH:*]
 1 Graypelt Refuge
 2 Jungle Shrine
 1 Kazandu Refuge
-3 Mountain
+3 Mountain [DDH:41]
 6 Plains
 1 Sapseep Forest
 1 Vitu-Ghazi, the City-Tree

@@ -1,7 +1,7 @@
 // NAME: Eyes of Shadow
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-25 Swamp
+25 Swamp [PS11:*]
 1 Mortivore
 1 Crowd of Cinders
 1 Ascendant Evincar

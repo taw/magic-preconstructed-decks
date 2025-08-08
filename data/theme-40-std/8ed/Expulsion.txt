@@ -13,4 +13,4 @@
 1 Larceny
 1 Sever Soul
 1 Disrupting Scepter
-17 Swamp
+17 Swamp [8ED:*]

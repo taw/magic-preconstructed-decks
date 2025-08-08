@@ -3,7 +3,7 @@
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
 // SOURCE: http://www.wizards.com/magic/p3k/p3k_pcd.asp
 // DATE: 1999-05-01
-15 Island
+15 Island [PTK:*]
 3 Straw Soldiers
 3 Wu Light Cavalry
 2 Wu Scout

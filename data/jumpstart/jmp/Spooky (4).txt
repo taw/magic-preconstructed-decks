@@ -14,5 +14,5 @@
 1 Malefic Scythe
 1 Black Market
 1 Thriving Moor
-6 Swamp [M21]
+6 Swamp [M21:*]
 1 Swamp [JMP:61]

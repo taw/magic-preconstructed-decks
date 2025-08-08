@@ -21,7 +21,7 @@
 2 Seize the Storm
 1 Burn Down the House
 1 Geistflame Reservoir
-10 Island
-10 Mountain
+10 Island [SNC:*]
+10 Mountain [SNC:*]
 4 Swiftwater Cliffs
 1 Stormcarved Coast

@@ -1,8 +1,8 @@
 // NAME: Cries of Rage
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-12 Mountain
-12 Forest
+12 Mountain [PS11:*]
+12 Forest [PS11:*]
 1 Borderland Behemoth
 1 Vengeful Firebrand
 1 Oakgnarl Warrior

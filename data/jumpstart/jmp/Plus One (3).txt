@@ -13,5 +13,5 @@
 1 Arbor Armament
 1 Invigorating Surge
 1 Thriving Grove
-7 Forest [M21]
+7 Forest [M21:*]
 1 Forest [JMP:72]

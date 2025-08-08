@@ -1,9 +1,9 @@
 // NAME: Claws of Vengeance
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-12 Forest
-6 Plains
-5 Mountain
+12 Forest [PS11:*]
+6 Plains [PS11:*]
+5 Mountain [PS11:*]
 2 Terramorphic Expanse
 1 Brion Stoutarm
 1 Knight of the Skyward Eye

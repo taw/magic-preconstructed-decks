@@ -1,9 +1,9 @@
 // NAME: Zakk's Second Deck
 // SOURCE: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // DATE: 1996-06-10
-4 Forest
-4 Plains
-4 Swamp
+4 Forest [RQS:*]
+4 Plains [RQS:*]
+4 Swamp [RQS:*]
 1 Elvish Archers
 1 Mesa Pegasus
 1 Wall of Bone

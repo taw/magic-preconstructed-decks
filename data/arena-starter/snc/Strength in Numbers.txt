@@ -20,8 +20,8 @@
 1 Halo Fountain
 2 Hold for Ransom
 1 Wedding Announcement
-9 Forest
-9 Plains
+9 Forest [SNC:*]
+9 Plains [SNC:*]
 4 Blossoming Sands
 1 Overgrown Farmland
 2 Botanical Plaza

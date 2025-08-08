@@ -1,7 +1,7 @@
 // NAME: Impaler
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Theme_decks
 // DATE: 1999-07-12
-17 Forest
+17 Forest [S99:*]
 2 Bull Hippo
 3 Durkwood Boars
 3 Grizzly Bears

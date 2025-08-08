@@ -19,7 +19,7 @@
 2 Eaten Alive
 3 Mulch
 1 Ghoulcaller's Harvest
-10 Forest
-10 Swamp
+10 Forest [SNC:*]
+10 Swamp [SNC:*]
 4 Jungle Hollow
 1 Deathcap Glade

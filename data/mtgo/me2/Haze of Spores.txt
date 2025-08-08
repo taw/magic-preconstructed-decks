@@ -1,7 +1,7 @@
 // NAME: Haze of Spores
 // SOURCE: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
 // DATE: 2008-09-22
-21 Forest
+21 Forest [ME1:*]
 2 Havenwood Battleground
 1 Mishra's Factory
 1 Elvish Farmer

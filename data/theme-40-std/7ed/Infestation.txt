@@ -17,4 +17,4 @@
 2 Pillage
 1 Lightning Blast
 1 Blaze
-16 Mountain
+16 Mountain [7ED:*]

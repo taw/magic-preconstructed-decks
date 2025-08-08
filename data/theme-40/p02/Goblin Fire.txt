@@ -1,7 +1,7 @@
 // NAME: Goblin Fire
 // SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
 // DATE: 1998-06-24
-15 Mountain
+15 Mountain [P02:*]
 2 Goblin Cavaliers
 2 Goblin Firestarter
 1 Goblin General

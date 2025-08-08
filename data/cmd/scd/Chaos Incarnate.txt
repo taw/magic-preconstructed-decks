@@ -72,6 +72,5 @@ COMMANDER: 1 Kardur, Doomscourge [foil]
 1 Molten Slagheap
 1 Myriad Landscape
 1 Urborg Volcano
-15 Swamp
-14 Mountain
-
+15 Swamp [SCD:*]
+14 Mountain [SCD:*]

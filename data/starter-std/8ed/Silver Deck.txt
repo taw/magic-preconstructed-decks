@@ -10,5 +10,5 @@
 2 Sacred Nectar
 2 Vengeance
 1 Index
-8 Plains
-7 Island
+8 Plains [8ED:*]
+7 Island [8ED:*]

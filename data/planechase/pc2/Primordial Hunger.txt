@@ -30,11 +30,11 @@
 1 Awakening Zone
 1 Fires of Yavimaya
 1 Warstorm Surge
-11 Forest
+11 Forest [PC2:*]
 2 Gruul Turf
 2 Kazandu Refuge
 1 Khalni Garden
-6 Mountain
+6 Mountain [PC2:*]
 1 Skarrg, the Rage Pits
 1 Terramorphic Expanse
 

@@ -83,6 +83,6 @@ COMMANDER: 1 Anhelo, the Painter [NCC:1] [foil]
 1 Smoldering Marsh
 1 Sunken Hollow
 1 Temple of Epiphany
-7 Island
-6 Swamp
-5 Mountain
+7 Island [SNC:*]
+6 Swamp [SNC:*]
+5 Mountain [SNC:*]

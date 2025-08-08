@@ -12,8 +12,8 @@
 4 Gods Willing
 4 Samut's Sprint
 4 Shock
-8 Plains
-6 Mountain
+8 Plains [ELD:*]
+6 Mountain [ELD:*]
 2 Sacred Foundry
 4 Temple of Triumph
 4 Wind-Scarred Crag

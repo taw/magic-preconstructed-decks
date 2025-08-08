@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 1
 // SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/2-Player_Starter_Set
 // DATE: 1998-06-24
-3 Forest
-5 Mountain
-5 Swamp
+3 Forest [P02:*]
+5 Mountain [P02:*]
+5 Swamp [P02:*]
 1 Dakmor Bat
 1 Dakmor Scorpion
 1 Goblin Cavaliers

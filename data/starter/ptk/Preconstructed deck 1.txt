@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 1
 // SOURCE: https://mtg.gamepedia.com/Portal_Three_Kingdoms/2-Player_Starter_Set
 // DATE: 1999-05-01
-3 Forest
-5 Mountain
-5 Swamp
+3 Forest [PTK:*]
+5 Mountain [PTK:*]
+5 Swamp [PTK:*]
 1 Independent Troops
 1 Meng Huo's Horde
 1 Mountain Bandit

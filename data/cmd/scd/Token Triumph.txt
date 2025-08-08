@@ -72,5 +72,5 @@ COMMANDER: 1 Emmara, Soul of the Accord [foil]
 1 Holdout Settlement
 1 Tranquil Expanse
 1 Vitu-Ghazi, the City-Tree
-15 Forest
-14 Plains
+15 Forest [SCD:*]
+14 Plains [SCD:*]

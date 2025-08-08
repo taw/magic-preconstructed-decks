@@ -6,5 +6,5 @@
 1 Orcish Oriflamme
 1 Fog
 1 Patagia Golem
-1 Forest
-1 Mountain
+1 Forest [7ED:*]
+1 Mountain [7ED:*]

@@ -22,4 +22,4 @@
 2 Murder
 2 Grasp of Darkness
 1 Liliana's Mastery
-26 Swamp
+26 Swamp [GN2:*]

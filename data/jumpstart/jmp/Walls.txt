@@ -14,5 +14,5 @@
 1 Warmonger's Chariot
 1 Assault Formation
 1 Thriving Grove
-6 Forest [M21]
+6 Forest [M21:*]
 1 Forest [JMP:75]

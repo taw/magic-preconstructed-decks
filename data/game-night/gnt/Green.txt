@@ -23,5 +23,5 @@
 1 Manalith
 1 Rhonas's Monument
 1 Talons of Wildwood
-25 Forest
+25 Forest [GNT:*]
 1 Avatar of Growth

@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 1
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
 // DATE: 1999-07-12
-6 Forest
-6 Mountain
-6 Swamp
+6 Forest [S99:*]
+6 Mountain [S99:*]
+6 Swamp [S99:*]
 2 Bog Imp
 1 Durkwood Boars
 1 Grizzly Bears

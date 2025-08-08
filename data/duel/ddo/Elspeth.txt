@@ -29,5 +29,5 @@
 1 Mighty Leap
 2 Raise the Alarm
 1 Dictate of Heliod
-22 Plains
+22 Plains [DDO:*]
 2 Secluded Steppe

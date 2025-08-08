@@ -71,5 +71,5 @@ COMMANDER: 1 Isperia, Supreme Judge [foil]
 1 Meandering River
 1 Sejiri Refuge
 1 Tranquil Cove
-15 Plains
-15 Island
+15 Plains [SCD:*]
+15 Island [SCD:*]

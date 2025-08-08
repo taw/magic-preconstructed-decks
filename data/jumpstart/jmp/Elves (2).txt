@@ -14,5 +14,5 @@
 1 Titanic Growth
 1 Presence of Gond
 1 Thriving Grove
-6 Forest [M21]
+6 Forest [M21:*]
 1 Forest [JMP:77]

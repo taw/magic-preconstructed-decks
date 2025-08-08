@@ -6,5 +6,5 @@
 1 Holy Strength
 1 Disenchant
 1 Rod of Ruin
-1 Plains
-1 Island
+1 Plains [7ED:*]
+1 Island [7ED:*]

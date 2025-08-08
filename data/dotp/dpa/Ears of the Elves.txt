@@ -22,6 +22,6 @@
 1 Naturalize
 1 Coat of Arms
 2 Wurm's Tooth
-16 Forest
-8 Swamp
+16 Forest [DPA:*]
+8 Swamp [DPA:*]
 3 Eyeblight's Ending

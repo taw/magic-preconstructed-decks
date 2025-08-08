@@ -85,7 +85,7 @@ COMMANDER: 1 Nelly Borca, Impulsive Accuser [foil] [MKC:4]
 1 Rogue's Passage
 1 Sunhome, Fortress of the Legion
 1 Temple of the False God
-9 Plains
-7 Mountain
+9 Plains [MKM:*]
+7 Mountain [MKM:*]
 
 Sideboard

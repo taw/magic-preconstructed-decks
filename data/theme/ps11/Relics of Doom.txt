@@ -1,8 +1,8 @@
 // NAME: Relics of Doom
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-13 Island
-11 Swamp
+13 Island [PS11:*]
+11 Swamp [PS11:*]
 1 Sharding Sphinx
 1 Faerie Mechanist
 1 Master of Etherium

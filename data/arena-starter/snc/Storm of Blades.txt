@@ -22,7 +22,7 @@
 1 Imperial Oath
 1 Ancestral Katana
 2 Tempered in Solitude
-10 Mountain
-9 Plains
+10 Mountain [SNC:*]
+9 Plains [SNC:*]
 4 Wind-Scarred Crag
 1 Sundown Pass

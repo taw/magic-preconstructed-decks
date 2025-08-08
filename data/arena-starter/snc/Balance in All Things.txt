@@ -22,8 +22,8 @@
 1 The Restoration of Eiganjo [NEO:34a]
 2 Twisted Embrace
 1 Spirit-Sister's Call
-9 Plains
-10 Swamp
+9 Plains [SNC:*]
+10 Swamp [SNC:*]
 4 Scoured Barrens
 1 Shattered Sanctum
 1 Roadside Reliquary

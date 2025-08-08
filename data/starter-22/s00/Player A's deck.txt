@@ -1,9 +1,9 @@
 // NAME: Player A's deck
 // SOURCE: https://mtg.gamepedia.com/Starter_2000
 // DATE: 2000-04-24
-3 Forest
-3 Mountain
-3 Swamp
+3 Forest [6ED:*]
+3 Mountain [6ED:*]
+3 Swamp [6ED:*]
 1 Bog Imp
 1 Durkwood Boars
 1 Goblin Hero

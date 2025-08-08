@@ -3,9 +3,9 @@
 // SOURCE: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // SOURCE: https://mtg.gamepedia.com/Introductory_Two-Player_Set
 // DATE: 1996-12-31
-5 Swamp
-4 Forest
-4 Plains
+5 Swamp [ITP:*]
+4 Forest [ITP:*]
+4 Plains [ITP:*]
 2 Mesa Pegasus
 2 War Mammoth
 1 Elvish Archers

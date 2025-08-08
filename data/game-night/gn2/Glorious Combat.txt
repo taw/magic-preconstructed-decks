@@ -22,4 +22,4 @@
 3 Raise the Alarm
 2 Mighty Leap
 2 Pacifism
-26 Plains
+26 Plains [GN2:*]

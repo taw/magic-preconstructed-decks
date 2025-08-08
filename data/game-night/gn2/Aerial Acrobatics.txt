@@ -24,4 +24,4 @@
 1 Dramatic Reversal
 2 Galestrike
 1 Claustrophobia
-26 Island
+26 Island [GN2:*]

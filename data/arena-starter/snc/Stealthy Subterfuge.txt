@@ -21,7 +21,7 @@
 2 Hero's Downfall
 1 The Long Reach of Night
 1 Behold the Unspeakable
-17 Island
+17 Island [SNC:*]
 4 Dismal Backwater
 1 Shipwreck Marsh
 2 Waterfront District

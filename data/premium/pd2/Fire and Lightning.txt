@@ -30,5 +30,5 @@
 1 Thunderbolt [foil]
 1 Barbarian Ring [foil]
 1 Ghitu Encampment [foil]
-21 Mountain [foil]
+21 Mountain [PD2:*] [foil]
 2 Teetering Peaks [foil]

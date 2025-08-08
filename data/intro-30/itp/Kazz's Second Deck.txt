@@ -3,9 +3,9 @@
 // SOURCE: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // SOURCE: https://mtg.gamepedia.com/Introductory_Two-Player_Set
 // DATE: 1996-12-31
-5 Mountain
-4 Island
-4 Swamp
+5 Mountain [ITP:*]
+4 Island [ITP:*]
+4 Swamp [ITP:*]
 1 Mons's Goblin Raiders
 2 Vampire Bats
 1 Orcish Artillery

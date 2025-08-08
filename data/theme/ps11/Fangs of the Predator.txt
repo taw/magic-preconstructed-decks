@@ -1,7 +1,7 @@
 // NAME: Fangs of the Predator
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-24 Forest
+24 Forest [PS11:*]
 1 Molimo, Maro-Sorcerer
 1 Verdant Force
 1 Duskdale Wurm

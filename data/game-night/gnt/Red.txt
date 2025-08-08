@@ -22,5 +22,5 @@
 3 Shock
 1 Trumpet Blast
 2 Bombard
-25 Mountain
+25 Mountain [GNT:*]
 1 Goblin Goliath

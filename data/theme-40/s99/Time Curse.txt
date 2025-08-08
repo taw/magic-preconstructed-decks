@@ -1,7 +1,7 @@
 // NAME: Time Curse
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Theme_decks
 // DATE: 1999-07-12
-17 Island
+17 Island [S99:*]
 2 Air Elemental
 3 Ingenious Thief
 2 Giant Octopus

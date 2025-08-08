@@ -27,4 +27,4 @@
 1 Crystal Vein [foil]
 1 Ebon Stronghold [foil]
 1 Polluted Mire [foil]
-21 Swamp [foil]
+21 Swamp [PD3:*] [foil]

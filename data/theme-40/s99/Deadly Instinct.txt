@@ -1,7 +1,7 @@
 // NAME: Deadly Instinct
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Theme_decks
 // DATE: 1999-07-12
-17 Swamp
+17 Swamp [S99:*]
 1 Dakmor Lancer
 2 Dakmor Scorpion
 2 Feral Shadow

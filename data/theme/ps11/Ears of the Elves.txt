@@ -1,8 +1,8 @@
 // NAME: Ears of the Elves
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-16 Forest
-8 Swamp
+16 Forest [PS11:*]
+8 Swamp [PS11:*]
 1 Drove of Elves
 2 Elven Riders
 1 Elvish Champion

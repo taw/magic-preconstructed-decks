@@ -26,6 +26,6 @@
 1 Genju of the Cedars
 1 Lignify
 2 Rancor
-21 Forest
+21 Forest [DDD:*]
 2 Slippery Karst
 1 Treetop Village

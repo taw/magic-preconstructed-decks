@@ -1,7 +1,7 @@
 // NAME: Thoughts of the Wind
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-25 Island
+25 Island [PS11:*]
 2 Air Elemental
 4 Cloud Sprite
 1 Denizen of the Deep

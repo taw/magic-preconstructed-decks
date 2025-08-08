@@ -87,8 +87,8 @@ COMMANDER: 1 Morska, Undersea Sleuth [foil] [MKC:3]
 1 Simic Growth Chamber
 1 Temple of the False God
 1 Tranquil Thicket
-3 Plains
-6 Island
-5 Forest
+3 Plains [MKM:*]
+6 Island [MKM:*]
+5 Forest [MKM:*]
 
 Sideboard

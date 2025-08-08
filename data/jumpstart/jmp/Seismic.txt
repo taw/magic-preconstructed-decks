@@ -14,5 +14,5 @@
 1 Volcanic Geyser
 1 Mana Geode
 1 Thriving Bluff
-6 Mountain [M21]
+6 Mountain [M21:*]
 1 Mountain [JMP:64]

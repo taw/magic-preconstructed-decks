@@ -14,5 +14,5 @@
 1 Wildsize
 1 Verdant Embrace
 1 Thriving Grove
-6 Forest [M21]
+6 Forest [M21:*]
 1 Forest [JMP:70]

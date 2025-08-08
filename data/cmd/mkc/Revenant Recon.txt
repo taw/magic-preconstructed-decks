@@ -83,7 +83,7 @@ COMMANDER: 1 Mirko, Obsessive Theorist [foil] [MKC:2]
 1 Tainted Isle
 1 Temple of the False God
 1 Tocasia's Dig Site
-9 Island
-9 Swamp
+9 Island [MKM:*]
+9 Swamp [MKM:*]
 
 Sideboard

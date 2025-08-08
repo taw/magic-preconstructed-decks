@@ -1,8 +1,8 @@
 // NAME: Mind of the Void
 // SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
-14 Island
-10 Plains
+14 Island [PS11:*]
+10 Plains [PS11:*]
 1 Deft Duelist
 1 Griffin Sentinel
 1 Isleback Spawn

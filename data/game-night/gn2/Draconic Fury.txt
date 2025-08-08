@@ -24,4 +24,4 @@
 1 Shock
 1 Brute Strength
 2 Lightning Strike
-26 Mountain
+26 Mountain [GN2:*]

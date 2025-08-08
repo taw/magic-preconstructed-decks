@@ -1,14 +1,13 @@
 // NAME: Sampler Booster
 // SOURCE: https://mtg.fandom.com/wiki/Sampler
 // DATE: 2001-04-11
-1 Plains
+1 Plains [7ED:*]
 1 Razorfoot Griffin
-1 Island
+1 Island [7ED:*]
 1 Coral Merfolk
-1 Swamp
+1 Swamp [7ED:*]
 1 Scathe Zombies
-1 Mountain
+1 Mountain [7ED:*]
 1 Spitting Earth
-1 Forest
+1 Forest [7ED:*]
 1 Gorilla Chieftain
-

@@ -35,9 +35,9 @@
 1 Griffin Guide
 1 Oblivion Ring
 1 Spidersilk Armor
-6 Forest
+6 Forest [DDG:*]
 2 Grasslands
-12 Plains
+12 Plains [DDG:*]
 1 Sejiri Steppe
 2 Selesnya Sanctuary
 1 Treetop Village

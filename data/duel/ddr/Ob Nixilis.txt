@@ -31,4 +31,4 @@
 1 Shadows of the Past
 1 Unhallowed Pact
 2 Leechridden Swamp
-22 Swamp
+22 Swamp [DDR:*]

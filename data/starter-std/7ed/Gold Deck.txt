@@ -11,5 +11,5 @@
 1 Monstrous Growth
 1 Rampant Growth
 2 Volcanic Hammer
-6 Forest
-8 Mountain
+6 Forest [7ED:*]
+8 Mountain [7ED:*]

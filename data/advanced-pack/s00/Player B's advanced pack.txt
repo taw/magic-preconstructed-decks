@@ -1,8 +1,8 @@
 // NAME: Player B's advanced pack
 // SOURCE: https://mtg.gamepedia.com/Starter_2000
 // DATE: 2000-04-24
-3 Island
-3 Plains
+3 Island [6ED:*]
+3 Plains [6ED:*]
 1 Obsianus Golem
 1 Prodigal Sorcerer
 1 Samite Healer

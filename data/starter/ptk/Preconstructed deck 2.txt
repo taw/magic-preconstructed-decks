@@ -1,9 +1,9 @@
 // NAME: Preconstructed deck 2
 // SOURCE: https://mtg.gamepedia.com/Portal_Three_Kingdoms/2-Player_Starter_Set
 // DATE: 1999-05-01
-3 Forest
-5 Island
-5 Plains
+3 Forest [PTK:*]
+5 Island [PTK:*]
+5 Plains [PTK:*]
 1 Forest Bear
 1 Shu Cavalry
 1 Shu Elite Companions

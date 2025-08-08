@@ -14,5 +14,5 @@
 1 Path of Bravery
 1 Griffin Aerie
 1 Thriving Heath
-6 Plains [M21]
+6 Plains [M21:*]
 1 Plains [JMP:39]

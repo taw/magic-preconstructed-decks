@@ -34,5 +34,5 @@
 1 Journey to Nowhere
 1 Daru Encampment
 1 Kabira Crossroads
-22 Plains
+22 Plains [DDF:*]
 1 Rustic Clachan

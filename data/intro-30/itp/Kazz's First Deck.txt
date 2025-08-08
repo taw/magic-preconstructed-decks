@@ -1,9 +1,9 @@
 // NAME: Kazz's First Deck
 // SOURCE: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
 // DATE: 1996-12-31
-4 Island
-4 Mountain
-4 Swamp
+4 Island [ITP:*]
+4 Mountain [ITP:*]
+4 Swamp [ITP:*]
 2 Murk Dwellers
 2 Scathe Zombies
 2 Zephyr Falcon

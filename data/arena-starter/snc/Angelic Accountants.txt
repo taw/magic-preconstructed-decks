@@ -19,8 +19,8 @@
 2 Homestead Courage
 3 Borrowed Time
 1 Sigarda's Summons [VOW:36]
-9 Island
-9 Plains
+9 Island [SNC:*]
+9 Plains [SNC:*]
 4 Tranquil Cove
 1 Deserted Beach
 2 Skybridge Towers

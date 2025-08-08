@@ -14,5 +14,5 @@
 1 Raise the Alarm
 1 Blessed Sanctuary
 1 Thriving Heath
-6 Plains [M21]
+6 Plains [M21:*]
 1 Plains [JMP:38]

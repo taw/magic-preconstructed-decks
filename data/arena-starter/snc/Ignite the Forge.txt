@@ -21,8 +21,8 @@
 2 Dragonspark Reactor
 3 Oni-Cult Anvil
 1 Dollhouse of Horrors
-9 Mountain
-9 Swamp
+9 Mountain [SNC:*]
+9 Swamp [SNC:*]
 4 Bloodfell Caves
 1 Haunted Ridge
 2 Tramway Station

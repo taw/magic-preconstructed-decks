@@ -3,7 +3,7 @@
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
 // SOURCE: http://www.wizards.com/magic/p3k/p3k_pcd.asp
 // DATE: 1999-05-01
-15 Swamp
+15 Swamp [PTK:*]
 1 Cao Cao, Lord of Wei
 2 Cunning Advisor
 1 Sima Yi, Wei Field Marshal

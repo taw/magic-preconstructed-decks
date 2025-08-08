@@ -18,4 +18,4 @@
 2 Pacifism
 1 Glorious Anthem
 2 Serra's Embrace
-15 Plains
+15 Plains [7ED:*]

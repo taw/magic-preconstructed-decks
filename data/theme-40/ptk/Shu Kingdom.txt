@@ -3,7 +3,7 @@
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/portal-three-kingdoms-theme-decks-2008-08-19
 // SOURCE: http://www.wizards.com/magic/p3k/p3k_pcd.asp
 // DATE: 1999-05-01
-15 Plains
+15 Plains [PTK:*]
 2 Flanking Troops
 1 Guan Yu, Sainted Warrior
 1 Kongming, "Sleeping Dragon"

@@ -1,8 +1,8 @@
 // NAME: Preconstructed deck 2
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Starter_game_box
 // DATE: 1999-07-12
-8 Island
-8 Plains
+8 Island [S99:*]
+8 Plains [S99:*]
 2 Eager Cadet
 1 Giant Octopus
 2 Knight Errant

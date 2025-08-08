@@ -1,7 +1,7 @@
 // NAME: Martial Law
 // SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
 // DATE: 1998-06-24
-15 Plains
+15 Plains [P02:*]
 2 Alaborn Cavalier
 2 Alaborn Grenadier
 3 Alaborn Trooper

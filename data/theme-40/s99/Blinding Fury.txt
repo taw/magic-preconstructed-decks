@@ -1,7 +1,7 @@
 // NAME: Blinding Fury
 // SOURCE: https://mtg.gamepedia.com/Starter_1999/Theme_decks
 // DATE: 1999-07-12
-17 Plains
+17 Plains [S99:*]
 1 Archangel
 1 Angel of Light
 2 Charging Paladin

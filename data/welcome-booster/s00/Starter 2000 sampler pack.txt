@@ -2,12 +2,12 @@
 // SOURCE: https://mtg.fandom.com/wiki/Starter_2000
 // DATE: 2000-04-24
 1 Armored Pegasus
-1 Forest
-1 Island
+1 Forest [6ED:*]
+1 Island [6ED:*]
 1 Merfolk of the Pearl Trident
-1 Mountain
-1 Plains
+1 Mountain [6ED:*]
+1 Plains [6ED:*]
 1 Python
 1 Spined Wurm [PMEI]
 1 Stone Rain
-1 Swamp
+1 Swamp [6ED:*]

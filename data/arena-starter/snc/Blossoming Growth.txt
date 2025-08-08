@@ -19,7 +19,7 @@
 3 Careful Cultivation
 3 Boseiju Reaches Skyward
 1 Glorious Sunrise
-10 Forest
-10 Island
+10 Forest [SNC:*]
+10 Island [SNC:*]
 4 Thornwood Falls
 1 Dreamroot Cascade

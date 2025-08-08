@@ -6,5 +6,5 @@
 1 Blanchwood Armor
 1 Naturalize
 1 Dancing Scimitar
-1 Forest
-1 Mountain
+1 Forest [9ED:*]
+1 Mountain [9ED:*]

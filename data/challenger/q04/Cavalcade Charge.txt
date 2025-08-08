@@ -13,7 +13,7 @@
 1 Embercleave
 4 Cavalcade of Calamity
 3 Castle Embereth
-18 Mountain
+18 Mountain [THB:*]
 
 Sideboard
 3 Experimental Frenzy

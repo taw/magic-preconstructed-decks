@@ -20,4 +20,4 @@
 3 Growth Cycle
 1 Plummet
 2 Spidery Grasp
-26 Forest
+26 Forest [GN2:*]

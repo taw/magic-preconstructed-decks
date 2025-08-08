@@ -6,5 +6,5 @@
 1 Blanchwood Armor
 1 Naturalize
 1 Patagia Golem
-1 Forest
-1 Mountain
+1 Forest [8ED:*]
+1 Mountain [8ED:*]

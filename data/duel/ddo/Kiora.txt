@@ -27,5 +27,5 @@
 1 Aetherize
 1 Temple of the False God
 2 Evolving Wilds
-11 Forest
-11 Island
+11 Forest [DDO:*]
+11 Island [DDO:*]

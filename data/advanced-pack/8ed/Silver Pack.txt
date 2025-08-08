@@ -6,5 +6,5 @@
 1 Holy Day
 1 Sanctimony
 1 Rod of Ruin
-1 Plains
-1 Island
+1 Plains [8ED:*]
+1 Island [8ED:*]

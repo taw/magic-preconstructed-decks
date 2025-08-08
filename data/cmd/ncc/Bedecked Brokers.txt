@@ -87,6 +87,6 @@ COMMANDER: 1 Perrie, the Pulverizer [NCC:5] [foil]
 1 Vivid Creek
 1 Vivid Grove
 1 Vivid Meadow
-5 Forest
-4 Island
-5 Plains
+5 Forest [SNC:*]
+4 Island [SNC:*]
+5 Plains [SNC:*]

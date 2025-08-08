@@ -12,5 +12,5 @@
 2 Lava Axe
 1 Stone Rain
 2 Volcanic Hammer
-7 Forest
-8 Mountain
+7 Forest [8ED:*]
+8 Mountain [8ED:*]

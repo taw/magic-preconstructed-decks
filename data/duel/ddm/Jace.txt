@@ -37,4 +37,4 @@
 1 Future Sight
 1 Dread Statuary
 2 Halimar Depths
-21 Island
+21 Island [DDM:*]

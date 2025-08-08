@@ -35,8 +35,8 @@
 2 Tragic Slip
 1 Stab Wound
 1 Underworld Connections
-9 Forest
+9 Forest [DDM:*]
 1 Golgari Guildgate
 1 Rogue's Passage
-11 Swamp
+11 Swamp [DDM:*]
 2 Tainted Wood
