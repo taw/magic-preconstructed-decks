@@ -1,4 +1,5 @@
-// NAME: Ravnica Allegiance Redemption
+// NAME: Ravnica Allegiance Foil Redemption
+// SOURCE: default database query
 // DATE: 2019-01-25
 1 Absorb [RNA:151] [foil]
 1 Act of Treason [RNA:91] [foil]

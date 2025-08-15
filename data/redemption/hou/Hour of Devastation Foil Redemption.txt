@@ -1,4 +1,5 @@
-// NAME: Hour of Devastation Redemption
+// NAME: Hour of Devastation Foil Redemption
+// SOURCE: default database query
 // DATE: 2017-07-14
 1 Abandoned Sarcophagus [HOU:158] [foil]
 1 Abrade [HOU:83] [foil]

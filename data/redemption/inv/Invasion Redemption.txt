@@ -1,4 +1,5 @@
 // NAME: Invasion Redemption
+// SOURCE: default database query
 // DATE: 2000-10-02
 1 Absorb [INV:226]
 1 Addle [INV:91]

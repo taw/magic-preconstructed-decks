@@ -13,27 +13,29 @@ class ValidateMetadata
 
   def call
     deck_files.each do |path|
+      relative_path = path.relative_path_from(@data_root)
+
       title_from_path = path.basename(".txt").to_s
       title_from_file = nil
-      urls_from_file = []
+      source = []
       comment_lines = path.readlines.map(&:chomp).grep(%r[\A//])
       comment_lines.each do |line|
         if line =~ %r[\A// NAME: (.*)]
-          warn "#{path}: Multiple titles in file" if title_from_file
+          warn "#{relative_path}: Multiple titles in file" if title_from_file
           title_from_file = $1
-        elsif line =~ %r[\A// SOURCE: (http.*)]
-          urls_from_file << $1
+        elsif line =~ %r[\A// SOURCE: .*]
+          source << $1
         end
       end
 
-      if urls_from_file.empty?
-        warn "#{path}: no source urls included"
+      if source.empty?
+        warn "#{relative_path}: no source provided"
       end
       if title_from_file.tr("/", "-") != title_from_path
-        warn "#{path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
+        warn "#{relative_path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
       end
       if title_from_file == title_from_file.upcase
-        warn "#{path}: All capital title"
+        warn "#{relative_path}: All capital title"
       end
     end
   end

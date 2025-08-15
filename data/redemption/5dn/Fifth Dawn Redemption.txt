@@ -1,4 +1,5 @@
 // NAME: Fifth Dawn Redemption
+// SOURCE: default database query
 // DATE: 2004-06-04
 1 Abuna's Chant [5DN:1]
 1 Acquire [5DN:21]

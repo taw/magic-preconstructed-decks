@@ -1,4 +1,5 @@
 // NAME: Rise of the Eldrazi Redemption
+// SOURCE: default database query
 // DATE: 2010-04-23
 1 Affa Guard Hound [ROE:14]
 1 Akoum Boulderfoot [ROE:134]

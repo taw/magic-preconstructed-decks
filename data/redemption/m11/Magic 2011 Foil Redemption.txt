@@ -1,4 +1,5 @@
-// NAME: Magic 2011 Redemption
+// NAME: Magic 2011 Foil Redemption
+// SOURCE: default database query
 // DATE: 2010-07-16
 1 Acidic Slime [M11:161] [foil]
 1 Act of Treason [M11:121] [foil]

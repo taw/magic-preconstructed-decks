@@ -1,4 +1,5 @@
-// NAME: Rivals of Ixalan Redemption
+// NAME: Rivals of Ixalan Foil Redemption
+// SOURCE: default database query
 // DATE: 2018-01-19
 1 Admiral's Order [RIX:31] [foil]
 1 Aggressive Urge [RIX:122] [foil]

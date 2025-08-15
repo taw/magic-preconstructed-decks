@@ -1,4 +1,5 @@
-// NAME: Ikoria: Lair of Behemoths Redemption
+// NAME: Ikoria: Lair of Behemoths Foil Redemption
+// SOURCE: default database query
 // DATE: 2020-04-24
 1 Adaptive Shimmerer [IKO:1] [foil]
 1 Adventurous Impulse [IKO:142] [foil]

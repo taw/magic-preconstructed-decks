@@ -1,4 +1,5 @@
-// NAME: Planeshift Redemption
+// NAME: Planeshift Foil Redemption
+// SOURCE: database query with -is:foilonly
 // DATE: 2001-02-05
 1 Allied Strategies [PLS:20] [foil]
 1 Alpha Kavu [PLS:77] [foil]

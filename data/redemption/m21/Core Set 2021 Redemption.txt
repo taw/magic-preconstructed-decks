@@ -1,4 +1,5 @@
 // NAME: Core Set 2021 Redemption
+// SOURCE: default database query
 // DATE: 2020-07-03
 1 Alchemist's Gift [M21:87]
 1 Alpine Houndmaster [M21:215]

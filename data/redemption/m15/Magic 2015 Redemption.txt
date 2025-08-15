@@ -1,4 +1,5 @@
 // NAME: Magic 2015 Redemption
+// SOURCE: default database query
 // DATE: 2014-07-18
 1 Accursed Spirit [M15:85]
 1 Act on Impulse [M15:126]

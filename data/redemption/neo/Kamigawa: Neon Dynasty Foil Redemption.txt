@@ -1,4 +1,5 @@
-// NAME: Kamigawa: Neon Dynasty Redemption
+// NAME: Kamigawa: Neon Dynasty Foil Redemption
+// SOURCE: default database query
 // DATE: 2022-02-18
 1 Acquisition Octopus [NEO:44] [foil]
 1 Akki Ember-Keeper [NEO:130] [foil]

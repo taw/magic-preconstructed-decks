@@ -1,4 +1,5 @@
-// NAME: March of the Machine Redemption
+// NAME: March of the Machine Foil Redemption
+// SOURCE: default database query
 // DATE: 2023-04-21
 1 Aerial Boost [MOM:2] [foil]
 1 Aetherblade Agent [MOM:88a] [foil]

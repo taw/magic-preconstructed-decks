@@ -1,4 +1,5 @@
 // NAME: The Brothers' War Redemption
+// SOURCE: default database query
 // DATE: 2022-11-18
 1 Aeronaut Cavalry [BRO:1]
 1 Aeronaut's Wings [BRO:231]

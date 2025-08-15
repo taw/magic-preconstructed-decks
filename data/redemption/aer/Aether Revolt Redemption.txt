@@ -1,4 +1,5 @@
 // NAME: Aether Revolt Redemption
+// SOURCE: default database query
 // DATE: 2017-01-20
 1 Aegis Automaton [AER:141]
 1 Aerial Modification [AER:1]

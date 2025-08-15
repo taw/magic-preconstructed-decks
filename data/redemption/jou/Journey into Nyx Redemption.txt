@@ -1,4 +1,5 @@
 // NAME: Journey into Nyx Redemption
+// SOURCE: default database query
 // DATE: 2014-05-02
 1 Aegis of the Gods [JOU:1]
 1 Aerial Formation [JOU:30]

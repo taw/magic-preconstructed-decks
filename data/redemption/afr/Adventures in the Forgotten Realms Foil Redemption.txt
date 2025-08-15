@@ -1,4 +1,5 @@
-// NAME: Adventures in the Forgotten Realms Redemption
+// NAME: Adventures in the Forgotten Realms Foil Redemption
+// SOURCE: default database query
 // DATE: 2021-07-23
 1 +2 Mace [AFR:1] [foil]
 1 Aberrant Mind Sorcerer [AFR:44] [foil]

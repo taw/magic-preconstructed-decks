@@ -1,4 +1,5 @@
 // NAME: Champions of Kamigawa Redemption
+// SOURCE: default database query
 // DATE: 2004-10-01
 1 Akki Avalanchers [CHK:151]
 1 Akki Coalflinger [CHK:152]

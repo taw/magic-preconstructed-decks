@@ -1,4 +1,5 @@
 // NAME: Kamigawa: Neon Dynasty Redemption
+// SOURCE: default database query
 // DATE: 2022-02-18
 1 Acquisition Octopus [NEO:44]
 1 Akki Ember-Keeper [NEO:130]

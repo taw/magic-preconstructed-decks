@@ -1,4 +1,5 @@
-// NAME: Duskmourn: House of Horror Redemption
+// NAME: Duskmourn: House of Horror Foil Redemption
+// SOURCE: default database query
 // DATE: 2024-09-27
 1 Abandoned Campground [DSK:255] [foil]
 1 Abhorrent Oculus [DSK:42] [foil]

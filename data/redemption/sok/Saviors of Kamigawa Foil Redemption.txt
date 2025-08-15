@@ -1,4 +1,5 @@
-// NAME: Saviors of Kamigawa Redemption
+// NAME: Saviors of Kamigawa Foil Redemption
+// SOURCE: default database query
 // DATE: 2005-06-03
 1 Adamaro, First to Desire [SOK:91] [foil]
 1 Aether Shockwave [SOK:1] [foil]

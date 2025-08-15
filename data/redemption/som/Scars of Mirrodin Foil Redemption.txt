@@ -1,4 +1,5 @@
-// NAME: Scars of Mirrodin Redemption
+// NAME: Scars of Mirrodin Foil Redemption
+// SOURCE: default database query
 // DATE: 2010-10-01
 1 Abuna Acolyte [SOM:1] [foil]
 1 Accorder's Shield [SOM:136] [foil]

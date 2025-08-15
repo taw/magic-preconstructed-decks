@@ -1,4 +1,5 @@
-// NAME: Theros Redemption
+// NAME: Theros Foil Redemption
+// SOURCE: default database query
 // DATE: 2013-09-27
 1 Abhorrent Overlord [THS:75] [foil]
 1 Agent of Horizons [THS:148] [foil]

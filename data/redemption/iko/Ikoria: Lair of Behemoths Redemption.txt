@@ -1,4 +1,5 @@
 // NAME: Ikoria: Lair of Behemoths Redemption
+// SOURCE: default database query
 // DATE: 2020-04-24
 1 Adaptive Shimmerer [IKO:1]
 1 Adventurous Impulse [IKO:142]

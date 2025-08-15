@@ -1,4 +1,5 @@
-// NAME: Guilds of Ravnica Redemption
+// NAME: Guilds of Ravnica Foil Redemption
+// SOURCE: default database query
 // DATE: 2018-10-05
 1 Affectionate Indrik [GRN:121] [foil]
 1 Arboretum Elemental [GRN:122] [foil]

@@ -1,4 +1,5 @@
 // NAME: Scourge Redemption
+// SOURCE: default database query
 // DATE: 2003-05-26
 1 Accelerated Mutation [SCG:109]
 1 Ageless Sentinels [SCG:1]

@@ -1,4 +1,5 @@
-// NAME: Shadows over Innistrad Redemption
+// NAME: Shadows over Innistrad Foil Redemption
+// SOURCE: default database query
 // DATE: 2016-04-08
 1 Aberrant Researcher [SOI:49a] [foil]
 1 Accursed Witch [SOI:97a] [foil]

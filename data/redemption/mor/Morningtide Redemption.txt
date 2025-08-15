@@ -1,4 +1,5 @@
 // NAME: Morningtide Redemption
+// SOURCE: default database query
 // DATE: 2008-02-01
 1 Ambassador Oak [MOR:113]
 1 Auntie's Snitch [MOR:57]

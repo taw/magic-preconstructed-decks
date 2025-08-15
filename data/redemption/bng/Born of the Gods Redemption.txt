@@ -1,4 +1,5 @@
 // NAME: Born of the Gods Redemption
+// SOURCE: default database query
 // DATE: 2014-02-07
 1 Acolyte's Reward [BNG:1]
 1 Aerie Worshippers [BNG:30]

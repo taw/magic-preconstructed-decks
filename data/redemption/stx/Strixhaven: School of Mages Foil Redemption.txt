@@ -1,4 +1,5 @@
-// NAME: Strixhaven: School of Mages Redemption
+// NAME: Strixhaven: School of Mages Foil Redemption
+// SOURCE: default database query
 // DATE: 2021-04-23
 1 Academic Dispute [STX:91] [foil]
 1 Academic Probation [STX:7] [foil]

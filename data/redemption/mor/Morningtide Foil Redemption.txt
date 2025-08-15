@@ -1,4 +1,5 @@
-// NAME: Morningtide Redemption
+// NAME: Morningtide Foil Redemption
+// SOURCE: default database query
 // DATE: 2008-02-01
 1 Ambassador Oak [MOR:113] [foil]
 1 Auntie's Snitch [MOR:57] [foil]

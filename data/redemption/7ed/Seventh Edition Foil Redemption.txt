@@ -1,4 +1,5 @@
-// NAME: Seventh Edition Redemption
+// NAME: Seventh Edition Foil Redemption
+// SOURCE: default database query
 // DATE: 2001-04-11
 1 Abyssal Horror [7ED:115★] [foil]
 1 Abyssal Specter [7ED:116★] [foil]

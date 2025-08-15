@@ -1,4 +1,5 @@
 // NAME: Eighth Edition Redemption
+// SOURCE: default database query
 // DATE: 2003-07-28
 1 Abyssal Specter [8ED:117]
 1 Air Elemental [8ED:59]

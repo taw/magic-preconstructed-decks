@@ -1,4 +1,5 @@
-// NAME: Kaldheim Redemption
+// NAME: Kaldheim Foil Redemption
+// SOURCE: default database query
 // DATE: 2021-02-05
 1 Aegar, the Freezing Flame [KHM:200] [foil]
 1 Alpine Meadow [KHM:248] [foil]

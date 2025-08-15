@@ -1,4 +1,5 @@
 // NAME: Dominaria United Redemption
+// SOURCE: default database query
 // DATE: 2022-09-09
 1 Academy Loremaster [DMU:40]
 1 Academy Wall [DMU:41]

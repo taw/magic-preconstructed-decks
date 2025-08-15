@@ -1,4 +1,5 @@
-// NAME: Dark Ascension Redemption
+// NAME: Dark Ascension Foil Redemption
+// SOURCE: default database query
 // DATE: 2012-02-03
 1 Afflicted Deserter [DKA:81a] [foil]
 1 Alpha Brawl [DKA:82] [foil]

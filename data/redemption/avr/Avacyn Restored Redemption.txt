@@ -1,4 +1,5 @@
 // NAME: Avacyn Restored Redemption
+// SOURCE: default database query
 // DATE: 2012-05-04
 1 Abundant Growth [AVR:167]
 1 Aggravate [AVR:125]

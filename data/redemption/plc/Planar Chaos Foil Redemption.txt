@@ -1,4 +1,5 @@
-// NAME: Planar Chaos Redemption
+// NAME: Planar Chaos Foil Redemption
+// SOURCE: default database query
 // DATE: 2007-02-02
 1 Aeon Chronicler [PLC:32] [foil]
 1 Aether Membrane [PLC:93] [foil]

@@ -1,4 +1,5 @@
 // NAME: Eventide Redemption
+// SOURCE: default database query
 // DATE: 2008-07-25
 1 Aerie Ouphes [EVE:65]
 1 Altar Golem [EVE:166]

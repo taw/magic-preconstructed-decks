@@ -1,4 +1,5 @@
-// NAME: War of the Spark Redemption
+// NAME: War of the Spark Foil Redemption
+// SOURCE: default database query
 // DATE: 2019-05-03
 1 Ahn-Crop Invader [WAR:113] [foil]
 1 Aid the Fallen [WAR:76] [foil]

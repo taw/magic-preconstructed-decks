@@ -1,4 +1,5 @@
-// NAME: Shadowmoor Redemption
+// NAME: Shadowmoor Foil Redemption
+// SOURCE: default database query
 // DATE: 2008-05-02
 1 Advice from the Fae [SHM:28] [foil]
 1 Aethertow [SHM:136] [foil]

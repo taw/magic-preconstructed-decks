@@ -1,4 +1,5 @@
 // NAME: Innistrad: Midnight Hunt Redemption
+// SOURCE: default database query
 // DATE: 2021-09-24
 1 Abandon the Post [MID:127]
 1 Adeline, Resplendent Cathar [MID:1]

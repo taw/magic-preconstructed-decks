@@ -1,4 +1,5 @@
-// NAME: Apocalypse Redemption
+// NAME: Apocalypse Foil Redemption
+// SOURCE: default database query
 // DATE: 2001-06-04
 1 Aether Mutation [APC:91] [foil]
 1 Ana Disciple [APC:73] [foil]

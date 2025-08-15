@@ -1,4 +1,5 @@
 // NAME: Innistrad Redemption
+// SOURCE: default database query
 // DATE: 2011-09-30
 1 Abattoir Ghoul [ISD:85]
 1 Abbey Griffin [ISD:1]

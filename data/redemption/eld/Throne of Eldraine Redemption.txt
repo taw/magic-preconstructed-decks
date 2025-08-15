@@ -1,4 +1,5 @@
 // NAME: Throne of Eldraine Redemption
+// SOURCE: default database query
 // DATE: 2019-10-04
 1 Acclaimed Contender [ELD:1]
 1 All That Glitters [ELD:2]

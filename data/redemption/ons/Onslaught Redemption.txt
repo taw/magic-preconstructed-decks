@@ -1,4 +1,5 @@
 // NAME: Onslaught Redemption
+// SOURCE: default database query
 // DATE: 2002-10-07
 1 Accursed Centaur [ONS:123]
 1 Aether Charge [ONS:184]

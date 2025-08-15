@@ -1,4 +1,5 @@
 // NAME: Legions Redemption
+// SOURCE: default database query
 // DATE: 2003-02-03
 1 Akroma's Devoted [LGN:2]
 1 Akroma, Angel of Wrath [LGN:1]

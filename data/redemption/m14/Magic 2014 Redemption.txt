@@ -1,4 +1,5 @@
 // NAME: Magic 2014 Redemption
+// SOURCE: default database query
 // DATE: 2013-07-19
 1 Academy Raider [M14:124]
 1 Accorder's Shield [M14:204]

@@ -1,4 +1,5 @@
-// NAME: Avacyn Restored Redemption
+// NAME: Avacyn Restored Foil Redemption
+// SOURCE: default database query
 // DATE: 2012-05-04
 1 Abundant Growth [AVR:167] [foil]
 1 Aggravate [AVR:125] [foil]

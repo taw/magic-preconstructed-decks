@@ -1,4 +1,5 @@
 // NAME: Bloomburrow Redemption
+// SOURCE: default database query
 // DATE: 2024-08-02
 1 Agate Assault [BLB:122]
 1 Agate-Blade Assassin [BLB:82]

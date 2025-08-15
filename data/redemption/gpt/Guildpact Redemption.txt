@@ -1,4 +1,5 @@
 // NAME: Guildpact Redemption
+// SOURCE: default database query
 // DATE: 2006-02-03
 1 Absolver Thrull [GPT:1]
 1 Abyssal Nocturnus [GPT:43]

@@ -1,4 +1,5 @@
 // NAME: Ninth Edition Redemption
+// SOURCE: default database query
 // DATE: 2005-07-29
 1 Adarkar Wastes [9ED:317]
 1 Air Elemental [9ED:58]

@@ -1,4 +1,5 @@
 // NAME: Ravnica Allegiance Redemption
+// SOURCE: default database query
 // DATE: 2019-01-25
 1 Absorb [RNA:151]
 1 Act of Treason [RNA:91]

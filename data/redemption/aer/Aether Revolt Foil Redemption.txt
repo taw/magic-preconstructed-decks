@@ -1,4 +1,5 @@
-// NAME: Aether Revolt Redemption
+// NAME: Aether Revolt Foil Redemption
+// SOURCE: default database query
 // DATE: 2017-01-20
 1 Aegis Automaton [AER:141] [foil]
 1 Aerial Modification [AER:1] [foil]

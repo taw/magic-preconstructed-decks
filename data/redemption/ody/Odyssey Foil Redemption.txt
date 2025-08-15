@@ -1,4 +1,5 @@
-// NAME: Odyssey Redemption
+// NAME: Odyssey Foil Redemption
+// SOURCE: default database query
 // DATE: 2001-10-01
 1 Abandoned Outpost [ODY:312] [foil]
 1 Aboshan's Desire [ODY:59] [foil]

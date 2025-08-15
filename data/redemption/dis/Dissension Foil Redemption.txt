@@ -1,4 +1,5 @@
-// NAME: Dissension Redemption
+// NAME: Dissension Foil Redemption
+// SOURCE: default database query
 // DATE: 2006-05-05
 1 Aethermage's Touch [DIS:101] [foil]
 1 Anthem of Rakdos [DIS:102] [foil]

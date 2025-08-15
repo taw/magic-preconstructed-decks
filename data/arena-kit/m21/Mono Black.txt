@@ -1,4 +1,4 @@
-// NAME: Mono Green
+// NAME: Mono Black
 // SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
 // DATE: 2020-07-03
 2 Blood Glutton [M21:90]

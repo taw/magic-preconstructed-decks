@@ -1,4 +1,5 @@
 // NAME: Outlaws of Thunder Junction Redemption
+// SOURCE: default database query
 // DATE: 2024-04-19
 1 Abraded Bluffs [OTJ:251]
 1 Akul the Unrepentant [OTJ:189]

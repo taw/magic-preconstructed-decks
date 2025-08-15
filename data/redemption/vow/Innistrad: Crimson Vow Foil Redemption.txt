@@ -1,4 +1,5 @@
-// NAME: Innistrad: Crimson Vow Redemption
+// NAME: Innistrad: Crimson Vow Foil Redemption
+// SOURCE: default database query
 // DATE: 2021-11-19
 1 Abrade [VOW:139] [foil]
 1 Adamant Will [VOW:1] [foil]

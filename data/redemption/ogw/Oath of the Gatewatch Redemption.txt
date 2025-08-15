@@ -1,4 +1,5 @@
 // NAME: Oath of the Gatewatch Redemption
+// SOURCE: database query with -number:/a/
 // DATE: 2016-01-22
 1 Abstruse Interference [OGW:40]
 1 Affa Protector [OGW:14]

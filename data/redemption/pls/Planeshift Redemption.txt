@@ -1,4 +1,5 @@
 // NAME: Planeshift Redemption
+// SOURCE: database query with -is:foilonly
 // DATE: 2001-02-05
 1 Allied Strategies [PLS:20]
 1 Alpha Kavu [PLS:77]

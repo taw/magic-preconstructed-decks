@@ -1,4 +1,5 @@
 // NAME: Ravnica: City of Guilds Redemption
+// SOURCE: default database query
 // DATE: 2005-10-07
 1 Agrus Kos, Wojek Veteran [RAV:190]
 1 Auratouched Mage [RAV:1]

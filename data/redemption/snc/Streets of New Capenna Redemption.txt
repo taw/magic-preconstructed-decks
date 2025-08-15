@@ -1,4 +1,5 @@
 // NAME: Streets of New Capenna Redemption
+// SOURCE: default database query
 // DATE: 2022-04-29
 1 A Little Chat [SNC:47]
 1 All-Seeing Arbiter [SNC:34]

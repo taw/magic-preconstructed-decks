@@ -1,4 +1,5 @@
 // NAME: Dragons of Tarkir Redemption
+// SOURCE: default database query
 // DATE: 2015-03-27
 1 Acid-Spewer Dragon [DTK:86]
 1 Aerie Bowmasters [DTK:170]

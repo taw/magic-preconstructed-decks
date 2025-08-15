@@ -1,4 +1,5 @@
-// NAME: The Lost Caverns of Ixalan Redemption
+// NAME: The Lost Caverns of Ixalan Foil Redemption
+// SOURCE: default database query
 // DATE: 2023-11-17
 1 Abrade [LCI:131] [foil]
 1 Abuelo's Awakening [LCI:1] [foil]

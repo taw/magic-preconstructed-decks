@@ -1,4 +1,5 @@
-// NAME: Core Set 2019 Redemption
+// NAME: Core Set 2019 Foil Redemption
+// SOURCE: default database query
 // DATE: 2018-07-13
 1 Abnormal Endurance [M19:85] [foil]
 1 Act of Treason [M19:127] [foil]

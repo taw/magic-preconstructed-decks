@@ -1,4 +1,5 @@
 // NAME: Dominaria Redemption
+// SOURCE: default database query
 // DATE: 2018-04-27
 1 Academy Drake [DOM:40]
 1 Academy Journeymage [DOM:41]

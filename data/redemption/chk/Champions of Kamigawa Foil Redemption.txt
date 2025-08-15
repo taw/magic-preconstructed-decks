@@ -1,4 +1,5 @@
-// NAME: Champions of Kamigawa Redemption
+// NAME: Champions of Kamigawa Foil Redemption
+// SOURCE: default database query
 // DATE: 2004-10-01
 1 Akki Avalanchers [CHK:151] [foil]
 1 Akki Coalflinger [CHK:152] [foil]

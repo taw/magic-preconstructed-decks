@@ -1,4 +1,5 @@
-// NAME: Gatecrash Redemption
+// NAME: Gatecrash Foil Redemption
+// SOURCE: default database query
 // DATE: 2013-02-01
 1 Act of Treason [GTC:85] [foil]
 1 Adaptive Snapjaw [GTC:113] [foil]

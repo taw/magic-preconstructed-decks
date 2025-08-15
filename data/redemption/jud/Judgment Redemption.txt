@@ -1,4 +1,5 @@
 // NAME: Judgment Redemption
+// SOURCE: default database query
 // DATE: 2002-05-27
 1 Ancestor's Chosen [JUD:1]
 1 Anger [JUD:77]

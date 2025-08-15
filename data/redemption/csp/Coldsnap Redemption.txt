@@ -1,4 +1,5 @@
 // NAME: Coldsnap Redemption
+// SOURCE: default database query
 // DATE: 2006-07-21
 1 Adarkar Valkyrie [CSP:1]
 1 Adarkar Windform [CSP:26]

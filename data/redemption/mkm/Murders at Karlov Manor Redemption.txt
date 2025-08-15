@@ -1,4 +1,5 @@
 // NAME: Murders at Karlov Manor Redemption
+// SOURCE: default database query
 // DATE: 2024-02-09
 1 A Killer Among Us [MKM:167]
 1 Absolving Lammasu [MKM:2]

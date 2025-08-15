@@ -1,4 +1,5 @@
-// NAME: Fate Reforged Redemption
+// NAME: Fate Reforged Foil Redemption
+// SOURCE: default database query
 // DATE: 2015-01-23
 1 Abzan Advantage [FRF:2] [foil]
 1 Abzan Beastmaster [FRF:119] [foil]

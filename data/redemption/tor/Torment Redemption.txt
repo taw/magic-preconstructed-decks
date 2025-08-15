@@ -1,4 +1,5 @@
 // NAME: Torment Redemption
+// SOURCE: default database query
 // DATE: 2002-02-04
 1 Accelerate [TOR:90]
 1 Acorn Harvest [TOR:118]

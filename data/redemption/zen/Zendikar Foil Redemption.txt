@@ -1,4 +1,5 @@
-// NAME: Zendikar Redemption
+// NAME: Zendikar Foil Redemption
+// SOURCE: database query with -number:/a/
 // DATE: 2009-10-02
 1 Adventuring Gear [ZEN:195] [foil]
 1 Aether Figment [ZEN:40] [foil]
