@@ -32,12 +32,20 @@ class ValidateMetadata
         warn "#{relative_path}: no source provided"
       end
       if title_from_file.tr("/", "-") != title_from_path
-        warn "#{relative_path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
+        if normalize(title_from_file.tr("/", "-")) == normalize(title_from_path)
+          warn "#{relative_path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect} (special characters only)"
+        else
+          warn "#{relative_path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
+        end
       end
       if title_from_file == title_from_file.upcase
         warn "#{relative_path}: All capital title"
       end
     end
+  end
+
+  def normalize(title)
+    title.gsub(/:|!|,|'/, "")
   end
 end
 
