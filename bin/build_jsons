@@ -30,6 +30,7 @@ class BuildJsons
       cards: deck.sections,
       source: deck.source,
       display: deck.display,
+      languages: deck.languages,
     }.compact
     @decks << deck_data
   end

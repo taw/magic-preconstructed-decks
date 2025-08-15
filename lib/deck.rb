@@ -1,5 +1,5 @@
 class Deck
-  attr_reader :path, :release_date, :source, :display, :sections
+  attr_reader :path, :release_date, :source, :display, :sections, :languages
 
   def initialize(path)
     @path = path
@@ -12,6 +12,7 @@ class Deck
     @release_date = nil if @release_date == "-"
     @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
     @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.join("\n")
+    @languages = meta_lines.map{|x| x[%r[^\s*//\s*LANGUAGES?:\s*(.*)], 1] }.compact.first
 
     section_name = "Main Deck"
 
