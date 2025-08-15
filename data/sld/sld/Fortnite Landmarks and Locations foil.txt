@@ -1,4 +1,4 @@
-// NAME: Secret Lair x FORTNITE: Landmarks and Locations Foil Edition
+// NAME: FORTNITE: Landmarks and Locations Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/763877
 // DATE: 2022-09-02
 1 [SLD:448] Plains [foil]

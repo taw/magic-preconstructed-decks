@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Blood Bowl Foil Edition
+// NAME: Blood Bowl Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/771997
 // DATE: 2022-12-05
 1 [SLD:1035] Approach of the Second Sun [foil]

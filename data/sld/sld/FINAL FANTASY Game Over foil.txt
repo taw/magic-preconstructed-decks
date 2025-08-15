@@ -1,4 +1,4 @@
-// NAME: Secret Lair x FINAL FANTASY: Game Over EN Foil Edition
+// NAME: FINAL FANTASY: Game Over EN Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245650
 // DATE: 2025-06-10
 1 [SLD:1858] Day of Judgment [foil]

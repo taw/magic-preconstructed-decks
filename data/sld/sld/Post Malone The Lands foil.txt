@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Post Malone: The Lands Foil Edition
+// NAME: Post Malone: The Lands Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/772016
 // DATE: 2022-12-05
 1 [SLD:1190] Plains [foil]

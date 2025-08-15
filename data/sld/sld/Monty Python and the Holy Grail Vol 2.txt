@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Monty Python and the Holy Grail: Vol. 2
+// NAME: Monty Python and the Holy Grail: Vol. 2
 // SOURCE: https://secretlair.wizards.com/us/product/1002031
 // DATE: 2024-07-30
 1 [SLD:1678] Door to Nothingness

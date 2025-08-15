@@ -1,4 +1,4 @@
-// NAME: Secret Lair x FINAL FANTASY: Weapons EN
+// NAME: FINAL FANTASY: Weapons EN
 // SOURCE: https://secretlair.wizards.com/us/product/1245643
 // DATE: 2025-06-10
 1 [SLD:1863] Staff of the Storyteller

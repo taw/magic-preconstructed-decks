@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Deadpool
+// NAME: Marvel's Deadpool
 // SOURCE: https://secretlair.wizards.com/us/product/1151231
 // DATE: 2025-04-02
 1 [SLD:1753] Deadpool, Trading Card

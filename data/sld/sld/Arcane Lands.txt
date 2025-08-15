@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Arcane: Lands
+// NAME: Arcane: Lands
 // SOURCE: https://secretlair.wizards.com/us/product/696671
 // DATE: 2022-05-06
 1 [SLD:484] Plains

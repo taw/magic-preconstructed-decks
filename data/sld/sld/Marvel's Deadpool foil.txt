@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Deadpool Foil Edition
+// NAME: Marvel's Deadpool Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151230
 // DATE: 2025-04-02
 1 [SLD:1753] Deadpool, Trading Card [foil]

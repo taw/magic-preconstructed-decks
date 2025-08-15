@@ -1,4 +1,4 @@
-// NAME: Secret Lair x FORTNITE: Landmarks and Locations
+// NAME: FORTNITE: Landmarks and Locations
 // SOURCE: https://secretlair.wizards.com/us/product/763880
 // DATE: 2022-09-02
 1 [SLD:448] Plains

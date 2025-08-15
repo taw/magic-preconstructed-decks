@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Sonic: Chasing Adventure Foil Edition
+// NAME: Sonic: Chasing Adventure Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161303
 // DATE: 2025-08-08
 1 [SLD:2088] Generous Gift [foil]

@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Wolverine
+// NAME: Marvel's Wolverine
 // SOURCE: https://secretlair.wizards.com/us/product/1018562
 // DATE: 2024-11-05
 1 [SLD:1737] Wolverine, Best There Is

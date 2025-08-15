@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Captain America Foil Edition
+// NAME: Marvel's Captain America Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018557
 // DATE: 2024-11-05
 1 [SLD:1726] Captain America, First Avenger [foil]

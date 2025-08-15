@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Sonic: Chasing Adventure
+// NAME: Sonic: Chasing Adventure
 // SOURCE: https://secretlair.wizards.com/us/product/1161304
 // DATE: 2025-08-08
 1 [SLD:2088] Generous Gift

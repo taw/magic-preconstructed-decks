@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Warhammer 40,000: Orks Foil Edition
+// NAME: Warhammer 40,000: Orks Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/771993
 // DATE: 2022-12-05
 1 [SLD:1025] Merciless Executioner [foil]

@@ -1,4 +1,4 @@
-// NAME: Secret Lair x KEXP: You Are Not Alone Foil Edition
+// NAME: KEXP: You Are Not Alone Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161301
 // DATE: 2025-05-13
 1 [SLD:2071] Cultural Exchange [foil]

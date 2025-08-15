@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Brain Dead: Staples
+// NAME: Brain Dead: Staples
 // SOURCE: https://secretlair.wizards.com/us/product/1002035
 // DATE: 2024-07-30
 1 [SLD:1662] Lightning Greaves

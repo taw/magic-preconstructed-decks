@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Iron Man Foil Edition
+// NAME: Marvel's Iron Man Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018559
 // DATE: 2024-11-05
 1 [SLD:1731] Iron Man, Titan of Innovation [foil]

@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Stranger Things
+// NAME: Stranger Things
 // SOURCE: https://secretlair.wizards.com/us/product/687521
 // DATE: 2022-01-28
 1 [SLD:340] Arvinox, the Mind Flail

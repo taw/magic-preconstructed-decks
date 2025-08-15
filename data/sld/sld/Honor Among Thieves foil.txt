@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Dungeons & Dragons: Honor Among Thieves Foil Edition
+// NAME: Dungeons & Dragons: Honor Among Thieves Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/813129
 // DATE: 2023-03-31
 1 [SLD:1237] Xenk, Paladin Unbroken [foil]

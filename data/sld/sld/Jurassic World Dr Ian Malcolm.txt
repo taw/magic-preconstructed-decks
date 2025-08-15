@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Jurassic World: Dr. Ian Malcolm
+// NAME: Jurassic World: Dr. Ian Malcolm
 // SOURCE: https://secretlair.wizards.com/us/product/879327
 // DATE: 2023-12-05
 1 [SLD:1394] Laboratory Maniac

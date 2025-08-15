@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Assassin's Creed: Da Vinci's Designs
+// NAME: Assassin's Creed: Da Vinci's Designs
 // SOURCE: https://secretlair.wizards.com/us/product/1001706
 // DATE: 2024-07-10
 1 [SLD:1570] Blade of Selves

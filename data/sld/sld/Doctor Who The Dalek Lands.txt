@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Doctor Who: The Dalek Lands
+// NAME: Doctor Who: The Dalek Lands
 // SOURCE: https://secretlair.wizards.com/us/product/872685
 // DATE: 2023-12-18
 1 [SLD:1372] Concealed Courtyard

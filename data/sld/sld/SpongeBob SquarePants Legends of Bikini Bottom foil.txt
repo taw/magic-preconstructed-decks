@@ -1,4 +1,4 @@
-// NAME: Secret Lair x SpongeBob SquarePants: Legends of Bikini Bottom Foil Edition
+// NAME: SpongeBob SquarePants: Legends of Bikini Bottom Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151490
 // DATE: 2025-03-25
 1 [SLD:1926] Skrelv, Defector Mite [foil]

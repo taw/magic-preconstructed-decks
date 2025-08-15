@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Doctor Who: The Weeping Angels
+// NAME: Doctor Who: The Weeping Angels
 // SOURCE: https://secretlair.wizards.com/us/product/872683
 // DATE: 2023-12-18
 1 [SLD:1377] Angel of Serenity

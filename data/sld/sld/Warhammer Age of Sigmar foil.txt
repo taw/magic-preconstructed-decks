@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Warhammer Age of Sigmar Foil Edition
+// NAME: Warhammer Age of Sigmar Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/771995
 // DATE: 2022-12-05
 1 [SLD:1030] Blind Obedience [foil]

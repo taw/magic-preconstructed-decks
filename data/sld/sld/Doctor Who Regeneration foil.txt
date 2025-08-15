@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Doctor Who: Regeneration Foil Edition
+// NAME: Doctor Who: Regeneration Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/923725
 // DATE: 2024-04-09
 1 [SLD:1580] Rose Noble [foil]

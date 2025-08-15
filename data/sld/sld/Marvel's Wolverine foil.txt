@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Wolverine Foil Edition
+// NAME: Marvel's Wolverine Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018561
 // DATE: 2024-11-05
 1 [SLD:1737] Wolverine, Best There Is [foil]

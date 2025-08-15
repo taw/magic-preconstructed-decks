@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Ghostbusters: The Real Ghostbusters
+// NAME: Ghostbusters: The Real Ghostbusters
 // SOURCE: https://secretlair.wizards.com/us/product/1018455
 // DATE: 2024-10-01
 1 [SLD:1768] Careful Study

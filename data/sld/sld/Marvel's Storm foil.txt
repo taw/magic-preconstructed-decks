@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Storm Foil Edition
+// NAME: Marvel's Storm Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018563
 // DATE: 2024-11-05
 1 [SLD:1742] Storm, Force of Nature [foil]

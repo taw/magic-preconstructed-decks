@@ -1,4 +1,4 @@
-// NAME: Secret Lair x KEXP: You Are Not Alone
+// NAME: KEXP: You Are Not Alone
 // SOURCE: https://secretlair.wizards.com/us/product/1161302
 // DATE: 2025-05-13
 1 [SLD:2071] Cultural Exchange

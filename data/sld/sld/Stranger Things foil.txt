@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Stranger Things Foil Edition
+// NAME: Stranger Things Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/687520
 // DATE: 2022-01-28
 1 [SLD:340] Arvinox, the Mind Flail [foil]

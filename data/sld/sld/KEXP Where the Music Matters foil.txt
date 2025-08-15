@@ -1,4 +1,4 @@
-// NAME: Secret Lair x KEXP: Where the Music Matters® Foil Edition
+// NAME: KEXP: Where the Music Matters Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161299
 // DATE: 2025-05-13
 2 [SLD:2076] Plains [foil]

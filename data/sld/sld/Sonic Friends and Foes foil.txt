@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Sonic: Friends & Foes Foil Edition
+// NAME: Sonic: Friends & Foes Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1161305
 // DATE: 2025-08-08
 1 [SLD:2081] Super State [foil]

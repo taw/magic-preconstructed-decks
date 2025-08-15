@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Tomb Raider Foil Edition
+// NAME: Tomb Raider Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/879322
 // DATE: 2023-12-05
 1 [SLD:1501] Lara Croft, Tomb Raider [foil]

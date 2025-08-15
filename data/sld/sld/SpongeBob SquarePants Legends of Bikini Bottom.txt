@@ -1,4 +1,4 @@
-// NAME: Secret Lair x SpongeBob SquarePants: Legends of Bikini Bottom
+// NAME: SpongeBob SquarePants: Legends of Bikini Bottom
 // SOURCE: https://secretlair.wizards.com/us/product/1151491
 // DATE: 2025-03-25
 1 [SLD:1926] Skrelv, Defector Mite

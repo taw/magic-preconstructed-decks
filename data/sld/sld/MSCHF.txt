@@ -1,4 +1,4 @@
-// NAME: Secret Lair x MSCHF
+// NAME: MSCHF
 // SOURCE: https://secretlair.wizards.com/us/product/696840
 // DATE: 2022-02-04
 // DISPLAY: This drop featured diffent styles of foil finishes, so not all cards are etched, despite the name.

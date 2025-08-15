@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Tomb Raider
+// NAME: Tomb Raider
 // SOURCE: https://secretlair.wizards.com/us/product/879323
 // DATE: 2023-12-05
 1 [SLD:1501] Lara Croft, Tomb Raider

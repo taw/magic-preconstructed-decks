@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Brain Dead: Lands
+// NAME: Brain Dead: Lands
 // SOURCE: https://secretlair.wizards.com/us/product/1002039
 // DATE: 2024-07-30
 1 [SLD:1647] Plains

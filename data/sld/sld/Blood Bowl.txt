@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Blood Bowl
+// NAME: Blood Bowl
 // SOURCE: https://secretlair.wizards.com/us/product/771998
 // DATE: 2022-12-05
 1 [SLD:1035] Approach of the Second Sun

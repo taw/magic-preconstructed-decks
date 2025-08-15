@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Creepshow
+// NAME: Creepshow
 // SOURCE: https://secretlair.wizards.com/us/product/872679
 // DATE: 2023-11-30
 1 [SLD:1458a] Death Baron

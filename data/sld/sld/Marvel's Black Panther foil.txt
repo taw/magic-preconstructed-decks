@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Black Panther Foil Edition
+// NAME: Marvel's Black Panther Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018565
 // DATE: 2024-11-05
 1 [SLD:1747] Black Panther, Wakandan King [foil]

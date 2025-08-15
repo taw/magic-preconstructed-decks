@@ -1,4 +1,4 @@
-// NAME: Secret Lair x KEXP: Where the Music Matters®
+// NAME: KEXP: Where the Music Matters
 // SOURCE: https://secretlair.wizards.com/us/product/1161300
 // DATE: 2025-05-13
 2 [SLD:2076] Plains
