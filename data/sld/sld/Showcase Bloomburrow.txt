@@ -1,4 +1,4 @@
-// NAME: Showcase: Bloomburrow™
+// NAME: Showcase: Bloomburrow
 // SOURCE: https://secretlair.wizards.com/us/product/1002033
 // DATE: 2024-07-30
 1 [SLD:1698] Sorin Markov

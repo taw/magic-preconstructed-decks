@@ -1,4 +1,4 @@
-// NAME: More Adventures in Middle-earth™ Foil Edition
+// NAME: More Adventures in Middle-earth Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/835849
 // DATE: 2023-08-29
 1 [SLD:1293] Slip On the Ring [foil]

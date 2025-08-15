@@ -1,4 +1,4 @@
-// NAME: Pick ‘em & Stick ‘em Foil Edition
+// NAME: Pick 'em & Stick 'em Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151496
 // DATE: 2025-03-25
 1 [SLD:1428] Thalia, Heretic Cathar [foil]

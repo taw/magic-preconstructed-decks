@@ -1,4 +1,4 @@
-// NAME: Fallout: S.P.E.C.I.A.L.
+// NAME: Fallout: SPECIAL
 // SOURCE: https://secretlair.wizards.com/us/product/928727
 // DATE: 2024-04-15
 1 [SLD:1632] Steelshaper's Gift

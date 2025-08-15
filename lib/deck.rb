@@ -1,5 +1,5 @@
 class Deck
-  attr_reader :path, :release_date, :source, :display, :sections, :languages
+  attr_reader :path, :release_date, :source, :display, :sections, :languages, :name
 
   def initialize(path)
     @path = path
@@ -10,6 +10,7 @@ class Deck
     meta_lines = lines.grep(%r[^\s*/])
     @release_date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)], 1] }.compact.first
     @release_date = nil if @release_date == "-"
+    @name = meta_lines.map{|x| x[%r[^\s*//\s*NAME:\s*(.*)], 1] }.compact.first
     @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
     @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.join("\n")
     @languages = meta_lines.map{|x| x[%r[^\s*//\s*LANGUAGES?:\s*(.*)], 1] }.compact.first
@@ -29,44 +30,44 @@ class Deck
         target = "Commander"
       end
 
-      count, name = line.split(" ", 2)
-      if name == nil
+      count, card_name = line.split(" ", 2)
+      if card_name == nil
         raise("Failed card definition for #{line}")
       end
-      name = name.sub(/\s*\*+\z/, "")
+      card_name = card_name.sub(/\s*\*+\z/, "")
       foil = nil
       set = nil
       number = nil
       token = nil
       etched = nil
 
-      if name.sub!(/\[foil\]/i, "")
+      if card_name.sub!(/\[foil\]/i, "")
         foil = true
       end
 
-      if name.sub!(/\[etched\]/i, "")
+      if card_name.sub!(/\[etched\]/i, "")
         etched = true
       end
 
-      if name.sub!(/\[token\]/i, "")
+      if card_name.sub!(/\[token\]/i, "")
         token = true
       end
 
-      if name.sub!(/\[(.*?):(.*?)\]/, "")
+      if card_name.sub!(/\[(.*?):(.*?)\]/, "")
         set = $1
         number = $2
-      elsif name.sub!(/\[([^:]+?)\]/, "")
+      elsif card_name.sub!(/\[([^:]+?)\]/, "")
         set = $1
       end
 
-      name.strip!
+      card_name.strip!
 
-      if name.empty?
+      if card_name.empty?
         raise("Cannot parse line: #{line}")
       end
 
       add_card(target,
-        name: name,
+        name: card_name,
         count: count.to_i,
         set: set,
         number: number,

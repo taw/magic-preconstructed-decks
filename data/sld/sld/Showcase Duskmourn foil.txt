@@ -1,4 +1,4 @@
-// NAME: Showcase: Duskmourn™ Foil Edition
+// NAME: Showcase: Duskmourn Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1018460
 // DATE: 2024-10-01
 1 [SLD:1758] Phyrexian Metamorph [foil]

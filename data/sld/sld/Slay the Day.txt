@@ -1,4 +1,4 @@
-// NAME: Secret Lair Drop Slay the Day
+// NAME: Slay the Day
 // SOURCE: https://secretlair.wizards.com/us/en/product/1245182/festival-in-a-box-las-vegas-2025
 // DATE: 2025-05-19
 1 [SLD:1960] Marwyn, the Nurturer [foil]
