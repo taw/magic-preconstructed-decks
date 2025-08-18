@@ -1,4 +1,4 @@
-// NAME: The Plague - Enchanced Deck
+// NAME: The Plague - Enhanced Deck
 // SOURCE: https://www.mtggoldfish.com/deck/5774086
 // DATE: 1998-10-12
 4 Disciple of Grace
