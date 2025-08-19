@@ -1,4 +1,4 @@
-// NAME: Showcase: Zendikar Revisited - Regular
+// NAME: Showcase: Zendikar Revisited
 // SOURCE: https://secretlair.wizards.com/us/product/611993
 // DATE: 2020-09-25
 // DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:518] Nissa, [SLD:532] Kiora, or [SLD:533] Nahiri

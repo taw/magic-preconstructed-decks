@@ -36,9 +36,8 @@ class BuildJsons
   end
 
   def validate_and_add_deck(path, deck)
-    name_from_file = path.basename(".txt").to_s.gsub(/(?<! )- /, ': ')
-    name_from_metadata = deck.name
-    name = reconcile_name(path, name_from_file, name_from_metadata)
+    name = deck.name
+    verify_file_name_matched_deck_name(path, deck.name)
     set_code = path.parent.basename.to_s.sub(/_\z/, "")
     deck_type = path.parent.parent.basename.to_s
     set_name = MagicSets[set_code]
@@ -55,25 +54,24 @@ class BuildJsons
     end
   end
 
-  def reconcile_name(path, name_from_file, name_from_metadata)
-    if name_from_metadata =~ /™|®|Secret Lair x|Secret Lair Drop|"|<|>|‘|S\.P\.E\.C\.I\.A\.L\./
-      warn "Name #{name_from_metadata} is terrible"
-      return name_from_file
+  # The only difference is that we use "- " to represent ": "
+  # to avoid illegal Windows character that needs to appear in a lot of deck names
+  # Other than that, they should all match
+  def verify_file_name_matched_deck_name(path, deck_name)
+    name_from_file = path.basename(".txt").to_s.gsub(/(?<! )- /, ': ')
+
+    if deck_name =~ /™|®|Secret Lair x|Secret Lair Drop|"|<|>|‘|S\.P\.E\.C\.I\.A\.L\./
+      warn "Name #{deck_name} contains broken characters or phrases"
     end
 
-    if name_from_file == name_from_metadata
-      return name_from_metadata
-    end
+    return if name_from_file == deck_name
 
-    if name_from_metadata.tr(":!',", "").sub(/ Foil Edition\z/, " foil").sub(/ Foil Etched Edition\z/, " etched") == name_from_file.tr("'", "")
-      new_filename = path.dirname + (name_from_metadata.gsub(/(?<! ): /, '- ') + ".txt")
-      puts "git mv #{path.to_s.inspect} #{new_filename.to_s.inspect}"
+    pwd = Pathname.pwd
+    new_path = path.dirname + (deck_name.gsub(/(?<! ): /, '- ') + ".txt")
+    # pretty stupid regexps to make shell deal with weird characters but keep it semi-readable
+    puts "git mv '#{path.relative_path_from(pwd).to_s.gsub("'", %q('"'"'))}' '#{new_path.relative_path_from(pwd).to_s.gsub("'", %q('"'"'))}'"
 
-      return name_from_metadata
-    end
-
-    warn "NAME MISMATCH: #{name_from_file.inspect} #{name_from_metadata.inspect}"
-    name_from_file
+    deck_name
   end
 
   def save_jsons(out)

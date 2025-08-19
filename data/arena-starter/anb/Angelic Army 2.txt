@@ -1,4 +1,4 @@
-// NAME: Angelic Army
+// NAME: Angelic Army 2
 // SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DISPLAY: This version of the deck is unlocked through the Color Challenge system
 // DATE: 2020-03-12

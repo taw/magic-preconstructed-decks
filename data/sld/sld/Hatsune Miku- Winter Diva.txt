@@ -1,4 +1,4 @@
-// NAME: Hatsune Miku: Winter Diva EN
+// NAME: Hatsune Miku: Winter Diva
 // SOURCE: https://secretlair.wizards.com/us/product/1151104
 // DATE: 2025-02-11
 1 [SLD:1586] Giada, Font of Hope

@@ -1,4 +1,4 @@
-// NAME: Chandra English
+// NAME: Chandra Japanese
 // SOURCE: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
 // DATE: 2008-11-07
 // LANGUAGES: jp

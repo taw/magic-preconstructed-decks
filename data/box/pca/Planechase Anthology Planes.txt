@@ -1,4 +1,4 @@
-// NAME: Planechase Anthology Plane Deck
+// NAME: Planechase Anthology Planes
 // SOURCE: https://magic.wizards.com/en/news/feature/planechase-anthology-celebration-magics-history-2016-11-14
 // DATE: 2016-11-25
 1 Chaotic Aether [opca]

@@ -1,4 +1,4 @@
-// NAME: Nuestra Magia EN
+// NAME: Nuestra Magia
 // SOURCE: https://secretlair.wizards.com/us/product/1245720
 // DATE: 2025-06-17
 1 [SLD:2057] Tireless Provisioner

@@ -1,4 +1,4 @@
-// NAME: Hatsune Miku: Winter Diva EN Foil Edition
+// NAME: Hatsune Miku: Winter Diva Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1151103
 // DATE: 2025-02-11
 1 [SLD:1586] Giada, Font of Hope [foil]

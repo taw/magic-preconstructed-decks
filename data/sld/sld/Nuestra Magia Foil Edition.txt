@@ -1,4 +1,4 @@
-// NAME: Nuestra Magia EN Foil Edition
+// NAME: Nuestra Magia Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245719
 // DATE: 2025-06-17
 1 [SLD:2057] Tireless Provisioner [foil]

@@ -1,4 +1,4 @@
-// NAME: Deck Builder's Toolkit Green White Convoke
+// NAME: Green White Convoke
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
 // DATE: 2014-07-18
 1 Seraph of the Masses

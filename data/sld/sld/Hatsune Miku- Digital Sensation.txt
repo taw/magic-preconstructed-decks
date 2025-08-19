@@ -1,4 +1,4 @@
-// NAME: Hatsune Miku: Digital Sensation EN
+// NAME: Hatsune Miku: Digital Sensation
 // SOURCE: https://secretlair.wizards.com/us/product/1001710
 // DATE: 2024-07-10
 1 [SLD:1592] Diabolic Tutor

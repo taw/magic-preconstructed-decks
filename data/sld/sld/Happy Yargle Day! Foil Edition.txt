@@ -1,4 +1,4 @@
-// NAME: Happy Yargle Day! - Foil
+// NAME: Happy Yargle Day! Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/611619
 // DATE: 2020-09-03
 // DISPLAY: Also includes one foil uncommon stained-glass planeswalker [SLD:501-537].

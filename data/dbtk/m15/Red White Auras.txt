@@ -1,4 +1,4 @@
-// NAME: Deck Builder's Toolkit Red White Auras
+// NAME: Red White Auras
 // SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
 // DATE: 2014-07-18
 1 Brood Keeper

@@ -1,4 +1,4 @@
-// NAME: Hatsune Miku: Sakura Superstar EN
+// NAME: Hatsune Miku: Sakura Superstar
 // SOURCE: https://secretlair.wizards.com/us/product/965728
 // DATE: 2024-05-30
 1 [SLD:1587] Shelter
