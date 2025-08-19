@@ -36,9 +36,9 @@ class BuildJsons
   end
 
   def validate_and_add_deck(path, deck)
-    name_from_file = path.basename(".txt").to_s
+    name_from_file = path.basename(".txt").to_s.gsub(/(?<! )- /, ': ')
     name_from_metadata = deck.name
-    name = reconcile_name(name_from_file, name_from_metadata)
+    name = reconcile_name(path, name_from_file, name_from_metadata)
     set_code = path.parent.basename.to_s.sub(/_\z/, "")
     deck_type = path.parent.parent.basename.to_s
     set_name = MagicSets[set_code]
@@ -55,7 +55,7 @@ class BuildJsons
     end
   end
 
-  def reconcile_name(name_from_file, name_from_metadata)
+  def reconcile_name(path, name_from_file, name_from_metadata)
     if name_from_metadata =~ /™|®|Secret Lair x|Secret Lair Drop|"|<|>|‘|S\.P\.E\.C\.I\.A\.L\./
       warn "Name #{name_from_metadata} is terrible"
       return name_from_file
@@ -66,7 +66,9 @@ class BuildJsons
     end
 
     if name_from_metadata.tr(":!',", "").sub(/ Foil Edition\z/, " foil").sub(/ Foil Etched Edition\z/, " etched") == name_from_file.tr("'", "")
-      warn "Deck Renamed: #{name_from_file.inspect} -> #{name_from_metadata.inspect}"
+      new_filename = path.dirname + (name_from_metadata.gsub(/(?<! ): /, '- ') + ".txt")
+      puts "git mv #{path.to_s.inspect} #{new_filename.to_s.inspect}"
+
       return name_from_metadata
     end
 
