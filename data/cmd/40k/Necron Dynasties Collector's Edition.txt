@@ -74,3 +74,6 @@ COMMANDER: 1 Szarekh, the Silent King [40k:1] [foil]
 1 Skorpekh Destroyer [40k:57★] [foil]
 1 Triarch Praetorian [40k:66★] [foil]
 1 Night Scythe [40k:162★] [foil]
+
+Display Commander
+1 Szarekh, the Silent King [40k:318] [foil]

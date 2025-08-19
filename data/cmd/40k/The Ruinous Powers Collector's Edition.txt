@@ -80,3 +80,6 @@ COMMANDER: 1 Abaddon the Despoiler [40k:2] [foil]
 1 Noise Marine [40k:82★] [foil]
 1 Seeker of Slaanesh [40k:85★] [foil]
 1 The Lost and the Damned [40k:129★] [foil]
+
+Display Commander
+1 Abaddon the Despoiler [40k:319] [foil]
