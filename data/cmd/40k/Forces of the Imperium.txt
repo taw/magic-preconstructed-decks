@@ -84,3 +84,6 @@ COMMANDER: 1 Inquisitor Greyfax [40K:173] [foil]
 1 Sanguinary Priest
 1 Deny the Witch
 1 Primaris Chaplain
+
+Display Commander
+1 Inquisitor Greyfax [40k:179] [foil]

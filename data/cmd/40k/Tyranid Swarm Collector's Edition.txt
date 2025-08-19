@@ -82,3 +82,6 @@ COMMANDER: 1 The Swarmlord [40k:4] [foil]
 1 Trygon Prime [40k:143★] [foil]
 1 Venomthrope [40k:147★] [foil]
 1 Goliath Truck [40k:158★] [foil]
+
+Display Commander
+1 The Swarmlord [40k:321] [foil]
