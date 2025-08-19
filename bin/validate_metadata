@@ -15,7 +15,7 @@ class ValidateMetadata
     deck_files.each do |path|
       relative_path = path.relative_path_from(@data_root)
 
-      title_from_path = path.basename(".txt").to_s
+      title_from_path = path.basename(".txt").to_s.gsub(/(?<! )- /, ': ')
       title_from_file = nil
       source = []
       comment_lines = path.readlines.map(&:chomp).grep(%r[\A//])
