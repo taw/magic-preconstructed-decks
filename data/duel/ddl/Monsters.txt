@@ -29,8 +29,11 @@
 2 Volt Charge
 1 Dragon Blood
 1 Fires of Yavimaya
-11 Forest
+11 Forest [DDL:*]
 2 Kazandu Refuge
 2 Llanowar Reborn
-10 Mountain
+3 Mountain [DDL:74]
+3 Mountain [DDL:75]
+2 Mountain [DDL:76]
+2 Mountain [DDL:77]
 1 Skarrg, the Rage Pits

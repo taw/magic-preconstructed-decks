@@ -34,6 +34,9 @@
 1 Ordeal of Purphoros
 1 Undying Rage
 2 Boros Guildgate
-11 Mountain
+3 Mountain [DDL:35]
+3 Mountain [DDL:36]
+3 Mountain [DDL:37]
+2 Mountain [DDL:38]
 2 New Benalia
-9 Plains
+9 Plains [DDL:*]
