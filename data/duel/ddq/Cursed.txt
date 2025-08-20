@@ -31,5 +31,7 @@
 1 Forbidden Alchemy
 1 Cobbled Wings
 4 Dismal Backwater
-12 Swamp
-8 Island
+12 Swamp [DDQ:*]
+3 Island [DDQ:71]
+3 Island [DDQ:72]
+2 Island [DDQ:73]

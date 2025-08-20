@@ -35,5 +35,7 @@
 1 Bonds of Faith
 1 Seraph Sanctuary
 4 Tranquil Cove
-12 Plains
-7 Island
+12 Plains [DDQ:*]
+3 Island [DDQ:35]
+2 Island [DDQ:36]
+2 Island [DDQ:37]
