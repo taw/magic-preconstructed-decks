@@ -28,6 +28,6 @@
 1 Hurricane
 2 Barbed Sextant
 1 Elkin Bottle
-12 Mountain
-12 Forest
+12 Mountain [DKM:*]
+12 Forest [DKM:*]
 1 Karplusan Forest
