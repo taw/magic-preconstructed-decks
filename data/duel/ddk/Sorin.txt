@@ -34,6 +34,8 @@
 1 Field of Souls
 1 Mark of the Vampire
 2 Evolving Wilds
-9 Plains
-12 Swamp
+9 Plains [DDK:*]
+4 Swamp [DDK:35]
+4 Swamp [DDK:36]
+4 Swamp [DDK:37]
 2 Tainted Field

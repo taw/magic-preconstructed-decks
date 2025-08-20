@@ -32,9 +32,11 @@
 1 Goblin Bombardment
 2 Evolving Wilds
 1 Ghitu Encampment
-10 Mountain
-3 Plains
-6 Swamp
+4 Mountain [DDN:35]
+3 Mountain [DDN:36]
+3 Mountain [DDN:37]
+3 Plains [DDN:38]
+6 Swamp [DDN:*]
 1 Mardu Heart-Piercer
 1 Zurgo Helmsmasher [foil]
 2 Nomad Outpost
