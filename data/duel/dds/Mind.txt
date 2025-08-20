@@ -28,5 +28,7 @@
 2 Sift Through Sands
 1 Firemind's Foresight
 4 Swiftwater Cliffs
-10 Island
-10 Mountain
+10 Island [DDS:*]
+4 Mountain [DDS:31]
+3 Mountain [DDS:32]
+3 Mountain [DDS:33]
