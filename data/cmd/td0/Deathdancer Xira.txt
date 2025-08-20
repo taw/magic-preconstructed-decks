@@ -4,17 +4,19 @@
 COMMANDER: 1 Xira Arien
 1 Barren Moor
 1 Darigaaz's Caldera
-10 Forest
+10 Forest [TD0:*]
 1 Forgotten Cave
 1 Ghost Quarter
 1 Golgari Rot Farm
 1 Gruul Turf
 1 Jund Panorama
-7 Mountain
+3 Mountain [TD0:A151]
+2 Mountain [TD0:A152]
+2 Mountain [TD0:A153]
 1 Rakdos Carnarium
 1 Rupture Spire
 1 Savage Lands
-8 Swamp
+8 Swamp [TD0:*]
 1 Terramorphic Expanse
 1 Tranquil Thicket
 1 Abyssal Gatekeeper

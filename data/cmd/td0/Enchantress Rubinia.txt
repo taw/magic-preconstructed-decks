@@ -6,10 +6,12 @@ COMMANDER: 1 Rubinia Soulsinger
 1 Bant Panorama
 1 Coastal Tower
 1 Elfhame Palace
-10 Forest
-9 Island
+10 Forest [TD0:*]
+9 Island [TD0:*]
 1 Miren, the Moaning Well
-9 Plains
+3 Plains [TD0:A142]
+3 Plains [TD0:A143]
+3 Plains [TD0:A144]
 1 Rupture Spire
 1 Seaside Citadel
 1 Selesnya Sanctuary

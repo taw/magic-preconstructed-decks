@@ -16,7 +16,10 @@
 3 [TD0:B8] Oblivion Ring
 3 Karakas
 3 Flagstones of Trokair
-14 Plains
+4 Plains [TD0:B34]
+4 Plains [TD0:B35]
+3 Plains [TD0:B36]
+3 Plains [TD0:B37]
 2 Mishra's Factory
 
 Sideboard

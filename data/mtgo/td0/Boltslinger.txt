@@ -12,7 +12,10 @@
 4 Magma Jet
 4 Fireblast
 4 [TD0:B21] Lightning Bolt
-20 Mountain
+5 Mountain [TD0:B38]
+5 Mountain [TD0:B39]
+5 Mountain [TD0:B40]
+5 Mountain [TD0:B41]
 
 Sideboard
 3 Price of Progress
