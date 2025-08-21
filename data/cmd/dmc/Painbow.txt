@@ -81,11 +81,6 @@ COMMANDER: 1 Jared Carthalion [foil]
 1 Smoldering Marsh
 1 Sunken Hollow
 1 Terramorphic Expanse
-3 Forest [DMU:*]
-2 Mountain [DMU:*]
-2 Island [DMU:*]
-2 Plains [DMU:*]
-2 Swamp [DMU:*]
 1 Jenson Carthalion, Druid Exile
 1 Two-Headed Hellkite
 1 Tiller Engine
@@ -95,3 +90,8 @@ COMMANDER: 1 Jared Carthalion [foil]
 1 Mana Cannons
 1 Primeval Spawn
 1 Obsidian Obelisk
+3 Forest [DMU:274]
+2 Mountain [DMU:271]
+2 Island [DMU:265]
+2 Plains [DMU:262]
+2 Swamp [DMU:268]

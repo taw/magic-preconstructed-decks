@@ -83,6 +83,9 @@ COMMANDER: 1 Commodore Guff [foil]
 1 Forge of Heroes
 1 Interplanar Beacon
 1 Mystic Monastery
-7 Island
-4 Mountain
-7 Plains
+4 Island [CMM:788]
+3 Island [CMM:790]
+2 Mountain [CMM:794]
+2 Mountain [CMM:795]
+4 Plains [CMM:785]
+3 Plains [CMM:787]

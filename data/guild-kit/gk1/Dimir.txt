@@ -37,5 +37,5 @@
 4 Dimir Aqueduct
 2 Dimir Guildgate [GRN:245]
 2 Dimir Guildgate [GRN:246]
-8 Island
-8 Swamp
+8 Island [GK1:24]
+8 Swamp [GK1:25]

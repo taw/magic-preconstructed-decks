@@ -66,7 +66,7 @@ COMMANDER: 1 Cloud, Ex-SOLDIER [FIC:2] [foil]
 1 Zack Fair
 1 Barret Wallace
 1 Dispatch
-1 Secret Rendezvous [FIC:217]
+1 Secret Rendezvous [FIC:253]
 1 Furious Rise
 1 Vandalblast
 1 Cultivate

@@ -37,5 +37,5 @@
 4 Orzhov Basilica
 2 Orzhov Guildgate [RNA:252]
 2 Orzhov Guildgate [RNA:253]
-8 Plains
-8 Swamp
+8 Plains [GK2:50]
+8 Swamp [GK2:51]

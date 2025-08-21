@@ -35,5 +35,5 @@
 2 Simic Guildgate [RNA:257]
 2 Simic Guildgate [RNA:258]
 4 Simic Growth Chamber
-8 Island
-8 Forest
+8 Island [GK2:132]
+8 Forest [GK2:133]
