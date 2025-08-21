@@ -34,5 +34,5 @@
 2 Selesnya Guildgate [GRN:255]
 2 Selesnya Guildgate [GRN:256]
 4 Selesnya Sanctuary
-8 Plains
-8 Forest
+8 Plains [GK1:126]
+8 Forest [GK1:127]

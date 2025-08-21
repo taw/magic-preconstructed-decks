@@ -36,5 +36,5 @@
 2 Golgari Guildgate [GRN:248]
 2 Golgari Guildgate [GRN:249]
 4 Golgari Rot Farm
-8 Swamp
-8 Forest
+8 Swamp [GK1:75]
+8 Forest [GK1:76]

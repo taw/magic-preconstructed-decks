@@ -36,5 +36,5 @@
 2 Boros Guildgate [GRN:243]
 2 Boros Guildgate [GRN:244]
 1 Sunhome, Fortress of the Legion
-8 Mountain
-8 Plains
+8 Mountain [GK1:101]
+8 Plains [GK1:100]

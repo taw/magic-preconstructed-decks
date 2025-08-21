@@ -38,5 +38,5 @@
 4 Azorius Chancery
 2 Azorius Guildgate [RNA:243]
 2 Azorius Guildgate [RNA:244]
-8 Plains
-8 Island
+8 Plains [GK2:26]
+8 Island [GK2:27]

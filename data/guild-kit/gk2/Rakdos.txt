@@ -37,5 +37,5 @@
 4 Rakdos Carnarium
 2 Rakdos Guildgate [RNA:255]
 2 Rakdos Guildgate [RNA:256]
-8 Swamp
-8 Mountain
+8 Swamp [GK2:78]
+8 Mountain [GK2:79]

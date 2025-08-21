@@ -37,5 +37,5 @@
 2 Gruul Guildgate [RNA:249]
 2 Gruul Guildgate [RNA:250]
 4 Gruul Turf
-8 Mountain
-8 Forest
+8 Mountain [GK2:105]
+8 Forest [GK2:106]

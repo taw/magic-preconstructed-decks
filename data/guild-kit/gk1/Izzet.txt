@@ -36,5 +36,5 @@
 4 Izzet Boilerworks
 2 Izzet Guildgate [GRN:251]
 2 Izzet Guildgate [GRN:252]
-8 Island
-8 Mountain
+8 Island [GK1:48]
+8 Mountain [GK1:49]
