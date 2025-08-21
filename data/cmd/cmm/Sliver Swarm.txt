@@ -90,8 +90,8 @@ COMMANDER: 1 Sliver Gravemother [foil]
 1 Seaside Citadel
 1 Secluded Courtyard
 1 Unclaimed Territory
-2 Plains
-2 Island
-2 Swamp
-2 Mountain
-3 Forest
+2 Plains [CMM:786]
+2 Island [CMM:789]
+2 Swamp [CMM:793]
+2 Mountain [CMM:796]
+3 Forest [CMM:799]
