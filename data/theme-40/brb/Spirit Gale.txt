@@ -24,7 +24,13 @@
 1 Swords to Plowshares
 1 Control Magic
 1 Flood
-9 Island
-6 Plains
 1 Remote Isle
 1 Thalakos Lowlands
+2 Island [BRB:110]
+1 Island [BRB:111]
+2 Island [BRB:112]
+2 Island [BRB:113]
+2 Island [BRB:114]
+2 Plains [BRB:126]
+2 Plains [BRB:130]
+2 Plains [BRB:131]

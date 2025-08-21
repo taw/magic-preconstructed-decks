@@ -24,7 +24,17 @@
 1 Symbiosis
 1 Broken Fall
 1 Maniacal Rage
-9 Forest
 1 Mogg Hollows
-6 Mountain
 1 Slippery Karst
+1 Forest [BRB:101]
+2 Forest [BRB:104]
+2 Forest [BRB:106]
+1 Forest [BRB:107]
+1 Forest [BRB:108]
+2 Forest [BRB:109]
+1 Mountain [BRB:116]
+1 Mountain [BRB:118]
+1 Mountain [BRB:120]
+1 Mountain [BRB:121]
+1 Mountain [BRB:122]
+1 Mountain [BRB:123]

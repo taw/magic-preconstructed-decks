@@ -25,6 +25,12 @@
 1 Subversion
 1 Weakness
 1 Cinder Marsh
-7 Mountain
 1 Polluted Mire
-8 Swamp
+2 Mountain [BRB:115]
+1 Mountain [BRB:116]
+2 Mountain [BRB:117]
+2 Mountain [BRB:119]
+2 Swamp [BRB:133]
+2 Swamp [BRB:134]
+2 Swamp [BRB:135]
+2 Swamp [BRB:136]

@@ -25,6 +25,13 @@
 1 Pacifism
 1 Sun Clasp
 1 Drifting Meadow
-6 Forest
-9 Plains
 1 Vec Townships
+2 Forest [BRB:102]
+2 Forest [BRB:103]
+2 Forest [BRB:105]
+1 Plains [BRB:124]
+1 Plains [BRB:125]
+2 Plains [BRB:126]
+2 Plains [BRB:128]
+1 Plains [BRB:129]
+2 Plains [BRB:132]
