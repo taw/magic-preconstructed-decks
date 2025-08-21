@@ -25,5 +25,9 @@
 2 Fiery Fall
 2 Searing Spear
 2 Hammerhand
-23 Mountain
 2 Smoldering Spires
+3 Mountain [E01:100]
+2 Mountain [E01:105]
+6 Mountain [AKH:264]
+6 Mountain [AKH:265]
+6 Mountain [AKH:266]
