@@ -1,5 +1,5 @@
 // NAME: Silver Deck
-// SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Seventh_Edition/2-Player_Starter_Set
 // DATE: 2001-04-11
 1 Eager Cadet
 2 Giant Octopus

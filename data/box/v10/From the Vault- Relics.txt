@@ -1,5 +1,5 @@
 // NAME: From the Vault: Relics
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Relics
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Relics
 // DATE: 2010-08-27
 1 Aether Vial [foil]
 1 Black Vise [foil]

@@ -1,5 +1,5 @@
 // NAME: Orzhov Syndicate
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 2 Basilica Bell-Haunt
 3 Cruel Celebrant

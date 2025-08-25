@@ -1,5 +1,5 @@
 // NAME: Arcane Mischief
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
 // DISPLAY: Also includes a random blue Dominaria United rare or mythic rare
 // DATE: 2022-09-09
 1 Haunting Figment

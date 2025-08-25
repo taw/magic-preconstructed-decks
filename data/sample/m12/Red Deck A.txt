@@ -1,5 +1,5 @@
 // NAME: Red Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
 13 Mountain [M12:*]
 1 Bonebreaker Giant [M12]

@@ -1,5 +1,5 @@
 // NAME: Dominaria United Welcome Booster
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Welcome_booster
 // DATE: 2022-09-09
 1 [DMU:274] Forest [foil]
 1 Sunbathing Rootwalla [foil]

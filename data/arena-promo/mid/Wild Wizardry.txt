@@ -1,5 +1,5 @@
 // NAME: Wild Wizardry
-// SOURCE: https://mtg.fandom.com/wiki/Innistrad:_Midnight_Hunt/Welcome_booster#Wild_Wizardry_deck
+// SOURCE: https://mtg.wiki/wiki/Innistrad:_Midnight_Hunt/Welcome_booster#Wild_Wizardry_deck
 // DATE: 2021-09-24
 1 Magmatic Channeler
 1 Efreet Flamepainter

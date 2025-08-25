@@ -1,5 +1,5 @@
 // NAME: Signature Spellbook Chandra
-// SOURCE: https://mtg.fandom.com/wiki/Signature_Spellbook:_Chandra
+// SOURCE: https://mtg.wiki/wiki/Signature_Spellbook:_Chandra
 // DATE: 2020-06-26
 // DISPLAY: Also contains 1 foil version of any card
 1 Chandra, Torch of Defiance

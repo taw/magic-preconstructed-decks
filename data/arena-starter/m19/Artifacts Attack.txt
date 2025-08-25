@@ -1,5 +1,5 @@
 // NAME: Artifacts Attack
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Gearsmith Prodigy
 4 Field Creeper

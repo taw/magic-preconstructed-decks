@@ -1,5 +1,5 @@
 // NAME: Eric Tam, Quarterfinalist
-// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// SOURCE: https://mtg.wiki/wiki/Pro_Tour_Collector_Set
 // DATE: 1996-05-01
 4 Brushland [PTC:et352]
 2 City of Brass [PTC:et112]

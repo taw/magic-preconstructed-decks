@@ -1,5 +1,5 @@
 // NAME: From the Vault: Exiled
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Exiled
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Exiled
 // DATE: 2009-08-28
 1 Balance [foil]
 1 Berserk [foil]

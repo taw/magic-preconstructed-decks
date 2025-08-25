@@ -1,5 +1,5 @@
 // NAME: Intl. Collectors' Edition
-// SOURCE: https://mtg.fandom.com/wiki/Collectors'_Edition
+// SOURCE: https://mtg.wiki/wiki/Collectors'_Edition
 // DATE: 1993-12-10
 1 Air Elemental
 1 Ancestral Recall

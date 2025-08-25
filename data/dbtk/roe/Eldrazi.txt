@@ -1,5 +1,5 @@
 // NAME: Eldrazi
-// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Deck_Builder%27s_Toolkit
 // DATE: 2010-05-21
 1 Artisan of Kozilek
 1 Hand of Emrakul

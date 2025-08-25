@@ -1,5 +1,5 @@
 // NAME: From Cute to Brute
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Commander_Deck:_From_Cute_to_Brute
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair_Commander_Deck:_From_Cute_to_Brute
 // DATE: 2023-05-08
 COMMANDER: 1 Esika, God of the Tree // The Prismatic Bridge [SLD:1155a] [foil]
 1 Archangel Avacyn // Avacyn, the Purifier [SLD:1156a] [foil]

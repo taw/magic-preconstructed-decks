@@ -1,6 +1,6 @@
 // NAME: Calling All Hydra Heads foil
 // DATE: 2023-12-08
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair:_Calling_All_Hydra_Heads
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair:_Calling_All_Hydra_Heads
 1 [SLD:1329] Gargos, Vicious Watcher [foil]
 1 [SLD:1330] Primordial Hydra [foil]
 1 [SLD:1331] Unbound Flourishing [foil]

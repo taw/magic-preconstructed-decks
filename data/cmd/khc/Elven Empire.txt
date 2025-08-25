@@ -1,5 +1,5 @@
 // NAME: Elven Empire
-// SOURCE: https://mtg.fandom.com/wiki/Kaldheim/Commander_decks
+// SOURCE: https://mtg.wiki/wiki/Kaldheim/Commander_decks
 // DATE: 2021-02-05
 COMMANDER: 1 Lathril, Blade of the Elves [foil]
 1 Abomination of Llanowar

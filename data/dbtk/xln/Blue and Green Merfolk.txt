@@ -1,5 +1,5 @@
 // NAME: Blue and Green Merfolk
-// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Ixalan/Deck_Builder%27s_Toolkit
 // DATE: 2017-09-29
 1 River Sneak
 1 Deeproot Waters

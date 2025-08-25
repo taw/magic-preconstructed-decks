@@ -1,5 +1,5 @@
 // NAME: Phyrexia: All Will Be One Welcome Booster
-// SOURCE: https://mtg.fandom.com/wiki/Phyrexia:_All_Will_Be_One/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Phyrexia:_All_Will_Be_One/Welcome_booster
 // DATE: 2023-02-10
 1 [ONE:275] Mountain [foil]
 1 Thrill of Possibility [foil]

@@ -1,5 +1,5 @@
 // NAME: Black-Green Deck
-// SOURCE: https://mtg.fandom.com/wiki/Spellslinger_Starter_Kit
+// SOURCE: https://mtg.wiki/wiki/Spellslinger_Starter_Kit
 // DATE: 2018-10-05
 1 Bristling Boar
 2 Centaur Courser

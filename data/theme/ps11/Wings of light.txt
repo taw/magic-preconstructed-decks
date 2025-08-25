@@ -1,5 +1,5 @@
 // NAME: Wings of light
-// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
 24 Plains [PS11:*]
 4 Angel of Mercy

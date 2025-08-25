@@ -1,5 +1,5 @@
 // NAME: The Brazen Coalition
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 1 Captivating Crew
 1 Captain Lannery Storm

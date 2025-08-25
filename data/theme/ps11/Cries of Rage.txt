@@ -1,5 +1,5 @@
 // NAME: Cries of Rage
-// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
 12 Mountain [PS11:*]
 12 Forest [PS11:*]

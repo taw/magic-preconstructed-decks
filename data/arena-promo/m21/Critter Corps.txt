@@ -1,5 +1,5 @@
 // NAME: Critter Corps
-// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Welcome_booster#Critter_Corps_deck
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2021/Welcome_booster#Critter_Corps_deck
 // DATE: 2021-07-03
 2 Loyal Pegasus
 2 Selfless Savior

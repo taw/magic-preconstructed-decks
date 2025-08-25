@@ -1,5 +1,5 @@
 // NAME: Dragon's Endgame
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2019-07-18
 1 God-Eternal Bontu [PS19]
 1 God-Eternal Kefnet [PS19]

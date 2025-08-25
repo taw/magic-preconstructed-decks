@@ -1,5 +1,5 @@
 // NAME: White Blue Bestow
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Magic_2015/Deck_Builder%27s_Toolkit
 // DATE: 2014-07-18
 1 Skyspear Cavalry
 1 Glimpse the Sun God

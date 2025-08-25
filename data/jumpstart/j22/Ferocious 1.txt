@@ -1,5 +1,5 @@
 // NAME: Ferocious 1
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Green
 // DATE: 2022-12-02
 1 Giant Ladybug
 1 Spectral Hunt-Caller

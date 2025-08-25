@@ -1,5 +1,5 @@
 // NAME: Red Deck
-// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
 13 Mountain [ORI:*]
 1 Bellows Lizard [ORI]

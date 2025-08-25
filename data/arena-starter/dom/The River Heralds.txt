@@ -1,5 +1,5 @@
 // NAME: The River Heralds
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 2 Forerunner of the Heralds
 1 Herald of Secret Streams

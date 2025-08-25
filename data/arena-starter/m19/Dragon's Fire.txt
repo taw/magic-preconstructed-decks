@@ -1,5 +1,5 @@
 // NAME: Dragon's Fire
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Goblin Instigator
 3 Kargan Dragonrider

@@ -1,5 +1,5 @@
 // NAME: Powerstones 1
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random blue The Brothers' War rare or mythic rare; or Liberator, Urza's Battlethopter; or Thran Spider
 // DATE: 2022-11-18
 1 Geology Enthusiast

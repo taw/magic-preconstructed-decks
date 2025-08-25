@@ -1,6 +1,6 @@
 // NAME: Innistrad: Crimson Vow Welcome Booster
 // DATE: 2021-11-19
-// SOURCE: https://mtg.fandom.com/wiki/Innistrad:_Crimson_Vow/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Innistrad:_Crimson_Vow/Welcome_booster
 1 [VOW:402] Forest [foil]
 1 Gift of Fangs [foil]
 1 Apprentice Sharpshooter [foil]

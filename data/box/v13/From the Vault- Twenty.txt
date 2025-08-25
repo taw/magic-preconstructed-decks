@@ -1,5 +1,5 @@
 // NAME: From the Vault: Twenty
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Twenty
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Twenty
 // DATE: 2013-08-23
 1 Dark Ritual [foil]
 1 Swords to Plowshares [foil]

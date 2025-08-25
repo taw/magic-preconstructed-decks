@@ -1,5 +1,5 @@
 // NAME: From the Vault: Lore
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Lore
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Lore
 // DATE: 2016-08-19
 1 Beseech the Queen [foil]
 1 Cabal Ritual [foil]

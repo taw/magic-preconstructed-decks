@@ -1,5 +1,5 @@
 // NAME: Starter 2000 sampler pack
-// SOURCE: https://mtg.fandom.com/wiki/Starter_2000
+// SOURCE: https://mtg.wiki/wiki/Starter_2000
 // DATE: 2000-04-24
 1 Armored Pegasus
 1 Forest [6ED:*]

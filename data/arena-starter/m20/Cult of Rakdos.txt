@@ -1,5 +1,5 @@
 // NAME: Cult of Rakdos
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 3 Footlight Fiend
 2 Spear Spewer

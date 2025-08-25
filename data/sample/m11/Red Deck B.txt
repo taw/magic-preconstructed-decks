@@ -1,5 +1,5 @@
 // NAME: Red Deck B
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
 12 Mountain [M11:*]
 2 Battle-Rattle Shaman [ROE]
