@@ -1,5 +1,5 @@
 // NAME: Blossoming Growth
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2022-09-09
 2 Fang of Shigeki [NEO:183]
 1 Triskaidekaphile [MID:81]

@@ -1,5 +1,5 @@
 // NAME: Saturday Morning D&D Foil Edition
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair_Drop_Series:_All-Natural,_Totally_Refreshing_Superdrop
 // DATE: 2021-06-21
 // DISPLAY: All drops in the All Natural, Totally Refreshing superdrop have a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of their normal bonus card.
 1 [SLD:310] Unbreakable Formation [foil]

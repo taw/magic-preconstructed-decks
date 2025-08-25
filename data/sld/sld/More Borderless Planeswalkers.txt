@@ -1,5 +1,5 @@
 // NAME: More Borderless Planeswalkers
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair:_More_Borderless_Planeswalkers
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair:_More_Borderless_Planeswalkers
 // DATE: 2023-03-17
 // DISPLAY: This secret lair drop may come with [SLD:681] Shadowborn Apostle or a foil extended art sliver [SLD:610-667].
 1 [SLD:1243] Ugin, the Ineffable [foil]

@@ -1,5 +1,5 @@
 // NAME: Deck Builder's Toolkit
-// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2020/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2020/Deck_Builder%27s_Toolkit
 // DATE: 2019-07-12
 1 Serra's Guardian
 1 Riddlemaster Sphinx

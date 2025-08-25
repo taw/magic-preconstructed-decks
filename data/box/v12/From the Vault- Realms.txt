@@ -1,5 +1,5 @@
 // NAME: From the Vault: Realms
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Realms
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Realms
 // DATE: 2012-08-31
 1 Ancient Tomb [foil]
 1 Boseiju, Who Shelters All [foil]

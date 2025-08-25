@@ -1,5 +1,5 @@
 // NAME: Sampler Booster
-// SOURCE: https://mtg.fandom.com/wiki/Sampler
+// SOURCE: https://mtg.wiki/wiki/Sampler
 // DATE: 2001-04-11
 1 Plains [7ED:*]
 1 Razorfoot Griffin

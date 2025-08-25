@@ -1,5 +1,5 @@
 // NAME: Riveteers Rampage
-// SOURCE: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Commander_decks
+// SOURCE: https://mtg.wiki/wiki/Streets_of_New_Capenna/Commander_decks
 // DATE: 2022-04-29
 COMMANDER: 1 Henzie "Toolbox" Torre [NCC:2] [foil]
 1 The Beamtown Bullies

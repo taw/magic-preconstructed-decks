@@ -1,5 +1,5 @@
 // NAME: SDCC 2018 Stained Glass Planeswalkers
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2018-07-19
 1 Gideon of the Trials [foil]
 1 Jace, Cunning Castaway [foil]

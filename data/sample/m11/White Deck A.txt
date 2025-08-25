@@ -1,5 +1,5 @@
 // NAME: White Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
 12 Plains [M11:*]
 2 Cloud Crusader [M11]

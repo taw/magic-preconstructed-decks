@@ -1,5 +1,5 @@
 // NAME: Gold Deck
-// SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Seventh_Edition/2-Player_Starter_Set
 // DATE: 2001-04-11
 3 Grizzly Bears
 1 Ogre Taskmaster

@@ -1,5 +1,5 @@
 // NAME: Dungeon Delving
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 3 Ranger's Hawk
 3 Malakir Blood-Priest

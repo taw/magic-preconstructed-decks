@@ -1,5 +1,5 @@
 // NAME: Ravenous Rats
-// SOURCE: https://mtg.fandom.com/wiki/Salvat_2005
+// SOURCE: https://mtg.wiki/wiki/Salvat_2005
 // DATE: 2005-08-01
 1 Swamp [PSAL:A8]
 1 Swamp [PSAL:A9]

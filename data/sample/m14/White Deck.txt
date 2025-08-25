@@ -1,5 +1,5 @@
 // NAME: White Deck
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2014/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Sample_decks
 // DATE: 2014-07-19
 13 Plains [M14:*]
 1 Assault Griffin [GTC]

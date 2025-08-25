@@ -1,5 +1,5 @@
 // NAME: SDCC 2017 Egyptian Planeswalkers
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2017-07-20
 1 Gideon of the Trials [foil]
 1 Jace, Unraveler of Secrets [foil]

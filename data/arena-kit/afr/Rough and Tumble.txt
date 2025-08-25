@@ -1,5 +1,5 @@
 // NAME: Rough and Tumble
-// SOURCE: https://mtg.fandom.com/wiki/2021_Arena_Starter_Kit
+// SOURCE: https://mtg.wiki/wiki/2021_Arena_Starter_Kit
 // DATE: 2021-08-06
 1 Dragonsguard Elite [STX:127] [foil]
 1 Asmodeus the Archfiend [AFR:88]

@@ -1,5 +1,5 @@
 // NAME: SDCC 2016 Zombie Planeswalker Set
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2016-07-21
 1 Gideon, Ally of Zendikar [PS16] [foil]
 1 Jace, Unraveler of Secrets [PS16] [foil]

@@ -1,5 +1,5 @@
 // NAME: Red-White Deck
-// SOURCE: https://mtg.fandom.com/wiki/Spellslinger_Starter_Kit
+// SOURCE: https://mtg.wiki/wiki/Spellslinger_Starter_Kit
 // DATE: 2018-10-05
 1 Burning Sun's Avatar
 2 Charging Monstrosaur

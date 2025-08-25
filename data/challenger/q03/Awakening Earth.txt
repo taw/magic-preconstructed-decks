@@ -1,5 +1,5 @@
 // NAME: Awakening Earth
-// SOURCE: https://mtg.fandom.com/wiki/Challenger_Decks_2019_Japan
+// SOURCE: https://mtg.wiki/wiki/Challenger_Decks_2019_Japan
 // DATE: 2019-11-08
 3 Nissa, Who Shakes the World
 4 Paradise Druid

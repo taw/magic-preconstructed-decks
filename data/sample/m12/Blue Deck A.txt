@@ -1,5 +1,5 @@
 // NAME: Blue Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2012/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2012/Sample_decks
 // DATE: 2011-07-15
 12 Island [M12:*]
 2 Aether Adept [M12]

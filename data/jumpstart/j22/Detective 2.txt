@@ -1,5 +1,5 @@
 // NAME: Detective 2
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Psychosis Crawler
 1 Aeronaut Tinkerer

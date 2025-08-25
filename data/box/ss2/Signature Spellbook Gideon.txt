@@ -1,5 +1,5 @@
 // NAME: Signature Spellbook Gideon
-// SOURCE: https://mtg.fandom.com/wiki/Signature_Spellbook:_Gideon
+// SOURCE: https://mtg.wiki/wiki/Signature_Spellbook:_Gideon
 // DATE: 2019-06-28
 // DISPLAY: Also contains 1 foil version of any card
 1 Gideon Jura

@@ -1,5 +1,5 @@
 // NAME: Green Deck
-// SOURCE: https://mtg.fandom.com/wiki/Magic_Origins/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Sample_decks
 // DATE: 2015-07-17
 13 Forest [ORI:*]
 1 Conclave Naturalists [ORI]

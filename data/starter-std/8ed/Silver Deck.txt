@@ -1,5 +1,5 @@
 // NAME: Silver Deck
-// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// SOURCE: https://mtg.wiki/wiki/Eighth_Edition/Core_Game
 // DATE: 2003-07-28
 1 Eager Cadet
 4 Glory Seeker

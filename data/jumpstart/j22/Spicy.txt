@@ -1,5 +1,5 @@
 // NAME: Spicy
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Red
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Red
 // DATE: 2022-12-02
 1 Auntie Blyte, Bad Influence
 1 Coalhauler Swine

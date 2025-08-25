@@ -1,5 +1,5 @@
 // NAME: Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Fifth_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Fifth_Edition/2-Player_Starter_Set
 // DATE: 1997-04-24
 1 Pearled Unicorn
 1 Samite Healer

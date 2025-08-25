@@ -1,5 +1,5 @@
 // NAME: Ponies: The Galloping
-// SOURCE: https://mtg.fandom.com/wiki/Ponies:_The_Galloping
+// SOURCE: https://mtg.wiki/wiki/Ponies:_The_Galloping
 // DATE:  2019-10-22
 1 Rarity [foil]
 1 Nightmare Moon // Princess Luna [foil]

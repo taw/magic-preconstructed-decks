@@ -1,5 +1,5 @@
 // NAME: March of the Machine Welcome Booster
-// SOURCE: https://mtg.fandom.com/wiki/March_of_the_Machine/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/March_of_the_Machine/Welcome_booster
 // DATE: 2023-04-21
 1 [ELD:269] Forest [foil]
 1 [SNC:164] Warm Welcome [foil]

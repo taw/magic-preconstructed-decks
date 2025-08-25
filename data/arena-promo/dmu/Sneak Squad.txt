@@ -1,5 +1,5 @@
 // NAME: Sneak Squad
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Welcome_booster#Sneak_Squad_deck
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Welcome_booster#Sneak_Squad_deck
 // DATE: 2022-09-09
 1 Blade of the Oni
 1 Malevolent Hermit // Benevolent Geist

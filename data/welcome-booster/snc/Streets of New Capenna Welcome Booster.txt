@@ -1,5 +1,5 @@
 // NAME: Streets of New Capenna Welcome Booster
-// SOURCE: https://mtg.fandom.com/wiki/Streets_of_New_Capenna/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Streets_of_New_Capenna/Welcome_booster
 // DATE: 2022-04-29
 2 Wrecking Crew [foil]
 1 [SNC:270] Forest [foil]

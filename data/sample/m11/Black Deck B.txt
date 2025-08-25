@@ -1,5 +1,5 @@
 // NAME: Black Deck B
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
 12 Swamp [M11:*]
 2 Barony Vampire [M11]

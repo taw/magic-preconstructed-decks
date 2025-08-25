@@ -1,5 +1,5 @@
 // NAME: Welded 2
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random red The Brothers' War rare or mythic rare
 // DATE: 2022-11-18
 1 Artificer's Dragon

@@ -1,5 +1,5 @@
 // NAME: Red Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2011/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2011/Sample_decks
 // DATE: 2010-07-16
 13 Mountain [M11:*]
 2 Arc Runner [M11]

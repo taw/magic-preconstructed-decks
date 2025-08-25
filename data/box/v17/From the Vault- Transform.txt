@@ -1,5 +1,5 @@
 // NAME: From the Vault: Transform
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Transform
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Transform
 // DATE: 2017-11-24
 1 Archangel Avacyn [foil]
 1 Arguel's Blood Fast [foil]

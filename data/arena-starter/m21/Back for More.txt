@@ -1,5 +1,5 @@
 // NAME: Back for More
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-07-03
 3 Mire Triton
 2 Order of Midnight

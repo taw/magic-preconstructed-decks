@@ -1,5 +1,5 @@
 // NAME: Li'l Giri Saves the Day
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_Drop_Series:_Li%27l_Giri_Saves_the_Day
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair_Drop_Series:_Li%27l_Giri_Saves_the_Day
 // DATE: 2022-08-11
 1 [SLD:401] Peek [foil]
 1 [SLD:402] Greed [foil]

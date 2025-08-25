@@ -1,5 +1,5 @@
 // NAME: Red Sample Deck
-// SOURCE: https://mtg.fandom.com/wiki/Magic_2015/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Magic_2015/Sample_decks
 // DATE: 2014-07-18
 13 Mountain [M15:*]
 2 Borderland Marauder [M15]

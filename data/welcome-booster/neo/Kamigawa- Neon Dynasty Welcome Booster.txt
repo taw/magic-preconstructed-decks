@@ -1,5 +1,5 @@
 // NAME: Kamigawa: Neon Dynasty Welcome Booster
-// SOURCE: https://mtg.fandom.com/wiki/Kamigawa:_Neon_Dynasty/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Kamigawa:_Neon_Dynasty/Welcome_booster
 // DATE: 2022-02-18
 1 [NEO:291] Forest [foil]
 1 Spirited Companion [foil]

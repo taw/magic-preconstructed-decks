@@ -1,5 +1,5 @@
 // NAME: Constellation 1
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_White
 // DATE: 2022-12-02
 1 Archon of Sun's Grace
 1 Blessed Spirits

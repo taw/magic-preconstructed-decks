@@ -1,5 +1,5 @@
 // NAME: From the Vault: Angels
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Angels
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Angels
 // DATE: 2015-08-21
 1 Akroma, Angel of Fury [foil]
 1 Akroma, Angel of Wrath [foil]

@@ -1,5 +1,5 @@
 // NAME: Think Again 3
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Alandra, Sky Dreamer
 1 Spectral Sailor

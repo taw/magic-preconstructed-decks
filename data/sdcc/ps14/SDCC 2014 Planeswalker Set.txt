@@ -1,5 +1,5 @@
 // NAME: SDCC 2014 Planeswalker Set
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2014-07-24
 1 Ajani Steadfast [PS14] [foil]
 1 Jace, the Living Guildpact [PS14] [foil]

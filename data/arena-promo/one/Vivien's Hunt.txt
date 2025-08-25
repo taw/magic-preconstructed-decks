@@ -1,5 +1,5 @@
 // NAME: Vivien's Hunt
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2023-02-10
 2 Vivien on the Hunt
 1 Howlpack Piper

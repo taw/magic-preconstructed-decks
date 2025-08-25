@@ -1,5 +1,5 @@
 // NAME: Signature Spellbook: Jace
-// SOURCE: https://mtg.fandom.com/wiki/Signature_Spellbook:_Jace
+// SOURCE: https://mtg.wiki/wiki/Signature_Spellbook:_Jace
 // DATE: 2018-06-15
 // DISPLAY: Also contains 1 foil version of any card
 1 Jace Beleren

@@ -1,5 +1,5 @@
 // NAME: Gold Pack
-// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// SOURCE: https://mtg.wiki/wiki/Eighth_Edition/Core_Game
 // DATE: 2003-07-28
 1 Silverback Ape
 1 Goblin Glider

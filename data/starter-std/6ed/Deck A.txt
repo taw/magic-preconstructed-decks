@@ -1,5 +1,5 @@
 // NAME: Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Sixth_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Sixth_Edition/2-Player_Starter_Set
 // DATE: 1999-04-21
 1 Ardent Militia
 1 Blood Pet

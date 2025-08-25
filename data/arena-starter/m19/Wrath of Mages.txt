@@ -1,5 +1,5 @@
 // NAME: Wrath of Mages
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Ghitu Lavarunner
 1 Mystic Archaeologist

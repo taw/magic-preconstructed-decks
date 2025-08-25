@@ -1,5 +1,5 @@
 // NAME: Growing Hunger
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 1 Ochre Jelly
 3 Deathknell Berserker

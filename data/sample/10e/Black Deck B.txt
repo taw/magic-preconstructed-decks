@@ -1,5 +1,5 @@
 // NAME: Black Deck B
-// SOURCE: https://mtg.fandom.com/wiki/Tenth_Edition/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Tenth_Edition/Sample_decks
 // DATE: 2008-05-02
 12 Swamp [10E:*]
 2 Dross Crocodile [10E]

@@ -1,5 +1,5 @@
 // NAME: From the Vault: Annihilation
-// SOURCE: https://mtg.fandom.com/wiki/From_the_Vault:_Annihilation
+// SOURCE: https://mtg.wiki/wiki/From_the_Vault:_Annihilation
 // DATE: 2014-08-22
 1 Armageddon [foil]
 1 Burning of Xinye [foil]

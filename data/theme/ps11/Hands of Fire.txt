@@ -1,5 +1,5 @@
 // NAME: Hands of Fire
-// SOURCE: https://mtg.fandom.com/wiki/Salvat_2011/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
 24 Mountain [PS11:*]
 1 Kamahl, Pit Fighter
