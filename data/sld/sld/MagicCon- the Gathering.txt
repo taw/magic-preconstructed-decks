@@ -1,0 +1,7 @@
+// NAME: MagicCon: the Gathering
+// SOURCE: https://secretlair.wizards.com/us/product/1246306
+// DATE: 2025-08-18
+1 [SLD:1307] Pack Rat [foil]
+1 [SLD:1308] Shared Summons [foil]
+1 [SLD:1309] Sylvan Offering [foil]
+1 [SLD:1310] Sliver Legion [foil]
