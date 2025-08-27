@@ -1,4 +1,4 @@
-// NAME: Wings of light
+// NAME: Wings of Light
 // SOURCE: https://mtg.wiki/wiki/Salvat_2011/Preconstructed_decks
 // DATE: 2011-01-01
 24 Plains [PS11:*]
