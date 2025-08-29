@@ -13,5 +13,7 @@
 1 Lay Down Arms
 1 Static Net
 1 Veteran's Powerblade
-6 Plains [BRO:*]
-2 Plains [foil]
+3 Plains [BRO:268]
+3 Plains [BRO:269]
+1 Plains [BRO:268] [foil]
+1 Plains [BRO:269] [foil]

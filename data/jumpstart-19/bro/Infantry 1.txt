@@ -13,5 +13,7 @@
 1 Recommission
 1 Veteran's Powerblade
 1 Static Net
-6 Plains [BRO:*]
-2 Plains [foil]
+3 Plains [BRO:268]
+3 Plains [BRO:269]
+1 Plains [BRO:268] [foil]
+1 Plains [BRO:269] [foil]

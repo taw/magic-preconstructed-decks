@@ -13,5 +13,7 @@
 1 Bushwhack
 1 Shoot Down
 1 Epic Confrontation
-6 Forest [BRO:*]
-2 Forest [foil]
+3 Forest [BRO:276]
+3 Forest [BRO:277]
+1 Forest [BRO:276] [foil]
+1 Forest [BRO:277] [foil]

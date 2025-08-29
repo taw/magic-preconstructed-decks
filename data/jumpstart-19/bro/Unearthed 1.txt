@@ -13,5 +13,7 @@
 1 Go for the Throat
 1 Gruesome Realization
 1 No One Left Behind
-6 Swamp [BRO:*]
-2 Swamp [foil]
+3 Swamp [BRO:272]
+3 Swamp [BRO:273]
+1 Swamp [BRO:272] [foil]
+1 Swamp [BRO:273] [foil]

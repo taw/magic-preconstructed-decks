@@ -13,5 +13,7 @@
 1 Urza's Rebuff
 1 Take Flight
 1 Weakstone's Subjugation
-6 Island [BRO:*]
-2 Island [foil]
+3 Island [BRO:270]
+3 Island [BRO:271]
+1 Island [BRO:270] [foil]
+1 Island [BRO:271] [foil]
