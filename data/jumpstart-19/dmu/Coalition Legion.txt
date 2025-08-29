@@ -1,6 +1,6 @@
 // NAME: Coalition Legion
 // SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random white Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random white Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Samite Herbalist
 1 Benalish Faithbonder
@@ -14,5 +14,5 @@
 1 Prayer of Binding
 1 Love Song of Night and Day
 5 Plains [DMU:*]
-2 Plains [foil]
+2 Plains [DMU:*] [foil]
 1 Plains [DMU:277]

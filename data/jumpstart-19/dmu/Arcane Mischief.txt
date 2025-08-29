@@ -1,6 +1,6 @@
 // NAME: Arcane Mischief
 // SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random blue Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random blue Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Haunting Figment
 1 Soaring Drake
@@ -14,5 +14,5 @@
 1 Cosmic Epiphany
 1 Impede Momentum
 5 Island [DMU:*]
-2 Island [foil]
+2 Island [DMU:*] [foil]
 1 Island [DMU:278]

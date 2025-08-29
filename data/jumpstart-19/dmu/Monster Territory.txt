@@ -1,6 +1,6 @@
 // NAME: Monster Territory
 // SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random green Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random green Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Floriferous Vinewall
 1 Sunbathing Rootwalla
@@ -18,5 +18,5 @@
 1 Radiant Grove
 1 Haunted Mire
 1 Forest [DMU:*]
-2 Forest [foil]
+2 Forest [DMU:*] [foil]
 1 Forest [DMU:281]

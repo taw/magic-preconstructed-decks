@@ -1,6 +1,6 @@
 // NAME: Totally Merciless
 // SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random black Dominaria United rare or mythic rare
+// DISPLAY: Also includes a random black Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Knight of Dusk's Shadow
 1 Phyrexian Vivisector
@@ -14,5 +14,5 @@
 1 Braids's Frightful Return
 1 Pilfer
 5 Swamp [DMU:*]
-2 Swamp [foil]
+2 Swamp [DMU:*] [foil]
 1 Swamp [DMU:279]
