@@ -1,0 +1,21 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.wiki/page/Duskmourn:_House_of_Horror/Welcome_decks
+// DATE: 2024-09-30
+2 Cursed Minotaur [PLST:AKH-85]
+2 Grasping Scoundrel [PLST:M19-312]
+1 Crooked Custodian [PLST:SNC-71]
+1 Vampire Nighthawk [PLST:M13-112]
+1 Bogstomper [PLST:M20-320]
+1 Disciple of Bolas [PLST:NCC-247]
+1 Vraan, Executioner Thane [PLST:ONE-114]
+1 Bone Picker [PLST:AKH-81]
+1 Inkrise Infiltrator [PLST:NEO-341]
+1 Dreadwurm [PLST:ZNR-297]
+1 Reave Soul [PLST:ORI-115]
+1 Rise Again [PLST:M21-119]
+1 Final Reward [PLST:AKH-92]
+1 Demonic Gifts [PLST:KHM-84]
+1 Pharika's Libation [PLST:THB-111]
+5 Swamp [PLST:WOE-271]
+4 Swamp [PLST:LCI-398]
+4 Swamp [PLST:MKM-282]

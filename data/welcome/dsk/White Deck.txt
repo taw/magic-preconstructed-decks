@@ -1,0 +1,21 @@
+// NAME: White Deck
+// SOURCE: https://mtg.wiki/page/Duskmourn:_House_of_Horror/Welcome_decks
+// DATE: 2024-09-30
+1 Aerial Responder [PLST:KLD-2]
+2 Alpine Watchdog [PLST:M21-2]
+1 Canyon Jerboa [PLST:ZNR-290]
+1 Linden, the Steadfast Queen [PLST:ELD-20]
+1 Mesa Unicorn [PLST:DOM-27]
+1 Odric, Lunarch Marshal [PLST:DMC-103]
+1 Savannah Lions [PLST:DMR-24]
+2 Search Party Captain [PLST:MID-32]
+1 Serra Angel [PLST:DMR-271]
+1 Silverbeak Griffin [PLST:M19-285]
+1 Territorial Hammerskull [PLST:XLN-41]
+1 Mighty Leap [PLST:M19-28]
+1 Valorous Stance [PLST:VOW-42]
+1 Banishing Light [PLST:KHC-19]
+1 Pacifism [PLST:M20-32]
+5 Plains [PLST:WOE-268]
+4 Plains [PLST:MKM-278]
+4 Plains [PLST:LCI-394]
