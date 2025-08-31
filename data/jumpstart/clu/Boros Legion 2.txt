@@ -16,6 +16,6 @@
 1 Boros Garrison
 1 Boros Strike-Captain
 1 Firemane Avenger
-5 Mountain [CLU]
+5 Mountain [CLU:269]
 
 Sideboard

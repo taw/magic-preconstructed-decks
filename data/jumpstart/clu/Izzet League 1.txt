@@ -16,6 +16,6 @@
 1 Izzet Boilerworks
 1 Resonance Technician
 1 Stunt Double
-5 Island [CLU]
+5 Island [CLU:260]
 
 Sideboard

@@ -16,6 +16,6 @@
 1 Boros Garrison
 1 Aegis of the Legion
 1 Finale of Glory
-5 Plains [CLU]
+5 Plains [CLU:255]
 
 Sideboard

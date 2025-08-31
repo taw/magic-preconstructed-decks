@@ -16,6 +16,6 @@
 1 Golgari Rot Farm
 1 Amzu, Swarm's Hunger
 1 Deadbridge Chant
-5 Swamp [CLU]
+5 Swamp [CLU:262]
 
 Sideboard

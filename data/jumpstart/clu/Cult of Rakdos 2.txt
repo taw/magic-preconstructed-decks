@@ -16,6 +16,6 @@
 1 Rakdos Carnarium
 1 Carnage Interpreter
 1 Rakdos, the Showstopper
-5 Mountain [CLU]
+5 Mountain [CLU:266]
 
 Sideboard
