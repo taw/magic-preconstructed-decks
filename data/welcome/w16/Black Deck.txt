@@ -1,5 +1,5 @@
 // NAME: Black Deck
-// SOURCE: https://mtg.wiki/wiki/Welcome_Deck_2016/Sample_decks
+// SOURCE: https://mtg.wiki/page/Welcome_Deck_2016/Welcome_decks
 // DATE: 2016-04-08
 1 Blighted Fen
 12 Swamp [SOI:*]
