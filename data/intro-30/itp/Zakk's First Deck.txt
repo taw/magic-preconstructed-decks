@@ -1,5 +1,5 @@
 // NAME: Zakk's First Deck
-// SOURCE: https://mtg.gamepedia.com/Rivals_Quick_Start_Set
+// SOURCE: https://mtg.wiki/wiki/Rivals_Quick_Start_Set
 // DATE: 1996-12-31
 4 Forest [ITP:*]
 4 Plains [ITP:*]

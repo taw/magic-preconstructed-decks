@@ -1,5 +1,5 @@
 // NAME: Orc Attack
-// SOURCE: https://mtg.gamepedia.com/Masters_Edition_II/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Masters_Edition_II/Theme_decks
 // DATE: 2008-09-22
 22 Mountain [ME1:*]
 1 Mishra's Factory

@@ -1,5 +1,5 @@
 // NAME: Svend Geertsen - Green Stompy
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1997
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1997
 // DATE: 1997-08-13
 4 Fyndhorn Elves
 4 Ghazbán Ogre

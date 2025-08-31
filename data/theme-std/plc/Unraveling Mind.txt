@@ -1,5 +1,5 @@
 // NAME: Unraveling Mind
-// SOURCE: https://mtg.gamepedia.com/Planar_Chaos/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Planar_Chaos/Theme_decks
 // DATE: 2007-02-02
 7 Mountain [TSP:*]
 14 Swamp [TSP:*]

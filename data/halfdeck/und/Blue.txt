@@ -1,5 +1,5 @@
 // NAME: Blue
-// SOURCE: https://mtg.gamepedia.com/Unsanctioned/Half_decks
+// SOURCE: https://mtg.wiki/wiki/Unsanctioned/Half_decks
 // DATE: 2020-02-28
 1 B.O.B. (Bevy of Beebles)
 1 Alexander Clamilton

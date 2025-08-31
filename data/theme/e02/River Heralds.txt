@@ -1,5 +1,5 @@
 // NAME: River Heralds
-// SOURCE: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Explorers_of_Ixalan/Theme_decks
 // DATE: 2017-11-24
 2 Shapers of Nature
 2 Kumena's Speaker

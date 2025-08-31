@@ -1,5 +1,5 @@
 // NAME: Preconstructed deck 2
-// SOURCE: https://mtg.gamepedia.com/Portal_Three_Kingdoms/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Portal_Three_Kingdoms/2-Player_Starter_Set
 // DATE: 1999-05-01
 3 Forest [PTK:*]
 5 Island [PTK:*]

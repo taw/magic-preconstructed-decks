@@ -1,5 +1,5 @@
 // NAME: Player B's deck
-// SOURCE: https://mtg.gamepedia.com/Starter_2000
+// SOURCE: https://mtg.wiki/wiki/Starter_2000
 // DATE: 2000-04-24
 4 Island [6ED:*]
 5 Plains [6ED:*]

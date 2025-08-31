@@ -1,5 +1,5 @@
 // NAME: Black Deck
-// SOURCE: https://mtg.gamepedia.com/Core_Set_2019/Welcome_decks
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2019/Welcome_decks
 // DATE: 2018-07-13
 1 Gravewaker
 1 Bogstomper

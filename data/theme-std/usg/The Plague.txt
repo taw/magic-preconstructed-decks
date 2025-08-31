@@ -1,6 +1,6 @@
 // NAME: The Plague
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Saga/UZ_PCDs.asp
-// SOURCE: https://mtg.gamepedia.com/Urza%27s_Saga/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Urza%27s_Saga/Theme_decks
 // DATE: 1998-10-12
 7 Plains [USG:*]
 12 Swamp [USG:*]

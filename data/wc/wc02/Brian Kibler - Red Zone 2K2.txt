@@ -1,5 +1,5 @@
 // NAME: Brian Kibler - Red Zone 2K2
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2002
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2002
 // DATE: 2002-08-14
 4 Anurid Brushhopper
 4 Birds of Paradise [WC02:bk231]

@@ -1,5 +1,5 @@
 // NAME: Dead and Alive
-// SOURCE: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Weatherlight/Theme_decks
 // DATE: 2007-12-12
 24 Swamp [MIR:*]
 1 Barrow Ghoul

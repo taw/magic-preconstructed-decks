@@ -1,5 +1,5 @@
 // NAME: Air Forces
-// SOURCE: https://mtg.gamepedia.com/Weatherlight/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Weatherlight/Theme_decks
 // DATE: 2007-12-12
 14 Island [MIR:*]
 10 Plains [MIR:*]

@@ -1,5 +1,5 @@
 // NAME: Mark Le Pine - Sped Red
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1999
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1999
 // DATE: 1999-08-04
 4 Avalanche Riders
 3 Fireslinger [WC99:mlp173]
