@@ -1,5 +1,5 @@
 // NAME: Player A's deck
-// SOURCE: https://mtg.gamepedia.com/Starter_2000
+// SOURCE: https://mtg.wiki/wiki/Starter_2000
 // DATE: 2000-04-24
 3 Forest [6ED:*]
 3 Mountain [6ED:*]

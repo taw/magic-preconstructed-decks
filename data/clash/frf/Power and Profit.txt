@@ -1,5 +1,5 @@
 // NAME: Power and Profit
-// SOURCE: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// SOURCE: https://mtg.wiki/wiki/Fate_Reforged/Clash_pack
 // DATE: 2015-01-23
 4 Satyr Wayfinder
 2 Brain Maggot

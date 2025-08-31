@@ -1,5 +1,5 @@
 // NAME: The Nightstalkers
-// SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Portal_Second_Age/Theme_decks
 // DATE: 1998-06-24
 15 Swamp [P02:*]
 2 Abyssal Nightstalker

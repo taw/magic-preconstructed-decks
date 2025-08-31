@@ -1,5 +1,5 @@
 // NAME: Antoine Ruel - Blue-Black-Red Nether-Go
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2001
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2001
 // DATE: 2001-08-08
 2 Tsabo's Web
 3 Nether Spirit

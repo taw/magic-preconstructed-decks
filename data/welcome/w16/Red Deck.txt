@@ -1,5 +1,5 @@
 // NAME: Red Deck
-// SOURCE: https://mtg.gamepedia.com/Welcome_Deck_2016/Sample_decks
+// SOURCE: https://mtg.wiki/wiki/Welcome_Deck_2016/Sample_decks
 // DATE: 2016-04-08
 1 Blighted Gorge
 12 Mountain [SOI:*]

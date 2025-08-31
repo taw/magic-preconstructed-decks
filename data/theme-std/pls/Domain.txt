@@ -1,5 +1,5 @@
 // NAME: Domain
-// SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Planeshift/Theme_decks
 // DATE: 2001-02-05
 8 Forest [INV:*]
 3 Island [INV:*]

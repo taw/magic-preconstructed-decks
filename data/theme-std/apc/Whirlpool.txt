@@ -1,5 +1,5 @@
 // NAME: Whirlpool
-// SOURCE: https://mtg.gamepedia.com/Apocalypse/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Apocalypse/Theme_decks
 // DATE: 2001-06-04
 12 Island [INV:*]
 12 Mountain [INV:*]

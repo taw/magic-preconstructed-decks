@@ -1,5 +1,5 @@
 // NAME: Sun Empire
-// SOURCE: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Explorers_of_Ixalan/Theme_decks
 // DATE: 2017-11-24
 1 Burning Sun's Avatar
 1 Ancient Brontodon

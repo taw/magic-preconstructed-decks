@@ -1,5 +1,5 @@
 // NAME: Scout
-// SOURCE: https://mtg.gamepedia.com/Planeshift/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Planeshift/Theme_decks
 // DATE: 2001-02-05
 1 Elfhame Palace
 11 Forest [INV:*]

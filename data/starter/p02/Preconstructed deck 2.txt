@@ -1,5 +1,5 @@
 // NAME: Preconstructed deck 2
-// SOURCE: https://mtg.gamepedia.com/Portal_Second_Age/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Portal_Second_Age/2-Player_Starter_Set
 // DATE: 1998-06-24
 3 Forest [P02:*]
 5 Island [P02:*]
