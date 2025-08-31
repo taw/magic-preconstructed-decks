@@ -16,6 +16,6 @@
 1 Simic Growth Chamber
 1 Unruly Krasis
 1 Master Biomancer
-5 Island
+5 Island [CLU]
 
 Sideboard

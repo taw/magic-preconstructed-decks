@@ -16,6 +16,6 @@
 1 Dimir Aqueduct
 1 Dimir Strandcatcher
 1 Thief of Sanity
-5 Swamp
+5 Swamp [CLU]
 
 Sideboard

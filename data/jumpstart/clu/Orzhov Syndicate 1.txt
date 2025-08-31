@@ -16,6 +16,6 @@
 1 Orzhov Basilica
 1 Syndicate Heavy
 1 Council's Judgment
-5 Plains
+5 Plains [CLU]
 
 Sideboard

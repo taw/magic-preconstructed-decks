@@ -16,6 +16,6 @@
 1 Orzhov Basilica
 1 Covetous Elegy
 1 Seraph of the Scales
-5 Swamp
+5 Swamp [CLU]
 
 Sideboard

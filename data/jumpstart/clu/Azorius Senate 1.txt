@@ -16,6 +16,6 @@
 1 Azorius Chancery
 1 Lavinia, Foil to Conspiracy [CLU:36]
 1 Supreme Verdict
-5 Plains
+5 Plains [CLU:254]
 
 Sideboard

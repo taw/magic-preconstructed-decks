@@ -16,6 +16,6 @@
 1 Selesnya Sanctuary
 1 Conclave Evangelist
 1 Trostani Discordant
-5 Plains
+5 Plains [CLU:256]
 
 Sideboard

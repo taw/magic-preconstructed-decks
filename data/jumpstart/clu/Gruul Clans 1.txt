@@ -16,6 +16,6 @@
 1 Gruul Turf
 1 Herald of Ilharg
 1 Clan Defiance
-5 Mountain
+5 Mountain [CLU:267]
 
 Sideboard

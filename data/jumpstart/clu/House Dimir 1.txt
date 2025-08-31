@@ -16,6 +16,6 @@
 1 Dimir Aqueduct
 1 Memory Vampire
 1 Duskmantle Seer
-5 Island
+5 Island [CLU]
 
 Sideboard

@@ -16,6 +16,6 @@
 1 Gruul Turf
 1 Stampede Surfer
 1 Giant Adephage
-5 Forest
+5 Forest [CLU]
 
 Sideboard

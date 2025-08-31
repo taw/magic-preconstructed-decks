@@ -16,6 +16,6 @@
 1 Golgari Rot Farm
 1 Sludge Titan
 1 Underrealm Lich
-5 Forest
+5 Forest [CLU]
 
 Sideboard
