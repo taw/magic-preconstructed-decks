@@ -383,6 +383,12 @@ welcome-booster:
     Main Deck: [10, 11]
 welcome:
   category: "deck"
+  format: "casual"
+  name: "Welcome Deck"
+  sections:
+    Main Deck: 30
+welcome-std:
+  category: "deck"
   format: "casual standard"
   name: "Welcome Deck"
   sections:
