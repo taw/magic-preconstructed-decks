@@ -2,12 +2,12 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Clay Champion [BRO]
-8 Plains [DMU]
+8 Plains [LTR:*]
 1 Dusk Legion Duelist [MOM]
 2 Sylvan Smite [YBRO]
 1 Serra Redeemer [DMU]
 1 Ozolith, the Shattered Spire [MOM]
-8 Forest [DMU]
+8 Forest [LTR:*]
 1 Quirion Beastcaller [DMU]
 1 Titania's Command [BRO]
 2 Botanical Brawler [MOM]

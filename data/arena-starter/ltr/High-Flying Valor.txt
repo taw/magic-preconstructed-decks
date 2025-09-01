@@ -2,13 +2,13 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Myrel, Shield of Argive [BRO]
-6 Island [BRO]
+6 Island [LTR:*]
 1 Valiant Veteran [DMU]
 1 By Elspeth's Command [YBRO]
 1 Siege Veteran [BRO]
 1 Rescue Retriever [BRO]
 1 Harbin, Vanguard Aviator [BRO]
-10 Plains [BRO]
+10 Plains [LTR:*]
 1 Skystrike Officer [BRO]
 2 Recruitment Officer [BRO]
 2 Lay Down Arms [BRO]

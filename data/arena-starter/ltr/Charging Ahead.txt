@@ -2,8 +2,8 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Samut, Vizier of Naktamun [MAT]
-8 Mountain [BRO]
-8 Forest [BRO]
+8 Mountain [LTR:*]
+8 Forest [LTR:*]
 1 Feldon, Ronom Excavator [BRO]
 1 Tomakul Phoenix [YBRO]
 1 Migloz, Maze Crusher [ONE]

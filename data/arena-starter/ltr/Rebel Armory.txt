@@ -2,8 +2,8 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Nahiri, Forged in Fury [MAT]
-10 Mountain [ONE]
-6 Plains [ONE]
+10 Mountain [LTR:*]
+6 Plains [LTR:*]
 1 Bladehold Cleaver [YONE]
 1 Astor, Bearer of Blades [DMU]
 1 Dragonwing Glider [ONE]

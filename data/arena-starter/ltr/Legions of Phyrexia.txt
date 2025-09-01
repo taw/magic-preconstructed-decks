@@ -23,5 +23,5 @@
 4 Sunlit Marsh [DMU]
 1 Pile On [MOM]
 4 Scoured Barrens [NEO]
-9 Plains [SIR]
-7 Swamp [MOM]
+9 Plains [LTR:*]
+7 Swamp [LTR:*]

@@ -2,8 +2,8 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Mishra, Claimed by Gix [BRO]
-9 Swamp [DMU]
-7 Mountain [DMU]
+9 Swamp [LTR:*]
+7 Mountain [LTR:*]
 1 Phyrexian Dragon Engine [BRO]
 1 Urabrask's Forge [ONE]
 1 Ashnod, Flesh Mechanist [BRO]

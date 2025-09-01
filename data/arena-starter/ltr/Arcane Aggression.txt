@@ -2,9 +2,9 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Urabrask [MOM]
-9 Mountain [DMU]
+9 Mountain [LTR:*]
 1 Gandalf the Grey [LTR]
-7 Island [DMU]
+7 Island [LTR:*]
 1 Ghitu Embercoiler [YDMU]
 1 Haughty Djinn [DMU]
 1 Chrome Host Seedshark [MOM]
