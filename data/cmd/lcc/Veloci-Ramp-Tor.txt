@@ -1,7 +1,7 @@
 // NAME: Veloci-Ramp-Tor
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lost-caverns-of-ixalan-commander-decklists
 // DATE: 2023-11-17
-COMMANDER: 1 Pantlaza, Sun-Favored [foil]
+COMMANDER: 1 Pantlaza, Sun-Favored [LCC:4] [foil]
 1 Wayta, Trainer Prodigy [foil]
 1 Bronzebeak Foragers
 1 From the Rubble
@@ -89,4 +89,5 @@ COMMANDER: 1 Pantlaza, Sun-Favored [foil]
 4 Plains [LCI:*]
 4 Mountain [LCI:*]
 
-Sideboard
+Display Commander
+1 Pantlaza, Sun-Favored [LCC:124] [foil] [etched]

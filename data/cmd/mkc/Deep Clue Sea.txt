@@ -91,4 +91,5 @@ COMMANDER: 1 Morska, Undersea Sleuth [foil] [MKC:3]
 6 Island [MKM:*]
 5 Forest [MKM:*]
 
-Sideboard
+Display Commander
+1 Morska, Undersea Sleuth [MKC:51] [foil] [etched]

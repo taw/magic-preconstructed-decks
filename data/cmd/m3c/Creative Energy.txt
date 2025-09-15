@@ -88,4 +88,5 @@ COMMANDER: 1 Satya, Aetherflux Genius [foil] [M3C:3]
 3 Mountain [MH3:316]
 2 Mountain [MH3:317]
 
-Sideboard
+Display Commander
+1 Satya, Aetherflux Genius [M3C:146] [foil] [etched]

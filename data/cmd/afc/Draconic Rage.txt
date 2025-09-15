@@ -1,7 +1,7 @@
 // NAME: Draconic Rage
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
 // DATE: 2021-07-23
-COMMANDER: 1 Vrondiss, Rage of Ancients [foil]
+COMMANDER: 1 Vrondiss, Rage of Ancients [AFC:4] [foil]
 1 Bogardan Hellkite
 1 Demanding Dragon
 1 Dragonmaster Outcast
@@ -76,3 +76,6 @@ COMMANDER: 1 Vrondiss, Rage of Ancients [foil]
 1 Component Pouch
 1 Sword of Hours
 1 Underdark Rift
+
+Display Commander
+1 Vrondiss, Rage of Ancients [AFC:4] [foil] [etched]

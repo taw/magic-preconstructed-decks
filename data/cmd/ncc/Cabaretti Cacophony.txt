@@ -88,3 +88,6 @@ COMMANDER: 1 Kitt Kanto, Mayhem Diva [NCC:4] [foil]
 4 Plains [SNC:*]
 4 Mountain [SNC:*]
 8 Forest [SNC:*]
+
+Display Commander
+1 Kitt Kanto, Mayhem Diva [NCC:189] [foil] [etched]

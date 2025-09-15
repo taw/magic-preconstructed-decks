@@ -87,3 +87,6 @@ COMMANDER: 1 Kamiz, Obscura Oculus [NCC:3] [foil]
 5 Plains [SNC:*]
 6 Island [SNC:*]
 6 Swamp [SNC:*]
+
+Display Commander
+1 Kamiz, Obscura Oculus [NCC:188] [foil] [etched]

@@ -86,3 +86,6 @@ COMMANDER: 1 Anhelo, the Painter [NCC:1] [foil]
 7 Island [SNC:*]
 6 Swamp [SNC:*]
 5 Mountain [SNC:*]
+
+Display Commander
+1 Anhelo, the Painter [NCC:186] [foil] [etched]

@@ -102,4 +102,5 @@ COMMANDER: 1 Ulalek, Fused Atrocity [foil] [M3C:4]
 1 Mountain [MH3:316]
 1 Forest [MH3:318]
 
-Sideboard
+Display Commander
+1 Ulalek, Fused Atrocity [M3C:147] [foil] [etched]

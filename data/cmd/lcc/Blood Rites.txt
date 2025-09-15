@@ -1,7 +1,7 @@
 // NAME: Blood Rites
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lost-caverns-of-ixalan-commander-decklists
 // DATE: 2023-11-17
-COMMANDER: 1 Clavileño, First of the Blessed [foil]
+COMMANDER: 1 Clavileño, First of the Blessed [LCC:2] [foil]
 1 Carmen, Cruel Skymarcher [foil]
 1 Charismatic Conqueror
 1 Elenda's Hierophant
@@ -83,4 +83,5 @@ COMMANDER: 1 Clavileño, First of the Blessed [foil]
 8 Plains [LCI:*]
 13 Swamp [LCI:*]
 
-Sideboard
+Display Commander
+1 Clavileño, First of the Blessed [LCC:122] [foil] [etched]

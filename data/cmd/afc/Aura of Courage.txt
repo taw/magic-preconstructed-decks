@@ -1,7 +1,7 @@
 // NAME: Aura of Courage
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
 // DATE: 2021-07-23
-COMMANDER: 1 Galea, Kindler of Hope [foil]
+COMMANDER: 1 Galea, Kindler of Hope [AFC:1] [foil]
 1 Angel of Finality
 1 Puresteel Paladin
 1 Realm-Cloaked Giant
@@ -90,3 +90,6 @@ COMMANDER: 1 Galea, Kindler of Hope [foil]
 1 Clay Golem
 1 Ebony Fly
 1 Sword of Hours
+
+Display Commander
+1 Galea, Kindler of Hope [AFC:1] [foil] [etched]

@@ -99,4 +99,5 @@ COMMANDER: 1 Omo, Queen of Vesuva [foil] [M3C:141]
 2 Forest [MH3:318] [foil]
 2 Forest [MH3:319] [foil]
 
-Sideboard
+Display Commander
+1 Omo, Queen of Vesuva [M3C:149] [foil] [etched]

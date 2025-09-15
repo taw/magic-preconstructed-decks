@@ -92,3 +92,6 @@ COMMANDER: 1 The Wise Mothman [PIP:4] [foil]
 2 Forest [PIP:326]
 3 Island [PIP:319]
 2 Island [PIP:320]
+
+Display Commander
+1 The Wise Mothman [PIP:1067] [foil] [etched]

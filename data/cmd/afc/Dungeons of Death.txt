@@ -1,7 +1,7 @@
 // NAME: Dungeons of Death
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/adventures-forgotten-realms-commander-decklists-2021-07-09
 // DATE: 2021-07-23
-COMMANDER: 1 Sefris of the Hidden Ways [foil]
+COMMANDER: 1 Sefris of the Hidden Ways [AFC:3] [foil]
 1 Cataclysmic Gearhulk
 1 Eternal Dragon
 1 Karmic Guide
@@ -85,3 +85,6 @@ COMMANDER: 1 Sefris of the Hidden Ways [foil]
 1 Bucknard's Everfull Purse
 1 Clay Golem
 1 Component Pouch
+
+Display Commander
+1 Sefris of the Hidden Ways [AFC:3] [foil] [etched]
