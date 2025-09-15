@@ -1,7 +1,7 @@
 // NAME: Spirit Squadron
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08
 // DATE: 2021-11-19
-COMMANDER: 1 Millicent, Restless Revenant [MIC:1] [foil]
+COMMANDER: 1 Millicent, Restless Revenant [VOC:1] [foil]
 1 Dovin, Grand Arbiter
 1 Donal, Herald of Wings [foil]
 1 Rhoda, Geist Avenger
@@ -82,4 +82,4 @@ COMMANDER: 1 Millicent, Restless Revenant [MIC:1] [foil]
 11 Island
 
 Display Millicent
-1 Millicent, Restless Revenant [MIC:1] [foil] [etched]
+1 Millicent, Restless Revenant [VOC:1] [foil] [etched]
