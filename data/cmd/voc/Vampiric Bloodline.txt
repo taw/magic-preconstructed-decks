@@ -80,4 +80,4 @@ COMMANDER: 1 Strefan, Maurer Progenitor [VOC:2] [foil]
 11 Mountain
 
 Display Commander
-1 Strefan, Maurer Progenitor [VOC:2] [foil] [etched]
+1 Strefan, Maurer Progenitor [OVOC:2] [foil] [etched]

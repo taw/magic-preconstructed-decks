@@ -92,4 +92,4 @@ COMMANDER: 1 Galea, Kindler of Hope [AFC:1] [foil]
 1 Sword of Hours
 
 Display Commander
-1 Galea, Kindler of Hope [AFC:1] [foil] [etched]
+1 Galea, Kindler of Hope [OAFC:1] [foil] [etched]

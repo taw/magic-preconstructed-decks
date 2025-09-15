@@ -81,4 +81,4 @@ COMMANDER: 1 Leinore, Autumn Sovereign [MIC:1] [foil]
 1 Moonsilver Key
 
 Display Commander
-1 Leinore, Autumn Sovereign [MIC:1] [foil] [etched]
+1 Leinore, Autumn Sovereign [OMIC:1] [foil] [etched]

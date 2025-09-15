@@ -87,4 +87,4 @@ COMMANDER: 1 Sefris of the Hidden Ways [AFC:3] [foil]
 1 Component Pouch
 
 Display Commander
-1 Sefris of the Hidden Ways [AFC:3] [foil] [etched]
+1 Sefris of the Hidden Ways [OAFC:3] [foil] [etched]

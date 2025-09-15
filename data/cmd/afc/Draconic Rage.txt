@@ -78,4 +78,4 @@ COMMANDER: 1 Vrondiss, Rage of Ancients [AFC:4] [foil]
 1 Underdark Rift
 
 Display Commander
-1 Vrondiss, Rage of Ancients [AFC:4] [foil] [etched]
+1 Vrondiss, Rage of Ancients [OAFC:4] [foil] [etched]

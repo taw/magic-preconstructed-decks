@@ -78,4 +78,4 @@ COMMANDER: 1 Wilhelt, the Rotcleaver [MIC:2] [foil]
 1 Tomb Tyrant
 
 Display Commander
-1 Wilhelt, the Rotcleaver [MIC:2] [foil] [etched]
+1 Wilhelt, the Rotcleaver [OMIC:2] [foil] [etched]

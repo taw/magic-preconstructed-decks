@@ -78,4 +78,4 @@ COMMANDER: 1 Prosper, Tome-Bound [AFC:2] [foil]
 1 Underdark Rift
 
 Display Commander
-1 Prosper, Tome-Bound [AFC:2] [foil] [etched]
+1 Prosper, Tome-Bound [OAFC:2] [foil] [etched]
