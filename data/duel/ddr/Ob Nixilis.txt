@@ -32,3 +32,6 @@
 1 Unhallowed Pact
 2 Leechridden Swamp
 22 Swamp [DDR:*]
+
+Sideboard
+1 Ob Nixilis Reignited Emblem [DDR:76] [token]
