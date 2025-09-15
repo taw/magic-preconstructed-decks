@@ -89,3 +89,6 @@ COMMANDER: 1 Henzie "Toolbox" Torre [NCC:2] [foil]
 4 Swamp [SNC:*]
 5 Mountain [SNC:*]
 6 Forest [SNC:*]
+
+Display Commander
+1 Henzie "Toolbox" Torre [NCC:187] [foil] [etched]

@@ -1,7 +1,7 @@
 // NAME: Buckle Up
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-commander-decklists-2022-02-07
 // DATE: 2022-02-18
-COMMANDER: 1 Kotori, Pilot Prodigy [foil]
+COMMANDER: 1 Kotori, Pilot Prodigy [NEC:2] [foil]
 1 Jace, Architect of Thought
 1 Drumbellower
 1 Ironsoul Enforcer
@@ -73,3 +73,6 @@ COMMANDER: 1 Kotori, Pilot Prodigy [foil]
 1 Temple of Enlightenment
 15 Plains [NEO:*]
 15 Island [NEO:*]
+
+Display Commander
+1 Kotori, Pilot Prodigy [NEC-78] [foil] [etched]

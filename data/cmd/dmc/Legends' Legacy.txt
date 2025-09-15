@@ -1,7 +1,7 @@
 // NAME: Legends' Legacy
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19
 // DATE: 2022-09-09
-COMMANDER: 1 Dihada, Binder of Wills [foil]
+COMMANDER: 1 Dihada, Binder of Wills [DMC:1] [foil]
 1 Adriana, Captain of the Guard
 1 Alesha, Who Smiles at Death
 1 Anafenza, Kin-Tree Spirit
@@ -88,3 +88,6 @@ COMMANDER: 1 Dihada, Binder of Wills [foil]
 5 Mountain [DMU:271]
 6 Plains [DMU:262]
 5 Swamp [DMU:268]
+
+Display Commander
+1 Dihada, Binder of Wills [DMC:49] [foil] [etched]

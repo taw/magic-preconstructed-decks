@@ -1,7 +1,7 @@
 // NAME: Painbow
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19
 // DATE: 2022-09-09
-COMMANDER: 1 Jared Carthalion [foil]
+COMMANDER: 1 Jared Carthalion [DMC:2] [foil]
 1 Archelos, Lagoon Mystic
 1 Atla Palani, Nest Tender
 1 Baleful Strix
@@ -95,3 +95,6 @@ COMMANDER: 1 Jared Carthalion [foil]
 2 Island [DMU:265]
 2 Plains [DMU:262]
 2 Swamp [DMU:268]
+
+Display Commander
+1 Jared Carthalion [DMC:50] [foil] [etched]
