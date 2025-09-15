@@ -1,7 +1,7 @@
 // NAME: Coven Counters
 // SOURCE: https://magic.wizards.com/en/articles/archive/news/innistrad-midnight-hunt-commander-decklists-2021-09-13
 // DATE: 2021-09-24
-COMMANDER: 1 Leinore, Autumn Sovereign [foil]
+COMMANDER: 1 Leinore, Autumn Sovereign [MIC:1] [foil]
 1 Angel of Glory's Rise
 1 Bastion Protector
 1 Custodi Soulbinders
@@ -79,3 +79,6 @@ COMMANDER: 1 Leinore, Autumn Sovereign [foil]
 1 Somberwald Beastmaster
 1 Dawnhart Wardens
 1 Moonsilver Key
+
+Display Commander
+1 Leinore, Autumn Sovereign [MIC:1] [foil] [etched]
