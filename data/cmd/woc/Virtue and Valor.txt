@@ -1,7 +1,7 @@
 // NAME: Virtue and Valor
 // SOURCE: https://magic.wizards.com/en/news/announcements/wilds-of-eldraine-commander-decklists
 // DATE: 2023-09-08
-COMMANDER: 1 Ellivere of the Wild Court [foil]
+COMMANDER: 1 Ellivere of the Wild Court [WOC:2] [foil]
 1 Gylwain, Casting Director [foil]
 1 Liberated Livestock
 1 Ox Drover
@@ -74,3 +74,6 @@ COMMANDER: 1 Ellivere of the Wild Court [foil]
 1 Syr Armont, the Redeemer [WOE:214]
 15 Forest [WOE:*]
 14 Plains [WOE:*]
+
+Display Commander
+1 Ellivere of the Wild Court [WOC:57] [foil] [etched]

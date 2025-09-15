@@ -88,4 +88,5 @@ COMMANDER: 1 Nelly Borca, Impulsive Accuser [foil] [MKC:4]
 9 Plains [MKM:*]
 7 Mountain [MKM:*]
 
-Sideboard
+Display Commander
+1 Nelly Borca, Impulsive Accuser [MKC:52] [foil] [etched]

@@ -86,4 +86,5 @@ COMMANDER: 1 Mirko, Obsessive Theorist [foil] [MKC:2]
 9 Island [MKM:*]
 9 Swamp [MKM:*]
 
-Sideboard
+Display Commander
+1 Mirko, Obsessive Theorist [MKC:50] [foil] [etched]

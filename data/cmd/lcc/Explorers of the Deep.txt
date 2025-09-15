@@ -1,7 +1,7 @@
 // NAME: Explorers of the Deep
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lost-caverns-of-ixalan-commander-decklists
 // DATE: 2023-11-17
-COMMANDER: 1 Hakbal of the Surging Soul [foil]
+COMMANDER: 1 Hakbal of the Surging Soul [LCC:3] [foil]
 1 Xolatoyac, the Smiling Flood [foil]
 1 Mist Dancer
 1 Ripples of Potential
@@ -84,4 +84,5 @@ COMMANDER: 1 Hakbal of the Surging Soul [foil]
 7 Forest [LCI:*]
 13 Island [LCI:*]
 
-Sideboard
+Display Commander
+1 Hakbal of the Surging Soul [LCC:123] [foil] [etched]

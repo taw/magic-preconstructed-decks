@@ -95,3 +95,6 @@ COMMANDER: 1 Dogmeat, Ever Loyal [PIP:2] [foil]
 2 Forest [PIP:326]
 2 Plains [PIP:317]
 2 Plains [PIP:318]
+
+Display Commander
+1 Dogmeat, Ever Loyal [PIP:1065] [foil] [etched]

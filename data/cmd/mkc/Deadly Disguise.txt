@@ -94,4 +94,5 @@ COMMANDER: 1 Kaust, Eyes of the Glade [foil] [MKC:1]
 3 Mountain [MKM:*]
 4 Forest [MKM:*]
 
-Sideboard
+Display Commander
+1 Kaust, Eyes of the Glade [MKC:49] [foil] [etched]

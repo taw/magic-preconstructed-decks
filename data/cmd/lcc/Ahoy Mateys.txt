@@ -1,7 +1,7 @@
 // NAME: Ahoy Mateys
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-lost-caverns-of-ixalan-commander-decklists
 // DATE: 2023-11-17
-COMMANDER: 1 Admiral Brass, Unsinkable [foil]
+COMMANDER: 1 Admiral Brass, Unsinkable [LCC:1] [foil]
 1 Don Andres, the Renegade [foil]
 1 The Indomitable [LCC:75]
 1 Storm Fleet Negotiator [LCC:78]
@@ -90,4 +90,5 @@ COMMANDER: 1 Admiral Brass, Unsinkable [foil]
 4 Swamp [LCI:*]
 5 Mountain [LCI:*]
 
-Sideboard
+Display Commander
+1 Admiral Brass, Unsinkable [LCC:121] [foil] [etched]

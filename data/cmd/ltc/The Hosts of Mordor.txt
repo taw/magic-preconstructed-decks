@@ -88,3 +88,6 @@ COMMANDER: 1 Sauron, Lord of the Rings [foil] [LTC:4]
 3 Swamp [LTR:267]
 4 Mountain [LTR:268]
 3 Mountain [LTR:269]
+
+Display Commander
+1 Sauron, Lord of the Rings [LTC:84] [foil] [etched]
