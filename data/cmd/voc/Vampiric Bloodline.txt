@@ -1,7 +1,7 @@
 // NAME: Vampiric Bloodline
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-commander-decklists-2021-11-08
 // DATE: 2021-11-19
-COMMANDER: 1 Strefan, Maurer Progenitor [MIC:2] [foil]
+COMMANDER: 1 Strefan, Maurer Progenitor [VOC:2] [foil]
 1 Timothar, Baron of Bats [foil]
 1 Crossway Troublemakers
 1 Kamber, the Plunderer
@@ -80,4 +80,4 @@ COMMANDER: 1 Strefan, Maurer Progenitor [MIC:2] [foil]
 11 Mountain
 
 Display Commander
-1 Strefan, Maurer Progenitor [MIC:2] [foil] [etched]
+1 Strefan, Maurer Progenitor [VOC:2] [foil] [etched]

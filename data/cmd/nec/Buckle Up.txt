@@ -75,4 +75,4 @@ COMMANDER: 1 Kotori, Pilot Prodigy [NEC:2] [foil]
 15 Island [NEO:*]
 
 Display Commander
-1 Kotori, Pilot Prodigy [NEC-78] [foil] [etched]
+1 Kotori, Pilot Prodigy [NEC:78] [foil] [etched]

@@ -78,4 +78,4 @@ COMMANDER: 1 Chishiro, the Shattered Blade [NEC:1] [foil]
 14 Forest [NEO:*]
 
 Display Commander
-1 Chishiro, the Shattered Blade [NEC-77] [foil] [etched]
+1 Chishiro, the Shattered Blade [NEC:77] [foil] [etched]
