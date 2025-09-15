@@ -2,6 +2,7 @@
 // SOURCE: https://mtg.wiki/wiki/Streets_of_New_Capenna/Commander_decks
 // DATE: 2022-04-29
 COMMANDER: 1 Perrie, the Pulverizer [NCC:5] [foil]
+1 Kros, Defense Contractor [foil]
 1 Ajani Unyielding
 1 Angelic Sleuth
 1 Aven Courier
@@ -17,7 +18,6 @@ COMMANDER: 1 Perrie, the Pulverizer [NCC:5] [foil]
 1 Grateful Apparition
 1 Incubation Druid
 1 Jenara, Asura of War
-1 Kros, Defense Contractor
 1 Luminarch Aspirant
 1 Park Heights Maverick
 1 Rishkar, Peema Renegade

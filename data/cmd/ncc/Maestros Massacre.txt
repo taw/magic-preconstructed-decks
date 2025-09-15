@@ -2,12 +2,12 @@
 // SOURCE: https://mtg.wiki/wiki/Streets_of_New_Capenna/Commander_decks
 // DATE: 2022-04-29
 COMMANDER: 1 Anhelo, the Painter [NCC:1] [foil]
+1 Parnesse, the Subtle Brush [foil]
 1 Bloodsoaked Champion
 1 Cormela, Glamour Thief
 1 Dogged Detective
 1 Goblin Electromancer
 1 Kess, Dissident Mage
-1 Parnesse, the Subtle Brush
 1 Puppeteer Clique
 1 Rekindling Phoenix
 1 Spellbinding Soprano
