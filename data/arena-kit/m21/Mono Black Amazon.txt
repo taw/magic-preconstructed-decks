@@ -1,0 +1,24 @@
+// NAME: Mono Black
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2021/Arena_Starter_Kit
+// DATE: 2020-07-03
+2 Blood Glutton [M21:90]
+1 Demon of Loathing [THB:292]
+1 Demonic Embrace [M21:95]
+3 Fetid Imp [M21:98]
+2 Finishing Blow [M21:99]
+3 Gloom Pangolin [IKO:89]
+2 Goremand [M21:101]
+3 Grasp of Darkness [M21:102]
+3 Lost Legion [ELD:94]
+1 Peer into the Abyss [M21:117]
+2 Serrated Scorpion [IKO:99]
+2 Skeleton Archer [M21:123]
+9 Swamp [M21:266]
+9 Swamp [M21:267]
+9 Swamp [M21:268]
+1 Underworld Sentinel [THB:293]
+3 Unlikely Aid [IKO:103]
+4 Walking Corpse [M21:128]
+
+Sideboard
+1 Demon of Loathing [THB:292] [foil]

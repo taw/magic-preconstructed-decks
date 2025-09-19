@@ -1,0 +1,24 @@
+// NAME: Mono Green
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2021/Arena_Starter_Kit
+// DATE: 2020-07-03
+3 Almighty Brushwagg [IKO:143]
+3 Bristling Boar [IKO:146]
+2 Colossal Dreadmaw [M21:176]
+1 Colossification [IKO:148]
+9 Forest [M21:272]
+9 Forest [M21:273]
+9 Forest [M21:274]
+2 Honey Mammoth [IKO:158]
+2 Humble Naturalist [IKO:160]
+3 Hyrax Tower Scout [THB:173]
+1 Ironscale Hydra [THB:296]
+3 Llanowar Visionary [M21:193]
+2 Plummet [THB:194]
+3 Ram Through [IKO:170]
+2 Snarespinner [M21:207]
+4 Titanic Growth [M21:210]
+1 Treeshaker Chimera [THB:297]
+1 Yorvo, Lord of Garenbrig [ELD:185]
+
+Sideboard
+1 Ironscale Hydra [THB:296] [foil]
