@@ -5,7 +5,7 @@
 1 Swamp [POR:204]
 1 Muck Rats
 1 Snapping Drake [POR:67d]
-1 Feral Shadowm [POR:93d]
+1 Feral Shadow [POR:93d]
 1 Island [POR:200]
 1 Cloud Pirates [POR:46d]
 1 Skeletal Snake
