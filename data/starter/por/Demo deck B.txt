@@ -1,6 +1,7 @@
 // NAME: Demo deck B
 // SOURCE: https://mtg.wiki/page/Sampler
 // DATE: 1997-05-01
+// This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
 1 Swamp [POR:204]
 1 Muck Rats
 1 Snapping Drake [POR:67d]

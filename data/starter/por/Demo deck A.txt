@@ -1,6 +1,7 @@
 // NAME: Demo deck A
 // SOURCE: https://mtg.wiki/page/Sampler
 // DATE: 1997-05-01
+// This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
 1 Mountain [POR:208]
 1 Regal Unicorn
 1 Hulking Goblin
