@@ -85,4 +85,20 @@ class Deck
   def section_sizes
     @sections.to_h{|k,v| [k, v.map{|c| c[:count]}.sum]}
   end
+
+  def merge_duplicates
+    @sections.each do |section_name, section|
+      map = {}
+      section.each do |card|
+        key = card.except(:count)
+        if map[key]
+          map[key][:count] += card[:count]
+          card[:count] = 0
+        else
+          map[key] = card
+        end
+      end
+      section.delete_if{|card| card[:count] == 0}
+    end
+  end
 end

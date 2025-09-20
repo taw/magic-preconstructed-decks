@@ -81,6 +81,7 @@ class BuildJsons
   def build(save_path)
     data_root.glob("*/*/*.txt").each do |path|
       deck = Deck.new(path)
+      deck.merge_duplicates
       validate_and_add_deck path, deck
     end
     @decks.sort_by!{|d| [d[:set_code], d[:name]]}

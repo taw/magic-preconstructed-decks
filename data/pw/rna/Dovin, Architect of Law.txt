@@ -20,6 +20,6 @@
 1 Sphinx's Insight
 1 Verity Circle
 2 Azorius Guildgate [RNA:243]
-2 Azorius Guildgate [RNA:243]
+2 Azorius Guildgate [RNA:244]
 12 Plains
 10 Island
