@@ -11,16 +11,16 @@
 1 Sacred Nectar
 1 Spotted Griffin
 1 Venerable Monk
-1 Warrior's Charge
-1 Anaconda
+1 Warrior's Charge [POR:38†]
+1 Anaconda [POR:158†]
 1 Gorilla Warrior
 1 Grizzly Bears
 1 Untamed Wilds
-1 Blaze
+1 Blaze [POR:118†]
 1 Fire Imp
 1 Hill Giant
 1 Hulking Goblin
 1 Lava Axe
 1 Lizard Warrior
-1 Raging Goblin
+1 Raging Goblin [POR:145†]
 1 Volcanic Hammer
