@@ -1,0 +1,15 @@
+// NAME: Demo deck A
+// SOURCE: https://mtg.wiki/page/Sampler
+// DATE: 1997-05-01
+1 Mountain [POR:208]
+1 Regal Unicorn
+1 Hulking Goblin
+1 Armored Pegasus [POR:6d]
+1 Bull Hippo [POR:160d]
+1 Forest [POR:212]
+1 Minotaur Warrior
+1 Plains [POR:196]
+1 Goblin Bully
+1 Mountain [POR:208]
+1 Devoted Hero
+1 Plains [POR:196]

@@ -1,0 +1,15 @@
+// NAME: Demo deck B
+// SOURCE: https://mtg.wiki/page/Sampler
+// DATE: 1997-05-01
+1 Swamp [POR:204]
+1 Muck Rats
+1 Snapping Drake [POR:67d]
+1 Feral Shadowm [POR:93d]
+1 Island [POR:200]
+1 Cloud Pirates [POR:46d]
+1 Skeletal Snake
+1 Island [POR:200]
+1 Storm Crow [POR:69d]
+1 Swamp [POR:204]
+1 Merfolk of the Pearl Trident
+1 Island [POR:200]
