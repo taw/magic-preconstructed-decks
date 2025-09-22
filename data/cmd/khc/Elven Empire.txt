@@ -65,7 +65,7 @@ COMMANDER: 1 Lathril, Blade of the Elves [foil]
 1 Prowess of the Fair
 1 Moldervine Reclamation
 1 Command Tower
-16 Forest
+16 Forest [KHM:*]
 1 Foul Orchard
 1 Golgari Guildgate
 1 Golgari Rot Farm
@@ -73,4 +73,4 @@ COMMANDER: 1 Lathril, Blade of the Elves [foil]
 1 Myriad Landscape
 1 Path of Ancestry
 1 Skemfar Elderhall
-13 Swamp
+13 Swamp [KHM:*]

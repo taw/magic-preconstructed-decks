@@ -78,8 +78,8 @@ COMMANDER: 1 Millicent, Restless Revenant [VOC:1] [foil]
 1 Path of Ancestry
 1 Temple of the False God
 1 Unclaimed Territory
-12 Plains
-11 Island
+12 Plains [VOW:*]
+11 Island [VOW:*]
 
 Display Commander
 1 Millicent, Restless Revenant [OVOC:1] [foil] [etched]

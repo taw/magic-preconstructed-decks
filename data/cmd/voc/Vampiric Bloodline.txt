@@ -76,8 +76,8 @@ COMMANDER: 1 Strefan, Maurer Progenitor [VOC:2] [foil]
 1 Tainted Peak
 1 Temple of the False God
 1 Unclaimed Territory
-14 Swamp
-11 Mountain
+14 Swamp [VOW:*]
+11 Mountain [VOW:*]
 
 Display Commander
 1 Strefan, Maurer Progenitor [OVOC:2] [foil] [etched]
