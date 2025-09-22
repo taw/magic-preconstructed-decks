@@ -71,10 +71,10 @@ COMMANDER: 1 Ranar the Ever-Watchful [foil]
 1 Cryptic Caves
 1 Gates of Istfell
 1 Glacial Floodplain
-12 Island
+12 Island [KHM:*]
 1 Meandering River
 1 Myriad Landscape
 1 Opal Palace
-13 Plains
+13 Plains [KHM:*]
 1 Sejiri Refuge
 1 Tranquil Cove
