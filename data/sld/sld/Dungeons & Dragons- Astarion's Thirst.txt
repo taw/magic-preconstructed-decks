@@ -1,4 +1,4 @@
-// NAME: Astarion's Thirst
+// NAME: Dungeons & Dragons: Astarion's Thirst
 // SOURCE: https://secretlair.wizards.com/us/product/1016839
 // DATE: 2024-08-28
 1 [SLD:1797] Astarion, the Decadent
