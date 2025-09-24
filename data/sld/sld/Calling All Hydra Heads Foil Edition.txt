@@ -1,4 +1,4 @@
-// NAME: Calling All Hydra Heads foil
+// NAME: Calling All Hydra Heads Foil Edition
 // DATE: 2023-12-08
 // SOURCE: https://mtg.wiki/wiki/Secret_Lair:_Calling_All_Hydra_Heads
 1 [SLD:1329] Gargos, Vicious Watcher [foil]
