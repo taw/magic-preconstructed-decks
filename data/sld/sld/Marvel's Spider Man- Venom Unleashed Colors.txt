@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Venom Unleashed Colors
+// SOURCE: https://secretlair.wizards.com/us/product/1246595
+// DATE: 2025-09-30
+1 [SLD:2000] Damnation
+1 [SLD:2001] Dark Ritual
+1 [SLD:2002] Peer into the Abyss
+1 [SLD:2003] Surgical Extraction
+1 [SLD:2004] Tendrils of Agony

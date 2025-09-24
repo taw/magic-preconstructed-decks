@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Villainous Plots Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246592
+// DATE: 2025-09-30
+1 [SLD:1985] Deadly Dispute [foil]
+1 [SLD:1986] Go for the Throat [foil]
+1 [SLD:1987] Lightning Greaves [foil]
+1 [SLD:1988] Sol Ring [foil]
+1 [SLD:1989] Command Tower [foil]

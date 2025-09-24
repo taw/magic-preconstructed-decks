@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Heroic Deeds Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246587
+// DATE: 2025-09-30
+1 [SLD:1990] Ephemerate [foil]
+1 [SLD:1991] Three Visits [foil]
+1 [SLD:1992] Lightning Greaves [foil]
+1 [SLD:1993] Sol Ring [foil]
+1 [SLD:1994] Command Tower [foil]
