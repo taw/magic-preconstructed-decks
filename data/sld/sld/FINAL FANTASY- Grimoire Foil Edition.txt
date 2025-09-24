@@ -1,4 +1,4 @@
-// NAME: FINAL FANTASY: Grimoire EN Foil Edition
+// NAME: FINAL FANTASY: Grimoire Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1245646
 // DATE: 2025-06-10
 1 [SLD:1868] Prismatic Ending [foil]

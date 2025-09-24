@@ -1,4 +1,4 @@
-// NAME: FINAL FANTASY: Grimoire EN
+// NAME: FINAL FANTASY: Grimoire
 // SOURCE: https://secretlair.wizards.com/us/product/1245647
 // DATE: 2025-06-10
 1 [SLD:1868] Prismatic Ending
