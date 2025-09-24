@@ -332,6 +332,12 @@ starter:
   name: "Starter Deck"
   sections:
     Main Deck: [30, 35, 40, 60]
+demo:
+  category: "deck"
+  format: "casual"
+  name: "Demo Deck"
+  sections:
+    Main Deck: 12
 theme-40-std:
   category: "deck"
   format: "standard"
