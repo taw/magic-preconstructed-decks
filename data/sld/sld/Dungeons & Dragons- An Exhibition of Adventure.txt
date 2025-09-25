@@ -1,4 +1,4 @@
-// NAME: An Exhibition of Adventure
+// NAME: Dungeons & Dragons: An Exhibition of Adventure
 // SOURCE: https://secretlair.wizards.com/us/product/1016833
 // DATE: 2024-08-28
 1 [SLD:1778] Fell the Mighty

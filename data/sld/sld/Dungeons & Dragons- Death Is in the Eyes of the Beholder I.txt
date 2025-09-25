@@ -1,4 +1,4 @@
-// NAME: Death Is in the Eyes of the Beholder I
+// NAME: Dungeons & Dragons: Death Is in the Eyes of the Beholder I
 // SOURCE: https://secretlair.wizards.com/us/product/1016835
 // DATE: 2024-08-28
 1 [SLD:1785] Xanathar, Guild Kingpin

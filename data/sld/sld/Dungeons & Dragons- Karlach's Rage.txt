@@ -1,4 +1,4 @@
-// NAME: Karlach's Rage
+// NAME: Dungeons & Dragons: Karlach's Rage
 // SOURCE: https://secretlair.wizards.com/us/product/1016841
 // DATE: 2024-08-28
 1 [SLD:1802] Karlach, Fury of Avernus

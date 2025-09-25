@@ -1,4 +1,4 @@
-// NAME: Marvel's Spider-Man: Venom Unleashed Colors
+// NAME: Marvel's Spider-Man: Venom Unleashed (Colors)
 // SOURCE: https://secretlair.wizards.com/us/product/1246595
 // DATE: 2025-09-30
 1 [SLD:2000] Damnation
