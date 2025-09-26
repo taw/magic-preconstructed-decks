@@ -1,0 +1,13 @@
+// NAME: Marvel's Spider-Man: Mana Symbiote Raised Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246589
+// DATE: 2025-09-30
+1 [SLD] Plains [foil]
+1 [SLD] Plains [foil]
+1 [SLD] Island [foil]
+1 [SLD] Island [foil]
+1 [SLD] Swamp [foil]
+1 [SLD] Swamp [foil]
+1 [SLD] Mountain [foil]
+1 [SLD] Mountain [foil]
+1 [SLD] Forest [foil]
+1 [SLD] Forest [foil]

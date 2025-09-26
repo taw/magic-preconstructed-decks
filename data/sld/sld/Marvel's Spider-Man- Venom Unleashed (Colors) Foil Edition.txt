@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Venom Unleashed (Colors) Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246594
+// DATE: 2025-09-30
+1 [SLD:6] Damnation [foil]
+1 [SLD:7] Dark Ritual [foil]
+1 [SLD:8] Peer into the Abyss [foil]
+1 [SLD:9] Surgical Extraction [foil]
+1 [SLD:10] Tendrils of Agony [foil]

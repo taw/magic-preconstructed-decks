@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Venom Unleashed (Inks) Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246590
+// DATE: 2025-09-30
+1 [SLD:42051] Damnation [foil]
+1 [SLD:42052] Dark Ritual [foil]
+1 [SLD:42053] Peer into the Abyss [foil]
+1 [SLD:42054] Surgical Extraction [foil]
+1 [SLD:42055] Tendrils of Agony [foil]
