@@ -1,0 +1,7 @@
+// NAME: Play-Doh: Squishful Thinking Foil Edition
+// SOURCE: https://magic.wizards.com/en/news/announcements/magic-and-extra-life-team-up-for-2025
+// DATE: 2025-09-26
+1 [SLD:2193] Greensleeves, Maro-Sorcerer [foil]
+1 [SLD:2193] Polyraptor [foil]
+1 [SLD:2193] Academy Manufactor [foil]
+1 [SLD:2193] Wurmcoil Engine [foil]
