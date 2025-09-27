@@ -1,7 +1,0 @@
-// NAME: Play-Doh: Squishful Thinking
-// SOURCE: https://magic.wizards.com/en/news/announcements/magic-and-extra-life-team-up-for-2025
-// DATE: 2025-09-26
-1 [SLD:2193] Greensleeves, Maro-Sorcerer
-1 [SLD:2193] Polyraptor
-1 [SLD:2193] Academy Manufactor
-1 [SLD:2193] Wurmcoil Engine
