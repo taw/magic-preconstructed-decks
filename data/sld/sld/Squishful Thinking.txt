@@ -1,0 +1,7 @@
+// NAME: Squishful Thinking
+// SOURCE: https://secretlair.wizards.com/us/product/1246498
+// DATE: 2025-10-06
+1 [SLD:2193] Greensleeves, Maro-Sorcerer
+1 [SLD:2193] Polyraptor
+1 [SLD:2193] Academy Manufactor
+1 [SLD:2193] Wurmcoil Engine
