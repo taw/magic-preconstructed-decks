@@ -1,7 +1,7 @@
 // NAME: Squishful Thinking Foil Edition
-// SOURCE: https://secretlair.wizards.com/us/product/1246498
+// SOURCE: https://secretlair.wizards.com/us/product/1246497
 // DATE: 2025-10-06
 1 [SLD:2193] Greensleeves, Maro-Sorcerer [foil]
-1 [SLD:2193] Polyraptor [foil]
-1 [SLD:2193] Academy Manufactor [foil]
-1 [SLD:2193] Wurmcoil Engine [foil]
+1 [SLD:2194] Polyraptor [foil]
+1 [SLD:2195] Academy Manufactor [foil]
+1 [SLD:2196] Wurmcoil Engine [foil]
