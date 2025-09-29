@@ -1,6 +1,6 @@
 // NAME: The Evil Dead Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/en/product/872676
-// DATE: 2023-10-02
+// DATE: 2023-12-18
 1 [SLD:1352] Puresteel Paladin [foil]
 1 [SLD:1353] Vanquish the Horde [foil]
 1 [SLD:1354] Zombie Apocalypse [foil]
