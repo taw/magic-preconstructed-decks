@@ -1,4 +1,4 @@
-// NAME: Squishful Thinking
+// NAME: Play-Doh: Squishful Thinking
 // SOURCE: https://secretlair.wizards.com/us/product/1246498
 // DATE: 2025-10-06
 1 [SLD:2193] Greensleeves, Maro-Sorcerer
