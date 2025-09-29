@@ -1,5 +1,5 @@
 // NAME: The Godzilla Lands
-// SOURCE: https://secretlair.wizards.com/us/product/608300
+// SOURCE: https://secretlair.wizards.com/us/product/605645
 // DATE: 2020-05-07
 1 [SLD:63] Plains [foil]
 1 [SLD:64] Island [foil]

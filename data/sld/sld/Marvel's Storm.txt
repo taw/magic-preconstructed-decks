@@ -1,8 +1,8 @@
 // NAME: Marvel's Storm
-// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-marvel-superdrop
-// DATE: 2024-11-04
+// SOURCE: https://secretlair.wizards.com/us/product/1018564
+// DATE: 2024-11-05
 1 [SLD:1742] Storm, Force of Nature
 1 [SLD:1743] Lightning Bolt
-1 [SLD:1744] Storm's Will
+1 [SLD:1744] Jeska's Will
 1 [SLD:1745] Ice Storm
-1 [SLD:1746] Ororo Borealis
+1 [SLD:1746] Manamorphose

@@ -3,7 +3,7 @@
 // DATE: 2024-11-05
 1 [SLD:1747] Black Panther, Wakandan King [foil]
 1 [SLD:1748] Secure the Wastes [foil]
-1 [SLD:1749] Bast's Blessing [foil]
+1 [SLD:1749] Primal Vigor [foil]
 1 [SLD:1750] Heroic Intervention [foil]
-1 [SLD:1751] Wakandan Skyscraper [foil]
+1 [SLD:1751] Karn's Bastion [foil]
 1 [SLD:1752] Warrior [foil] [token]
