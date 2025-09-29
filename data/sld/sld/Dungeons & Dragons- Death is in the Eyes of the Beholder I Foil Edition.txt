@@ -1,4 +1,4 @@
-// NAME: Dungeons & Dragons: Death Is in the Eyes of the Beholder I Foil Edition
+// NAME: Dungeons & Dragons: Death is in the Eyes of the Beholder I Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1016834
 // DATE: 2024-08-28
 1 [SLD:1785] Xanathar, Guild Kingpin [foil]
