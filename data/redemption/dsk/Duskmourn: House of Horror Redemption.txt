@@ -1,6 +1,6 @@
 // NAME: Duskmourn: House of Horror Redemption
 // SOURCE: default database query
-// DATE: 2024-09-27
+// DATE: 2024-10-16
 1 Abandoned Campground [DSK:255]
 1 Abhorrent Oculus [DSK:42]
 1 Acrobatic Cheerleader [DSK:1]
