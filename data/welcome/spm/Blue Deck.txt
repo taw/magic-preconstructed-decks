@@ -1,4 +1,4 @@
-// NAME: Blue
+// NAME: Blue Deck
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
 // DATE: 2025-09-26
 1 Spider-Man 2099, Miguel O'Hara

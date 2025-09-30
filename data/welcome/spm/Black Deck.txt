@@ -1,4 +1,4 @@
-// NAME: Black
+// NAME: Black Deck
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
 // DATE: 2025-09-26
 1 Venom, Eddie Brock

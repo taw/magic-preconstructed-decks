@@ -1,4 +1,4 @@
-// NAME: White
+// NAME: White Deck
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
 // DATE: 2025-09-26
 1 Spider-Man, Peter Parker
