@@ -1,0 +1,20 @@
+// NAME: Red Deck
+// SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
+1 Ghost-Spider, Gwen Stacy
+11 Mountain [SPM:197]
+1 Mountain [SPM:192]
+1 Spider-Bot
+2 Rampaging Classmate
+1 Spider-Islanders
+1 Taxi Driver
+1 Double Trouble
+1 Shocker, Unshakable
+1 Electro's Bolt
+1 Romantic Rendezvous
+1 Stegron the Dinosaur Man
+1 The Mary Janes
+2 Shock
+1 Spider-Gwen, Free Spirit
+2 Angry Rabble
+1 Masked Meower

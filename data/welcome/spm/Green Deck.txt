@@ -1,0 +1,18 @@
+// NAME: Green Deck
+// SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
+1 Spider-Man, Miles Morales
+11 Forest [SPM:198]
+1 Forest [SPM:193]
+1 Spider-Bot
+2 Lurking Lizards
+2 Guy in the Chair
+2 Kraven's Cats
+2 Twisted Spider-Clone
+1 Scout the City
+1 Spider-Man, Brooklyn Visionary
+1 Spider-Rex, Daring Dino
+1 Venom Blast
+1 Grow Extra Arms
+2 Kapow!
+1 Prowler, Misguided Mentor

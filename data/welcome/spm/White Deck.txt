@@ -1,0 +1,19 @@
+// NAME: White Deck
+// SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
+1 Spider-Man, Peter Parker
+2 Thwip!
+2 Web Up
+2 Amateur Hero
+1 Spectacular Tactics
+2 Wild Pack Squad
+1 Spider-Bot
+1 Starling, Aerial Ally
+1 Amazing Alliance
+1 MJ, Rising Star
+1 Spider-Man, Web-Slinger
+1 Daily Bugle Reporters
+1 Selfless Police Captain
+1 Aunt May
+11 Plains [SPM:194]
+1 Plains [SPM:189]
