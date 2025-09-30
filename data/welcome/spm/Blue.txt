@@ -1,0 +1,19 @@
+// NAME: Blue
+// SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+1 Spider-Man 2099, Miguel O'Hara
+1 Spider-Bot
+2 Doc Ock's Henchmen
+2 Unstable Experiment
+2 Whoosh!
+1 Oscorp Research Team
+2 Flying Octobot
+1 Lyla, Holographic Assistant
+1 Doc Ock, Sinister Scientist
+1 Future Flight
+1 Spider-Byte, Web Warden
+1 Beetle, Legacy Criminal
+2 Alchemax Slayer-Bots
+11 Island [oHdx4zYIaLiRgAU8VSFDr]
+1 Island Spiderweb [6UFC4rvfaidT1I9fSolSIV]
+
+Sideboard
