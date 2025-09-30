@@ -1,5 +1,6 @@
 // NAME: White
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
 1 Spider-Man, Peter Parker
 2 Thwip!
 2 Web Up
@@ -14,7 +15,5 @@
 1 Daily Bugle Reporters
 1 Selfless Police Captain
 1 Aunt May
-11 Plains [3XZyXww3tptbGlrbpmMyLM]
-1 Plains Spiderweb [6UFC4rvfaidT1I9fSolSIV]
-
-Sideboard
+11 Plains [SPM:194]
+1 Plains [SPM:189]

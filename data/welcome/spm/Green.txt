@@ -1,8 +1,9 @@
 // NAME: Green
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
 1 Spider-Man, Miles Morales
-11 Forest [2DZg9as241DL1Z5PllDJSq]
-1 Forest Spiderweb [5jnLmspp3SS4sL1ftqj4ll]
+11 Forest [SPM:198]
+1 Forest [SPM:193]
 1 Spider-Bot
 2 Lurking Lizards
 2 Guy in the Chair
@@ -15,5 +16,3 @@
 1 Grow Extra Arms
 2 Kapow!
 1 Prowler, Misguided Mentor
-
-Sideboard

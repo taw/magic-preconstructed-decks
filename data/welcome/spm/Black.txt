@@ -1,8 +1,9 @@
 // NAME: Black
 // SOURCE: https://magic.wizards.com/en/news/feature/spider-man-welcome-decks
+// DATE: 2025-09-26
 1 Venom, Eddie Brock
-11 Swamp [6SJKv4nByNqjCL56Z52g4A]
-1 Swamp Spiderweb [1DJm6tu6NtBrRwiOdixRGa]
+11 Swamp [SPM:196]
+1 Swamp [SPM:191]
 1 Spider-Bot
 2 Symbiote Spawn
 2 Merciless Enforcers
@@ -16,5 +17,3 @@
 1 Risky Research
 1 Scorpion's Sting
 1 Grendel, Spawn of Knull
-
-Sideboard
