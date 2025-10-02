@@ -1,6 +1,6 @@
 // NAME: Dominaria United Foil Redemption
 // SOURCE: default database query
-// DATE: 2022-09-09
+// DATE: 2022-09-28
 1 Academy Loremaster [DMU:40] [foil]
 1 Academy Wall [DMU:41] [foil]
 1 Adarkar Wastes [DMU:243] [foil]

@@ -1,6 +1,6 @@
 // NAME: Phyrexia: All Will Be One Foil Redemption
 // SOURCE: default database query
-// DATE: 2023-02-03
+// DATE: 2023-03-08
 1 Adaptive Sporesinger [ONE:157] [foil]
 1 Against All Odds [ONE:1] [foil]
 1 All Will Be One [ONE:118] [foil]

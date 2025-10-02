@@ -1,6 +1,6 @@
 // NAME: The Lost Caverns of Ixalan Redemption
 // SOURCE: default database query
-// DATE: 2023-11-17
+// DATE: 2023-12-06
 1 Abrade [LCI:131]
 1 Abuelo's Awakening [LCI:1]
 1 Abuelo, Ancestral Echo [LCI:219]

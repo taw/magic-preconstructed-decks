@@ -1,6 +1,6 @@
 // NAME: Murders at Karlov Manor Foil Redemption
 // SOURCE: default database query
-// DATE: 2024-02-09
+// DATE: 2024-03-06
 1 A Killer Among Us [MKM:167] [foil]
 1 Absolving Lammasu [MKM:2] [foil]
 1 Aftermath Analyst [MKM:148] [foil]
