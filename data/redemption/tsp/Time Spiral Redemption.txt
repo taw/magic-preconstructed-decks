@@ -1,6 +1,6 @@
 // NAME: Time Spiral Redemption
 // SOURCE: default database query
-// DATE: 2006-10-06
+// DATE: 2006-11-05
 1 Academy Ruins [TSP:269]
 1 Aether Web [TSP:189]
 1 Aetherflame Wall [TSP:142]

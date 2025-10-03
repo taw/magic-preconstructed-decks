@@ -1,5 +1,5 @@
 // NAME: Wilds of Eldraine Foil Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-woe-8292023
 // DATE: 2023-10-04
 1 A Tale for the Ages [WOE:34] [foil]
 1 Agatha of the Vile Cauldron [WOE:199] [foil]

@@ -1,6 +1,6 @@
 // NAME: New Phyrexia Foil Redemption
 // SOURCE: default database query
-// DATE: 2011-05-13
+// DATE: 2011-06-12
 1 Act of Aggression [NPH:78] [foil]
 1 Alloy Myr [NPH:129] [foil]
 1 Apostle's Blessing [NPH:2] [foil]

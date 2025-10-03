@@ -1,5 +1,5 @@
 // NAME: Bloomburrow Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/bloomburrow-on-mtgo
 // DATE: 2024-09-04
 1 Agate Assault [BLB:122]
 1 Agate-Blade Assassin [BLB:82]

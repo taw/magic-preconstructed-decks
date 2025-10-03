@@ -1,6 +1,6 @@
 // NAME: Eighth Edition Redemption
 // SOURCE: default database query
-// DATE: 2003-07-28
+// DATE: 2003-08-27
 1 Abyssal Specter [8ED:117]
 1 Air Elemental [8ED:59]
 1 Aladdin's Ring [8ED:291]

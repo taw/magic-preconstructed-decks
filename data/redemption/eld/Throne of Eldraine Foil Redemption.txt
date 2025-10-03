@@ -1,6 +1,6 @@
 // NAME: Throne of Eldraine Foil Redemption
 // SOURCE: default database query
-// DATE: 2019-10-04
+// DATE: 2019-11-03
 1 Acclaimed Contender [ELD:1] [foil]
 1 All That Glitters [ELD:2] [foil]
 1 Order of Midnight // Alter Fate [ELD:99a] [foil]

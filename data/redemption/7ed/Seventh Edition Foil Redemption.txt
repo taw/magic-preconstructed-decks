@@ -1,6 +1,6 @@
 // NAME: Seventh Edition Foil Redemption
 // SOURCE: default database query
-// DATE: 2001-04-11
+// DATE: 2001-05-11
 1 Abyssal Horror [7ED:115★] [foil]
 1 Abyssal Specter [7ED:116★] [foil]
 1 Adarkar Wastes [7ED:325★] [foil]

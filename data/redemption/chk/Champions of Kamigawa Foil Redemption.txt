@@ -1,6 +1,6 @@
 // NAME: Champions of Kamigawa Foil Redemption
 // SOURCE: default database query
-// DATE: 2004-10-01
+// DATE: 2004-10-31
 1 Akki Avalanchers [CHK:151] [foil]
 1 Akki Coalflinger [CHK:152] [foil]
 1 Akki Lavarunner // Tok-Tok, Volcano Born [CHK:153a] [foil]

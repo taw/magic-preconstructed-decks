@@ -1,6 +1,6 @@
 // NAME: Betrayers of Kamigawa Redemption
 // SOURCE: default database query
-// DATE: 2005-02-04
+// DATE: 2005-03-06
 1 Akki Blizzard-Herder [BOK:91]
 1 Akki Raider [BOK:92]
 1 Ashen Monstrosity [BOK:93]

@@ -1,6 +1,6 @@
 // NAME: War of the Spark Redemption
 // SOURCE: default database query
-// DATE: 2019-05-03
+// DATE: 2019-06-02
 1 Ahn-Crop Invader [WAR:113]
 1 Aid the Fallen [WAR:76]
 1 Ajani's Pridemate [WAR:4]

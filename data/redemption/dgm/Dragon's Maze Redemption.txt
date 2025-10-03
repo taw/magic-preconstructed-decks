@@ -1,6 +1,6 @@
 // NAME: Dragon's Maze Redemption
 // SOURCE: default database query
-// DATE: 2013-05-03
+// DATE: 2013-06-02
 1 Advent of the Wurm [DGM:51]
 1 Aetherling [DGM:11]
 1 Alive // Well [DGM:121a]

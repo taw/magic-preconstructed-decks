@@ -1,6 +1,6 @@
 // NAME: Magic 2010 Redemption
 // SOURCE: default database query
-// DATE: 2009-07-17
+// DATE: 2009-08-16
 1 Acidic Slime [M10:165]
 1 Acolyte of Xathrid [M10:83]
 1 Act of Treason [M10:124]

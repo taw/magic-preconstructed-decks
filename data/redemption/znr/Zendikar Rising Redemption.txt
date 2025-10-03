@@ -1,6 +1,6 @@
 // NAME: Zendikar Rising Redemption
 // SOURCE: default database query
-// DATE: 2020-09-25
+// DATE: 2020-10-25
 1 Acquisitions Expert [ZNR:89]
 1 Adventure Awaits [ZNR:177]
 1 Agadeem's Awakening [ZNR:90a]

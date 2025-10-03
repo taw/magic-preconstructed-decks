@@ -1,5 +1,5 @@
 // NAME: The Lost Caverns of Ixalan Foil Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-lci-11072023
 // DATE: 2023-12-06
 1 Abrade [LCI:131] [foil]
 1 Abuelo's Awakening [LCI:1] [foil]

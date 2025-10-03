@@ -1,6 +1,6 @@
 // NAME: Onslaught Foil Redemption
 // SOURCE: default database query
-// DATE: 2002-10-07
+// DATE: 2002-11-06
 1 Accursed Centaur [ONS:123] [foil]
 1 Aether Charge [ONS:184] [foil]
 1 Aggravated Assault [ONS:185] [foil]

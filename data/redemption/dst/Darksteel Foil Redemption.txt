@@ -1,6 +1,6 @@
 // NAME: Darksteel Foil Redemption
 // SOURCE: default database query
-// DATE: 2004-02-06
+// DATE: 2004-03-07
 1 Aether Snap [DST:37] [foil]
 1 Aether Vial [DST:91] [foil]
 1 Ageless Entity [DST:73] [foil]

@@ -1,6 +1,6 @@
 // NAME: Eventide Foil Redemption
 // SOURCE: default database query
-// DATE: 2008-07-25
+// DATE: 2008-08-24
 1 Aerie Ouphes [EVE:65] [foil]
 1 Altar Golem [EVE:166] [foil]
 1 Antler Skulkin [EVE:167] [foil]

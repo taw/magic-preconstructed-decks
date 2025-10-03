@@ -1,6 +1,6 @@
 // NAME: Ixalan Redemption
 // SOURCE: default database query
-// DATE: 2017-09-29
+// DATE: 2017-10-29
 1 Adanto Vanguard [XLN:1]
 1 Legion's Landing [XLN:22a]
 1 Admiral Beckett Brass [XLN:217]

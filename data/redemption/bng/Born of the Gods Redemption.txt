@@ -1,6 +1,6 @@
 // NAME: Born of the Gods Redemption
 // SOURCE: default database query
-// DATE: 2014-02-07
+// DATE: 2014-03-09
 1 Acolyte's Reward [BNG:1]
 1 Aerie Worshippers [BNG:30]
 1 Akroan Conscriptor [BNG:87]

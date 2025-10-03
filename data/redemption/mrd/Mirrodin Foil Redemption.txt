@@ -1,6 +1,6 @@
 // NAME: Mirrodin Foil Redemption
 // SOURCE: default database query
-// DATE: 2003-10-02
+// DATE: 2003-11-01
 1 Aether Spellbomb [MRD:141] [foil]
 1 Alpha Myr [MRD:142] [foil]
 1 Altar of Shadows [MRD:143] [foil]

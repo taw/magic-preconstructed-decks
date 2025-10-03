@@ -1,6 +1,6 @@
 // NAME: Guilds of Ravnica Redemption
 // SOURCE: default database query
-// DATE: 2018-10-05
+// DATE: 2018-11-04
 1 Affectionate Indrik [GRN:121]
 1 Arboretum Elemental [GRN:122]
 1 Arclight Phoenix [GRN:91]

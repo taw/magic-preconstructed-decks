@@ -1,5 +1,5 @@
 // NAME: Edge of Eternities Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/edge-of-eternities-on-mtgo
 // DATE: 2025-08-27
 1 Adagia, Windswept Bastion [EOE:250]
 1 All-Fates Scroll [EOE:234]

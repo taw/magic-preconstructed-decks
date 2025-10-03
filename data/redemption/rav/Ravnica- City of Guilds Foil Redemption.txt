@@ -1,6 +1,6 @@
 // NAME: Ravnica: City of Guilds Foil Redemption
 // SOURCE: default database query
-// DATE: 2005-10-07
+// DATE: 2005-11-06
 1 Agrus Kos, Wojek Veteran [RAV:190] [foil]
 1 Auratouched Mage [RAV:1] [foil]
 1 Autochthon Wurm [RAV:191] [foil]

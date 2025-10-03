@@ -1,6 +1,6 @@
 // NAME: Magic 2013 Foil Redemption
 // SOURCE: default database query
-// DATE: 2012-07-13
+// DATE: 2012-08-12
 1 Acidic Slime [M13:159] [foil]
 1 Ajani's Sunstriker [M13:2] [foil]
 1 Ajani, Caller of the Pride [M13:1] [foil]

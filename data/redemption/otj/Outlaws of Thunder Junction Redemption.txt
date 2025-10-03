@@ -1,5 +1,5 @@
 // NAME: Outlaws of Thunder Junction Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/outlaws-of-thunder-junction-on-mtgo
 // DATE: 2024-05-15
 1 Abraded Bluffs [OTJ:251]
 1 Akul the Unrepentant [OTJ:189]

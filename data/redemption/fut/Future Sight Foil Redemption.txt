@@ -1,6 +1,6 @@
 // NAME: Future Sight Foil Redemption
 // SOURCE: default database query
-// DATE: 2007-05-04
+// DATE: 2007-06-03
 1 Akroma's Memorial [FUT:159] [foil]
 1 Angel of Salvation [FUT:1] [foil]
 1 Arc Blade [FUT:94] [foil]

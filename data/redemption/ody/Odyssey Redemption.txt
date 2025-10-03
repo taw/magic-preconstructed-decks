@@ -1,6 +1,6 @@
 // NAME: Odyssey Redemption
 // SOURCE: default database query
-// DATE: 2001-10-01
+// DATE: 2001-10-31
 1 Abandoned Outpost [ODY:312]
 1 Aboshan's Desire [ODY:59]
 1 Aboshan, Cephalid Emperor [ODY:58]

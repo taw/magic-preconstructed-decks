@@ -1,6 +1,6 @@
 // NAME: Coldsnap Foil Redemption
 // SOURCE: default database query
-// DATE: 2006-07-21
+// DATE: 2006-08-20
 1 Adarkar Valkyrie [CSP:1] [foil]
 1 Adarkar Windform [CSP:26] [foil]
 1 Allosaurus Rider [CSP:101] [foil]

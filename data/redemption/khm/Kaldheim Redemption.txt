@@ -1,6 +1,6 @@
 // NAME: Kaldheim Redemption
 // SOURCE: default database query
-// DATE: 2021-02-05
+// DATE: 2021-03-07
 1 Aegar, the Freezing Flame [KHM:200]
 1 Alpine Meadow [KHM:248]
 1 Alrund's Epiphany [KHM:41]

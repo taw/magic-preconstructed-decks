@@ -1,6 +1,6 @@
 // NAME: Saviors of Kamigawa Foil Redemption
 // SOURCE: default database query
-// DATE: 2005-06-03
+// DATE: 2005-07-03
 1 Adamaro, First to Desire [SOK:91] [foil]
 1 Aether Shockwave [SOK:1] [foil]
 1 Akki Drillmaster [SOK:92] [foil]

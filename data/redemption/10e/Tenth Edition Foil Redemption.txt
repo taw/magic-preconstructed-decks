@@ -1,6 +1,6 @@
 // NAME: Tenth Edition Foil Redemption
 // SOURCE: default database query
-// DATE: 2007-07-13
+// DATE: 2007-08-12
 1 Abundance [10E:249] [foil]
 1 Academy Researchers [10E:63] [foil]
 1 Adarkar Wastes [10E:347] [foil]

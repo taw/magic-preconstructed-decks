@@ -1,6 +1,6 @@
 // NAME: Magic 2012 Foil Redemption
 // SOURCE: default database query
-// DATE: 2011-07-15
+// DATE: 2011-08-14
 1 Acidic Slime [M12:161] [foil]
 1 Act of Treason [M12:121] [foil]
 1 Adaptive Automaton [M12:201] [foil]

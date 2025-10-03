@@ -1,6 +1,6 @@
 // NAME: Worldwake Redemption
 // SOURCE: default database query
-// DATE: 2010-02-05
+// DATE: 2010-03-07
 1 Abyssal Persecutor [WWK:47]
 1 Admonition Angel [WWK:1]
 1 Aether Tradewinds [WWK:24]

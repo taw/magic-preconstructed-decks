@@ -1,6 +1,6 @@
 // NAME: Core Set 2019 Redemption
 // SOURCE: default database query
-// DATE: 2018-07-13
+// DATE: 2018-08-12
 1 Abnormal Endurance [M19:85]
 1 Act of Treason [M19:127]
 1 Aegis of the Heavens [M19:1]

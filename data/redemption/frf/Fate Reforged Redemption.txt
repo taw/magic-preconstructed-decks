@@ -1,6 +1,6 @@
 // NAME: Fate Reforged Redemption
 // SOURCE: default database query
-// DATE: 2015-01-23
+// DATE: 2015-02-22
 1 Abzan Advantage [FRF:2]
 1 Abzan Beastmaster [FRF:119]
 1 Abzan Kin-Guard [FRF:120]

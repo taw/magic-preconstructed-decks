@@ -1,5 +1,5 @@
 // NAME: Duskmourn: House of Horror Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/duskmourn-on-mtgo
 // DATE: 2024-10-16
 1 Abandoned Campground [DSK:255]
 1 Abhorrent Oculus [DSK:42]

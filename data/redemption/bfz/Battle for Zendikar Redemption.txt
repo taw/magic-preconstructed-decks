@@ -1,6 +1,6 @@
 // NAME: Battle for Zendikar Redemption
 // SOURCE: database query with -number:/a/
-// DATE: 2015-10-02
+// DATE: 2015-11-01
 1 Adverse Conditions [BFZ:54]
 1 Akoum Firebird [BFZ:138]
 1 Akoum Hellkite [BFZ:139]

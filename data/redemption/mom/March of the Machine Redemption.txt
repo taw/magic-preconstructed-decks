@@ -1,5 +1,5 @@
 // NAME: March of the Machine Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-mom-4112023
 // DATE: 2023-05-17
 1 Aerial Boost [MOM:2]
 1 Aetherblade Agent [MOM:88a]

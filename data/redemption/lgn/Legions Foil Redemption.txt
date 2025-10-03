@@ -1,6 +1,6 @@
 // NAME: Legions Foil Redemption
 // SOURCE: default database query
-// DATE: 2003-02-03
+// DATE: 2003-03-05
 1 Akroma's Devoted [LGN:2] [foil]
 1 Akroma, Angel of Wrath [LGN:1] [foil]
 1 Aphetto Exterminator [LGN:59] [foil]

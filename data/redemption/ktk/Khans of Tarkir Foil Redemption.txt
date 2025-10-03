@@ -1,6 +1,6 @@
 // NAME: Khans of Tarkir Foil Redemption
 // SOURCE: default database query
-// DATE: 2014-09-26
+// DATE: 2014-10-26
 1 Abomination of Gudul [KTK:159] [foil]
 1 Abzan Ascendancy [KTK:160] [foil]
 1 Abzan Banner [KTK:215] [foil]

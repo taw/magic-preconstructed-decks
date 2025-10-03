@@ -1,6 +1,6 @@
 // NAME: Theros Redemption
 // SOURCE: default database query
-// DATE: 2013-09-27
+// DATE: 2013-10-27
 1 Abhorrent Overlord [THS:75]
 1 Agent of Horizons [THS:148]
 1 Agent of the Fates [THS:76]

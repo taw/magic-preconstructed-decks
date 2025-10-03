@@ -1,6 +1,6 @@
 // NAME: Ninth Edition Redemption
 // SOURCE: default database query
-// DATE: 2005-07-29
+// DATE: 2005-08-28
 1 Adarkar Wastes [9ED:317]
 1 Air Elemental [9ED:58]
 1 Aladdin's Ring [9ED:286]

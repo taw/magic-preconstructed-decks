@@ -1,6 +1,6 @@
 // NAME: Innistrad Foil Redemption
 // SOURCE: default database query
-// DATE: 2011-09-30
+// DATE: 2011-10-30
 1 Abattoir Ghoul [ISD:85] [foil]
 1 Abbey Griffin [ISD:1] [foil]
 1 Altar's Reap [ISD:86] [foil]

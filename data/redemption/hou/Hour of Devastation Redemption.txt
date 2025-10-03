@@ -1,6 +1,6 @@
 // NAME: Hour of Devastation Redemption
 // SOURCE: default database query
-// DATE: 2017-07-14
+// DATE: 2017-08-13
 1 Abandoned Sarcophagus [HOU:158]
 1 Abrade [HOU:83]
 1 Accursed Horde [HOU:56]

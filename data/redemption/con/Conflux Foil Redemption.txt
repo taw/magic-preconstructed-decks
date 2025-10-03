@@ -1,6 +1,6 @@
 // NAME: Conflux Foil Redemption
 // SOURCE: default database query
-// DATE: 2009-02-06
+// DATE: 2009-03-08
 1 Absorb Vis [CON:40] [foil]
 1 Aerie Mystics [CON:1] [foil]
 1 Ancient Ziggurat [CON:141] [foil]

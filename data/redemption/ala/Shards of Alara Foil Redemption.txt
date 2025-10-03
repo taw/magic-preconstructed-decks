@@ -1,6 +1,6 @@
 // NAME: Shards of Alara Foil Redemption
 // SOURCE: default database query
-// DATE: 2008-10-03
+// DATE: 2008-11-02
 1 Ad Nauseam [ALA:63] [foil]
 1 Agony Warp [ALA:153] [foil]
 1 Ajani Vengeant [ALA:154] [foil]

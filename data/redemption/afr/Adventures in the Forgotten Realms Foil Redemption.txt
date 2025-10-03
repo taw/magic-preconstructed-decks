@@ -1,6 +1,6 @@
 // NAME: Adventures in the Forgotten Realms Foil Redemption
 // SOURCE: default database query
-// DATE: 2021-07-23
+// DATE: 2021-08-22
 1 +2 Mace [AFR:1] [foil]
 1 Aberrant Mind Sorcerer [AFR:44] [foil]
 1 Acererak the Archlich [AFR:87] [foil]

@@ -1,6 +1,6 @@
 // NAME: Journey into Nyx Redemption
 // SOURCE: default database query
-// DATE: 2014-05-02
+// DATE: 2014-06-01
 1 Aegis of the Gods [JOU:1]
 1 Aerial Formation [JOU:30]
 1 Agent of Erebos [JOU:59]

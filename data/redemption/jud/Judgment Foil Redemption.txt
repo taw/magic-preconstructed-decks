@@ -1,6 +1,6 @@
 // NAME: Judgment Foil Redemption
 // SOURCE: default database query
-// DATE: 2002-05-27
+// DATE: 2002-06-26
 1 Ancestor's Chosen [JUD:1] [foil]
 1 Anger [JUD:77] [foil]
 1 Anurid Barkripper [JUD:104] [foil]

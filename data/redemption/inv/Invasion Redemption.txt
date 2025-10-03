@@ -1,6 +1,6 @@
 // NAME: Invasion Redemption
 // SOURCE: default database query
-// DATE: 2000-10-02
+// DATE: 2000-11-01
 1 Absorb [INV:226]
 1 Addle [INV:91]
 1 Aether Rift [INV:227]

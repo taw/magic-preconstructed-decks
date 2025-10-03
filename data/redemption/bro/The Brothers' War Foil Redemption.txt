@@ -1,5 +1,5 @@
 // NAME: The Brothers' War Foil Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-bro-11082022
 // DATE: 2023-01-04
 1 Aeronaut Cavalry [BRO:1] [foil]
 1 Aeronaut's Wings [BRO:231] [foil]

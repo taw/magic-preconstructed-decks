@@ -1,6 +1,6 @@
 // NAME: Legions Redemption
 // SOURCE: default database query
-// DATE: 2003-02-03
+// DATE: 2003-03-05
 1 Akroma's Devoted [LGN:2]
 1 Akroma, Angel of Wrath [LGN:1]
 1 Aphetto Exterminator [LGN:59]

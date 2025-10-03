@@ -1,6 +1,6 @@
 // NAME: Scourge Foil Redemption
 // SOURCE: default database query
-// DATE: 2003-05-26
+// DATE: 2003-06-25
 1 Accelerated Mutation [SCG:109] [foil]
 1 Ageless Sentinels [SCG:1] [foil]
 1 Alpha Status [SCG:110] [foil]

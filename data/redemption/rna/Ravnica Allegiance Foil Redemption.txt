@@ -1,6 +1,6 @@
 // NAME: Ravnica Allegiance Foil Redemption
 // SOURCE: default database query
-// DATE: 2019-01-25
+// DATE: 2019-02-24
 1 Absorb [RNA:151] [foil]
 1 Act of Treason [RNA:91] [foil]
 1 Aeromunculus [RNA:152] [foil]

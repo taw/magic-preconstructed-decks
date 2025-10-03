@@ -1,6 +1,6 @@
 // NAME: Guildpact Foil Redemption
 // SOURCE: default database query
-// DATE: 2006-02-03
+// DATE: 2006-03-05
 1 Absolver Thrull [GPT:1] [foil]
 1 Abyssal Nocturnus [GPT:43] [foil]
 1 Aetherplasm [GPT:22] [foil]

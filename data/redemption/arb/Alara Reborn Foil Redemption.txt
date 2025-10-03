@@ -1,6 +1,6 @@
 // NAME: Alara Reborn Foil Redemption
 // SOURCE: default database query
-// DATE: 2009-04-30
+// DATE: 2009-05-30
 1 Anathemancer [ARB:33] [foil]
 1 Architects of Will [ARB:17] [foil]
 1 Ardent Plea [ARB:1] [foil]

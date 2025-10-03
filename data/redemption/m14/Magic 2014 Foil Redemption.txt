@@ -1,6 +1,6 @@
 // NAME: Magic 2014 Foil Redemption
 // SOURCE: default database query
-// DATE: 2013-07-19
+// DATE: 2013-08-18
 1 Academy Raider [M14:124] [foil]
 1 Accorder's Shield [M14:204] [foil]
 1 Accursed Spirit [M14:83] [foil]

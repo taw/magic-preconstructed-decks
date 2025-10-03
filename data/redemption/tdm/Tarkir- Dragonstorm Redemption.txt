@@ -1,5 +1,5 @@
 // NAME: Tarkir: Dragonstorm Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/tarkir-dragonstorm-on-mtgo
 // DATE: 2025-05-07
 1 Purging Stormbrood // Absorb Essence [TDM:213a]
 1 Abzan Devotee [TDM:68]

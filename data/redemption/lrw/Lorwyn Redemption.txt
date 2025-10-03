@@ -1,6 +1,6 @@
 // NAME: Lorwyn Redemption
 // SOURCE: default database query
-// DATE: 2007-10-12
+// DATE: 2007-11-11
 1 Adder-Staff Boggart [LRW:148]
 1 Aethersnipe [LRW:50]
 1 Ajani Goldmane [LRW:1]

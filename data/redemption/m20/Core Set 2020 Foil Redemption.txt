@@ -1,6 +1,6 @@
 // NAME: Core Set 2020 Foil Redemption
 // SOURCE: default database query
-// DATE: 2019-07-12
+// DATE: 2019-08-11
 1 Act of Treason [M20:124] [foil]
 1 Aerial Assault [M20:1] [foil]
 1 Aether Gust [M20:42] [foil]

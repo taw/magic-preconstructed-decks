@@ -1,6 +1,6 @@
 // NAME: Rise of the Eldrazi Foil Redemption
 // SOURCE: default database query
-// DATE: 2010-04-23
+// DATE: 2010-05-23
 1 Affa Guard Hound [ROE:14] [foil]
 1 Akoum Boulderfoot [ROE:134] [foil]
 1 All Is Dust [ROE:1] [foil]

@@ -1,6 +1,6 @@
 // NAME: Innistrad: Midnight Hunt Foil Redemption
 // SOURCE: default database query
-// DATE: 2021-09-24
+// DATE: 2021-10-24
 1 Abandon the Post [MID:127] [foil]
 1 Adeline, Resplendent Cathar [MID:1] [foil]
 1 Ambitious Farmhand [MID:2a] [foil]

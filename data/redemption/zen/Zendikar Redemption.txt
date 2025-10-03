@@ -1,6 +1,6 @@
 // NAME: Zendikar Redemption
 // SOURCE: database query with -number:/a/
-// DATE: 2009-10-02
+// DATE: 2009-11-01
 1 Adventuring Gear [ZEN:195]
 1 Aether Figment [ZEN:40]
 1 Akoum Refuge [ZEN:210]

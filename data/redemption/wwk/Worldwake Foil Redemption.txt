@@ -1,6 +1,6 @@
 // NAME: Worldwake Foil Redemption
 // SOURCE: default database query
-// DATE: 2010-02-05
+// DATE: 2010-03-07
 1 Abyssal Persecutor [WWK:47] [foil]
 1 Admonition Angel [WWK:1] [foil]
 1 Aether Tradewinds [WWK:24] [foil]

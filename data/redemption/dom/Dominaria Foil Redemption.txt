@@ -1,6 +1,6 @@
 // NAME: Dominaria Foil Redemption
 // SOURCE: default database query
-// DATE: 2018-04-27
+// DATE: 2018-05-27
 1 Academy Drake [DOM:40] [foil]
 1 Academy Journeymage [DOM:41] [foil]
 1 Adamant Will [DOM:2] [foil]

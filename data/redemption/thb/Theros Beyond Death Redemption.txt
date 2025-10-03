@@ -1,6 +1,6 @@
 // NAME: Theros Beyond Death Redemption
 // SOURCE: default database query
-// DATE: 2020-01-24
+// DATE: 2020-02-23
 1 Acolyte of Affliction [THB:206]
 1 Agonizing Remorse [THB:83]
 1 Alirios, Enraptured [THB:42]

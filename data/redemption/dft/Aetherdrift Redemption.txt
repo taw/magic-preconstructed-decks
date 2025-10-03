@@ -1,5 +1,5 @@
 // NAME: Aetherdrift Redemption
-// SOURCE: default database query
+// SOURCE: default database query; https://www.mtgo.com/news/aetherdrift-on-mtgo
 // DATE: 2025-03-13
 1 Aatchik, Emerald Radian [DFT:187]
 1 Adrenaline Jockey [DFT:112]

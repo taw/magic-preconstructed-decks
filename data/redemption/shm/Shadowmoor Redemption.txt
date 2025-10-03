@@ -1,6 +1,6 @@
 // NAME: Shadowmoor Redemption
 // SOURCE: default database query
-// DATE: 2008-05-02
+// DATE: 2008-06-01
 1 Advice from the Fae [SHM:28]
 1 Aethertow [SHM:136]
 1 Aphotic Wisps [SHM:55]
