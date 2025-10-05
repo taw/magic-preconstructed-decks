@@ -2,15 +2,15 @@
 // SOURCE: https://mtg.wiki/page/Sampler
 // DATE: 1999-07-12
 // This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
-1 Plains
+1 Plains [S99:154]
 1 Eager Cadet
 1 Giant Octopus
 1 Sea Eagle
 1 Royal Falcon
-1 Island
+1 Island [S99:158]
 1 Wind Drake
-1 Island
+1 Island [S99:158]
 1 Knight Errant
-1 Plains
+1 Plains [S99:154]
 1 Merfolk of the Pearl Trident
-1 Island
+1 Island [S99:158]

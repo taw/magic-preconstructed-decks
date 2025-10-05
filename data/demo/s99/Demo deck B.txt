@@ -4,13 +4,13 @@
 // This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
 1 Willow Elf
 1 Ogre Warrior
-1 Forest
+1 Forest [S99:172]
 1 Grizzly Bears
 1 Bull Hippo
-1 Forest
+1 Forest [S99:172]
 1 Goblin Hero
-1 Mountain
+1 Mountain [S99:166]
 1 Moon Sprite
-1 Forest
+1 Forest [S99:172]
 1 Mons's Goblin Raiders
-1 Mountain
+1 Mountain [S99:166]
