@@ -13,6 +13,8 @@ class DeckType
   def validate(deck)
     deck_sizes = deck.section_sizes
     deck_sizes.each do |section_name, section_size|
+      # Allow extra sections if they're just tokens
+      next if section_size == 0
       unless @sections[section_name]
         warn "#{deck.path} of type #{name} has unexpected section #{section_name}"
       end

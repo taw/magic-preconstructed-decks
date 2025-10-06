@@ -83,7 +83,12 @@ class Deck
   end
 
   def section_sizes
-    @sections.to_h{|k,v| [k, v.map{|c| c[:count]}.sum]}
+    @sections.to_h do |name, contents|
+      [
+        name,
+        contents.reject{|c| c[:token]}.map{|c| c[:count]}.sum
+      ]
+    end
   end
 
   def merge_duplicates

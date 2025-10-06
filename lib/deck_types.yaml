@@ -386,7 +386,7 @@ welcome-booster:
   format: null
   name: "Welcome Booster"
   sections:
-    Main Deck: [10, 11]
+    Main Deck: [9, 10, 11]
 welcome:
   category: "deck"
   format: "casual"
