@@ -40,3 +40,6 @@
 1 Mardu Heart-Piercer
 1 Zurgo Helmsmasher [foil]
 2 Nomad Outpost
+
+Sideboard
+1 Goblin [DDN:82] [token]

@@ -37,3 +37,6 @@
 2 Evolving Wilds
 9 Plains [DDP:*]
 10 Forest [DDP:*]
+
+Sideboard
+1 Plant [DDP:80] [token]

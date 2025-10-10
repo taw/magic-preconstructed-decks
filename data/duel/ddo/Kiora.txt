@@ -29,3 +29,6 @@
 2 Evolving Wilds
 11 Forest [DDO:*]
 11 Island [DDO:*]
+
+Sideboard
+1 Kraken [DDO:67] [token]
