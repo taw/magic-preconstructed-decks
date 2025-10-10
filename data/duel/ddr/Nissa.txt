@@ -32,3 +32,7 @@
 1 Mosswort Bridge
 1 Treetop Village
 18 Forest [DDR:*]
+
+Sideboard
+1 Elemental [DDR:74] [token]
+1 Plant [DDR:75] [token]

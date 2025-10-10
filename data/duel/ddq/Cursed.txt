@@ -35,3 +35,7 @@
 3 Island [DDQ:71]
 3 Island [DDQ:72]
 2 Island [DDQ:73]
+
+Sideboard
+1 Spirit [DDQ:79] [token]
+1 Zombie [DDQ:80] [token]

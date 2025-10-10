@@ -31,3 +31,6 @@
 1 Dictate of Heliod
 22 Plains [DDO:*]
 2 Secluded Steppe
+
+Sideboard
+1 Solider [DDO:66] [token]

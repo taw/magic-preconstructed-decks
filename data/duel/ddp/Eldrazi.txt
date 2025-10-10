@@ -32,3 +32,9 @@
 3 Akoum Refuge
 7 Mountain [DDP:*]
 13 Swamp [DDP:*]
+
+Sideboard
+1 Eldrazi Spawn [DDP:76] [token]
+1 Eldrazi Spawn [DDP:77] [token]
+1 Eldrazi Spawn [DDP:78] [token]
+1 Hellion [DDP:79] [token]
