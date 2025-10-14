@@ -1,0 +1,8 @@
+// NAME: Furby: Furbys: The Gathering Foil Edition​
+// SOURCE: https://secretlair.wizards.com/us/product/1247717
+// DATE: 2025-10-27
+1 [SLD:2316] Sphere of Safety [foil]
+1 [SLD:2317] Miscast [foil]
+1 [SLD:2318] Arena [foil]
+1 [SLD:2319] Tormenting Voice [foil]
+1 [SLD:2320] Tamiyo's Safekeeping [foil]
