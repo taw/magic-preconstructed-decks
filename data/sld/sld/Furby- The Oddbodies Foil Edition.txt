@@ -1,4 +1,4 @@
-// NAME: Furby: The Oddbodies Foil Edition​
+// NAME: Furby: The Oddbodies Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247720
 // DATE: 2025-10-27
 1 [SLD:2321] Hullbreaker Horror [foil]

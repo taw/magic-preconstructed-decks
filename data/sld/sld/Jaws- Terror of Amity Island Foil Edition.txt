@@ -1,4 +1,4 @@
-// NAME: Jaws: Terror of Amity Island Foil​ Edition
+// NAME: Jaws: Terror of Amity Island Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247710
 // DATE: 2025-10-27
 1 [SLD:2175] Jaws, Relentless Predator [foil]

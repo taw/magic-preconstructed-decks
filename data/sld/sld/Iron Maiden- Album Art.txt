@@ -1,4 +1,4 @@
-// NAME: Iron Maiden: Album Art​
+// NAME: Iron Maiden: Album Art
 // SOURCE: https://secretlair.wizards.com/us/product/1247703
 // DATE: 2025-10-27
 1 [SLD:2187] Lethal Scheme

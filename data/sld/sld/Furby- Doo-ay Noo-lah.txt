@@ -1,4 +1,4 @@
-// NAME: Furby: Doo-ay Noo-lah​
+// NAME: Furby: Doo-ay Noo-lah
 // SOURCE: https://secretlair.wizards.com/us/product/1247716
 // DATE: 2025-10-27
 1 [SLD:2311] Distant Melody

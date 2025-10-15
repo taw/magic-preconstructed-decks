@@ -1,4 +1,4 @@
-// NAME: The Office: Dwight's Destiny​
+// NAME: The Office: Dwight's Destiny
 // SOURCE: https://secretlair.wizards.com/us/product/1247713
 // DATE: 2025-10-27
 1 [SLD:2165] Heliod, Sun-Crowned

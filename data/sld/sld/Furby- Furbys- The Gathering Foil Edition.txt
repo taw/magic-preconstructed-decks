@@ -1,4 +1,4 @@
-// NAME: Furby: Furbys: The Gathering Foil Edition​
+// NAME: Furby: Furbys: The Gathering Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247717
 // DATE: 2025-10-27
 1 [SLD:2316] Sphere of Safety [foil]

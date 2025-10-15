@@ -1,4 +1,4 @@
-// NAME: Trick or Treat Foil Edition​
+// NAME: Trick or Treat Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247723
 // DATE: 2025-10-27
 1 [SLD:2282] Vito, Thorn of the Dusk Rose [foil]

@@ -1,4 +1,4 @@
-// NAME: Iron Maiden: Eddie Unchained​
+// NAME: Iron Maiden: Eddie Unchained
 // SOURCE: https://secretlair.wizards.com/us/product/1247705
 // DATE: 2025-10-27
 1 [SLD:2181] Bruvac the Grandiloquent

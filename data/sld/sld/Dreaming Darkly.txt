@@ -1,4 +1,4 @@
-// NAME: Dreaming Darkly​
+// NAME: Dreaming Darkly
 // SOURCE: https://secretlair.wizards.com/us/product/1247709
 // DATE: 2025-10-27
 1 [SLD:2171] Glen Elendra Archmage
