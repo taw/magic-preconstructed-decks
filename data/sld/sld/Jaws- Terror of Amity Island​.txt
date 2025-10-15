@@ -1,0 +1,9 @@
+// NAME: Jaws: Terror of Amity Island​
+// SOURCE: https://secretlair.wizards.com/us/product/1247711
+// DATE: 2025-10-27
+1 [SLD:2175] Jaws, Relentless Predator
+1 [SLD:2176] Descent into Avernus
+1 [SLD:2177] Reckless Endeavor
+1 [SLD:2178] Sneak Attack
+1 [SLD:2179] Abrade
+1 [SLD:2180] Blood [token]

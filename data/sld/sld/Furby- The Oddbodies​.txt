@@ -1,0 +1,8 @@
+// NAME: Furby: The Oddbodies​
+// SOURCE: https://secretlair.wizards.com/us/product/1247722
+// DATE: 2025-10-27
+1 [SLD:2321] Hullbreaker Horror
+1 [SLD:2322] Maddening Cacophony
+1 [SLD:2323] Serum Visions
+1 [SLD:2324] Umbris, Fear Manifest
+1 [SLD:2325] Spellskite

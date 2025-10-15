@@ -1,0 +1,8 @@
+// NAME: Furby: Doo-ay Noo-lah​
+// SOURCE: https://secretlair.wizards.com/us/product/1247716
+// DATE: 2025-10-27
+1 [SLD:2311] Distant Melody
+1 [SLD:2312] Explore
+1 [SLD:2313] Inspiring Call
+1 [SLD:2314] Chromatic Lantern
+1 [SLD:2315] Sol Ring

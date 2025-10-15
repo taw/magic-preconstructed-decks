@@ -1,0 +1,7 @@
+// NAME: Dreaming Darkly​
+// SOURCE: https://secretlair.wizards.com/us/product/1247709
+// DATE: 2025-10-27
+1 [SLD:2171] Glen Elendra Archmage
+1 [SLD:2172] Guardian Project
+1 [SLD:2173] Roon of the Hidden Realm
+1 [SLD:2174] Soulherder

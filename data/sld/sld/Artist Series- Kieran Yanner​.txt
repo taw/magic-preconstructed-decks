@@ -1,0 +1,7 @@
+// NAME: Artist Series: Kieran Yanner​
+// SOURCE: https://secretlair.wizards.com/us/product/1247707
+// DATE: 2025-10-27
+1 [SLD:1854] Armageddon
+1 [SLD:1855] Northern Paladin
+1 [SLD:1856] Demonic Tutor
+1 [SLD:1857] Lord of the Pit

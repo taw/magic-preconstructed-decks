@@ -1,0 +1,9 @@
+// NAME: Iron Maiden: Album Art​
+// SOURCE: https://secretlair.wizards.com/us/product/1247703
+// DATE: 2025-10-27
+1 [SLD:2187] Lethal Scheme
+1 [SLD:2188] Grave Titan
+1 [SLD:2189] Animate Dead
+1 [SLD:2190] Temporal Trespass
+1 [SLD:2191] Unearth
+1 [SLD:2192] Lignify

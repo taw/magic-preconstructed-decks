@@ -1,0 +1,8 @@
+// NAME: Trick or Treat​
+// SOURCE: https://secretlair.wizards.com/us/product/1247724
+// DATE: 2025-10-27
+1 [SLD:2282] Vito, Thorn of the Dusk Rose
+1 [SLD:2283] Satoru Umezawa
+1 [SLD:2284] Voja, Jaws of the Conclave
+1 [SLD:2285] Wilhelt, the Rotcleaver
+1 [SLD:2286] Liberator, Urza's Battlethopter

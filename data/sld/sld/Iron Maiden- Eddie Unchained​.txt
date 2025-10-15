@@ -1,0 +1,9 @@
+// NAME: Iron Maiden: Eddie Unchained​
+// SOURCE: https://secretlair.wizards.com/us/product/1247705
+// DATE: 2025-10-27
+1 [SLD:2181] Bruvac the Grandiloquent
+1 [SLD:2182] Windfall
+1 [SLD:2183] Captain N'ghathrod
+1 [SLD:2184] Nekusar, the Mindrazer
+1 [SLD:2185] Iron Maiden
+1 [SLD:2186] Mindcrank

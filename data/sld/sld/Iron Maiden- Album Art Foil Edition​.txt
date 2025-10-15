@@ -1,0 +1,9 @@
+// NAME: Iron Maiden: Album Art Foil Edition​
+// SOURCE: https://secretlair.wizards.com/us/product/1247702
+// DATE: 2025-10-27
+1 [SLD:2187] Lethal Scheme [foil]
+1 [SLD:2188] Grave Titan [foil]
+1 [SLD:2189] Animate Dead [foil]
+1 [SLD:2190] Temporal Trespass [foil]
+1 [SLD:2191] Unearth [foil]
+1 [SLD:2192] Lignify [foil]
