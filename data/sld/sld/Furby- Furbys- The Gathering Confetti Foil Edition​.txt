@@ -1,8 +1,0 @@
-// NAME: Furby: Furbys: The Gathering Confetti Foil Edition​
-// SOURCE: https://secretlair.wizards.com/us/product/1247718
-// DATE: 2025-10-27
-1 [SLD] Sphere of Safety [foil]
-1 [SLD] Miscast [foil]
-1 [SLD] Arena [foil]
-1 [SLD] Tormenting Voice [foil]
-1 [SLD] Tamiyo's Safekeeping [foil]

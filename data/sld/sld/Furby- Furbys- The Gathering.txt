@@ -3,6 +3,6 @@
 // DATE: 2025-10-27
 1 [SLD:2316] Sphere of Safety
 1 [SLD:2317] Miscast
-1 [SLD:2318] Arena
+1 [SLD:2318] Phyrexian Arena
 1 [SLD:2319] Tormenting Voice
 1 [SLD:2320] Tamiyo's Safekeeping
