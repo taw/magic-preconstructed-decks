@@ -18,7 +18,7 @@ archenemy:
   sections:
     Main Deck: 60
     Scheme Deck: [0, 20]
-# https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
+# https://mtg.wiki/page/Core_Set_2021/Arena_Starter_Kit
 # There are two versions of the Starter Kits (the Demo Decks used in-store as part of the new player experience kit,
 # and a version sold through Amazon).
 # The differences are that the Amazon-version includes a code for the decks in of MTG Arena, while the in-store version does not,
@@ -41,7 +41,7 @@ arena-promo:
   name: "Arena Promotional Deck"
   sections:
     Main Deck: 60
-# From https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+# From https://mtg.wiki/page/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
 # Five monocolored decks are unlocked after the tutorial and can be upgraded by completing the new player Color Challenges.
 # Cards that are replaced through these upgrades are automatically moved to the sideboard.
 #
