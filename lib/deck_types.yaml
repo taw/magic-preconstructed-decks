@@ -18,7 +18,7 @@ archenemy:
   sections:
     Main Deck: 60
     Scheme Deck: [0, 20]
-# https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
+# https://mtg.wiki/page/Core_Set_2021/Arena_Starter_Kit
 # There are two versions of the Starter Kits (the Demo Decks used in-store as part of the new player experience kit,
 # and a version sold through Amazon).
 # The differences are that the Amazon-version includes a code for the decks in of MTG Arena, while the in-store version does not,
@@ -41,7 +41,7 @@ arena-promo:
   name: "Arena Promotional Deck"
   sections:
     Main Deck: 60
-# From https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+# From https://mtg.wiki/page/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
 # Five monocolored decks are unlocked after the tutorial and can be upgraded by completing the new player Color Challenges.
 # Cards that are replaced through these upgrades are automatically moved to the sideboard.
 #
@@ -105,6 +105,17 @@ cmd-arc:
     Commander: [1, 2]
     Main Deck + Commander: 100
     Scheme Deck: 10
+cmd-mtgo:
+  category: "deck"
+  format: "commander"
+  name: "MTGO Commander Deck"
+  sections:
+    Main Deck: 99
+    Commander: 1
+    Main Deck + Commander: 100
+    Display Commander: 0
+    # tokens
+    Sideboard: any
 cmd:
   category: "deck"
   format: "commander"
@@ -132,6 +143,12 @@ duel:
   category: "deck"
   format: "casual"
   name: "Duel Deck"
+  sections:
+    Main Deck: 60
+duel-mtgo:
+  category: "deck"
+  format: "casual"
+  name: "MTGO Duel Deck"
   sections:
     Main Deck: 60
 enhanced:
@@ -216,13 +233,6 @@ modern:
   sections:
     Main Deck: 60
     Sideboard: 15
-mtgo:
-  category: "deck"
-  format: "casual"
-  name: "MTGO Theme Deck"
-  sections:
-    Main Deck: 60
-    Sideboard: [0, 15]
 pioneer:
   category: "deck"
   format: "pioneer"
@@ -374,6 +384,13 @@ theme:
   name: "Theme Deck"
   sections:
     Main Deck: 60
+theme-mtgo:
+  category: "deck"
+  format: "casual"
+  name: "MTGO Theme Deck"
+  sections:
+    Main Deck: 60
+    Sideboard: [0, 15]
 wc:
   category: "deck"
   format: "standard" # WC97 had special format just for the tournament, but it's somehow compatible with Standard?
