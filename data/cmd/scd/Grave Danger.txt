@@ -72,3 +72,6 @@ COMMANDER: 1 Gisa and Geralf [foil]
 1 Submerged Boneyard
 13 Island [SCD:*]
 18 Swamp [SCD:*]
+
+Display Commander
+1 Gisa and Geralf [SCD:3] [foil] [etched]
