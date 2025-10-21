@@ -83,4 +83,4 @@ COMMANDER: 1 Neyali, Suns' Vanguard [ONC:2] [foil]
 11 Mountain
 
 Display Commander
-1 Neyali, Suns' Vanguard [ONC:30] [foil]
+1 Neyali, Suns' Vanguard [ONC:30] [foil] [etched]
