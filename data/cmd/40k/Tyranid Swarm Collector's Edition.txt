@@ -84,4 +84,4 @@ COMMANDER: 1 The Swarmlord [40k:4] [foil]
 1 Goliath Truck [40k:158★] [foil]
 
 Display Commander
-1 The Swarmlord [40k:321] [foil]
+1 The Swarmlord [40k:321] [foil] [etched]

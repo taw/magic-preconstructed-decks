@@ -86,4 +86,4 @@ COMMANDER: 1 Ixhel, Scion of Atraxa [ONC:1] [foil]
 8 Forest
 
 Display Commander
-1 Ixhel, Scion of Atraxa [ONC:29] [foil]
+1 Ixhel, Scion of Atraxa [ONC:29] [foil] [etched]

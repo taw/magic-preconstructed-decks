@@ -86,4 +86,4 @@ COMMANDER: 1 Zaffai, Thunder Conductor [foil]
 1 Pyromancer's Goggles
 
 Display Commander
-1 Zaffai, Thunder Conductor [oc21] [foil]
+1 Zaffai, Thunder Conductor [oc21] [foil] [etched]

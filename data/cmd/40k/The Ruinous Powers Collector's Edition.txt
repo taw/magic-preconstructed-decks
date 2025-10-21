@@ -82,4 +82,4 @@ COMMANDER: 1 Abaddon the Despoiler [40k:2] [foil]
 1 The Lost and the Damned [40k:129★] [foil]
 
 Display Commander
-1 Abaddon the Despoiler [40k:319] [foil]
+1 Abaddon the Despoiler [40k:319] [foil] [etched]

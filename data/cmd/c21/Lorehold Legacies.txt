@@ -85,4 +85,4 @@ COMMANDER: 1 Osgir, the Reconstructor [foil]
 8 Plains [STX:*]
 
 Display Commander
-1 Osgir, the Reconstructor [oc21] [foil]
+1 Osgir, the Reconstructor [oc21] [foil] [etched]
