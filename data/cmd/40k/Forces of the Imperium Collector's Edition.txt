@@ -86,4 +86,4 @@ COMMANDER: 1 Inquisitor Greyfax [40k:3] [foil]
 1 Primaris Chaplain [40k:137★] [foil]
 
 Display Commander
-1 Inquisitor Greyfax [40k:320] [foil]
+1 Inquisitor Greyfax [40k:320] [foil] [etched]
