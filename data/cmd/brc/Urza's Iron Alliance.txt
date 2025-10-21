@@ -95,4 +95,4 @@ COMMANDER: 1 Urza, Chief Artificer [BRC:2] [foil]
 1 Thopter Shop
 
 Display Commander
-1 Urza, Chief Artificer [BRC:40] [foil]
+1 Urza, Chief Artificer [BRC:40] [foil] [etched]
