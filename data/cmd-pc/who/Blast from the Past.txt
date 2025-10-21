@@ -113,4 +113,4 @@ Planar Deck
 1 TARDIS Bay
 
 Display Commander
-1 The Fourth Doctor [foil] [WHO:193]
+1 The Fourth Doctor [foil] [etched] [WHO:193]
