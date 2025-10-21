@@ -95,4 +95,4 @@ Planar Deck
 1 Stronghold Furnace
 
 Display Commander
-1 Gimbal, Gremlin Prodigy [MOC:136] [foil]
+1 Gimbal, Gremlin Prodigy [MOC:136] [foil] [etched]
