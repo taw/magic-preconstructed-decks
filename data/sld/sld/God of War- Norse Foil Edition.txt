@@ -1,0 +1,7 @@
+// NAME: God of War: Norse Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246541
+// DATE: 2025-11-06
+1 [SLD] REVERSIBLE Teferi's Ageless Insight [foil]
+1 [SLD:2212] Atreus, Impulsive Son [foil]
+1 [SLD:2213] Kratos, Stoic Father [foil]
+1 [SLD:2215] Iroas, God of Victory [foil]

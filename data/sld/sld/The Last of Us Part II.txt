@@ -1,0 +1,8 @@
+// NAME: The Last of Us Part II
+// SOURCE: https://secretlair.wizards.com/us/product/1246548
+// DATE: 2025-11-06
+1 [SLD] Abby, Merciless Soldier
+1 [SLD] Ellie, Vengeful Hunter
+1 [SLD] Dictate of Erebos
+1 [SLD] Mycoloth
+1 [SLD:2201] Cordyceps Infected [token]
