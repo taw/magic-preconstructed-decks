@@ -1,8 +1,8 @@
 // NAME: Furby: The Oddbodies Confetti Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247721
 // DATE: 2025-10-27
-1 [SLD:2321] Hullbreaker Horror [foil]
-1 [SLD:2322] Maddening Cacophony [foil]
-1 [SLD:2323] Serum Visions [foil]
-1 [SLD:2324] Umbris, Fear Manifest [foil]
-1 [SLD:2325] Spellskite [foil]
+1 [SLD:2336] Hullbreaker Horror [foil]
+1 [SLD:2337] Maddening Cacophony [foil]
+1 [SLD:2338] Serum Visions [foil]
+1 [SLD:2339] Umbris, Fear Manifest [foil]
+1 [SLD:2340] Spellskite [foil]

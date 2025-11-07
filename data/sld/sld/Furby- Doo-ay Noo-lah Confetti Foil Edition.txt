@@ -1,8 +1,8 @@
 // NAME: Furby: Doo-ay Noo-lah Confetti Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1247715
 // DATE: 2025-10-27
-1 [SLD:2311] Distant Melody [foil]
-1 [SLD:2312] Explore [foil]
-1 [SLD:2313] Inspiring Call [foil]
-1 [SLD:2314] Chromatic Lantern [foil]
-1 [SLD:2315] Sol Ring [foil]
+1 [SLD:2326] Distant Melody [foil]
+1 [SLD:2327] Explore [foil]
+1 [SLD:2328] Inspiring Call [foil]
+1 [SLD:2329] Chromatic Lantern [foil]
+1 [SLD:2330] Sol Ring [foil]
