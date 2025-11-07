@@ -14,3 +14,4 @@ blocks:
             - sem-version ruby 3.2.2
             - bundle install --path vendor/bundle
             - bundle exec bin/build_jsons decks.json
+            - bundle exec bin/validate_card_names

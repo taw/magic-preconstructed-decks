@@ -1,9 +1,9 @@
 // NAME: Dungeons & Dragons: Honor Among Thieves
 // SOURCE: https://secretlair.wizards.com/us/product/813126
 // DATE: 2023-03-31
-1 [SLD:1237] Xenk, Paladin Unbroken
-1 [SLD:1238] Simon, Wild Magic Sorcerer
-1 [SLD:1239] Forge, Neverwinter Charlatan
-1 [SLD:1240] Holga, Relentless Rager
-1 [SLD:1241a] Doric, Nature's Warden
-1 [SLD:1242] Edgin, Larcenous Lutenist
+1 [SLD:1237] Rashel, Fist of Torm
+1 [SLD:1238] Mathise, Surge Channeler
+1 [SLD:1239] Evin, Waterdeep Opportunist
+1 [SLD:1240] Jurin, Leading the Charge
+1 [SLD:1241a] Casal, Lurkwood Pathfinder
+1 [SLD:1242] Bohn, Beguiling Balladeer

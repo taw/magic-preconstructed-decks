@@ -1,9 +1,9 @@
 // NAME: Dungeons & Dragons: Honor Among Thieves Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/813129
 // DATE: 2023-03-31
-1 [SLD:1237] Xenk, Paladin Unbroken [foil]
-1 [SLD:1238] Simon, Wild Magic Sorcerer [foil]
-1 [SLD:1239] Forge, Neverwinter Charlatan [foil]
-1 [SLD:1240] Holga, Relentless Rager [foil]
-1 [SLD:1241a] Doric, Nature's Warden [foil]
-1 [SLD:1242] Edgin, Larcenous Lutenist [foil]
+1 [SLD:1237] Rashel, Fist of Torm [foil]
+1 [SLD:1238] Mathise, Surge Channeler [foil]
+1 [SLD:1239] Evin, Waterdeep Opportunist [foil]
+1 [SLD:1240] Jurin, Leading the Charge [foil]
+1 [SLD:1241a] Casal, Lurkwood Pathfinder [foil]
+1 [SLD:1242] Bohn, Beguiling Balladeer [foil]

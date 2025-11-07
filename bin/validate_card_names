@@ -52,11 +52,12 @@ class ValidateCardNames
   end
 end
 
-unless ARGV.size == 1
+path = ARGV[0] || Pathname(__dir__) + "../lib/valid_card_names.txt"
+unless ARGV.size <= 1
   STDERR.puts "Usage: #{$0} valid_card_names.txt"
   exit 1
 end
 
-validator = ValidateCardNames.new(ARGV[0])
+validator = ValidateCardNames.new(path)
 validator.call
 exit 1 if validator.has_errors
