@@ -1,0 +1,30 @@
+// NAME: An Encyclopedia of Magic
+// SOURCE: https://secretlair.wizards.com/us/product/1247688/secret-lair-countdown-kit-an-encyclopedia-of-magic
+// DATE: 2025-11-03
+// DISPLAY: Each card has a chance to appear in traditional foil, and a fractional chance to appear in halo foil. The halo foil cards have a different collector number and are not listed here.
+1 [SLC:1] Altar of the Brood
+1 [SLC:2] Brain Freeze
+1 [SLC:3] Crop Rotation
+1 [SLC:4] Demonic Consultation
+1 [SLC:5] Eerie Ultimatum
+1 [SLC:6] Field of the Dead
+1 [SLC:7] Gray Merchant of Asphodel
+1 [SLC:8] Hymn to Tourach
+1 [SLC:9] Isochron Scepter
+1 [SLC:10] Junji, the Midnight Sky
+1 [SLC:11] Krark-Clan Ironworks
+1 [SLC:12] Llanowar Elves
+1 [SLC:13] Myrel, Sheild of Argive
+1 [SLC:14] Narset’s Reversal
+1 [SLC:15] Ob Nixilis, the Fallen
+1 [SLC:16] Phyrexian Altar
+1 [SLC:17] Questing Beast
+1 [SLC:18] Retrofitter Foundry
+1 [SLC:19] Sol Ring
+1 [SLC:20] Temple of the False God
+1 [SLC:21] Urza’s Saga
+1 [SLC:22] Vesuva
+1 [SLC:23] Wasteland
+1 [SLC:24] Xantcha, Sleeper Agent
+1 [SLC:25] Yarok, the Desecrated
+1 [SLC:26] Zo-Zu the Punisher
