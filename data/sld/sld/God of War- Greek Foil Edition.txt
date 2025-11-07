@@ -1,0 +1,8 @@
+// NAME: God of War: Greek Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246539
+// DATE: 2025-11-06
+1 [SLD:2207] Kratos, God of War [foil]
+1 [SLD:2208] World at War [foil]
+1 [SLD:2209] Rite of Flame [foil]
+1 [SLD:2210] Sulfuric Vortex [foil]
+1 [SLD:2211] Pyrohemia [foil]

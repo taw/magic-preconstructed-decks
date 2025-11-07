@@ -1,0 +1,7 @@
+// NAME: God of War: Norse
+// SOURCE: https://secretlair.wizards.com/us/product/1246542
+// DATE: 2025-11-06
+1 [SLD:2212] Atreus, Impulsive Son
+1 [SLD:2213] Kratos, Stoic Father
+1 [SLD:2214a] Teferi's Ageless Insight
+1 [SLD:2215] Iroas, God of Victory
