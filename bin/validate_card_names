@@ -3,10 +3,14 @@
 require "set"
 require "pathname"
 require "pathname-glob"
+require_relative "../lib/deck"
 
 class ValidateCardNames
+  attr_reader :has_errors
+
   def initialize(card_list_path)
-    @valid_card_list = Pathname(card_list_path).readlines.map(&:chomp).to_set
+    @valid_card_names = Pathname(card_list_path).readlines.map(&:chomp).to_set
+    @has_errors = false
   end
 
   def data_root
@@ -17,37 +21,53 @@ class ValidateCardNames
     data_root.glob("*/*/*.txt")
   end
 
-  def find_duplicates(list)
-    list.map(&:last).group_by(&:itself).map{|k,v| [k,v.size]}.select{|k,v| v > 1}
+  def warn(*)
+    @has_errors = true
+    super
+  end
+
+  def validate_names(path, deck)
+    deck.sections.each do |section_name, section_cards|
+      # These are intentional
+      unless path.to_s.split("/")[-3] == "demo"
+        duplicate_entries = section_cards.map{|c| c.except(:count)}.tally.select{|k,v| v > 1}
+        duplicate_entries.each do |entry, count|
+          binding.pry
+          warn "#{path}: #{section_name}: contains #{entry.inspect} multiple times"
+        end
+      end
+
+      card_names = section_cards.reject{|c| c[:token]}.map{|c| c[:name]}.flat_map{|cn| cn.split(" // ") }.to_set - @valid_card_names
+      card_names.each do |card_name|
+        warn "#{path}: #{section_name}: Unknown card: #{card_name.inspect}"
+      end
+    end
+
+      # cards = []
+      # sideboard = []
+      # target = cards
+      # comment_lines = path.readlines.map(&:chomp)
+      # comment_lines.each do |line|
+      #   target = sideboard if line == "Sideboard"
+      #   next unless line =~ /\A(\d+) (.*)/
+      #   target << [$1.to_i, $2.sub(/\**\z/, "").tr("ûö", "uo")]
+      # end
+
+      # (cards+sideboard).map(&:last).uniq.each do |card_name|
+      #   next if @valid_card_list.include?(card_name)
+      #   if card_name.include?("//")
+      #     a, b = card_name.split(" // ")
+      #     next if @valid_card_list.include?(a) and @valid_card_list.include?(b)
+      #   end
+      #   puts "#{path}: Unknown card: #{card_name.inspect}"
+      # end
+
   end
 
   def call
     deck_files.each do |path|
-      cards = []
-      sideboard = []
-      target = cards
-      comment_lines = path.readlines.map(&:chomp)
-      comment_lines.each do |line|
-        target = sideboard if line == "Sideboard"
-        next unless line =~ /\A(\d+) (.*)/
-        target << [$1.to_i, $2.sub(/\**\z/, "").tr("ûö", "uo")]
-      end
-
-      find_duplicates(cards).each do |card_name, count|
-        puts "#{path}: #{card_name} occurs #{count} times"
-      end
-      find_duplicates(sideboard).each do |card_name, count|
-        puts "#{path}: #{card_name} occurs #{count} times"
-      end
-
-      (cards+sideboard).map(&:last).uniq.each do |card_name|
-        next if @valid_card_list.include?(card_name)
-        if card_name.include?("//")
-          a, b = card_name.split(" // ")
-          next if @valid_card_list.include?(a) and @valid_card_list.include?(b)
-        end
-        puts "#{path}: Unknown card: #{card_name.inspect}"
-      end
+      deck = Deck.new(path)
+      validate_names(path, deck)
     end
   end
 end
@@ -57,4 +77,6 @@ unless ARGV.size == 1
   exit 1
 end
 
-ValidateCardNames.new(ARGV[0]).call
+validator = ValidateCardNames.new(ARGV[0])
+validator.call
+exit 1 if validator.has_errors
