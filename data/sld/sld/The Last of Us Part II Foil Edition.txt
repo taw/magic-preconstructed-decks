@@ -1,8 +1,8 @@
 // NAME: The Last of Us Part II Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1246547
 // DATE: 2025-11-06
-1 [SLD] Abby, Merciless Soldier [foil]
-1 [SLD] Ellie, Vengeful Hunter [foil]
-1 [SLD] Dictate of Erebos [foil]
-1 [SLD] Mycoloth [foil]
 1 [SLD:2201] Cordyceps Infected [foil] [token]
+1 [SLD:2202] Abby, Merciless Soldier [foil]
+1 [SLD:2203] Ellie, Vengeful Hunter [foil]
+1 [SLD:2204] Dictate of Erebos [foil]
+1 [SLD:2205] Mycoloth [foil]
