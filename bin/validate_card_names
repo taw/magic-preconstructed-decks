@@ -42,26 +42,6 @@ class ValidateCardNames
         warn "#{path}: #{section_name}: Unknown card: #{card_name.inspect}"
       end
     end
-
-      # cards = []
-      # sideboard = []
-      # target = cards
-      # comment_lines = path.readlines.map(&:chomp)
-      # comment_lines.each do |line|
-      #   target = sideboard if line == "Sideboard"
-      #   next unless line =~ /\A(\d+) (.*)/
-      #   target << [$1.to_i, $2.sub(/\**\z/, "").tr("ûö", "uo")]
-      # end
-
-      # (cards+sideboard).map(&:last).uniq.each do |card_name|
-      #   next if @valid_card_list.include?(card_name)
-      #   if card_name.include?("//")
-      #     a, b = card_name.split(" // ")
-      #     next if @valid_card_list.include?(a) and @valid_card_list.include?(b)
-      #   end
-      #   puts "#{path}: Unknown card: #{card_name.inspect}"
-      # end
-
   end
 
   def call
@@ -73,7 +53,7 @@ class ValidateCardNames
 end
 
 unless ARGV.size == 1
-  STDERR.puts "Usage: #{$0} valid_card_list.txt"
+  STDERR.puts "Usage: #{$0} valid_card_names.txt"
   exit 1
 end
 
