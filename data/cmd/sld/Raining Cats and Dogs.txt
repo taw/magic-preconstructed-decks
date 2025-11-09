@@ -84,8 +84,8 @@ COMMANDER: 1 Rin and Seri, Inseparable [SLD:1508a] [foil]
 7 Forest [SLD:1515] [foil]
 
 Sideboard
-1 Dog [SLD:1516] [foil]
-1 Cat [SLD:1517] [foil]
+1 Dog [SLD:1516] [foil] [token]
+1 Cat [SLD:1517] [foil] [token]
 
 Display Commander
 1 Rin and Seri, Inseparable [SLD:1554a]
