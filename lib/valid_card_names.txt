@@ -1,4 +1,3 @@
-"Abandoned Air Temple"
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
 "Lifetime" Pass Holder
@@ -43,6 +42,7 @@ Abandon Attachments
 Abandon Hope
 Abandon Reason
 Abandon the Post
+Abandoned Air Temple
 Abandoned Campground
 Abandoned Outpost
 Abandoned Sarcophagus
@@ -151,6 +151,7 @@ Accomplished Alchemist
 Accomplished Automaton
 Accorder Paladin
 Accorder's Shield
+Accumulate Wisdom
 Accumulated Knowledge
 Accursed Centaur
 Accursed Duneyard
@@ -456,6 +457,7 @@ Ainok Wayfarer
 Air Bladder
 Air Elemental
 Air Marshal
+Air Nomad Legacy
 Air Nomad Student
 Air Response Unit
 Air Servant
@@ -3093,6 +3095,7 @@ Blustering Barnyard
 Blustersquall
 Boa Constrictor
 Boar Umbra
+Boar-q-pine
 Board the Weatherlight
 Boarded Window
 Boarding Party
@@ -4064,6 +4067,7 @@ Canopy Vista
 Cantivore
 Cantor of the Refrain
 Canyon Crab
+Canyon Crawler
 Canyon Drake
 Canyon Jerboa
 Canyon Lurkers
@@ -6081,6 +6085,7 @@ Curiosity
 Curiosity Crafter
 Curious Altisaur
 Curious Cadaver
+Curious Farm Animals
 Curious Forager
 Curious Herd
 Curious Homunculus
@@ -9941,6 +9946,7 @@ Fire-Omen Crane
 Fire-Rim Form
 Fireball
 Firebender Ascension
+Firebending Lesson
 Firebending Student
 Fireblade Artist
 Fireblade Charger
@@ -10296,6 +10302,7 @@ Fog on the Barrow-Downs
 Foggy Bottom Swamp
 Foggy Swamp Hunters
 Foggy Swamp Spirit Keeper
+Foggy Swamp Vinebender
 Foggy Swamp Visions
 Fogwalker
 Foil
@@ -15736,6 +15743,7 @@ Kodama's Might
 Kodama's Reach
 Kogla and Yidaro
 Kogla, the Titan Ape
+Koh, the Face Stealer
 Koilos Roc
 Kokusho, the Evening Star
 Kolaghan Aspirant
@@ -16663,6 +16671,7 @@ Llanowar Visionary
 Llanowar Wastes
 Llawan, Cephalid Empress
 Lo and Li, Royal Advisors
+Lo and Li, Twin Tutors
 Loading Zone
 Loafing Giant
 Loam Dryad
@@ -17942,6 +17951,7 @@ Meteor Golem
 Meteor Shower
 Meteor Storm
 Meteor Swarm
+Meteor Sword
 Meteoric Mace
 Meteorite
 Meticulous Archive
@@ -20936,6 +20946,7 @@ Phobian Phantasm
 Phoebe, Head of S.N.E.A.K.
 Phoenix Chick
 Phoenix Down
+Phoenix Fleet Airship
 Phoenix Heart
 Phoenix of Ash
 Phoenix, Warden of Fire
@@ -21135,6 +21146,7 @@ Piracy Charm
 Piranha Fly
 Piranha Marsh
 Pirate Hat
+Pirate Peddlers
 Pirate Ship
 Pirate's Cutlass
 Pirate's Landing
@@ -22607,6 +22619,7 @@ Really Charming Prince
 Really Epic Punch
 Realm Razer
 Realm Seekers
+Realm of Koh
 Realm-Cloaked Giant
 Realm-Scorcher Hellkite
 Realmbreaker's Grasp
@@ -23794,6 +23807,7 @@ Ruinous Minotaur
 Ruinous Path
 Ruinous Rampage
 Ruinous Ultimatum
+Ruinous Waterbending
 Ruins Recluse
 Ruins of Oran-Rief
 Ruins of Trokair
@@ -23804,6 +23818,7 @@ Rule with an Even Hand
 Rules Lawyer
 Rulik Mons, Warren Chief
 Rulik Mons, Warren Chief (Alchemy)
+Rumble Arena
 Rumbleweed
 Rumbling Aftershocks
 Rumbling Baloth
@@ -24164,6 +24179,7 @@ Sandals of Abdallah
 Sandbar Crocodile
 Sandbar Merfolk
 Sandbar Serpent
+Sandbender Scavengers
 Sandbenders' Storm
 Sandblast
 Sandcloud Harbinger
@@ -26699,6 +26715,7 @@ Sound the Call
 Soundwave, Sonic Spy
 Soundwave, Superior Captain
 Soured Springs
+South Pole Voyager
 Southern Air Temple
 Southern Elephant
 Southern Paladin
@@ -28736,6 +28753,7 @@ Teacher's Pet
 Teachings of the Archaics
 Teachings of the Kirin
 Team Acceleration
+Team Avatar
 Team Mage
 Team Pennant
 Team Perseverance
@@ -30211,6 +30229,7 @@ Topaz Dragon
 Topdeck the Halls
 Toph, Earthbending Master
 Toph, Greatest Earthbender
+Toph, Hardheaded Teacher
 Toph, the Blind Bandit
 Toph, the First Metalbender
 Topiary Panther
@@ -31623,6 +31642,7 @@ Vengeful Strangler
 Vengeful Townsfolk
 Vengeful Tracker
 Vengeful Vampire
+Vengeful Villagers
 Vengeful Warchief
 Vengevine
 Venom
@@ -32366,6 +32386,7 @@ Wandering Goblins
 Wandering Graybeard
 Wandering Mage
 Wandering Mind
+Wandering Musicians
 Wandering Ones
 Wandering Stream
 Wandering Tombshell
@@ -32497,6 +32518,7 @@ Warship Scout
 Warstorm Surge
 Warteye Witch
 Warthog
+Wartime Protestors
 Wary Okapi
 Wary Thespian
 Wary Watchdog
@@ -32540,6 +32562,7 @@ Watchwolf
 Water Elemental
 Water Gun Balloon Game
 Water Servant
+Water Tribe Captain
 Water Tribe Rallier
 Water Weird
 Water Whip
@@ -32548,6 +32571,7 @@ Water Wurm
 Waterbender Ascension
 Waterbender's Restoration
 Waterbending Lesson
+Waterbending Scroll
 Watercourser
 Waterfall Aerialist
 Waterfront Bouncer
@@ -33763,6 +33787,7 @@ Zoraline, Cosmos Caller
 Zoyowa Lava-Tongue
 Zoyowa's Justice
 Zuberi, Golden Feather
+Zuko's Conviction
 Zuko's Exile
 Zuko's Offense
 Zuko, Avatar Hunter
