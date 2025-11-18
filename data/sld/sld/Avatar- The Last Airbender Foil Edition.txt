@@ -1,0 +1,8 @@
+// NAME: Avatar: The Last Airbender Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1248505
+// DATE: 2025-11-18
+1 [SLD:2306] Phantasmal Image [foil]
+1 [SLD:2307] Braid of Fire [foil]
+1 [SLD:2308] Cursed Mirror [foil]
+1 [SLD:2309] Mask of Memory [foil]
+1 [SLD:2310] Thespian's Stage [foil]
