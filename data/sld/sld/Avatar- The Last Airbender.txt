@@ -1,0 +1,8 @@
+// NAME: Avatar: The Last Airbender
+// SOURCE: https://secretlair.wizards.com/us/product/1248512
+// DATE: 2025-11-18
+1 [SLD:2306] Phantasmal Image
+1 [SLD:2307] Braid of Fire
+1 [SLD:2308] Cursed Mirror
+1 [SLD:2309] Mask of Memory
+1 [SLD:2310] Thespian's Stage
