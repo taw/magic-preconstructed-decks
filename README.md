@@ -12,4 +12,4 @@ To add new decks from new set:
 * use `bundle exec bin/build_jsons decks.json` to validate file structure
 * use `bundle exec bin/validate_card_names` to validate card names
 
-CI will do validatio for you if you open a PR.
+CI will do validation for you if you open a PR.
