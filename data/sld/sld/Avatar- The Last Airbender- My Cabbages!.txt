@@ -1,0 +1,8 @@
+// NAME: Avatar: The Last Airbender: My Cabbages!
+// SOURCE: https://secretlair.wizards.com/us/product/1248508
+// DATE: 2025-11-18
+1 [SLD:2295] Chain of Vapor
+1 [SLD:2296] Meltdown
+1 [SLD:2297] Nature's Claim
+1 [SLD:2298] Anguished Unmaking
+1 [SLD:2299] Putrefy
