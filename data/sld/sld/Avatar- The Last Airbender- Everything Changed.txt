@@ -1,0 +1,7 @@
+// NAME: Avatar: The Last Airbender: Everything Changed
+// SOURCE: https://secretlair.wizards.com/us/product/1248506
+// DATE: 2025-11-18
+1 [SLD:2287] Torment of Hailfire
+1 [SLD:2288] Blood Moon
+1 [SLD:2289] Lightning Bolt
+1 [SLD:2290] Dramatic Entrance
