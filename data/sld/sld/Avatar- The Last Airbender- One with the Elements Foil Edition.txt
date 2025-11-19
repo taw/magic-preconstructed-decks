@@ -1,0 +1,9 @@
+// NAME: Avatar: The Last Airbender: One with the Elements Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1248509
+// DATE: 2025-11-18
+1 [SLD:2300] Silence [foil]
+1 [SLD:2301] Preordain [foil]
+1 [SLD:2302] Painful Truths [foil]
+1 [SLD:2303] Past in Flames [foil]
+1 [SLD:2304] Force of Vigor [foil]
+1 [SLD:2305] Expressive Iteration [foil]
