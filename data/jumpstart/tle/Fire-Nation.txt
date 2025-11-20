@@ -1,0 +1,19 @@
+// NAME: Fire-Nation
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Firebending Student [TLA:139]
+1 Mai, Jaded Edge [TLA:147]
+1 Ty Lee, Artful Acrobat [TLA:158]
+1 Zuko, Seeking Honor [TLE:150]
+1 Longshot, Rebel Bowman [TLE:120]
+1 Fire Nation Attacks [TLA:133]
+1 Firebending Lesson [TLA:138]
+1 Cunning Maneuver [TLA:130]
+1 Fists of Flame [TLE:166]
+1 Lightning Strike [TLA:146]
+1 How to Start a Riot [TLA:140]
+1 Storm of Memories [TLE:126]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

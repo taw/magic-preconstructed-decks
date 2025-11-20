@@ -1,0 +1,19 @@
+// NAME: Katara
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Gran-Gran [TLA:54]
+1 Master Pakku [TLA:63]
+1 Katara, Waterbending Master [TLE:93]
+1 Rowdy Snowballers [TLA:68]
+1 Sokka, Lateral Strategist [TLA:241]
+1 Turtle-Seals [TLE:226]
+1 Geyser Leaper [TLA:52]
+1 Consider [TLE:157]
+1 Watery Grasp [TLA:82]
+1 Octopus Form [TLA:66]
+1 It'll Quench Ya! [TLA:58]
+1 Sokka's Haiku [TLA:71]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

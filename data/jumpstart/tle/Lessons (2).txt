@@ -1,0 +1,19 @@
+// NAME: Lessons-(2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Gran-Gran [TLA:54]
+1 Master Pakku [TLA:63]
+1 Platypus-Bear [TLA:236]
+1 Iguana Parrot [TLA:56]
+1 Katara, Seeking Revenge [TLE:148]
+1 Geyser Leaper [TLA:52]
+1 Octopus Form [TLA:66]
+1 Accumulate Wisdom [TLA:44]
+1 Chakra Meditation [TLE:91]
+1 Waterbending Lesson [TLA:80]
+1 Lost Days [TLA:62]
+1 Whirlwind Technique [TLE:100]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

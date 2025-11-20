@@ -1,0 +1,19 @@
+// NAME: Rebelling-(2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Freedom Fighter Recruit [TLE:118]
+1 Deserter's Disciple [TLA:131]
+1 Treetop Freedom Fighters [TLA:156]
+1 Zuko, Seeking Honor [TLE:150]
+1 Hook Swords [TLE:147]
+1 Longshot, Rebel Bowman [TLE:120]
+1 Smellerbee, Rebel Fighter [TLE:125]
+1 Jet, Freedom Fighter [TLA:229]
+1 Explosive Shot [TLE:236]
+1 Run Amok [TLE:258]
+1 How to Start a Riot [TLA:140]
+1 Overwhelming Victory [TLE:123]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

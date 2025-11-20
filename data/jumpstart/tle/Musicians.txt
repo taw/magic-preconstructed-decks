@@ -1,0 +1,20 @@
+// NAME: Musicians
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Freedom Fighter Recruit [TLE:118]
+1 Moku, Meandering Drummer [TLE:122]
+1 Ty Lee, Artful Acrobat [TLA:158]
+1 Founding of Omashu [TLE:116]
+1 Wandering Musicians [TLA:250]
+1 Chong and Lily, Nomads [TLE:113]
+1 Rough Rhino Cavalry [TLA:152]
+1 Mongoose Lizard [TLA:148]
+1 Explosive Shot [TLE:236]
+1 Cunning Maneuver [TLA:130]
+1 Bumi Bash [TLA:125]
+1 The Cave of Two Lovers [TLA:126]
+1 Thriving Bluff [TLE:260]
+1 Secret Tunnel [TLA:278]
+5 Mountain
+1 Mountain [TLA:290]
+

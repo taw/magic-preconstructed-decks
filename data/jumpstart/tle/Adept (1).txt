@@ -1,0 +1,19 @@
+// NAME: Adept-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Professor Zei, Anthropologist [TLA:238]
+1 Forecasting Fortune Teller [TLA:51]
+1 Katara, Bending Prodigy [TLA:59]
+1 Iguana Parrot [TLA:56]
+1 Turtle-Seals [TLE:226]
+1 Giant Koi [TLA:53]
+1 Serpent of the Pass [TLA:70]
+1 Unagi's Spray [TLE:97]
+1 Dramatic Reversal [TLE:158]
+1 Crashing Wave [TLA:47]
+1 Nightmares and Daydreams [TLE:94]
+1 Waterbending Lesson [TLA:80]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

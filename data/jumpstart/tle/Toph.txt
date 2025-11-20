@@ -1,0 +1,19 @@
+// NAME: Toph
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Rebellious Captives [TLA:191]
+1 Frog-Squirrels [TLE:251]
+1 Toph, Earthbending Master [TLE:145]
+1 Earth Kingdom Soldier [TLA:216]
+1 Kyoshi Warrior Exemplars [TLE:140]
+1 Earth Kingdom General [TLA:173]
+1 Badgermole [TLA:166]
+1 Saber-Tooth Moose-Lion [TLA:194]
+1 Rocky Rebuke [TLA:193]
+1 Origin of Metalbending [TLA:187]
+1 Tale of Katara and Toph [TLE:143]
+1 Solid Ground [TLE:142]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

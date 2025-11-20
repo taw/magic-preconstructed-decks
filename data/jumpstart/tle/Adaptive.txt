@@ -1,0 +1,19 @@
+// NAME: Adaptive
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Glider Kids [TLA:21]
+1 Kyoshi Battle Fan [TLA:257]
+1 Rowdy Snowballers [TLA:68]
+1 Katara, Bending Prodigy [TLA:59]
+1 Princess Yue [TLE:95]
+1 The Blue Spirit [TLE:90]
+1 Teo, Spirited Glider [TLA:74]
+1 Giant Koi [TLA:53]
+1 Boomerang Basics [TLA:46]
+1 Frantic Search [TLE:159]
+1 Lost in the Spirit World [TLE:224]
+1 Waterbending Lesson [TLA:80]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

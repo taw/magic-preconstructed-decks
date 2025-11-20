@@ -1,0 +1,19 @@
+// NAME: Hei-Bai (1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Invasion Reinforcements [TLA:24]
+1 Pretending Poxbearers [TLA:237]
+1 Aang, A Lot to Learn [TLE:146]
+1 Koala-Sheep [TLE:80]
+1 Suki, Courageous Rescuer [TLA:37]
+1 Vengeful Villagers [TLA:40]
+1 Hei Bai, Spirit of Balance [TLA:225]
+1 Rabaroo Troop [TLA:32]
+1 Acrobatic Leap [TLE:151]
+1 Path to Redemption [TLA:31]
+1 That's Rough Buddy [TLE:87]
+1 Sandbenders' Storm [TLA:34]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+

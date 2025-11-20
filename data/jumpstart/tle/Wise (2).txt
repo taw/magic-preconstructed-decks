@@ -1,0 +1,19 @@
+// NAME: Wise-(2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Tiger-Seal [TLA:75]
+1 Otter-Penguin [TLA:67]
+1 Knowledge Seeker [TLA:60]
+1 Sokka, Lateral Strategist [TLA:241]
+1 Rowdy Snowballers [TLA:68]
+1 Messenger Hawk [TLA:234]
+1 Turtle-Seals [TLE:226]
+1 The Blue Spirit [TLE:90]
+1 Consider [TLE:157]
+1 It'll Quench Ya! [TLA:58]
+1 Sokka's Haiku [TLA:71]
+1 Whirlwind Technique [TLE:100]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

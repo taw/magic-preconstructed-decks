@@ -1,0 +1,19 @@
+// NAME: Reinforced-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Callous Inspector [TLA:89]
+1 Elephant-Rat [TLE:228]
+1 Long Feng, Grand Secretariat [TLA:233]
+1 Hog-Monkey [TLA:104]
+1 Zuko, Seeking Honor [TLE:150]
+1 Buzzard-Wasp Colony [TLA:88]
+1 Fire Nation Salvagers [TLE:106]
+1 Beetle-Headed Merchants [TLA:86]
+1 Azula Always Lies [TLA:84]
+1 Dai Li Indoctrination [TLA:93]
+1 Epic Downfall [TLA:96]
+1 Feed the Swarm [TLE:257]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

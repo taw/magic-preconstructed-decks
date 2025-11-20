@@ -1,0 +1,19 @@
+// NAME: At-the Zoo
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Turtle-Duck [TLA:200]
+1 Animal Attendant [TLE:128]
+1 Frog-Squirrels [TLE:251]
+1 Ostrich-Horse [TLA:188]
+1 Elephant-Mandrill [TLE:138]
+1 Eel-Hounds [TLE:250]
+1 Diligent Zookeeper [TLA:171]
+1 Saber-Tooth Moose-Lion [TLA:194]
+1 Pillar Launch [TLA:189]
+1 Origin of Metalbending [TLA:187]
+1 Bison Whistle [TLE:131]
+1 Hog-Monkey Rampage [TLE:255]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

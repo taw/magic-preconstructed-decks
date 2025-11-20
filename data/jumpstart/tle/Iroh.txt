@@ -1,0 +1,19 @@
+// NAME: Iroh
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Deserter's Disciple [TLA:131]
+1 Tiger-Dillo [TLA:155]
+1 Boar-q-pine [TLA:124]
+1 Zuko, Seeking Honor [TLE:150]
+1 Jeong Jeong, the Deserter [TLA:142]
+1 Iroh, Dragon of the West [TLE:119]
+1 Mongoose Lizard [TLA:148]
+1 Firebending Lesson [TLA:138]
+1 Iroh's Demonstration [TLA:141]
+1 Cathartic Reunion [TLE:164]
+1 Bolt Bend [TLE:163]
+1 Fiery Confluence [TLE:165]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

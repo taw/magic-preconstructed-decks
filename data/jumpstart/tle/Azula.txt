@@ -1,0 +1,19 @@
+// NAME: Azula
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Dai Li Censor [TLE:102]
+1 Corrupt Court Official [TLA:92]
+1 Fire Nation Ambushers [TLE:229]
+1 Fire Navy Trebuchet [TLA:100]
+1 Azula, Ruthless Firebender [TLE:101]
+1 Lo and Li, Twin Tutors [TLA:108]
+1 Canyon Crawler [TLA:90]
+1 Sold Out [TLA:119]
+1 Azula Always Lies [TLA:84]
+1 Dai Li Indoctrination [TLA:93]
+1 Epic Downfall [TLA:96]
+1 Dark Deal [TLE:161]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+
