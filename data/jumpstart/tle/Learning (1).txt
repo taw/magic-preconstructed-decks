@@ -1,0 +1,19 @@
+// NAME: Learning-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Rebellious Captives [TLA:191]
+1 Sparring Dummy [TLA:197]
+1 Walltop Sentries [TLA:202]
+1 Aang, A Lot to Learn [TLE:146]
+1 Guru Pathik [TLA:223]
+1 Saber-Tooth Moose-Lion [TLA:194]
+1 Origin of Metalbending [TLA:187]
+1 Shared Roots [TLA:196]
+1 Rocky Rebuke [TLA:193]
+1 Crystalline Armor [TLE:137]
+1 Cracked Earth Technique [TLE:135]
+1 Zuko's Exile [TLA:3]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

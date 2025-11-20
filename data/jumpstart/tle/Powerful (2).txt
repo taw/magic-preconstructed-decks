@@ -1,0 +1,19 @@
+// NAME: Powerful-(2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Freedom Fighter Recruit [TLE:118]
+1 Tiger-Dillo [TLA:155]
+1 Uncle Iroh [TLA:248]
+1 Komodo Rhino [TLE:241]
+1 Fire Nation Raider [TLA:135]
+1 Fang, Roku's Companion [TLE:115]
+1 Combustion Man [TLA:127]
+1 Mongoose Lizard [TLA:148]
+1 Firebending Lesson [TLA:138]
+1 Hog-Monkey Rampage [TLE:255]
+1 Cathartic Reunion [TLE:164]
+1 How to Start a Riot [TLA:140]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

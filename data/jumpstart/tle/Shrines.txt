@@ -1,0 +1,23 @@
+// NAME: Shrines
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Raucous Audience [TLA:190]
+1 Walltop Sentries [TLA:202]
+1 Hei Bai, Forest Guardian [TLE:139]
+1 Guru Pathik [TLA:223]
+1 Saber-Tooth Moose-Lion [TLA:194]
+1 Barrels of Blasting Jelly [TLA:254]
+1 Northern Air Temple [TLA:111]
+1 Aang's Journey [TLA:1]
+1 The Spirit Oasis [TLA:72]
+1 Kyoshi Island Plaza [TLA:184]
+1 Southern Air Temple [TLA:36]
+1 Crescent Island Temple [TLA:129]
+1 Thriving Grove [TLE:261]
+1 White Lotus Hideout [TLA:281]
+1 Plains [TLA:282]
+1 Island [TLA:283]
+1 Swamp [TLA:284]
+1 Mountain [TLA:285]
+1 Forest [TLA:291]
+

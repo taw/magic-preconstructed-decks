@@ -1,0 +1,19 @@
+// NAME: Cabbages
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Unlucky Cabbage Merchant [TLA:201]
+1 Bumi's Feast Lecture [TLE:133]
+1 Elephant-Mandrill [TLE:138]
+1 The Cabbage Merchant [TLE:134]
+1 Foggy Swamp Vinebender [TLA:180]
+1 Bosco, Just a Bear [TLE:132]
+1 Hippo-Cows [TLE:252]
+1 Saber-Tooth Moose-Lion [TLA:194]
+1 Many Partings [TLE:169]
+1 Leaves from the Vine [TLA:185]
+1 The Art of Tea [TLE:129]
+1 Rocky Rebuke [TLA:193]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

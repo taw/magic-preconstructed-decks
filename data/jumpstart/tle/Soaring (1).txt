@@ -1,0 +1,19 @@
+// NAME: Soaring-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Flying Dolphin-Fish [TLE:223]
+1 Forecasting Fortune Teller [TLA:51]
+1 Messenger Hawk [TLA:234]
+1 Sokka, Lateral Strategist [TLA:241]
+1 The Mechanist, Aerial Artisan [TLA:64]
+1 Teo, Spirited Glider [TLA:74]
+1 Cat-Owl [TLA:212]
+1 Giant Koi [TLA:53]
+1 Watery Grasp [TLA:82]
+1 Mechanical Glider [TLE:256]
+1 Boomerang Basics [TLA:46]
+1 Sokka's Haiku [TLA:71]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

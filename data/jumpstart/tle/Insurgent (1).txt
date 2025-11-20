@@ -1,0 +1,19 @@
+// NAME: Insurgent-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Momo, Rambunctious Rascal [TLE:217]
+1 Inspired Insurgent [TLE:77]
+1 Jeong Jeong's Deserters [TLA:25]
+1 Invasion Reinforcements [TLA:24]
+1 Glider Kids [TLA:21]
+1 Kyoshi Warriors [TLA:26]
+1 Aang, the Last Airbender [TLA:4]
+1 Appa, Loyal Sky Bison [TLA:9]
+1 Razor Rings [TLA:33]
+1 Stand United [TLE:149]
+1 Airbender's Reversal [TLA:7]
+1 Tale of Momo [TLE:86]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+

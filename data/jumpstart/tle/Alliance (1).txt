@@ -1,0 +1,19 @@
+// NAME: Alliance-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 The Duke, Rebel Sentry [TLE:76]
+1 South Pole Voyager [TLA:35]
+1 Kyoshi Warrior Guard [TLE:216]
+1 Glider Kids [TLA:21]
+1 Sokka, Lateral Strategist [TLA:241]
+1 Kyoshi Warriors [TLA:26]
+1 Suki, Kyoshi Warrior [TLA:243]
+1 Jet, Freedom Fighter [TLA:229]
+1 Mechanical Glider [TLE:256]
+1 Sokka's Sword Training [TLE:84]
+1 Path to Redemption [TLA:31]
+1 Fancy Footwork [TLA:19]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+

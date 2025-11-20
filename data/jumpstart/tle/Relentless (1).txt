@@ -1,0 +1,19 @@
+// NAME: Relentless-(1)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Purple Pentapus [TLE:233]
+1 Merchant of Many Hats [TLA:110]
+1 Ruthless Waterbender [TLE:110]
+1 Pirate Peddlers [TLA:115]
+1 Fire Nation Ambushers [TLE:229]
+1 Azula, On the Hunt [TLA:85]
+1 Buzzard-Wasp Colony [TLA:88]
+1 Canyon Crawler [TLA:90]
+1 Sold Out [TLA:119]
+1 Azula Always Lies [TLA:84]
+1 Heartless Act [TLA:103]
+1 Fire Nation Occupation [TLE:105]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

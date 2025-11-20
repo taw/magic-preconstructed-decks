@@ -1,0 +1,19 @@
+// NAME: Aang
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Momo, Rambunctious Rascal [TLE:217]
+1 Kindly Customer [TLE:79]
+1 Invasion Reinforcements [TLA:24]
+1 Water Tribe Captain [TLA:41]
+1 Koala-Sheep [TLE:80]
+1 Kyoshi Warriors [TLA:26]
+1 Aang, Airbending Master [TLE:74]
+1 Appa, Loyal Sky Bison [TLA:9]
+1 Cloudshift [TLE:152]
+1 Enter the Avatar State [TLA:18]
+1 Path to Redemption [TLA:31]
+1 Airbending Lesson [TLA:8]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+

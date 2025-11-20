@@ -1,0 +1,19 @@
+// NAME: Zuko
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Yuyan Archers [TLA:161]
+1 Zuko, Firebending Master [TLE:127]
+1 Mai, Jaded Edge [TLA:147]
+1 War Balloon [TLA:159]
+1 Dragon Moose [TLE:235]
+1 Fire Nation Attacks [TLA:133]
+1 Mongoose Lizard [TLA:148]
+1 Frantic Confrontation [TLE:117]
+1 Firebending Lesson [TLA:138]
+1 Fists of Flame [TLE:166]
+1 Lightning Strike [TLA:146]
+1 Lost in Memories [TLE:121]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

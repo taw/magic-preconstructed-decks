@@ -1,0 +1,19 @@
+// NAME: Roku
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Yuyan Archers [TLA:161]
+1 Fire Sages [TLA:136]
+1 Boar-q-pine [TLA:124]
+1 Loyal Fire Sage [TLE:242]
+1 Jeong Jeong, the Deserter [TLA:142]
+1 Fang, Roku's Companion [TLE:115]
+1 Avatar Roku, Firebender [TLE:112]
+1 Firebending Lesson [TLA:138]
+1 Frantic Confrontation [TLE:117]
+1 Roku's Mastery [TLE:243]
+1 Crescent Island Temple [TLA:129]
+1 White Lotus Hideout [TLA:281]
+1 Thriving Bluff [TLE:260]
+6 Mountain [TLA:285]
+1 Mountain [TLA:290]
+

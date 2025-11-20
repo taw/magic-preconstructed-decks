@@ -1,0 +1,19 @@
+// NAME: Warriors
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Kyoshi Warrior Guard [TLE:216]
+1 Invasion Reinforcements [TLA:24]
+1 Kyoshi Battle Fan [TLA:257]
+1 Toucan-Puffin [TLE:88]
+1 Sokka, Lateral Strategist [TLA:241]
+1 Suki, Kyoshi Captain [TLE:85]
+1 Kyoshi Warriors [TLA:26]
+1 Rabaroo Troop [TLA:32]
+1 Path to Redemption [TLA:31]
+1 Sokka's Sword Training [TLE:84]
+1 Valorous Stance [TLE:154]
+1 Team Avatar [TLA:38]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+
