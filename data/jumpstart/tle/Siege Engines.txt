@@ -1,17 +1,17 @@
-// NAME: Ozai
+// NAME: Siege Engines
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 // DATE: 2025-11-20
 1 Callous Inspector [TLA:89]
-1 Corrupt Court Official [TLA:92]
-1 Fire Nation Ambushers [TLE:229]
+1 Merchant of Many Hats [TLA:110]
+1 Pretending Poxbearers [TLA:237]
+1 Fire Nation Engineer [TLA:99]
 1 Fire Navy Trebuchet [TLA:100]
-1 Fire Lord Ozai [TLE:104]
-1 Zhao, Ruthless Admiral [TLA:252]
+1 Fire Nation Warship [TLA:256]
+1 Tundra Tank [TLA:121]
+1 The Fire Nation Drill [TLA:98]
 1 Beetle-Headed Merchants [TLA:86]
 1 Canyon Crawler [TLA:90]
 1 Heartless Act [TLA:103]
-1 Ozai's Cruelty [TLA:113]
-1 Scarring Memories [TLE:111]
 1 Deadly Precision [TLA:95]
 1 Thriving Moor [TLE:264]
 6 Swamp [TLA:284]

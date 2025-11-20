@@ -1,17 +1,17 @@
-// NAME: Reinforced (2)
+// NAME: Bad Advice
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 // DATE: 2025-11-20
 1 Gilacorn [TLE:231]
-1 Elephant-Rat [TLE:228]
-1 Hog-Monkey [TLA:104]
+1 Dai Li Censor [TLE:102]
+1 Corrupt Court Official [TLA:92]
+1 Joo Dee, One of Many [TLA:105]
 1 Long Feng, Grand Secretariat [TLA:233]
-1 Earth Village Ruffians [TLA:219]
-1 Zuko, Seeking Honor [TLE:150]
-1 Buzzard-Wasp Colony [TLA:88]
-1 Fire Nation Salvagers [TLE:106]
-1 Fatal Fissure [TLA:97]
+1 Fire Nation Ambushers [TLE:229]
+1 Lo and Li, Royal Advisors [TLE:108]
+1 Hama, the Bloodbender [TLA:224]
+1 Sold Out [TLA:119]
 1 Dai Li Indoctrination [TLA:93]
-1 Heartless Act [TLA:103]
+1 Ozai's Cruelty [TLA:113]
 1 Deadly Precision [TLA:95]
 1 Thriving Moor [TLE:264]
 6 Swamp [TLA:284]

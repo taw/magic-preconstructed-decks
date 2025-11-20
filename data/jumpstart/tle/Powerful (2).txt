@@ -1,4 +1,4 @@
-// NAME: Powerful-(2)
+// NAME: Powerful (2)
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 // DATE: 2025-11-20
 1 Freedom Fighter Recruit [TLE:118]

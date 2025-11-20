@@ -1,0 +1,19 @@
+// NAME: Earth Rumble (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Frog-Squirrels [TLE:251]
+1 Raucous Audience [TLA:190]
+1 Kyoshi Battle Fan [TLA:257]
+1 Uncle Iroh [TLA:248]
+1 The Earth King [TLA:172]
+1 The Boulder, Ready to Rumble [TLA:168]
+1 Earth Rumble Wrestlers [TLA:218]
+1 Bosco, Just a Bear [TLE:132]
+1 Origin of Metalbending [TLA:187]
+1 Hog-Monkey Rampage [TLE:255]
+1 Allies at Last [TLA:164]
+1 Master's Guidance [TLE:141]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

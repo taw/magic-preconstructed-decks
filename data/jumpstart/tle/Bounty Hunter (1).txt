@@ -1,17 +1,17 @@
-// NAME: Hunting (1)
+// NAME: Bounty Hunter (1)
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
 // DATE: 2025-11-20
 1 Purple Pentapus [TLE:233]
-1 Elephant-Rat [TLE:228]
+1 Pretending Poxbearers [TLA:237]
 1 June, Bounty Hunter [TLA:106]
-1 Raven Eagle [TLA:116]
-1 Messenger Hawk [TLA:234]
-1 Katara, Seeking Revenge [TLE:148]
-1 Foggy Swamp Hunters [TLA:101]
+1 Pirate Peddlers [TLA:115]
+1 Giant Fly [TLE:107]
+1 Azula, On the Hunt [TLA:85]
 1 Beetle-Headed Merchants [TLA:86]
-1 Desperate Plea [TLE:103]
-1 Epic Downfall [TLA:96]
-1 Diresight [TLE:162]
+1 Nyla, Shirshu Sleuth [TLE:109]
+1 Sold Out [TLA:119]
+1 Zuko's Conviction [TLA:123]
+1 Bastion of Remembrance [TLE:160]
 1 Deadly Precision [TLA:95]
 1 Thriving Moor [TLE:264]
 6 Swamp [TLA:284]
