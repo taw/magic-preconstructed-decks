@@ -1,0 +1,19 @@
+// NAME: Earth-Kingdom (2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Haru, Hidden Talent [TLA:182]
+1 Great Divide Guide [TLA:181]
+1 Toph, the Blind Bandit [TLA:198]
+1 Walltop Sentries [TLA:202]
+1 Suki, Kyoshi Warrior [TLA:243]
+1 Earth Kingdom General [TLA:173]
+1 Earth Kingdom Soldier [TLA:216]
+1 Hippo-Cows [TLE:252]
+1 Mechanical Glider [TLE:256]
+1 Origin of Metalbending [TLA:187]
+1 Descendants' Path [TLE:167]
+1 Allies at Last [TLA:164]
+1 Thriving Grove [TLE:261]
+6 Forest [TLA:286]
+1 Forest [TLA:291]
+

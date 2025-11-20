@@ -1,0 +1,19 @@
+// NAME: Nightmares
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Purple Pentapus [TLE:233]
+1 Pretending Poxbearers [TLA:237]
+1 Joo Dee, One of Many [TLA:105]
+1 Pirate Peddlers [TLA:115]
+1 Azula, On the Hunt [TLA:85]
+1 Hei Bai, Spirit of Balance [TLA:225]
+1 Canyon Crawler [TLA:90]
+1 Koh, the Face Stealer [TLA:107]
+1 Zuko's Conviction [TLA:123]
+1 Desperate Plea [TLE:103]
+1 Ruinous Waterbending [TLA:118]
+1 Deadly Precision [TLA:95]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

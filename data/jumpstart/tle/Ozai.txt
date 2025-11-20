@@ -1,0 +1,19 @@
+// NAME: Ozai
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Callous Inspector [TLA:89]
+1 Corrupt Court Official [TLA:92]
+1 Fire Nation Ambushers [TLE:229]
+1 Fire Navy Trebuchet [TLA:100]
+1 Fire Lord Ozai [TLE:104]
+1 Zhao, Ruthless Admiral [TLA:252]
+1 Beetle-Headed Merchants [TLA:86]
+1 Canyon Crawler [TLA:90]
+1 Heartless Act [TLA:103]
+1 Ozai's Cruelty [TLA:113]
+1 Scarring Memories [TLE:111]
+1 Deadly Precision [TLA:95]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

@@ -1,0 +1,19 @@
+// NAME: Underwater
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Flying Dolphin-Fish [TLE:223]
+1 Invasion Submersible [TLA:57]
+1 Rowdy Snowballers [TLA:68]
+1 Turtle-Seals [TLE:226]
+1 Tui and La, Moon and Ocean [TLE:96]
+1 Giant Koi [TLA:53]
+1 Serpent of the Pass [TLA:70]
+1 Unagi's Spray [TLE:97]
+1 Octopus Form [TLA:66]
+1 Honest Work [TLA:55]
+1 Coastal Piracy [TLE:156]
+1 White Lotus Hideout [TLA:281]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+

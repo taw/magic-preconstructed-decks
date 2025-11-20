@@ -1,0 +1,19 @@
+// NAME: Swordmaster
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Earth Kingdom Protectors [TLA:17]
+1 Kyoshi Battle Fan [TLA:257]
+1 Inspired Insurgent [TLE:77]
+1 Sokka, Swordmaster [TLE:83]
+1 Glider Kids [TLA:21]
+1 Aardvark Sloth [TLE:212]
+1 Master Piandao [TLA:28]
+1 Trusty Boomerang [TLA:260]
+1 Sokka's Sword Training [TLE:84]
+1 Razor Rings [TLA:33]
+1 Duelist's Heritage [TLE:153]
+1 Meteor Sword [TLA:258]
+1 Thriving Heath [TLE:262]
+6 Plains [TLA:282]
+1 Plains [TLA:287]
+

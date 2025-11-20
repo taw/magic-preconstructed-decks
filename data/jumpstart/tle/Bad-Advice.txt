@@ -1,0 +1,19 @@
+// NAME: Bad-Advice
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Gilacorn [TLE:231]
+1 Dai Li Censor [TLE:102]
+1 Corrupt Court Official [TLA:92]
+1 Joo Dee, One of Many [TLA:105]
+1 Long Feng, Grand Secretariat [TLA:233]
+1 Fire Nation Ambushers [TLE:229]
+1 Lo and Li, Royal Advisors [TLE:108]
+1 Hama, the Bloodbender [TLA:224]
+1 Sold Out [TLA:119]
+1 Dai Li Indoctrination [TLA:93]
+1 Ozai's Cruelty [TLA:113]
+1 Deadly Precision [TLA:95]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

@@ -1,0 +1,19 @@
+// NAME: Hunting-(2)
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Gilacorn [TLE:231]
+1 Ruthless Waterbender [TLE:110]
+1 June, Bounty Hunter [TLA:106]
+1 Raven Eagle [TLA:116]
+1 Messenger Hawk [TLA:234]
+1 Katara, Seeking Revenge [TLE:148]
+1 Foggy Swamp Hunters [TLA:101]
+1 Beetle-Headed Merchants [TLA:86]
+1 Azula Always Lies [TLA:84]
+1 Swampsnare Trap [TLA:120]
+1 Diresight [TLE:162]
+1 Deadly Precision [TLA:95]
+1 Thriving Moor [TLE:264]
+6 Swamp [TLA:284]
+1 Swamp  [TLA:289]
+

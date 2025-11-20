@@ -1,0 +1,19 @@
+// NAME: Spirit
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-jumpstart-booster-themes
+// DATE: 2025-11-20
+1 Flying Dolphin-Fish [TLE:223]
+1 Benevolent River Spirit [TLA:45]
+1 Knowledge Seeker [TLA:60]
+1 Dutiful Knowledge Seeker [TLE:92]
+1 Baboon Spirit [TLE:89]
+1 Flexible Waterbender [TLA:50]
+1 Giant Koi [TLA:53]
+1 Octopus Form [TLA:66]
+1 Dramatic Reversal [TLE:158]
+1 It'll Quench Ya! [TLA:58]
+1 Lost in the Spirit World [TLE:224]
+1 The Spirit Oasis [TLA:72]
+1 Thriving Isle [TLE:263]
+6 Island [TLA:283] 
+1 Island [TLA:288] 
+
