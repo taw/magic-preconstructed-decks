@@ -16,4 +16,3 @@
 1 Thriving Bluff [TLE:260]
 6 Mountain [TLA:285]
 1 Mountain [TLA:290]
-
