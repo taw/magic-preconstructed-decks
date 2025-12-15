@@ -13273,6 +13273,7 @@ High Market
 High Marshal Arguel
 High Noon
 High Noon At Thunder Junction
+High Perfect Morcant
 High Priest of Penance
 High Seas
 High Sentinels of Arashin
@@ -20798,6 +20799,7 @@ Peregrine Griffin
 Peregrine Mask
 Perennation
 Perennial Behemoth
+Perfect Intimidation
 Perfected Form
 Perforating Artist
 Perforator Crocodile
@@ -31098,6 +31100,7 @@ Unending Whisper
 Unerring Sling
 Unesh, Criosphinx Sovereign
 Unexpected Allies
+Unexpected Assistance
 Unexpected Conversion
 Unexpected Fangs
 Unexpected Potential
