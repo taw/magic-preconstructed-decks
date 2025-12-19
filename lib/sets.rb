@@ -578,6 +578,7 @@ MagicSets = {
   "pths" => "Theros Promos",
   "ptk" => "Portal Three Kingdoms",
   "ptkdf" => "Tarkir Dragonfury",
+  "ptla" => "Avatar: The Last Airbender Promos",
   "ptmp" => "Tempest Promos",
   "ptor" => "Torment Promos",
   "ptsp" => "Time Spiral Promos",
