@@ -1,0 +1,23 @@
+// NAME: The Lost Caverns of Ixalan Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-the-lost-caverns-of-ixalan
+// DATE: 2023-11-17
+2 Plains [LCI:393]
+2 Plains [LCI:393] [foil]
+2 Plains [LCI:394]
+2 Plains [LCI:394] [foil]
+2 Island [LCI:395]
+2 Island [LCI:395] [foil]
+2 Island [LCI:396]
+2 Island [LCI:396] [foil]
+2 Swamp [LCI:397]
+2 Swamp [LCI:397] [foil]
+2 Swamp [LCI:398]
+2 Swamp [LCI:398] [foil]
+2 Mountain [LCI:399]
+2 Mountain [LCI:399] [foil]
+2 Mountain [LCI:400]
+2 Mountain [LCI:400] [foil]
+2 Forest [LCI:401]
+2 Forest [LCI:401] [foil]
+2 Forest [LCI:402]
+2 Forest [LCI:402] [foil]

@@ -72,6 +72,12 @@ brawl:
   sections:
     Main Deck: 59
     Commander: 1
+bundle-land-pack:
+  category: "deck"
+  format: "casual"
+  name: "Bundle Land Pack"
+  sections:
+    Main Deck: [30, 40]
 challenger:
   category: "deck"
   format: "standard"
