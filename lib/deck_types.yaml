@@ -74,7 +74,7 @@ brawl:
     Commander: 1
 bundle-land-pack:
   category: "deck"
-  format: "casual"
+  format: null
   name: "Bundle Land Pack"
   sections:
     Main Deck: [30, 40]
