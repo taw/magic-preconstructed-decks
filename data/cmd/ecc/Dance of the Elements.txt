@@ -1,0 +1,92 @@
+// NAME: Dance of the Elements
+// SOURCE: https://magic.wizards.com/en/news/announcements/lorwyn-eclipsed-commander-decklists
+// DATE: 2026-01-23
+COMMANDER: 1 Ashling, the Limitless [foil] [ECC:1]
+1 Mass of Mysteries [foil] [ECC:3]
+1 Elemental Spectacle
+1 Springleaf Parade
+1 Jubilation
+1 Impulsivity
+1 Lamentation
+1 Belonging
+1 Subterfuge
+1 Rain-Slicked Copse
+1 Sodden Verdure
+1 Abundant Countryside
+1 Endurance
+1 Fury
+1 Haunting Voyage
+1 Avenger of Zendikar
+1 Cavalier of Thorns
+1 Greenwarden of Murasa
+1 Selvala, Heart of the Wilds
+1 Titan of Industry
+1 Muldrotha, the Gravetide
+1 Omnath, Locus of Rage
+1 Yarok, the Desecrated
+1 Omnath, Locus of the Roil
+1 Timeless Lotus
+1 Shatter the Sky
+1 Hoofprints of the Stag
+1 Slithermuse
+1 Descendants' Fury
+1 Blasphemous Act
+1 Cream of the Crop
+1 Kindred Summons
+1 Bane of Progress
+1 Realmwalker
+1 Return of the Wildspeaker
+1 Faeburrow Elder
+1 Vernal Sovereign
+1 Horde of Notions
+1 Maelstrom Wanderer
+1 Jegantha, the Wellspring
+1 Chromatic Lantern
+1 Primal Beyond
+1 Raging Ravine
+1 Exotic Orchard
+1 Flamekin Village
+1 Path to Exile
+1 Mulldrifter
+1 Reality Shift
+1 Shriekmaw
+1 Shimmercreep
+1 Flamebraider
+1 Crib Swap
+1 Secluded Courtyard
+1 Sol Ring Lorwyn
+1 Command Tower Lorwyn
+1 Arcane Signet Lorwyn
+1 Distant Melody
+1 Incandescent Soulstoke
+1 Eclipsed Flamekin
+1 Foundation Breaker
+1 Garruk's Uprising
+1 Risen Reef
+1 Fellwar Stone
+1 Unclaimed Territory
+1 Ancient Ziggurat
+1 Frontier Bivouac
+1 Sandsteppe Citadel
+1 Savage Lands
+1 Opulent Palace
+1 Seaside Citadel
+1 Jungle Shrine
+1 Smokebraider
+1 Ingot Chewer
+1 Fertile Ground
+1 Abundant Growth
+1 Kodama's Reach
+1 Cultivate
+1 Path of Ancestry
+1 Thriving Grove
+1 Thriving Heath
+1 Thriving Isle
+1 Opal Palace
+1 Thriving Bluff
+1 Thriving Moor
+2 Plains [ECL:269]
+2 Island [ECL:270]
+2 Swamp [ECL:271]
+2 Mountain [ECL:272]
+8 Forest [ECL:273]
