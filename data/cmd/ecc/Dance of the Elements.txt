@@ -50,16 +50,16 @@ COMMANDER: 1 Ashling, the Limitless [foil] [ECC:1]
 1 Mulldrifter
 1 Reality Shift
 1 Shriekmaw
-1 Shimmercreep
-1 Flamebraider
+1 Shimmercreep [ECL:120]
+1 Flamebraider [ECL:139]
 1 Crib Swap
 1 Secluded Courtyard
-1 Sol Ring Lorwyn
-1 Command Tower Lorwyn
-1 Arcane Signet Lorwyn
+1 Sol Ring [ECC:57]
+1 Command Tower [ECC:59]
+1 Arcane Signet [ECC:55]
 1 Distant Melody
 1 Incandescent Soulstoke
-1 Eclipsed Flamekin
+1 Eclipsed Flamekin [ECL:219]
 1 Foundation Breaker
 1 Garruk's Uprising
 1 Risen Reef

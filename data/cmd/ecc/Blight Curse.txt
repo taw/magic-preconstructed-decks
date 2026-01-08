@@ -48,14 +48,14 @@ COMMANDER: 1 Auntie Ool, Cursewretch [foil] [ECC:2]
 1 Dragonskull Summit
 1 Rootbound Crag
 1 Woodland Cemetery
-1 Lasting Tarfire
-1 Burning Curiosity
+1 Lasting Tarfire [ECL:149]
+1 Burning Curiosity [ECL:129]
 1 Hoarder's Greed
 1 Blowfly Infestation
 1 Fire Covenant
-1 Sol Ring Shadowmoor
-1 Arcane Signet Shadowmoor
-1 Command Tower Shadowmoor
+1 Sol Ring [ECC:58]
+1 Arcane Signet [ECC:56]
+1 Command Tower [ECC:60]
 1 Cathartic Reunion
 1 Skinrender
 1 Soul Snuffers
