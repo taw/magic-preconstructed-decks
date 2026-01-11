@@ -1,7 +1,7 @@
 // NAME: Token Triumph
 // SOURCE: https://magic.wizards.com/en/news/announcements/starter-commander-decks-decklists-2022-10-20
 // DATE: 2022-12-02
-COMMANDER: 1 Emmara, Soul of the Accord [foil]
+COMMANDER: 1 Emmara, Soul of the Accord [SCD:2] [foil] [etched]
 1 Ajani, Caller of the Pride
 1 Citywide Bust
 1 Commander's Insignia
@@ -74,6 +74,3 @@ COMMANDER: 1 Emmara, Soul of the Accord [foil]
 1 Vitu-Ghazi, the City-Tree
 15 Forest [SCD:*]
 14 Plains [SCD:*]
-
-Display Commander
-1 Emmara, Soul of the Accord [SCD:2] [foil] [etched]
