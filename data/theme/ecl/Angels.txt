@@ -1,0 +1,23 @@
+// NAME: Angels
+// SOURCE: https://magic.wizards.com/en/news/feature/lorwyn-eclipsed-60-card-theme-deck-contents-and-guide
+// DATE: 2026-01-23
+2 Lyra Dawnbringer
+2 Lightstall Inquisitor
+1 Pawpatch Recruit
+1 Get Lost
+4 Giada, Font of Hope
+2 Split Up
+3 Exemplar of Light
+4 Llanowar Elves
+2 Personify
+4 Youthful Valkyrie
+4 Inspiring Overseer
+1 Chomping Changeling
+2 Ride's End
+4 Starfield Shepherd
+4 Blossoming Sands
+4 Secluded Courtyard
+8 Plains
+8 Forest
+
+Sideboard
