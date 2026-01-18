@@ -1669,6 +1669,7 @@ Attended Socialite
 Attentive Skywarden
 Attentive Sunscribe
 Attrition
+Attuma, Atlantean Warlord
 Attune with Aether
 Attuned Hunter
 Attunement
@@ -2197,6 +2198,7 @@ Barktooth Warbeard
 Barkweave Crusher
 Barl's Cage
 Baron Bertram Graywater
+Baron Helmut Zemo
 Baron Sengir
 Baron Von Count
 Baron, Airship Kingdom
@@ -3728,6 +3730,7 @@ Brought Back
 Browbeat
 Brown Ouphe
 Browse
+Bruce Banner
 Brudiclad, Telchor Engineer
 Bruenor Battlehammer
 Bruenor Battlehammer (Alchemy)
@@ -4132,6 +4135,7 @@ Capricopian
 Capsize
 Capsizing Wave
 Captain America, First Avenger
+Captain America, Super-Soldier
 Captain Eberhart
 Captain Howler, Sea Scourge
 Captain Lannery Storm
@@ -7489,6 +7493,7 @@ Dockbreacher
 Dockside Chef
 Dockside Extortionist
 Dockworker Drone
+Doctor Doom
 Doctor Octopus, Master Planner
 Dodecapod
 Dodgy Jalopy
@@ -7543,6 +7548,7 @@ Donnie & April, Adorkable Duo
 Doom Blade
 Doom Cannon
 Doom Foretold
+Doom Reigns Supreme
 Doom Weaver
 Doom Whisperer
 Doomed Artisan
@@ -13763,6 +13769,7 @@ Hullcarver
 Hulldrifter
 Hum of the Radix
 Human Frailty
+Human Torch
 Human-Time Lord Meta-Crisis
 Humble
 Humble Budoka
@@ -14629,6 +14636,7 @@ Invincible Hymn
 Inviolability
 Invisibility
 Invisible Stalker
+Invisible Woman
 Invocation of Saint Traft
 Invocation of the Founders
 Invoke Calamity
@@ -17052,6 +17060,7 @@ Lucius the Eternal
 Luck Bobblehead
 Lucky Clover
 Lucky Offering
+Lucy MacLean, Positively Armed
 Ludevic's Abomination
 Ludevic's Test Subject
 Ludevic, Necro-Alchemist
@@ -17824,6 +17833,7 @@ Maximize Altitude
 Maximize Velocity
 Maximum Carnage
 Maximum Overdrive
+Maximus, Knight Apparent
 May Civilization Collapse
 May of the Machine
 May the Mana Be with You
@@ -18480,6 +18490,7 @@ Mistbreath Elder
 Mistcaller
 Mistcutter Hydra
 Mister Cheddar, Cheese Sliver
+Mister Fantastic
 Mister Gutsy
 Mister Negative
 Mistfire Adept
@@ -18720,6 +18731,7 @@ Monumental Corruption
 Monumental Henge
 Moodmark Painter
 Moogles' Valor
+Moon Girl and Devil Dinosaur
 Moon Heron
 Moon Sprite
 Moon-Blessed Cleric
@@ -19216,6 +19228,7 @@ Nameless Inversion
 Nameless One
 Nameless Race
 Naming Screen
+Namor the Sub-Mariner
 Nanoform Sentinel
 Nanogene Conversion
 Nantuko Blightcutter
@@ -22269,6 +22282,7 @@ Quicksilver Lapidary
 Quicksilver Sea
 Quicksilver Servitor
 Quicksilver Wall
+Quicksilver, Brash Blur
 Quicksmith Genius
 Quicksmith Rebel
 Quicksmith Spy
@@ -25496,6 +25510,7 @@ Shared Roots
 Shared Summons
 Shared Trauma
 Shared Triumph
+Shark Shredder, Killer Clone
 Shark Typhoon
 Sharkey, Tyrant of the Shire
 Sharktocrab
@@ -28366,6 +28381,7 @@ Super Shredder
 Super State
 Super-Duper Death Ray
 Super-Duper Lost
+Super-Skrull
 Superior Foes of Spider-Man
 Superior Numbers
 Superior Spider-Man
@@ -29440,6 +29456,7 @@ The Clone Saga
 The Cobra King
 The Collector
 The Colossal Dreadmaw
+The Coming of Galactus
 The Command Zone
 The Commander Recommender
 The Companion of the Wilds
@@ -29546,6 +29563,7 @@ The Fugitive Doctor
 The Gaffer
 The Game-Changing Host
 The General
+The Ghoul, Gunslinger
 The Girl in the Fireplace
 The Gitrog Monster
 The Gitrog, Ravenous Ride
@@ -29585,6 +29603,7 @@ The Hunter
 The Hunter Maze
 The Huntsman's Redemption
 The Immortal Sun
+The Incredible Hulk
 The Indomitable
 The Infamous Cruelclaw
 The Initiative
@@ -29734,6 +29753,7 @@ The Sea Devils
 The Second Doctor
 The Secret Lair
 The Seedcore
+The Sentry, Golden Guardian
 The Seriema
 The Seventh Doctor
 The Shattered States Era
@@ -29772,6 +29792,7 @@ The Tarrasque
 The Temporal Anchor
 The Tenth Doctor
 The Terror of Serpent's Pass
+The Thing
 The Third Doctor
 The Thirteenth Doctor
 The Three Seasons
@@ -30139,6 +30160,7 @@ Thunder-Thrash Elder
 Thunderblade Charge
 Thunderblust
 Thunderbolt
+Thunderbolts Conspiracy
 Thunderbond Vanguard
 Thunderbreak Regent
 Thunderclap
@@ -33572,6 +33594,7 @@ World Champion, Celestial Weapon
 World Map
 World Queller
 World Shaper
+World War Hulk
 World at War
 World-Bottling Kit
 World-Weary
