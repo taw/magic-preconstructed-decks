@@ -399,6 +399,7 @@ Ageless Guardian
 Ageless Sentinels
 Agency Coroner
 Agency Outfitter
+Agent Bishop, Man in Black
 Agent Frank Horrigan
 Agent Venom
 Agent of Acquisitions
@@ -1379,6 +1380,7 @@ Armada Wurm
 Armadillo Cloak
 Armageddon
 Armageddon Clock
+Armaggon, Future Shark
 Armament Corps
 Armament Dragon
 Armament Master
@@ -3662,6 +3664,7 @@ Bristly Bill, Spine Sower
 Brittle Blast
 Brittle Effigy
 Broadcast Rambler
+Broadcast Takeover
 Broadside Barrage
 Broadside Bombardiers
 Broken Ambitions
@@ -4269,6 +4272,7 @@ Case of the Uneaten Feast
 Case the Joint
 Case the Joint (Alchemy)
 Casey Jones, Jury-Rig Justiciar
+Casey Jones, Vigilante
 Cass, Hand of Vengeance
 Cast Down
 Cast Off
@@ -4855,6 +4859,7 @@ Chromatic Star
 Chrome Cat
 Chrome Companion
 Chrome Courier
+Chrome Dome
 Chrome Host Hulk
 Chrome Host Seedshark
 Chrome Mox
@@ -5586,6 +5591,7 @@ Convolute
 Convulsing Licid
 Cooking Campsite
 Cool Fluffy Loxodon
+Cool but Rude
 Cooped Up
 Cooperate
 Cooperation
@@ -6403,6 +6409,7 @@ Dark Impostor
 Dark Inquiry
 Dark Intimations
 Dark Knight's Greatsword
+Dark Leo & Shredder
 Dark Maze
 Dark Nourishment
 Dark Offering
@@ -7497,6 +7504,7 @@ Doctor Doom
 Doctor Octopus, Master Planner
 Dodecapod
 Dodgy Jalopy
+Does Machines
 Dog Umbra
 Dog Walker
 Dogged Detective
@@ -7530,6 +7538,8 @@ Domri's Nodorog
 Domri, Anarch of Bolas
 Domri, Chaos Bringer
 Domri, City Smasher
+Don & Leo, Problem Solvers
+Don & Raph, Hard Science
 Don Andres, the Renegade
 Don't Blink
 Don't Make a Sound
@@ -7538,6 +7548,8 @@ Don't Try This at Home
 Don't Worry About It
 Donal, Herald of Wings
 Donate
+Donatello, Gadget Master
+Donatello, Mutant Mechanic
 Donatello, Rad Scientist
 Donatello, the Brains
 Done
@@ -12479,6 +12491,7 @@ Ground Pounder
 Ground Rift
 Ground Seal
 Groundbreaker
+Groundchuck & Dirtbag
 Grounded
 Groundling Pouncer
 Groundshaker Sliver
@@ -14175,6 +14188,7 @@ Imprisoned in the Moon
 Improbable Alliance
 Impromptu Raid
 Improvised Armor
+Improvised Arsenal
 Improvised Club
 Improvised Weaponry
 Improvising Aerialist
@@ -15757,6 +15771,8 @@ Kitsune Loreweaver
 Kitsune Mystic
 Kitsune Palliator
 Kitsune Riftwalker
+Kitsune's Technique
+Kitsune, Dragon's Daughter
 Kitt Kanto, Mayhem Diva
 Kiyomaro, First to Stand
 Kjeldoran Dead
@@ -15975,7 +15991,9 @@ Krakilin
 Krallenhorde Howler
 Krallenhorde Killer
 Krallenhorde Wantons
+Krang & Shredder
 Krang, Master Mind
+Krang, Utrom Warlord
 Kranioceros
 Krark's Other Thumb
 Krark's Thumb
@@ -16351,6 +16369,7 @@ Lead the Stampede
 Lead-Belly Chimera
 Leaden Fists
 Leaden Myr
+Leader's Talent
 Leadership Vacuum
 Leading Performance
 Leaf Arrow
@@ -16376,6 +16395,7 @@ Learned Learner
 Leashling
 Leather Armor
 Leatherback Baloth
+Leatherhead, Swamp Stalker
 Leave
 Leave No Trace
 Leave in the Dust
@@ -16435,6 +16455,8 @@ Lend a Ham
 Lens Flare
 Lens of Clarity
 Leonardo da Vinci
+Leonardo's Technique
+Leonardo, Cutting Edge
 Leonardo, Sewer Samurai
 Leonardo, Worldly Warrior
 Leonardo, the Balance
@@ -17217,6 +17239,7 @@ Mad Labs
 Mad Prophet
 Mad Ratter
 Mad Science Fair Project
+Madame Null, Power Broker
 Madame Vastra
 Madame Web, Clairvoyant
 Madblind Mountain
@@ -18127,7 +18150,10 @@ Mezzio Mugger
 Miara, Thorn of the Glade
 Miasma Demon
 Miasmic Mummy
+Michelangelo's Technique
+Michelangelo, Improviser
 Michelangelo, On the Scene
+Michelangelo, Weirdness to 11
 Michelangelo, the Heart
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
@@ -18189,6 +18215,8 @@ Mijae Djinn
 Mijo, the Bull
 Mikaeus, the Lunarch
 Mikaeus, the Unhallowed
+Mikey & Don, Party Planners
+Mikey & Leo, Chaos & Order
 Mikokoro, Center of the Sea
 Mila, Crafty Companion
 Mild-Mannered Librarian
@@ -18686,6 +18714,7 @@ Monastery Raid
 Monastery Siege
 Monastery Swiftspear
 Mondassian Colony Ship
+Mondo Gecko
 Mondrak, Glory Dominus
 Mondronen Shaman
 Monet, Sensei of the Sewers
@@ -19023,6 +19052,7 @@ Muster the Departed
 Mutable Explorer
 Mutable Pupa
 Mutagen Connoisseur
+Mutagen Man, Living Ooze
 Mutagenic Growth
 Mutalith Vortex Beast
 Mutant Surveyor
@@ -19697,6 +19727,7 @@ Nine-Lives Familiar
 Nine-Ringed Bo
 Nine-Tail White Fox
 Ninja
+Ninja Teen
 Ninja of the Deep Hours
 Ninja of the New Moon
 Ninja's Blades
@@ -19820,6 +19851,8 @@ North Pole Gates
 North Pole Patrol
 North Pole Research Base
 North Star
+North Wind Avatar
+Northampton Farm
 Northern Air Temple
 Northern Paladin
 Norwood Archers
@@ -20822,6 +20855,7 @@ Part the Waterveil
 Parting Gust
 Parting Thoughts
 Party Crasher
+Party Dude
 Party Thrasher
 Pashalik Mons
 Pass the Torch
@@ -21687,6 +21721,7 @@ Preeminent Captain
 Preemptive Strike
 Preening Champion
 Preferred Selection
+Prehistoric Pet
 Premature Burial
 Preordain
 Prepare
@@ -22626,10 +22661,14 @@ Ransom Note
 Rapacious Dragon
 Rapacious Guest
 Rapacious One
+Raph & Leo, Sibling Rivals
+Raph & Mikey, Troublemakers
 Raphael's Technique
 Raphael, Fiendish Savior
+Raphael, Ninja Destroyer
 Raphael, Tag Team Tough
 Raphael, the Muscle
+Raphael, the Nightwatcher
 Rapid Augmenter
 Rapid Decay
 Rapid Fire
@@ -22656,6 +22695,7 @@ Rasputin Dreamweaver
 Rasputin, the Oneiromancer
 Rassilon, the War President
 Rat Colony
+Rat King, Verminister
 Rat Out
 Rat in the Hat
 Ratadrabik of Urborg
@@ -22724,6 +22764,7 @@ Ravenous Lindwurm
 Ravenous Necrotitan
 Ravenous Pursuit
 Ravenous Rats
+Ravenous Robots
 Ravenous Rotbelly
 Ravenous Sailback
 Ravenous Skirge
@@ -23145,6 +23186,7 @@ Renegade Troops
 Renegade Warlord
 Renegade Wheelsmith
 Renegade's Getaway
+Renet, Temporal Apprentice
 Renewal
 Renewed Faith
 Renewed Solidarity
@@ -24295,6 +24337,7 @@ Sakura-Tribe Scout
 Sakura-Tribe Springcaller
 Sala, Deck Boss
 Salivating Gremlins
+Sally Pride, Lioness Leader
 Sally Sparrow
 Salt Flats
 Salt Marsh
@@ -24580,6 +24623,7 @@ Savai Triome
 Savannah
 Savannah Lions
 Savannah Sage
+Savanti Romero, Time's Exile
 Save Life
 Save Point
 Saving Grace
@@ -26392,6 +26436,7 @@ Slash Panther
 Slash of Light
 Slash of Talons
 Slash the Ranks
+Slash, Reptile Rampager
 Slashing Tiger
 Slate Street Ruffian
 Slate of Ancestry
@@ -26948,6 +26993,7 @@ Soundwave, Superior Captain
 Sourbread Auntie
 Soured Springs
 South Pole Voyager
+South Wind Avatar
 Southern Air Temple
 Southern Elephant
 Southern Paladin
@@ -27364,6 +27410,8 @@ Splendor Mare
 Splicer's Skill
 Splinter
 Splinter Twin
+Splinter's Technique
+Splinter, Radical Rat
 Splinter, the Mentor
 Splinterfright
 Splintering Wind
@@ -29017,6 +29065,7 @@ Tear Asunder
 Teardrop Kami
 Tears of Rage
 Tears of Valakut
+Technodrome
 Technomancer
 Tectonic Break
 Tectonic Edge
@@ -29453,6 +29502,7 @@ The Cinematic Phoenix
 The Circle of Loyalty
 The Clever Magician
 The Clone Saga
+The Cloning of Shredder
 The Cobra King
 The Collector
 The Colossal Dreadmaw
@@ -29631,6 +29681,7 @@ The Lady of Otaria
 The Lady of the Mountain
 The Last Agni Kai
 The Last Ride
+The Last Ronin
 The Legend of Arena
 The Legend of Kuruk
 The Legend of Kyoshi
@@ -29700,6 +29751,7 @@ The Odd Acorn Gang
 The Omenkeel
 The One Ring
 The One Ring (Alchemy)
+The Ooze
 The Ozolith
 The Pandorica
 The Paradise Bird
@@ -30421,6 +30473,7 @@ Toil
 Toil to Renown
 Toils of Night and Day
 Tok-Tok, Volcano Born
+Tokka & Rahzar, Terrible Twos
 Tolaria
 Tolaria West
 Tolarian Academy
@@ -30706,6 +30759,7 @@ Transcendent Dragon
 Transcendent Envoy
 Transcendent Master
 Transcendent Message
+Transdimensional Bovine
 Transforming Flourish
 Transgress the Mind
 Transguild Courier
@@ -30863,6 +30917,7 @@ Tribute to Hunger
 Tribute to Urborg
 Tribute to the Wild
 Tribute to the World Tree
+Triceraton Commander
 Trick Shot
 Trickbind
 Trickery Charm
@@ -31041,6 +31096,7 @@ Turn to Frog
 Turn to Mist
 Turn to Slag
 Turnabout
+Turncoat Kunoichi
 Turntimber Ascetic
 Turntimber Basilisk
 Turntimber Grove
@@ -31050,9 +31106,12 @@ Turntimber Symbiosis
 Turntimber, Serpentine Wood
 Turret Ogre
 Turri Island
+Turtle Power!
+Turtle Van
 Turtle-Duck
 Turtle-Seals
 Turtles Forever
+Turtles in Time
 Turtleshell Changeling
 Tusk and Whiskers
 Tusked Colossodon
@@ -32933,6 +32992,7 @@ Wear Away
 Wear Down
 Weary Prisoner
 Weaselback Redcap
+Weather Maker
 Weather the Storm
 Weathered Bodyguards
 Weathered Runestone

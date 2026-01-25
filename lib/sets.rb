@@ -415,6 +415,7 @@ MagicSets = {
   "pdst" => "Darksteel Promos",
   "pdtk" => "Dragons of Tarkir Promos",
   "pdtp" => "Duels of the Planeswalkers 2009 Promos",
+  "pecl" => "Lorwyn Eclipsed Promos",
   "peld" => "Throne of Eldraine Promos",
   "pelp" => "European Land Program",
   "pemn" => "Eldritch Moon Promos",
