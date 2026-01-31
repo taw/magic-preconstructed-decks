@@ -741,6 +741,7 @@ MagicSets = {
   "ydft" => "Alchemy: Aetherdrift",
   "ydmu" => "Alchemy: Dominaria",
   "ydsk" => "Alchemy: Duskmourn",
+  "yecl" => "Alchemy: Lorwyn Eclipsed",
   "yeoe" => "Alchemy: Edge of Eternities",
   "ylci" => "Alchemy: Ixalan",
   "ymid" => "Alchemy: Innistrad",

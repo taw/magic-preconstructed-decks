@@ -4139,6 +4139,7 @@ Capsize
 Capsizing Wave
 Captain America, First Avenger
 Captain America, Super-Soldier
+Captain America, Team Leader
 Captain Eberhart
 Captain Howler, Sea Scourge
 Captain Lannery Storm
@@ -7501,6 +7502,7 @@ Dockside Chef
 Dockside Extortionist
 Dockworker Drone
 Doctor Doom
+Doctor Doom, King of Latveria
 Doctor Octopus, Master Planner
 Dodecapod
 Dodgy Jalopy
@@ -21994,6 +21996,7 @@ Proud Pack-Rhino
 Proud Wildbonder
 Proven Combatant
 Providence
+Providence of Night
 Provisions Merchant
 Provoke
 Provoke the Trolls
@@ -28760,6 +28763,7 @@ Szarel, Genesis Shepherd
 Szat's Will
 Séance
 Séance Board
+T'Challa, the Black Panther
 T-45 Power Armor
 T.A.P.P.E.R.
 TARDIS
@@ -29625,6 +29629,7 @@ The Good Time Sleuth
 The Goose Mother
 The Grand Calcutron
 The Grand Evolution
+The Grand Goatnapper
 The Grand Tour
 The Great Aerie
 The Great Aurora
