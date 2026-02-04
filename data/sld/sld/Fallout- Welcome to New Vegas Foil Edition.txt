@@ -1,0 +1,8 @@
+// NAME: Fallout: Welcome to New Vegas Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249333
+// DATE: 2026-02-16
+1 [SLD] Isshin, Two Heavens [foil]
+1 [SLD:2458] Tinybones, Trinket Thief [foil]
+1 [SLD:2460] The Deck of Many Things [foil]
+1 [SLD:2461] Caged Sun [foil]
+1 [SLD:2462] Nuka-Cola Vending Machine [foil]
