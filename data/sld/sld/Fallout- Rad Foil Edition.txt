@@ -1,0 +1,8 @@
+// NAME: Fallout: Rad Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249331
+// DATE: 2026-02-16
+1 [SLD:2453] Ripples of Potential [foil]
+1 [SLD:2454] Mutational Advantage [foil]
+1 [SLD:2455] The Wise Mothman [foil]
+1 [SLD:2456] Mindcrank [foil]
+1 [SLD:2457] Mesmeric Orb [foil]

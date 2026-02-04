@@ -1,0 +1,7 @@
+// NAME: Prints Charming Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249873
+// DATE: 2026-02-03
+1 [SLD:2278] Nature's Lore [foil]
+1 [SLD:2279] Skyshroud Claim [foil]
+1 [SLD:2280] Wood Elves [foil]
+1 [SLD:2281] Dryad Arbor [foil]

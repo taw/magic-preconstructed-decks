@@ -1,0 +1,8 @@
+// NAME: Fallout: Rad
+// SOURCE: https://secretlair.wizards.com/us/product/1249332
+// DATE: 2026-02-16
+1 [SLD:2453] Ripples of Potential
+1 [SLD:2454] Mutational Advantage
+1 [SLD:2455] The Wise Mothman
+1 [SLD:2456] Mindcrank
+1 [SLD:2457] Mesmeric Orb
