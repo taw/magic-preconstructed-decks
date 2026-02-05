@@ -208,6 +208,7 @@ Adamant Will
 Adamaro, First to Desire
 Adanto Vanguard
 Adanto, the First Fort
+Adaptive Armorer
 Adaptive Automaton
 Adaptive Gemguard
 Adaptive Omnitool
@@ -227,6 +228,7 @@ Adeline, Resplendent Cathar
 Adeliz, the Cinder Wind
 Adept Watershaper
 Adherent of Hope
+Adherent's Heirloom
 Adipose Offspring
 Admiral Beckett Brass
 Admiral Brass, Unsinkable
@@ -1115,6 +1117,7 @@ Aquastrand Spider
 Aquatic Alchemist
 Aquatic Incursion
 Aquatic Ingress
+Aquatic Subtlety
 Aqueous Form
 Aquitect's Defenses
 Aquitect's Will
@@ -2844,6 +2847,7 @@ Blighted Burgeoning
 Blighted Cataract
 Blighted Fen
 Blighted Gorge
+Blighted Nightmare
 Blighted Shaman
 Blighted Steppe
 Blighted Woodland
@@ -4917,6 +4921,7 @@ Cinderslash Ravager
 Cindervines
 Cinnamon, Seasoned Steed
 Cipherbound Spirit
+Circadian Struggle
 Circle of Affliction
 Circle of Confinement
 Circle of Despair
@@ -5851,6 +5856,7 @@ Crater Hellion
 Crater's Claws
 Craterhoof Behemoth
 Craterize
+Craterous Stomp
 Craven Giant
 Craven Hulk
 Craven Knight
@@ -6160,6 +6166,7 @@ Curious Killbot
 Curious Obsession
 Curious Pair
 Currency Converter
+Current Curriculum
 Curry Favor
 Curse Artifact
 Curse of Bloodletting
@@ -8296,6 +8303,7 @@ Echoes of the Kin Tree
 Echoing Assault
 Echoing Boon
 Echoing Calm
+Echoing Cavern
 Echoing Courage
 Echoing Decay
 Echoing Deeps
@@ -8579,6 +8587,7 @@ Elvish Champion Avatar
 Elvish Clancaller
 Elvish Doomsayer
 Elvish Dreadlord
+Elvish Elegy
 Elvish Eulogist
 Elvish Farmer
 Elvish Fury
@@ -11486,6 +11495,7 @@ Gilder Bairn
 Gilgamesh, Master-at-Arms
 Gilraen, Dúnedain Protector
 Gilt-Blade Prowler
+Gilt-Leaf Alchemist
 Gilt-Leaf Ambush
 Gilt-Leaf Archdruid
 Gilt-Leaf Palace
@@ -14352,6 +14362,7 @@ Inferno Titan
 Inferno Trap
 Inferno of the Star Mounts
 Infest
+Infestation
 Infestation Expert
 Infestation Sage
 Infested Fleshcutter
@@ -15751,6 +15762,7 @@ Kitesail Skirmisher
 Kithkeeper
 Kithkin Armor
 Kithkin Billyrider
+Kithkin Brinefarer
 Kithkin Daggerdare
 Kithkin Greatheart
 Kithkin Harbinger
@@ -16737,6 +16749,7 @@ Lim-Dûl's Vault
 Limestone Golem
 Liminal Hold
 Limited Resources
+Limitless Rekindling
 Limits of Solidarity
 Lin Sivvi, Defiant Hero
 Lindblum, Industrial Regency
@@ -20372,6 +20385,7 @@ Optimistic Scavenger
 Optimus Prime, Autobot Leader
 Optimus Prime, Hero
 Optimus Prime, Inspiring Leader
+Opulent Clomper
 Opulent Palace
 Oracle
 Oracle en-Vec
@@ -20568,6 +20582,7 @@ Otterball Antics
 Oubliette
 Ouphe Vandals
 Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental
+Oura, the Imitator
 Ouroboroid
 Oust
 Out Cold
@@ -21006,6 +21021,7 @@ Penumbra Spider
 Penumbra Umbra
 Penumbra Wurm
 People of the Woods
+Pep, Raucous Raider
 Peppersmoke
 Perception Bobblehead
 Perch Protection
@@ -21016,6 +21032,7 @@ Peregrine Griffin
 Peregrine Mask
 Perennation
 Perennial Behemoth
+Perennial Gravewarden
 Perfect Intimidation
 Perfected Form
 Perforating Artist
@@ -21727,6 +21744,7 @@ Prehistoric Pet
 Premature Burial
 Preordain
 Prepare
+Preponderant Pearl
 Preposterous Proportions
 Prescient Chimera
 Presence of Gond
@@ -22161,6 +22179,7 @@ Putrefy
 Putrefying Rotboar
 Putrid Cyclops
 Putrid Goblin
+Putrid Hexhag
 Putrid Imp
 Putrid Leech
 Putrid Raptor
@@ -23042,6 +23061,7 @@ Reflection of Kiki-Jiki
 Reflections of Littjara
 Reflective Gate
 Reflective Golem
+Reflective Rimekin
 Reflector Mage
 Reflex Sliver
 Reflexes
@@ -24339,6 +24359,7 @@ Sakura-Tribe Elder
 Sakura-Tribe Scout
 Sakura-Tribe Springcaller
 Sala, Deck Boss
+Salacinder and Soot, Rascals
 Salivating Gremlins
 Sally Pride, Lioness Leader
 Sally Sparrow
@@ -29252,6 +29273,7 @@ Tenacious Underdog
 Tenacity
 Tend the Pests
 Tend the Sprigs
+Tend to the Kiln
 Tender Wildguide
 Tendershoot Dryad
 Tendo Ice Bridge
@@ -30005,6 +30027,7 @@ Thorn Thallid
 Thorn of Amethyst
 Thorn of the Black Rose
 Thorn-Thrash Viashino
+Thorna and Twigtooth
 Thornado
 Thornbite Staff
 Thornbow Archer
@@ -30065,11 +30088,13 @@ Thoughtpicker Witch
 Thoughtrender Lamia
 Thoughts of Ruin
 Thoughtseize
+Thoughtsteal Sprites
 Thoughtweft Charge
 Thoughtweft Gambit
 Thoughtweft Imbuer
 Thoughtweft Lieutenant
 Thoughtweft Trio
+Thoughtweft's Call
 Thousand Moons Crackshot
 Thousand Moons Infantry
 Thousand Moons Smithy
@@ -30562,6 +30587,7 @@ Topography Tracker
 Topple
 Topple the Statue
 Topplegeist
+Topsoil Turner
 Topsy Turvy
 Tor Giant
 Tor Wauki
@@ -32449,6 +32475,7 @@ Volatile Claws
 Volatile Fault
 Volatile Fjord
 Volatile Orbit
+Volatile Rift
 Volatile Rig
 Volatile Stormdrake
 Volatile Wanderglyph
@@ -33299,6 +33326,7 @@ Wildfire Emissary
 Wildfire Eternal
 Wildfire Howl
 Wildfire Wickerfolk
+Wildgrove Summoner
 Wildgrowth Walker
 Wildheart Invoker
 Wildsear, Scouring Maw
