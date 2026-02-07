@@ -1,0 +1,8 @@
+// NAME: Fallout: Greet the Dog
+// SOURCE: https://secretlair.wizards.com/us/product/1249330
+// DATE: 2026-02-16
+1 [SLD:2463] Yoshimaru, Ever Faithful
+1 [SLD:2464] Arcane Signet
+1 [SLD:2465] Lightning Greaves
+1 [SLD:2466] Patchwork Banner
+1 [SLD:2467] Sol Ring
