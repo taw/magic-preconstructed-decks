@@ -1,0 +1,7 @@
+// NAME: Dungeons & Dragons: Shadows Over Baldur's Gate
+// SOURCE: https://secretlair.wizards.com/us/product/1249724
+// DATE: 2026-03-02
+1 [SLD:2493] Grim Hireling
+1 [SLD:2494] Wild-Magic Sorcerer
+1 [SLD:2495] Xorn
+1 [SLD:2496] Prosper, Tome-Bound

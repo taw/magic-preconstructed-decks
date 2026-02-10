@@ -1,0 +1,8 @@
+// NAME: Dungeons & Dragons: Lands of the Forgotten Realms
+// SOURCE: https://secretlair.wizards.com/us/product/1249720
+// DATE: 2026-03-02
+2 [SLD:2509] Plains
+2 [SLD:2510] Island
+2 [SLD:2511] Swamp
+2 [SLD:2512] Mountain
+2 [SLD:2513] Forest
