@@ -1,0 +1,8 @@
+// NAME: Dungeons & Dragons: Gale's Ambition
+// SOURCE: https://secretlair.wizards.com/us/product/1249718
+// DATE: 2026-03-02
+1 [SLD:2488] Gale, Waterdeep Prodigy
+1 [SLD:2489] Arcane Denial
+1 [SLD:2490] Archmage's Charm
+1 [SLD:2491] Brainstorm
+1 [SLD:2492] Personal Tutor
