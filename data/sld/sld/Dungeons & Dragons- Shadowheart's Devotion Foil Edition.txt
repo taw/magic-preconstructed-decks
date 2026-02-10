@@ -1,0 +1,8 @@
+// NAME: Dungeons & Dragons: Shadowheart's Devotion Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249721
+// DATE: 2026-03-02
+1 [SLD] Shadowheart, Dark Justicar [foil]
+1 [SLD:2484] Beseech the Queen [foil]
+1 [SLD:2485] Black Market [foil]
+1 [SLD:2486] Victimize [foil]
+1 [SLD:2487] Ancient Bronze Dragon [foil]
