@@ -1,7 +1,7 @@
 // NAME: Dungeons & Dragons: Black Lights & Dark Dungeons Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249715
 // DATE: 2026-03-02
-1 [SLD] Sefris of the Hidden Way [foil]
 1 [SLD:2505] Seasoned Dungeoneer [foil]
 1 [SLD:2506] Displacer Kitten [foil]
 1 [SLD:2507] Tortured Existence [foil]
+1 [SLD:2508] Sefris of the Hidden Ways [foil]

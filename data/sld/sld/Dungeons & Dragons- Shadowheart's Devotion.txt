@@ -1,7 +1,7 @@
 // NAME: Dungeons & Dragons: Shadowheart's Devotion
 // SOURCE: https://secretlair.wizards.com/us/product/1249722
 // DATE: 2026-03-02
-1 [SLD] Shadowheart, Dark Justicar
+1 [SLD:2483] Shadowheart, Dark Justiciar
 1 [SLD:2484] Beseech the Queen
 1 [SLD:2485] Black Market
 1 [SLD:2486] Victimize

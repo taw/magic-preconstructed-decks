@@ -1,7 +1,7 @@
 // NAME: Dungeons & Dragons: Whispers in Candlekeep
 // SOURCE: https://secretlair.wizards.com/us/product/1249728
 // DATE: 2026-03-02
-1 [SLD] Kaluth, Unrivaled Ancient
 1 [SLD:2497] Counterspell
 1 [SLD:2498] Dragonborn Champion
+1 [SLD:2499] Klauth, Unrivaled Ancient
 1 [SLD:2500] Miirym, Sentinel Wyrm

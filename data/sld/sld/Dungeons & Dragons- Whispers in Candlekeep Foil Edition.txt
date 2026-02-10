@@ -1,7 +1,7 @@
 // NAME: Dungeons & Dragons: Whispers in Candlekeep Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1249727
 // DATE: 2026-03-02
-1 [SLD] Kaluth, Unrivaled Ancient [foil]
 1 [SLD:2497] Counterspell [foil]
 1 [SLD:2498] Dragonborn Champion [foil]
+1 [SLD:2499] Klauth, Unrivaled Ancient [foil]
 1 [SLD:2500] Miirym, Sentinel Wyrm [foil]
