@@ -1,0 +1,97 @@
+// NAME: Turtle Power!
+// SOURCE: https://magic.wizards.com/en/news/announcements/teenage-mutant-ninja-turtles-commander-decklist
+// DATE: 2026-03-06
+COMMANDER: Leonardo, the Balance [557rQiosGA3JCpWv2VwZff]
+Donatello, the Brains [6RZU9tItq5YTBHatnbgrDG]
+Splinter, the Mentor [16gIaQFIKcaqQbsaRmWtln]
+Raphael, the Muscle [7BCr8x2cDXKGCrlMZcJ6Ay]
+Michelangelo, the Heart [m6thxEnQSnt15zsnXVDvd]
+Heroes in a Half Shell [26F6ZEWsB7FE8rKFfl0f7U]
+Continue?
+Endless Foot Assault
+April O'Neil, Live on the Scene [2GSBkjgLSsCv5pJCYknUKI]
+Baxter, Fly in the Ointment
+Here Comes a New Hero!
+Irma, Part-Time Mutant
+Krang, the All-Powerful [7hf7Xpm4XnYISR197JDAVL]
+Ray Fillet, Wave Warrior
+Bebop, Skull and Crossbones [7tWKBkw4RCpI2ZO0n7km4r]
+Dimension X Pizzasaur
+Foot Chopper
+Game Over
+Rat King, Pale Piper
+Shredder, Shadow Master [6ExpIwS9xgiHplOaRM5rLj]
+Swift Demise
+Casey Jones, Back Alley Brute [5R5uuk2TnLzRU4hIsbFV12]
+Electric Seaweed
+Fast Forward
+Shellshock
+Special Move
+Tempestra, Dame of Games
+Tokka and Rahzar, Unsupervised [1hPxG6gsd2LU8ldqZ80qOO]
+High Score
+Leatherhead, Iron Gator
+Level Up
+Ninja Pizza [1CO6GFfzIDOZvZuW4K4qzv]
+Rocksteady, Mutant Marauder [NnwkG2FT8OOZUQ1jP4ADL]
+Super Combo [4GukfMN9DGCzmxHatDrpQO]
+Double Jump // Flying Kick
+Arcade Cabinet
+Big Mother Mouser [5Ar1MdLNqjGid42k0XNJvf]
+Coin of Mastery
+Exploding Barrel
+Mole Module
+Roadkill Rodney
+Big Apple, 3 a.m.
+Hidden Hideout
+Together Forever
+Vanquish the Horde
+Wave Goodbye
+Blasphemous Act
+Biogenic Ooze
+Steelbane Hydra
+Vigor
+Voracious Hydra
+Assassin's Trophy
+Corpsejack Menace
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Dragonskull Summit
+Exotic Orchard
+Fabled Passage
+Grand Coliseum
+Hinterland Harbor
+Rain-Slicked Copse
+Rootbound Crag
+Smoldering Marsh
+Sodden Verdure
+Spire Garden
+Sunken Hollow
+Undergrowth Stadium
+Vernal Fen
+Lita, Little Orphan Amphibian
+Mona Lisa, Science Geek
+Lessons from Life
+Everything Pizza
+Escape Tunnel
+Turtle Lair
+Acidic Slime
+Cultivate
+Harmonize
+Arcane Signet
+Sol Ring
+Ash Barrens
+Command Tower
+Evolving Wilds
+Path of Ancestry
+Thriving Grove
+Thriving Isle
+Thriving Moor
+Vibrant Cityscape
+2 Plains [WuoQks0cWOKXBo1wHOKRv]
+2 Island [6yIVuyHvs3FBqZLzEpsMi4]
+2 Swamp [ybjyM04ysCDJ0uO6CGdkc]
+2 Mountain [4EQ6KDdA7EDCcBmRcZ4kfn]
+4 Forest [6UmAnQEvIWsyftyfORH17z]
+
