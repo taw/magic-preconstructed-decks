@@ -1,97 +1,97 @@
 // NAME: Turtle Power!
 // SOURCE: https://magic.wizards.com/en/news/announcements/teenage-mutant-ninja-turtles-commander-decklist
 // DATE: 2026-03-06
-COMMANDER: Leonardo, the Balance [557rQiosGA3JCpWv2VwZff]
-Donatello, the Brains [6RZU9tItq5YTBHatnbgrDG]
-Splinter, the Mentor [16gIaQFIKcaqQbsaRmWtln]
-Raphael, the Muscle [7BCr8x2cDXKGCrlMZcJ6Ay]
-Michelangelo, the Heart [m6thxEnQSnt15zsnXVDvd]
-Heroes in a Half Shell [26F6ZEWsB7FE8rKFfl0f7U]
-Continue?
-Endless Foot Assault
-April O'Neil, Live on the Scene [2GSBkjgLSsCv5pJCYknUKI]
-Baxter, Fly in the Ointment
-Here Comes a New Hero!
-Irma, Part-Time Mutant
-Krang, the All-Powerful [7hf7Xpm4XnYISR197JDAVL]
-Ray Fillet, Wave Warrior
-Bebop, Skull and Crossbones [7tWKBkw4RCpI2ZO0n7km4r]
-Dimension X Pizzasaur
-Foot Chopper
-Game Over
-Rat King, Pale Piper
-Shredder, Shadow Master [6ExpIwS9xgiHplOaRM5rLj]
-Swift Demise
-Casey Jones, Back Alley Brute [5R5uuk2TnLzRU4hIsbFV12]
-Electric Seaweed
-Fast Forward
-Shellshock
-Special Move
-Tempestra, Dame of Games
-Tokka and Rahzar, Unsupervised [1hPxG6gsd2LU8ldqZ80qOO]
-High Score
-Leatherhead, Iron Gator
-Level Up
-Ninja Pizza [1CO6GFfzIDOZvZuW4K4qzv]
-Rocksteady, Mutant Marauder [NnwkG2FT8OOZUQ1jP4ADL]
-Super Combo [4GukfMN9DGCzmxHatDrpQO]
-Double Jump // Flying Kick
-Arcade Cabinet
-Big Mother Mouser [5Ar1MdLNqjGid42k0XNJvf]
-Coin of Mastery
-Exploding Barrel
-Mole Module
-Roadkill Rodney
-Big Apple, 3 a.m.
-Hidden Hideout
-Together Forever
-Vanquish the Horde
-Wave Goodbye
-Blasphemous Act
-Biogenic Ooze
-Steelbane Hydra
-Vigor
-Voracious Hydra
-Assassin's Trophy
-Corpsejack Menace
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Dragonskull Summit
-Exotic Orchard
-Fabled Passage
-Grand Coliseum
-Hinterland Harbor
-Rain-Slicked Copse
-Rootbound Crag
-Smoldering Marsh
-Sodden Verdure
-Spire Garden
-Sunken Hollow
-Undergrowth Stadium
-Vernal Fen
-Lita, Little Orphan Amphibian
-Mona Lisa, Science Geek
-Lessons from Life
-Everything Pizza
-Escape Tunnel
-Turtle Lair
-Acidic Slime
-Cultivate
-Harmonize
-Arcane Signet
-Sol Ring
-Ash Barrens
-Command Tower
-Evolving Wilds
-Path of Ancestry
-Thriving Grove
-Thriving Isle
-Thriving Moor
-Vibrant Cityscape
-2 Plains [WuoQks0cWOKXBo1wHOKRv]
-2 Island [6yIVuyHvs3FBqZLzEpsMi4]
-2 Swamp [ybjyM04ysCDJ0uO6CGdkc]
-2 Mountain [4EQ6KDdA7EDCcBmRcZ4kfn]
-4 Forest [6UmAnQEvIWsyftyfORH17z]
+COMMANDER: 1 Heroes in a Half Shell [TMC:6] [foil]
+1 Leonardo, the Balance [TMC:1] [foil]
+1 Donatello, the Brains [TMC:2] [foil]
+1 Splinter, the Mentor [TMC:3] [foil]
+1 Raphael, the Muscle [TMC:4] [foil]
+1 Michelangelo, the Heart [TMC:5] [foil]
+1 Continue?
+1 Endless Foot Assault
+1 April O'Neil, Live on the Scene [TMC:9]
+1 Baxter, Fly in the Ointment
+1 Here Comes a New Hero!
+1 Irma, Part-Time Mutant
+1 Krang, the All-Powerful [TMC:13]
+1 Ray Fillet, Wave Warrior
+1 Bebop, Skull and Crossbones [TMC:15]
+1 Dimension X Pizzasaur
+1 Foot Chopper
+1 Game Over
+1 Rat King, Pale Piper
+1 Shredder, Shadow Master [TMC:20]
+1 Swift Demise
+1 Casey Jones, Back Alley Brute [TMC:22]
+1 Electric Seaweed
+1 Fast Forward
+1 Shellshock
+1 Special Move
+1 Tempestra, Dame of Games
+1 Tokka and Rahzar, Unsupervised [TMC:28]
+1 High Score
+1 Leatherhead, Iron Gator
+1 Level Up
+1 Ninja Pizza [TMC:32]
+1 Rocksteady, Mutant Marauder [TMC:33]
+1 Super Combo [TMC:34]
+1 Double Jump // Flying Kick
+1 Arcade Cabinet
+1 Big Mother Mouser [TMC:37]
+1 Coin of Mastery
+1 Exploding Barrel
+1 Mole Module
+1 Roadkill Rodney
+1 Big Apple, 3 a.m.
+1 Hidden Hideout
+1 Together Forever
+1 Vanquish the Horde
+1 Wave Goodbye
+1 Blasphemous Act
+1 Biogenic Ooze
+1 Steelbane Hydra
+1 Vigor
+1 Voracious Hydra
+1 Assassin's Trophy
+1 Corpsejack Menace
+1 Chromatic Lantern
+1 Cinder Glade
+1 City of Brass
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Fabled Passage
+1 Grand Coliseum
+1 Hinterland Harbor
+1 Rain-Slicked Copse
+1 Rootbound Crag
+1 Smoldering Marsh
+1 Sodden Verdure
+1 Spire Garden
+1 Sunken Hollow
+1 Undergrowth Stadium
+1 Vernal Fen
+1 Lita, Little Orphan Amphibian
+1 Mona Lisa, Science Geek
+1 Lessons from Life
+1 Everything Pizza
+1 Escape Tunnel
+1 Turtle Lair
+1 Acidic Slime
+1 Cultivate
+1 Harmonize
+1 Arcane Signet
+1 Sol Ring
+1 Ash Barrens
+1 Command Tower
+1 Evolving Wilds
+1 Path of Ancestry
+1 Thriving Grove
+1 Thriving Isle
+1 Thriving Moor
+1 Vibrant Cityscape
+2 Plains [TMT:315]
+2 Island [TMT:316]
+2 Swamp [TMT:317]
+2 Mountain [TMT:318]
+4 Forest [TMT:319]
 
