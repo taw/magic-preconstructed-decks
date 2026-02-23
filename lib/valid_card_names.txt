@@ -850,6 +850,7 @@ Ancestral Vengeance
 Ancestral Vision
 Anchor to Reality
 Anchor to the Aether
+Anchovy & Banana Pizza
 Ancient Adamantoise
 Ancient Amphitheater
 Ancient Animus
@@ -1113,6 +1114,7 @@ Approach My Molten Realm
 Approach of the Second Sun
 April O'Neil, Hacktivist
 April O'Neil, Human Element
+April O'Neil, Kunoichi Trainee
 April O'Neil, Live on the Scene
 April, Reporter of the Weird
 Aquamoeba
@@ -2367,6 +2369,7 @@ Battlewise Aven
 Battlewise Hoplite
 Battlewise Valor
 Batwing Brume
+Baxter Stockman
 Baxter, Fly in the Ointment
 Bay Falcon
 Bayek of Siwa
@@ -2428,6 +2431,7 @@ Beat a Path
 Beatrix, Loyal General
 Bebop & Rocksteady
 Bebop, Skull & Crossbones
+Bebop, Warthog Warrior
 Because I Have Willed It
 Beck
 Beckon Apparition
@@ -2568,6 +2572,7 @@ Besmirch
 Besotted Knight
 Bespoke Battlegarb
 Bespoke Battlewagon
+Bespoke Bō
 Bess, Soul Nourisher
 Bessie, the Doctor's Roadster
 Bestial Bloodline
@@ -3379,6 +3384,7 @@ Bosh, Iron Golem Avatar
 Bosk Banneret
 Bosom Buddy
 Boss's Chauffeur
+Bot Bashing Time
 Botanical Brawler
 Botanical Plaza
 Botanical Sanctum
@@ -3620,6 +3626,7 @@ Brigid, Doun's Mind
 Brigid, Hero of Kinsbaile
 Brigid, Who's Seen Some Stuff
 Brigone, Soldier of Meletis
+Brilliance Unleashed
 Brilliant Halo
 Brilliant Plan
 Brilliant Restoration
@@ -6697,6 +6704,7 @@ Death Wind
 Death Wish
 Death by Dragons
 Death in Heaven
+Death in the Family
 Death of a Thousand Stings
 Death or Glory
 Death's Approach
@@ -7251,6 +7259,7 @@ Diligent Farmhand
 Diligent Zookeeper
 Diluvian Primordial
 Dim Oubliette
+Dimension X
 Dimension X Pizzasaur
 Dimensional Breach
 Dimensional Exile
@@ -7580,6 +7589,7 @@ Don't Worry About It
 Donal, Herald of Wings
 Donate
 Donatello's Science Lesson
+Donatello's Technique
 Donatello, Gadget Master
 Donatello, Mutant Mechanic
 Donatello, Rad Scientist
@@ -7876,6 +7886,7 @@ Dreadwaters
 Dreadwing
 Dreadwing Scavenger
 Dreadwurm
+Dream Beavers
 Dream Cache
 Dream Chisel
 Dream Coat
@@ -10492,6 +10503,8 @@ Fool's Demise
 Fool's Tome
 Foot Chopper
 Foot Elite
+Foot Headquarters
+Foot Mystic
 Foot Ninjas
 Foot Soldiers
 Footbottom Feast
@@ -10851,6 +10864,7 @@ Fuel Tank Feaster
 Fuel for the Cause
 Fuel the Flames
 Fugitive Codebreaker
+Fugitive Droid
 Fugitive Druid
 Fugitive Wizard
 Fugitive of the Judoon
@@ -11819,6 +11833,7 @@ Gnottvold Slumbermound
 Go Blank
 Go Forth
 Go Hog Wild
+Go Ninja Go
 Go for Blood
 Go for the Throat
 Go-Shintai of Ancient Wars
@@ -14014,6 +14029,7 @@ Ice
 Ice Cage
 Ice Cauldron
 Ice Cave
+Ice Cream Kitty
 Ice Flan
 Ice Floe
 Ice Magic
@@ -14108,6 +14124,7 @@ Ill-Gotten Inheritance
 Ill-Tempered Cyclops
 Ill-Tempered Loner
 Ill-Timed Explosion
+Illegitimate Business
 Illicit Auction
 Illicit Masquerade
 Illicit Shipment
@@ -14521,6 +14538,7 @@ Inscription of Abundance
 Inscription of Insight
 Inscription of Ruin
 Insectile Aberration
+Insectoid Exterminator
 Inside Out
 Inside Source
 Insidious Bookworms
@@ -15399,6 +15417,7 @@ Kappa Cannoneer
 Kappa Tech-Wrecker
 Kapsho Kitefins
 Karador, Ghost Chieftain
+Karai's Technique
 Karai, Future of the Foot
 Karakas
 Karakyk Guardian
@@ -16041,6 +16060,7 @@ Kotis, Sibsig Champion
 Kotis, the Fangkeeper
 Kotori, Pilot Prodigy
 Kotose, the Silent Spider
+Koya, Death from Above
 Kozilek's Channeler
 Kozilek's Command
 Kozilek's Pathfinder
@@ -17027,6 +17047,7 @@ Loran of the Third Path
 Loran's Escape
 Loran, Disciple of History
 Lorcan, Warlock Collector
+Lord Dregg, Insect Invader
 Lord Jyscal Guado
 Lord Magnus
 Lord Skitter's Blessing
@@ -18191,6 +18212,7 @@ Messenger Jays
 Messenger's Speed
 Metagamer
 Metal Fatigue
+Metalhead
 Metallic Mastery
 Metallic Mimic
 Metallic Rebuke
@@ -19153,6 +19175,7 @@ Mutagenic Growth
 Mutalith Vortex Beast
 Mutant Chain Reaction
 Mutant Surveyor
+Mutant Town
 Mutant Town Musicians
 Mutant's Prey
 Mutated Cultist
@@ -19657,6 +19680,7 @@ New Argive
 New Benalia
 New Blood
 New Frontiers
+New Generation's Technique
 New Horizons
 New Magic Game Plus
 New Master of Arms
@@ -19905,6 +19929,7 @@ Noble Steeds
 Noble Templar
 Noble Vestige
 Noble's Purse
+Nobody
 Noctis, Heir Apparent
 Noctis, Prince of Lucis
 Nocturnal Feeder
@@ -20297,6 +20322,7 @@ Old Fogey
 Old Ghastbark
 Old Gnawbone
 Old Guard
+Old Hob, Alleycat Blues
 Old Man Willow
 Old Man of the Sea
 Old One Eye
@@ -20358,6 +20384,7 @@ Omnath, Locus of Mana
 Omnath, Locus of Rage
 Omnath, Locus of the Roil
 Omni-Changeling
+Omni-Cheese Pizza
 Omnibian
 Omniclown Colossus
 Omnipresent Impostor
@@ -20428,6 +20455,7 @@ Oona, Queen of the Fae
 Ooze Flux
 Ooze Garden
 Ooze Patrol
+Ooze Spill
 Oozeavite
 Opal Acrolith
 Opal Archangel
@@ -20613,6 +20641,7 @@ Orochi Merge-Keeper
 Orochi Ranger
 Orochi Soul-Reaver
 Orochi Sustainer
+Oroku Saki, Shredder Rising
 Oros, the Avenger
 Orphans of the Wheat
 Orthion, Hero of Lavabrink
@@ -20809,6 +20838,7 @@ Pact of the Titan
 Pactdoll Terror
 Padeem, Consul of Innovation
 Pain
+Pain 101
 Pain Distributor
 Pain Kami
 Pain Magnification
@@ -20916,6 +20946,7 @@ Parallel Lives
 Parallel Thoughts
 Paralyze
 Paralyzing Grasp
+Paramecia Coloniex
 Paranoid Delusions
 Paranoid Parish-Blade
 Paranormal Analyst
@@ -21509,6 +21540,7 @@ Pixie Dust
 Pixie Guide
 Pixie Illusionist
 Pixie Queen
+Pizza Face, Gastromancer
 Placid Rottentail
 Plagiarize
 Plagon, Lord of the Beach
@@ -22218,6 +22250,7 @@ Punish Ignorance
 Punish the Enemy
 Punishing Fire
 Punishment
+Punk Frogs
 Puny Snack
 Puppet Conjurer
 Puppet Master
@@ -22247,6 +22280,7 @@ Purphoros's Emissary
 Purphoros's Intervention
 Purphoros, Bronze-Blooded
 Purphoros, God of the Forge
+Purple Dragon Punks
 Purple Pentapus
 Purple Worm
 Purple-Crystal Crab
@@ -22270,6 +22304,7 @@ Putrid Goblin
 Putrid Hexhag
 Putrid Imp
 Putrid Leech
+Putrid Pals
 Putrid Raptor
 Putrid Warrior
 Pygmy Allosaurus
@@ -23470,6 +23505,7 @@ Retrieve
 Retrieve Prey
 Retrieve the Esper
 Retriever Phoenix
+Retro-Mutation
 Retrofitted Transmogrant
 Retrofitter Foundry
 Retromancer
@@ -23490,6 +23526,7 @@ Return to Dust
 Return to Nature
 Return to the Earth
 Return to the Ranks
+Return to the Sewers
 Returned Centaur
 Returned Pastcaller
 Returned Phalanx
@@ -23921,6 +23958,7 @@ Rock Hydra
 Rock Jockey
 Rock Lobster
 Rock Slide
+Rock Soldiers
 Rock Star
 Rockalanche
 Rockcaster Platoon
@@ -23935,6 +23973,7 @@ Rockslide Ambush
 Rockslide Elemental
 Rockslide Sorcerer
 Rockslide Sorcerer (Alchemy)
+Rocksteady, Crash Courser
 Rocksteady, Mutant Marauder
 Rocky Rebuke
 Rocky Roads
@@ -24748,6 +24787,7 @@ Savannah Sage
 Savanti Romero, Time's Exile
 Save Life
 Save Point
+Saved by the Shell
 Saving Grace
 Saving Grasp
 Savior of Ollenbock
@@ -25928,6 +25968,7 @@ Shrapnel Blast
 Shrapnel Slinger
 Shred Memory
 Shredded Sails
+Shredder's Armor
 Shredder's Revenge
 Shredder's Technique
 Shredder, Shadow Master
@@ -27545,6 +27586,7 @@ Splinter & Leo, Father & Son
 Splinter Twin
 Splinter's Technique
 Splinter, Aging Champion
+Splinter, Hamato Yoshi
 Splinter, Radical Rat
 Splinter, the Mentor
 Splinterfright
@@ -27690,6 +27732,7 @@ Squirrel Squatters
 Squirrel Stack
 Squirrel Wrangler
 Squirrel-Powered Scheme
+Squirrelanoids
 Squishy Sphinx Ninja
 Sram's Expertise
 Sram, Senior Edificer
@@ -28029,6 +28072,7 @@ Stolen Vitality
 Stolen by the Fae
 Stomp
 Stomp and Howl
+Stomped by the Foot
 Stomper Cub
 Stomping Ground
 Stomping Slabs
@@ -28904,6 +28948,7 @@ T-45 Power Armor
 T.A.P.P.E.R.
 TARDIS
 TARDIS Bay
+TCRI Building
 TL;DR
 Tabaxi Toucaneers
 Tablet of Compleation
@@ -28944,6 +28989,7 @@ Tainted Remedy
 Tainted Sigil
 Tainted Specter
 Tainted Strike
+Tainted Treats
 Tainted Well
 Tainted Wood
 Taj-Nar Swordsmith
@@ -29888,6 +29934,7 @@ The Myriad Pools
 The Mysterious Sphere
 The Mystery Raceway
 The Necrobloom
+The Neutrinos
 The Night of the Doctor
 The Ninth Doctor
 The Nipton Lottery
@@ -31222,6 +31269,7 @@ Tune Up
 Tune the Narrative
 Tunnel
 Tunnel Ignus
+Tunnel Rats
 Tunnel Surveyor
 Tunnel Tipster
 Tunnel Vision
@@ -31258,6 +31306,7 @@ Turntimber Symbiosis
 Turntimber, Serpentine Wood
 Turret Ogre
 Turri Island
+Turtle Blimp
 Turtle Lair
 Turtle Power!
 Turtle Tracks
@@ -31579,6 +31628,7 @@ Undying Malice
 Undying Rage
 Unearth
 Unearthly Blizzard
+Uneasy Alliance
 Unending Whisper
 Unerring Sling
 Unesh, Criosphinx Sovereign
@@ -32168,6 +32218,7 @@ Vent Sentinel
 Ventifact Bottle
 Venture Deeper
 Venture Forth
+Venus, Torn Between Worlds
 Verazol, the Split Current
 Verdant Automaton
 Verdant Catacombs
@@ -33250,6 +33301,7 @@ Werewolf Pack Leader
 Werewolf Ransacker
 Werewolf of Ancient Hunger
 Wernog, Rider's Chaplain
+West Wind Avatar
 Western Paladin
 Westfold Rider
 Westgate Regent
