@@ -15,7 +15,7 @@ COMMANDER: 1 Heroes in a Half Shell [TMC:6] [foil]
 1 Irma, Part-Time Mutant
 1 Krang, the All-Powerful [TMC:13]
 1 Ray Fillet, Wave Warrior
-1 Bebop, Skull and Crossbones [TMC:15]
+1 Bebop, Skull & Crossbones [TMC:15]
 1 Dimension X Pizzasaur
 1 Foot Chopper
 1 Game Over
@@ -28,7 +28,7 @@ COMMANDER: 1 Heroes in a Half Shell [TMC:6] [foil]
 1 Shellshock
 1 Special Move
 1 Tempestra, Dame of Games
-1 Tokka and Rahzar, Unsupervised [TMC:28]
+1 Tokka & Rahzar, Unsupervised [TMC:28]
 1 High Score
 1 Leatherhead, Iron Gator
 1 Level Up
