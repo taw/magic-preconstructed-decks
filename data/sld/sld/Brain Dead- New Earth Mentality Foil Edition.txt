@@ -1,0 +1,13 @@
+// NAME: Brain Dead: New Earth Mentality Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250032
+// DATE: 2026-02-24
+1 [SLD:2514] Mirror Entity [foil]
+1 [SLD:2515] Jace's Archivist [foil]
+1 [SLD:2516] Stinkweed Imp [foil]
+1 [SLD:2517] Mogg Assassin [foil]
+1 [SLD:2518] Sakura-Tribe Elder [foil]
+1 [SLD:2519] Irrigated Farmland [foil]
+1 [SLD:2520] Fetid Pools [foil]
+1 [SLD:2521] Canyon Slough [foil]
+1 [SLD:2522] Sheltered Thicket [foil]
+1 [SLD:2523] Scattered Groves [foil]
