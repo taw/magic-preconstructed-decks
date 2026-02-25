@@ -1,0 +1,13 @@
+// NAME: Brain Dead: New Earth Mentality
+// SOURCE: https://secretlair.wizards.com/us/product/1250033
+// DATE: 2026-02-24
+1 [SLD:2514] Mirror Entity
+1 [SLD:2515] Jace's Archivist
+1 [SLD:2516] Stinkweed Imp
+1 [SLD:2517] Mogg Assassin
+1 [SLD:2518] Sakura-Tribe Elder
+1 [SLD:2519] Irrigated Farmland
+1 [SLD:2520] Fetid Pools
+1 [SLD:2521] Canyon Slough
+1 [SLD:2522] Sheltered Thicket
+1 [SLD:2523] Scattered Groves
