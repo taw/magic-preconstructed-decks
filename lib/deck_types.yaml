@@ -427,3 +427,10 @@ redemption:
   format: null
   name: "MTGO Redemption"
   # Any size
+enemy:
+  category: "deck"
+  format: "casual"
+  name: "Enemy Deck"
+  sections:
+    # token only
+    Main Deck: 0
