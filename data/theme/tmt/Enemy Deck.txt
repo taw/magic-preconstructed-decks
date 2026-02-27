@@ -1,31 +1,31 @@
 // NAME: Enemy Deck
 // SOURCE: https://magic.wizards.com/en/news/announcements/teenage-mutant-ninja-turtles-turtle-team-up-contents
 // DATE: 2026-03-06
-2 Event: Villain Infiltration
-3 Event: Villain Mayhem!
-5 Foot Disciple
-1 Event: Slash's Smash
-1 Event: Savanti Romero's Curse
-1 Event: Bebop's Rampage
-1 Event: Leatherhead's Smackdown
-3 Foot Skirmisher
-1 Event: Rocksteady's Beatdown
-2 Foot Enforcer
-1 Event: Rat King's Revolution
-1 Event: Villain Scheme!
-1 Event: Karai's Planning
-1 Event: Baxter's Experiments
-1 Event: Shredder's Challenge
-1 Event: Krang's Stratagem
-1 Event: Chrome Dome's Overload
-1 Slash, the Dark Mirror
-1 Rat King, the Chaosbringer
-1 Savanti Romero, Temporal Rogue
-1 Chrome Dome, Cyber-Ninja
-1 Baxter, Exzzperimental Zzientist
-1 Krang, Dimension X Overlord
-1 Leatherhead, Sewer Gator
-1 Karai, Shadow Warrior
-1 Rocksteady, Rowdy Rhino
-1 Bebop, Porcine Punk
-1 Shredder, Foot Clan Overlord
+2 Event: Villain Infiltration [token]
+3 Event: Villain Mayhem! [token]
+5 Foot Disciple [token]
+1 Event: Slash's Smash [token]
+1 Event: Savanti Romero's Curse [token]
+1 Event: Bebop's Rampage [token]
+1 Event: Leatherhead's Smackdown [token]
+3 Foot Skirmisher [token]
+1 Event: Rocksteady's Beatdown [token]
+2 Foot Enforcer [token]
+1 Event: Rat King's Revolution [token]
+1 Event: Villain Scheme! [token]
+1 Event: Karai's Planning [token]
+1 Event: Baxter's Experiments [token]
+1 Event: Shredder's Challenge [token]
+1 Event: Krang's Stratagem [token]
+1 Event: Chrome Dome's Overload [token]
+1 Slash, the Dark Mirror [token]
+1 Rat King, the Chaosbringer [token]
+1 Savanti Romero, Temporal Rogue [token]
+1 Chrome Dome, Cyber-Ninja [token]
+1 Baxter, Exzzperimental Zzientist [token]
+1 Krang, Dimension X Overlord [token]
+1 Leatherhead, Sewer Gator [token]
+1 Karai, Shadow Warrior [token]
+1 Rocksteady, Rowdy Rhino [token]
+1 Bebop, Porcine Punk [token]
+1 Shredder, Foot Clan Overlord [token]
