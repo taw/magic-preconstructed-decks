@@ -1,0 +1,8 @@
+// NAME: Featuring: Stan Sakai
+// SOURCE: https://secretlair.wizards.com/us/product/1249998
+// DATE: 2026-03-03
+1 [SLD:2377] Baylen, the Haymaker
+1 [SLD:2378] Felidar Retreat
+1 [SLD:2379] Master of Ceremonies
+1 [SLD:2380] Second Harvest
+1 [SLD:2381] Sunforger

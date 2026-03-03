@@ -1,0 +1,8 @@
+// NAME: Teenage Mutant Ninja Turtles: The Mighty Mutanimals Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250001
+// DATE: 2026-03-03
+1 [SLD:2362] Deepglow Skate [foil]
+1 [SLD:2363] Pirated Copy [foil]
+1 [SLD:2364] Kediss, Emberclaw Familiar [foil]
+1 [SLD:2365] Hardened Scales [foil]
+1 [SLD:2366] Triumph of Hordes [foil]
