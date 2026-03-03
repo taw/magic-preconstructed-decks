@@ -1,0 +1,8 @@
+// NAME: Teenage Mutant Ninja Turtles: VHS Villains
+// SOURCE: https://secretlair.wizards.com/us/product/1250004
+// DATE: 2026-03-03
+1 [SLD:2367] Delver of Secrets / Insectile Aberration
+1 [SLD:2368] Higure, the Still Wind
+1 [SLD:2369] Species Specialist
+1 [SLD:2370] Rampaging Baloths
+1 [SLD:2371] Triskelion

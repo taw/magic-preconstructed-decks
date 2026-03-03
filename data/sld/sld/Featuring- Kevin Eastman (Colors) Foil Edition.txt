@@ -1,0 +1,7 @@
+// NAME: Featuring: Kevin Eastman (Colors) Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249993
+// DATE: 2026-03-03
+1 [SLD:2358] Loxodon Gatekeeper [foil]
+1 [SLD:2359] Sakashima's Student [foil]
+1 [SLD:2360] Throat Slitter [foil]
+1 [SLD:2361] Guttersnipe [foil]
