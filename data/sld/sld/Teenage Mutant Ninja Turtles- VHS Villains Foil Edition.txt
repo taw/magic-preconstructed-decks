@@ -1,7 +1,7 @@
 // NAME: Teenage Mutant Ninja Turtles: VHS Villains Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250003
 // DATE: 2026-03-03
-1 [SLD:2367] Delver of Secrets // Insectile Aberration [foil]
+1 [SLD:2367a] Delver of Secrets // Insectile Aberration [foil]
 1 [SLD:2368] Higure, the Still Wind [foil]
 1 [SLD:2369] Species Specialist [foil]
 1 [SLD:2370] Rampaging Baloths [foil]
