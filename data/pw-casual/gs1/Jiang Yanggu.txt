@@ -22,4 +22,4 @@
 2 Cleansing Screech
 
 Sideboard
-1 Mowu [GS1:T1] [foil] [token]
+1 Mowu [GS1:T1a] [foil] [token]
