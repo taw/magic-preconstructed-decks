@@ -7285,6 +7285,7 @@ Dimir Signet
 Dimir Spybug
 Dimir Strandcatcher
 Din of the Fireherd
+Dina, Essence Brewer
 Dina, Soul Steeper
 Dingus Egg
 Dingus Staff
@@ -15740,6 +15741,7 @@ Killer Instinct
 Killer Service
 Killer Whale
 Killer's Mask
+Killian, Decisive Mentor
 Killian, Ink Duelist
 Killing Glare
 Killing Wave
@@ -17079,6 +17081,7 @@ Lorehold Campus
 Lorehold Command
 Lorehold Excavation
 Lorehold Pledgemage
+Lorehold, the Historian
 Lorescale Coatl
 Loreseeker's Stone
 Lorthos, Tentacled Terror
@@ -17929,6 +17932,7 @@ Match the Odds
 Math is for Blockers
 Math is for Blockers (Plane)
 Mathas, Fiend Seeker
+Mathemagics
 Mathise, Surge Channeler
 Matopi Golem
 Matoya, Archon Elder
@@ -22483,6 +22487,7 @@ Quina, Qu Gourmet
 Quintessential Katana
 Quintorius Kand
 Quintorius, Field Historian
+Quintorius, History Chaser
 Quintorius, Loremaster
 Quirion Beastcaller
 Quirion Druid
@@ -24062,6 +24067,7 @@ Rootbreaker Wurm
 Rootcast Apprenticeship
 Rootcoil Creeper
 Rootgrapple
+Rootha, Mastering the Moment
 Rootha, Mercurial Artist
 Rooting Kavu
 Rooting Moloch
@@ -34297,6 +34303,7 @@ Zimone and Dina
 Zimone's Homework
 Zimone's Hypothesis
 Zimone, All-Questioning
+Zimone, Infinite Analyst
 Zimone, Mystery Unraveler
 Zimone, Paradox Sculptor
 Zimone, Quandrix Prodigy
