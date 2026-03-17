@@ -1,0 +1,26 @@
+// NAME: Dandân Deck
+// SOURCE: https://secretlair.wizards.com/us/product/1249043
+// DATE: 2026-03-17
+10 [SLD:2139] Dandân [foil]
+4 [SLD:2140] Accumulated Knowledge [foil]
+2 [SLD:2141] Magical Hack [foil]
+8 [SLD:2142] Memory Lapse [foil]
+2 [SLD:2143] Mystic Sanctuary [foil]
+20 [SLD:2144] Island [foil]
+2 [SLD] Brainstorm
+2 [SLD] Capture of Jingzhou
+2 [SLD] Chart a Course
+2 [SLD] Control Magic
+2 [SLD] Crystal Spray
+2 [SLD] Day's Undoing
+2 [SLD] Mental Note
+2 [SLD] Metamorphose
+2 [SLD] Predict
+2 [SLD] Telling Time
+2 [SLD] Unsubstantiate
+2 [SLD] Halimar Depths
+2 [SLD] Haunted Fengraf
+2 [SLD] Lonely Sandbar
+2 [SLD] Remote Isle
+2 [SLD] The Surgical Bay
+2 [SLD] Svyelunite Temple
