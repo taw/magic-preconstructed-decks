@@ -434,3 +434,9 @@ enemy:
   sections:
     # token only
     Main Deck: 0
+shared:
+  category: "deck"
+  format: "casual"
+  name: "shared"
+  sections:
+    Main Deck: 80
