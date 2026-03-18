@@ -437,6 +437,6 @@ enemy:
 dandan:
   category: "deck"
   format: "dandan"
-  name: "dandan"
+  name: "Dandan Deck"
   sections:
     Main Deck: 80
