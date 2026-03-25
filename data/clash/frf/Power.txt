@@ -28,8 +28,8 @@
 1 Monastery Siege
 1 Sultai Banner
 4 Opulent Palace
-2 Evolving Wilds
 2 Dismal Backwater
-7 Swamp [FRF:*]
-5 Island [FRF:*]
-5 Forest [FRF:*]
+2 Evolving Wilds [M15:243]
+5 Island [KTK:257]
+5 Forest [KTK:269]
+7 Swamp [FRF:186]

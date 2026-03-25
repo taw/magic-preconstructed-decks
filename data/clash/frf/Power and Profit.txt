@@ -27,10 +27,10 @@
 1 Whip of Erebos [CP2] [foil]
 4 Opulent Palace
 2 Jungle Hollow
-2 Evolving Wilds
-3 Island [FRF:*]
-8 Forest [FRF:*]
-5 Swamp [FRF:*]
+2 Evolving Wilds [M15:243]
+3 Island [KTK:257]
+8 Forest [KTK:269]
+5 Swamp [FRF:186]
 Sideboard
 1 Typhoid Rats
 1 Annul
