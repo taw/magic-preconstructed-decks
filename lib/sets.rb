@@ -88,6 +88,7 @@ MagicSets = {
   "dci" => "DCI Promos",
   "dd1" => "Duel Decks: Elves vs. Goblins",
   "dd2" => "Duel Decks: Jace vs. Chandra",
+  "dd3" => "Duel Decks: Anthology",
   "ddc" => "Duel Decks: Divine vs. Demonic",
   "ddd" => "Duel Decks: Garruk vs. Liliana",
   "dde" => "Duel Decks: Phyrexia vs. the Coalition",

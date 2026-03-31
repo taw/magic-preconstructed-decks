@@ -1197,6 +1197,7 @@ Arcane Investigator
 Arcane Laboratory
 Arcane Lighthouse
 Arcane Melee
+Arcane Omens
 Arcane Proxy
 Arcane Sanctum
 Arcane Savant
@@ -1239,6 +1240,7 @@ Archaeological Dig
 Archaeomancer
 Archaeomancer's Map
 Archaeomender
+Archaic's Agony
 Archangel
 Archangel Avacyn
 Archangel Elspeth
@@ -3195,6 +3197,7 @@ Boggart Sprite-Chaser
 Boggart Trawler
 Bogslither's Embrace
 Bogstomper
+Bogwater Lumaret
 Bohn, Beguiling Balladeer
 Boil
 Boilerbilges Ripper
@@ -12254,6 +12257,7 @@ Granulate
 Grapeshot
 Grapeshot Catapult
 Graphic Violence
+Grapple with Death
 Grapple with the Past
 Grappler Spider
 Grappling Hook
@@ -17078,6 +17082,7 @@ Lore Seeker
 Lore Weaver
 Lorehold Apprentice
 Lorehold Campus
+Lorehold Charm
 Lorehold Command
 Lorehold Excavation
 Lorehold Pledgemage
@@ -20515,6 +20520,7 @@ Oracle of Tragedy
 Oracle of the Alpha
 Oracle's Attendants
 Oracle's Insight
+Oracle's Restoration
 Oracle's Vault
 Orah, Skyclave Hierophant
 Oran-Rief Hydra
@@ -22226,6 +22232,7 @@ Pull Under
 Pull from Eternity
 Pull from Tomorrow
 Pull from the Deep
+Pull from the Grave
 Pull of the Mist Moon
 Pulling Teeth
 Pulmonic Sliver
@@ -25738,6 +25745,7 @@ Shatter Assumptions
 Shatter the Oath
 Shatter the Sky
 Shatter the Source
+Shattered Acolyte
 Shattered Angel
 Shattered Crypt
 Shattered Dreams
@@ -26225,6 +26233,7 @@ Silverglade Pathfinder
 Silverpelt Werewolf
 Silverquill Apprentice
 Silverquill Campus
+Silverquill Charm
 Silverquill Command
 Silverquill Lecturer
 Silverquill Pledgemage
