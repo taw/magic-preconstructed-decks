@@ -30,7 +30,7 @@
 2 Evolving Wilds [M15:243]
 3 Island [KTK:257]
 8 Forest [KTK:269]
-5 Swamp [FRF:186]
+5 Swamp [FRF:181]
 Sideboard
 1 Typhoid Rats
 1 Annul

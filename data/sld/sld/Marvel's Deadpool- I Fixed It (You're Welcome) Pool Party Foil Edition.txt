@@ -1,8 +1,8 @@
 // NAME: Marvel's Deadpool: I Fixed It (You're Welcome) Pool Party Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250084
 // DATE: 2026-04-06
-1 [SLD:IFIYW-1] Deadly Dispute [foil]
-1 [SLD:IFIYW-2] Lightning Bolt [foil]
-1 [SLD:IFIYW-3] Thrill of Possibility [foil]
-1 [SLD:IFIYW-4] Lightning Greaves [foil]
-1 [SLD:IFIYW-5] Sol Ring [foil]
+1 [SLD:IFIYW-6] Deadly Dispute [foil]
+1 [SLD:IFIYW-7] Lightning Bolt [foil]
+1 [SLD:IFIYW-8] Thrill of Possibility [foil]
+1 [SLD:IFIYW-9] Lightning Greaves [foil]
+1 [SLD:IFIYW-10] Sol Ring [foil]
