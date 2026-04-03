@@ -847,6 +847,7 @@ Ancestral Knowledge
 Ancestral Mask
 Ancestral Memories
 Ancestral Recall
+Ancestral Recall (Prepared)
 Ancestral Reminiscence
 Ancestral Statue
 Ancestral Tribute
@@ -3475,6 +3476,7 @@ Brain Weevil
 Brain in a Jar
 Brainbite
 Braingeyser
+Braingeyser (Prepared)
 Brainspoil
 Brainstealer Dragon
 Brainstone
@@ -4673,6 +4675,7 @@ Changeling Titan
 Changeling Wayfinder
 Changing Loyalty
 Channel
+Channel (Prepared)
 Channel Harm
 Channel the Suns
 Channeled Dragonfire
@@ -9407,6 +9410,7 @@ Exquisite Blood
 Exquisite Firecraft
 Exquisite Huntmaster
 Exsanguinate
+Exsanguinate (Prepared)
 Exsanguinator Cavalry
 Exterminate!
 Exterminator Magmarch
@@ -22859,6 +22863,7 @@ Rampaging Yao Guai
 Rampant Elephant
 Rampant Frogantua
 Rampant Growth
+Rampant Growth (Prepared)
 Rampant Rejuvenator
 Rampant, Growth
 Rampart Architect
@@ -23118,6 +23123,7 @@ Realms Uncharted
 Realmwalker
 Realmwright
 Reanimate
+Reanimate (Prepared)
 Reap
 Reap Intellect
 Reap What Is Sown
@@ -23469,6 +23475,7 @@ Repentant Blacksmith
 Repentant Vampire
 Repercussion
 Replenish
+Replenish (Prepared)
 Replicate
 Replicating Ring
 Replicating Terror
@@ -25343,6 +25350,7 @@ Secret Identity
 Secret Passage
 Secret Plans
 Secret Rendezvous
+Secret Rendezvous (Prepared)
 Secret Salvage
 Secret Summoning
 Secret Tunnel
@@ -33450,6 +33458,7 @@ What's Yours Is Now Mine
 Wheel and Deal
 Wheel of Fate
 Wheel of Fortune
+Wheel of Fortune (Prepared)
 Wheel of Misfortune
 Wheel of Potential
 Wheel of Sun and Moon
