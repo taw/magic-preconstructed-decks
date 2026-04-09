@@ -3,7 +3,7 @@
 // DATE: 2026-04-24
 COMMANDER: 1 Killian, Decisive Mentor [foil]
 1 Scriv, the Obligator [foil]
-1 Eiganjo Dynastorian [SOC:13]
+1 Eiganjo Dynastorian [SOC:13a]
 1 Forum Filibuster
 1 Herald of Amity
 1 Changing Loyalty

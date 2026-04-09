@@ -60,7 +60,7 @@ COMMANDER: 1 Quintorius, History Chaser [foil]
 1 Command Tower
 1 Primary Research [SOS:26]
 1 Seize the Spoils [SOS:129]
-1 Kirol, History Buff [SOS:198]
+1 Kirol, History Buff [SOS:198a]
 1 Lorehold Charm [SOS:200]
 1 Fields of Strife [SOS:255]
 1 Terramorphic Expanse [SOS:265]
