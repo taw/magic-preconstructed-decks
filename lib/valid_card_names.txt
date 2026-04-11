@@ -1,10 +1,9 @@
 "Ach! Hans, Run!"
-"April Fools!"
 "Brims" Barone, Midway Mobster
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
-"The Very Hungry Archaic"
+"Wildest Tea Party 4565 AR"
 +2 Mace
 17-Year Cicadas
 1996 World Champion
@@ -215,7 +214,6 @@ Adanto Vanguard
 Adanto, the First Fort
 Adaptive Armorer
 Adaptive Automaton
-Adaptive Evolution
 Adaptive Gemguard
 Adaptive Omnitool
 Adaptive Shimmerer
@@ -228,6 +226,7 @@ Adarkar Valkyrie
 Adarkar Wastes
 Adarkar Windform
 Adder-Staff Boggart
+Additive Evolution
 Addle
 Adelbert Steiner
 Adeline, Resplendent Cathar
@@ -2651,6 +2650,7 @@ Bind
 Bind (CMB1)
 Bind Spirit
 Bind the Monster
+Bind to Life
 Bind to Secrecy
 Binding Agony
 Binding Geist
@@ -2836,6 +2836,7 @@ Blazing Torch
 Blazing Volley
 Bleachbone Verge
 Bleak Coven Vampires
+Blech, Loafing Pest
 Bleed Dry
 Bleeding Edge
 Bleeding Effect
@@ -4405,6 +4406,7 @@ Cauldron Dance
 Cauldron Familiar
 Cauldron Familiar (Alchemy)
 Cauldron Haze
+Cauldron of Essence
 Cauldron of Souls
 Cauldron's Gift
 Caustic Bronco
@@ -6842,6 +6844,7 @@ Deconstruction Hammer
 Decorated Champion
 Decorated Griffin
 Decorated Knight
+Decorum Dissertation
 Decoy Gambit
 Decree of Annihilation
 Decree of Justice
@@ -7328,6 +7331,7 @@ Dimir Signet
 Dimir Spybug
 Dimir Strandcatcher
 Din of the Fireherd
+Dina's Guidance
 Dina, Essence Brewer
 Dina, Soul Steeper
 Dingus Egg
@@ -7486,6 +7490,7 @@ Disruptor Flute
 Disruptor Wanderglyph
 Disruptor of Currents
 Dissatisfied Customer
+Dissection Practice
 Dissection Tools
 Dissension in the Ranks
 Dissenter's Deliverance
@@ -8297,6 +8302,7 @@ Eager Cadet
 Eager Construct
 Eager First-Year
 Eager Flameguide
+Eager Glyphmage
 Eager Trufflesnout
 Eagle Vision
 Eagle of Deliverance
@@ -8446,6 +8452,7 @@ Eerie Soultender
 Eerie Ultimatum
 Efficient Construction
 Effie, Fast Learner
+Efflorescence
 Effluence Devourer
 Effortless Master
 Efreet Flamepainter
@@ -8791,6 +8798,7 @@ Emeria, the Sky Ruin
 Emeritus of Abundance
 Emeritus of Conflict
 Emeritus of Ideation
+Emeritus of Truce
 Emet-Selch of the Third Seat
 Emet-Selch, Unsundered
 Emiel the Blessed
@@ -8859,6 +8867,7 @@ Encroaching Wastes
 Encrust
 Encumbered Reejerey
 End Hostilities
+End of the Hunt
 End the Festivities
 End-Blaze Epiphany
 End-Raze Forerunners
@@ -8943,6 +8952,7 @@ Enlightened Maniac
 Enlightened Tutor
 Enlisted Wurm
 Enlistment Officer
+Ennis, Debate Moderator
 Enolc, Perfect Clone
 Enormous Baloth
 Enormous Energy Blade
@@ -9183,6 +9193,7 @@ Eternal Flame
 Eternal Isolation
 Eternal Scourge
 Eternal Skylord
+Eternal Student
 Eternal Taskmaster
 Eternal Thirst
 Eternal Warrior
@@ -10254,6 +10265,7 @@ Five Hundred Year Diary
 Five Kids in a Trenchcoat
 Five-Alarm Fire
 Five-Finger Discount
+Fix What's Broken
 Fixed Point in Time
 Flaccify
 Flagstones of Trokair
@@ -10569,6 +10581,7 @@ Food Coma
 Food Fight
 Fool's Demise
 Fool's Tome
+Foolish Fate
 Foot Chopper
 Foot Elite
 Foot Headquarters
@@ -11378,6 +11391,7 @@ Geralf's Mindcrusher
 Geralf, Visionary Stitcher
 Geralf, the Fleshwright
 Germinating Wurm
+Germination Practicum
 Gerrard
 Gerrard Capashen
 Gerrard and Hanna
@@ -13103,6 +13117,7 @@ Harrier Strix
 Harrow
 Harrowing Journey
 Harrowing Swarm
+Harsh Annotation
 Harsh Deceiver
 Harsh Judgment
 Harsh Justice
@@ -14547,6 +14562,7 @@ Inflame
 Inflation Station
 Information Booth
 Information Dealer
+Informed Inkwright
 Infuriate
 Infuse
 Infuse with Vitality
@@ -14584,6 +14600,7 @@ Inkling Mascot
 Inkling Summoning
 Inkmoth Nexus
 Inkrise Infiltrator
+Inkshape Demonstrator
 Inkshield
 Inkwell Leviathan
 Inner Calm, Outer Strength
@@ -15839,6 +15856,7 @@ Killer Instinct
 Killer Service
 Killer Whale
 Killer's Mask
+Killian's Confidence
 Killian, Decisive Mentor
 Killian, Ink Duelist
 Killing Glare
@@ -17538,6 +17556,7 @@ Magma Rift
 Magma Sliver
 Magma Spray
 Magma Vein
+Magmablood Archaic
 Magmakin Artillerist
 Magmaquake
 Magmaroth
@@ -18922,6 +18941,7 @@ Molting Snakeskin
 Moment of Craving
 Moment of Defiance
 Moment of Heroism
+Moment of Reckoning
 Moment of Silence
 Moment of Triumph
 Moment of Truth
@@ -20012,6 +20032,7 @@ Nissa, Voice of Zendikar
 Nissa, Who Shakes the World
 Nissa, Worldsoul Speaker
 Nissa, Worldwaker
+Nita, Forum Conciliator
 Niv-Mizzet Reborn
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, Guildpact
@@ -21364,6 +21385,7 @@ Petradon
 Petrahydrox
 Petravark
 Petrified Field
+Petrified Hamlet
 Petrified Plating
 Petrified Wood-Kin
 Petrify
@@ -21825,6 +21847,7 @@ Poison the Well
 Poison-Blade Mentor
 Poison-Tip Archer
 Poisonbelly Ogre
+Poisoner's Apprentice
 Pokey, the Scallywagg
 Pol Jamaar, Illusionist
 Polar Kraken
@@ -21906,6 +21929,7 @@ Possession Engine
 Possibility Storm
 Possibility Technician
 Postmortem Lunge
+Postmortem Professor
 Potatoes
 Pothole Mole
 Potion of Healing
@@ -21945,6 +21969,7 @@ Powerstone Fracture
 Powerstone Minefield
 Powerstone Shard
 Pox
+Pox Plague
 Poxwalkers
 Practical Research
 Practiced Offense
@@ -22624,6 +22649,7 @@ Quiet Disrepair
 Quiet Purity
 Quiet Speculation
 Quietus Spike
+Quill-Blade Laureate
 Quill-Slinger Boggart
 Quilled Charger
 Quilled Greatwurm
@@ -22981,6 +23007,7 @@ Rapid Decay
 Rapid Fire
 Rapid Hybridization
 Rapid Prototyper
+Rapier Wit
 Rappelling Scouts
 Raptor Companion
 Raptor Hatchling
@@ -25094,6 +25121,7 @@ Sceptre of Eternal Glory
 Schema Thief
 Scheming Aspirant
 Scheming Fence
+Scheming Silvertongue
 Scheming Symmetry
 Schismotivate
 Scholar of Athreos
@@ -25122,6 +25150,7 @@ Scion of the Swarm
 Scion of the Ur-Dragon
 Scion of the Wild
 Scissors Lizard
+Scolding Administrator
 Scooch
 Scorch Rider
 Scorch Spitter
@@ -26300,6 +26329,7 @@ Sigiled Skink
 Sigiled Starfish
 Sigiled Sword of Valeron
 Sign in Blood
+Sign in Blood (Prepared)
 Signal Pest
 Signal the Clans
 Signaling Roar
@@ -27018,6 +27048,7 @@ Sneaky Homunculus
 Sneaky Snacker
 Snickering Squirrel
 Snooping Newsie
+Snooping Page
 Snort
 Snorting Gahr
 Snow Day
@@ -28225,6 +28256,8 @@ Stir the Sands
 Stirge
 Stirring Address
 Stirring Bard
+Stirring Honormancer
+Stirring Hopesinger
 Stirring Wildwood
 Stitch Together
 Stitch in Time
@@ -28490,6 +28523,7 @@ Striped Riverwinder
 Strix Lookout
 Strix Serenade
 Strixhaven
+Strixhaven Skycoach
 Strixhaven Stadium
 Stroke of Genius
 Stroke of Luck
@@ -28725,6 +28759,7 @@ Sunder Shaman
 Sunder from Within
 Sunder the Gateway
 Sunderflock
+Sundering Archaic
 Sundering Eruption
 Sundering Fork
 Sundering Growth
@@ -29030,6 +29065,7 @@ Sword of the Squeak
 Sword-Point Diplomacy
 Sword-Swallowing Seraph
 Swords to Plowshares
+Swords to Plowshares (Prepared)
 Swordsworn Cavalier
 Swordwise Centaur
 Sworn Companions
@@ -31104,6 +31140,7 @@ Tradewind Rider
 Tradewind Rider Avatar
 Trading Post
 Tragda, the Burner
+Tragedy Feaster
 Tragic Arrogance
 Tragic Banshee
 Tragic Fall
@@ -31599,6 +31636,7 @@ Two-Headed Hellkite
 Two-Headed Hunter
 Two-Headed Sliver
 Two-Headed Zombie
+Twofold Intent
 Ty Lee, Artful Acrobat
 Ty Lee, Chi Blocker
 Tymaret Calls the Dead
@@ -32275,6 +32313,7 @@ Varragoth, Bloodsky Sire
 Vashta Nerada
 Vassal Soul
 Vassal's Duty
+Vastlands Scavenger
 Vastwood Animist
 Vastwood Fortification
 Vastwood Gorger
@@ -32581,6 +32620,7 @@ Vicious Conquistador
 Vicious Hunger
 Vicious Kavu
 Vicious Offering
+Vicious Rivalry
 Vicious Rumors
 Vicious Shadows
 Viconia, Disciple of Arcana
@@ -33721,6 +33761,7 @@ Wildfire Eternal
 Wildfire Howl
 Wildfire Wickerfolk
 Wildgrove Summoner
+Wildgrowth Archaic
 Wildgrowth Walker
 Wildheart Invoker
 Wildsear, Scouring Maw
