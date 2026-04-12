@@ -17,7 +17,7 @@
 3 Foolish Fate
 4 Hinterland Sanctifier
 4 Scoured Barrens
-9 Plains
-8 Swamp
+9 Plains [SOS:*]
+8 Swamp [SOS:*]
 
 Sideboard

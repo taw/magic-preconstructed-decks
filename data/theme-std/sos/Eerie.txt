@@ -17,7 +17,7 @@
 4 Optimistic Scavenger
 3 Shardmage's Rescue
 4 Tranquil Cove
-9 Plains
-7 Island
+9 Plains [SOS:*]
+7 Island [SOS:*]
 
 Sideboard
