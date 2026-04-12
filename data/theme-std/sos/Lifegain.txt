@@ -1,6 +1,6 @@
 // NAME: Lifegain
 // SOURCE: https://magic.wizards.com/en/news/feature/secrets-of-strixhaven-60-card-theme-deck-contents-and-guide
-// DATE: 2026-01-23
+// DATE: 2026-04-24
 3 Zoraline, Cosmos Caller
 3 Essence Channeler
 3 Amalia Benavides Aguirre

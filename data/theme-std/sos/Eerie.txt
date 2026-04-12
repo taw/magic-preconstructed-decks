@@ -1,6 +1,6 @@
 // NAME: Eerie
 // SOURCE: https://magic.wizards.com/en/news/feature/secrets-of-strixhaven-60-card-theme-deck-contents-and-guide
-// DATE: 2026-01-23
+// DATE: 2026-04-24
 2 Angelic Destiny
 3 Entity Tracker
 2 Silent Hallcreeper
