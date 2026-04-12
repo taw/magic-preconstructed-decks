@@ -1,0 +1,23 @@
+// NAME: Lifegain
+// SOURCE: https://magic.wizards.com/en/news/feature/secrets-of-strixhaven-60-card-theme-deck-contents-and-guide
+// DATE: 2026-01-23
+3 Zoraline, Cosmos Caller
+3 Essence Channeler
+3 Amalia Benavides Aguirre
+3 Case of the Uneaten Feast
+2 Haliya, Guided by Light
+2 Temple of Silence
+4 Deep-Cavern Bat
+2 Nowhere to Run
+2 Fiendish Panda
+3 Starscape Cleric
+2 Requiting Hex
+1 Mudflat Village
+2 Silverquill Charm
+3 Foolish Fate
+4 Hinterland Sanctifier
+4 Scoured Barrens
+9 Plains
+8 Swamp
+
+Sideboard
