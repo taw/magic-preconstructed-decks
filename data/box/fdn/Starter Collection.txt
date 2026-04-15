@@ -1,7 +1,7 @@
 // NAME: Starter Collection
 // SOURCE: https://magic.wizards.com/en/news/announcements/foundations-starter-collection-contents
 // DATE: 2024-11-15
-1 Lyra Dawnbringer [foil]
+1 Lyra Dawnbringer [foil] [FDN:707]
 1 Angel of Vitality [foil]
 1 Make a Stand [foil]
 1 Ajani's Pridemate
@@ -10,7 +10,7 @@
 1 Charming Prince
 1 Felidar Retreat
 1 Fumigate
-1 Linden, the Steadfast Queen
+1 Linden, the Steadfast Queen [FDN:577]
 1 Mentor of the Meek
 1 Regal Caracal
 1 Zetalpa, Primal Dawn
@@ -22,10 +22,10 @@
 1 Resolute Reinforcements
 1 Savannah Lions
 1 Stroke of Midnight
-1 Inspiring Overseer
+1 Inspiring Overseer [FDN:496]
 1 Archway Angel
 1 Ballyrush Banneret
-1 Crusader of Odric
+1 Crusader of Odric [FDN:569]
 1 Dawnwing Marshal
 1 Devout Decree
 1 Disenchant
@@ -98,15 +98,15 @@
 1 Consuming Aberration
 1 Gigantosaurus [FDN:718] [foil]
 2 Imperious Perfect [foil]
-1 Pelakka Wurm [foil]
+1 Pelakka Wurm [foil] [FDN:720]
 1 Reclamation Sage [FDN:340]
 1 Heroes' Bane
 1 Predator Ooze
-1 Primal Might
+1 Primal Might [FDN:643]
 1 Primeval Bounty
 1 Rampaging Baloths
-1 Surrak, the Hunt Caller
-1 Vizier of the Menagerie
+1 Surrak, the Hunt Caller [FDN:647]
+1 Vizier of the Menagerie [FDN:649]
 1 Wildborn Preserver
 1 Elvish Regrower
 1 Quakestrider Ceratops
@@ -127,7 +127,7 @@
 1 Gnarlback Rhino
 1 Mold Adder
 1 Ordeal of Nylea
-1 Springbloom Druid
+1 Springbloom Druid [FDN:646]
 1 Venom Connoisseur
 1 Adaptive Automaton [foil]
 1 Gilded Lotus [foil]
@@ -169,7 +169,7 @@
 2 Thornwood Falls
 2 Tranquil Cove
 2 Wind-Scarred Crag
-1 Diamond Mare
+1 Diamond Mare [FDN:672]
 1 Feldon's Cane
 1 Fireshrieker
 1 Gate Colossus
@@ -178,7 +178,7 @@
 1 Three Tree Mascot
 1 Azorius Guildgate
 1 Boros Guildgate
-1 Cryptic Caves
+1 Cryptic Caves [FDN:686]
 1 Demolition Field
 1 Dimir Guildgate
 1 Golgari Guildgate
@@ -195,13 +195,13 @@
 1 Confiscate [foil]
 1 Negate [foil]
 1 Refute [FDN:313]
-1 Arcanis the Omnipotent
+1 Arcanis the Omnipotent [FDN:585]
 1 Dictate of Kruphix
 1 Finale of Revelation
 1 Harbinger of the Tides
 1 River's Rebuke
-1 Sphinx of the Final Word
-1 Tempest Djinn
+1 Sphinx of the Final Word [FDN:597]
+1 Tempest Djinn [FDN:598]
 1 Voracious Greatshark
 1 Clinquant Skymage
 1 Faebloom Trick
@@ -209,8 +209,8 @@
 2 Brineborn Cutthroat
 1 Essence Scatter
 1 Micromancer
-1 Mocking Sprite
-2 Spectral Sailor
+1 Mocking Sprite [FDN:159]
+2 Spectral Sailor [FDN:164]
 2 Think Twice
 1 Tolarian Terror
 1 Witness Protection
@@ -223,16 +223,16 @@
 1 Gateway Sneak
 1 Mystical Teachings
 1 Shipwreck Dowser
-1 Unsummon
-1 Massacre Wurm [foil]
+1 Unsummon [FDN:599]
+1 Massacre Wurm [foil] [FDN:714]
 1 Feed the Swarm [foil]
-1 Gatekeeper of Malakir [foil]
+1 Gatekeeper of Malakir [foil] [FDN:713]
 1 Vengeful Bloodwitch [FDN:325]
 3 Vengeful Bloodwitch
 1 Demonic Pact
 1 Desecration Demon
 1 Dread Summons
-1 Kalastria Highborn
+1 Kalastria Highborn [FDN:607]
 1 Midnight Reaper
 1 Myojin of Night's Reach
 1 Nullpriest of Oblivion
@@ -245,7 +245,7 @@
 2 Hero's Downfall
 1 Marauding Blight-Priest
 1 Stromkirk Bloodthief
-1 Vampire Nighthawk
+1 Vampire Nighthawk [FDN:186]
 1 Zombify
 1 Moment of Craving
 1 Suspicious Shambler
@@ -254,7 +254,7 @@
 1 Driver of the Dead
 1 Duress
 1 Knight of Malice
-1 Pulse Tracker
+1 Pulse Tracker [FDN:612]
 1 Sanguine Indulgence
 1 Tribute to Hunger
 1 Vampiric Rites
