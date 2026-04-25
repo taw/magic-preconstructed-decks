@@ -711,7 +711,6 @@ Alpine Moon
 Alpine Watchdog
 Alquist Proft, Master Sleuth
 Alrund's Epiphany
-Alrund's Epiphany (Alchemy)
 Alrund, God of the Cosmos
 Alrund, God of the Cosmos (Alchemy)
 Alseid of Life's Bounty
@@ -20578,7 +20577,6 @@ Ominous Sphinx
 Ominous Traveler
 Omnath, Locus of All
 Omnath, Locus of Creation
-Omnath, Locus of Creation (Alchemy)
 Omnath, Locus of Mana
 Omnath, Locus of Rage
 Omnath, Locus of the Roil
@@ -32003,7 +32001,6 @@ Unholy Citadel
 Unholy Fiend
 Unholy Grotto
 Unholy Heat
-Unholy Heat (Alchemy)
 Unholy Hunger
 Unholy Indenture
 Unholy Officiant
