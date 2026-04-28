@@ -1,0 +1,8 @@
+// NAME: My Little Pony: The Lands of Equestria Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250420
+// DATE: 2026-05-12
+2 [SLD:2540] Plains [foil]
+2 [SLD:2541] Island [foil]
+2 [SLD:2542] Swamp [foil]
+2 [SLD:2543] Mountain [foil]
+2 [SLD:2544] Forest [foil]

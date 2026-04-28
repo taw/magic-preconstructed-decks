@@ -1,0 +1,8 @@
+// NAME: Return to Mystical Archive
+// SOURCE: https://secretlair.wizards.com/us/product/1250415
+// DATE: 2026-05-12
+1 [SLD:2387] Duty Beyond Death
+1 [SLD:2388] Spell Pierce
+1 [SLD:2389] Zombify
+1 [SLD:2390] Abrade
+1 [SLD:2391] Shared Roots
