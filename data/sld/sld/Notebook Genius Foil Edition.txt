@@ -1,0 +1,7 @@
+// NAME: Notebook Genius Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250412
+// DATE: 2026-05-12
+1 [SLD:2350] Lier, Disciple of the Drowned [foil]
+1 [SLD:2351] Bloodghast [foil]
+1 [SLD:2352] Storm-Kiln Artist [foil]
+1 [SLD:2353] Anhelo, the Painter [foil]

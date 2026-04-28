@@ -1,0 +1,8 @@
+// NAME: Mahō Gakuin Seishun Hakusho — 魔法学院青春白書 Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250410
+// DATE: 2026-05-12
+1 [SLD:2478] Rule of Law [foil]
+1 [SLD:2479] Thought Scour [foil]
+1 [SLD:2480] Time Stretch [foil]
+1 [SLD:2481] Stinging Study [foil]
+1 [SLD:2482] Notion Thief [foil]

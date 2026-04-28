@@ -1,0 +1,8 @@
+// NAME: Return to Mystical Archive Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1250414
+// DATE: 2026-05-12
+1 [SLD:2387] Duty Beyond Death [foil]
+1 [SLD:2388] Spell Pierce [foil]
+1 [SLD:2389] Zombify [foil]
+1 [SLD:2390] Abrade [foil]
+1 [SLD:2391] Shared Roots [foil]
