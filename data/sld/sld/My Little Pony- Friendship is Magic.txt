@@ -1,0 +1,9 @@
+// NAME: My Little Pony: Friendship is Magic
+// SOURCE: https://secretlair.wizards.com/us/product/1250419
+// DATE: 2026-05-12
+1 [SLD:2534] Generous Gift
+1 [SLD:2535] Reconnaissance Mission
+1 [SLD:2536] Radiate
+1 [SLD:2537] Defense of the Heart
+1 [SLD:2538] Arcane Signet
+1 [SLD:2539] Sol Ring

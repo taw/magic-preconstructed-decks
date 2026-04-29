@@ -1,0 +1,8 @@
+// NAME: The Eyes Have It Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1245627
+// DATE: 2026-05-12
+1 [SLD:2066] Counterbalance [foil]
+1 [SLD:2067] Gitaxian Probe [foil]
+1 [SLD:2068] Opt [foil]
+1 [SLD:2069] Otherworldly Gaze [foil]
+1 [SLD:2070] Baleful Strix [foil]

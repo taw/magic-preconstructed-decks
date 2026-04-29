@@ -1,0 +1,8 @@
+// NAME: Omens of Chaos
+// SOURCE: https://secretlair.wizards.com/us/product/1250294
+// DATE: 2026-05-12
+1 [SLD] Batwing Brune
+1 [SLD:2468] Abrupt Decay
+1 [SLD:2470] Chance for Glory
+1 [SLD:2471] Counterflux
+1 [SLD:2472] Growth Spiral
