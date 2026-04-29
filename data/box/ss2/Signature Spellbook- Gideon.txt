@@ -1,4 +1,4 @@
-// NAME: Signature Spellbook Gideon
+// NAME: Signature Spellbook: Gideon
 // SOURCE: https://mtg.wiki/wiki/Signature_Spellbook:_Gideon
 // DATE: 2019-06-28
 // DISPLAY: Also contains 1 foil version of any card

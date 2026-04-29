@@ -565,6 +565,7 @@ MagicSets = {
   "psoi" => "Shadows over Innistrad Promos",
   "psok" => "Saviors of Kamigawa Promos",
   "psom" => "Scars of Mirrodin Promos",
+  "psos" => "Secrets of Strixhaven Promos",
   "pspl" => "Spotlight Series",
   "pspm" => "Marvel's Spider-Man Promos",
   "pss1" => "BFZ Standard Series",

@@ -1,4 +1,4 @@
-// NAME: Signature Spellbook Chandra
+// NAME: Signature Spellbook: Chandra
 // SOURCE: https://mtg.wiki/wiki/Signature_Spellbook:_Chandra
 // DATE: 2020-06-26
 // DISPLAY: Also contains 1 foil version of any card
