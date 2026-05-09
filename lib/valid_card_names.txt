@@ -6,6 +6,8 @@
 +2 Mace
 17-Year Cicadas
 1996 World Champion
+A Chaotic Night in Vegas
+A Container of Booster Packs
 A Display of My Dark Power
 A Girl and Her Dogs
 A Golden Opportunity
@@ -672,6 +674,7 @@ Allosaurus Shepherd
 Alloy Animist
 Alloy Golem
 Alloy Myr
+Allure of Power
 Allure of the Unknown
 Alluring Scent
 Alluring Siren
@@ -814,6 +817,7 @@ Amzu, Swarm's Hunger
 An Incident Has Occurred
 An Offer You Can't Refuse
 An Unearthly Child
+An Unexpected Party
 An-Havva Constable
 An-Havva Inn
 An-Havva Township
@@ -845,6 +849,7 @@ Ancestor's Prophet
 Ancestors' Aid
 Ancestral Anger
 Ancestral Blade
+Ancestral Craving
 Ancestral Hot Dog Minotaur
 Ancestral Katana
 Ancestral Katana (Alchemy)
@@ -1506,6 +1511,7 @@ Artisan of Forms
 Artisan of Kozilek
 Artisan's Sorrow
 Artist Alley
+Artist Alley (Plane)
 Artist's Talent
 Artistic Process
 Artistic Refusal
@@ -1661,6 +1667,7 @@ Aswan Jaguar
 Asylum Visitor
 At Knifepoint
 At Least It's a Dry Heat
+At the Door
 Atalan Jackal
 Atalya, Samite Master
 Atarka Beastbreaker
@@ -1728,6 +1735,7 @@ Augury Raven
 Augusta, Dean of Order
 Augusta, Order Returned
 Aunt May
+Auntie Ant, Ant Auntie
 Auntie Blyte, Bad Influence
 Auntie Flint
 Auntie Ool, Cursewretch
@@ -2641,7 +2649,9 @@ Bigger on the Inside
 Bighorner Rancher
 Bilbo's Ring
 Bilbo, Birthday Celebrant
+Bilbo, Luckwearer
 Bilbo, Retired Burglar
+Bilbo, Thief in the Night
 Bile Blight
 Bile Urchin
 Bile-Vial Boggart
@@ -2651,6 +2661,7 @@ Bill Potts
 Bill the Pony
 Billiard Room
 Billowing Shriekmass
+Bin Chicken
 Bind
 Bind (CMB1)
 Bind Spirit
@@ -2847,6 +2858,7 @@ Bleed Dry
 Bleeding Edge
 Bleeding Effect
 Bleeding Woods
+Blended Twistling
 Blessed Alliance
 Blessed Breath
 Blessed Defiance
@@ -3068,6 +3080,7 @@ Bloodline Culling
 Bloodline Keeper
 Bloodline Necromancer
 Bloodline Pretender
+Bloodline Recollector
 Bloodline Shaman
 Bloodlord of Vaasgoth
 Bloodlust Inciter
@@ -3867,6 +3880,7 @@ Bureau Headmaster
 Bureaucracy
 Burgeoning
 Burglar Rat
+Burglar's Plot
 Buried Alive
 Buried Ogre
 Buried Ruin
@@ -4671,6 +4685,7 @@ Chandra's Triumph
 Chandra, Acolyte of Flame
 Chandra, Awakened Inferno
 Chandra, Bold Pyromancer
+Chandra, Chill of Compliance
 Chandra, Dressed to Kill
 Chandra, Fire Artisan
 Chandra, Fire of Kaladesh
@@ -5365,6 +5380,7 @@ Collision of Realms
 Colonel Autumn
 Color Pie
 Colorful Feiyi Sparrow
+Colorless Ultimatum
 Colorstorm Stallion
 Colos Yearling
 Colossadactyl
@@ -6043,6 +6059,7 @@ Crosswinds
 Crovax
 Crovax the Cursed
 Crovax, Ascendant Hero
+Crow Scarer
 Crow Storm
 Crow of Dark Tidings
 Crowd Favorites
@@ -8064,6 +8081,7 @@ Dronepack Kindred
 Droning Bureaucrats
 Drooling Groodion
 Drooling Ogre
+Drop Bear
 Drop Tower
 Drop of Honey
 Dropkick Bomber
@@ -9305,6 +9323,7 @@ Every Dream a Nightmare
 Every Hope Shall Vanish
 Every Last Vestige Shall Rot
 Everybody Lives!
+Everyone's an Imposter
 Everything Comes to Dust
 Everything Pizza
 Everythingamajig (a)
@@ -9340,6 +9359,7 @@ Evolving Adaptive
 Evolving Door
 Evolving Wilds
 Evra, Halcyon Witness
+Evy, Fang Keeper
 Exalted Angel
 Exalted Dragon
 Exalted Flamer of Tzeentch
@@ -9835,6 +9855,7 @@ Fblthp, the Lost
 Fblthp: Completely, Utterly, Totally Lost
 Fealty to the Realm
 Fear
+Fear (Not the Alpha One)
 Fear My Authority
 Fear of Abduction
 Fear of Being Hunted
@@ -16464,6 +16485,7 @@ Land Cap
 Land Equilibrium
 Land Grant
 Land Leeches
+Land Station
 Land Tax
 Land's Edge
 Landbind Ritual
@@ -17119,6 +17141,7 @@ Loamcrafter Faun
 Loamdragger Giant
 Loaming Shaman
 Loan Shark
+Loathing
 Loathsome Catoblepas
 Loathsome Chimera
 Loathsome Curator
@@ -17353,6 +17376,7 @@ Lucius the Eternal
 Luck Bobblehead
 Lucky Clover
 Lucky Offering
+Lucky the Pizza Dog
 Lucy MacLean, Positively Armed
 Ludevic's Abomination
 Ludevic's Test Subject
@@ -19263,6 +19287,7 @@ Mox Tantalite
 Moxite Refinery
 Mr. Foxglove
 Mr. House, President and CEO
+Mr. Monopoly, On the Go
 Mr. Orfeo, the Boulder
 Mr. Orfeo, the Boulder (Alchemy)
 Mr. Wiggles, Helpful Butterfly
@@ -19392,6 +19417,7 @@ My Followers Ascend
 My Forces Are Innumerable
 My Genius Knows No Bounds
 My Laughter Echoes
+My Precious
 My Tendrils Run Deep
 My Undead Horde Awakens
 My Wealth Will Bury You
@@ -19538,6 +19564,7 @@ Naga Oracle
 Naga Vitalist
 Nagao, Bound by Honor
 Nagging Thoughts
+Nah Yeah
 Nahiri's Binding
 Nahiri's Lithoforming
 Nahiri's Machinations
@@ -20409,6 +20436,7 @@ Obyra, Dreaming Duelist
 Obzedat's Aid
 Obzedat, Ghost Council
 Occult Epiphany
+Occupation of Kulrath
 Occupation of Llanowar
 Oceanus Dragon
 Ocelot Pride
@@ -23091,6 +23119,7 @@ Rat King, Pale Piper
 Rat King, Verminister
 Rat Out
 Rat in the Hat
+Rat of God
 Ratadrabik of Urborg
 Ratatwotwo
 Ratcatcher
@@ -23909,6 +23938,7 @@ Riddle of Lightning
 Riddleform
 Riddlekeeper
 Riddlemaster Sphinx
+Riddles in the Dark
 Riddlesmith
 Ride Down
 Ride Guide
@@ -25558,6 +25588,7 @@ Seek Bolas's Counsel
 Seek New Knowledge
 Seek Thrills
 Seek the Beast
+Seek the Heart
 Seek the Horizon
 Seek the Wilds
 Seeker
@@ -27030,6 +27061,7 @@ Smash
 Smash to Dust
 Smash to Smithereens
 Smashing Success
+Smaug the Magnificent
 Smell Fear
 Smellerbee, Rebel Fighter
 Smelt
@@ -27475,6 +27507,7 @@ Spara's Adjudicators
 Spara's Adjudicators (Alchemy)
 Spara's Bodyguard
 Spara's Headquarters
+Spare Changeling
 Spare Dagger
 Spare Supplies
 Spare from Evil
@@ -28309,6 +28342,7 @@ Stimulus Package (Alchemy)
 Sting, the Glinting Dagger
 Sting-Slinger
 Stingblade Assassin
+Stingcaster Mage
 Stingerback Terror
 Stingerfling Spider
 Stinging Barrier
@@ -29942,6 +29976,7 @@ The Aether Flues
 The Aetherspark
 The Akroan War
 The Alright Henge
+The Ancient Dingus
 The Ancient One
 The Animus
 The Antiquities War
@@ -29949,6 +29984,7 @@ The Apprentice's Folly
 The Archenemy's Charm
 The Archimandrite
 The Argent Etchings
+The Arkenstone
 The Art of Tea
 The Ash Lizard
 The Asker of More Mana
@@ -29964,6 +30000,7 @@ The Beamtown Bullies
 The Bean
 The Bear Force Pilot
 The Bear Force Pilot Runner
+The Bearded Teakeeper
 The Bears of Littjara
 The Beast, Deathless Prince
 The Beleaguered Boxer
@@ -29973,6 +30010,7 @@ The Biblioplex
 The Big Idea
 The Big Top
 The Binding of the Titans
+The Bird Champion
 The Birth of Meletis
 The Black Breath
 The Black Gate
@@ -29983,6 +30021,7 @@ The Book of Exalted Deeds
 The Book of Vile Darkness
 The Boulder, Ready to Rumble
 The Brewing Chef
+The Bringer of the Red Beard
 The Broken Sky
 The Brothers' War
 The Brute
@@ -30019,6 +30058,7 @@ The Companion of the Wilds
 The Conundrum of Bowls
 The Convention Enthusiast
 The Convincing General
+The Cookout Creator
 The Core
 The Cosplayzer
 The Council of Four
@@ -30106,6 +30146,7 @@ The First Sliver
 The First Tyrannic War
 The Fish Brewer
 The Five Doctors
+The Five Stages of Grief
 The Flame of Keld
 The Flesh Is Weak
 The Flood of Mars
@@ -30124,10 +30165,13 @@ The Ghoul, Gunslinger
 The Girl in the Fireplace
 The Gitrog Monster
 The Gitrog, Ravenous Ride
+The Goblin Mastermind
+The Goblin Sparring Grounds
 The Gold Saucer
 The Golden City of Orazca
 The Golden Throne
 The Golden-Gear Colossus
+The Good Gamers
 The Good Time Sleuth
 The Goose Mother
 The Grand Calcutron
@@ -30160,6 +30204,7 @@ The Hunger Tide Rises
 The Hunter
 The Hunter Maze
 The Huntsman's Redemption
+The Ice Dancer
 The Immortal Sun
 The Incredible Hulk
 The Indomitable
@@ -30174,6 +30219,7 @@ The Judge of Height
 The Juzam Master
 The Kami Knight
 The Kami War
+The Karfell Rocker
 The Karst, Enchanted
 The Keeper of Dark Pacts
 The Keeper of Favorite Cards
@@ -30232,6 +30278,7 @@ The Mighty Will Fall
 The Millennium Calendar
 The Milling Runner
 The Mimeoplasm
+The Mind Stone
 The Mindskinner
 The Miniaturizer
 The Mirari Conjecture
@@ -30271,6 +30318,7 @@ The Phasing of Zhalfir
 The Philosopher
 The Pieces Are Coming Together
 The Pit
+The Playful Winners
 The Pleasant Taxer
 The Policy Maker
 The Powerful Dragon
@@ -30307,6 +30355,8 @@ The Roaring Toeclaws
 The Rollercrusher Ride
 The Royal Scions
 The Ruinous Powers
+The Sad Creaturez
+The Salubrious Philosopher
 The Savant
 The Scarab God
 The Scholar of Seas
@@ -30339,6 +30389,7 @@ The Spot, Living Portal
 The Sprinkler of Stardust
 The Stasis Coffin
 The Stone Brain
+The Strixhaven-Lorwyn Rover
 The Superlatorium (a)
 The Superlatorium (b)
 The Superlatorium (c)
@@ -30372,6 +30423,7 @@ The Tyrant
 The Ultimate Nightmare of Wizards of the Coast® Customer Service
 The Unagi of Kyoshi Island
 The Underworld Cookbook
+The Underworld Fantasy Queen
 The Unknown Wizard
 The Unspeakable
 The Ur-Dragon
@@ -30381,6 +30433,7 @@ The Vanquisher
 The Vast Scrier
 The Vegetable Car
 The Very Soil Shall Shake
+The Vision
 The Waffle Restaurant
 The Walls of Ba Sing Se
 The Wanderer
@@ -30401,6 +30454,7 @@ The Wedding of River Song
 The Weekly Princess
 The Western Cloud
 The Wheeling Runner
+The Whiteboarder
 The Wilds
 The Wiley Speedster
 The Wind Crystal
@@ -30408,6 +30462,7 @@ The Windy City
 The Wise Mothman
 The Wise Sable
 The Witch's Vanity
+The Wizardly Barge
 The World Spell
 The World Tree
 The Wretched
@@ -30503,6 +30558,7 @@ Thopter Pie Network
 Thopter Shop
 Thopter Spy Network
 Thopter Squadron
+Thorin, Mountain-king
 Thorn Elemental
 Thorn Lieutenant
 Thorn Mammoth
@@ -30916,6 +30972,7 @@ Tin-Wing Chimera
 Tinder Farm
 Tinder Wall
 Tine Shrike
+Tinfoil Helm
 Tinker
 Tinker's Tote
 Tinybones Joins Up
@@ -31014,6 +31071,7 @@ Tolsimir, Friend to Wolves
 Tolsimir, Midnight's Light
 Toluz, Clever Conductor
 Tom Bombadil
+Tom, Bert, and William
 Tomakul Honor Guard
 Tomakul Phoenix
 Tomakul Scrapsmith
@@ -31774,6 +31832,7 @@ Ugin, Eye of the Storms
 Ugin, the Ineffable
 Ugin, the Spirit Dragon
 Uglúk of the White Hand
+Uh, Squen & Cragg Made a Card
 Ukkima, Stalking Shadow
 Uktabi Drake
 Uktabi Efreet
@@ -32859,6 +32918,7 @@ Vishgraz, the Doomhive
 Vision Charm
 Vision Skeins
 Vision of the Unspeakable
+Vision, Synthezoid Avenger
 Visionary Augmenter
 Visionary's Dance
 Visions
@@ -33612,6 +33672,7 @@ Welcome Home
 Welcome the Darkness
 Welcome the Dead
 Welcome to . . .
+Welcome to Australia
 Welcome to Mini-apolis
 Welcome to Sweettooth
 Welcome to Valley
@@ -34329,6 +34390,7 @@ Wulfgar of Icewind Dale
 Wumpus Aberration
 Wurm's Tooth
 Wurmcalling
+Wurmcoil Broodmother
 Wurmcoil Engine
 Wurmcoil Larva
 Wurmquake
@@ -34435,6 +34497,7 @@ Yawgmoth's Will
 Yawgmoth, Thran Physician
 Yawning Fissure
 Ydwen Efreet
+Yeah Nah
 Year-End Review
 Yedora, Grave Gardener
 Yellow Scarves Cavalry
