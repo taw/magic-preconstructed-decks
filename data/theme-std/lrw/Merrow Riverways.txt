@@ -22,5 +22,5 @@
 1 Whirlpool Whelm
 1 Broken Ambitions
 2 Springleaf Drum
-9 Plains
-13 Island
+9 Plains [LRW:*]
+13 Island [LRW:*]

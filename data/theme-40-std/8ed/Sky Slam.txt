@@ -18,4 +18,4 @@
 2 Remove Soul
 1 Dehydration
 1 Urza's Armor
-17 Island
+17 Island [8ED:*]

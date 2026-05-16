@@ -1,0 +1,8 @@
+// NAME: Featuring: Deathburger
+// SOURCE: https://secretlair.wizards.com/us/product/1246431
+// DATE: 2025-07-29
+1 [SLD:2102] Ethersworn Canonist
+1 [SLD:2103] Goblin Engineer
+1 [SLD:2104] Dance of the Manse
+1 [SLD:2105] Arcbound Ravager
+1 [SLD:2106] Foundry Inspector

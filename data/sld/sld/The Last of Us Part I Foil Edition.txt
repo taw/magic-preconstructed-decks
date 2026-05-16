@@ -1,0 +1,8 @@
+// NAME: The Last of Us Part I Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246545
+// DATE: 2025-11-06
+1 [SLD:2197] Ellie, Brick Master [foil]
+1 [SLD:2198] Joel, Resolute Survivor [foil]
+1 [SLD:2199] Cabal Ritual [foil]
+1 [SLD:2200] Haunted One [foil]
+1 [SLD:2201] Cordyceps Infected [foil] [token]

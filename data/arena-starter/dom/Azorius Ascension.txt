@@ -1,5 +1,5 @@
 // NAME: Azorius Ascension
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 1 Angel of Sanctions
 1 Angler Drake
@@ -32,6 +32,6 @@
 1 Supreme Will
 1 Arch of Orazca
 1 Field of Ruin
-10 Island
+10 Island [DOM:*]
 4 Meandering River
-9 Plains
+9 Plains [DOM:*]

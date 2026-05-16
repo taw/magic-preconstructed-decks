@@ -27,6 +27,6 @@
 1 Shrieking Affliction
 1 Blood Reckoning
 1 Rakdos Guildgate
-12 Swamp
-12 Mountain
+12 Swamp [RTR:*]
+12 Mountain [RTR:*]
 1 Assassin's Strike

@@ -14,5 +14,5 @@
 1 Battlefield Promotion
 1 Divine Arrow
 1 Thriving Heath
-6 Plains [M21]
+6 Plains [M21:*]
 1 Plains [JMP:43]

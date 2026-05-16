@@ -37,8 +37,8 @@
 1 Terror
 1 Gaseous Form
 1 Ebon Stronghold
-11 Island
+11 Island [BTD:*]
 1 Polluted Mire
 1 Remote Isle
 1 Svyelunite Temple
-11 Swamp
+11 Swamp [BTD:*]

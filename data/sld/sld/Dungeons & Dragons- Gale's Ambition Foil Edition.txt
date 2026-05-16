@@ -1,0 +1,8 @@
+// NAME: Dungeons & Dragons: Gale's Ambition Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249717
+// DATE: 2026-03-02
+1 [SLD:2488] Gale, Waterdeep Prodigy [foil]
+1 [SLD:2489] Arcane Denial [foil]
+1 [SLD:2490] Archmage's Charm [foil]
+1 [SLD:2491] Brainstorm [foil]
+1 [SLD:2492] Personal Tutor [foil]

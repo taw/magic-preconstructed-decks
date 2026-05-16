@@ -1,5 +1,5 @@
 // NAME: The Sun Empire
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 1 Burning Sun's Avatar
 1 Channeler Initiate
@@ -29,8 +29,8 @@
 1 Abrade
 1 Lightning Strike
 1 Shake the Foundations
-10 Forest
+10 Forest [DOM:*]
 1 Hashep Oasis
-9 Mountain
+9 Mountain [DOM:*]
 4 Timber Gorge
 1 Unclaimed Territory

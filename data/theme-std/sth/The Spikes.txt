@@ -22,5 +22,5 @@
 1 Verdant Touch
 1 Tranquility*
 2 Heartstone
-12 Forest*
-9 Mountain*
+12 Forest [TMP:*]
+9 Mountain [TMP:*]

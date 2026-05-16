@@ -26,5 +26,5 @@
 2 Trigon of Corruption
 1 Strandwalker
 1 Mind Control
-13 Island
-12 Swamp
+13 Island [MBS:*]
+12 Swamp [MBS:*]

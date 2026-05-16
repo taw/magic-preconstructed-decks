@@ -15,6 +15,6 @@
 1 Wailing Ghoul
 1 Memorial to Folly
 1 Thriving Moor
-6 Swamp
+6 Swamp [J25:*]
 
 Sideboard

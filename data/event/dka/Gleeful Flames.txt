@@ -16,7 +16,7 @@
 1 Curse of Stalked Prey
 3 Haunted Fengraf
 2 Inkmoth Nexus
-17 Mountain
+17 Mountain [ISD:*]
 
 Sideboard
 2 Act of Treason

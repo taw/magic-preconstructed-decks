@@ -1,5 +1,5 @@
 // NAME: Sun Empire
-// SOURCE: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Explorers_of_Ixalan/Theme_decks
 // DATE: 2017-11-24
 1 Burning Sun's Avatar
 1 Ancient Brontodon
@@ -29,6 +29,6 @@
 2 Prismatic Lens
 1 Quicksilver Amulet
 4 Jungle Shrine
-6 Plains
-7 Mountain
-9 Forest
+6 Plains [XLN:*]
+7 Mountain [XLN:*]
+9 Forest [XLN:*]

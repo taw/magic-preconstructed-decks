@@ -1,0 +1,7 @@
+// NAME: Dungeons & Dragons: Strahd's Descent Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249725
+// DATE: 2026-03-02
+1 [SLD:2501] Strefan, Maurer Progenitor [foil]
+1 [SLD:2502] Bloodletter of Aclazotz [foil]
+1 [SLD:2503] End the Festivities [foil]
+1 [SLD:2504] Voldaren Estate [foil]

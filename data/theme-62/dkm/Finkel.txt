@@ -26,7 +26,7 @@
 2 Lava Burst
 1 Icy Manipulator [DKM:36]
 1 Icy Manipulator [DKM:36★] [foil]
-12 Swamp
-12 Mountain
+12 Swamp [DKM:*]
+12 Mountain [DKM:*]
 1 Sulfurous Springs
 1 Underground River

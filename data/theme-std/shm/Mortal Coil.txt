@@ -24,6 +24,6 @@
 1 Biting Tether
 1 Torture
 1 Helm of the Ghastlord
-12 Island
-12 Swamp
+12 Island [SHM:*]
+12 Swamp [SHM:*]
 1 Inkfathom Infiltrator

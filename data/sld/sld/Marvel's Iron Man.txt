@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Marvel's Iron Man
+// NAME: Marvel's Iron Man
 // SOURCE: https://secretlair.wizards.com/us/product/1018560
 // DATE: 2024-11-05
 1 [SLD:1731] Iron Man, Titan of Innovation

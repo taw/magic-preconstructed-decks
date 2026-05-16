@@ -16,7 +16,7 @@
 1 Land Tax
 2 Lightning Bolt
 12 Mountain
-12 Plains
+12 Plains [3ED:*]
 2 Savannah Lions
 4 Serra Angel
 3 Smoke

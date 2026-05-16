@@ -13,4 +13,4 @@
 1 Fear, Fire, Foes!
 1 Gimli's Fury
 1 Quarrel's End
-8 Mountain
+8 Mountain [LTR:*]

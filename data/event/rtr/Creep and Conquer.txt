@@ -22,8 +22,8 @@
 3 Golgari Guildgate
 1 Grim Backwoods
 1 Woodland Cemetery
-7 Swamp
-8 Forest
+7 Swamp [RTR:*]
+8 Forest [RTR:*]
 
 Sideboard
 2 Duress

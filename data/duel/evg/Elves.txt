@@ -26,6 +26,6 @@
 1 Wildsize
 3 Moonglove Extract
 1 Slate of Ancestry
-19 Forest
+19 Forest [EVG:*]
 2 Tranquil Thicket
 1 Wirewood Lodge

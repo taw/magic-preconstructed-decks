@@ -17,8 +17,8 @@
 4 Corrupted Conscience
 2 Drowned Catacomb
 4 Jwar Isle Refuge
-10 Island
-7 Swamp
+10 Island [MBS:*]
+7 Swamp [MBS:*]
 
 Sideboard
 1 Doom Blade

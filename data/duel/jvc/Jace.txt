@@ -29,5 +29,5 @@
 1 Gush
 2 Repulse
 1 Mind Stone
-23 Island
+23 Island [JVC:*]
 1 Terrain Generator

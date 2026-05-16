@@ -16,8 +16,8 @@
 1 Kiss of the Amesha
 2 Pacifism
 1 Angelic Benediction
-3 Forest
-7 Plains
-3 Island
+3 Forest [ALA:*]
+7 Plains [ALA:*]
+3 Island [ALA:*]
 2 Bant Panorama
 2 Seaside Citadel

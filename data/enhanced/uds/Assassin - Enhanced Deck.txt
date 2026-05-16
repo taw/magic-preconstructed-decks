@@ -19,7 +19,7 @@
 2 Yawgmoth's Bargain
 4 Polluted Mire
 3 Stalking Stones
-14 Swamp
+14 Swamp [USG:*]
 1 Volrath's Stronghold
 
 Sideboard

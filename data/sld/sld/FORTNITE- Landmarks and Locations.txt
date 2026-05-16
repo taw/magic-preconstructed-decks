@@ -1,0 +1,8 @@
+// NAME: FORTNITE: Landmarks and Locations
+// SOURCE: https://secretlair.wizards.com/us/product/763880
+// DATE: 2022-09-02
+1 [SLD:448] Plains
+1 [SLD:449] Island
+1 [SLD:450] Swamp
+1 [SLD:451] Mountain
+1 [SLD:452] Forest

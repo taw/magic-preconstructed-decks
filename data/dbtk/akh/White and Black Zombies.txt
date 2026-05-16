@@ -1,5 +1,5 @@
 // NAME: White and Black Zombies
-// SOURCE: https://mtg.fandom.com/wiki/Amonkhet/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Amonkhet/Deck_Builder%27s_Toolkit
 // DATE: 2017-04-28
 2 Binding Mummy
 1 Doomed Dissenter

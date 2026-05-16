@@ -1,5 +1,5 @@
 // NAME: Red and Green Dinosaurs
-// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Ixalan/Deck_Builder%27s_Toolkit
 // DATE: 2017-09-29
 1 Charging Monstrosaur
 1 Raptor Hatchling

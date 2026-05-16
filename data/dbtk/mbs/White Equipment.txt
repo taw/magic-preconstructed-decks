@@ -1,5 +1,5 @@
 // NAME: White Equipment
-// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// SOURCE: https://mtg.wiki/wiki/Deck_Builder%27s_Toolkit_2011
 // DATE: 2011-03-11
 1 Elite Vanguard
 1 Kemba's Legion

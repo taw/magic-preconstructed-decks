@@ -20,4 +20,4 @@
 1 Contamination
 2 Seal of Doom
 2 Polluted Mire
-20 Swamp
+20 Swamp [MMQ:*]

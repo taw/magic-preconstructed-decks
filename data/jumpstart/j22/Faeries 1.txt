@@ -1,5 +1,5 @@
 // NAME: Faeries 1
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Spellstutter Sprite
 1 Brineborn Cutthroat
@@ -14,4 +14,4 @@
 1 Fleeting Distraction
 1 Instruments of War
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

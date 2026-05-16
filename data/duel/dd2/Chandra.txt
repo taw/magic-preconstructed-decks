@@ -26,4 +26,4 @@
 1 Magma Jet
 2 Seal of Fire
 1 Keldon Megaliths
-24 Mountain
+24 Mountain [DD2:*]

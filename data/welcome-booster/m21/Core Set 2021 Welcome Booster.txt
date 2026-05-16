@@ -1,6 +1,6 @@
 // NAME: Core Set 2021 Welcome Booster
 // DATE: 2020-07-03
-// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2021/Welcome_booster
 1 [M21:261] Plains [foil]
 1 Chandra's Magmutt [foil]
 1 [THB:292] Demon of Loathing

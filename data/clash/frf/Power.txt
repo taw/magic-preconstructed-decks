@@ -1,5 +1,5 @@
 // NAME: Power
-// SOURCE: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// SOURCE: https://mtg.wiki/wiki/Fate_Reforged/Clash_pack
 // DATE: 2015-01-23
 1 Typhoid Rats
 4 Satyr Wayfinder
@@ -28,8 +28,8 @@
 1 Monastery Siege
 1 Sultai Banner
 4 Opulent Palace
-2 Evolving Wilds
 2 Dismal Backwater
-7 Swamp
-5 Island
-5 Forest
+2 Evolving Wilds [M15:243]
+5 Island [KTK:257]
+5 Forest [KTK:269]
+7 Swamp [FRF:181]

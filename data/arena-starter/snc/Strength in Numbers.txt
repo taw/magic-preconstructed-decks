@@ -1,5 +1,5 @@
 // NAME: Strength in Numbers
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2022-09-09
 3 Civil Servant
 1 Gala Greeters
@@ -20,8 +20,8 @@
 1 Halo Fountain
 2 Hold for Ransom
 1 Wedding Announcement
-9 Forest
-9 Plains
+9 Forest [SNC:*]
+9 Plains [SNC:*]
 4 Blossoming Sands
 1 Overgrown Farmland
 2 Botanical Plaza

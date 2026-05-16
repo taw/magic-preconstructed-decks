@@ -1,0 +1,8 @@
+// NAME: Dungeons & Dragons: Lands of the Forgotten Realms Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249719
+// DATE: 2026-03-02
+2 [SLD:2509] Plains [foil]
+2 [SLD:2510] Island [foil]
+2 [SLD:2511] Swamp [foil]
+2 [SLD:2512] Mountain [foil]
+2 [SLD:2513] Forest [foil]

@@ -1,5 +1,5 @@
 // NAME: Titanic 2
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random green The Brothers' War rare or mythic rare
 // DATE: 2022-11-18
 1 Woodcaller Automaton
@@ -13,5 +13,7 @@
 1 Bushwhack
 1 Shoot Down
 1 Epic Confrontation
-6 Forest
-2 Forest [foil]
+3 Forest [BRO:276]
+3 Forest [BRO:277]
+1 Forest [BRO:276] [foil]
+1 Forest [BRO:277] [foil]

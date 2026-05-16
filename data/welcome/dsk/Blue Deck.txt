@@ -1,0 +1,21 @@
+// NAME: Blue Deck
+// SOURCE: https://mtg.wiki/page/Duskmourn:_House_of_Horror/Welcome_decks
+// DATE: 2024-09-30
+1 Cloudkin Seer [PLST:M20-54]
+2 Vedalken Mesmerist [PLST:GRN-57]
+1 Academy Journeymage [PLST:DOM-41]
+1 Frost Trickster [PLST:STX-43]
+1 Cyclone Summoner [PLST:KHM-52]
+1 Metropolis Sprite [PLST:M20-66]
+1 Gadwick, the Wizened [PLST:ELD-48]
+1 Archaeomancer [PLST:M14-43]
+1 Tetsuko Umezawa, Fugitive [PLST:MUL-12]
+1 Quicksilver Fisher [PLST:ONE-287]
+1 Chart a Course [PLST:XLN-48]
+1 Chilling Trap [PLST:ZNR-50]
+1 Serpentine Ambush [PLST:VOW-77]
+1 Geistwave [PLST:MID-56]
+2 Charmed Sleep [PLST:ELD-40]
+5 Island [PLST:WOE-269]
+4 Island [PLST:LCI-396]
+4 Island [PLST:MKM-279]

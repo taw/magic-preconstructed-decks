@@ -1,5 +1,5 @@
 // NAME: Unearthed 2
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random black The Brothers' War rare or mythic rare
 // DATE: 2022-11-18
 1 Terror Ballista
@@ -13,5 +13,7 @@
 1 Overwhelming Remorse
 1 Dredging Claw
 1 Transmogrant Altar
-6 Swamp
-2 Swamp [foil]
+3 Swamp [BRO:272]
+3 Swamp [BRO:273]
+1 Swamp [BRO:272] [foil]
+1 Swamp [BRO:273] [foil]

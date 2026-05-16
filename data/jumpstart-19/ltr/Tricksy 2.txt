@@ -13,4 +13,4 @@
 1 Arwen's Gift
 1 Horses of the Bruinen
 1 Saruman's Trickery
-8 Island
+8 Island [LTR:*]

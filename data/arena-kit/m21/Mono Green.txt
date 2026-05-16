@@ -1,5 +1,5 @@
 // NAME: Mono Green
-// SOURCE: https://mtg.fandom.com/wiki/Core_Set_2021/Arena_Starter_Kit
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2021/Arena_Starter_Kit
 // DATE: 2020-07-03
 3 Almighty Brushwagg [IKO:143]
 3 Bristling Boar [IKO:146]

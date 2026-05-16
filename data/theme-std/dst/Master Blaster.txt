@@ -23,6 +23,6 @@
 2 Darksteel Brute
 1 Granite Shard*
 2 Talon of Pain
-18 Mountain*
+18 Mountain [MRD:*]
 3 Darksteel Citadel
 3 Great Furnace*

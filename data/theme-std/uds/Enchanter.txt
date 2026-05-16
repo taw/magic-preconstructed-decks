@@ -30,5 +30,5 @@
 1 Opportunity**
 2 Drifting Meadow*
 2 Remote Isle*
-7 Plains
-13 Island
+7 Plains [USG:*]
+13 Island [USG:*]

@@ -6,7 +6,7 @@
 2 Disenchant
 4 Earthquake
 2 Fellwar Stone
-6 Forest
+6 Forest [3ED:*]
 4 Healing Salve
 4 Hurricane
 4 Inferno
@@ -17,7 +17,7 @@
 1 Mox Pearl
 1 Mox Ruby
 4 Onulet
-6 Plains
+6 Plains [3ED:*]
 2 Reverse Damage
 1 Sol Ring
 3 Stream of Life

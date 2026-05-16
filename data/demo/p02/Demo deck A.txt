@@ -1,0 +1,16 @@
+// NAME: Demo deck A
+// SOURCE: https://mtg.wiki/page/Sampler
+// DATE: 1998-06-24
+// This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
+1 Talas Air Ship
+1 Forest [P02:163]
+1 Plated Wurm
+1 Alaborn Trooper
+1 Plains [P02:151]
+1 Talas Scout
+1 Island [P02:154]
+1 Volunteer Militia
+1 Plains [P02:152]
+1 Talas Merchant
+1 Wild Griffin
+1 Island [P02:155]

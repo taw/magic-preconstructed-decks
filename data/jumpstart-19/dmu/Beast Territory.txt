@@ -1,6 +1,6 @@
 // NAME: Beast Territory
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random green Dominaria United rare or mythic rare
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includes a random green Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Floriferous Vinewall
 1 Sunbathing Rootwalla
@@ -17,6 +17,6 @@
 1 Wooded Ridgeline
 1 Radiant Grove
 1 Haunted Mire
-1 Forest
-2 Forest [foil]
+1 Forest [DMU:*]
+2 Forest [DMU:*] [foil]
 1 Forest [DMU:281]

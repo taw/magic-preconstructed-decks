@@ -21,7 +21,7 @@
 1 Clutch of the Undercity
 2 Psychic Drain
 1 Dimir Signet
-11 Island
-10 Swamp
+11 Island [RAV:*]
+10 Swamp [RAV:*]
 2 Dimir Aqueduct
 1 Duskmantle, House of Shadow

@@ -1,5 +1,5 @@
 // NAME: Elves 4
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Green
 // DATE: 2022-12-02
 1 Dutiful Replicator
 1 Wildborn Preserver
@@ -14,4 +14,4 @@
 1 Presence of Gond
 1 Elven Bow
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

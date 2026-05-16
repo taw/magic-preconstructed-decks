@@ -68,9 +68,9 @@ COMMANDER: 1 Kadena, Slinking Sorcerer [foil]
 1 Sunken Hollow
 1 Thespian's Stage
 1 Yavimaya Coast
-5 Island
-3 Swamp
-7 Forest
+5 Island [C19:*]
+3 Swamp [C19:*]
+7 Forest [C19:*]
 1 Ash Barrens
 1 Bojuka Bog
 1 Command Tower

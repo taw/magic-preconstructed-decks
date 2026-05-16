@@ -22,6 +22,6 @@
 4 Crippling Fatigue
 1 Malevolent Awakening*
 1 Zombify*
-10 Plains*
-12 Swamp*
+10 Plains [ODY:*]
+12 Swamp [ODY:*]
 2 Tainted Field

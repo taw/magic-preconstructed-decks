@@ -25,6 +25,6 @@
 1 Umbral Mantle
 3 Presence of Gond
 1 Shield of the Oversoul
-11 Forest
-12 Plains
+11 Forest [SHM:*]
+12 Plains [SHM:*]
 1 Sapseep Forest

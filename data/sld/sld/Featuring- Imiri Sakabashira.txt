@@ -1,0 +1,7 @@
+// NAME: Featuring: Imiri Sakabashira
+// SOURCE: https://secretlair.wizards.com/us/product/1245653
+// DATE: 2025-06-10
+1 [SLD:2028] Consecrated Sphinx
+1 [SLD:2029] Resculpt
+1 [SLD:2030] Mirage Mirror
+1 [SLD:2031] Scion of Draco

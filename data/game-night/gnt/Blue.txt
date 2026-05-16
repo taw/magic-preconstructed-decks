@@ -23,5 +23,5 @@
 1 Metamorphic Alteration
 2 Claustrophobia
 2 Favorable Winds
-25 Island
+25 Island [GNT:*]
 1 Inspired Sphinx

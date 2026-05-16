@@ -88,3 +88,6 @@ COMMANDER: 1 Éowyn, Shieldmaiden [foil] [LTC:1]
 2 Island [LTR:265]
 3 Mountain [LTR:268]
 2 Mountain [LTR:269]
+
+Display Commander
+1 Éowyn, Shieldmaiden [LTC:81] [foil] [etched]

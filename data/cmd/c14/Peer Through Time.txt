@@ -70,7 +70,7 @@ COMMANDER: 1 Teferi, Temporal Archmage
 1 Remote Isle
 1 Tectonic Edge
 1 Zoetic Cavern
-31 Island
+31 Island [C14:*]
 
 Display Commander
 1 Teferi, Temporal Archmage [oc14] [foil]

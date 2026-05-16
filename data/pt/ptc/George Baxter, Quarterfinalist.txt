@@ -1,5 +1,5 @@
 // NAME: George Baxter, Quarterfinalist
-// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// SOURCE: https://mtg.wiki/wiki/Pro_Tour_Collector_Set
 // DATE: 1996-05-01
 3 City of Brass [PTC:gb112]
 3 Karplusan Forest [PTC:gb356]

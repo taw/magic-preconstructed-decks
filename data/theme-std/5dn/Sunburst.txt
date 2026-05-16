@@ -22,9 +22,9 @@
 3 Darksteel Ingot**
 2 Infused Arrows
 2 Heliophial
-3 Plains*
-3 Island*
-3 Swamp*
-3 Mountain*
-9 Forest*
+3 Plains [MRD:*]
+3 Island [MRD:*]
+3 Swamp [MRD:*]
+3 Mountain [MRD:*]
+9 Forest [MRD:*]
 2 Mirrodin's Core**

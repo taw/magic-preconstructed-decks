@@ -16,7 +16,7 @@
 2 Fellwar Stone
 2 Fireball
 3 Fissure
-5 Forest
+5 Forest [3ED:*]
 3 Gem Bazaar
 4 Hypnotic Specter
 2 Lightning Bolt
@@ -29,7 +29,7 @@
 2 Rag Man
 4 Stone Rain
 2 Strip Mine [ATQ:82a]
-5 Swamp
+5 Swamp [3ED:*]
 1 Tranquility
 3 Wall of Dust
 

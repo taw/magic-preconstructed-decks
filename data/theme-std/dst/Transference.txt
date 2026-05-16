@@ -24,5 +24,5 @@
 2 Skullclamp
 1 Dragon Blood*
 1 Ur-Golem's Eye
-21 Island*
+21 Island [MRD:*]
 2 Seat of the Synod*

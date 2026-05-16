@@ -19,6 +19,6 @@
 2 Visage of Bolas
 4 Cinder Barrens
 4 Crypt of the Eternals
-5 Island
-6 Swamp
-7 Mountain
+5 Island [HOU:*]
+6 Swamp [HOU:*]
+7 Mountain [HOU:*]

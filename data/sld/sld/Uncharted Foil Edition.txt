@@ -1,0 +1,8 @@
+// NAME: Uncharted Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246549
+// DATE: 2025-11-06
+1 [SLD:2216] Nathan Drake, Treasure Hunter [foil]
+1 [SLD:2217] Midnight Clock [foil]
+1 [SLD:2218] Whip of Erebos [foil]
+1 [SLD:2219] Chain Reaction [foil]
+1 [SLD:2220] Passionate Archaeologist [foil]

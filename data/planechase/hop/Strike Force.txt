@@ -34,12 +34,18 @@
 1 Prison Term
 1 Glory of Warfare
 1 Furnace of Rath
-9 Mountain
-9 Plains
 2 Boros Garrison
 2 Sunhome, Fortress of the Legion
 2 Terramorphic Expanse
 1 Order // Chaos
+3 Mountain [HOP:161]
+2 Mountain [HOP:162]
+2 Mountain [HOP:163]
+2 Mountain [HOP:164]
+1 Plains [HOP:143]
+2 Plains [HOP:144]
+3 Plains [HOP:145]
+3 Plains [HOP:146]
 
 Planar Deck
 1 Academy at Tolaria West

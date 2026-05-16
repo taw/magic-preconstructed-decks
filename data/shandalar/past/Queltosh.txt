@@ -20,7 +20,7 @@
 1 Fire Elemental
 1 Fireball
 1 Giant Tortoise
-8 Island
+8 Island [3ED:*]
 1 Land Tax
 1 Lightning Bolt
 1 Mahamoti Djinn
@@ -30,7 +30,7 @@
 1 Phantasmal Forces
 1 Phantom Monster
 1 Pikemen
-8 Plains
+8 Plains [3ED:*]
 1 Power Sink
 1 Prodigal Sorcerer
 1 Reverse Damage

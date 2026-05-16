@@ -18,4 +18,4 @@
 1 Blaze
 1 Dragon's Claw
 1 Phyrexian Vault
-17 Mountain
+17 Mountain [10E:*]

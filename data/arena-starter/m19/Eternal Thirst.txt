@@ -1,5 +1,5 @@
 // NAME: Eternal Thirst
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Ajani's Pridemate
 3 Bishop's Soldier
@@ -20,7 +20,7 @@
 2 Nightmare's Thirst
 3 Murder
 1 Vraska's Contempt
-10 Plains
+10 Plains [M19:*]
 1 Isolated Chapel
-10 Swamp
+10 Swamp [M19:*]
 4 Forsaken Sanctuary

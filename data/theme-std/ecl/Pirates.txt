@@ -1,0 +1,22 @@
+// NAME: Pirates
+// SOURCE: https://magic.wizards.com/en/news/feature/lorwyn-eclipsed-60-card-theme-deck-contents-and-guide
+// DATE: 2026-01-23
+3 Subterranean Schooner
+3 Inti, Seneschal of the Sun
+1 Gastal Thrillroller
+3 Fearless Swashbuckler
+2 Captain Howler, Sea Scourge
+2 Magmatic Galleon
+2 Spell Snare
+4 Spyglass Siren
+4 Marauding Mako
+4 Burst Lightning
+4 Scrounging Skyray
+2 Staunch Crewmate
+2 Broadside Barrage
+4 Secluded Courtyard
+4 Swiftwater Cliffs
+8 Island
+8 Mountain
+
+Sideboard

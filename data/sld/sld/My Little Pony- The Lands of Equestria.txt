@@ -1,0 +1,8 @@
+// NAME: My Little Pony: The Lands of Equestria
+// SOURCE: https://secretlair.wizards.com/us/product/1250421
+// DATE: 2026-05-12
+2 [SLD:2540] Plains
+2 [SLD:2541] Island
+2 [SLD:2542] Swamp
+2 [SLD:2543] Mountain
+2 [SLD:2544] Forest

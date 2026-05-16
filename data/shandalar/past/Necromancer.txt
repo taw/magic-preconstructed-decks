@@ -17,7 +17,7 @@
 2 Necropolis of Azar
 2 Raise Dead
 4 Scathe Zombies
-22 Swamp
+22 Swamp [3ED:*]
 2 Unholy Strength
 2 Wall of Bone
 4 Zombie Master

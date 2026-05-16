@@ -13,6 +13,6 @@
 1 Uncaged Fury
 1 Young Pyromancer
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

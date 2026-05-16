@@ -19,5 +19,5 @@
 3 Scar
 3 Blowfly Infestation
 2 Fists of the Demigod
-12 Swamp
-12 Mountain
+12 Swamp [SHM:*]
+12 Mountain [SHM:*]

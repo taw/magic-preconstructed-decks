@@ -1,0 +1,8 @@
+// NAME: Dogs Are Better Than Cats Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1151171
+// DATE: 2025-03-18
+1 [SLD:1921] Escape to the Wilds [foil]
+1 [SLD:1922] Rip Apart [foil]
+1 [SLD:1923] Titanic Ultimatum [foil]
+1 [SLD:1924] Arcane Signet [foil]
+1 [SLD:1925] Basilisk Collar [foil]

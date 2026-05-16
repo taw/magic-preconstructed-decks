@@ -16,6 +16,6 @@
 1 Azorius Chancery
 1 Suppressor Skyguard
 1 Lavinia of the Tenth
-5 Island
+5 Island [CLU:258]
 
 Sideboard

@@ -13,5 +13,5 @@
 1 Draconic Roar
 1 Sarkhan's Rage
 1 Thriving Bluff
-7 Mountain [M21]
+7 Mountain [M21:*]
 1 Mountain [JMP:62]

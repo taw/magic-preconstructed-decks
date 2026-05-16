@@ -1,5 +1,5 @@
 // NAME: Blue and Green Ramp
-// SOURCE: https://mtg.fandom.com/wiki/Ixalan/Deck_Builder%27s_Toolkit
+// SOURCE: https://mtg.wiki/wiki/Ixalan/Deck_Builder%27s_Toolkit
 // DATE: 2017-09-29
 1 Lay Claim
 1 Chart a Course

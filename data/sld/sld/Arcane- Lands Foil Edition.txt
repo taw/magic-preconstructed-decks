@@ -1,0 +1,8 @@
+// NAME: Arcane: Lands Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/696670
+// DATE: 2022-05-06
+1 [SLD:484] Plains [foil]
+1 [SLD:485] Island [foil]
+1 [SLD:486] Swamp [foil]
+1 [SLD:487] Mountain [foil]
+1 [SLD:488] Forest [foil]

@@ -34,8 +34,8 @@
 1 Darksteel Citadel
 1 Temple of Epiphany
 1 Shivan Reef
-7 Island
-7 Mountain
+7 Island [DDU:*]
+7 Mountain [DDU:*]
 2 Swiftwater Cliffs
 1 Foundry of the Consuls
 1 Inventor's Goggles

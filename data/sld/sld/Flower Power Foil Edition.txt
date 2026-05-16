@@ -1,0 +1,8 @@
+// NAME: Flower Power Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246579
+// DATE: 2025-10-20
+1 [SLD:1945] Plains [foil]
+1 [SLD:1946] Island [foil]
+1 [SLD:1947] Swamp [foil]
+1 [SLD:1948] Mountain [foil]
+1 [SLD:1949] Forest [foil]

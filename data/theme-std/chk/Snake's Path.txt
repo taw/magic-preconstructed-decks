@@ -20,4 +20,4 @@
 2 Hankyu
 1 Sensei's Divining Top
 1 Junkyo Bell
-24 Forest
+24 Forest [CHK:*]

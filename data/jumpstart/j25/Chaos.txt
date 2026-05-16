@@ -14,10 +14,10 @@
 1 Fusion Elemental
 1 Violent Outburst
 1 Maelstrom Colossus
-1 Plains
-1 Island
-1 Swamp
-2 Mountain
-2 Forest
+1 Plains [J25:*]
+1 Island [J25:*]
+1 Swamp [J25:*]
+2 Mountain [J25:*]
+2 Forest [J25:*]
 
 Sideboard

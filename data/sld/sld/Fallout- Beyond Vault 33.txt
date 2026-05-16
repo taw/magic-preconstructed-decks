@@ -1,0 +1,9 @@
+// NAME: Fallout: Beyond Vault 33
+// SOURCE: https://secretlair.wizards.com/us/product/1249328
+// DATE: 2026-02-16
+1 [SLD:2447] Lucy MacLean, Positively Armed
+1 [SLD:2448] The Ghoul, Gunslinger
+1 [SLD:2449] Maximus, Knight Apparent
+1 [SLD:2450] Pre-War Formalwear
+1 [SLD:2451] Spirit Mantle
+1 [SLD:2452] T-45 Power Armor

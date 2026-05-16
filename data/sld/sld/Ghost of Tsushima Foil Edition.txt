@@ -1,0 +1,8 @@
+// NAME: Ghost of Tsushima Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246537
+// DATE: 2025-11-06
+1 [SLD:2226] Jin Sakai, Ghost of Tsushima [foil]
+1 [SLD:2227] Path to Exile [foil]
+1 [SLD:2228] Borne Upon a Wind [foil]
+1 [SLD:2229] Ghostly Flicker [foil]
+1 [SLD:2230] Eiganjo Castle [foil]

@@ -1,5 +1,5 @@
 // NAME: Urza's
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Other
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Other
 // DATE: 2022-12-02
 1 Karn Liberated
 1 Walking Ballista

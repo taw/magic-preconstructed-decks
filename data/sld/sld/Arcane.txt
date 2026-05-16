@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Arcane
+// NAME: Arcane
 // SOURCE: https://secretlair.wizards.com/us/product/696669
 // DATE: 2022-05-06
 1 [SLD:477] Path to Exile

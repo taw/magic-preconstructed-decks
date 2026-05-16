@@ -24,6 +24,6 @@
 1 Sulfuric Vortex
 1 Enrage
 1 Wave of Indifference*
-20 Mountain*
+20 Mountain [ONS:*]
 2 Forgotten Cave*
 2 Goblin Burrows*

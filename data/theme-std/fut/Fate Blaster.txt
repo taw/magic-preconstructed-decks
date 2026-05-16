@@ -22,5 +22,5 @@
 1 Fatal Attraction
 2 Riddle of Lightning
 1 Shivan Meteor*
-14 Island*
-11 Mountain*
+14 Island [TSP:*]
+11 Mountain [TSP:*]

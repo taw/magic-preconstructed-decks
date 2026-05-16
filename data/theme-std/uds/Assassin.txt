@@ -28,4 +28,4 @@
 1 Soul Feast
 4 Polluted Mire*
 1 Spawning Pool**
-16 Swamp
+16 Swamp [USG:*]

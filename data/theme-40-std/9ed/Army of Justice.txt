@@ -17,4 +17,4 @@
 1 Glorious Anthem
 1 Chastise
 1 Angel's Feather
-16 Plains
+16 Plains [9ED:*]

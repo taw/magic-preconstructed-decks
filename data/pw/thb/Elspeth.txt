@@ -1,5 +1,5 @@
 // NAME: Elspeth
-// SOURCE: https://mtg.gamepedia.com/Theros_Beyond_Death/Planeswalker_decks
+// SOURCE: https://mtg.wiki/wiki/Theros_Beyond_Death/Planeswalker_decks
 // DATE: 2020-01-24
 1 Elspeth, Undaunted Hero [foil]
 1 Daxos, Blessed by the Sun
@@ -15,4 +15,4 @@
 2 Phalanx Tactics
 3 Indomitable Will
 3 Dreadful Apathy
-25 Plains
+25 Plains [THB:*]

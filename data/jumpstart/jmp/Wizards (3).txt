@@ -14,5 +14,5 @@
 1 Opt
 1 Capture Sphere
 1 Thriving Isle
-6 Island [M21]
+6 Island [M21:*]
 1 Island [JMP:47]

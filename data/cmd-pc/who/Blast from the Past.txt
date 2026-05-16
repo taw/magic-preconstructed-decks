@@ -92,9 +92,9 @@
 1 Seaside Citadel
 1 Command Tower [WHO:263]
 1 Path of Ancestry
-2 Plains
-2 Island
-3 Forest
+2 Plains [WHO:*]
+2 Island [WHO:*]
+3 Forest [WHO:*]
 
 Commander
 1 The Fourth Doctor [foil] [WHO:2]
@@ -113,4 +113,4 @@ Planar Deck
 1 TARDIS Bay
 
 Display Commander
-1 The Fourth Doctor [foil] [WHO:193]
+1 The Fourth Doctor [foil] [etched] [WHO:193]

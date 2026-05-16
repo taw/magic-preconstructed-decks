@@ -29,6 +29,6 @@
 2 Jungle Hollow
 1 Sandsteppe Citadel [CP3] [foil]
 2 Scoured Barrens
-7 Plains
-6 Swamp
-6 Forest
+7 Plains [ORI:*]
+6 Swamp [ORI:*]
+6 Forest [ORI:*]

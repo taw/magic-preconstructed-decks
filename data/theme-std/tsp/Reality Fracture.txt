@@ -22,6 +22,6 @@
 2 Ignite Memories
 2 Claws of Gix
 1 Serrated Arrows
-12 Island
-11 Mountain
+12 Island [TSP:*]
+11 Mountain [TSP:*]
 1 Dreadship Reef

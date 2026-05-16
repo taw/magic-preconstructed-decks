@@ -23,7 +23,7 @@
 1 Lead the Stampede
 1 Naturalize
 1 Oran-Rief, the Vastwood
-18 Forest
+18 Forest [DDU:*]
 2 Tranquil Thicket
 2 Treetop Village
 1 Talara's Battalion

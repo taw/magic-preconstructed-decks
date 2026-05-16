@@ -26,5 +26,5 @@
 1 Ajani's Mantra
 2 Pacifism
 2 Armored Ascension
-16 Plains
-9 Swamp
+16 Plains [M11:*]
+9 Swamp [M11:*]

@@ -26,5 +26,5 @@
 2 Spiraling Embers
 1 Thoughts of Ruin
 1 Shuko*
-13 Swamp*
-11 Mountain*
+13 Swamp [CHK:*]
+11 Mountain [CHK:*]

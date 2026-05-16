@@ -15,5 +15,5 @@
 1 Witch's Cauldron
 1 Phyrexian Tower
 1 Thriving Moor
-5 Swamp [M21]
+5 Swamp [M21:*]
 1 Swamp [JMP:54]

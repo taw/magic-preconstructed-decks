@@ -21,6 +21,6 @@
 2 Searing Blaze
 1 Narrow Escape
 1 Armored Ascension
-9 Plains
-7 Mountain
+9 Plains [ZEN:*]
+7 Mountain [ZEN:*]
 2 Teetering Peaks

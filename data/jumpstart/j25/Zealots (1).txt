@@ -15,6 +15,6 @@
 1 Trial of Zeal
 1 Desert of the Fervent
 1 Thriving Bluff
-6 Mountain
+6 Mountain [J25:*]
 
 Sideboard

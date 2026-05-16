@@ -1,0 +1,18 @@
+// NAME: Amonkhet Welcome Deck - Green
+// SOURCE: https://magic.wizards.com/en/articles/archive/news/so-much-amonkhet-news-2017-03-27
+// DATE: 2017-04-15
+1 Garruk's Horde
+2 Rootwalla
+1 Stalking Tiger
+1 Stampeding Rhino
+2 Druid of the Cowl
+1 Arborback Stomper [KLD:142†]
+1 Cowl Prowler
+1 Giant Spider
+1 Terrain Elemental [KLD:272†]
+2 Rabid Bite
+1 Wing Snare
+1 Spidery Grasp
+1 Oakenform
+1 Sixth Sense
+13 Forest [AKH:*]

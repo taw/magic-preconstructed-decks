@@ -1,5 +1,5 @@
 // NAME: Infantry 1
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random white The Brothers' War rare or mythic rare
 // DATE: 2022-11-18
 1 Rescue Retriever
@@ -13,5 +13,7 @@
 1 Recommission
 1 Veteran's Powerblade
 1 Static Net
-6 Plains
-2 Plains [foil]
+3 Plains [BRO:268]
+3 Plains [BRO:269]
+1 Plains [BRO:268] [foil]
+1 Plains [BRO:269] [foil]

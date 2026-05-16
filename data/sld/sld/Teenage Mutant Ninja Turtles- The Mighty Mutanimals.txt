@@ -1,0 +1,8 @@
+// NAME: Teenage Mutant Ninja Turtles: The Mighty Mutanimals
+// SOURCE: https://secretlair.wizards.com/us/product/1250002
+// DATE: 2026-03-03
+1 [SLD:2362] Deepglow Skate
+1 [SLD:2363] Pirated Copy
+1 [SLD:2364] Kediss, Emberclaw Familiar
+1 [SLD:2365] Hardened Scales
+1 [SLD:2366] Triumph of the Hordes

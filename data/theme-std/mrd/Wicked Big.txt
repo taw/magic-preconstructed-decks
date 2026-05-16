@@ -20,4 +20,4 @@
 1 Bloodscent
 2 Creeping Mold
 1 One Dozen Eyes
-24 Forest
+24 Forest [MRD:*]

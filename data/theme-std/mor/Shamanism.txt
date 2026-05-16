@@ -22,9 +22,9 @@
 1 Sylvan Echoes
 2 Lignify
 1 Oblivion Ring
-5 Swamp
-15 Forest
-2 Plains
+5 Swamp [LRW:*]
+15 Forest [LRW:*]
+2 Plains [LRW:*]
 2 Vivid Grove
 3 Nameless Inversion
 1 Reach of Branches

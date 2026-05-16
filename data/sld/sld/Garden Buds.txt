@@ -1,0 +1,8 @@
+// NAME: Garden Buds
+// SOURCE: https://secretlair.wizards.com/us/product/1151495
+// DATE: 2025-03-25
+1 [SLD:2014] Ashaya, Soul of the Wild
+1 [SLD:2015] Elvish Reclaimer
+1 [SLD:2016] Harrow
+1 [SLD:2017] World Shaper
+1 [SLD:2018] Horn of Greed

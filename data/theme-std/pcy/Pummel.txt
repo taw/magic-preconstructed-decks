@@ -26,5 +26,5 @@
 2 Snag
 2 Living Terrain
 1 Vitalizing Wind
-20 Forest*
+20 Forest [MMQ:*]
 2 Hickory Woodlot*

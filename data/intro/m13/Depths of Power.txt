@@ -26,5 +26,5 @@
 1 Elixir of Immortality
 1 Ring of Evos Isle
 1 Evolving Wilds
-15 Island
-8 Mountain
+15 Island [M13:*]
+8 Mountain [M13:*]

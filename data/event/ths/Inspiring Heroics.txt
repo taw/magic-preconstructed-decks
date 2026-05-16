@@ -23,8 +23,8 @@
 2 Ordeal of Thassa
 4 Azorius Guildgate
 1 Hallowed Fountain
-14 Plains
-5 Island
+14 Plains [THS:*]
+5 Island [THS:*]
 
 Sideboard
 2 Triton Tactics

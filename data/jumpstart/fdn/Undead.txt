@@ -14,5 +14,4 @@
 1 Suspicious Shambler
 1 Undying Malice
 1 Uncharted Haven
-7 Swamp
-
+7 Swamp [FDN:*]

@@ -1,5 +1,5 @@
 // NAME: Gold Deck
-// SOURCE: https://mtg.fandom.com/wiki/Seventh_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Seventh_Edition/2-Player_Starter_Set
 // DATE: 2001-04-11
 3 Grizzly Bears
 1 Ogre Taskmaster
@@ -11,5 +11,5 @@
 1 Monstrous Growth
 1 Rampant Growth
 2 Volcanic Hammer
-6 Forest
-8 Mountain
+6 Forest [7ED:*]
+8 Mountain [7ED:*]

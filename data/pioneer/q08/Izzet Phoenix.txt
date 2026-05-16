@@ -21,8 +21,8 @@
 4 Temple of Epiphany
 4 Shivan Reef
 1 Steam Vents
-6 Island
-4 Mountain
+6 Island [DMU:*]
+4 Mountain [DMU:*]
 2 Thing in the Ice // Awoken Horror
 
 Sideboard

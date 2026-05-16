@@ -14,6 +14,6 @@
 1 Persistent Specimen
 1 Undead Butler
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

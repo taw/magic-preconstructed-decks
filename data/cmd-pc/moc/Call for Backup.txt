@@ -1,7 +1,7 @@
 // NAME: Call for Backup
 // SOURCE: https://magic.wizards.com/en/news/announcements/march-of-the-machine-commander-decklists
 // DATE: 2023-04-21
-COMMANDER: 1 Bright-Palm, Soul Awakener [foil]
+COMMANDER: 1 Bright-Palm, Soul Awakener [MOC:1] [foil]
 1 Shalai and Hallar [foil]
 1 Death-Greeter's Champion
 1 Uncivil Unrest
@@ -103,3 +103,6 @@ Planar Deck
 1 Grove of the Dreampods
 1 Jund
 1 Kharasha Foothills
+
+Display Commander
+1 Bright-Palm, Soul Awakener [MOC:134] [foil] [etched]

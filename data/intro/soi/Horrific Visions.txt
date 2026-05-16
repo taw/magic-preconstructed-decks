@@ -11,7 +11,7 @@
 1 Crow of Dark Tidings
 2 Tooth Collector
 2 Stallion of Ashmouth
-1 Soul Swallower [foil]
+1 Soul Swallower [PSOI:230] [foil]
 1 Ghoulsteed
 1 Hound of the Farbogs
 1 Morkrut Necropod
@@ -28,5 +28,5 @@
 1 Crawling Sensation
 1 Foul Orchard
 1 Warped Landscape
-12 Forest
-11 Swamp
+12 Forest [SOI:*]
+11 Swamp [SOI:*]

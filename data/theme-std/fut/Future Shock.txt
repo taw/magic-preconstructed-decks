@@ -20,6 +20,6 @@
 3 Ghostfire
 3 Edge of Autumn
 1 Phosphorescent Feast
-9 Mountain*
-14 Forest*
+9 Mountain [TSP:*]
+14 Forest [TSP:*]
 1 Dryad Arbor

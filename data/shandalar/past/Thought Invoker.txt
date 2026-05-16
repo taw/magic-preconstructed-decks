@@ -11,7 +11,7 @@
 2 Energy Flux
 4 Ghost Ship
 4 Giant Tortoise
-22 Island
+22 Island [3ED:*]
 1 Mahamoti Djinn
 3 Mana Short
 4 Phantom Monster

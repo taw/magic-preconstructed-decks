@@ -18,4 +18,4 @@
 1 Tidings
 1 Kraken's Eye
 1 Rod of Ruin
-17 Island
+17 Island [10E:*]

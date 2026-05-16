@@ -25,5 +25,5 @@
 1 Thwart
 1 Kyren Archive
 1 Puffer Extract
-10 Plains
-16 Island
+10 Plains [MMQ:*]
+16 Island [MMQ:*]

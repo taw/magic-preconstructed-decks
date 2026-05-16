@@ -28,5 +28,5 @@
 1 Alpha Authority
 1 Verdant Haven
 1 Gruul Guildgate
-12 Mountain
-13 Forest
+12 Mountain [RTR:*]
+13 Forest [RTR:*]

@@ -22,6 +22,6 @@
 1 Binding Grasp*
 4 Surging Aether
 2 Wings of Aesthir*
-11 Plains*
-11 Island*
+11 Plains [CST:*]
+11 Island [CST:*]
 2 Boreal Shelf

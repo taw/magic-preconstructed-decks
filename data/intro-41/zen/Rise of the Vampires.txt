@@ -17,5 +17,5 @@
 1 Rise from the Grave
 2 Vampire's Bite
 1 Hideous End
-16 Swamp
+16 Swamp [ZEN:*]
 2 Piranha Marsh

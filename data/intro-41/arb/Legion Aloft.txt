@@ -19,6 +19,6 @@
 1 Whispersilk Cloak
 2 Pacifism
 1 Stormcaller's Boon
-8 Plains
-8 Island
+8 Plains [ALA:*]
+8 Island [ALA:*]
 2 Terramorphic Expanse

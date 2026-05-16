@@ -26,4 +26,8 @@
 2 Shoulder to Shoulder
 2 Moment of Heroism
 1 Grasp of the Hieromancer
-25 Plains
+3 Plains [E01:97]
+3 Plains [E01:102]
+6 Plains [AKH:255]
+7 Plains [AKH:257]
+6 Plains [AKH:256]

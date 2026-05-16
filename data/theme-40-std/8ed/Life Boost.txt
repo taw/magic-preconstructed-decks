@@ -17,4 +17,4 @@
 1 Glorious Anthem
 1 Chastise
 1 Ivory Cup
-17 Plains
+17 Plains [8ED:*]

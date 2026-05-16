@@ -1,5 +1,5 @@
 // NAME: Life Skills
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-07-03
 2 Anointed Chorister
 1 Speaker of the Heavens
@@ -19,7 +19,7 @@
 3 Revitalize
 2 Unexpected Fangs
 2 Bake into a Pie
-10 Plains
+10 Plains [M21:*]
 4 Scoured Barrens
-10 Swamp
+10 Swamp [M21:*]
 1 Temple of Silence

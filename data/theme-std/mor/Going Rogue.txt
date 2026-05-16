@@ -21,8 +21,8 @@
 2 Familiar's Ruse
 1 Cloak and Dagger
 1 Protective Bubble
-10 Island
-13 Swamp
+10 Island [LRW:*]
+13 Swamp [LRW:*]
 1 Ego Erasure
 2 Thieves' Fortune
 2 Peppersmoke

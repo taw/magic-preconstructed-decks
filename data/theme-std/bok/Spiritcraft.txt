@@ -23,5 +23,5 @@
 2 Blessed Breath*
 1 Otherworldly Journey*
 2 Terashi's Verdict
-14 Forest*
-10 Plains*
+14 Forest [CHK:*]
+10 Plains [CHK:*]

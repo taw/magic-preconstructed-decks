@@ -25,8 +25,8 @@
 4 Gruul Guildgate
 1 Rogue's Passage
 1 Stomping Ground
-12 Forest
-6 Mountain
+12 Forest [M14:*]
+6 Mountain [M14:*]
 
 Sideboard
 2 Gruul Charm

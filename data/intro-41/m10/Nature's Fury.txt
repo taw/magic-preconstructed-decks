@@ -22,6 +22,6 @@
 1 Windstorm
 1 Pacifism
 1 Oakenform
-11 Forest
-5 Plains
+11 Forest [M10:*]
+5 Plains [M10:*]
 1 Terramorphic Expanse

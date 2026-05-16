@@ -1,5 +1,5 @@
 // NAME: Blue-White Flyers
-// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// SOURCE: https://mtg.wiki/wiki/Deck_Builder%27s_Toolkit_2011
 // DATE: 2011-03-11
 1 Air Servant
 1 Sleep

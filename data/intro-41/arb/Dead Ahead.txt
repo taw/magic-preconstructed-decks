@@ -20,6 +20,6 @@
 1 Bituminous Blast
 1 Breath of Malfegor
 1 Leonin Scimitar
-8 Swamp
-8 Mountain
+8 Swamp [ALA:*]
+8 Mountain [ALA:*]
 2 Terramorphic Expanse

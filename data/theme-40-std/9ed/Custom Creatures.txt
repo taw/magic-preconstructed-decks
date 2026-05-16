@@ -19,4 +19,4 @@
 2 Blanchwood Armor
 2 Overgrowth
 1 Wurm's Tooth
-16 Forest
+16 Forest [9ED:*]

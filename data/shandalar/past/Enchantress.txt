@@ -11,7 +11,7 @@
 2 Coral Helm
 2 Desert Twister
 2 Durkwood Boars
-22 Forest
+22 Forest [3ED:*]
 2 Instill Energy
 1 Ivory Tower
 1 Library of Leng

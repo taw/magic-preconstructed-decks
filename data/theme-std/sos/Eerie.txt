@@ -1,0 +1,23 @@
+// NAME: Eerie
+// SOURCE: https://magic.wizards.com/en/news/feature/secrets-of-strixhaven-60-card-theme-deck-contents-and-guide
+// DATE: 2026-04-24
+2 Angelic Destiny
+3 Entity Tracker [DSK:53]
+2 Silent Hallcreeper
+2 Enduring Innocence [DSK:6]
+2 Lost in the Maze
+2 Valgavoth's Lair
+2 Temple of Enlightenment
+2 Quill-Blade Laureate
+4 Sheltered by Ghosts
+3 Gremlin Tamer
+4 Ethereal Armor
+2 Feather of Flight
+3 Banishing Light
+4 Optimistic Scavenger [DSK:21]
+3 Shardmage's Rescue
+4 Tranquil Cove
+9 Plains [SOS:*]
+7 Island [SOS:*]
+
+Sideboard

@@ -11,11 +11,11 @@
 2 Circle of Protection: Black
 1 Disenchant
 4 Holy Strength
-6 Island
+6 Island [3ED:*]
 3 Karma
 3 Magical Hack
 4 Northern Paladin
-18 Plains
+18 Plains [3ED:*]
 2 Red Ward
 2 Segovian Leviathan
 4 Sleight of Mind

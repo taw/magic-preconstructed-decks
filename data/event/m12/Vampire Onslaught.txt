@@ -15,7 +15,7 @@
 2 Blade of the Bloodchief
 1 Mimic Vat
 1 Verdant Catacombs
-23 Swamp
+23 Swamp [M12:*]
 
 Sideboard
 3 Vampire Hexmage

@@ -27,5 +27,5 @@
 2 Dimir Keyrune
 2 Death's Approach
 1 Dimir Guildgate
-12 Island
-13 Swamp
+12 Island [RTR:*]
+13 Swamp [RTR:*]

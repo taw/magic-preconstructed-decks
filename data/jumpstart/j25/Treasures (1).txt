@@ -14,6 +14,6 @@
 1 Ruthless Knave
 1 Undercity Scrounger
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

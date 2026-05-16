@@ -14,5 +14,5 @@
 1 Aether Spellbomb
 1 Buried Ruin
 1 Thriving Isle
-5 Island [M21]
+5 Island [M21:*]
 1 Island [JMP:49]

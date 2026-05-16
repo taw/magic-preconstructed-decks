@@ -17,4 +17,4 @@
 1 Serra's Embrace
 1 Angel's Feather
 1 Icy Manipulator
-17 Plains
+17 Plains [10E:*]

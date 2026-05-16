@@ -19,9 +19,9 @@
 1 Desolate Lighthouse
 4 Evolving Wilds
 1 Sulfur Falls
-9 Mountain
-7 Island
-1 Swamp
+9 Mountain [M13:*]
+7 Island [M13:*]
+1 Swamp [M13:*]
 
 Sideboard
 4 Screeching Skaab

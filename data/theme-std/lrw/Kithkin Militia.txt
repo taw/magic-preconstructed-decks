@@ -22,4 +22,4 @@
 2 Crib Swap
 3 Oblivion Ring
 1 Runed Stalactite
-24 Plains
+24 Plains [LRW:*]

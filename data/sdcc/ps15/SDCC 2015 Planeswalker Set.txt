@@ -1,5 +1,5 @@
 // NAME: SDCC 2015 Planeswalker Set
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2015-07-09
 1 Kytheon, Hero of Akros // Gideon, Battle-Forged [PS15] [foil]
 1 Jace, Vryn's Prodigy // Jace, Telepath Unbound [PS15] [foil]

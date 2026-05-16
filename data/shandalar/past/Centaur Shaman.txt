@@ -11,12 +11,12 @@
 3 Cockatrice
 4 Cursed Land
 2 Dark Ritual
-11 Forest
+11 Forest [3ED:*]
 4 Onulet
 3 Paralyze
 2 Pestilence
 2 Stream of Life
-11 Swamp
+11 Swamp [3ED:*]
 4 Wanderlust
 4 Warp Artifact
 4 Whirling Dervish

@@ -1,5 +1,6 @@
 // NAME: Seventh Edition Redemption
-// DATE: 2001-04-11
+// SOURCE: default database query
+// DATE: 2001-05-11
 1 Abyssal Horror [7ED:115]
 1 Abyssal Specter [7ED:116]
 1 Adarkar Wastes [7ED:325]

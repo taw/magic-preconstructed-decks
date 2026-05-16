@@ -1,0 +1,8 @@
+// NAME: FORTNITE: Landmarks and Locations Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/763877
+// DATE: 2022-09-02
+1 [SLD:448] Plains [foil]
+1 [SLD:449] Island [foil]
+1 [SLD:450] Swamp [foil]
+1 [SLD:451] Mountain [foil]
+1 [SLD:452] Forest [foil]

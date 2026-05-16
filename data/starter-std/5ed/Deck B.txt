@@ -1,5 +1,5 @@
 // NAME: Deck B
-// SOURCE: https://mtg.fandom.com/wiki/Fifth_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Fifth_Edition/2-Player_Starter_Set
 // DATE: 1997-04-24
 1 Merfolk of the Pearl Trident
 1 Phantom Monster
@@ -19,7 +19,7 @@
 1 Terror
 1 Rod of Ruin
 1 Soul Net
-6 Swamp
-6 Island
+6 Swamp [5ED:*]
+6 Island [5ED:*]
 
 Sideboard

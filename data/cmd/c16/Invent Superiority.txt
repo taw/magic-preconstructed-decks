@@ -83,10 +83,10 @@ COMMANDER: 1 Breya, Etherium Shaper [foil]
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Transguild Promenade
-5 Plains
-5 Island
-4 Swamp
-4 Mountain
+5 Plains [C16:*]
+5 Island [C16:*]
+4 Swamp [C16:*]
+4 Mountain [C16:*]
 
 Display Commander
 1 Breya, Etherium Shaper [oc16] [foil]

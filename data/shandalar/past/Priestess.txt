@@ -17,7 +17,7 @@
 3 Ivory Cup
 2 Mesa Pegasus
 2 Pikemen
-23 Plains
+23 Plains [3ED:*]
 2 Reverse Damage
 3 Spirit Link
 2 Swords to Plowshares

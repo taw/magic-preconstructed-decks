@@ -1,0 +1,101 @@
+// NAME: Scions & Spellcraft (FINAL FANTASY XIV)
+// SOURCE: https://magic.wizards.com/en/news/announcements/final-fantasy-commander-decklists
+// DATE: 2025-06-13
+COMMANDER: 1 Y'shtola, Night's Blessed [FIC:7] [foil]
+1 G'raha Tia, Scion Reborn [FIC:3] [foil]
+1 Alisaie Leveilleur
+1 Champions from Beyond
+1 Dancer's Chakrams
+1 Summon: Good King Mog XII
+1 Tataru Taru
+1 Thancred Waters
+1 Alphinaud Leveilleur
+1 Blue Mage's Cane
+1 Hermes, Overseer of Elpis
+1 Hraesvelgr of the First Brood
+1 Observed Stasis
+1 Eye of Nidhogg
+1 Fandaniel, Telophoroi Ascian
+1 Astrologian's Planisphere
+1 Reaper's Scythe
+1 Transpose
+1 Ardbert, Warrior of Darkness
+1 Emet-Selch of the Third Seat
+1 Estinien Varlineau
+1 Hildibrand Manderville
+1 Krile Baldesion
+1 Lyse Hext
+1 Papalymo Totolymo
+1 Urianger Augurelt
+1 Archaeomancer's Map
+1 Authority of the Consuls
+1 Cleansing Nova
+1 Final Judgment
+1 Archmage Emeritus
+1 Dig Through Time
+1 Rite of Replication
+1 Sublime Epiphany
+1 Torrential Gearhulk
+1 Crux of Fate
+1 Lethal Scheme
+1 Murderous Rider
+1 Baleful Strix
+1 Vindicate
+1 Void Rend
+1 Coveted Jewel
+1 Tome of Legends
+1 Choked Estuary
+1 Darkwater Catacombs
+1 Desolate Mire
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fetid Heath
+1 Glacial Fortress
+1 Isolated Chapel
+1 Port Town
+1 Prairie Stream
+1 Scavenger Grounds
+1 Shineshadow Snarl
+1 Skycloud Expanse
+1 Sunken Hollow
+1 Sunken Ruins
+1 Underground River
+1 White Auracite
+1 Sage's Nouliths
+1 Circle of Power
+1 Cut a Deal
+1 Lingering Souls
+1 Swords to Plowshares
+1 Hypnotic Sprite
+1 Into the Story
+1 Propaganda
+1 Bastion of Remembrance
+1 Exsanguinate
+1 Snuff Out
+1 Syphon Mind
+1 Arcane Signet [FIC:335]
+1 Relic of Legends
+1 Sol Ring [FIC:359]
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Thought Vessel
+1 Arcane Sanctum
+1 Ash Barrens
+1 Command Tower [FIC:382]
+1 Contaminated Aquifer
+1 Demolition Field
+1 Evolving Wilds
+1 Idyllic Beachfront
+1 Path of Ancestry
+1 Sunlit Marsh
+1 Temple of the False God
+1 Island [FIN:297]
+1 Island [FIN:298]
+1 Island [FIN:299]
+2 Swamp [FIN:300]
+1 Swamp [FIN:301]
+1 Swamp [FIN:302]
+2 Plains [FIN:294]
+1 Plains [FIN:295]
+1 Plains [FIN:296]

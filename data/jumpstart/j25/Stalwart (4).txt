@@ -14,6 +14,6 @@
 1 Sunhome Stalwart
 1 Swift Response
 1 Thriving Heath
-7 Plains
+7 Plains [J25:*]
 
 Sideboard

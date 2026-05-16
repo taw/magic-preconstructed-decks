@@ -36,6 +36,6 @@
 2 Everflowing Chalice
 1 Moonglove Extract
 1 Trip Noose
-20 Island
+20 Island [DDF:*]
 1 Mishra's Factory
 1 Stalking Stones

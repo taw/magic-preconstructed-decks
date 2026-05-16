@@ -1,0 +1,8 @@
+// NAME: Avatar: The Last Airbender: My Cabbages! Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1248507
+// DATE: 2025-11-18
+1 [SLD:2295] Chain of Vapor [foil]
+1 [SLD:2296] Meltdown [foil]
+1 [SLD:2297] Nature's Claim [foil]
+1 [SLD:2298] Anguished Unmaking [foil]
+1 [SLD:2299] Putrefy [foil]

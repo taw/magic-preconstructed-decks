@@ -21,7 +21,7 @@
 1 Dryad's Caress
 1 Overwhelm
 1 Conclave's Blessing
-11 Forest
-10 Plains
+11 Forest [RAV:*]
+10 Plains [RAV:*]
 2 Selesnya Sanctuary
 1 Vitu-Ghazi, the City-Tree

@@ -15,6 +15,6 @@
 1 Wolfrider's Saddle
 1 Cave of Temptation
 1 Thriving Grove
-6 Forest
+6 Forest [J25:*]
 
 Sideboard

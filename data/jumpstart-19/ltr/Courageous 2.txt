@@ -13,4 +13,4 @@
 1 Hobbit's Sting
 1 Slip On the Ring
 1 Escape from Orthanc
-8 Plains
+8 Plains [LTR:*]

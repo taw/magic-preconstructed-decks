@@ -20,6 +20,7 @@
 2 Vraska's Stoneglare
 1 Bounty of Might
 3 Dead Weight
-4 Golgari Guildgate
+2 Golgari Guildgate [GRN:248]
+2 Golgari Guildgate [GRN:249]
 10 Forest
 12 Swamp

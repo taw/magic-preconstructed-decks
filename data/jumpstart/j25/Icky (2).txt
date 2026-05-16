@@ -14,6 +14,6 @@
 1 Torment of Scarabs
 1 Virus Beetle
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

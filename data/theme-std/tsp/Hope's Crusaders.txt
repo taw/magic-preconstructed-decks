@@ -22,4 +22,4 @@
 1 Divine Congregation
 1 Sarpadian Empires, Vol. VII
 2 Thunder Totem
-23 Plains
+23 Plains [TSP:*]

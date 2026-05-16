@@ -8,7 +8,7 @@
 // DISPLAY: Against White: No changes
 2 Craw Wurm
 2 Durkwood Boars
-20 Forest
+20 Forest [3ED:*]
 4 Giant Growth
 2 Giant Spider
 3 Grizzly Bears

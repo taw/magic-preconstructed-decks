@@ -12,7 +12,7 @@
 2 Aven Surveyor
 1 Dragon-Style Twins
 1 Riverwheel Aerialists
-1 Sage-Eye Avengers [foil]
+1 Sage-Eye Avengers [PFRF:50] [foil]
 1 Void Snare
 1 Arc Lightning
 1 Bathe in Dragonfire
@@ -27,5 +27,5 @@
 1 Quiet Contemplation
 1 Goblinslide
 3 Swiftwater Cliffs
-12 Island
-10 Mountain
+12 Island [FRF:*]
+10 Mountain [FRF:*]

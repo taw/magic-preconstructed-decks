@@ -25,5 +25,5 @@
 1 Batwing Brume
 2 Unmake
 2 Recumbent Bliss
-14 Plains
-10 Swamp
+14 Plains [SHM:*]
+10 Swamp [SHM:*]

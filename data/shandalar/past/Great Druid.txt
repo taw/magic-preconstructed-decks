@@ -9,7 +9,7 @@
 4 Aspect of Wolf
 3 Birds of Paradise
 3 Desert Twister
-22 Forest
+22 Forest [3ED:*]
 3 Gaea's Liege
 3 Instill Energy
 3 Jayemdae Tome

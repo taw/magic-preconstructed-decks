@@ -1,5 +1,5 @@
 // NAME: Golgari Swarm
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 2 District Guide
 4 Glowspore Shaman
@@ -22,7 +22,7 @@
 1 Casualties of War
 1 Find // Finality
 1 Undercity Uprising
-4 Golgari Guildgate
+4 Golgari Guildgate [GRN:248]
 1 Overgrown Tomb
-10 Swamp
-10 Forest
+10 Swamp [M20:*]
+10 Forest [M20:*]

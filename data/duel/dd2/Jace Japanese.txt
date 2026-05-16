@@ -1,6 +1,7 @@
-// NAME: Jace
+// NAME: Jace Japanese
 // SOURCE: https://magic.wizards.com/en/content/duel-decks-jace-vs-chandra
 // DATE: 2008-11-07
+// LANGUAGES: jp
 1 Jace Beleren [DD2:1★] [foil]
 1 Aethersnipe
 1 Air Elemental
@@ -29,5 +30,5 @@
 1 Gush
 2 Repulse
 1 Mind Stone
-23 Island
+23 Island [DD2:*]
 1 Terrain Generator

@@ -29,6 +29,6 @@
 3 Despoil
 1 Snuff Out*
 2 Rhystic Syphon
-9 Plains*
-11 Swamp*
+9 Plains [MMQ:*]
+11 Swamp [MMQ:*]
 1 Peat Bog*

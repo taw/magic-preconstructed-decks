@@ -45,9 +45,9 @@ COMMANDER: 1 Aminatou, the Fateshifter [foil]
 1 Sol Ring
 1 Lightform
 1 Cloudform
-8 Plains
-5 Island
-3 Swamp
+8 Plains [C18:*]
+5 Island [C18:*]
+3 Swamp [C18:*]
 1 Arcane Sanctum
 1 Azorius Chancery
 1 Azorius Guildgate

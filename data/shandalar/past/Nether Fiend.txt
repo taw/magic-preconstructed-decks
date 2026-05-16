@@ -16,7 +16,7 @@
 4 Mishra's Factory [ATQ:80a]
 4 Nether Shadow
 2 Soul Net
-20 Swamp
+20 Swamp [3ED:*]
 3 Terror
 4 The Hive
 3 Xenic Poltergeist

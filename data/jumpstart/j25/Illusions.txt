@@ -14,6 +14,6 @@
 1 Phantom Ninja
 1 Supreme Will
 1 Thriving Isle
-7 Island
+7 Island [J25:*]
 
 Sideboard

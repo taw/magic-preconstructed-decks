@@ -1,5 +1,5 @@
 // NAME: Inventive 1
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Tezzeret, Artifice Master
 1 Merfolk Pupil
@@ -15,4 +15,4 @@
 1 Aether Spellbomb
 1 Thriving Isle
 1 Seat of the Synod
-6 Island
+6 Island [J22:*]

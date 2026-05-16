@@ -1,5 +1,5 @@
 // NAME: Landfall 1
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Green
 // DATE: 2022-12-02
 1 Rampaging Baloths
 1 Courser of Kruphix
@@ -15,4 +15,4 @@
 1 Adventuring Gear
 1 Evolving Wilds
 1 Thriving Grove
-6 Forest
+6 Forest [J22:*]

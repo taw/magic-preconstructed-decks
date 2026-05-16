@@ -30,8 +30,8 @@
 1 Thran Dynamo
 1 Dragon Breath
 1 Fires of Yavimaya
-17 Mountain
-5 Forest
+17 Mountain [ARC:*]
+5 Forest [ARC:*]
 2 Kazandu Refuge
 
 Scheme Deck

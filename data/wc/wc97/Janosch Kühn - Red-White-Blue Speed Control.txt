@@ -1,5 +1,5 @@
 // NAME: Janosch Kühn - Red-White-Blue Speed Control
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1997
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1997
 // DATE: 1997-08-13
 4 Frenetic Efreet [WC97:jk264]
 4 Wildfire Emissary [WC97:jk203]

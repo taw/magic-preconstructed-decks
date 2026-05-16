@@ -19,12 +19,12 @@
 1 Parallel Lives
 2 Rancor
 4 Evolving Wilds
-6 Forest
+6 Forest [RTR:*]
 1 Godless Shrine
 1 Grove of the Guardian
-7 Plains
+7 Plains [RTR:*]
 4 Selesnya Guildgate
-1 Swamp
+1 Swamp [RTR:*]
 
 Sideboard
 4 Centaur Healer

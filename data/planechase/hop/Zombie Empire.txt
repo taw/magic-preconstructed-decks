@@ -30,9 +30,12 @@
 1 Cruel Revival
 1 Phyrexian Arena
 1 Grave Pact
-23 Swamp
 1 Cabal Coffers
 2 Leechridden Swamp
+6 Swamp [HOP:152]
+6 Swamp [HOP:153]
+6 Swamp [HOP:154]
+5 Swamp [HOP:155]
 
 Planar Deck
 1 The Aether Flues

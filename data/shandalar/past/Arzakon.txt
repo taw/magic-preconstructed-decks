@@ -27,7 +27,7 @@
 2 Erg Raiders
 4 Fellwar Stone
 2 Fog
-6 Forest
+6 Forest [3ED:*]
 4 Gem Bazaar
 2 Giant Growth
 2 Giant Strength
@@ -37,7 +37,7 @@
 2 Howl from Beyond
 2 Hurr Jackal
 2 Immolation
-6 Island
+6 Island [3ED:*]
 2 Lightning Bolt
 2 Mesa Pegasus
 1 Mind Twist
@@ -52,7 +52,7 @@
 1 Obsianus Golem
 2 Paralyze
 2 Pikemen
-6 Plains
+6 Plains [3ED:*]
 2 Power Sink
 2 Pyrotechnics
 2 Raise Dead
@@ -64,7 +64,7 @@
 2 Siren's Call
 1 Sol Ring
 2 Spirit Link
-6 Swamp
+6 Swamp [3ED:*]
 1 Tetravus
 2 The Hive
 1 Time Walk

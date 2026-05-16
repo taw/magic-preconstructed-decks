@@ -1,5 +1,5 @@
 // NAME: Auras of Majesty
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Novice Knight
 2 Daybreak Chaplain
@@ -19,7 +19,7 @@
 1 On Serra's Wings
 2 Knightly Valor
 1 Prodigious Growth
-11 Plains
+11 Plains [M19:*]
 1 Sunpetal Grove
-9 Forest
+9 Forest [M19:*]
 4 Tranquil Expanse

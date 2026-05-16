@@ -14,5 +14,5 @@
 1 Feat of Resistance
 1 Cathars' Crusade
 1 Thriving Heath
-6 Plains [M21]
+6 Plains [M21:*]
 1 Plains [JMP:43]

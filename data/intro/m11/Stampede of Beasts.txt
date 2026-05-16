@@ -27,5 +27,5 @@
 1 Fling
 1 Chandra's Outrage
 1 Whispersilk Cloak
-16 Forest
-8 Mountain
+16 Forest [M11:*]
+8 Mountain [M11:*]

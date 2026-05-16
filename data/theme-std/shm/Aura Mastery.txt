@@ -23,5 +23,5 @@
 1 Armored Ascension
 2 Curse of Chains
 3 Steel of the Godhead
-14 Plains
-10 Island
+14 Plains [SHM:*]
+10 Island [SHM:*]

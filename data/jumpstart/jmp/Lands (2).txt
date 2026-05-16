@@ -14,5 +14,5 @@
 1 Crushing Canopy
 1 Elemental Uprising
 1 Thriving Grove
-6 Forest [M21]
+6 Forest [M21:*]
 1 Forest [JMP:71]

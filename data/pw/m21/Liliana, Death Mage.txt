@@ -16,5 +16,5 @@
 2 Alchemist's Gift
 3 Grasp of Darkness
 1 Demonic Embrace
-24 Swamp
+24 Swamp [M21:*]
 1 Swamp [M21:311]

@@ -23,5 +23,5 @@
 1 Artisan's Sorrow
 1 Bow of Nylea
 2 Pacifism
-13 Forest
-12 Plains
+13 Forest [THS:*]
+12 Plains [THS:*]

@@ -30,12 +30,14 @@ class BuildJsons
       cards: deck.sections,
       source: deck.source,
       display: deck.display,
+      languages: deck.languages,
     }.compact
     @decks << deck_data
   end
 
   def validate_and_add_deck(path, deck)
-    name = path.basename(".txt").to_s
+    name = deck.name
+    verify_file_name_matched_deck_name(path, deck.name)
     set_code = path.parent.basename.to_s.sub(/_\z/, "")
     deck_type = path.parent.parent.basename.to_s
     set_name = MagicSets[set_code]
@@ -52,6 +54,26 @@ class BuildJsons
     end
   end
 
+  # The only difference is that we use "- " to represent ": "
+  # to avoid illegal Windows character that needs to appear in a lot of deck names
+  # Other than that, they should all match
+  def verify_file_name_matched_deck_name(path, deck_name)
+    name_from_file = path.basename(".txt").to_s.gsub(/(?<! )- /, ': ')
+
+    if deck_name =~ /™|®|Secret Lair x|Secret Lair Drop|"|<|>|‘|S\.P\.E\.C\.I\.A\.L\./
+      warn "Name #{deck_name} contains broken characters or phrases"
+    end
+
+    return if name_from_file == deck_name
+
+    pwd = Pathname.pwd
+    new_path = path.dirname + (deck_name.gsub(/(?<! ): /, '- ') + ".txt")
+    # pretty stupid regexps to make shell deal with weird characters but keep it semi-readable
+    puts "git mv '#{path.relative_path_from(pwd).to_s.gsub("'", %q('"'"'))}' '#{new_path.relative_path_from(pwd).to_s.gsub("'", %q('"'"'))}'"
+
+    deck_name
+  end
+
   def save_jsons(out)
     out.puts JSON.pretty_generate(@decks)
   end
@@ -59,6 +81,7 @@ class BuildJsons
   def build(save_path)
     data_root.glob("*/*/*.txt").each do |path|
       deck = Deck.new(path)
+      deck.merge_duplicates
       validate_and_add_deck path, deck
     end
     @decks.sort_by!{|d| [d[:set_code], d[:name]]}

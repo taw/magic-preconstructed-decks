@@ -15,7 +15,7 @@
 4 Eye for an Eye
 2 Morale
 4 Pikemen
-22 Plains
+22 Plains [3ED:*]
 4 Rainbow Knights
 4 Swords to Plowshares
 4 White Knight

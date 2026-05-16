@@ -1,5 +1,5 @@
 // NAME: Cult of Rakdos
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 3 Footlight Fiend
 2 Spear Spewer
@@ -21,6 +21,6 @@
 2 Light Up the Stage
 3 Skewer the Critics
 1 Blood Crypt
-4 Rakdos Guildgate
-10 Swamp
-10 Mountain
+4 Rakdos Guildgate [RNA:255]
+10 Swamp [M20:*]
+10 Mountain [M20:*]

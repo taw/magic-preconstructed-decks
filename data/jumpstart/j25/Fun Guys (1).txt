@@ -14,6 +14,6 @@
 1 Sporecrown Thallid
 1 Tukatongue Thallid
 1 Thriving Grove
-7 Forest
+7 Forest [J25:*]
 
 Sideboard

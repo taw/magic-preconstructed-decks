@@ -25,5 +25,5 @@
 1 Sylvan Might
 1 Timberland Ruins
 1 Seafloor Debris
-13 Forest
-9 Island
+13 Forest [ODY:*]
+9 Island [ODY:*]

@@ -15,4 +15,4 @@
 1 Blaze
 1 Enrage
 1 Fodder Cannon
-17 Mountain
+17 Mountain [8ED:*]

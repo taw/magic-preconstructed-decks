@@ -19,6 +19,6 @@
 1 Canopy Cover
 2 Vastwood Zendikon
 1 Rumbling Aftershocks
-10 Forest
-7 Mountain
+10 Forest [ZEN:*]
+7 Mountain [ZEN:*]
 1 Terramorphic Expanse

@@ -34,8 +34,8 @@
 1 Sphinx-Bone Wand
 1 Quicksilver Dagger
 1 Forgotten Cave
-10 Island
+10 Island [DDJ:*]
 2 Izzet Boilerworks
 1 Lonely Sandbar
-9 Mountain
+9 Mountain [DDJ:*]
 1 Nivix, Aerie of the Firemind

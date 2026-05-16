@@ -17,10 +17,10 @@
 4 Engineered Plague
 3 Recurring Nightmare
 2 Pattern of Rebirth
-13 Forest
+13 Forest [USG:*]
 1 Polluted Mire
 2 Slippery Karst
-6 Swamp
+6 Swamp [USG:*]
 
 Sideboard
 4 Dread of Night

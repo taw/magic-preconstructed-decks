@@ -12,7 +12,7 @@
 2 Drain Power
 2 Fellwar Stone
 3 Hypnotic Specter
-11 Island
+11 Island [3ED:*]
 2 Junún Efreet
 1 Mind Twist
 2 Phantasmal Forces
@@ -21,7 +21,7 @@
 3 Sindbad
 2 Siren's Call
 2 Steal Artifact
-11 Swamp
+11 Swamp [3ED:*]
 4 Unholy Strength
 3 Will-o'-the-Wisp
 

@@ -21,4 +21,4 @@
 2 Creeping Mold
 1 Stream of Life
 1 Rod of Ruin
-14 Forest
+14 Forest [7ED:*]

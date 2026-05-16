@@ -16,5 +16,5 @@
 2 Ram Through
 3 Titanic Growth
 2 Garruk's Uprising
-24 Forest
+24 Forest [M21:*]
 1 Forest [M21:313]

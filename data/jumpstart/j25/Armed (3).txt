@@ -14,6 +14,6 @@
 1 Trusty Retriever
 1 Valkyrie's Sword
 1 Thriving Heath
-7 Plains
+7 Plains [J25:*]
 
 Sideboard

@@ -1,5 +1,5 @@
 // NAME: Think Again 2
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Alandra, Sky Dreamer
 1 Spectral Sailor
@@ -14,4 +14,4 @@
 1 Eternity Snare
 1 Hedron Archive
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

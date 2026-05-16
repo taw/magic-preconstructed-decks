@@ -3,8 +3,8 @@
 // DATE: 2019-05-03
 3 Ajani's Pridemate
 4 Orzhov Guildgate
-12 Plains
-8 Swamp
+12 Plains [WAR:*]
+8 Swamp [WAR:*]
 1 Command the Dreadhorde
 1 Oath of Kaya
 2 Gideon's Battle Cry

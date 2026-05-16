@@ -87,8 +87,8 @@ COMMANDER: 1 Winter, Cynical Opportunist [foil] [DSC:7]
 1 Tranquil Thicket
 1 Tree of Tales
 1 Vault of Whispers
-7 Swamp
-7 Forest
+7 Swamp [DSK:*]
+7 Forest [DSK:*]
 
 Scheme Deck
 1 Choose Your Champion

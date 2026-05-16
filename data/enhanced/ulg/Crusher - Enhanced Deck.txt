@@ -23,9 +23,9 @@
 1 Overrun
 4 Brushland
 2 City of Brass
-11 Forest
+11 Forest [USG:*]
 2 Gaea's Cradle
-4 Plains
+4 Plains [USG:*]
 
 Sideboard
 1 Multani's Presence

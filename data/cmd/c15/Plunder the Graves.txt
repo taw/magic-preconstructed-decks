@@ -76,8 +76,8 @@ COMMANDER: 1 Meren of Clan Nel Toth
 1 Terramorphic Expanse
 1 Vivid Grove
 1 Vivid Marsh
-13 Swamp
-12 Forest
+13 Swamp [C15:*]
+12 Forest [C15:*]
 
 Display Commander
 1 Meren of Clan Nel Toth [oc15] [foil]

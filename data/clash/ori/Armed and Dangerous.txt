@@ -33,9 +33,9 @@
 1 Sandsteppe Citadel [CP3] [foil]
 2 Scoured Barrens
 1 Windswept Heath
-6 Plains
-3 Swamp
-5 Forest
+6 Plains [ORI:*]
+3 Swamp [ORI:*]
+5 Forest [ORI:*]
 
 Sideboard
 1 Anointer of Champions

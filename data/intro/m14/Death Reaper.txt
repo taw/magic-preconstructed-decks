@@ -22,5 +22,5 @@
 1 Bubbling Cauldron
 1 Staff of the Death Magus
 1 Barrage of Expendables
-17 Swamp
-8 Mountain
+17 Swamp [M14:*]
+8 Mountain [M14:*]

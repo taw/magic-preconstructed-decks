@@ -25,5 +25,5 @@
 1 Precognition
 1 Puppet Strings
 1 Emmessi Tome
-13 Island
-11 Plains
+13 Island [TMP:*]
+11 Plains [TMP:*]

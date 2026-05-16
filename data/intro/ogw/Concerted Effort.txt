@@ -16,7 +16,7 @@
 1 Steppe Glider
 2 Expedition Raptor
 1 Angel of Renewal
-1 Gladehart Cavalry [foil]
+1 Gladehart Cavalry [POGW:132] [foil]
 2 Shoulder to Shoulder
 1 Allied Reinforcements
 2 Lead by Example
@@ -26,5 +26,5 @@
 2 Isolation Zone
 1 Evolving Wilds
 1 Tranquil Expanse
-7 Forest
-15 Plains
+7 Forest [BFZ:*]
+15 Plains [BFZ:*]

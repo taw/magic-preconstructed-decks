@@ -35,7 +35,7 @@
 1 Elder Mastery
 2 Crumbling Necropolis
 7 Island
-5 Mountain
+5 Mountain [DDH:80]
 1 Rupture Spire
-9 Swamp
+9 Swamp [DDH:*]
 2 Terramorphic Expanse

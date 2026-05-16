@@ -15,5 +15,5 @@
 1 Opt
 1 Riptide Laboratory
 1 Thriving Isle
-5 Island [M21]
+5 Island [M21:*]
 1 Island [JMP:47]

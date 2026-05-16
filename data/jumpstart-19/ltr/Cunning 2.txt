@@ -13,6 +13,6 @@
 1 Elrond, Lord of Rivendell
 1 Horses of the Bruinen
 1 Mirror of Galadriel
-8 Island
+8 Island [LTR:*]
 
 Sideboard

@@ -1,5 +1,5 @@
 // NAME: Shapeshifters
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Pirated Copy
 1 Gigantoplasm
@@ -14,4 +14,4 @@
 1 Crashing Tide
 1 Heirloom Blade
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

@@ -10,7 +10,7 @@
 1 Nimbus of the Isles
 2 Pine Walker
 2 Glacial Stalker
-1 Temur War Shaman [foil]
+1 Temur War Shaman [PFRF:142] [foil]
 1 Thousand Winds
 1 Arashin War Beast
 1 Woolly Loxodon
@@ -25,5 +25,5 @@
 2 Singing Bell Strike
 2 Secret Plans
 3 Thornwood Falls
-11 Forest
-12 Island
+11 Forest [FRF:*]
+12 Island [FRF:*]

@@ -15,6 +15,6 @@
 1 Yarok's Wavecrasher
 1 Lonely Sandbar
 1 Thriving Isle
-6 Island
+6 Island [J25:*]
 
 Sideboard

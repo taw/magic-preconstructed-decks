@@ -1,5 +1,5 @@
 // NAME: Savage Lands
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 3 Akoum Hellhound
 2 Hobgoblin Captain
@@ -18,8 +18,8 @@
 3 Roil Eruption
 3 Scale the Heights
 2 Vastwood Surge
-9 Mountain
-8 Forest
+9 Mountain [AFR:*]
+8 Forest [AFR:*]
 1 Cragcrown Pathway
 4 Highland Forest
 4 Evolving Wilds

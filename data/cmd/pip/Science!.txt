@@ -94,3 +94,6 @@ COMMANDER: 1 Dr. Madison Li [PIP:3] [foil]
 2 Mountain [PIP:324]
 2 Plains [PIP:317]
 2 Plains [PIP:318]
+
+Display Commander
+1 Dr. Madison Li [PIP:1066] [foil] [etched]

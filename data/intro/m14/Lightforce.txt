@@ -22,5 +22,5 @@
 3 Trollhide
 1 Angelic Accord
 1 Indestructibility
-16 Plains
-9 Forest
+16 Plains [M14:*]
+9 Forest [M14:*]

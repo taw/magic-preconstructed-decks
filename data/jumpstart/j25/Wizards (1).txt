@@ -14,6 +14,6 @@
 1 Remand
 1 Windcaller Aven
 1 Thriving Isle
-7 Island
+7 Island [J25:*]
 
 Sideboard

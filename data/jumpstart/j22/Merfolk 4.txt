@@ -1,5 +1,5 @@
 // NAME: Merfolk 4
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Merfolk Sovereign
 1 Merrow Reejerey
@@ -14,4 +14,4 @@
 1 Aquatic Incursion
 1 One With the Wind
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

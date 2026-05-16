@@ -23,5 +23,5 @@
 1 Cellar Door
 2 Curse of the Bloody Tome
 2 Burning Vengeance
-13 Island
-11 Mountain
+13 Island [ISD:*]
+11 Mountain [ISD:*]

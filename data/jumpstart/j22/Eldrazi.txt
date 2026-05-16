@@ -1,5 +1,5 @@
 // NAME: Eldrazi
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Green
 // DATE: 2022-12-02
 1 World Breaker
 1 Endbringer
@@ -16,4 +16,4 @@
 1 Warped Landscape
 1 Wastes
 1 Ash Barrens
-5 Forest
+5 Forest [J22:*]

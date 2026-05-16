@@ -23,4 +23,4 @@
 1 Banshee's Blade
 1 Fireshrieker
 1 Loxodon Warhammer
-22 Plains
+22 Plains [MRD:*]

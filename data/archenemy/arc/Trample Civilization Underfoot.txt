@@ -31,14 +31,14 @@
 2 Oblivion Ring
 1 Rancor
 1 Spider Umbra
-10 Forest
+10 Forest [ARC:*]
 1 Graypelt Refuge
 1 Khalni Garden
 1 Krosan Verge
 1 Llanowar Reborn
 1 Mosswort Bridge
 1 Nantuko Monastery
-5 Plains
+5 Plains [ARC:*]
 1 Secluded Steppe
 1 Tranquil Thicket
 1 Vitu-Ghazi, the City-Tree

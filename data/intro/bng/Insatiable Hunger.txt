@@ -25,5 +25,5 @@
 1 Searing Blood
 1 Messenger's Speed
 2 Ordeal of Nylea
-14 Forest
-12 Mountain
+14 Forest [THS:*]
+12 Mountain [THS:*]

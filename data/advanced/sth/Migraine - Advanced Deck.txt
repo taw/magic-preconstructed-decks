@@ -19,7 +19,7 @@
 1 Infernal Tribute
 4 Megrim
 4 Quicksand
-18 Swamp
+18 Swamp [TMP:*]
 1 Wasteland
 
 Sideboard

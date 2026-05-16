@@ -23,6 +23,6 @@
 1 Barbed Battlegear
 1 Viridian Revel
 1 Asceticism
-12 Mountain
-12 Forest
+12 Mountain [SOM:*]
+12 Forest [SOM:*]
 2 Oxidda Scrapmelter

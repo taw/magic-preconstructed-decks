@@ -25,6 +25,6 @@
 1 Springleaf Drum
 2 Evanescent Intellect
 1 Oracle's Insight
-15 Island
-11 Swamp
+15 Island [THS:*]
+11 Swamp [THS:*]
 1 Triton Shorethief

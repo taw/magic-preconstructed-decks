@@ -12,7 +12,7 @@
 4 Counterspell
 3 Drain Power
 4 Howling Mine
-24 Island
+24 Island [3ED:*]
 4 Leviathan
 1 Mox Sapphire
 4 Stasis

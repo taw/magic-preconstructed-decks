@@ -21,5 +21,5 @@
 1 Thunderstaff
 1 Wirefly Hive
 1 Myr Matrix
-16 Forest*
-8 Plains*
+16 Forest [MRD:*]
+8 Plains [MRD:*]

@@ -1,6 +1,6 @@
 // NAME: Ready to Attack
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random red Dominaria United rare or mythic rare
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includes a random red Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Phoenix Chick
 1 Electrostatic Infantry
@@ -13,6 +13,6 @@
 1 Lightning Strike
 1 Twinferno
 1 Jaya's Firenado
-5 Mountain
-2 Mountain [foil]
+5 Mountain [DMU:*]
+2 Mountain [DMU:*] [foil]
 1 Mountain [DMU:280]

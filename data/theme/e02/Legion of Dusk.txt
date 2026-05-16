@@ -1,5 +1,5 @@
 // NAME: Legion of Dusk
-// SOURCE: https://mtg.gamepedia.com/Explorers_of_Ixalan/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Explorers_of_Ixalan/Theme_decks
 // DATE: 2017-11-24
 1 Bloodcrazed Paladin
 1 Necropolis Regent
@@ -26,5 +26,5 @@
 1 Vanquisher's Banner
 2 Prismatic Lens
 4 Tainted Field
-9 Plains
-13 Swamp
+9 Plains [XLN:*]
+13 Swamp [XLN:*]

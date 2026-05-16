@@ -1,5 +1,5 @@
 // NAME: Deck A
-// SOURCE: https://mtg.fandom.com/wiki/Fifth_Edition/2-Player_Starter_Set
+// SOURCE: https://mtg.wiki/wiki/Fifth_Edition/2-Player_Starter_Set
 // DATE: 1997-04-24
 1 Pearled Unicorn
 1 Samite Healer
@@ -19,9 +19,9 @@
 1 Incinerate
 1 Giant Growth
 1 Dancing Scimitar
-3 Plains
-5 Mountain
-3 Forest
+3 Plains [5ED:*]
+5 Mountain [5ED:*]
+3 Forest [5ED:*]
 1 City of Brass
 
 Sideboard

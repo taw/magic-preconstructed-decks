@@ -16,7 +16,7 @@
 2 Darksteel Axe
 2 Panic Spellbomb
 1 Contested War Zone
-21 Mountain
+21 Mountain [MBS:*]
 
 Sideboard
 2 Unstable Footing

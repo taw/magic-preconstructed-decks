@@ -20,7 +20,7 @@
 1 Hero's Downfall
 1 Fated Return
 1 Gift of Orzhova
-24 Swamp
+24 Swamp [THS:*]
 
 Sideboard
 2 Gift of Orzhova

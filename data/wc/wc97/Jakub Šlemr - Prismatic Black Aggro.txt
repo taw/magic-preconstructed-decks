@@ -1,5 +1,5 @@
 // NAME: Jakub Šlemr - Prismatic Black Aggro
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1997
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1997
 // DATE: 1997-08-13
 4 Black Knight
 4 Fallen Askari

@@ -22,6 +22,6 @@
 1 Volcanic Geyser
 2 Gruul Cluestone
 2 Gruul War Chant
-12 Forest
+12 Forest [RTR:*]
 4 Gruul Guildgate
-10 Mountain
+10 Mountain [RTR:*]

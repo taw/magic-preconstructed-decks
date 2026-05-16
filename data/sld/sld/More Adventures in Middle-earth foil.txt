@@ -1,7 +1,0 @@
-// NAME: More Adventures in Middle-earth™ Foil Edition
-// SOURCE: https://secretlair.wizards.com/us/product/835849
-// DATE: 2023-08-29
-1 [SLD:1293] Slip On the Ring [foil]
-1 [SLD:1294] Gandalf, Friend of the Shire [foil]
-1 [SLD:1295] Mirror of Galadriel [foil]
-1 [SLD:1296] Shire Terrace [foil]

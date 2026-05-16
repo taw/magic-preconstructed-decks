@@ -14,6 +14,6 @@
 1 Vraska's Finisher
 1 Gorgon Flail
 1 Thriving Moor
-7 Swamp
+7 Swamp [J25:*]
 
 Sideboard

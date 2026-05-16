@@ -1,0 +1,8 @@
+// NAME: Alien Auroras Galaxy Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246428
+// DATE: 2025-07-29
+1 [SLD:2107] Reprocess [foil]
+1 [SLD:2108] Aggressive Mining [foil]
+1 [SLD:2109] Sylvan Safekeeper [foil]
+1 [SLD:2110] Crucible of Worlds [foil]
+1 [SLD:2111] Zuran Orb [foil]

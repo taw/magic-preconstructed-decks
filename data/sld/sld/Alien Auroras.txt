@@ -1,0 +1,8 @@
+// NAME: Alien Auroras
+// SOURCE: https://secretlair.wizards.com/us/product/1246429
+// DATE: 2025-07-29
+1 [SLD:2107] Reprocess
+1 [SLD:2108] Aggressive Mining
+1 [SLD:2109] Sylvan Safekeeper
+1 [SLD:2110] Crucible of Worlds
+1 [SLD:2111] Zuran Orb

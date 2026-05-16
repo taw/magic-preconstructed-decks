@@ -1,5 +1,5 @@
 // NAME: Wolves 3
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Green
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Green
 // DATE: 2022-12-02
 1 Arlinn, Voice of the Pack
 1 Mild-Mannered Librarian
@@ -14,4 +14,4 @@
 1 Feed the Pack
 1 Wolfwillow Haven
 1 Thriving Grove
-7 Forest
+7 Forest [J22:*]

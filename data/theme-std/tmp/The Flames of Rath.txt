@@ -23,5 +23,5 @@
 1 Furnace of Rath
 1 Squee's Toy
 1 Maze of Shadows
-19 Mountain
-5 Plains
+19 Mountain [TMP:*]
+5 Plains [TMP:*]

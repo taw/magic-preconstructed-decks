@@ -20,5 +20,5 @@
 1 Illuminated Folio
 1 Prismatic Omen
 1 Runes of the Deus
-10 Mountain
-14 Forest
+10 Mountain [SHM:*]
+14 Forest [SHM:*]

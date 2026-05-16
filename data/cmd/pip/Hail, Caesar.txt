@@ -93,3 +93,6 @@ COMMANDER: 1 Caesar, Legion's Emperor [PIP:1] [foil]
 2 Swamp [PIP:322]
 3 Mountain [PIP:323]
 2 Mountain [PIP:324]
+
+Display Commander
+1 Caesar, Legion's Emperor [PIP:1064] [foil] [etched]

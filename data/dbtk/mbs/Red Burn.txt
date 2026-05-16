@@ -1,5 +1,5 @@
 // NAME: Red Burn
-// SOURCE: https://mtg.fandom.com/wiki/Deck_Builder%27s_Toolkit_2011
+// SOURCE: https://mtg.wiki/wiki/Deck_Builder%27s_Toolkit_2011
 // DATE: 2011-03-11
 1 Chandra's Spitfire
 1 Fire Servant

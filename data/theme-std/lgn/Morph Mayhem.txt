@@ -25,7 +25,7 @@
 1 Akroma's Blessing*
 1 Improvised Armor*
 1 Discombobulate*
-11 Plains*
-11 Island*
+11 Plains [ONS:*]
+11 Island [ONS:*]
 2 Lonely Sandbar*
 2 Secluded Steppe*

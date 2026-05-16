@@ -22,5 +22,5 @@
 2 Gilt-Leaf Ambush
 2 Elvish Promenade
 1 Wanderer's Twig
-9 Swamp
-14 Forest
+9 Swamp [LRW:*]
+14 Forest [LRW:*]

@@ -7,7 +7,7 @@
 2 Frost Lynx
 3 Warden of Evos Isle
 4 Unsummon
-25 Island
+25 Island [M20:*]
 2 Yanling's Harbinger
 3 Brineborn Cutthroat
 3 Cloudkin Seer

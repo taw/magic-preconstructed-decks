@@ -25,5 +25,5 @@
 1 Unravel the Aether
 1 Raised by Wolves
 2 Weight of the Underworld
-11 Forest
-15 Swamp
+11 Forest [THS:*]
+15 Swamp [THS:*]

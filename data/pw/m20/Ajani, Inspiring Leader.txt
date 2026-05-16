@@ -7,7 +7,7 @@
 3 Impassioned Orator
 4 Moment of Heroism
 3 Pacifism
-25 Plains
+25 Plains [M20:*]
 1 Loxodon Lifechanter
 2 Goldmane Griffin
 3 Angel of Vitality

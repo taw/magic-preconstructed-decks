@@ -22,8 +22,8 @@
 2 Veteran's Armaments
 1 Weight of Conscience
 2 Oblivion Ring
-12 Plains
-9 Island
+12 Plains [LRW:*]
+9 Island [LRW:*]
 1 Vivid Creek
 1 Vivid Meadow
 1 Mosquito Guard

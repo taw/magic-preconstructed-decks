@@ -10,7 +10,7 @@
 2 Firemantle Mage
 1 Chasm Guide
 1 Ondu Champion
-1 Hero of Goma Fada [foil]
+1 Hero of Goma Fada [PBFZ:31] [foil]
 2 Kor Entanglers
 2 Shatterskull Recruit
 1 Angelic Captain
@@ -24,5 +24,5 @@
 1 Blighted Gorge
 2 Evolving Wilds
 2 Sandstone Bridge
-10 Mountain
-10 Plains
+10 Mountain [BFZ:*]
+10 Plains [BFZ:*]

@@ -18,6 +18,6 @@
 2 Invigorate
 1 Saproling Burst
 1 Flowstone Armor
-17 Forest
-7 Swamp
+17 Forest [MMQ:*]
+7 Swamp [MMQ:*]
 1 Subterranean Hangar

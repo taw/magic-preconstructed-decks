@@ -14,6 +14,6 @@
 1 Play with Fire
 1 Wildfire Elemental
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

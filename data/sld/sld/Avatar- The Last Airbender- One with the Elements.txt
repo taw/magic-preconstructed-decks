@@ -1,0 +1,9 @@
+// NAME: Avatar: The Last Airbender: One with the Elements
+// SOURCE: https://secretlair.wizards.com/us/product/1248510
+// DATE: 2025-11-18
+1 [SLD:2300] Silence
+1 [SLD:2301] Preordain
+1 [SLD:2302] Painful Truths
+1 [SLD:2303] Past in Flames
+1 [SLD:2304] Force of Vigor
+1 [SLD:2305] Expressive Iteration

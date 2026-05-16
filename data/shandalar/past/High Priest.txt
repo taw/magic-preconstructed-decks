@@ -9,7 +9,7 @@
 4 Healing Salve
 2 Holy Strength
 4 Mesa Pegasus
-22 Plains
+22 Plains [3ED:*]
 3 Righteousness
 4 Savannah Lions
 4 Tundra Wolves

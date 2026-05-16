@@ -1,0 +1,7 @@
+// NAME: Avatar: The Last Airbender: A Lot to Learn
+// SOURCE: https://secretlair.wizards.com/us/product/1248504
+// DATE: 2025-11-18
+1 [SLD:2291] Serra Ascendant
+1 [SLD:2292] Ponder
+1 [SLD:2293] Cryptolith Rite
+1 [SLD:2294] Kodama's Reach

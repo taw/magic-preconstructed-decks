@@ -1,5 +1,5 @@
 // NAME: Detective 3
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Shimmer Dragon
 1 Drownyard Explorers
@@ -14,4 +14,4 @@
 1 Hold for Questioning
 1 Magnifying Glass
 1 Thriving Isle
-7 Island
+7 Island [J22:*]

@@ -1,5 +1,5 @@
 // NAME: Orzhov Syndicate
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 2 Basilica Bell-Haunt
 3 Cruel Celebrant
@@ -22,6 +22,6 @@
 1 Kaya's Wrath
 1 Revival // Revenge
 1 Godless Shrine
-4 Orzhov Guildgate
-10 Plains
-10 Swamp
+4 Orzhov Guildgate [RNA:252]
+10 Plains [M20:*]
+10 Swamp [M20:*]

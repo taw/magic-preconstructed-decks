@@ -20,6 +20,6 @@
 2 Ior Ruin Expedition
 2 Paralyzing Grasp
 1 Mind Control
-10 Island
-7 Forest
+10 Island [ZEN:*]
+7 Forest [ZEN:*]
 1 Terramorphic Expanse

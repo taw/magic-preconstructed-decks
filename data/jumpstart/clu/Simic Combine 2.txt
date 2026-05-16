@@ -16,6 +16,6 @@
 1 Simic Growth Chamber
 1 Lonis, Genetics Expert
 1 Hydroid Krasis
-5 Forest
+5 Forest [CLU:271]
 
 Sideboard

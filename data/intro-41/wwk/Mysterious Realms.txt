@@ -20,6 +20,6 @@
 1 Telepathy
 2 Paralyzing Grasp
 1 Vapor Snare
-8 Island
-8 Forest
+8 Island [ZEN:*]
+8 Forest [ZEN:*]
 2 Halimar Depths

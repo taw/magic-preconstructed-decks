@@ -83,8 +83,8 @@ COMMANDER: 1 Zimone, Mystery Unraveler [foil] [DSC:8]
 1 Tangled Islet
 1 Temple of the False God
 1 Thornwood Falls
-9 Island
-9 Forest
+9 Island [DSK:*]
+9 Forest [DSK:*]
 
 Scheme Deck 
 1 My Laughter Echoes

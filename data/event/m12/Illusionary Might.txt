@@ -16,7 +16,7 @@
 3 Mind Control
 1 Glacial Fortress
 4 Glimmerpost
-19 Island
+19 Island [M12:*]
 
 Sideboard
 1 Mind Control

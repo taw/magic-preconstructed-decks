@@ -1,0 +1,7 @@
+// NAME: Tragic Romance
+// SOURCE: https://secretlair.wizards.com/us/product/1151501
+// DATE: 2025-03-25
+1 [SLD:1562] Skithiryx, the Blight Dragon
+1 [SLD:1563] Kaalia of the Vast
+1 [SLD:1564] Angel of Despair
+1 [SLD:1565] Master of Cruelties

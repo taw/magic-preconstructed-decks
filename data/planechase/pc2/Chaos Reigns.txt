@@ -32,13 +32,13 @@
 1 Fractured Powerstone
 1 Sunken Hope
 1 Exotic Orchard
-4 Forest
-5 Island
-4 Mountain
-2 Plains
+4 Forest [PC2:*]
+5 Island [PC2:*]
+4 Mountain [PC2:*]
+2 Plains [PC2:*]
 2 Rupture Spire
 2 Shimmering Grotto
-2 Swamp
+2 Swamp [PC2:*]
 1 Terramorphic Expanse
 1 Vivid Creek
 

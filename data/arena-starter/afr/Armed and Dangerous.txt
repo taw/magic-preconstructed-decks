@@ -1,5 +1,5 @@
 // NAME: Armed and Dangerous
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 2 Akoum Warrior
 1 Halvar, God of Battle
@@ -24,6 +24,6 @@
 1 Showdown of the Skalds
 4 Alpine Meadow
 1 Axgard Armory
-10 Mountain
+10 Mountain [AFR:*]
 1 [ZNR:263a] Needleverge Pathway
-8 Plains
+8 Plains [AFR:*]

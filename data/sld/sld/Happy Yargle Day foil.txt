@@ -1,9 +1,0 @@
-// NAME: Happy Yargle Day! - Foil
-// SOURCE: https://secretlair.wizards.com/us/product/611619
-// DATE: 2020-09-03
-// DISPLAY: Also includes one foil uncommon stained-glass planeswalker [SLD:501-537].
-1 [SLD:110] Swords to Plowshares [foil]
-1 [SLD:111] Opt [foil]
-1 [SLD:112] Fatal Push [foil]
-1 [SLD:113] Anger of the Gods [foil]
-1 [SLD:114] Explore [foil]

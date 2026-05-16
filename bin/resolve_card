@@ -9,6 +9,15 @@ class ResolveCard
     @deck_name = deck_name
     @card_name = card_name
     @printing = printing
+
+    # some of the decks might have partial annotations, we need to replace them as well
+    # there's also * sometimes seen in old WotC decklists (to indicate reprint status or something like that)
+    printing_set_code = printing[/\[(.*):/, 1]
+    if printing_set_code
+      @optional_printing_code = "(?:" + Regexp.escape(" [#{printing_set_code}]") + "|\\*)?"
+    else
+      @optional_printing_code = ""
+    end
   end
 
   def deck_path
@@ -22,9 +31,9 @@ class ResolveCard
 
   def resolve_line(line)
     return line if @was_updated
-    return line unless line =~ /\A\d+\s+#{Regexp.escape(@card_name)}$/
+    return line unless line =~ /\A(\d+\s+#{Regexp.escape(@card_name)})#{@optional_printing_code}$/
     @was_updated = true
-    "#{line} #{@printing}"
+    "#{$1} #{@printing}"
   end
 
   def call
@@ -35,7 +44,7 @@ class ResolveCard
     if data != updated
       deck_path.write(updated)
     else
-      warn "Update failed, no matching lines found"
+      warn "Update failed for #{ARGV.inspect}, no matching lines found"
     end
   end
 end

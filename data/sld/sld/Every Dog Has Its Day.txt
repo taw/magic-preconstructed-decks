@@ -1,4 +1,4 @@
-// NAME: Every Dog Has Its Day - Regular
+// NAME: Every Dog Has Its Day
 // SOURCE: https://secretlair.wizards.com/us/product/611547
 // DATE: 2020-08-26
 1 [SLD:96] Rest in Peace

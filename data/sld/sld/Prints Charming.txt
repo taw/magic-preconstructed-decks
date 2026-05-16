@@ -1,0 +1,7 @@
+// NAME: Prints Charming
+// SOURCE: https://secretlair.wizards.com/us/product/1249874
+// DATE: 2026-02-03
+1 [SLD:2278] Nature's Lore
+1 [SLD:2279] Skyshroud Claim
+1 [SLD:2280] Wood Elves
+1 [SLD:2281] Dryad Arbor

@@ -1,5 +1,5 @@
 // NAME: Control Center
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 3 Tazeem Roilmage
 3 Elderfang Disciple
@@ -20,8 +20,8 @@
 2 Contact Other Plane
 1 Baleful Mastery
 3 Skull Raid
-10 Island
-10 Swamp
+10 Island [AFR:*]
+10 Swamp [AFR:*]
 1 Clearwater Pathway
 4 Ice Tunnel
 1 Port of Karfell

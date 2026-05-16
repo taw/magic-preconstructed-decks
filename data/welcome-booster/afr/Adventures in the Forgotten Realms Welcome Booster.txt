@@ -1,6 +1,6 @@
 // NAME: Adventures in the Forgotten Realms Welcome Booster
 // DATE: 2021-07-23
-// SOURCE: https://mtg.fandom.com/wiki/Dungeons_%26_Dragons:_Adventures_in_the_Forgotten_Realms/Welcome_booster
+// SOURCE: https://mtg.wiki/wiki/Dungeons_%26_Dragons:_Adventures_in_the_Forgotten_Realms/Welcome_booster
 1 [AFR:311] Baleful Beholder
 1 Arcane Investigator [foil]
 1 Dungeon Map

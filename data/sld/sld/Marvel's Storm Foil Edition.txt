@@ -1,0 +1,8 @@
+// NAME: Marvel's Storm Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1018563
+// DATE: 2024-11-05
+1 [SLD:1742] Storm, Force of Nature [foil]
+1 [SLD:1743] Lightning Bolt [foil]
+1 [SLD:1744] Jeska's Will [foil]
+1 [SLD:1745] Ice Storm [foil]
+1 [SLD:1746] Manamorphose [foil]

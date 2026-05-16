@@ -20,6 +20,6 @@
 1 Aluren
 2 Overrun
 1 Recycle
-14 Forest
-7 Plains
+14 Forest [TMP:*]
+7 Plains [TMP:*]
 2 Vec Townships

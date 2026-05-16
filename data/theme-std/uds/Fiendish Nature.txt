@@ -28,5 +28,5 @@
 1 Braidwood Cup
 1 Polluted Mire*
 2 Slippery Karst*
-13 Forest
-6 Swamp
+13 Forest [USG:*]
+6 Swamp [USG:*]

@@ -21,6 +21,6 @@
 1 Sigil Blessing
 1 Mighty Emergence
 1 Sigil of the Nayan Gods
-8 Forest
-8 Plains
+8 Forest [ALA:*]
+8 Plains [ALA:*]
 2 Terramorphic Expanse

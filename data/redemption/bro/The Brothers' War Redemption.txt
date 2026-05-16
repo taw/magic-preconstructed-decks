@@ -1,5 +1,6 @@
 // NAME: The Brothers' War Redemption
-// DATE: 2022-11-18
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-bro-11082022
+// DATE: 2023-01-04
 1 Aeronaut Cavalry [BRO:1]
 1 Aeronaut's Wings [BRO:231]
 1 Air Marshal [BRO:43]
@@ -9,7 +10,7 @@
 1 Arbalest Engineers [BRO:206]
 1 Arcane Proxy [BRO:75]
 1 Argivian Avenger [BRO:232]
-1 Argoth, Sanctum of Nature [BRO:256a]
+1 Argoth, Sanctum of Nature [BRO:256]
 1 Argothian Opportunist [BRO:167]
 1 Argothian Sprite [BRO:168]
 1 Arms Race [BRO:126]
@@ -174,7 +175,7 @@
 1 Perennial Behemoth [BRO:202]
 1 Perimeter Patrol [BRO:188]
 1 Phalanx Vanguard [BRO:19]
-1 Phyrexian Dragon Engine [BRO:163a]
+1 Phyrexian Dragon Engine [BRO:163]
 1 Phyrexian Fleshgorger [BRO:121]
 1 Plains [BRO:268]
 1 Plains [BRO:269]
@@ -241,7 +242,7 @@
 1 Teferi, Temporal Pilgrim [BRO:66]
 1 Terisian Mindbreaker [BRO:83]
 1 The Fall of Kroog [BRO:133]
-1 The Mightstone and Weakstone [BRO:238a]
+1 The Mightstone and Weakstone [BRO:238]
 1 The Stasis Coffin [BRO:245]
 1 The Stone Brain [BRO:247]
 1 The Temporal Anchor [BRO:82]

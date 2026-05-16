@@ -19,4 +19,4 @@
 1 Consume Spirit
 1 Tanglebloom
 1 Demon's Horn
-17 Swamp
+17 Swamp [9ED:*]

@@ -71,12 +71,12 @@ COMMANDER: 1 Kaalia of the Vast [foil]
 1 Evolving Wilds
 1 Forgotten Cave
 1 Molten Slagheap
-8 Mountain
+8 Mountain [CMA:*]
 1 Orzhov Basilica
-8 Plains
+8 Plains [CMA:*]
 1 Rakdos Carnarium
 1 Rupture Spire
 1 Secluded Steppe
-8 Swamp
+8 Swamp [CMA:*]
 1 Vivid Meadow
 1 Zoetic Cavern

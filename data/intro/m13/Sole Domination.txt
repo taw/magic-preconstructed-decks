@@ -26,5 +26,5 @@
 1 Mark of the Vampire
 1 Angelic Benediction
 1 Evolving Wilds
-15 Swamp
-8 Plains
+15 Swamp [M13:*]
+8 Plains [M13:*]

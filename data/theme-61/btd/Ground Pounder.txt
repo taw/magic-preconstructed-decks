@@ -37,8 +37,8 @@
 1 Thunderbolt
 1 Wild Growth
 1 Dwarven Ruins
-11 Forest
+11 Forest [BTD:*]
 1 Havenwood Battleground
-11 Mountain
+11 Mountain [BTD:*]
 1 Slippery Karst
 1 Smoldering Crater

@@ -75,6 +75,6 @@ COMMANDER: 1 Kalemne, Disciple of Iroas [foil]
 1 Vivid Crag
 1 Vivid Meadow
 1 Wind-Scarred Crag
-14 Mountain
-11 Plains
+14 Mountain [CM2:*]
+11 Plains [CM2:*]
 1 Crib Swap

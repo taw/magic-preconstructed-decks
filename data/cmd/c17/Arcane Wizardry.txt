@@ -65,9 +65,9 @@ COMMANDER: 1 Inalla, Archmage Ritualist [foil]
 1 Curse of Opulence
 1 Exotic Orchard
 1 Mystifying Maze
-10 Island
-6 Swamp
-4 Mountain
+10 Island [C17:*]
+6 Swamp [C17:*]
+4 Mountain [C17:*]
 1 Path of Ancestry
 1 Command Tower
 1 Crumbling Necropolis

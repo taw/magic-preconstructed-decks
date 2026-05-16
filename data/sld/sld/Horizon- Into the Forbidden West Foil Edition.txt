@@ -1,0 +1,8 @@
+// NAME: Horizon: Into the Forbidden West Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246543
+// DATE: 2025-11-06
+1 [SLD:2221] Aloy, Savior of Meridian [foil]
+1 [SLD:2222] Farseek [foil]
+1 [SLD:2223] Blightsteel Colossus [foil]
+1 [SLD:2224] Tarrian's Soulcleaver [foil]
+1 [SLD:2225] Meteor Golem [foil]

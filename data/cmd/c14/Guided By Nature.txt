@@ -76,7 +76,7 @@ COMMANDER: 1 Freyalise, Llanowar's Fury
 1 Slippery Karst
 1 Terramorphic Expanse
 1 Tranquil Thicket
-25 Forest
+25 Forest [C14:*]
 
 Display Commander
 1 Freyalise, Llanowar's Fury [oc14] [foil]

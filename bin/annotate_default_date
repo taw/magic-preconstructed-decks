@@ -7,7 +7,7 @@ require "pathname"
 require "json"
 
 def set_data_base
-  Pathname("#{ENV["HOME"]}/github/magic-search-engine/data/sets")
+  Pathname("#{ENV["HOME"]}/github/magic-search-engine-data/data/sets")
 end
 
 def set_release_date(set_code)

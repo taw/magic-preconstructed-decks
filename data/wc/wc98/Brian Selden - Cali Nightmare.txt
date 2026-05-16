@@ -1,5 +1,5 @@
 // NAME: Brian Selden - Cali Nightmare
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/1998
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1998
 // DATE: 1998-08-12
 4 Birds of Paradise
 1 Cloudchaser Eagle

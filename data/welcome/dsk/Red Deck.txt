@@ -1,0 +1,21 @@
+// NAME: Red Deck
+// SOURCE: https://mtg.wiki/page/Duskmourn:_House_of_Horror/Welcome_decks
+// DATE: 2024-09-30
+1 Chandra's Magmutt [PLST:M21-303]
+2 Scorch Spitter [PLST:M20-159]
+1 Kolaghan Warmonger [PLST:MAT-67]
+1 Voldaren Duelist [PLST:SOI-191]
+1 Dragon Whelp [PLST:DMR-116]
+1 Demanding Dragon [PLST:AFC-120]
+2 Goblin Trailblazer [PLST:CMR-182]
+1 Onakke Ogre [PLST:M19-153]
+1 Volcanic Dragon [PLST:M20-336]
+1 Subira, Tulzidi Caravanner [PLST:M21-162]
+1 Mugging [PLST:GTC-102]
+1 Lava Coil [PLST:GRN-108]
+1 Antagonize [PLST:SNC-100]
+1 Flame Spill [PLST:IKO-117]
+1 Dragon Mantle [PLST:CMR-174]
+5 Mountain [PLST:WOE-273]
+4 Mountain [PLST:WOE-274]
+4 Mountain [PLST:LCI-400]

@@ -29,14 +29,22 @@
 1 Soul Ransom
 4 Crumbling Necropolis
 2 Highland Lake
-3 Mountain
-7 Swamp
-5 Island
 1 Submerged Boneyard
 1 Drowned Catacomb
 1 Cinder Barrens
 1 Dragonskull Summit
 1 Grixis Panorama
+1 Mountain [E01:105]
+1 Mountain [AKH:264]
+1 Mountain [AKH:265]
+1 Swamp [AKH:262]
+3 Swamp [E01:99]
+3 Swamp [E01:104]
+1 Island [E01:98]
+1 Island [E01:103]
+1 Island [AKH:258]
+1 Island [AKH:259]
+1 Island [AKH:260]
 
 Scheme Deck
 1 A Reckoning Approaches

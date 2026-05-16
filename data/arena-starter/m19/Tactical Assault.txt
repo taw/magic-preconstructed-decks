@@ -1,5 +1,5 @@
 // NAME: Tactical Assault
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 2 Daybreak Chaplain
 3 Oreskos Swiftclaw
@@ -21,4 +21,4 @@
 3 [ANB] Tactical Advantage
 1 [ANB] Confront the Assault
 2 Take Vengeance
-25 Plains
+25 Plains [M19:*]

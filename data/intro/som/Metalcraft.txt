@@ -22,5 +22,5 @@
 1 Golem's Heart
 1 Golem Foundry
 2 Rusted Relic
-12 Island
-12 Mountain
+12 Island [SOM:*]
+12 Mountain [SOM:*]

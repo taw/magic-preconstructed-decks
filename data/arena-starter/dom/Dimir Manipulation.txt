@@ -1,5 +1,5 @@
 // NAME: Dimir Manipulation
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 1 Air Elemental
 1 Angler Drake
@@ -32,6 +32,6 @@
 1 Vanquish the Weak
 2 Evolving Wilds
 1 Field of Ruin
-10 Island
+10 Island [DOM:*]
 4 Submerged Boneyard
-9 Swamp
+9 Swamp [DOM:*]

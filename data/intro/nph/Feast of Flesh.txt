@@ -25,5 +25,5 @@
 1 Tower of Calamities
 2 Parasitic Implant
 1 Enslave
-13 Swamp
-11 Mountain
+13 Swamp [NPH:*]
+11 Mountain [NPH:*]

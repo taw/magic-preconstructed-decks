@@ -1,7 +1,7 @@
 // NAME: Hunting Pack
 // SOURCE: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
 // DATE: 2015-07-17
-1 Dwynen, Gilt-Leaf Daen [foil]
+1 Dwynen, Gilt-Leaf Daen [PORI:172] [foil]
 2 Dwynen's Elite
 2 Elvish Visionary
 2 Thornbow Archer
@@ -23,5 +23,5 @@
 2 Weight of the Underworld
 1 Consecrated by Blood
 1 Evolving Wilds
-11 Forest
-12 Swamp
+11 Forest [ORI:*]
+12 Swamp [ORI:*]

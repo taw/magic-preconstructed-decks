@@ -1,5 +1,5 @@
 // NAME: Growing Hunger
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-09-24
 1 Ochre Jelly
 3 Deathknell Berserker
@@ -20,6 +20,6 @@
 1 Ranger Class
 2 Binding the Old Gods
 1 Darkbore Pathway
-9 Forest
-10 Swamp
+9 Forest [AFR:*]
+10 Swamp [AFR:*]
 4 Woodland Chasm

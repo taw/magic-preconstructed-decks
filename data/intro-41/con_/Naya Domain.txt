@@ -21,9 +21,9 @@
 1 Kaleidostone
 1 Manaforce Mace
 1 Pacifism
-3 Plains
-1 Island
-1 Swamp
-3 Mountain
-6 Forest
+3 Plains [ALA:*]
+1 Island [ALA:*]
+1 Swamp [ALA:*]
+3 Mountain [ALA:*]
+6 Forest [ALA:*]
 3 Terramorphic Expanse

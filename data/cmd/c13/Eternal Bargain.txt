@@ -68,16 +68,16 @@ COMMANDER: 1 Oloro, Ageless Ascetic
 1 Dimir Guildgate
 1 Esper Panorama
 1 Evolving Wilds
-6 Island
+6 Island [C13:*]
 1 Jwar Isle Refuge
 1 Lonely Sandbar
 1 Opal Palace
 1 Orzhov Basilica
 1 Orzhov Guildgate
-9 Plains
+9 Plains [C13:*]
 1 Rupture Spire
 1 Springjack Pasture
-9 Swamp
+9 Swamp [C13:*]
 1 Temple of the False God
 1 Transguild Promenade
 

@@ -1,0 +1,8 @@
+// NAME: Marvel's Spider-Man: Venom Unleashed (Inks)
+// SOURCE: https://secretlair.wizards.com/us/product/1246591
+// DATE: 2025-09-30
+1 [SLD:2019] Damnation
+1 [SLD:2020] Dark Ritual
+1 [SLD:2021] Peer into the Abyss
+1 [SLD:2022] Surgical Extraction
+1 [SLD:2023] Tendrils of Agony

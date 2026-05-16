@@ -1,7 +1,7 @@
 // NAME: Swarming Instinct
 // SOURCE: https://magic.wizards.com/en/articles/archive/battle-zendikar-event-deck-and-intro-packs-2015-09-24
 // DATE: 2015-10-02
-1 Drowner of Hope [foil]
+1 Drowner of Hope [PBFZ:57] [foil]
 3 Blisterpod
 2 Tide Drifter
 3 Eldrazi Skyspawner
@@ -23,5 +23,5 @@
 1 Blighted Cataract
 2 Evolving Wilds
 2 Skyline Cascade
-10 Island
-11 Forest
+10 Island [BFZ:*]
+11 Forest [BFZ:*]

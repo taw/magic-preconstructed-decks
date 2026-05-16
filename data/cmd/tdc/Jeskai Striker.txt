@@ -87,7 +87,6 @@ COMMANDER: 1 Shiko and Narset, Unified [TDC:7] [foil]
 1 Path of Ancestry
 1 Perilous Landscape
 1 Reliquary Tower
-4 Plains
-5 Island
-5 Mountain
-
+4 Plains [TDM:*]
+5 Island [TDM:*]
+5 Mountain [TDM:*]

@@ -18,7 +18,7 @@
 1 Fireball
 2 Burst Lightning
 1 Into the Roil
-10 Mountain
-7 Island
+10 Mountain [ZEN:*]
+7 Island [ZEN:*]
 1 Terramorphic Expanse
 1 Aether Figment

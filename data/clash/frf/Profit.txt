@@ -1,5 +1,5 @@
 // NAME: Profit
-// SOURCE: https://mtg.gamepedia.com/Fate_Reforged/Clash_pack
+// SOURCE: https://mtg.wiki/wiki/Fate_Reforged/Clash_pack
 // DATE: 2015-01-23
 1 Baleful Eidolon
 1 Leafcrown Dryad
@@ -27,5 +27,5 @@
 1 Nyx Infusion
 1 Whip of Erebos [CP2] [foil]
 2 Jungle Hollow
-12 Forest
-11 Swamp
+12 Forest [KTK:269]
+11 Swamp [FRF:181]

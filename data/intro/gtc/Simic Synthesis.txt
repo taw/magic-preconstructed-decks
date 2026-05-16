@@ -27,5 +27,5 @@
 2 Forced Adaptation
 2 Encrust
 1 Simic Guildgate
-12 Forest
-13 Island
+12 Forest [RTR:*]
+13 Island [RTR:*]

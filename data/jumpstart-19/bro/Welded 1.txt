@@ -1,5 +1,5 @@
 // NAME: Welded 1
-// SOURCE: https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart
+// SOURCE: https://mtg.wiki/wiki/The_Brothers%27_War/Jumpstart
 // DISPLAY: Also includes a random red The Brothers' War rare or mythic rare
 // DATE: 2022-11-18
 1 Artificer's Dragon
@@ -13,5 +13,7 @@
 1 Unleash Shell
 1 Whirling Strike
 1 Bitter Reunion
-6 Mountain
-2 Mountain [foil]
+3 Mountain [BRO:274]
+3 Mountain [BRO:275]
+1 Mountain [BRO:274] [foil]
+1 Mountain [BRO:275] [foil]

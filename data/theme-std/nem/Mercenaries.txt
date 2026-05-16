@@ -27,4 +27,4 @@
 1 Dark Triumph
 1 Intimidation
 1 Belbe's Portal
-23 Swamp
+23 Swamp [MMQ:*]

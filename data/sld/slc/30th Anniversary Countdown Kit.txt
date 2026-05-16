@@ -1,5 +1,5 @@
 // NAME: 30th Anniversary Countdown Kit
-// SOURCE: https://mtg.fandom.com/wiki/Secret_Lair_30th_Anniversary_Countdown_Kit
+// SOURCE: https://mtg.wiki/wiki/Secret_Lair_30th_Anniversary_Countdown_Kit
 // DATE: 2022-11-1
 // DISPLAY: Each card has a 30% chance to come in traditional foil.
 1 Shivan Dragon

@@ -18,8 +18,8 @@
 1 Fabled Passage
 2 Temple of Malady
 3 Jungle Hollow
-7 Forest
-8 Swamp
+7 Forest [THB:*]
+8 Swamp [THB:*]
 
 Sideboard
 2 Massacre Girl

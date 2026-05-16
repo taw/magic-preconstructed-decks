@@ -21,4 +21,4 @@
 1 Befoul
 1 Corrupt
 1 Charcoal Diamond
-16 Swamp
+16 Swamp [7ED:*]

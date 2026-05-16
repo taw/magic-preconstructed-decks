@@ -21,6 +21,6 @@
 1 Cancel
 1 Telepathy
 1 Mind Control
-12 Island
-5 Swamp
+12 Island [M10:*]
+5 Swamp [M10:*]
 1 Terramorphic Expanse

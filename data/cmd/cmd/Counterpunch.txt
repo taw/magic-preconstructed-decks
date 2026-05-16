@@ -75,9 +75,9 @@ COMMANDER: 1 Ghave, Guru of Spores
 1 Vivid Grove
 1 Vivid Marsh
 1 Vivid Meadow
-8 Swamp
-10 Forest
-8 Plains
+8 Swamp [CMD:*]
+10 Forest [CMD:*]
+8 Plains [CMD:*]
 
 Display Commander
 1 Ghave, Guru of Spores [ocmd] [foil]

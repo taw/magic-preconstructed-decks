@@ -1,5 +1,5 @@
 // NAME: Boros Legion
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 1 Aurelia, Exemplar of Justice
 3 Boros Challenger
@@ -21,7 +21,7 @@
 1 Act of Treason
 2 Lava Coil
 1 Tectonic Rift
-4 Boros Guildgate
+4 Boros Guildgate [GRN:243]
 1 Sacred Foundry
-10 Mountain
-10 Plains
+10 Mountain [M20:*]
+10 Plains [M20:*]

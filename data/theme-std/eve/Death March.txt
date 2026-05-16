@@ -20,5 +20,5 @@
 2 Viridescent Wisps
 1 Cankerous Thirst
 2 Gift of the Deity
-12 Swamp
-12 Forest
+12 Swamp [SHM:*]
+12 Forest [SHM:*]

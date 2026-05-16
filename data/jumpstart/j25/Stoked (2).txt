@@ -14,6 +14,6 @@
 1 Titan's Strength
 1 Unleash Fury
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

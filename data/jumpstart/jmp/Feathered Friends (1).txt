@@ -14,5 +14,5 @@
 1 Moment of Heroism
 1 Sky Tether
 1 Thriving Heath
-6 Plains [M21]
+6 Plains [M21:*]
 1 Plains [JMP:44]

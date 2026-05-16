@@ -13,4 +13,4 @@
 1 Galadhrim Bow
 1 Pippin's Bravery
 1 Revive the Shire
-8 Forest
+8 Forest [LTR:*]

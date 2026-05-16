@@ -1,5 +1,5 @@
 // NAME: Peer Kröger - Reanimator
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2003
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2003
 // DATE: 2003-08-06
 1 Anger
 1 Arcanis the Omnipotent

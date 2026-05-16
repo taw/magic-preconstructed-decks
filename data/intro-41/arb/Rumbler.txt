@@ -20,6 +20,6 @@
 2 Shock
 2 Incinerate
 1 Colossal Might
-8 Mountain
-8 Forest
+8 Mountain [ALA:*]
+8 Forest [ALA:*]
 2 Terramorphic Expanse

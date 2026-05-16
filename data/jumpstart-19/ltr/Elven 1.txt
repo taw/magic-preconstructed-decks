@@ -13,6 +13,6 @@
 1 Stew the Coneys
 1 Entish Restoration
 1 Lembas
-8 Forest
+8 Forest [LTR:*]
 
 Sideboard

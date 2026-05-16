@@ -1,5 +1,5 @@
 // NAME: Think Again 4
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_Blue
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_Blue
 // DATE: 2022-12-02
 1 Faerie Formation
 1 Spectral Sailor
@@ -15,4 +15,4 @@
 1 Mantle of Tides
 1 Memorial to Genius
 1 Thriving Isle
-6 Island
+6 Island [J22:*]

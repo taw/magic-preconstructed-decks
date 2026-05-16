@@ -21,11 +21,11 @@
 1 Hammer of Bogardan
 1 Armageddon
 2 City of Brass
-2 Forest
+2 Forest [TMP:*]
 1 Gemstone Mine
 4 Karplusan Forest
 4 Mogg Hollows
-1 Mountain
+1 Mountain [TMP:*]
 3 Quicksand
 2 Reflecting Pool
 2 Undiscovered Paradise

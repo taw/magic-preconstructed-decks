@@ -1,0 +1,8 @@
+// NAME: Featuring: Deathburger Galaxy Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246430
+// DATE: 2025-07-29
+1 [SLD:2102] Ethersworn Canonist [foil]
+1 [SLD:2103] Goblin Engineer [foil]
+1 [SLD:2104] Dance of the Manse [foil]
+1 [SLD:2105] Arcbound Ravager [foil]
+1 [SLD:2106] Foundry Inspector [foil]

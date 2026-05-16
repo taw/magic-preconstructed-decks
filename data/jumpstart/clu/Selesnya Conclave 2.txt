@@ -16,6 +16,6 @@
 1 Selesnya Sanctuary
 1 Vernal Sovereign
 1 Beast Whisperer
-5 Forest
+5 Forest [CLU:270]
 
 Sideboard

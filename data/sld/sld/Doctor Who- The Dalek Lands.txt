@@ -1,0 +1,8 @@
+// NAME: Doctor Who: The Dalek Lands
+// SOURCE: https://secretlair.wizards.com/us/product/872685
+// DATE: 2023-12-18
+1 [SLD:1372] Concealed Courtyard
+1 [SLD:1373] Spirebluff Canal
+1 [SLD:1374] Blooming Marsh
+1 [SLD:1375] Inspiring Vantage
+1 [SLD:1376] Botanical Sanctum

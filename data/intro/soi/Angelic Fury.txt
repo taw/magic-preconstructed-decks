@@ -10,7 +10,7 @@
 2 Pyre Hound
 1 Runaway Carriage
 2 Inspiring Captain
-1 Flameblade Angel [foil]
+1 Flameblade Angel [PSOI:157] [foil]
 1 Magmatic Chasm
 1 Angelic Purge
 1 Devils' Playground
@@ -22,5 +22,5 @@
 1 Murderer's Axe
 1 Gryff's Boon
 2 Nahiri's Machinations
-12 Plains
-13 Mountain
+12 Plains [SOI:*]
+13 Mountain [SOI:*]

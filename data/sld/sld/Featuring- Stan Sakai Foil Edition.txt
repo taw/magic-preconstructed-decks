@@ -1,0 +1,8 @@
+// NAME: Featuring: Stan Sakai Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249997
+// DATE: 2026-03-03
+1 [SLD:2377] Baylen, the Haymaker [foil]
+1 [SLD:2378] Felidar Retreat [foil]
+1 [SLD:2379] Master of Ceremonies [foil]
+1 [SLD:2380] Second Harvest [foil]
+1 [SLD:2381] Sunforger [foil]

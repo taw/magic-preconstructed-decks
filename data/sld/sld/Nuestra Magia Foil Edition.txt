@@ -1,0 +1,12 @@
+// NAME: Nuestra Magia Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1245719
+// DATE: 2025-06-17
+1 [SLD:2057] Tireless Provisioner [foil]
+1 [SLD:2058] Sylvan Library [foil]
+1 [SLD:2059] Ancient Greenwarden [foil]
+1 [SLD:2060] Expressive Iteration [foil]
+1 [SLD:2061] Xenagos, God of Revels [foil]
+1 [SLD:2062] Lightning Greaves [foil]
+1 [SLD:2063] Sol Ring [foil]
+1 [SLD:2064] Food [foil] [token]
+1 [SLD:2065] Treasure [foil] [token]

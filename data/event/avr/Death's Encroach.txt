@@ -17,7 +17,7 @@
 2 Doom Blade
 3 Go for the Throat
 2 Lashwrithe
-24 Swamp
+24 Swamp [AVR:*]
 
 Sideboard
 2 Crypt Creeper

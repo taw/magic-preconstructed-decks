@@ -27,5 +27,5 @@
 2 Arrows of Justice
 2 Boros Keyrune
 1 Boros Guildgate
-12 Mountain
-12 Plains
+12 Mountain [RTR:*]
+12 Plains [RTR:*]

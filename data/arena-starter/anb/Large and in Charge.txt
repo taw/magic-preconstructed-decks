@@ -1,5 +1,5 @@
 // NAME: Large and in Charge
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2020-08-13
 3 Jungle Delver
 4 Ilysian Caryatid

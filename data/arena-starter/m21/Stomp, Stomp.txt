@@ -1,5 +1,5 @@
 // NAME: Stomp, Stomp
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2021-07-03
 3 Almighty Brushwagg
 3 Ilysian Caryatid
@@ -19,7 +19,7 @@
 3 Unleash Fury
 1 Return of the Wildspeaker
 1 Volcanic Salvo
-10 Forest
-9 Mountain
+10 Forest [M21:*]
+9 Mountain [M21:*]
 4 Rugged Highlands
 1 Temple of Abandon

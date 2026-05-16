@@ -13,4 +13,4 @@
 1 Bitter Downfall
 1 Nasty End
 1 Orcish Medicine
-8 Swamp
+8 Swamp [LTR:*]

@@ -8,7 +8,7 @@
 // DISPLAY: Against White: -1 Untamed Wilds +1 Tranquility
 4 Elven Riders
 4 Elvish Archers
-22 Forest
+22 Forest [3ED:*]
 4 Giant Spider
 4 Hurricane
 2 Jayemdae Tome

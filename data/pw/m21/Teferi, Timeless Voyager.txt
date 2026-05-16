@@ -17,5 +17,5 @@
 2 Mantle of Tides
 1 Teferi's Ageless Insight
 2 Charmed Sleep
-24 Island
+24 Island [M21:*]
 1 Island [M21:310]

@@ -1,0 +1,9 @@
+// NAME: Blood Bowl Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/771997
+// DATE: 2022-12-05
+1 [SLD:1035] Approach of the Second Sun [foil]
+1 [SLD:1036] Rewind [foil]
+1 [SLD:1037] Bone Splinters [foil]
+1 [SLD:1038] Fling [foil]
+1 [SLD:1039] Defense of the Heart [foil]
+1 [SLD:1040] Fellwar Stone [foil]

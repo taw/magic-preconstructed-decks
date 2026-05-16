@@ -15,7 +15,7 @@
 2 Righteous Blow
 1 Inspired Charge
 3 Show of Valor
-26 Plains
+26 Plains [M20:*]
 2 Dawning Angel
 1 Loxodon Lifechanter
 1 Sephara, Sky's Blade

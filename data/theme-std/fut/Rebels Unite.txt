@@ -23,6 +23,6 @@
 2 Bound in Silence
 2 Return to Dust*
 1 Witch's Mist
-12 Plains*
-10 Swamp*
+12 Plains [TSP:*]
+10 Swamp [TSP:*]
 2 Terramorphic Expanse*

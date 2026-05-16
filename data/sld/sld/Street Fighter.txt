@@ -1,4 +1,4 @@
-// NAME: Secret Lair x Street Fighter
+// NAME: Street Fighter
 // SOURCE: https://secretlair.wizards.com/us/product/719027
 // DATE: 2022-07-22
 1 [SLD:428] Baldin, Century Herdmaster

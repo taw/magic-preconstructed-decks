@@ -14,8 +14,8 @@
 3 Arc Lightning
 3 Catalog
 2 Lightning Blast
-7 Island
-12 Mountain
+7 Island [USG:*]
+12 Mountain [USG:*]
 2 Remote Isle
 2 Smoldering Crater
 

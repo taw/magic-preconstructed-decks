@@ -22,5 +22,5 @@
 1 Cessation
 2 War Tax
 2 Drifting Meadow
-15 Island
-9 Plains
+15 Island [MMQ:*]
+9 Plains [MMQ:*]

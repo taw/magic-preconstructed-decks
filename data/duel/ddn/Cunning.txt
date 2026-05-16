@@ -31,9 +31,11 @@
 1 Arrow Volley Trap
 1 Repeal
 2 Terramorphic Expanse
-10 Island
-3 Mountain
-7 Plains
+10 Island [DDN:*]
+3 Mountain [DDN:78]
+3 Plains [DDN:79]
+2 Plains [DDN:80]
+2 Plains [DDN:81]
 1 Jeskai Elder
 1 Thousand Winds
 2 Mystic Monastery

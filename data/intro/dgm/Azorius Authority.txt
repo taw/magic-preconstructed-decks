@@ -22,5 +22,5 @@
 1 Arrest
 1 Martial Law
 4 Azorius Guildgate
-10 Island
-12 Plains
+10 Island [RTR:*]
+12 Plains [RTR:*]

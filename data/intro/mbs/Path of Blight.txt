@@ -23,5 +23,5 @@
 2 Banishment Decree
 1 Decimator Web
 2 Trigon of Infestation
-14 Forest
-11 Plains
+14 Forest [MBS:*]
+11 Plains [MBS:*]

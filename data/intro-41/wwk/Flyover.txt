@@ -21,7 +21,7 @@
 1 Pacifism
 2 Guardian Zendikon
 1 Marshal's Anthem
-9 Plains
-7 Island
+9 Plains [ZEN:*]
+7 Island [ZEN:*]
 1 Dread Statuary
 1 Terramorphic Expanse

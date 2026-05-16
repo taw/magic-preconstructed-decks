@@ -22,6 +22,6 @@
 1 Wrecking Ball
 1 Twinstrike
 2 Rakdos Signet
-12 Swamp*
-11 Mountain*
+12 Swamp [RAV:*]
+11 Mountain [RAV:*]
 1 Rix Maadi, Dungeon Palace

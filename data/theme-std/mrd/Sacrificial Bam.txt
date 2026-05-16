@@ -21,7 +21,7 @@
 2 Talisman of Indulgence
 1 Nuisance Engine
 1 Skeleton Shard
-8 Mountain
-7 Swamp
+8 Mountain [MRD:*]
+7 Swamp [MRD:*]
 4 Great Furnace
 4 Vault of Whispers

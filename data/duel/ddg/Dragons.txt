@@ -32,4 +32,4 @@
 1 Captive Flame
 1 Claws of Valakut
 1 Shiv's Embrace
-24 Mountain
+24 Mountain [DDG:*]

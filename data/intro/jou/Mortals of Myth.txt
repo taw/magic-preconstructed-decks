@@ -26,5 +26,5 @@
 2 Oppressive Rays
 1 Font of Vigor
 2 Banishing Light
-15 Plains
-11 Forest
+15 Plains [THS:*]
+11 Forest [THS:*]

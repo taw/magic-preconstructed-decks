@@ -1,6 +1,6 @@
 // NAME: Coalition Corps
-// SOURCE: https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart
-// DISPLAY: Also includes a random white Dominaria United rare or mythic rare
+// SOURCE: https://mtg.wiki/wiki/Dominaria_United/Jumpstart
+// DISPLAY: Also includes a random white Dominaria United rare or mythic rare. Packs vary which regular and foil basics you get, except for one guaranteed fullart basic.
 // DATE: 2022-09-09
 1 Clockwork Drawbridge
 1 Resolute Reinforcements
@@ -13,6 +13,6 @@
 1 Prayer of Binding
 1 Love Song of Night and Day
 1 Join Forces
-5 Plains
-2 Plains [foil]
+5 Plains [DMU:*]
+2 Plains [DMU:*] [foil]
 1 Plains [DMU:277]

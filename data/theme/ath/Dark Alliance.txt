@@ -36,8 +36,8 @@
 1 Terror
 1 Unholy Strength
 1 Nevinyrral's Disk
-12 Mountain
-10 Swamp
+12 Mountain [ATH:*]
+10 Swamp [ATH:*]
 1 Strip Mine
 1 Smoldering Crater
 1 Polluted Mire

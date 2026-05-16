@@ -1,8 +1,0 @@
-// NAME: Secret Lair x Doctor Who: Regeneration Foil Edition
-// SOURCE: https://secretlair.wizards.com/us/product/923725
-// DATE: 2024-04-09
-1 [SLD:1580] Rose Noble [foil]
-1 [SLD:1581] The Meep [foil]
-1 [SLD:1582] The Celestial Toymaker [foil]
-1 [SLD:1583] The Fourteenth Doctor [foil]
-1 [SLD:1584] The Fifteenth Doctor [foil]

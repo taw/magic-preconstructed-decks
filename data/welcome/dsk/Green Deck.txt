@@ -1,0 +1,21 @@
+// NAME: Green Deck
+// SOURCE: https://mtg.wiki/page/Duskmourn:_House_of_Horror/Welcome_decks
+// DATE: 2024-09-30
+1 Goreclaw, Terror of Qal Sisma [PLST:M19-186]
+2 Druid of the Cowl [PLST:M19-177]
+1 Canopy Baloth [PLST:ZNR-304]
+1 Wildwood Patrol [PLST:M21-339]
+1 Dawnhart Rejuvenator [PLST:MID-301]
+1 Sentinel Spider [PLST:M13-189]
+1 Colossal Dreadmaw [PLST:M21-176]
+1 Treeshaker Chimera [PLST:NCC-318]
+1 Leatherback Baloth [PLST:WWK-107]
+2 Snapping Gnarlid [PLST:BFZ-190]
+1 Iridescent Blademaster [PLST:MOM-195]
+1 Overcome [PLST:M20-186]
+1 Clear Shot [PLST:MID-176]
+1 Giant Growth [PLST:WAR-162]
+1 Crushing Canopy [PLST:GRN-126]
+5 Forest [PLST:WOE-276]
+4 Forest [PLST:MKM-285]
+4 Forest [PLST:LCI-401]

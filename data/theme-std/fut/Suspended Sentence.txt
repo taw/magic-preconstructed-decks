@@ -21,7 +21,7 @@
 1 Death Rattle
 2 Mindstab*
 1 Phthisis*
-10 Island*
-9 Swamp*
+10 Island [TSP:*]
+9 Swamp [TSP:*]
 3 Terramorphic Expanse*
 2 Zoetic Cavern

@@ -10,7 +10,7 @@
 1 Ancient Carp
 2 Strongarm Monk
 2 Cunning Breezedancer
-1 Pristine Skywise [foil]
+1 Pristine Skywise [PDTK:228] [foil]
 1 Mystic Meditation
 1 Sight Beyond Sight
 1 Taigam's Strike
@@ -25,5 +25,5 @@
 2 Silkwrap
 1 Skywise Teachings
 1 Evolving Wilds
-13 Island
-11 Plains
+13 Island [DTK:*]
+11 Plains [DTK:*]

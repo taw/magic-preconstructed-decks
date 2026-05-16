@@ -1,13 +1,13 @@
 // NAME: Sampler Booster
 // SOURCE: https://www.youtube.com/watch?v=LjdYs2_r-KA
 // DATE: 2005-07-29
-1 Mountain
-1 Forest
+1 Mountain [9ED:*]
+1 Forest [9ED:*]
 1 Aven Flock
 1 Remove Soul
 1 Gravedigger
 1 Volcanic Hammer
 1 Craw Wurm
-1 Plains
-1 Island
-1 Swamp
+1 Plains [9ED:*]
+1 Island [9ED:*]
+1 Swamp [9ED:*]

@@ -5,7 +5,7 @@
 1 Arcane Epiphany
 1 Clinquant Skymage
 1 Erudite Wizard
-1 Icewind Elemental
+1 Icewind Elemental [FDN:42]
 1 Mischievous Mystic
 1 Fleeting Distraction
 1 Burrog Befuddler
@@ -14,5 +14,4 @@
 1 Quick Study
 1 Starlight Snare
 1 Uncharted Haven
-7 Island
-
+7 Island [FDN:*]

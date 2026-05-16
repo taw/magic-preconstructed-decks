@@ -2,9 +2,9 @@
 // SOURCE: MTG Arena
 // DATE: 2023-06-20
 1 Terror of Towashi [MOM]
-8 Swamp [BRO]
+8 Swamp [LTR:*]
 1 Glissa Sunslayer [ONE]
-8 Forest [BRO]
+8 Forest [LTR:*]
 1 Gixian Recycler [YBRO]
 1 Deathbloom Ritualist [BRO]
 1 Conduit of Worlds [ONE]

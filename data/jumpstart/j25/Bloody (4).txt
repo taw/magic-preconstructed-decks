@@ -14,6 +14,6 @@
 1 Voldaren Duelist
 1 Voldaren Epicure
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

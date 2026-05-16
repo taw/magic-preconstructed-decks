@@ -14,7 +14,7 @@
 1 Stitchwing Skaab
 1 Lamplighter of Selhoff
 2 Advanced Stitchwing
-1 Noosegraf Mob [foil]
+1 Noosegraf Mob [PEMN:98] [foil]
 3 Cemetery Recruitment
 1 Liliana's Indignation
 2 Compelling Deterrence
@@ -25,5 +25,5 @@
 2 Spontaneous Mutation
 1 Ghostly Wings
 1 Boon of Emrakul
-13 Swamp
-12 Island
+13 Swamp [SOI:*]
+12 Island [SOI:*]

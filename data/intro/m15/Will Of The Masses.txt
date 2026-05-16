@@ -23,5 +23,5 @@
 2 Devouring Light
 1 Meditation Puzzle
 1 Sanctified Charge
-13 Forest
-12 Plains
+13 Forest [M15:*]
+12 Plains [M15:*]

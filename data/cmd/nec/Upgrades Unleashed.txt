@@ -1,9 +1,9 @@
 // NAME: Upgrades Unleashed
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-commander-decklists-2022-02-07
 // DATE: 2022-02-18
-COMMANDER: 1 Chishiro, the Shattered Blade [foil]
+COMMANDER: 1 Chishiro, the Shattered Blade [NEC:1] [foil]
+1 Kaima, the Fractured Calm [foil]
 1 Ox of Agonas
-1 Kaima, the Fractured Calm
 1 Akki Battle Squad
 1 Kami of Celebration
 1 Komainu Battle Armor
@@ -74,5 +74,8 @@ COMMANDER: 1 Chishiro, the Shattered Blade [foil]
 1 Oran-Rief, the Vastwood
 1 Raging Ravine
 1 Temple of Abandon
-12 Mountain
-14 Forest
+12 Mountain [NEO:*]
+14 Forest [NEO:*]
+
+Display Commander
+1 Chishiro, the Shattered Blade [NEC:77] [foil] [etched]

@@ -1,0 +1,16 @@
+// NAME: Demo deck B
+// SOURCE: https://mtg.wiki/page/Sampler
+// DATE: 1998-06-24
+// This is unshuffled demo deck, listed here in order of cards. Multiples of the same card are ungrouped.
+1 Norwood Ranger
+1 Swamp [P02:159]
+1 Goblin Raider
+1 Ogre Berserker
+1 Mountain [P02:160]
+1 Prowling Nightstalker
+1 Forest [P02:163]
+1 Raging Goblin
+1 Mountain [P02:161]
+1 Dakmor Scorpion
+1 Moaning Spirit
+1 Swamp [P02:157]

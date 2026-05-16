@@ -1,5 +1,6 @@
 // NAME: Rivals of Ixalan Redemption
-// DATE: 2018-01-19
+// SOURCE: default database query
+// DATE: 2018-02-18
 1 Admiral's Order [RIX:31]
 1 Aggressive Urge [RIX:122]
 1 Angrath, the Flame-Chained [RIX:152]

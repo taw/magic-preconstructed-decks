@@ -71,8 +71,8 @@ COMMANDER: 1 Nalia de'Arnise [CLB:649] [foil]
 1 Snowfield Sinkhole
 1 Starlit Sanctum
 1 Tainted Field
-10 Plains
-10 Swamp
+10 Plains [CLB:*]
+10 Swamp [CLB:*]
 1 Burakos, Party Leader [foil]
 1 Folk Hero [foil]
 1 Deep Gnome Terramancer

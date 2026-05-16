@@ -1,5 +1,6 @@
 // NAME: Amonkhet Redemption
-// DATE: 2017-04-28
+// SOURCE: default database query
+// DATE: 2017-05-28
 1 Ahn-Crop Champion [AKH:194]
 1 Ahn-Crop Crasher [AKH:117]
 1 Ancient Crab [AKH:40]

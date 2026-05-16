@@ -34,6 +34,8 @@
 1 Terminate
 1 Sulfuric Vortex
 2 Akoum Refuge
-14 Mountain
+14 Mountain [DDK:*]
 2 Rakdos Carnarium
-6 Swamp
+2 Swamp [DDK:78]
+2 Swamp [DDK:79]
+2 Swamp [DDK:80]

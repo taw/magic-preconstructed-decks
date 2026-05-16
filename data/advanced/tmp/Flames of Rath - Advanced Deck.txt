@@ -18,7 +18,7 @@
 2 Furnace of Rath
 4 Dwarven Ruins
 3 Gemstone Mine
-12 Mountain
+12 Mountain [TMP:*]
 2 Reflecting Pool
 2 Scabland
 1 Undiscovered Paradise

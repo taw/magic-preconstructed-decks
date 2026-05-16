@@ -18,7 +18,7 @@
 1 Mishra's Workshop
 1 Mox Pearl
 2 Personal Incarnation
-22 Plains
+22 Plains [3ED:*]
 3 Rainbow Knights
 2 Serra Angel
 1 Sol Ring

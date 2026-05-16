@@ -14,7 +14,7 @@
 1 Whirlwind Adept
 1 Tireless Missionaries
 1 Serra Angel
-1 Sage of the Inward Eye [foil]
+1 Sage of the Inward Eye [PKTK:195] [foil]
 1 Warden of the Eye
 1 Riverwheel Aerialists
 1 Void Snare
@@ -34,6 +34,6 @@
 1 Swiftwater Cliffs
 1 Tranquil Cove
 1 Wind-Scarred Crag
-8 Island
-6 Mountain
-7 Plains
+8 Island [KTK:*]
+6 Mountain [KTK:*]
+7 Plains [KTK:*]

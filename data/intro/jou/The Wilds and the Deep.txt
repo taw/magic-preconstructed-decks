@@ -26,5 +26,5 @@
 1 Thassa's Ire
 1 Font of Fortunes
 1 Market Festival
-15 Forest
-11 Island
+15 Forest [THS:*]
+11 Island [THS:*]

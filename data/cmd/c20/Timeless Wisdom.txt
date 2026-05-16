@@ -86,9 +86,9 @@ COMMANDER: 1 Gavi, Nest Warden [foil]
 1 Secluded Steppe
 1 Smoldering Crater
 1 Temple of the False God
-5 Island
-6 Mountain
-4 Plains
+5 Island [IKO:*]
+6 Mountain [IKO:*]
+4 Plains [IKO:*]
 
 Display Commander
 1 Gavi, Nest Warden [oc20] [foil]

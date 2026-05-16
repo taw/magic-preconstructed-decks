@@ -1,5 +1,5 @@
 // NAME: Keep the Peace
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks#Monocolor_Decks_(Arena_Base_Set)
 // DATE: 2020-08-13
 4 Charmed Stray
 2 Fencing Ace

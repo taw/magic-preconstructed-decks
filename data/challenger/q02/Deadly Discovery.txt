@@ -15,7 +15,7 @@
 4 Cast Down
 3 The Eldest Reborn
 2 Woodland Cemetery
-4 Golgari Guildgate
+4 Golgari Guildgate [GRN:248]
 1 Overgrown Tomb
 2 Memorial to Folly
 4 Forest [XLN:276]

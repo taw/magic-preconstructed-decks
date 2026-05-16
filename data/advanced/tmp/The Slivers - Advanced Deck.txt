@@ -18,10 +18,10 @@
 1 Lobotomy
 2 Nevinyrral's Disk
 1 Fevered Convulsions
-8 Island
+8 Island [TMP:*]
 2 Quicksand
 4 Rootwater Depths
-6 Swamp
+6 Swamp [TMP:*]
 4 Underground River
 
 Sideboard

@@ -14,7 +14,7 @@
 3 Fire Elemental
 3 Fireball
 2 Gem Bazaar
-12 Island
+12 Island [3ED:*]
 2 Lightning Bolt
 2 Mana Vault
 12 Mountain

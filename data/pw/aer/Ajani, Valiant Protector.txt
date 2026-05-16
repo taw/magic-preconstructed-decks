@@ -24,5 +24,5 @@
 2 Ajani's Aid
 1 Aid from the Cowl
 4 Tranquil Expanse
-9 Forest
-9 Plains
+9 Forest [KLD:*]
+9 Plains [KLD:*]

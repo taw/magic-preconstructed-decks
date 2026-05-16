@@ -22,5 +22,5 @@
 1 Dirge of Dread*
 1 Feeding Frenzy*
 1 Cruel Revival*
-23 Swamp*
+23 Swamp [ONS:*]
 2 Barren Moor*

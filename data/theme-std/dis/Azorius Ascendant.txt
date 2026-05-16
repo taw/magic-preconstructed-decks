@@ -23,7 +23,7 @@
 2 Ocular Halo
 2 Plumes of Peace
 1 Palliation Accord
-12 Plains*
-9 Island*
+12 Plains [RAV:*]
+9 Island [RAV:*]
 2 Azorius Chancery
 1 Prahv, Spires of Order

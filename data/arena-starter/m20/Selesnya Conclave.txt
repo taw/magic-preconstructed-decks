@@ -1,5 +1,5 @@
 // NAME: Selesnya Conclave
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2019-05-03
 3 Healer's Hawk
 3 Hunted Witness
@@ -19,7 +19,7 @@
 1 March of the Multitudes
 2 Pledge of Unity
 3 Flower // Flourish
-4 Selesnya Guildgate
+4 Selesnya Guildgate [GRN:255]
 1 Temple Garden
-10 Forest
-10 Plains
+10 Forest [M20:*]
+10 Plains [M20:*]

@@ -5,7 +5,7 @@
 2 Backfire
 2 Fellwar Stone
 4 Hurkyl's Recall
-20 Island
+20 Island [3ED:*]
 1 Ivory Tower
 3 Mana Vault
 4 Mishra's Factory [ATQ:80a]

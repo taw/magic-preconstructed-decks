@@ -1,5 +1,5 @@
 // NAME: Demo Booster Player 2
-// SOURCE: https://mtg.fandom.com/wiki/Ninth_Edition/Demo_Game
+// SOURCE: https://mtg.wiki/wiki/Ninth_Edition/Demo_Game
 // DATE: 2005-07-29
 1 Spineless Thug
 1 Goblin Raider

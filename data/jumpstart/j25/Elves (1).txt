@@ -14,6 +14,6 @@
 1 Tajuru Pathwarden
 1 Thornweald Archer
 1 Thriving Grove
-7 Forest
+7 Forest [J25:*]
 
 Sideboard

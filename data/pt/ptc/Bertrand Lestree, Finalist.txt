@@ -1,5 +1,5 @@
 // NAME: Bertrand Lestree, Finalist
-// SOURCE: https://mtg.fandom.com/wiki/Pro_Tour_Collector_Set
+// SOURCE: https://mtg.wiki/wiki/Pro_Tour_Collector_Set
 // DATE: 1996-05-01
 4 Brushland [PTC:bl352]
 1 Havenwood Battleground [PTC:bl96]

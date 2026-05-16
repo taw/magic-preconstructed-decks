@@ -49,8 +49,8 @@ COMMANDER: 1 Saheeli, the Gifted [foil]
 1 Great Furnace
 1 Seat of the Synod
 1 Thopter Spy Network
-15 Island
-12 Mountain
+15 Island [C18:*]
+12 Mountain [C18:*]
 1 Buried Ruin
 1 Command Tower
 1 Foundry of the Consuls

@@ -19,4 +19,4 @@
 1 Confiscate
 1 Kraken's Eye
 1 Rod of Ruin
-17 Island
+17 Island [9ED:*]

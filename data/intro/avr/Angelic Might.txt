@@ -25,5 +25,5 @@
 1 Triumph of Ferocity
 1 Builder's Blessing
 1 Seraph Sanctuary
-13 Plains
-11 Forest
+13 Plains [AVR:*]
+11 Forest [AVR:*]

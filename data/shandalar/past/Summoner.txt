@@ -12,12 +12,12 @@
 2 Colossus of Sardia
 2 Disenchant
 3 Force of Nature
-20 Forest
+20 Forest [3ED:*]
 3 Giant Growth
 2 Healing Salve
 4 Hurricane
 4 Lifelace
-4 Plains
+4 Plains [3ED:*]
 4 Radjan Spirit
 4 War Mammoth
 

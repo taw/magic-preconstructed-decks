@@ -1,0 +1,8 @@
+// NAME: Horizon: Into the Forbidden West
+// SOURCE: https://secretlair.wizards.com/us/product/1246544
+// DATE: 2025-11-06
+1 [SLD:2221] Aloy, Savior of Meridian
+1 [SLD:2222] Farseek
+1 [SLD:2223] Blightsteel Colossus
+1 [SLD:2224] Tarrian's Soulcleaver
+1 [SLD:2225] Meteor Golem

@@ -25,6 +25,6 @@
 2 Vital Surge*
 1 Dosan's Oldest Chant
 1 Honden of Life's Web*
-11 Plains*
-12 Forest*
+11 Plains [CHK:*]
+12 Forest [CHK:*]
 1 Tranquil Garden*

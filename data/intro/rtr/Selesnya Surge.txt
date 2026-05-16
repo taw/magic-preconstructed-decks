@@ -21,8 +21,8 @@
 2 Selesnya Keyrune
 1 Selesnya Guildgate
 1 Grove of the Guardian [foil]
-12 Forest
-11 Plains
+12 Forest [RTR:*]
+11 Plains [RTR:*]
 2 Centaur's Herald
 1 Druid's Deliverance
 1 Heroes' Reunion

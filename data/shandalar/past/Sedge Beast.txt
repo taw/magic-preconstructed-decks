@@ -17,7 +17,7 @@
 10 Mountain
 4 Stone Rain
 4 Strip Mine [ATQ:82a]
-10 Swamp
+10 Swamp [3ED:*]
 4 Uthden Troll
 2 Weakness
 

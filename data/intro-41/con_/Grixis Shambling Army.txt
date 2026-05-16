@@ -19,8 +19,8 @@
 1 Agony Warp
 1 Bone Saw
 1 Elder Mastery
-3 Island
-7 Swamp
-3 Mountain
+3 Island [ALA:*]
+7 Swamp [ALA:*]
+3 Mountain [ALA:*]
 2 Crumbling Necropolis
 2 Terramorphic Expanse

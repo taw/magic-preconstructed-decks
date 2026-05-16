@@ -1,5 +1,5 @@
 // NAME: SDCC 2015 Black Planeswalkers
-// SOURCE: https://mtg.fandom.com/wiki/Comic-Con
+// SOURCE: https://mtg.wiki/wiki/Comic-Con
 // DATE: 2015-07-09
 1 Kytheon, Hero of Akros [foil]
 1 Jace, Vryn's Prodigy [foil]

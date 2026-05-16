@@ -1,5 +1,5 @@
 // NAME: Gold Deck
-// SOURCE: https://mtg.fandom.com/wiki/Eighth_Edition/Core_Game
+// SOURCE: https://mtg.wiki/wiki/Eighth_Edition/Core_Game
 // DATE: 2003-07-28
 2 Norwood Ranger
 2 Grizzly Bears
@@ -12,5 +12,5 @@
 2 Lava Axe
 1 Stone Rain
 2 Volcanic Hammer
-7 Forest
-8 Mountain
+7 Forest [8ED:*]
+8 Mountain [8ED:*]

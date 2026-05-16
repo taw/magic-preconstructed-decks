@@ -36,8 +36,8 @@
 1 Hurricane
 1 Jalum Tome
 1 Serrated Arrows
-11 Plains
-10 Forest
+11 Plains [ATH:*]
+10 Forest [ATH:*]
 1 Brushland
 1 Drifting Meadow
 1 Pendelhaven

@@ -1,5 +1,5 @@
 // NAME: The Brazen Coalition
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-03-22
 1 Captivating Crew
 1 Captain Lannery Storm
@@ -30,5 +30,5 @@
 2 Magma Spray
 1 Reaver Ambush
 2 Cinder Barrens
-12 Mountain
-9 Swamp
+12 Mountain [DOM:*]
+9 Swamp [DOM:*]

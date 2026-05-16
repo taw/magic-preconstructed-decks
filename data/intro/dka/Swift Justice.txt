@@ -25,5 +25,5 @@
 2 Rally the Peasants
 1 Skillful Lunge
 2 Traveler's Amulet
-12 Mountain
-12 Plains
+12 Mountain [ISD:*]
+12 Plains [ISD:*]

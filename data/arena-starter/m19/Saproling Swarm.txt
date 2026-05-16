@@ -1,5 +1,5 @@
 // NAME: Saproling Swarm
-// SOURCE: https://mtg.fandom.com/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
+// SOURCE: https://mtg.wiki/wiki/Magic:_The_Gathering_Arena/Preconstructed_decks
 // DATE: 2018-09-27
 3 Doomed Dissenter
 3 Deathbloom Thallid
@@ -19,7 +19,7 @@
 3 Vicious Offering
 2 Spore Swarm
 3 Saproling Migration
-10 Swamp
+10 Swamp [M19:*]
 1 Woodland Cemetery
-10 Forest
+10 Forest [M19:*]
 4 Foul Orchard

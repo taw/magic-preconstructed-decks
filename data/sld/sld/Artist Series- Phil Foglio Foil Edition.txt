@@ -1,0 +1,7 @@
+// NAME: Artist Series: Phil Foglio Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1245654
+// DATE: 2025-06-10
+1 [SLD:2024] Goblin Bombardment [foil]
+1 [SLD:2025] Orcish Lumberjack [foil]
+1 [SLD:2026] Constant Mists [foil]
+1 [SLD:2027] Song of the Dryads [foil]

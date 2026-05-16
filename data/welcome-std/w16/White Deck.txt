@@ -1,0 +1,20 @@
+// NAME: White Deck
+// SOURCE: https://mtg.wiki/page/Welcome_Deck_2016/Welcome_decks
+// DATE: 2016-04-08
+1 Blighted Steppe
+12 Plains [SOI:*]
+1 Aegis Angel
+1 Angel of Renewal
+1 Affa Protector
+1 Cliffside Lookout
+1 Courier Griffin
+2 Devilthorn Fox
+1 Inspiring Captain
+1 Makindi Aeronaut
+1 Serra Angel
+1 Ethereal Guidance
+1 Gideon's Reproach
+1 Marked by Honor
+2 Mighty Leap
+1 Silverstrike
+1 Smite the Monstrous

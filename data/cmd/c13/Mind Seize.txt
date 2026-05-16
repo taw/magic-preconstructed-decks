@@ -68,16 +68,16 @@ COMMANDER: 1 Jeleva, Nephalia's Scourge
 1 Dimir Guildgate
 1 Evolving Wilds
 1 Grixis Panorama
-9 Island
+9 Island [C13:*]
 1 Izzet Boilerworks
 1 Izzet Guildgate
 1 Molten Slagheap
-5 Mountain
+5 Mountain [C13:*]
 1 Opal Palace
 1 Rakdos Carnarium
 1 Rakdos Guildgate
 1 Rupture Spire
-8 Swamp
+8 Swamp [C13:*]
 1 Temple of the False God
 1 Urza's Factory
 1 Vivid Creek

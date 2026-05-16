@@ -17,7 +17,7 @@
 4 Temporal Machinations
 3 Gideon's Reproach
 2 Befuddle
-11 Plains
-11 Island
+11 Plains [DOM:*]
+11 Island [DOM:*]
 4 Meandering River
 1 Teferi, Timebender [foil]

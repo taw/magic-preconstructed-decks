@@ -26,5 +26,5 @@
 1 Gift of Immortality
 2 Ordeal of Heliod
 1 Sunbond
-10 Island
-16 Plains
+10 Island [THS:*]
+16 Plains [THS:*]

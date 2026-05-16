@@ -1,0 +1,8 @@
+// NAME: Fallout: Greet the Dog Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1249329
+// DATE: 2026-02-16
+1 [SLD:2463] Yoshimaru, Ever Faithful [foil]
+1 [SLD:2464] Arcane Signet [foil]
+1 [SLD:2465] Lightning Greaves [foil]
+1 [SLD:2466] Patchwork Banner [foil]
+1 [SLD:2467] Sol Ring [foil]

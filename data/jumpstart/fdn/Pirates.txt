@@ -5,14 +5,13 @@
 1 Bigfin Bouncer
 1 Skyship Buccaneer
 1 Brineborn Cutthroat
-1 Spectral Sailor
+1 Spectral Sailor [FDN:164]
 1 Tolarian Terror
 1 Cancel
 1 Eaten by Piranhas
-1 Kitesail Corsair
+1 Kitesail Corsair [FDN:510]
 1 Opt
 1 Storm Fleet Spy
 1 Pirate's Cutlass
 1 Uncharted Haven
-7 Island
-
+7 Island [FDN:*]

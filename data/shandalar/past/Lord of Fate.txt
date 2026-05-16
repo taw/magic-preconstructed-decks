@@ -16,9 +16,9 @@
 3 Ornithopter
 3 Osai Vultures
 3 Pestilence
-11 Plains
+11 Plains [3ED:*]
 4 Serra Angel
-11 Swamp
+11 Swamp [3ED:*]
 3 Unholy Strength
 4 Yotian Soldier
 

@@ -1,7 +1,7 @@
 // NAME: Demonic Deals
 // SOURCE: https://magic.wizards.com/en/content/magic-origins-intro-pack-decklists
 // DATE: 2015-07-17
-1 Kothophed, Soul Hoarder [foil]
+1 Kothophed, Soul Hoarder [PORI:104] [foil]
 2 Malakir Cullblade
 2 Shambling Ghoul
 1 Fleshbag Marauder
@@ -24,5 +24,5 @@
 1 Ravaging Blaze
 1 Weight of the Underworld
 1 Evolving Wilds
-14 Swamp
-10 Mountain
+14 Swamp [ORI:*]
+10 Mountain [ORI:*]

@@ -18,7 +18,7 @@
 2 Rabid Gnaw
 2 Stormcatch Mentor
 4 Swiftwater Cliffs
-11 Island
-12 Mountain
+11 Island [BLB:*]
+12 Mountain [BLB:*]
 
 Sideboard

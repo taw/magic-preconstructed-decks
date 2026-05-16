@@ -6,21 +6,21 @@
 2 Carrion Ants
 2 Colossus of Sardia
 2 Drain Power
-7 Island
+7 Island [3ED:*]
 2 Kismet
 1 Kormus Bell
 2 Meekstone
 1 Mox Jet
 1 Mox Pearl
 1 Mox Sapphire
-6 Plains
+6 Plains [3ED:*]
 4 Power Sink
 4 Psychic Venom
 4 Royal Assassin
 2 Serra Angel
 2 Shapeshifter
 2 Siren's Call
-6 Swamp
+6 Swamp [3ED:*]
 2 Twiddle
 1 Whimsy
 2 Word of Binding

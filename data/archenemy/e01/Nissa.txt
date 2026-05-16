@@ -29,6 +29,14 @@
 1 Sixth Sense
 2 Khalni Heart Expedition
 1 Retreat to Kazandu
-7 Island
 4 Woodland Stream
-13 Forest
+2 Island [E01:98]
+1 Island [E01:103]
+1 Island [AKH:258]
+1 Island [AKH:259]
+2 Island [AKH:260]
+3 Forest [E01:101]
+3 Forest [E01:106]
+2 Forest [AKH:267]
+2 Forest [AKH:268]
+3 Forest [AKH:269]

@@ -13,6 +13,6 @@
 1 Gothmog, Morgul Lieutenant
 1 Voracious Fell Beast
 1 March from the Black Gate
-8 Swamp
+8 Swamp [LTR:*]
 
 Sideboard

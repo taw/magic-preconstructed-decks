@@ -20,5 +20,5 @@
 1 Chandra's Outrage
 1 Staff of the Flame Magus
 2 Shiv's Embrace
-16 Mountain
-10 Island
+16 Mountain [M14:*]
+10 Island [M14:*]

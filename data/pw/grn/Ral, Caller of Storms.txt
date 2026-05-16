@@ -22,6 +22,7 @@
 1 Chemister's Insight
 2 Command the Storm
 1 Sonic Assault
-4 Izzet Guildgate
+2 Izzet Guildgate [GRN:251]
+2 Izzet Guildgate [GRN:252]
 10 Island
 12 Mountain

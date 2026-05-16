@@ -27,5 +27,7 @@
 1 Beast Attack
 1 Coat of Arms
 4 Rugged Highlands
-11 Mountain
-10 Forest
+4 Mountain [DDS:60]
+4 Mountain [DDS:61]
+3 Mountain [DDS:62]
+10 Forest [DDS:*]

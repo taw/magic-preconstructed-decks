@@ -19,5 +19,5 @@
 1 Manalith
 4 Pendulum of Patterns
 3 Dwindle
-26 Island
+26 Island [M19:*]
 1 Tezzeret, Cruel Machinist [foil]

@@ -10,7 +10,7 @@
 2 Necromancer's Assistant
 1 Gravedigger
 1 Rotfeaster Maggot
-1 Rakshasa Vizier [foil]
+1 Rakshasa Vizier [PKTK:193] [foil]
 1 Sultai Soothsayer
 2 Sultai Scavenger
 2 Hooting Mandrills
@@ -33,6 +33,6 @@
 1 Jungle Hollow
 2 Opulent Palace
 1 Thornwood Falls
-7 Swamp
-8 Forest
-6 Island
+7 Swamp [KTK:*]
+8 Forest [KTK:*]
+6 Island [KTK:*]

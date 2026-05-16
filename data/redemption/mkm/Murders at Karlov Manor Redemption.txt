@@ -1,5 +1,6 @@
 // NAME: Murders at Karlov Manor Redemption
-// DATE: 2024-02-09
+// SOURCE: default database query; https://www.mtgo.com/news/mtgo-mkm-01302024
+// DATE: 2024-03-06
 1 A Killer Among Us [MKM:167]
 1 Absolving Lammasu [MKM:2]
 1 Aftermath Analyst [MKM:148]

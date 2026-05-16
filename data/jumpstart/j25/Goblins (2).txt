@@ -14,6 +14,6 @@
 1 Open Fire
 1 Shock
 1 Thriving Bluff
-7 Mountain
+7 Mountain [J25:*]
 
 Sideboard

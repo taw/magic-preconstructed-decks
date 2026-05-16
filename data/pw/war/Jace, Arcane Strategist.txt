@@ -4,8 +4,8 @@
 1 Primordial Wurm
 2 New Horizons
 4 Simic Guildgate
-10 Island
-11 Forest
+10 Island [WAR:*]
+11 Forest [WAR:*]
 1 Spark Double
 1 Bioessence Hydra
 2 Jace's Ruse

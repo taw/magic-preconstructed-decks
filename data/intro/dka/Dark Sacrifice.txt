@@ -25,5 +25,5 @@
 1 Avacyn's Collar
 1 Demonmail Hauberk
 1 Haunted Fengraf
-12 Plains
-11 Swamp
+12 Plains [ISD:*]
+11 Swamp [ISD:*]

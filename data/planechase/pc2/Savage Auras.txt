@@ -31,10 +31,10 @@
 1 Sigil of the Empty Throne
 1 Snake Umbra
 1 Spirit Mantle
-9 Forest
+9 Forest [PC2:*]
 2 Graypelt Refuge
 1 Krosan Verge
-8 Plains
+8 Plains [PC2:*]
 2 Selesnya Sanctuary
 1 Terramorphic Expanse
 1 Vitu-Ghazi, the City-Tree

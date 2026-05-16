@@ -15,9 +15,9 @@
 1 Lawmage's Binding
 1 Mirrodin's Core
 1 Rupture Spire
-1 Forest [M21]
-1 Island [M21]
-1 Mountain [M21]
-1 Plains [M21]
-1 Swamp [M21]
+1 Forest [M21:*]
+1 Island [M21:*]
+1 Mountain [M21:*]
+1 Plains [M21:*]
+1 Swamp [M21:*]
 1 Terramorphic Expanse [JMP:78]

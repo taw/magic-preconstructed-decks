@@ -13,7 +13,7 @@
 1 Courageous Outrider
 2 Fiend Binder
 1 Inspiring Captain
-1 Ulvenwald Observer [foil]
+1 Ulvenwald Observer [PEMN:176] [foil]
 2 Subjugator Angel
 1 Open the Armory
 1 Ironwright's Cleansing
@@ -25,5 +25,5 @@
 1 Hope Against Hope
 1 Equestrian Skill
 2 Faith Unbroken
-12 Forest
-13 Plains
+12 Forest [SOI:*]
+13 Plains [SOI:*]

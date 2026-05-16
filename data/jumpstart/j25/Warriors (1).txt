@@ -15,6 +15,6 @@
 1 Wrecking Crew
 1 Relic Axe
 1 Thriving Bluff
-6 Mountain
+6 Mountain [J25:*]
 
 Sideboard

@@ -82,6 +82,9 @@ COMMANDER: 1 Anikthea, Hand of Erebos [foil]
 1 Selesnya Sanctuary
 1 Tainted Field
 1 Tainted Wood
-6 Plains
-5 Swamp
-8 Forest
+3 Plains [CMM:783]
+3 Plains [CMM:784]
+3 Swamp [CMM:791]
+2 Swamp [CMM:792]
+4 Forest [CMM:797]
+4 Forest [CMM:798]

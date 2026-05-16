@@ -1,9 +1,9 @@
 // NAME: Crusher
 // SOURCE: http://www.wizards.com/magic/expert/Urzas_Legacy/UL_PCDs.asp
-// SOURCE: https://mtg.gamepedia.com/Urza%27s_Legacy/Theme_decks
+// SOURCE: https://mtg.wiki/wiki/Urza%27s_Legacy/Theme_decks
 // DATE: 1999-02-15
-17 Forest
-4 Plains
+17 Forest [USG:*]
+4 Plains [USG:*]
 3 Drifting Meadow
 1 Treetop Village
 1 Argothian Swine

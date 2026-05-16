@@ -1,5 +1,5 @@
 // NAME: Tom van de Logt - Machine Head
-// SOURCE: https://mtg.gamepedia.com/World_Championship_Decks/2001
+// SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2001
 // DATE: 2001-08-08
 4 Plague Spitter
 3 Phyrexian Scuta

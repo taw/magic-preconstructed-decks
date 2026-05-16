@@ -22,4 +22,4 @@
 1 Prismatic Strands
 2 Unquestioned Authority
 2 Battle Screech
-20 Plains*
+20 Plains [ODY:*]

@@ -1,5 +1,5 @@
 // NAME: Cats 4
-// SOURCE: https://mtg.fandom.com/wiki/Jumpstart_2022/Decklists_-_White
+// SOURCE: https://mtg.wiki/wiki/Jumpstart_2022/Decklists_-_White
 // DATE: 2022-12-02
 1 Ingenious Leonin
 1 Leonin Warleader
@@ -14,4 +14,4 @@
 1 Weight of Conscience
 1 Leonin Scimitar
 1 Thriving Heath
-7 Plains
+7 Plains [J22:*]

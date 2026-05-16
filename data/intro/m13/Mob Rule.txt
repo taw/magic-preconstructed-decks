@@ -26,5 +26,5 @@
 1 Ring of Valkas
 1 Fervor
 1 Evolving Wilds
-15 Mountain
-8 Forest
+15 Mountain [M13:*]
+8 Forest [M13:*]

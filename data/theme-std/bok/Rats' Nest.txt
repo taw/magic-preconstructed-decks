@@ -23,4 +23,4 @@
 1 Stir the Grave
 1 Shuko
 1 Umezawa's Jitte
-24 Swamp*
+24 Swamp [CHK:*]

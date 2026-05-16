@@ -13,4 +13,4 @@
 1 Gift of Strands
 1 Bombadil's Song
 1 Revive the Shire
-8 Forest
+8 Forest [LTR:*]

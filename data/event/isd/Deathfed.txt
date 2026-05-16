@@ -17,10 +17,10 @@
 1 Gnaw to the Bone
 2 Bonehoard
 1 Ratchet Bomb
-13 Forest
+13 Forest [ISD:*]
 1 Hinterland Harbor
-7 Island
-3 Swamp
+7 Island [ISD:*]
+3 Swamp [ISD:*]
 
 Sideboard
 2 Gnaw to the Bone

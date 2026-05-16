@@ -1,0 +1,33 @@
+// NAME: Red-White
+// SOURCE: https://magic.wizards.com/en/news/announcements/final-fantasy-starter-kit-decklists
+// DATE: 2025-06-13
+1 Cloud, Planet's Champion [FIN:552] [foil]
+2 Cloudbound Moogle
+2 Coeurl
+4 Dwarven Castle Guard
+2 Fate of the Sun-Cryst
+2 Slash of Light
+2 White Auracite
+1 White Mage's Staff
+1 Adelbert Steiner [FIN:3]
+1 The Crystal's Chosen
+1 Dragoon's Lance
+1 G'raha Tia [FIN:21]
+1 Rosa, Resolute White Mage [FIN:555]
+1 Beatrix, Loyal General [FIN:554]
+3 Item Shopkeep
+2 Warrior's Sword
+1 Suplex
+1 Freya Crescent [FIN:138]
+2 Samurai's Katana
+1 Barret Wallace [FIN:129]
+1 Lightning, Security Sergeant [FIN:560]
+1 Judgment Bolt
+1 Ultima Weapon
+4 Rabanastre, Royal City
+5 Plains [FIN:294]
+4 Plains [FIN:295]
+4 Plains [FIN:296]
+3 Mountain [FIN:303]
+3 Mountain [FIN:304]
+2 Mountain [FIN:305]

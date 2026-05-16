@@ -73,9 +73,9 @@ COMMANDER: 1 Zedruu the Greathearted
 1 Evolving Wilds
 1 Izzet Boilerworks
 1 Terramorphic Expanse
-8 Mountain
-8 Plains
-12 Island
+8 Mountain [CMD:*]
+8 Plains [CMD:*]
+12 Island [CMD:*]
 
 Display Commander
 1 Numot, the Devastator [ocmd] [foil]

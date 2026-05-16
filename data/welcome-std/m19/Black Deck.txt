@@ -1,0 +1,19 @@
+// NAME: Black Deck
+// SOURCE: https://mtg.wiki/wiki/Core_Set_2019/Welcome_decks
+// DATE: 2018-07-13
+1 Gravewaker
+1 Bogstomper
+1 Diregraf Ghoul
+1 Gravedigger
+1 Skeleton Archer
+1 Skymarch Bloodletter
+1 Vampire Sovereign
+2 Walking Corpse
+1 Tattered Mummy
+1 Grasping Scoundrel
+1 Lich's Caress
+1 Sovereign's Bite
+1 Murder
+2 Strangling Spores
+1 Infernal Scarring
+13 Swamp [M19:*]

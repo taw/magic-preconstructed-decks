@@ -19,6 +19,6 @@
 1 Fireball
 2 Giant Growth
 2 Lightning Bolt
-9 Forest
-8 Mountain
+9 Forest [ZEN:*]
+8 Mountain [ZEN:*]
 1 Terramorphic Expanse

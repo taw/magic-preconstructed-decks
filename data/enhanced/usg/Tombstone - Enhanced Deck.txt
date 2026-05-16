@@ -18,13 +18,13 @@
 3 Diabolic Servitude
 2 Adarkar Wastes
 2 Drifting Meadow
-2 Island
-2 Plains
+2 Island [USG:*]
+2 Plains [USG:*]
 2 Polluted Mire
 3 Reflecting Pool
 2 Remote Isle
 2 Rootwater Depths
-2 Swamp
+2 Swamp [USG:*]
 2 Thalakos Lowlands
 3 Underground River
 

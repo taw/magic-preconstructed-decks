@@ -23,5 +23,5 @@
 2 Warlord's Axe
 1 Argentum Armor
 1 Necropouncer
-13 Island
-11 Swamp
+13 Island [NPH:*]
+11 Swamp [NPH:*]

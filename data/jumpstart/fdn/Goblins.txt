@@ -14,5 +14,4 @@
 1 Volley Veteran
 1 Goblin Firebomb
 1 Uncharted Haven
-7 Mountain
-
+7 Mountain [FDN:*]

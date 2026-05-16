@@ -13,14 +13,14 @@
 3 Cursed Land
 4 Dancing Scimitar
 4 Giant Strength
-6 Island
+6 Island [3ED:*]
 2 Jayemdae Tome
 6 Mountain
 1 Mox Jet
 1 Mox Ruby
 1 Mox Sapphire
 4 Ornithopter
-6 Swamp
+6 Swamp [3ED:*]
 4 Unholy Strength
 4 Unstable Mutation
 4 Will-o'-the-Wisp
