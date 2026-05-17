@@ -1,0 +1,8 @@
+// NAME: Viva Las Rakdos
+// SOURCE: https://magic.wizards.com/en/news/announcements/festival-in-a-box-is-headed-to-vegas-baby
+// DATE: 2025-05-13
+1 [SLD:2524] Talisman of Indulgence [foil]
+1 [SLD:2525] Dark Petition [foil]
+1 [SLD:2526] Lightning Greaves [foil]
+1 [SLD:2527] Beseech the Mirror [foil]
+1 [SLD:2528] Light Up the Stage [foil]
