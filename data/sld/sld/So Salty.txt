@@ -3,6 +3,6 @@
 // DATE: 2025-04-22
 1 [SLD:2396] Expropriate [foil]
 1 [SLD:2397] Narset, Parter of Veils [foil]
-1 [SLD:2398] Scrawling Crawler [foil]
-1 [SLD:2399] Worst Fears [foil]
+1 [SLD:2399] Scrawling Crawler [foil]
+1 [SLD:2398] Worst Fears [foil]
 1 [SLD:2400] Winter Orb [foil]
