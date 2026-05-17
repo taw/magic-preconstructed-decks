@@ -1,8 +1,8 @@
 // NAME: Omens of Chaos Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1250293
 // DATE: 2026-05-12
-1 [SLD] Batwing Brume [foil]
 1 [SLD:2468] Abrupt Decay [foil]
+1 [SLD:2469] Batwing Brume [foil]
 1 [SLD:2470] Chance for Glory [foil]
 1 [SLD:2471] Counterflux [foil]
 1 [SLD:2472] Growth Spiral [foil]

@@ -1,0 +1,7 @@
+// NAME: Back in My Day! Foil Edition
+// SOURCE: https://www.reddit.com/r/magicTCG/comments/1ta5y16/sld_back_in_my_day/
+// DATE: 2026-05-29
+1 [SLD:2346] Battle Hymn [foil]
+1 [SLD:2347] Breath of Fury [foil]
+1 [SLD:2348] Veil of Summer [foil]
+1 [SLD:2349] Birthing Pod [foil]
