@@ -1,0 +1,8 @@
+// NAME: Inked Foil Edition
+// SOURCE: https://www.reddit.com/r/SecretLairMTG/comments/1sm5tr3/inked_secret_lair_drop_mfg_2025_scrapped_or_still/
+// DATE: 2026-05-29
+1 [SLD:168] Mulldrifter [foil]
+1 [SLD:169] Crypt Ghast [foil]
+1 [SLD:170] Deathrite Shaman [foil]
+1 [SLD:171] Ice-Fang Coatl [foil]
+1 [SLD:172] Burnished Hart [foil]
