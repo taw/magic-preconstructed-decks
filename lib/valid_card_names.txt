@@ -254,6 +254,7 @@ Adrix and Nev, Twincasters
 Adult Gold Dragon
 Adun Oakenshield
 Advance Scout
+Advanced Floral Invocations
 Advanced Hoverguard
 Advanced Reconstruction
 Advanced Stitchwing
@@ -629,6 +630,7 @@ Alexi's Cloak
 Alexi, Zephyr Mage
 Alexios, Deimos of Kosmos
 Algae Gharial
+Algorithmic Ferocity
 Alhammarret's Archive
 Alhammarret, High Arbiter
 Alharu, Solemn Ritualist
@@ -1019,6 +1021,7 @@ Animist's Awakening
 Animist's Might
 Animus of Night's Reach
 Animus of Predation
+Anina, Natural Parallelist
 Anje Falkenrath
 Anje's Ravager
 Anje, Maid of Dishonor
@@ -1257,6 +1260,7 @@ Arch of Orazca
 Archaeological Dig
 Archaeomancer
 Archaeomancer's Map
+Archaeomancer's Spade
 Archaeomender
 Archaic's Agony
 Archangel
@@ -2975,6 +2979,7 @@ Blockade Runner
 Blockbuster
 Blood
 Blood Age General
+Blood Age Muster
 Blood Artist
 Blood Artist (Alchemy)
 Blood Aspirant
@@ -3267,6 +3272,7 @@ Bolt of Keranos
 Boltbender
 Boltfire
 Boltwave
+Boltwave (Prepared)
 Boltwing Marauder
 Bomat Bazaar Barge
 Bomat Courier
@@ -5614,6 +5620,7 @@ Consume Spirit
 Consume Strength
 Consume the Meek
 Consumed by Greed
+Consumed by History
 Consuming Aberration
 Consuming Aetherborn
 Consuming Ashes
@@ -5763,6 +5770,7 @@ Corpseberry Cultivator
 Corpsehatch
 Corpsejack Menace
 Corpses of the Lost
+Corpseweaver Prodigy
 Corpseweft
 Corpulent Corpse
 Corridor Monitor
@@ -5790,6 +5798,7 @@ Corruption of Towashi
 Corsair Captain
 Corsairs of Umbar
 Coruscation Mage
+Corvid Squall
 Cosi's Ravager
 Cosi's Trickster
 Cosima, God of the Voyage
@@ -5998,6 +6007,7 @@ Creepy Puppeteer
 Cremate
 Crenellated Wall
 Creosote Heath
+Crescendo Conductor
 Crescendo of War
 Crescent Island Temple
 Crested Craghorn
@@ -7547,6 +7557,7 @@ Distorting Wake
 Distortion Strike
 Distract the Guards
 Distract the Hydra
+Distracted Botanist
 Distracting Geist
 Distress
 District Guide
@@ -9423,6 +9434,7 @@ Expanded Anatomy
 Expanding Ooze
 Expansion
 Expansion Algorithm
+Expansive Reapplication
 Expedite
 Expedited Inheritance
 Expedition Champion
@@ -9914,6 +9926,7 @@ Fecund Greenshell
 Fecundity
 Feebleness
 Feed
+Feed the Bog
 Feed the Cauldron
 Feed the Clan
 Feed the Cycle
@@ -11141,6 +11154,7 @@ Galadriel's Dismissal
 Galadriel, Elven-Queen
 Galadriel, Gift-Giver
 Galadriel, Light of Valinor
+Galathul Galecaller
 Galazeth Prismari
 Gale Force
 Gale Swooper
@@ -11900,6 +11914,7 @@ Gloomwidow's Feast
 Glorfindel, Dauntless Rescuer
 Glorifier of Dusk
 Glorifier of Suffering
+Glorifying Verse
 Glorious Anthem
 Glorious Charge
 Glorious Decay
@@ -12437,6 +12452,7 @@ Grave Scrabbler
 Grave Servitude
 Grave Sifter
 Grave Strength
+Grave Studies
 Grave Titan
 Grave Upheaval
 Grave Venerations
@@ -13287,6 +13303,7 @@ Hazy Homunculus
 He Who Hungers
 Head Banger
 Head Games
+Head of the Class
 Head of the Homestead
 Head to Head
 Headhunter
@@ -13824,6 +13841,7 @@ Honor Troll
 Honor of the Pure
 Honor the Fallen
 Honor the God-Pharaoh
+Honor the Past
 Honor's Reward
 Honor-Worn Shaku
 Honorable Passage
@@ -14416,6 +14434,7 @@ Implement of Malice
 Implements of Sacrifice
 Implode
 Impolite Entrance
+Impose Hierarchy
 Imposing Grandeur
 Imposing Sovereign
 Imposing Vantasaur
@@ -14740,6 +14759,7 @@ Inspiring Call
 Inspiring Captain
 Inspiring Cleric
 Inspiring Commander
+Inspiring Easel
 Inspiring Leader
 Inspiring Overseer
 Inspiring Paladin
@@ -14777,6 +14797,7 @@ Intercessor's Arrest
 Interdict
 Interdimensional Web Watch
 Interdisciplinary Mascot
+Interdisciplinary Studies
 Interface Ace
 Interjection
 Intermediate Chirography
@@ -21152,6 +21173,7 @@ Paper Tiger
 Papercraft Decoy
 Paperfin Rascal
 Paradigm Shift
+Paradigm Shifter
 Paradise Druid
 Paradise Mantle
 Paradise Plume
@@ -21545,6 +21567,7 @@ Phoenix Down
 Phoenix Fleet Airship
 Phoenix Heart
 Phoenix of Ash
+Phoenix of Iteration
 Phoenix, Warden of Fire
 Phone a Friend
 Phosphorescent Feast
@@ -23056,6 +23079,7 @@ Ranger's Firebrand
 Ranger's Guile
 Ranger's Hawk
 Ranger's Longbow
+Ranger's Merit
 Ranger's Path
 Ranger-Captain of Eos
 Rangers of Ithilien
@@ -25113,6 +25137,7 @@ Scab-Clan Charger
 Scab-Clan Giant
 Scab-Clan Mauler
 Scabland
+Scalar Scholar
 Scald
 Scalding Cauldron
 Scalding Devil
@@ -25229,6 +25254,7 @@ Scholarship Sponsor
 School Daze
 School of Piranha
 School of the Unseen
+Scintillating Encore
 Scion Summoner
 Scion of Calamity
 Scion of Darkness
@@ -27316,6 +27342,7 @@ Soothsayer Adept
 Soothsaying
 Sootstoke Kindler
 Sootwalkers
+Soovril, Patient Antiquarian
 Sophia, Dogged Detective
 Sophic Centaur
 Sophina, Spearsage Deserter
@@ -28794,6 +28821,7 @@ Summit Apes
 Summit Intimidator
 Summit Prowler
 Summit Sentinel
+Summitfest Closing Ceremony
 Summon Undead
 Summon the Pack
 Summon the School
@@ -28875,6 +28903,7 @@ Sundering Archaic
 Sundering Eruption
 Sundering Fork
 Sundering Growth
+Sundering Sentinel
 Sundering Stroke
 Sundering Titan
 Sundering Vitae
@@ -30298,6 +30327,7 @@ The Mycotyrant
 The Myriad Pools
 The Mysterious Sphere
 The Mystery Raceway
+The Mystical Archive
 The Necrobloom
 The Neutrinos
 The Night of the Doctor
@@ -31914,6 +31944,7 @@ Unbound Flourishing
 Unbounded Potential
 Unbreakable Bond
 Unbreakable Formation
+Unbreakable Remnant
 Unbreathing Horde
 Unbridled Growth
 Unburden
@@ -32241,6 +32272,7 @@ Uro, Titan of Nature's Wrath
 Ursapine
 Ursine Champion
 Ursine Fylgja
+Ursine Guide
 Ursine Monstrosity
 Urtet, Remnant of Memnarch
 Uruk-hai Berserker
@@ -32451,6 +32483,7 @@ Vaporous Djinn
 Varchild's Crusader
 Varchild's War-Riders
 Varchild, Betrayer of Kjeldor
+Variable Solutions
 Varina, Lich Queen
 Varis, Silverymoon Ranger
 Varolz, the Scar-Striped

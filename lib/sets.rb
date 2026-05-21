@@ -758,6 +758,7 @@ MagicSets = {
   "yone" => "Alchemy: Phyrexia",
   "yotj" => "Alchemy: Outlaws of Thunder Junction",
   "ysnc" => "Alchemy: New Capenna",
+  "ysos" => "Alchemy: Secrets of Strixhaven",
   "ytdm" => "Alchemy: Tarkir",
   "ywoe" => "Alchemy: Wilds of Eldraine",
   "zen" => "Zendikar",
