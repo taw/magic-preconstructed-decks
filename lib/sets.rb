@@ -696,6 +696,7 @@ MagicSets = {
   "tmt" => "Teenage Mutant Ninja Turtles",
   "tor" => "Torment",
   "tpr" => "Tempest Remastered",
+  "trc" => "Star Trek Commander",
   "tsb" => "Time Spiral Timeshifted",
   "tsp" => "Time Spiral",
   "tsr" => "Time Spiral Remastered",
