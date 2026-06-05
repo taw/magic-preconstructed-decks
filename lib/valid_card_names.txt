@@ -414,6 +414,7 @@ Agency Coroner
 Agency Outfitter
 Agent Bishop, Man in Black
 Agent Frank Horrigan
+Agent Phil Coulson
 Agent Venom
 Agent of Acquisitions
 Agent of Erebos
@@ -1056,6 +1057,7 @@ Anowon, the Ruin Thief
 Anrakyr the Traveller
 Answered Prayers
 Ant Queen
+Ant-Man, Colony Commander
 Antagonism
 Antagonize
 Antarctic Research Base
@@ -1195,6 +1197,7 @@ Arboria
 Arc Blade
 Arc Lightning
 Arc Mage
+Arc Reactor
 Arc Runner
 Arc Spitter
 Arc Trail
@@ -1432,6 +1435,7 @@ Armistice
 Armix, Filigree Thrasher
 Armor Sliver
 Armor Thrull
+Armor Wars
 Armor of Faith
 Armor of Shadows
 Armor of Thorns
@@ -1901,6 +1905,7 @@ Aven of Enduring Hope
 Avenger en-Dal
 Avenger of Zendikar
 Avenger of the Fallen
+Avengers Assemble!
 Avenging Angel
 Avenging Arrow
 Avenging Druid
@@ -2760,6 +2765,8 @@ Black Market
 Black Market Connections
 Black Market Tycoon
 Black Oak of Odunos
+Black Panther, Hope Enduring
+Black Panther, Vanguard
 Black Panther, Wakandan King
 Black Poplar Shaman
 Black Scarab
@@ -2769,6 +2776,7 @@ Black Tulip
 Black Vise
 Black Waltz No. 3
 Black Ward
+Black Widow, Double Agent
 Blackblade Reforged
 Blackbloom Bog
 Blackbloom Rogue
@@ -4217,12 +4225,15 @@ Capricopian
 Capsize
 Capsizing Wave
 Captain America, First Avenger
+Captain America, Living Legend
 Captain America, Super-Soldier
 Captain America, Team Leader
 Captain Eberhart
 Captain Howler, Sea Scourge
 Captain Kirk, Boldly Going
 Captain Lannery Storm
+Captain Marvel, Apex Avenger
+Captain Marvel, Earth's Protector
 Captain N'ghathrod
 Captain Rex Nebula
 Captain Ripley Vance
@@ -5606,6 +5617,7 @@ Constant Mists
 Constricting Sliver
 Constricting Tendrils
 Constrictor Sage
+Construct a Cosmic Cube
 Construction Arsonist
 Consul's Lieutenant
 Consul's Shieldguard
@@ -6484,6 +6496,7 @@ Dapper Shieldmate
 Daraja Griffin
 Darba
 Daredevil Dragster
+Daredevil, Man Without Fear
 Daretti, Ingenious Iconoclast
 Daretti, Rocketeer Engineer
 Daretti, Scrap Savant
@@ -6519,6 +6532,7 @@ Dark Betrayal
 Dark Confidant
 Dark Dabbling
 Dark Deal
+Dark Deed
 Dark Depths
 Dark Endurance
 Dark Favor
@@ -7420,6 +7434,7 @@ Dire-Strain Brawler
 Dire-Strain Demolisher
 Dire-Strain Rampage
 Direct Current
+Director Nick Fury
 Diregraf Captain
 Diregraf Colossus
 Diregraf Escort
@@ -8441,6 +8456,7 @@ Echo Tracer
 Echo of Death's Wail
 Echo of Dusk
 Echo of Eons
+Echo, Perceptive Prodigy
 Echocasting Symposium
 Echoes of Eternity
 Echoes of the Kin Tree
@@ -8611,6 +8627,7 @@ Elegant Entourage
 Elegant Parlor
 Elegant Rotunda
 Elegy Acolyte
+Elektra, Daughter of the Hand
 Elemental Appeal
 Elemental Augury
 Elemental Bond
@@ -11991,6 +12008,7 @@ Go Blank
 Go Forth
 Go Hog Wild
 Go Ninja Go
+Go Nuts!
 Go for Blood
 Go for the Throat
 Go-Shintai of Ancient Wars
@@ -12948,6 +12966,7 @@ Gyrus, Waker of Corpses
 Gysahl Greens
 HELIOS One
 HONK!
+HULK SMASH!
 Haakon, Stromgald Scourge
 Haakon, Stromgald Scourge Avatar
 Haazda Exonerator
@@ -13345,6 +13364,7 @@ Heart of a Duelist
 Heart's Desire
 Heart-Piercer Bow
 Heart-Piercer Manticore
+Heart-Shaped Herb
 Heartbeat of Spring
 Heartfire
 Heartfire Hero
@@ -13459,6 +13479,7 @@ Hell's Caretaker Avatar
 Hell's Thunder
 Hell-Bent Raider
 Hellcarver Demon
+Hellcat, Undying Vigilante
 Helldozer
 Hellfire
 Hellfire Mongrel
@@ -13739,6 +13760,7 @@ Historian's Wisdom
 History of Benalia
 Hit
 Hit the Mother Lode
+Hit-Monkey
 Hitchclaw Recluse
 Hithlain Knots
 Hithlain Rope
@@ -14025,6 +14047,7 @@ Hubris
 Huddle Up
 Huge Truck
 Hugs, Grisly Guardian
+Hulk, Gamma Goliath
 Hulking Bugbear
 Hulking Cyclops
 Hulking Devil
@@ -14040,6 +14063,7 @@ Hulldrifter
 Hum of the Radix
 Human Frailty
 Human Torch
+Human Torch, Johnny Storm
 Human-Time Lord Meta-Crisis
 Humble
 Humble Budoka
@@ -14929,6 +14953,7 @@ Inviolability
 Invisibility
 Invisible Stalker
 Invisible Woman
+Invisible Woman, Sue Storm
 Invocation of Saint Traft
 Invocation of the Founders
 Invoke Calamity
@@ -14979,11 +15004,15 @@ Iroh, Grand Lotus
 Iroh, Tea Master
 Iron Apprentice
 Iron Bully
+Iron Fist, Living Weapon
 Iron Giant
 Iron Golem
 Iron Lance
 Iron League Steed
 Iron Maiden
+Iron Man, Armored Avenger
+Iron Man, Bleeding Edge
+Iron Man, Master of Machines
 Iron Man, Titan of Innovation
 Iron Mastiff
 Iron Myr
@@ -15606,6 +15635,9 @@ Kami of the Waning Moon
 Kami's Flare
 Kamigawa Charm
 Kamiz, Obscura Oculus
+Kang Prime
+Kang the Conqueror
+Kang, Temporal Tyrant
 Kangee's Lieutenant
 Kangee, Aerie Keeper
 Kangee, Sky Warden
@@ -15942,6 +15974,7 @@ Killian, Decisive Mentor
 Killian, Ink Duelist
 Killing Glare
 Killing Wave
+Killmonger, Scourge of Wakanda
 Kiln Fiend
 Kiln Walker
 Kilnmouth Dragon
@@ -15980,6 +16013,7 @@ King Harald's Revenge
 King Macar, the Gold-Cursed
 King Narfi's Betrayal
 King Suleiman
+King T'Challa
 King of the Oathbreakers
 King of the Pride
 King's Assassin
@@ -16457,6 +16491,7 @@ Lackey Recycler
 Ladies' Knight
 Lady Caleria
 Lady Evangela
+Lady Loki, Agent of Chaos
 Lady Octopus, Inspired Inventor
 Lady Orca
 Lady Sun
@@ -16667,6 +16702,7 @@ Lead-Belly Chimera
 Leaden Fists
 Leaden Myr
 Leader's Talent
+Leader, Super-Genius
 Leadership Vacuum
 Leading Performance
 Leaf Arrow
@@ -17204,6 +17240,8 @@ Lofty Dreams
 Log Flume
 Logic Knot
 Lokhust Heavy Destroyer
+Loki, God of Mischief
+Loki, the Deceiver
 Lolth, Spider Queen
 Lona, Tracker of the Known
 Lone Missionary
@@ -17533,6 +17571,7 @@ Lyzolda, the Blood Witch
 Lyzolda, the Blood Witch Avatar
 Lórien Revealed
 M'Odo, the Gnarled Oracle
+M.O.D.O.K.
 MJ, Rising Star
 Ma Chao, Western Warrior
 Maalfeld Twins
@@ -17557,6 +17596,7 @@ Mad Labs
 Mad Prophet
 Mad Ratter
 Mad Science Fair Project
+Madame Hydra
 Madame Null, Power Broker
 Madame Vastra
 Madame Web, Clairvoyant
@@ -18860,6 +18900,7 @@ Mistcaller
 Mistcutter Hydra
 Mister Cheddar, Cheese Sliver
 Mister Fantastic
+Mister Fantastic, Reed Richards
 Mister Gutsy
 Mister Negative
 Mistfire Adept
@@ -18914,6 +18955,7 @@ Mizzium Transreliquat
 Mizzix of the Izmagnus
 Mizzix's Mastery
 Mizzix, Replica Rider
+Mjölnir, Hammer of Thor
 Mjölnir, Storm Hammer
 Mm'menon, Uthros Exile
 Mm'menon, the Right Hand
@@ -19067,6 +19109,7 @@ Mondronen Shaman
 Monet, Sensei of the Sewers
 Mongoose Lizard
 Mongrel Pack
+Monica Rambeau
 Moniker Mage
 Monitor Monitor
 Monk Class
@@ -19353,6 +19396,7 @@ Multiclass Baldric
 Multiform Wonder
 Multiple Choice
 Multiversal High Council
+Multiversal Incursion
 Multiversal Passage
 Mummy Paramount
 Munda's Vanguard
@@ -19381,6 +19425,7 @@ Murderous Redcap
 Murderous Redcap Avatar
 Murderous Rider
 Murderous Spoils
+Murdock's Crusade
 Murgish Cemetery
 Murk Dwellers
 Murk Strider
@@ -20561,6 +20606,7 @@ Oko, Shadowmoor Scion
 Oko, Thief of Crowns
 Oko, the Ringleader
 Oko, the Trickster
+Okoye, Mighty and Adored
 Ol' Buzzbark
 Olag, Ludevic's Hubris
 Old Flitterfang
@@ -21573,6 +21619,8 @@ Phoenix, Warden of Fire
 Phone a Friend
 Phosphorescent Feast
 Photo Op
+Photon Blast Barrage
+Photon, Living Light
 Phthisis
 Phylactery Lich
 Phylath, World Sculptor
@@ -25559,6 +25607,7 @@ Secret Arcade
 Secret Base
 Secret Door
 Secret Identity
+Secret Invasion
 Secret Passage
 Secret Plans
 Secret Rendezvous
@@ -26354,6 +26403,8 @@ Shu Soldier-Farmers
 Shu Yun, the Silent Tempest
 Shuko
 Shunt
+Shuri, Wakandan Inventor
+Shuri, the Black Panther
 Shuriken
 Shy Town
 Shyft
@@ -27766,6 +27817,7 @@ Spider-Slayer, Hatred Honed
 Spider-Suit
 Spider-UK
 Spider-Verse
+Spider-Woman, Secret Agent
 Spider-Woman, Stunning Savior
 Spiders-Man, Heroic Horde
 Spidersilk Armor
@@ -28531,6 +28583,7 @@ Storm the Seedcore
 Storm the Vault
 Storm's Wrath
 Storm, Force of Nature
+Storm, Queen of Wakanda
 Storm-Charged Slasher
 Storm-Kiln Artist
 Stormbeacon Blade
@@ -29975,6 +30028,7 @@ Thallid Omnivore
 Thallid Shell-Dweller
 Thallid Soothsayer
 Thancred Waters
+Thanos, the Mad Titan
 Thantis, the Warweaver
 Thassa's Bounty
 Thassa's Devourer
@@ -30159,6 +30213,7 @@ The Fall of Kroog
 The Fall of Lord Konda
 The Fallen
 The Fallen Apart
+The Fantastic Four
 The Fate of the Flammable
 The Fearsome Flock
 The Fertile Lands of Saulvinia
@@ -30241,6 +30296,7 @@ The Indomitable
 The Infamous Cruelclaw
 The Initiative
 The Inspector Inspector
+The Invincible Iron Man
 The Irencrag
 The Iron Guardian Stirs
 The Joiner of Cats
@@ -30258,6 +30314,7 @@ The Keeper of Kaldra
 The Keeper of the Yellow Hat
 The Kenriths' Royal Funeral
 The Key to the Vault
+The Kingpin of Crime
 The Knight of Commentary
 The Knight of Land Drops
 The Knight of Weeks
@@ -30298,6 +30355,7 @@ The Master, Gallifrey's End
 The Master, Mesmerist
 The Master, Multiplied
 The Master, Transcendent
+The Masters of Evil
 The Matrix of Time
 The Meathook Massacre
 The Mechanist, Aerial Artisan
@@ -30390,6 +30448,7 @@ The Sad Creaturez
 The Salubrious Philosopher
 The Savant
 The Scarab God
+The Scarlet Witch
 The Scholar of Seas
 The Scorpion God
 The Sea Devils
@@ -30434,9 +30493,11 @@ The Tabernacle at Pendrell Vale
 The Tale of Tamiyo
 The Tarrasque
 The Temporal Anchor
+The Ten Rings
 The Tenth Doctor
 The Terror of Serpent's Pass
 The Thing
+The Thing, Ben Grimm
 The Third Doctor
 The Thirteenth Doctor
 The Three Seasons
@@ -30453,6 +30514,7 @@ The Twelfth Doctor
 The Tyrant
 The Ultimate Nightmare of Wizards of the Coast® Customer Service
 The Unagi of Kyoshi Island
+The Unbeatable Squirrel Girl
 The Underworld Cookbook
 The Underworld Fantasy Queen
 The Unknown Wizard
@@ -30589,6 +30651,8 @@ Thopter Pie Network
 Thopter Shop
 Thopter Spy Network
 Thopter Squadron
+Thor Odinson
+Thor, God of Thunder
 Thorin, Mountain-king
 Thorn Elemental
 Thorn Lieutenant
@@ -30928,6 +30992,7 @@ Tiger-Seal
 Tiger-Tribe Hunter
 Tigereye Cameo
 Tightening Coils
+Tigra, Feline Fury
 Tiller Engine
 Tiller of Flesh
 Tilling Treefolk
@@ -31138,6 +31203,7 @@ Tomorrow, Azami's Familiar
 Tomoya the Revealer
 Tonberry
 Tonic Peddler
+Tony Stark
 Too Greedily, Too Deep
 Toofer, Keeper of the Full Grip
 Took Reaper
@@ -34248,6 +34314,7 @@ Wolfwillow Haven
 Wolverine Pack
 Wolverine Riders
 Wolverine, Best There Is
+Wolverine, Fierce Fighter
 Wonder
 Wonderscape Sage
 Wondrous Crucible
@@ -34326,6 +34393,7 @@ Worldknit
 Worldly Counsel
 Worldly Tutor
 Worldpurge
+Worlds Within Worlds
 Worldslayer
 Worldsoul Colossus
 Worldsoul's Rage
