@@ -21,6 +21,7 @@ A Realm Reborn
 A Reckoning Approaches
 A Tale for the Ages
 A-Town
+A.I.M. Scientists
 AWOL
 Aang and Katara
 Aang and La, Ocean's Fury
@@ -78,6 +79,7 @@ Abominable Treefolk
 Abomination
 Abomination of Gudul
 Abomination of Llanowar
+Abomination, Terrifying Titan
 Aboroth
 Aboshan's Desire
 Aboshan, Cephalid Emperor
@@ -95,6 +97,7 @@ Absorb Energy
 Absorb Essence
 Absorb Identity
 Absorb Vis
+Absorbing Man
 Abstergo Entertainment
 Abstract Iguanart
 Abstract Paintmage
@@ -412,8 +415,10 @@ Ageless Guardian
 Ageless Sentinels
 Agency Coroner
 Agency Outfitter
+Agent 13, Sharon Carter
 Agent Bishop, Man in Black
 Agent Frank Horrigan
+Agent Maria Hill
 Agent Phil Coulson
 Agent Venom
 Agent of Acquisitions
@@ -639,6 +644,7 @@ Ali Baba
 Ali from Cairo
 Aliban's Tower
 Alibou, Ancient Witness
+Alien Invasion
 Alien Symbiosis
 Aligned Heart
 Aligned Hedron Network
@@ -1371,6 +1377,7 @@ Arena Trickster
 Arena of Glory
 Arena of the Ancients
 Arenson's Aura
+Ares, God of War
 Aretopolis
 Argent Dais
 Argent Mutation
@@ -1906,6 +1913,9 @@ Avenger en-Dal
 Avenger of Zendikar
 Avenger of the Fallen
 Avengers Assemble!
+Avengers Disassembled
+Avengers Tower
+Avengers: Under Siege
 Avenging Angel
 Avenging Arrow
 Avenging Druid
@@ -2252,6 +2262,7 @@ Barl's Cage
 Baron Bertram Graywater
 Baron Helmut Zemo
 Baron Sengir
+Baron Strucker, HYDRA Overlord
 Baron Von Count
 Baron, Airship Kingdom
 Barony Vampire
@@ -2409,6 +2420,7 @@ Battlewise Aven
 Battlewise Hoplite
 Battlewise Valor
 Batwing Brume
+Baxter Building
 Baxter Stockman
 Baxter, Fly in the Ointment
 Bay Falcon
@@ -2458,6 +2470,7 @@ Beast Whisperer
 Beast Within
 Beast in Show
 Beast of Burden
+Beast, Erudite Aerialist
 Beast-Kin Ranger
 Beastbond Outcaster
 Beastbreaker of Bala Ged
@@ -4224,14 +4237,17 @@ Capricious Sorcerer
 Capricopian
 Capsize
 Capsizing Wave
+Captain America's Shield
 Captain America, First Avenger
 Captain America, Living Legend
 Captain America, Super-Soldier
 Captain America, Team Leader
+Captain America, Wings of Freedom
 Captain Eberhart
 Captain Howler, Sea Scourge
 Captain Kirk, Boldly Going
 Captain Lannery Storm
+Captain Mar-Vell, Space-Born
 Captain Marvel, Apex Avenger
 Captain Marvel, Earth's Protector
 Captain N'ghathrod
@@ -4381,6 +4397,7 @@ Castigate
 Casting of Bones
 Castle
 Castle Ardenvale
+Castle Doom
 Castle Embereth
 Castle Garenbrig
 Castle Locthwain
@@ -5093,6 +5110,7 @@ Claim Jumper
 Claim Territory
 Claim of Erebos
 Claim the Firstborn
+Claim the Kingdom
 Claim the Precious
 Claire D'Loon, Joy Sculptor
 Clairvoyance
@@ -5392,6 +5410,7 @@ Collector Ouphe
 Collector Protector
 Collector's Cage
 Collector's Vault
+Colleen Wing, Street Samurai
 Collision
 Collision Course
 Collision of Realms
@@ -5815,6 +5834,7 @@ Corvid Squall
 Cosi's Ravager
 Cosi's Trickster
 Cosima, God of the Voyage
+Cosmic Cube
 Cosmic Epiphany
 Cosmic Horror
 Cosmic Hunger
@@ -6069,6 +6089,7 @@ Crosis's Attendant
 Crosis's Catacombs
 Crosis's Charm
 Crosis, the Purger
+Crossbones, Malicious Mercenary
 Crossbow Ambush
 Crossbow Infantry
 Crossroads Candleguide
@@ -6536,6 +6557,7 @@ Dark Deed
 Dark Depths
 Dark Endurance
 Dark Favor
+Dark Fortress
 Dark Hatchling
 Dark Heart of the Wood
 Dark Impostor
@@ -6807,6 +6829,7 @@ Death in Heaven
 Death in the Family
 Death of a Thousand Stings
 Death or Glory
+Death to Our Enemies
 Death's Approach
 Death's Caress
 Death's Duet
@@ -7649,6 +7672,7 @@ Doc Ock's Henchmen
 Doc Ock's Tentacles
 Doc Ock, Evil Inventor
 Doc Ock, Sinister Scientist
+Doc Samson, Super Psychiatrist
 Docent of Perfection
 Dockbreacher
 Dockside Chef
@@ -8393,6 +8417,7 @@ Earth Servant
 Earth Surge
 Earth Tremor
 Earth Village Ruffians
+Earth's Mightiest Heroes
 Earth-Cult Elemental
 Earth-Origin Yak
 Earthbender Ascension
@@ -9102,6 +9127,7 @@ Ephemeron
 Epic Confrontation
 Epic Downfall
 Epic Experiment
+Epic Fight
 Epic Proportions
 Epic Struggle
 Epicenter
@@ -9371,6 +9397,7 @@ Evil Presence
 Evil Presents
 Evil Reawakened
 Evil Twin
+Evil's Thrall
 Evin, Waterdeep Opportunist
 Evincar's Justice
 Eviscerate
@@ -9685,6 +9712,8 @@ Fake Your Own Death
 Falco Spara, Pactweaver
 Falcon Abomination
 Falcon Abomination (Alchemy)
+Falcon's Wing Harness
+Falcon, Winged Wonder
 Falconer Adept
 Faldorn, Dread Wolf Herald
 Falkenrath Aristocrat
@@ -10171,6 +10200,7 @@ Fill with Fright
 Filter Out
 Filth
 Filthy Cur
+Fin Fang Foom
 Fin-Clade Fugitives
 Final Act
 Final Death
@@ -11335,6 +11365,7 @@ Gather the Townsfolk
 Gather the White Lotus
 Gather, the Townsfolk
 Gatherer of Graces
+Gathering Place
 Gathering Stone
 Gathering Throng
 Gatstaf Arsonists
@@ -11832,6 +11863,7 @@ Gleam of Authority
 Gleam of Battle
 Gleam of Resistance
 Gleaming Barrier
+Gleaming Bastion
 Gleaming Geardrake
 Gleaming Overseer
 Gleancrawler
@@ -12661,6 +12693,7 @@ Grim Monolith
 Grim Physician
 Grim Poppet
 Grim Reaper's Sprint
+Grim Reaper, Lethal Legionnaire
 Grim Reminder
 Grim Return
 Grim Roustabout
@@ -12967,6 +13000,7 @@ Gysahl Greens
 HELIOS One
 HONK!
 HULK SMASH!
+HYDRA Troopers
 Haakon, Stromgald Scourge
 Haakon, Stromgald Scourge Avatar
 Haazda Exonerator
@@ -13087,6 +13121,7 @@ Hammerfist Giant
 Hammerhand
 Hammerhead Shark
 Hammerhead Tyrant
+Hammerhead, Maggia Boss
 Hammerheim
 Hammerheim Deadeye
 Hammers of Moradin
@@ -13295,6 +13330,7 @@ Havoc Festival
 Havoc Jester
 Havoc Sower
 Hawkeater Moth
+Hawkeye, Master Marksman
 Haystack
 Haytham Kenway
 Haywire Mite
@@ -13556,6 +13592,7 @@ Heraldic Banner
 Heralds of Tzeentch
 Herbal Poultice
 Herbology Instructor
+Hercules, Prince of Power
 Herd
 Herd Baloth
 Herd Gnarr
@@ -13614,6 +13651,7 @@ Hesitation
 Hew the Entwood
 Hewed Stone Retainers
 Hex
+Hex Magic
 Hex Parasite
 Hex, Kellan's Companion
 Hexavus
@@ -13647,6 +13685,7 @@ Hidden Herbalists
 Hidden Herd
 Hidden Hideout
 Hidden Horror
+Hidden Lair
 Hidden Necropolis
 Hidden Nursery
 Hidden Path
@@ -15007,6 +15046,7 @@ Iron Bully
 Iron Fist, Living Weapon
 Iron Giant
 Iron Golem
+Iron Lad, Diverging Destiny
 Iron Lance
 Iron League Steed
 Iron Maiden
@@ -15034,6 +15074,7 @@ Ironclaw Curse
 Ironclaw Orcs
 Ironfang
 Ironfist Crusher
+Ironheart, Clever Champion
 Ironhoof Boar
 Ironhoof Ox
 Ironpaw Aspirant
@@ -15282,6 +15323,7 @@ Jelenn Sphinx
 Jeleva, Nephalia's Scourge
 Jem Lightfoote, Sky Explorer
 Jenara, Asura of War
+Jennifer Walters
 Jennika's Technique
 Jennika, Bad Apple Big Sister
 Jenny Flint
@@ -15313,6 +15355,7 @@ Jeskai Sage
 Jeskai Shrinekeeper
 Jeskai Student
 Jeskai Windscout
+Jessica Jones, Private Eye
 Jessie Zane, Fangbringer
 Jester's Cap
 Jester's Mask
@@ -15542,6 +15585,7 @@ Jötun Grunt
 Jötun Owl Keeper
 K'rrik, Son of Yawgmoth
 K-9, Mark I
+Ka-Zar of the Savage Land
 Kaalia of the Vast
 Kaalia, Zenith Seeker
 Kabira Crossroads
@@ -17448,6 +17492,7 @@ Lukamina, Hawk Form
 Lukamina, Moon Druid
 Lukamina, Scorpion Form
 Lukamina, Wolf Form
+Luke Cage, Power Man
 Lukka, Bound to Ruin
 Lukka, Coppercoat Outcast
 Lukka, Wayward Bonder
@@ -18938,6 +18983,7 @@ Mistveil Plains
 Mistvein Borderpost
 Mistwalker
 Mistway Spy
+Misty Knight, Hero for Hire
 Misty Palms Oasis
 Misty Rainforest
 Misty Salon
@@ -18988,6 +19034,7 @@ Mockery of Nature
 Mocking Doppelganger
 Mocking Sprite
 Mockingbird
+Mockingbird, Ace Agent
 Model of Unity
 Moderation
 Modify Memory
@@ -19036,6 +19083,7 @@ Moldervine Reclamation
 Moldgraf Millipede
 Moldgraf Monstrosity
 Moldgraf Scavenger
+Mole Man, Moloid Master
 Mole Module
 Mole Worms
 Molecular Modifier
@@ -19194,6 +19242,7 @@ Moonsnare Prototype
 Moonsnare Specialist
 Moonstone Eulogist
 Moonstone Harbinger
+Moonstone, Harsh Mistress
 Moonveil Dragon
 Moonveil Regent
 Moonwing Moth
@@ -19357,6 +19406,7 @@ Mr. Orfeo, the Boulder
 Mr. Orfeo, the Boulder (Alchemy)
 Mr. Wiggles, Helpful Butterfly
 Ms. Bumbleflower
+Ms. Marvel, Kamala Khan
 Mtenda Griffin
 Mtenda Herder
 Mtenda Lion
@@ -20012,6 +20062,7 @@ Niblis of the Mist
 Niblis of the Urn
 Nicanzil, Current Conductor
 Nice
+Nick Fury, Agent of S.H.I.E.L.D.
 Nick Valentine, Private Eye
 Nicol Bolas
 Nicol Bolas, Dragon-God
@@ -20029,6 +20080,7 @@ Night Market
 Night Market Aeronaut
 Night Market Guard
 Night Market Lookout
+Night Nurse, Healer of Heroes
 Night Out in Vegas
 Night Revelers
 Night Scythe
@@ -20606,6 +20658,7 @@ Oko, Shadowmoor Scion
 Oko, Thief of Crowns
 Oko, the Ringleader
 Oko, the Trickster
+Okoye, Dora Milaje Leader
 Okoye, Mighty and Adored
 Ol' Buzzbark
 Olag, Ludevic's Hubris
@@ -20903,6 +20956,7 @@ Orgg
 Origin Spellbomb
 Origin of Metalbending
 Origin of Spider-Man
+Origin of the Avengers
 Origin of the Hidden Ones
 Original Skullclamp
 Orim
@@ -21347,6 +21401,7 @@ Patriarch's Desire
 Patrician Geist
 Patrician Geist (Alchemy)
 Patrician's Scorn
+Patriot, Shield Wielder
 Patrol Hound
 Patrol Signaler
 Patrolling Peacemaker
@@ -22006,6 +22061,7 @@ Polar Kraken
 Polis Crusher
 Polis the Planeshifter
 Political Trickery
+Political Triumph
 Pollen Lullaby
 Pollen Remedy
 Pollen-Shield Hare
@@ -22579,6 +22635,7 @@ Puncturing Light
 Punish Ignorance
 Punish the Enemy
 Punishing Fire
+Punishing Punch
 Punishment
 Punk Frogs
 Puny Snack
@@ -22646,6 +22703,7 @@ Pygmy Pyrosaur
 Pygmy Razorback
 Pygmy Troll
 Pyknite
+Pym Particles
 Pyramid of the Pantheon
 Pyramids
 Pyre Charger
@@ -22714,6 +22772,7 @@ Quagmire
 Quagmire Druid
 Quagmire Lamprey
 Quagnoth
+Quake, Agent of S.H.I.E.L.D.
 Quakebringer
 Quakefoot Cyclops
 Quakestrider Ceratops
@@ -23486,6 +23545,7 @@ Red Dragon
 Red Elemental Blast
 Red Herring
 Red Herring (CMB1)
+Red Hulk
 Red Mage's Rapier
 Red Mana Battery
 Red Priest of Yawgmoth
@@ -23734,6 +23794,7 @@ Reprieve
 Reprisal
 Reprobation
 Reprocess
+Reptil, Dinomorpher
 Reptilian Recruiter
 Reptilian Reflection
 Repudiate
@@ -23948,6 +24009,7 @@ Reward the Faithful
 Rewards of Diversity
 Reweave
 Rewind
+Rewrite History
 Rex, Cyber-Hound
 Reya Dawnbringer
 Reyav, Master Smith
@@ -24302,6 +24364,7 @@ Robo-
 Robo-Piñata
 Robobrain War Mind
 Robot Chicken
+Robot Domination
 Robotics Mastery
 Roc Charger
 Roc Egg
@@ -24391,6 +24454,7 @@ Ronin Cavekeeper
 Ronin Cliffrider
 Ronin Houndmaster
 Ronin Warclub
+Ronin, Shadow Stalker
 Ronom Hulk
 Ronom Serpent
 Ronom Unicorn
@@ -24525,6 +24589,7 @@ Rowdy Snowballers
 Rowen
 Roxanne, Starfall Savant
 Roxi, Publicist to the Stars
+Roxxon Brutes
 Royal Assassin
 Royal Assassin Avatar
 Royal Booster
@@ -24732,6 +24797,7 @@ Rydia's Return
 Rydia, Summoner of Mist
 Rysorian Badger
 Ryusei, the Falling Star
+S.H.I.E.L.D. Flying Car
 S.N.E.A.K. Dispatcher
 S.N.O.T.
 SOLDIER Military Program
@@ -25303,6 +25369,7 @@ Scholarship Sponsor
 School Daze
 School of Piranha
 School of the Unseen
+Scientist Supreme of A.I.M.
 Scintillating Encore
 Scion Summoner
 Scion of Calamity
@@ -28291,6 +28358,7 @@ Static Prison
 Static Snare
 Station Monitor
 Statue
+Stature, Size Shifter
 Status
 Statute of Denial
 Staunch Crewmate
@@ -28584,6 +28652,7 @@ Storm the Vault
 Storm's Wrath
 Storm, Force of Nature
 Storm, Queen of Wakanda
+Storm, Windrider
 Storm-Charged Slasher
 Storm-Kiln Artist
 Stormbeacon Blade
@@ -29030,13 +29099,16 @@ Suntail Squadron
 Suntouched Myr
 Sunweb
 Super Combo
+Super Intelligence
 Super Mutant Scavenger
 Super Secret Tech
 Super Shredder
 Super State
+Super Villain Lockup
 Super-Duper Death Ray
 Super-Duper Lost
 Super-Skrull
+Super-Soldier Serum
 Superior Foes of Spider-Man
 Superior Numbers
 Superior Spider-Man
@@ -30072,6 +30144,7 @@ The Arkenstone
 The Art of Tea
 The Ash Lizard
 The Asker of More Mana
+The Astonishing Ant-Man
 The Autonomous Furnace
 The Avenger
 The Balrog of Moria
@@ -30362,6 +30435,7 @@ The Mechanist, Aerial Artisan
 The Meep
 The Mending of Dominaria
 The Mightstone and Weakstone
+The Mighty Thor, Jane Foster
 The Mighty Will Fall
 The Millennium Calendar
 The Milling Runner
@@ -30444,6 +30518,7 @@ The Roaring Toeclaws
 The Rollercrusher Ride
 The Royal Scions
 The Ruinous Powers
+The Ruinous Wrecking Crew
 The Sad Creaturez
 The Salubrious Philosopher
 The Savant
@@ -30455,8 +30530,10 @@ The Sea Devils
 The Second Doctor
 The Secret Lair
 The Seedcore
+The Sensational She-Hulk
 The Sentry, Golden Guardian
 The Seriema
+The Serpent Society
 The Seventh Doctor
 The Shattered States Era
 The Shire
@@ -30480,6 +30557,7 @@ The Sprinkler of Stardust
 The Stasis Coffin
 The Stone Brain
 The Strixhaven-Lorwyn Rover
+The Super Hero Civil War
 The Superlatorium (a)
 The Superlatorium (b)
 The Superlatorium (c)
@@ -30556,6 +30634,7 @@ The Wise Mothman
 The Wise Sable
 The Witch's Vanity
 The Wizardly Barge
+The Wondrous Wasp
 The World Spell
 The World Tree
 The Wretched
@@ -31076,6 +31155,7 @@ Tinybones, Bauble Burglar
 Tinybones, Trinket Thief
 Tinybones, the Pickpocket
 Tip the Scales
+Tippy-Toe, Terrific Partner
 Tireless Angler
 Tireless Hauler
 Tireless Missionaries
@@ -31102,6 +31182,7 @@ Titania's Song
 Titania, Gaea Incarnate
 Titania, Nature's Force
 Titania, Protector of Argoth
+Titania, Rugged Rumbler
 Titania, Voice of Gaea
 Titanic Brawl
 Titanic Bulvox
@@ -31409,6 +31490,7 @@ Trained Jackal
 Trained Orgg
 Trained Pronghorn
 Training Center
+Training Compound
 Training Drone
 Training Grounds
 Trait Doctoring
@@ -31681,6 +31763,7 @@ Trove Warden
 Trove of Temptation
 Troyan, Gutsy Explorer
 Truce
+Truck Toss
 Trudge Garden
 True Ancestry
 True Believer
@@ -31913,6 +31996,7 @@ Tyvar's Stand
 Tyvar, Jubilant Brawler
 Tyvar, the Pummeler
 Tzaangor Shaman
+U.S.Agent, John Walker
 UNIT Headquarters
 Uba Mask
 Ubul Sar Gatekeepers
@@ -31969,6 +32053,7 @@ Ultimecia, Time Sorceress
 Ultra Magnus, Armored Carrier
 Ultra Magnus, Tactician
 Ultramarines Honour Guard
+Ultron, Artificial Malevolence
 Ultros, Obnoxious Octopus
 Ulvenwald Abomination
 Ulvenwald Bear
@@ -32047,6 +32132,7 @@ Undead Augur
 Undead Butler
 Undead Executioner
 Undead Gladiator
+Undead Hand Ninja
 Undead Leotau
 Undead Minotaur
 Undead Servant
@@ -33913,7 +33999,9 @@ White Scarab
 White Shield Crusader
 White Sun's Twilight
 White Sun's Zenith
+White Tiger, Ava Ayala
 White Ward
+White Widow, Free Agent
 Whitemane Lion
 Whiteout
 Whitesun's Passage
@@ -33923,6 +34011,7 @@ Who's That Praetor?
 Whoosh!
 Why
 Wibbly-wobbly, Timey-wimey
+Wiccan, Rising Magician
 Wick's Patrol
 Wick, the Whorled Mind
 Wicked Akuba
@@ -34165,6 +34254,7 @@ Winter Eladrin
 Winter Moon
 Winter Orb
 Winter Sky
+Winter Soldier, Icy Assassin
 Winter's Chill
 Winter's Demonmech
 Winter's Grasp
