@@ -82,7 +82,9 @@ Abominable Treefolk
 Abomination
 Abomination of Gudul
 Abomination of Llanowar
+Abomination, Irradiated Brute
 Abomination, Terrifying Titan
+Abomination, World Ravager
 Aboroth
 Aboshan's Desire
 Aboshan, Cephalid Emperor
@@ -101,6 +103,7 @@ Absorb Essence
 Absorb Identity
 Absorb Vis
 Absorbing Man
+Absorbing Man and Titania
 Abstergo Entertainment
 Abstract Iguanart
 Abstract Paintmage
@@ -415,6 +418,7 @@ Agate-Blade Assassin
 Agatha of the Vile Cauldron
 Agatha's Champion
 Agatha's Soul Cauldron
+Age of Ultron
 Age-Graced Chapel
 Ageless Entity
 Ageless Guardian
@@ -870,6 +874,7 @@ Ancestor's Prophet
 Ancestors' Aid
 Ancestral Anger
 Ancestral Blade
+Ancestral Communion
 Ancestral Craving
 Ancestral Hot Dog Minotaur
 Ancestral Katana
@@ -1336,6 +1341,7 @@ Archmage of Echoes
 Archmage of Runes
 Archmage's Charm
 Archmage's Newt
+Archnemesis
 Archon of Absolution
 Archon of Coronation
 Archon of Cruelty
@@ -2368,6 +2374,7 @@ Basri's Solidarity
 Basri, Devoted Paladin
 Basri, Tomorrow's Champion
 Bassara Tower Archer
+Bast, Panther Goddess
 Bastion Enforcer
 Bastion Inventor
 Bastion Mastodon
@@ -2382,6 +2389,7 @@ Bathe in Gold (Alchemy)
 Bathe in Light
 Baton of Courage
 Baton of Morale
+Batroc the Leaper
 Battalion Foot Soldier
 Batterbone
 Battered Golem
@@ -2831,6 +2839,7 @@ Black Widow, Agile Avenger
 Black Widow, Daring Operative
 Black Widow, Deadly Hunter
 Black Widow, Double Agent
+Black Widow, Intel Expert
 Black Widow, Natasha Romanoff
 Black Widow, Super Spy
 Blackblade Reforged
@@ -4301,6 +4310,7 @@ Captain America, Skybound
 Captain America, Steve Rogers
 Captain America, Super-Soldier
 Captain America, Team Leader
+Captain America, Unbowed
 Captain America, Wings of Freedom
 Captain Eberhart
 Captain Howler, Sea Scourge
@@ -6563,6 +6573,7 @@ Damn
 Damnable Pact
 Damnation
 Damning Verdict
+Damocles Base, Sword of Kang
 Dampen Thought
 Dampening Pulse
 Damping Engine
@@ -7841,6 +7852,7 @@ Doom Reigns Supreme
 Doom Weaver
 Doom Whisperer
 Doom's Servo-Guards
+Doom's Time Platform
 Doombot Harbinger
 Doomed Artisan
 Doomed Dissenter
@@ -7864,6 +7876,7 @@ Doorkeeper Thrull
 Doorman
 Doors of Durin
 Doppelgang
+Dora Milaje Elite
 Doran, Besieged by Time
 Doran, the Siege Tower
 Dormant Gomazoa
@@ -9079,6 +9092,7 @@ Endless Foot Assault
 Endless Horizons
 Endless Obedience
 Endless One
+Endless Ranks of HYDRA
 Endless Ranks of the Dead
 Endless Sands
 Endless Scream
@@ -9665,6 +9679,7 @@ Extortion
 Extra Arms
 Extract
 Extract Brain
+Extract Power
 Extract a Confession
 Extract from Darkness
 Extract the Truth
@@ -10286,6 +10301,7 @@ Fight
 Fight On!
 Fight Rigging
 Fight as One
+Fight for the Throne
 Fight or Flight
 Fight the _____ Fight
 Fight to the Death
@@ -12103,6 +12119,7 @@ Glorious End
 Glorious Enforcer
 Glorious Gale
 Glorious Protector
+Glorious Purpose
 Glorious Sunrise
 Glory
 Glory Bearers
@@ -13479,6 +13496,7 @@ Hawkeye, Avenging Archer
 Hawkeye, Bowslinger
 Hawkeye, Clint Barton
 Hawkeye, Master Marksman
+Hawkeye, Trick Shot
 Hawkeye, Young Avenger
 Haystack
 Haytham Kenway
@@ -13697,6 +13715,7 @@ Helm of Possession
 Helm of the Ghastlord
 Helm of the Gods
 Helm of the Host
+Helmut Zemo, Mastermind
 Helpful Hunter
 Helping Hand
 Helvault
@@ -14247,6 +14266,7 @@ Huddle Up
 Huge Truck
 Hugs, Grisly Guardian
 Hulk's Thunderclap
+Hulk, Always Angry
 Hulk, Bruce Banner
 Hulk, Brutal Brawler
 Hulk, Gamma Goliath
@@ -15236,11 +15256,13 @@ Iron Maiden
 Iron Man Armor
 Iron Man, Armored Avenger
 Iron Man, Bleeding Edge
+Iron Man, Futurist Paragon
 Iron Man, Master of Machines
 Iron Man, Modern Marvel
 Iron Man, Titan of Innovation
 Iron Man, Tony Stark
 Iron Mastiff
+Iron Monger, Sadistic Tycoon
 Iron Myr
 Iron Spider, Stark Upgrade
 Iron Star
@@ -15872,6 +15894,7 @@ Kami of the Waning Moon
 Kami's Flare
 Kamigawa Charm
 Kamiz, Obscura Oculus
+Kang Dynasty
 Kang Prime
 Kang the Conqueror
 Kang, Temporal Tyrant
@@ -16213,6 +16236,7 @@ Killian, Decisive Mentor
 Killian, Ink Duelist
 Killing Glare
 Killing Wave
+Killmonger, Ruthless Usurper
 Killmonger, Scourge of Wakanda
 Kiln Fiend
 Kiln Walker
@@ -16220,6 +16244,7 @@ Kilnmouth Dragon
 Kilnspire District
 Kilo, Apogee Mind
 Kimahri, Valiant Guardian
+Kimoyo Beads
 Kin-Tree Invocation
 Kin-Tree Nurturer
 Kin-Tree Severance
@@ -16251,6 +16276,7 @@ King Darien XLVIII
 King Harald's Revenge
 King Macar, the Gold-Cursed
 King Narfi's Betrayal
+King Solomon's Frogs
 King Suleiman
 King T'Challa
 King of the Oathbreakers
@@ -16361,6 +16387,7 @@ Kjeldoran War Cry
 Kjeldoran Warrior
 Klauth's Will
 Klauth, Unrivaled Ancient
+Klaw, Master of Sound
 Klaw, Sonic Subjugator
 Klement, Death Acolyte
 Klement, Knowledge Acolyte
@@ -17388,6 +17415,7 @@ Living History
 Living Hive
 Living Inferno
 Living Lands
+Living Laser
 Living Lectern
 Living Lies of Loki
 Living Lightning
@@ -17491,6 +17519,7 @@ Logic Knot
 Lokhust Heavy Destroyer
 Loki Laufeyson
 Loki's Scepter
+Loki, God of Lies
 Loki, God of Mischief
 Loki, Lord of Misrule
 Loki, the Deceiver
@@ -17826,8 +17855,10 @@ Lyse Hext
 Lyzolda, the Blood Witch
 Lyzolda, the Blood Witch Avatar
 Lórien Revealed
+M'Baku, Jabari Chieftain
 M'Odo, the Gnarled Oracle
 M.O.D.O.K.
+M.O.D.O.K., Evil Intellect
 MACH-1, Swooping Scoundrel
 MJ, Rising Star
 Ma Chao, Western Warrior
@@ -18803,6 +18834,7 @@ Micromancer
 Microscope
 Midgar, City of Mako
 Midlife Upgrade
+Midnight Angel Armor
 Midnight Arsonist
 Midnight Assassin
 Midnight Assassin (Alchemy)
@@ -19315,6 +19347,7 @@ Mole Man, Moloid Master
 Mole Module
 Mole Worms
 Molecular Modifier
+Molecule Man
 Molimo, Maro-Sorcerer
 Molly Hayes, Runaway
 Molt Tender
@@ -19893,6 +19926,7 @@ Mythos of Vadrok
 Mythweaver Poq
 Mzed, Mercenary Leader
 Márton Stromgald
+N'Yami-Class Mother Ship
 Naar Isle
 Naban, Dean of Iteration
 Nacatl Hunt-Pride
@@ -19936,6 +19970,7 @@ Najal, the Storm Runner
 Najeela, the Blade-Blossom
 Nakaya Shade
 Naked Singularity
+Nakia, Wakandan Operative
 Naktamun
 Naktamun Lorespinner
 Naktamun Shines Again
@@ -21515,7 +21550,9 @@ Panicked Bystander
 Panoptic Mirror
 Panoptic Projektor
 Panopticon
+Panther Habit
 Panther Pounce
+Panther Robot
 Panther Warriors
 Pantlaza, Sun-Favored
 Papalymo Totolymo
@@ -22902,6 +22939,7 @@ Punk Frogs
 Puny Snack
 Puppet Conjurer
 Puppet Master
+Puppet Master, String Puller
 Puppet Raiser
 Puppet Strings
 Puppet's Verdict
@@ -23063,6 +23101,7 @@ Queen Allenal of Ruadach
 Queen Brahne
 Queen Kayla bin-Kroog
 Queen Marchesa
+Queen Mother Ramonda
 Queen of Ice
 Queen's Agent
 Queen's Bay Paladin
@@ -23813,6 +23852,7 @@ Red Cliffs Armada
 Red Death, Shipwrecker
 Red Dragon
 Red Elemental Blast
+Red Ghost, Intangible Genius
 Red Guardian, Super-Soldier
 Red Herring
 Red Herring (CMB1)
@@ -24877,6 +24917,7 @@ Royal Booster
 Royal Decree
 Royal Falcon
 Royal Herbalist
+Royal Talon Fighter Jet
 Royal Treatment
 Royal Trooper
 Royal Warden
@@ -26770,6 +26811,7 @@ Shu Soldier-Farmers
 Shu Yun, the Silent Tempest
 Shuko
 Shunt
+Shuri's Fabricator
 Shuri, Vibranium Technologist
 Shuri, Wakandan Inventor
 Shuri, the Black Panther
@@ -28803,6 +28845,7 @@ Stika, Playtestress
 Still Life
 Stillmoon Cavalier
 Stillness in Motion
+Stilt-Man, Towering Terror
 Stiltstrider
 Stiltzkin, Moogle Merchant
 Stimulus Package
@@ -29774,6 +29817,7 @@ Szarel, Genesis Shepherd
 Szat's Will
 Séance
 Séance Board
+T'Chaka, Venerable King
 T'Challa, the Black Panther
 T-45 Power Armor
 T.A.P.P.E.R.
@@ -30436,6 +30480,7 @@ Thallid Omnivore
 Thallid Shell-Dweller
 Thallid Soothsayer
 Thancred Waters
+Thanos, Death's Consort
 Thanos, the Mad Titan
 Thantis, the Warweaver
 Thassa's Bounty
@@ -30654,6 +30699,7 @@ The Forgotten Place
 The Fourteenth Doctor
 The Fourth Doctor
 The Fourth Sphere
+The Frightful Four
 The Fugitive Doctor
 The Gaffer
 The Game-Changing Host
@@ -30680,6 +30726,7 @@ The Great Aurora
 The Great Forest
 The Great Henge
 The Great Juggernaut
+The Great Mound
 The Great Synthesis
 The Great Work
 The Grey Havens
@@ -30887,6 +30934,7 @@ The Snapstone Wielder
 The Soul Stone
 The Sound of Drums
 The Space Family Goblinson
+The Spear of Bashenga
 The Spear of Leonidas
 The Speed Demon
 The Sphere
@@ -30895,6 +30943,7 @@ The Spirit Oasis
 The Spot's Portal
 The Spot, Living Portal
 The Sprinkler of Stardust
+The Squadron Sinister
 The Stasis Coffin
 The Stone Brain
 The Strixhaven-Lorwyn Rover
@@ -31080,6 +31129,7 @@ Thopter Squadron
 Thor Odinson
 Thor, Asgard's Avenger
 Thor, God of Thunder
+Thor, Guardian of Midgard
 Thorin, Mountain-king
 Thorn Elemental
 Thorn Lieutenant
@@ -31532,6 +31582,7 @@ Titania's Song
 Titania, Gaea Incarnate
 Titania, Nature's Force
 Titania, Protector of Argoth
+Titania, Proud Pummeler
 Titania, Rugged Rumbler
 Titania, Voice of Gaea
 Titanic Brawl
@@ -32005,6 +32056,7 @@ Treva's Attendant
 Treva's Charm
 Treva's Ruins
 Treva, the Renewer
+Tri-Sentinel, Act of Vengeance
 Triad of Fates
 Trial
 Trial and Error
@@ -32321,6 +32373,7 @@ Tymaret, Chosen from Death
 Tymaret, the Murder King
 Tymna the Weaver
 Tymora's Invoker
+Typhoid Mary, Fractured
 Typhoid Rats
 Typhoon
 Tyr's Blessing
@@ -32414,6 +32467,8 @@ Ultron Drone
 Ultron the Annihilator
 Ultron's Auxiliary
 Ultron, Artificial Malevolence
+Ultron, Machine Overlord
+Ultron, Unlimited
 Ultros, Obnoxious Octopus
 Ulvenwald Abomination
 Ulvenwald Bear
@@ -33310,6 +33365,8 @@ Viashino Weaponsmith
 Viashivan Dragon
 Vibrance
 Vibranium Energy Daggers
+Vibranium Mining Mech
+Vibranium Strike Gauntlets
 Vibrant Cityscape
 Vibrant Idea
 Vibrant Outburst
@@ -33777,6 +33834,7 @@ Vulturous Aven
 Vulturous Zombie
 Vuzzle Spaceship
 Vv'viza, Orbital Overseer
+W'Kabi, Shield of the Nation
 Wagon Wrecker
 Wail of War
 Wail of the Forgotten
@@ -33784,6 +33842,7 @@ Wail of the Nim
 Waildrifter
 Wailing Ghoul
 Waiting in the Weeds
+Wakanda Forever!
 Wakandan Drone Flock
 Wakandan Royal Guard
 Wakandan Shield Guard
@@ -35409,6 +35468,7 @@ Zurgo Stormrender
 Zurgo and Ojutai
 Zurgo's Vanguard
 Zurgo, Thunder's Decree
+Zuri, Warrior of Wakanda
 Zurzoth, Chaos Rider
 Zygon Infiltrator
 Zyym, Mesmeric Lord
