@@ -1,0 +1,8 @@
+// NAME: Purr Majesty Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252571
+// DATE: 2026-06-16
+1 [SLD:2685] Court of Grace [foil]
+1 [SLD:2686] Reverent Mantra [foil]
+1 [SLD:2687] Windborn Muse [foil]
+1 [SLD:2688] Queen Marchesa [foil]
+1 [SLD:2689] Ruinous Ultimatum [foil]

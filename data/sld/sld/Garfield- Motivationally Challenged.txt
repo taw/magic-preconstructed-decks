@@ -1,0 +1,8 @@
+// NAME: Garfield: Motivationally Challenged
+// SOURCE: https://secretlair.wizards.com/us/product/1252562
+// DATE: 2026-06-16
+1 [SLD:2668] Rin and Seri, Inseparable
+1 [SLD:2669] Orim's Chant
+1 [SLD:2670] Ponder
+1 [SLD:2671] Beast Within
+1 [SLD:2672] Sol Ring

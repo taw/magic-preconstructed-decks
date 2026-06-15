@@ -1,0 +1,8 @@
+// NAME: Cats of Chaos Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252575
+// DATE: 2026-06-16
+1 [SLD:2690] Fell the Mighty [foil]
+1 [SLD:2691] Aggravated Assault [foil]
+1 [SLD:2692] Chaos Warp [foil]
+1 [SLD:2693] Utopia Sprawl [foil]
+1 [SLD:2694] Aura Shards [foil]
