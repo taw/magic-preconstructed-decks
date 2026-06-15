@@ -1,0 +1,8 @@
+// NAME: Witch's Familiar Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252569
+// DATE: 2026-06-16
+1 [SLD] Sheltered [foil]
+1 [SLD:2654] Spirit of the Hearth [foil]
+1 [SLD:2655a] Witch Enchanter [foil]
+1 [SLD:2656] Wayfarer's Bauble [foil]
+1 [SLD:2657] Boseiju, Who Shelters All [foil]
