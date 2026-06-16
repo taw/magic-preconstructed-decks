@@ -1,0 +1,8 @@
+// NAME: Garfield: Our Only Thought is to Entertain You Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252565
+// DATE: 2026-06-16
+1 [SLD:2673] It That Betrays [foil]
+1 [SLD:2674] Maddening Cacophony [foil]
+1 [SLD:2675] Maddening Hex [foil]
+1 [SLD:2676] Hunter's Insight [foil]
+1 [SLD:2677] Molten Collapse [foil]

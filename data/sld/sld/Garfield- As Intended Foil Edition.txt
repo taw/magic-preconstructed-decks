@@ -1,0 +1,8 @@
+// NAME: Garfield: As Intended Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252563
+// DATE: 2026-06-16
+1 [SLD:2663] Swords to Plowshares [foil]
+1 [SLD:2664] Counterspell [foil]
+1 [SLD:2665] Dark Ritual [foil]
+1 [SLD:2666] Earthquake [foil]
+1 [SLD:2667] Fog [foil]
