@@ -1,0 +1,19 @@
+// NAME: Animal
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Lucky the Pizza Dog
+1 Guerrilla Gorilla
+1 Tigra, Feline Fury
+1 Wakandan Tusker
+1 Ant-Man's Army
+1 Tippy-Toe, Terrific Partner
+1 Pet Avengers
+1 Savage Land Dinosaur
+1 Go Nuts!
+1 Scout the City
+1 Beast Mode
+1 Heroic Feast
+1 Thriving Grove
+7 Forest
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Blink
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Shi'ar Soldier
+1 Mob Lookout
+1 Imperial Cosmographer
+1 S.H.I.E.L.D. Deployment Drone
+1 Justice, Vance Astrovik
+1 Victor Timely, Wily Tycoon
+1 Shipwreck Patrol
+1 Silver Surfer, Cosmic Voyager
+1 Spaceshift
+1 We Say Thee Nay!
+1 Collector's Case
+1 Dismissive Denial
+1 Thriving Isle
+7 Island
+
+Sideboard

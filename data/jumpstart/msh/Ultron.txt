@@ -1,0 +1,19 @@
+// NAME: Ultron
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Project Deathlok Soldier
+1 Doom's Servo-Guards
+1 Ultron's Auxiliary
+1 Doombot Harbinger
+1 Ultron Drone
+1 Ultron the Annihilator
+1 Victor Mancha, Runaway
+1 Minion Missile
+1 Stolen Stark Tech
+1 Eerie Gravestone
+1 Dark Deed
+1 Robot Domination
+1 Thriving Moor
+7 Swamp
+
+Sideboard

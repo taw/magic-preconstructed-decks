@@ -1,0 +1,19 @@
+// NAME: Armed
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Whiplash, Vengeful Engineer
+1 Swordsman, Sharp Scoundrel
+1 Red Room Recruit
+1 Ronin, Shadow Stalker
+1 Kingpin's Enforcers
+1 Armed Assailant
+1 U.S.Agent, John Walker
+1 HYDRA Disintegrator
+1 Stolen Stark Tech
+1 Voltaic Whip
+1 Hour of Defeat
+1 Swordsman's Steel
+1 Thriving Moor
+7 Swamp
+
+Sideboard

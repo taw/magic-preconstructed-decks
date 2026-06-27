@@ -1,0 +1,19 @@
+// NAME: Uncanny
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Black Tom Cassidy
+1 Darwin, Adaptive Mutant
+1 Wolfsbane, Highland Hero
+1 X-23, Deadly Weapon
+1 Wolverine, Claws Out
+1 Beast, Erudite Aerialist
+1 Colossus, Steel Stalwart
+1 Storm, Shaker of Skies
+1 Go Nuts!
+1 Accelerated Evolution
+1 Colossal Collision
+1 Training Regimen
+1 Thriving Grove
+7 Forest
+
+Sideboard

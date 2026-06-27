@@ -1,0 +1,19 @@
+// NAME: DOOM
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Project Deathlok Soldier
+1 Common Crook
+1 Doom's Servo-Guards
+1 Doombot Harbinger
+1 Ninja of the Hand
+1 Doctor Doom, Unrivaled
+1 Roxxon Brutes
+1 Dark Ritual
+1 Doom Blade
+1 Deadly Dispute
+1 Doomfall
+1 Doomsday
+1 Thriving Moor
+7 Swamp
+
+Sideboard

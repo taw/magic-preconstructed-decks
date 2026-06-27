@@ -1,0 +1,25 @@
+// NAME: Fantastic
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Human Torch, Johnny Storm
+1 H.E.R.B.I.E. Scout Unit
+1 Mister Fantastic, Reed Richards
+1 Invisible Woman, Sue Storm
+1 The Thing, Ben Grimm
+1 The Fantastic Four
+1 Farseek
+1 Daily Bugle Newspaper
+1 Wall Off
+1 Fantastic Bounce
+1 Inspired Fire
+1 Thing Swing
+1 Baxter Building
+1 Thriving Grove
+1 Pym Technologies
+1 Forest
+1 Plains
+1 Island
+1 Mountain
+1 Terramorphic Expanse
+
+Sideboard

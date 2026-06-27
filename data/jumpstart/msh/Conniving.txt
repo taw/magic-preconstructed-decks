@@ -1,0 +1,20 @@
+// NAME: Conniving
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Kid Loki
+1 Mob Lookout
+1 Flying Octobot
+1 Graviton, Fundamental Force
+1 Doc Ock's Henchmen
+1 Tiger Shark, Abyssal Hunter
+1 Leader, Super-Genius
+1 Doc Ock, Sinister Scientist
+1 Unstable Experiment
+1 Mysterio's Mirage
+1 Trickster's Stratagem
+1 Dismissive Denial
+1 Thriving Isle
+1 Villainous Hideout
+6 Island
+
+Sideboard

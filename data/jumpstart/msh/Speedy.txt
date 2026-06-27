@@ -1,0 +1,19 @@
+// NAME: Speedy
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Masked Meower
+1 Quicksilver, Brash Blur
+1 Taxi Driver
+1 Speed, Young Avenger
+1 Whirlwind, Killer Cyclone
+1 Volcanic Villain
+1 The Whizzer, Classic Speedster
+1 Living Lightning, Charged Up
+1 Super Speed
+1 Pick Up the Pace
+1 Lightning Strike
+1 Marvelous Melee
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

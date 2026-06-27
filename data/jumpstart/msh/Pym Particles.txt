@@ -1,0 +1,19 @@
+// NAME: Pym Particles
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Aerial Doombot
+1 Bold Biochemist
+1 Ant-Man's Air Force
+1 Ant-Man, Reformed Rogue
+1 Wasp, Shrinking Savior
+1 A.I.M. Scientists
+1 Giant-Sized Flying Ant
+1 Pym Particles
+1 Super Suit
+1 Quantum Reduction
+1 Depower
+1 Robotics Mastery
+1 Thriving Isle
+7 Island
+
+Sideboard

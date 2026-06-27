@@ -1,0 +1,19 @@
+// NAME: Agents of S.H.I.E.L.D.
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Agent Phil Coulson
+1 Peggy Carter, Secret Agent
+1 Agent 13, Sharon Carter
+1 Agents of S.H.I.E.L.D.
+1 Quake, Agent of S.H.I.E.L.D.
+1 S.H.I.E.L.D. Helicarrier
+1 Borough Backup
+1 Nick Fury, Spymaster
+1 S.H.I.E.L.D. Spy Kit
+1 Helicarrier Strike
+1 Strategic Intervention
+1 Web Up
+1 Thriving Heath
+7 Plains
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Heroes for Hire
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Stark Industries Executive
+1 K'un-Lun Warrior
+1 Misty Knight, Hero for Hire
+1 Iron Fist, Hero for Hire
+1 Contract Hero
+1 Jessica Jones, Private Eye
+1 Luke Cage, Hero for Hire
+1 Red Hulk
+1 Bionic Blow
+1 Big Score
+1 Heroes for Hire
+1 Marvelous Melee
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

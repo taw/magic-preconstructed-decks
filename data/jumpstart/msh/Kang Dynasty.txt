@@ -1,0 +1,19 @@
+// NAME: Kang Dynasty
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Bold Biochemist
+1 TVA Bureaucrat
+1 S.H.I.E.L.D. Deployment Drone
+1 Iron Lad, Young Avenger
+1 Immortus, Master of Eternity
+1 Victor Timely, Wily Tycoon
+1 Pharaoh Rama-Tut
+1 Think Twice
+1 Depower
+1 Timeline Inquiry
+1 Multiversal Recruitment
+1 Time Warp
+1 Thriving Isle
+7 Island
+
+Sideboard

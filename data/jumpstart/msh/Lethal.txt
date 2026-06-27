@@ -1,0 +1,19 @@
+// NAME: Lethal
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Red Room Recruit
+1 White Widow, Yelena Belova
+1 Ninja of the Hand
+1 Venomized Cat
+1 Black Widow, Deadly Hunter
+1 Titanium Man
+1 Venom, Evil Unleashed
+1 Stolen Stark Tech
+1 Widow's Bite
+1 Hour of Defeat
+1 Origin of Black Widow
+1 Infernal Rebirth
+1 Thriving Moor
+7 Swamp
+
+Sideboard

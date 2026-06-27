@@ -1,0 +1,19 @@
+// NAME: Atlantis
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Mist-Cloaked Herald
+1 Daughter of the Deep
+1 Atlantean Skirmisher
+1 Atlantean Cavalry
+1 Namora, the Sea Queen
+1 Attuma, Atlantean Warlord
+1 Shipwreck Patrol
+1 Namor, Scourge of the Seas
+1 Quantum Reduction
+1 Unstable Experiment
+1 Frozen in Ice
+1 Atlantis Attacks
+1 Thriving Isle
+7 Island
+
+Sideboard

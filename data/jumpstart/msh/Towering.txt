@@ -1,0 +1,19 @@
+// NAME: Towering
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Reptil, Dinomorpher
+1 Stature, Young Avenger
+1 Goliath, Mass Manipulator
+1 Ms. Marvel, Elastic Ally
+1 Ant-Man, Reformed Rogue
+1 Atlas, Sizable Stooge
+1 Giant-Man, Gargantuan Genius
+1 Spider-Rex, Daring Dino
+1 Giant Growth
+1 Rapid Rescue
+1 Terrific Team-Up
+1 Colossal Collision
+1 Thriving Grove
+7 Forest
+
+Sideboard

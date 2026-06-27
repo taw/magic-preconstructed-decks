@@ -1,0 +1,19 @@
+// NAME: Masters of Evil
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Boomerang, Blade Flinger
+1 Yellowjacket, Heartless Marauder
+1 Titania, Rugged Rumbler
+1 Klaw, Sonic Subjugator
+1 Crimson Cowl, Master of Evil
+1 Tiger Shark, Abyssal Hunter
+1 Radioactive Man
+1 The Masters of Evil
+1 Villainous Syndication
+1 Cruel Alliance
+1 Visions of Villainy
+1 Hour of Defeat
+1 Thriving Moor
+7 Swamp
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Battalion
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 General Thunderbolt Ross
+1 The Howling Commandos
+1 Wakandan Shield Guard
+1 Wild Pack Squad
+1 Falcon, Joaquin Torres
+1 War Machine, James Rhodes
+1 U.S.Agent, John Walker
+1 Captain America, Skybound
+1 Ultimate Alliance
+1 Helicarrier Strike
+1 Heroic Teamwork
+1 Fall to Earth
+1 Thriving Heath
+7 Plains
+
+Sideboard

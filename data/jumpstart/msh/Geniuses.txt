@@ -1,0 +1,19 @@
+// NAME: Geniuses
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Kid Loki
+1 Bold Biochemist
+1 Brawn, Amadeus Cho
+1 Shuri, Vibranium Technologist
+1 Ant-Man, Reformed Rogue
+1 Beast, Erudite Aerialist
+1 Blue Marvel, Adam Brashear
+1 Reed Richards, Smartest Man
+1 Super Intelligence
+1 Futurist Forge
+1 Frozen in Ice
+1 Fantastic Bounce
+1 Thriving Isle
+7 Island
+
+Sideboard

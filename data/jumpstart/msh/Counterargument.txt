@@ -1,0 +1,19 @@
+// NAME: Counterargument
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 City Pigeon
+1 Selfless Police Captain
+1 Matt Murdock, Justice Seeker
+1 She-Hulk, Attorney-at-Law
+1 Foggy Nelson, On Retainer
+1 Daily Bugle Reporters
+1 Starling, Aerial Ally
+1 Vault Guardsman
+1 Political Triumph
+1 Costume Closet
+1 Murdock's Crusade
+1 Web Up
+1 Thriving Heath
+7 Plains
+
+Sideboard

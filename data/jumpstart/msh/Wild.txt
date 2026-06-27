@@ -1,0 +1,19 @@
+// NAME: Wild
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Hellcat, Undying Vigilante
+1 White Tiger, Amulet Keeper
+1 The Fabulous Frog-Man
+1 Gert and Old Lace, Runaways
+1 Mole Man, Moloid Master
+1 Hit-Monkey
+1 Ka-Zar of the Savage Land
+1 Claim the Kingdom
+1 Accelerated Evolution
+1 Restorative Technique
+1 Colossal Collision
+1 Terramorphic Expanse
+1 Thriving Grove
+7 Forest
+
+Sideboard

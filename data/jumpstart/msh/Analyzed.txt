@@ -1,0 +1,19 @@
+// NAME: Analyzed
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Virtual Assistant
+1 TVA Bureaucrat
+1 Viv Vision, Teen Synthezoid
+1 Echo, Perceptive Prodigy
+1 Machine Man, Model X-51
+1 Victor Mancha, Runaway
+1 Vision, Spectral Synthezoid
+1 We Say Thee Nay!
+1 Quantum Reduction
+1 Frozen in Ice
+1 Timeline Inquiry
+1 Atlantis Attacks
+1 Thriving Isle
+7 Island
+
+Sideboard

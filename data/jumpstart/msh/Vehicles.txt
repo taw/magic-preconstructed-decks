@@ -1,0 +1,19 @@
+// NAME: Vehicles
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Intrepid Ace
+1 HYDRA Assault Robot
+1 Extremis Elite
+1 Taxi Driver
+1 Machinesmith Automaton
+1 Bullseye, Death Dealer
+1 Captain America's Motorcycle
+1 Big Wheel
+1 S.H.I.E.L.D. Helicarrier
+1 Sky Cycle
+1 The Thanos-Copter
+1 Truck Toss
+1 Thriving Bluff
+7 Mountain
+
+Sideboard

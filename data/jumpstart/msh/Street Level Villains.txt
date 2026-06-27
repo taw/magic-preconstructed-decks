@@ -1,0 +1,19 @@
+// NAME: Street Level Villains
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Agents of HYDRA
+1 Common Crook
+1 Hammerhead, Maggia Boss
+1 Kingpin's Enforcers
+1 Tombstone, Career Criminal
+1 Kingpin, Wilson Fisk
+1 Madame Masque
+1 Count Nefaria
+1 Minion Missile
+1 Deadly Dispute
+1 Criminal Enterprise
+1 The Spot's Portal
+1 Thriving Moor
+7 Swamp
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Tricksters
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Kid Loki
+1 Living Lies of Loki
+1 Ant-Man's Air Force
+1 Impossible Man
+1 Ghost, Spectral Saboteur
+1 Loki, Lord of Misrule
+1 A.I.M. Scientists
+1 We Say Thee Nay!
+1 Quantum Reduction
+1 Trickster's Stratagem
+1 Multiversal Recruitment
+1 The Clone Saga
+1 Thriving Isle
+7 Island
+
+Sideboard

@@ -1,0 +1,19 @@
+// NAME: Trained
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-jumpstart-booster-themes
+// DATE: 2026-06-26
+1 Serpent Specialist
+1 White Tiger, Ava Ayala
+1 Undercover Skrull
+1 Hercules, Prince of Power
+1 She-Hulk, Attorney-at-Law
+1 Pet Avengers
+1 Shang-Chi, Martial Mentor
+1 Wakandan Royal Guard
+1 Advancing the Spirit
+1 Restorative Technique
+1 Punishing Punch
+1 Colossal Collision
+1 Thriving Grove
+7 Forest
+
+Sideboard
