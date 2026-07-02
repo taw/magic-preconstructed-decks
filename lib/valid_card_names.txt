@@ -2693,6 +2693,7 @@ Bhaal, Lord of Murder
 Biblioplex Assistant
 Biblioplex Kraken
 Biblioplex Tomekeeper
+Bicycle Elemental
 Bicycle Rack
 Bident of Thassa
 Bifurcate
