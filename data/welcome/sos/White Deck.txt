@@ -2,15 +2,15 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/new-welcome-decks-arrive-with-secrets-of-strixhaven
 // DATE: 2026-04-24
 2 Healer's Hawk [FDN:734]
-1 Ajani's Pridemate
-1 Joust Through
+1 Ajani's Pridemate [FDN:135]
+1 Joust Through [FDN:19]
 1 Prayer of Binding [FDN:739]
-2 Helpful Hunter
-1 Bishop's Soldier
+2 Helpful Hunter [FDN:16]
+1 Bishop's Soldier [FDN:491]
 1 Serra Angel [FDN:740]
 1 Herald of Faith [FDN:735]
-1 Pacifism
-1 Cathar Commando
+1 Pacifism [FDN:501]
+1 Cathar Commando [FDN:139]
 1 Inspiring Overseer [FDN:736]
 1 Crusader of Odric [FDN:731]
 1 Dazzling Angel [FDN:732]
@@ -18,9 +18,9 @@
 1 Cryptic Caves [FDN:771]
 1 Lyra Dawnbringer [FDN:738]
 1 Linden, the Steadfast Queen [FDN:737]
-1 Dauntless Veteran
-1 Moment of Triumph
-1 Banishing Light
+1 Dauntless Veteran [FDN:8]
+1 Moment of Triumph [FDN:500]
+1 Banishing Light [FDN:138]
 1 Diamond Mare [FDN:770]
-1 Hinterland Sanctifier
-16 Plains
+1 Hinterland Sanctifier [FDN:730]
+16 Plains [FDN:272]

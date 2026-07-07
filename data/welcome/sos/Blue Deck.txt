@@ -3,22 +3,22 @@
 // DATE: 2026-04-24
 2 Kitesail Corsair [FDN:743]
 1 Spectral Sailor [FDN:746]
-2 Starlight Snare
-2 Refute
-1 Think Twice
-1 Uncharted Voyage
+2 Starlight Snare [FDN:514]
+2 Refute [FDN:48]
+1 Think Twice [FDN:165]
+1 Uncharted Voyage [FDN:53]
 1 Sphinx of the Final Word [FDN:747]
 2 Icewind Elemental [FDN:742]
-1 Storm Fleet Spy
-1 Aetherize
-1 Bigfin Bouncer
+1 Storm Fleet Spy [FDN:515]
+1 Aetherize [FDN:151]
+1 Bigfin Bouncer [FDN:31]
 1 Rune-Sealed Wall [FDN:745]
 1 Tempest Djinn [FDN:749]
 1 Cryptic Caves [FDN:771]
 1 Arcanis the Omnipotent [FDN:741]
 1 Unsummon [FDN:750]
 1 Mocking Sprite [FDN:744]
-1 Quick Study
+1 Quick Study [FDN:513]
 1 Strix Lookout [FDN:748]
-1 Aegis Turtle
-16 Island
+1 Aegis Turtle [FDN:150]
+16 Island [FDN:274]
