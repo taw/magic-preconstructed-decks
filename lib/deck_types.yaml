@@ -415,7 +415,7 @@ welcome:
   format: "casual"
   name: "Welcome Deck"
   sections:
-    Main Deck: 30
+    Main Deck: [30, 40]
 welcome-std:
   category: "deck"
   format: "casual standard"

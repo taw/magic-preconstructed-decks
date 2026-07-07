@@ -1,0 +1,25 @@
+// NAME: Black Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/new-welcome-decks-arrive-with-secrets-of-strixhaven
+// DATE: 2026-04-24
+1 Vampire Interloper [FDN:756]
+2 Gutless Plunderer
+2 Eaten Alive
+1 Vampire Neonate
+1 Vampire Gourmand
+2 Hero's Downfall
+1 Stromkirk Bloodthief
+1 Vampire Soulcaller [FDN:758]
+1 Crossway Troublemakers
+1 Vampire Nighthawk [FDN:757]
+1 Kalastria Highborn [FDN:753]
+1 Zombify
+1 Macabre Waltz
+1 Vengeful Bloodwitch
+1 Vampire Spawn
+1 Massacre Wurm [FDN:754]
+1 Bloodtithe Collector [FDN:751]
+1 Rogue's Passage
+1 Gatekeeper of Malakir [FDN:752]
+1 Sanguine Syphoner
+1 Pulse Tracker [FDN:755]
+16 Swamp

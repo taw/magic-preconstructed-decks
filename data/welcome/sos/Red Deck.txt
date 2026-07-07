@@ -1,0 +1,21 @@
+// NAME: Red Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/new-welcome-decks-arrive-with-secrets-of-strixhaven
+// DATE: 2026-04-24
+2 Burst Lightning
+1 Carnelian Orb of Dragonkind [FDN:759]
+2 Firespitter Whelp [FDN:761]
+2 Kargan Dragonrider [FDN:762]
+1 Drakuseth, Maw of Flames [FDN:760]
+2 Scorching Dragonfire
+1 Spitfire Lagac
+2 Incinerating Blast
+2 Dragonlord's Servant
+1 Cryptic Caves [FDN:771]
+1 Axgard Cavalry
+1 Terror of Mount Velus [FDN:764]
+1 Brazen Scourge
+1 Etali, Primal Storm
+1 Skyraker Giant
+1 Shivan Dragon [FDN:763]
+1 Fanatical Firebrand
+17 Mountain
