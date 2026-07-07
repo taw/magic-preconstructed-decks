@@ -1,0 +1,9 @@
+// NAME: Tea Time at the Jasmine Dragon
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender
+// DATE: 2025-11-14
+1 Mai and Zuko [TLE:68] [foil]
+1 Aang and Katara [TLE:69] [foil]
+1 Toph, Greatest Earthbender [TLE:70] [foil]
+1 Sokka and Suki [TLE:71] [foil]
+1 Momo's Heist [TLE:72] [foil]
+1 Uncle's Musings [TLE:73] [foil]
