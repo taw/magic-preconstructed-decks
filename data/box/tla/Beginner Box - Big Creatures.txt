@@ -1,0 +1,18 @@
+// NAME: Beginner Box - Big Creatures
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
+// DATE: 2025-11-14
+1 Turtle-Duck
+1 Raucous Audience
+1 Frog-Squirrels
+1 Ostrich-Horse
+1 Match the Odds
+1 Eel-Hounds
+1 Hippo-Cows
+1 Saber-Tooth Moose-Lion
+1 Flopsie, Bumi's Buddy
+1 Mechanical Glider
+1 Hog-Monkey
+1 Rampage
+1 Seismic Tutelage [TLE:254]
+1 Thriving Grove
+7 Forest
