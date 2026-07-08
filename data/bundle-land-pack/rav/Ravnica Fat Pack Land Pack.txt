@@ -1,0 +1,23 @@
+// NAME: Ravnica Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2005-10-07
+2 Plains [RAV:287]
+2 Plains [RAV:288]
+2 Plains [RAV:289]
+2 Plains [RAV:290]
+2 Island [RAV:291]
+2 Island [RAV:292]
+2 Island [RAV:293]
+2 Island [RAV:294]
+2 Swamp [RAV:295]
+2 Swamp [RAV:296]
+2 Swamp [RAV:297]
+2 Swamp [RAV:298]
+2 Mountain [RAV:299]
+2 Mountain [RAV:300]
+2 Mountain [RAV:301]
+2 Mountain [RAV:302]
+2 Forest [RAV:303]
+2 Forest [RAV:304]
+2 Forest [RAV:305]
+2 Forest [RAV:306]
