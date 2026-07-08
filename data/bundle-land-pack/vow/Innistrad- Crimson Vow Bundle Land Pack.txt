@@ -1,0 +1,13 @@
+// NAME: Innistrad: Crimson Vow Bundle Land Pack
+// SOURCE: https://mtg.wiki/page/Innistrad:_Crimson_Vow
+// DATE: 2021-11-19
+4 Plains [VOW:398]
+4 Plains [VOW:398] [foil]
+4 Island [VOW:399]
+4 Island [VOW:399] [foil]
+4 Swamp [VOW:400]
+4 Swamp [VOW:400] [foil]
+4 Mountain [VOW:401]
+4 Mountain [VOW:401] [foil]
+4 Forest [VOW:402]
+4 Forest [VOW:402] [foil]
