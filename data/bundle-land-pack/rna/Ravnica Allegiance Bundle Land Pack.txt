@@ -1,0 +1,13 @@
+// NAME: Ravnica Allegiance Bundle Land Pack
+// SOURCE: https://mtg.wiki/page/Ravnica_Allegiance
+// DATE: 2019-01-25
+4 Plains [RNA:260]
+4 Plains [RNA:260] [foil]
+4 Island [RNA:261]
+4 Island [RNA:261] [foil]
+4 Swamp [RNA:262]
+4 Swamp [RNA:262] [foil]
+4 Mountain [RNA:263]
+4 Mountain [RNA:263] [foil]
+4 Forest [RNA:264]
+4 Forest [RNA:264] [foil]
