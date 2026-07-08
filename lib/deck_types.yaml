@@ -421,7 +421,7 @@ welcome-std:
   format: "casual standard"
   name: "Welcome Deck"
   sections:
-    Main Deck: [22, 30]
+    Main Deck: [22, 30, 40]
 redemption:
   category: "box"
   format: null
