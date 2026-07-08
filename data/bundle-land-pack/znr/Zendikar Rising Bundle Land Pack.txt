@@ -1,0 +1,13 @@
+// NAME: Zendikar Rising Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-zendikar-rising-2020-09-01
+// DATE: 2020-09-25
+4 Plains [ZNR:380]
+4 Plains [ZNR:380] [foil]
+4 Island [ZNR:381]
+4 Island [ZNR:381] [foil]
+4 Swamp [ZNR:382]
+4 Swamp [ZNR:382] [foil]
+4 Mountain [ZNR:383]
+4 Mountain [ZNR:383] [foil]
+4 Forest [ZNR:384]
+4 Forest [ZNR:384] [foil]
