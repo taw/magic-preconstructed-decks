@@ -1,0 +1,13 @@
+// NAME: Marvel Super Heroes Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes
+// DATE: 2025-09-26
+3 Plains [MSH:433] [foil]
+3 Plains [MSH:434] [foil]
+3 Island [MSH:435] [foil]
+3 Island [MSH:436] [foil]
+3 Swamp [MSH:437] [foil]
+3 Swamp [MSH:438] [foil]
+3 Mountain [MSH:439] [foil]
+3 Mountain [MSH:440] [foil]
+3 Forest [MSH:441] [foil]
+3 Forest [MSH:442] [foil]
