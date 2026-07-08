@@ -1,0 +1,13 @@
+// NAME: Innistrad: Midnight Hunt Bundle Land Pack
+// SOURCE: https://mtg.wiki/page/Innistrad:_Midnight_Hunt
+// DATE: 2021-09-24
+4 Plains [MID:380]
+4 Plains [MID:380] [foil]
+4 Island [MID:381]
+4 Island [MID:381] [foil]
+4 Swamp [MID:382]
+4 Swamp [MID:382] [foil]
+4 Mountain [MID:383]
+4 Mountain [MID:383] [foil]
+4 Forest [MID:384]
+4 Forest [MID:384] [foil]
