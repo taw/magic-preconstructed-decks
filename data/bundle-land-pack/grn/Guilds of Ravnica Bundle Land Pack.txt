@@ -1,0 +1,13 @@
+// NAME: Guilds of Ravnica Bundle Land Pack
+// SOURCE: https://mtg.wiki/page/Guilds_of_Ravnica
+// DATE: 2018-10-05
+4 Plains [GRN:260]
+4 Plains [GRN:260] [foil]
+4 Island [GRN:261]
+4 Island [GRN:261] [foil]
+4 Swamp [GRN:262]
+4 Swamp [GRN:262] [foil]
+4 Mountain [GRN:263]
+4 Mountain [GRN:263] [foil]
+4 Forest [GRN:264]
+4 Forest [GRN:264] [foil]
