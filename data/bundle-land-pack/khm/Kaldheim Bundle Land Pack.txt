@@ -1,0 +1,13 @@
+// NAME: Kaldheim Bundle Land Pack
+// SOURCE: https://mtg.wiki/page/Kaldheim
+// DATE: 2021-02-05
+4 Plains [KHM:394]
+4 Plains [KHM:394] [foil]
+4 Island [KHM:395]
+4 Island [KHM:395] [foil]
+4 Swamp [KHM:396]
+4 Swamp [KHM:396] [foil]
+4 Mountain [KHM:397]
+4 Mountain [KHM:397] [foil]
+4 Forest [KHM:398]
+4 Forest [KHM:398] [foil]
