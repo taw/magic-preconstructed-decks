@@ -1,0 +1,23 @@
+// NAME: Strixhaven Bundle Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2021-04-23
+2 Plains [STX:366]
+2 Plains [STX:366] [foil]
+2 Plains [STX:367]
+2 Plains [STX:367] [foil]
+2 Island [STX:368]
+2 Island [STX:368] [foil]
+2 Island [STX:369]
+2 Island [STX:369] [foil]
+2 Swamp [STX:370]
+2 Swamp [STX:370] [foil]
+2 Swamp [STX:371]
+2 Swamp [STX:371] [foil]
+2 Mountain [STX:372]
+2 Mountain [STX:372] [foil]
+2 Mountain [STX:373]
+2 Mountain [STX:373] [foil]
+2 Forest [STX:374]
+2 Forest [STX:374] [foil]
+2 Forest [STX:375]
+2 Forest [STX:375] [foil]

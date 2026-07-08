@@ -1,0 +1,23 @@
+// NAME: Tenth Edition Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2007-07-13
+2 Plains [10E:364]
+2 Plains [10E:365]
+2 Plains [10E:366]
+2 Plains [10E:367]
+2 Island [10E:368]
+2 Island [10E:369]
+2 Island [10E:370]
+2 Island [10E:371]
+2 Swamp [10E:372]
+2 Swamp [10E:373]
+2 Swamp [10E:374]
+2 Swamp [10E:375]
+2 Mountain [10E:376]
+2 Mountain [10E:377]
+2 Mountain [10E:378]
+2 Mountain [10E:379]
+2 Forest [10E:380]
+2 Forest [10E:381]
+2 Forest [10E:382]
+2 Forest [10E:383]

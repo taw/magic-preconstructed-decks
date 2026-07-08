@@ -1,6 +1,6 @@
-// NAME: Eventide Fat Pack Land Pack
+// NAME: Shadowmoor Fat Pack Land Pack
 // SOURCE: https://mtg.wiki/wiki/Bundle
-// DATE: 2008-07-25
+// DATE: 2008-05-02
 2 Plains [SHM:282]
 2 Plains [SHM:283]
 2 Plains [SHM:284]

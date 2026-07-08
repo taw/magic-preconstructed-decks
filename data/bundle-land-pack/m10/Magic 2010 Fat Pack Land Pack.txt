@@ -1,0 +1,23 @@
+// NAME: Magic 2010 Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2009-07-17
+2 Plains [M10:230]
+2 Plains [M10:231]
+2 Plains [M10:232]
+2 Plains [M10:233]
+2 Island [M10:234]
+2 Island [M10:235]
+2 Island [M10:236]
+2 Island [M10:237]
+2 Swamp [M10:238]
+2 Swamp [M10:239]
+2 Swamp [M10:240]
+2 Swamp [M10:241]
+2 Mountain [M10:242]
+2 Mountain [M10:243]
+2 Mountain [M10:244]
+2 Mountain [M10:245]
+2 Forest [M10:246]
+2 Forest [M10:247]
+2 Forest [M10:248]
+2 Forest [M10:249]
