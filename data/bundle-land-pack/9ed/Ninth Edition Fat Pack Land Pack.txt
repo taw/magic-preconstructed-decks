@@ -1,0 +1,23 @@
+// NAME: Ninth Edition Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2005-07-29
+2 Plains [9ED:331]
+2 Plains [9ED:332]
+2 Plains [9ED:333]
+2 Plains [9ED:334]
+2 Island [9ED:335]
+2 Island [9ED:336]
+2 Island [9ED:337]
+2 Island [9ED:338]
+2 Swamp [9ED:339]
+2 Swamp [9ED:340]
+2 Swamp [9ED:341]
+2 Swamp [9ED:342]
+2 Mountain [9ED:343]
+2 Mountain [9ED:344]
+2 Mountain [9ED:345]
+2 Mountain [9ED:346]
+2 Forest [9ED:347]
+2 Forest [9ED:348]
+2 Forest [9ED:349]
+2 Forest [9ED:350]

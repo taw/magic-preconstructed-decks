@@ -1,0 +1,8 @@
+// NAME: Coldsnap Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2006-07-21
+8 Snow-Covered Plains [CSP:151]
+8 Snow-Covered Island [CSP:152]
+8 Snow-Covered Swamp [CSP:153]
+8 Snow-Covered Mountain [CSP:154]
+8 Snow-Covered Forest [CSP:155]

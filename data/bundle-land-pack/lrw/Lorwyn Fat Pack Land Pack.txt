@@ -1,0 +1,23 @@
+// NAME: Lorwyn Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2007-10-12
+2 Plains [LRW:282]
+2 Plains [LRW:283]
+2 Plains [LRW:284]
+2 Plains [LRW:285]
+2 Island [LRW:286]
+2 Island [LRW:287]
+2 Island [LRW:288]
+2 Island [LRW:289]
+2 Swamp [LRW:290]
+2 Swamp [LRW:291]
+2 Swamp [LRW:292]
+2 Swamp [LRW:293]
+2 Mountain [LRW:294]
+2 Mountain [LRW:295]
+2 Mountain [LRW:296]
+2 Mountain [LRW:297]
+2 Forest [LRW:298]
+2 Forest [LRW:299]
+2 Forest [LRW:300]
+2 Forest [LRW:301]

@@ -1,0 +1,23 @@
+// NAME: Magic 2011 Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2010-07-16
+2 Plains [M11:230]
+2 Plains [M11:231]
+2 Plains [M11:232]
+2 Plains [M11:233]
+2 Island [M11:234]
+2 Island [M11:235]
+2 Island [M11:236]
+2 Island [M11:237]
+2 Swamp [M11:238]
+2 Swamp [M11:239]
+2 Swamp [M11:240]
+2 Swamp [M11:241]
+2 Mountain [M11:242]
+2 Mountain [M11:243]
+2 Mountain [M11:244]
+2 Mountain [M11:245]
+2 Forest [M11:246]
+2 Forest [M11:247]
+2 Forest [M11:248]
+2 Forest [M11:249]

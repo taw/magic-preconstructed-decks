@@ -1,0 +1,23 @@
+// NAME: Rise of the Eldrazi Fat Pack Land Pack
+// SOURCE: https://mtg.wiki/wiki/Bundle
+// DATE: 2010-04-23
+2 Plains [ROE:229]
+2 Plains [ROE:230]
+2 Plains [ROE:231]
+2 Plains [ROE:232]
+2 Island [ROE:233]
+2 Island [ROE:234]
+2 Island [ROE:235]
+2 Island [ROE:236]
+2 Swamp [ROE:237]
+2 Swamp [ROE:238]
+2 Swamp [ROE:239]
+2 Swamp [ROE:240]
+2 Mountain [ROE:241]
+2 Mountain [ROE:242]
+2 Mountain [ROE:243]
+2 Mountain [ROE:244]
+2 Forest [ROE:245]
+2 Forest [ROE:246]
+2 Forest [ROE:247]
+2 Forest [ROE:248]
