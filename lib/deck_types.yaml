@@ -78,6 +78,12 @@ bundle-land-pack:
   name: "Bundle Land Pack"
   sections:
     Main Deck: [30, 32, 40]
+challenge:
+  category: "deck"
+  format: null
+  name: "Challenge Deck"
+  sections:
+    Main Deck: [17, 27, 42]
 challenger:
   category: "deck"
   format: "standard"
