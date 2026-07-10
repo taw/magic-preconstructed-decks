@@ -8,8 +8,7 @@
 1 Fire Nation Engineer
 1 Earth Village Ruffians
 1 Hog-Monkey
-1 Buzzard-Wasp
-1 Colony
+1 Buzzard-Wasp Colony
 1 Fire Nation Sentinels [TLE:230]
 1 Azula Always Lies
 1 Feed the Swarm

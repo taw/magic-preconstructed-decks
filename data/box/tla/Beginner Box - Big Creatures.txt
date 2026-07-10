@@ -11,8 +11,7 @@
 1 Saber-Tooth Moose-Lion
 1 Flopsie, Bumi's Buddy
 1 Mechanical Glider
-1 Hog-Monkey
-1 Rampage
+1 Hog-Monkey Rampage [TLE:255]
 1 Seismic Tutelage [TLE:254]
 1 Thriving Grove
 7 Forest
