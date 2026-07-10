@@ -1,0 +1,10 @@
+// NAME: Heroes United
+// SOURCE: https://magic.wizards.com/en/news/feature/assemble-the-scenes-of-marvel-super-heroes
+// DATE: 2026-06-26
+// DISPLAY: Marvel Super Heroes Scene Box - Heroes United - 6 traditional foil borderless scene cards
+1 Iron Man, Futurist Paragon [MSC:501] [foil]
+1 Hulk, Always Angry [MSC:502] [foil]
+1 Thor, Guardian of Midgard [MSC:503] [foil]
+1 Black Widow, Intel Expert [MSC:504] [foil]
+1 Captain America, Unbowed [MSC:505] [foil]
+1 Hawkeye, Trick Shot [MSC:506] [foil]
