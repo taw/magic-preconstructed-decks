@@ -1,0 +1,17 @@
+// NAME: Commander's Bundle
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender
+// DATE: 2025-11-14
+// DISPLAY: Each bundle contains the 3 fixed borderless staples (Sol Ring, Arcane Signet, Swiftfoot Boots) plus 2 of the 10 possible tutor / free-spell reprints; all 13 possible cards are listed here.
+1 Enlightened Tutor [TLE:305]
+1 Flawless Maneuver [TLE:306]
+1 Fierce Guardianship [TLE:307]
+1 Mystical Tutor [TLE:308]
+1 Deadly Rollick [TLE:309]
+1 Entomb [TLE:310]
+1 Deflecting Swat [TLE:311]
+1 Gamble [TLE:312]
+1 Obscuring Haze [TLE:313]
+1 Worldly Tutor [TLE:314]
+1 Arcane Signet [TLE:315]
+1 Sol Ring [TLE:316]
+1 Swiftfoot Boots [TLE:317]
