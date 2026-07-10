@@ -1,0 +1,19 @@
+// NAME: Red Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-welcome-decks
+// DATE: 2026-06-26
+1 Spider-Man, Web-Spinner [MSC:832]
+1 Human Torch, Johnny Storm [MSH:136]
+1 Misty Knight, Hero for Hire [MSH:145]
+1 Living Lightning, Charged Up [MSC:764]
+1 Quicksilver, Pietro Maximoff [MSC:551]
+1 Happy Hogan, Dauntless Driver [MSC:545]
+2 Rampaging Classmate [SPE:16]
+2 Extremis Elite [MSC:763]
+1 Kree Sentinel [MSH:141]
+1 Sif's Spearmaster [MSC:765]
+1 Furious Strength [MSC:544]
+1 Marvelous Melee [MSC:549]
+1 The Mary Janes [SPE:15]
+1 Smashing Spree [MSC:555]
+1 Lightning Strike [MSH:142]
+13 Mountain [MSH:283]

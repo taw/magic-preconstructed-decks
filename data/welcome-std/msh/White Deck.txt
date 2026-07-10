@@ -1,0 +1,19 @@
+// NAME: White Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-welcome-decks
+// DATE: 2026-06-26
+1 Black Panther, Claws of Bast [MSC:829]
+1 Peggy Carter, Secret Agent [MSC:523]
+1 Mockingbird, Bobbi Morse [MSC:522]
+1 Doctor Jane Foster [MSC:757]
+2 Virtuous Variant [MSC:758]
+1 Valkyrior Skyrider [MSC:525]
+1 Selfless Police Captain [MSC:774]
+1 Fall to Earth [MSC:517]
+1 Luke Cage, Power Man [MSH:20]
+1 Raft Security Officer [MSH:33]
+2 Brave Brawler [MSH:8]
+1 Crowd of True Believers [MSH:14]
+1 Vibranium Energy Daggers [MSH:254]
+1 Take Up the Shield [MSH:39]
+1 Web Up [MSH:41]
+13 Plains [MSH:277]
