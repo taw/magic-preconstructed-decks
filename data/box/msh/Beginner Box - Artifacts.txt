@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Artifacts
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Aerial Doombot [MSH:43]
+1 Hydraulic Helper [MSH:57]
+1 S.H.I.E.L.D. Deployment Drone [MSH:73]
+1 Ultron Drone [MSH:253]
+1 A.I.M. Bot [MSC:529]
+1 Victor Mancha, Runaway [MSC:574]
+1 War Machine, James Rhodes [MSC:572]
+1 Repulsor Bots [MSC:532]
+1 Vibranium Energy Daggers [MSH:254]
+1 Futurist Forge [MSH:55]
+1 Thirst for Knowledge [MSH:79]
+1 Frozen in Ice [MSH:54]
+7 Island [MSH:279]
+1 Thriving Isle [MSC:581]

@@ -1,0 +1,17 @@
+// NAME: Beginner Box - HYDRA
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Project Deathlok Soldier [MSH:109]
+1 Doom's Servo-Guards [MSC:535]
+1 Agents of HYDRA [MSH:85]
+1 HYDRA Troopers [MSH:101]
+1 Kingpin's Enforcers [MSH:102]
+1 Glamorous Grapplers [MSC:536]
+1 Arnim Zola, Bio-Fanatic [MSH:86]
+1 Madame Hydra, Reanimated [MSC:538]
+1 Ultimo, Civilization's End [MSC:540]
+1 Doom Blade [MSC:576]
+1 Infernal Rebirth [MSC:537]
+1 HYDRA Infiltration [MSH:100]
+7 Swamp [MSH:281]
+1 Thriving Moor [MSC:582]

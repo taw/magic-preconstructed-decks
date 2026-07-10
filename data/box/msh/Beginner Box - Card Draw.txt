@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Card Draw
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 A.I.M. Bot [MSC:529]
+1 Brawn, Amadeus Cho [MSC:567]
+1 Bold Biochemist [MSH:48]
+1 Atlantean Cavalry [MSH:45]
+1 Graviton, Fundamental Force [MSC:531]
+1 Blue Marvel, Adam Brashear [MSC:530]
+1 A.I.M. Scientists [MSH:44]
+1 Super Intelligence [MSH:77]
+1 H.E.R.B.I.E. Scout Unit [MSH:247]
+1 Depower [MSH:50]
+1 Trickster's Stratagem [MSH:81]
+1 Stark's Ingenuity [MSC:533]
+7 Island [MSH:279]
+1 Thriving Isle [MSC:581]
