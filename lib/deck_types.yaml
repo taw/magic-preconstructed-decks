@@ -78,6 +78,18 @@ bundle-land-pack:
   name: "Bundle Land Pack"
   sections:
     Main Deck: [30, 32, 40]
+challenge:
+  category: "deck"
+  format: null
+  name: "Challenge Deck"
+  # Theros-block "Hero's Path" solo challenge decks (Battle the Horde / Defeat a
+  # God / Face the Hydra). Each holds 15 unique cards, but MTGJSON stores the
+  # creatures the hero fights (Hydra Head, the Minotaurs, Xenagos Ascended, ...)
+  # as tokens rather than cards. Those carry the [token] marker and are counted
+  # separately, so only the non-token challenge cards land in the Main Deck:
+  # Battle the Horde 17, Defeat a God 27, Face the Hydra 42.
+  sections:
+    Main Deck: [17, 27, 42]
 challenger:
   category: "deck"
   format: "standard"
