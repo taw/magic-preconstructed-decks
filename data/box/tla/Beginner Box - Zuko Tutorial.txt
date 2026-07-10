@@ -1,0 +1,23 @@
+// NAME: Beginner Box - Zuko Tutorial
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
+// DATE: 2025-11-14
+1 Capital Guard [TLE:277]
+1 Dragon Moose [TLE:278]
+1 Explosive Shot [TLE:279]
+1 Fire Nation Soldier [TLE:280]
+1 Fire Nation's Conquest [TLE:281]
+1 Iroh, Firebending Instructor [TLE:282]
+1 Komodo Rhino [TLE:283]
+1 Run Amok [TLE:284]
+1 Warship Scout [TLE:285]
+1 Zhao, the Seething Flame [TLE:286]
+1 Zuko, Avatar Hunter [TLE:287]
+1 Zuko's Offense [TLE:288]
+1 Mountain [TLE:289]
+1 Mountain [TLE:290]
+1 Mountain [TLE:291]
+1 Mountain [TLE:292]
+1 Mountain [TLE:293]
+1 Mountain [TLE:294]
+1 Mountain [TLE:295]
+1 Mountain [TLE:296]

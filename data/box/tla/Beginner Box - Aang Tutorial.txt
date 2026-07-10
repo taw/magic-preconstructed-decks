@@ -1,0 +1,23 @@
+// NAME: Beginner Box - Aang Tutorial
+// SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
+// DATE: 2025-11-14
+1 Aang, Air Nomad [TLE:265]
+1 Aang's Defense [TLE:266]
+1 Aardvark Sloth [TLE:267]
+1 Appa, Aang's Companion [TLE:268]
+1 Katara, Heroic Healer [TLE:269]
+1 Momo, Rambunctious Rascal [TLE:270]
+1 Path to Redemption [TLE:271]
+1 Razor Rings [TLE:272]
+1 Sledding Otter-Penguin [TLE:273]
+1 Sokka, Wolf Cove's Protector [TLE:274]
+1 Tundra Wall [TLE:275]
+1 Wolf Cove Villager [TLE:276]
+1 Plains [TLE:297]
+1 Plains [TLE:298]
+1 Plains [TLE:299]
+1 Plains [TLE:300]
+1 Plains [TLE:301]
+1 Plains [TLE:302]
+1 Plains [TLE:303]
+1 Plains [TLE:304]
