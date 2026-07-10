@@ -1,0 +1,18 @@
+// NAME: Blue Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-welcome-decks
+// DATE: 2026-06-26
+1 Iron Man, Modern Marvel [MSC:830]
+1 Iron Lad, Diverging Destiny [MSH:59]
+1 Lyla, Holographic Assistant [SPE:7]
+1 Blue Marvel, Adam Brashear [MSC:530]
+1 Mist-Cloaked Herald [MSC:760]
+2 TVA Bureaucrat [MSC:761]
+2 Aerial Doombot [MSH:43]
+1 Futurist Forge [MSH:55]
+2 Alchemax Slayer-Bots [SPE:5]
+1 Whoosh! [MSC:790]
+1 Ant-Man's Air Force [MSC:759]
+1 A.I.M. Scientists [MSH:44]
+1 I Am Iron Man [MSH:58]
+1 Depower [MSH:50]
+13 Island [MSH:279]

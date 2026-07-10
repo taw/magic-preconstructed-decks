@@ -1,0 +1,17 @@
+// NAME: Black Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-welcome-decks
+// DATE: 2026-06-26
+1 Black Widow, Daring Operative [MSC:831]
+2 Songbird, Sonic Screamer [MSC:762]
+1 Tombstone, Career Criminal [MSC:160]
+1 Ultimo, Civilization's End [MSC:540]
+1 Unliving Legionnaire [MSH:119]
+2 Symbiote Spawn [SPE:11]
+2 Glamorous Grapplers [MSC:536]
+1 Infernal Rebirth [MSC:537]
+2 Red Room Recruit [MSH:110]
+1 Dark Deed [MSH:93]
+1 Hour of Defeat [MSH:99]
+1 Widow's Bite [MSH:122]
+1 Doom Blade [MSC:576]
+13 Swamp [MSH:281]

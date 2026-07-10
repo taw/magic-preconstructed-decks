@@ -1,0 +1,19 @@
+// NAME: Green Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-welcome-decks
+// DATE: 2026-06-26
+1 Hulk, Brutal Brawler [MSC:833]
+1 She-Hulk, Jade Defender [MSH:188]
+1 Goliath, Mass Manipulator [MSC:766]
+1 Wolfsbane, Highland Hero [MSC:767]
+1 Mister Hyde, Monster Within [MSH:176]
+2 The Fabulous Frog-Man [MSC:559]
+2 Undercover Skrull [MSH:194]
+1 Savage Land Dinosaur [MSH:185]
+1 Wakandan Royal Guard [MSH:195]
+1 Kapow! [SPM:103]
+1 Super Strength [MSH:189]
+1 Warriors of Wakanda [MSC:565]
+1 Giant Growth [MSH:167]
+1 Thing Swing [MSC:564]
+1 Knight of Wundagore [MSH:175]
+13 Forest [MSH:285]
