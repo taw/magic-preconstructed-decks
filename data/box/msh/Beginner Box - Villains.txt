@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Villains
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Red Room Recruit [MSH:110]
+1 Boomerang, Blade Flinger [MSC:534]
+1 Ninja of the Hand [MSH:108]
+1 Baron Strucker, HYDRA Overlord [MSH:88]
+1 Tombstone, Career Criminal [MSC:160]
+1 Crossbones, Malicious Mercenary [MSH:91]
+1 Glamorous Grapplers [MSC:536]
+1 Roxxon Brutes [MSH:113]
+1 Minotaur, Roxxon CEO [MSC:539]
+1 Dark Deed [MSH:93]
+1 Visions of Villainy [MSH:120]
+1 Hour of Defeat [MSH:99]
+7 Swamp [MSH:281]
+1 Thriving Moor [MSC:582]

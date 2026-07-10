@@ -1,0 +1,16 @@
+// NAME: Beginner Box - Captain America Tutorial
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Hawkeye's Shot [MSC:839]
+1 Hero in Training [MSH:16]
+1 Soldier On [MSC:843]
+1 Mockingbird, Bobbi Morse [MSC:522]
+1 Ant-Man, Scott Lang [MSC:834]
+1 Captain America, Steve Rogers [MSC:835]
+1 Captain's Defense [MSC:836]
+1 The Falcon, Sam Wilson [MSC:837]
+1 Hawkeye, Clint Barton [MSC:518]
+1 The Wasp, Janet Van Dyne [MSC:844]
+8 Plains [MSH:277]
+1 Mandroid Squadron [MSC:841]
+1 Winter Soldier, Bucky Barnes [MSC:845]

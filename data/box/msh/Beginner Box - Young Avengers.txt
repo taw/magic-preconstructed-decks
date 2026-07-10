@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Young Avengers
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Speed, Young Avenger [MSH:152]
+1 Stature, Young Avenger [MSC:571]
+1 Patriot, Young Avenger [MSC:570]
+1 Iron Lad, Young Avenger [MSC:569]
+1 Wiccan, Young Avenger [MSC:557]
+1 She-Hulk, Jennifer Walters [MSC:554]
+1 The Immortal Weapons [MSC:547]
+1 Lightning Strike [MSH:142]
+1 Experimental Armor [MSC:543]
+1 Hire a Crew [MSH:134]
+1 Furious Strength [MSC:544]
+1 Marvelous Melee [MSC:549]
+7 Mountain [MSH:283]
+1 Thriving Bluff [MSC:578]

@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Counters
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Serpent Specialist [MSH:186]
+1 Knight of Wundagore [MSH:175]
+1 Hellcat, Undying Vigilante [MSH:170]
+1 Gamma Grotesque [MSC:562]
+1 Warriors of Wakanda [MSC:565]
+1 Mister Hyde, Monster Within [MSH:176]
+1 Beast, Erudite Aerialist [MSH:206]
+1 The Thing, Ben Grimm [MSH:190]
+1 Feral Ferocity [MSC:560]
+1 Punishing Punch [MSH:180]
+1 Training Regimen [MSH:192]
+1 Colossal Collision [MSC:558]
+7 Forest [MSH:285]
+1 Thriving Grove [MSC:579]

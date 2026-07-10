@@ -1,0 +1,17 @@
+// NAME: Beginner Box - Ramp
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+1 Undercover Skrull [MSH:194]
+1 Moon-Boy, Dino Rider [MSC:563]
+1 Gert and Old Lace, Runaways [MSC:568]
+1 The Fabulous Frog-Man [MSC:559]
+1 Warriors of Wakanda [MSC:565]
+1 Atlas, Sizable Stooge [MSC:566]
+1 Wakandan Royal Guard [MSH:195]
+1 Savage Land Dinosaur [MSH:185]
+1 Flora Colossus [MSC:561]
+1 Team Transmitter [MSC:573]
+1 Thing Swing [MSC:564]
+1 Colossal Collision [MSC:558]
+7 Forest [MSH:285]
+1 Thriving Grove [MSC:579]

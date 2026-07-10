@@ -1,0 +1,16 @@
+// NAME: Beginner Box - Iron Man Tutorial
+// SOURCE: https://magic.wizards.com/en/news/announcements/marvel-super-heroes-beginner-box-contents
+// DATE: 2026-06-26
+8 Mountain [MSH:283]
+1 Smashing Spree [MSC:555]
+1 Concentrated Fire [MSC:847]
+1 Crimson Operative [MSH:126]
+1 Power Boost [MSC:852]
+1 Hulk, Bruce Banner [MSC:850]
+1 Iron Man, Tony Stark [MSC:851]
+1 Spider-Man, Hometown Hero [MSC:857]
+1 Scarlet Witch, Wanda Maximoff [MSC:855]
+1 Repulsor Rays [MSC:854]
+1 Quicksilver, Pietro Maximoff [MSC:551]
+1 Black Widow, Natasha Romanoff [MSC:846]
+1 Happy Hogan, Dauntless Driver [MSC:545]
