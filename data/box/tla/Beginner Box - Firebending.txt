@@ -13,5 +13,5 @@
 1 Lightning Strike
 1 How to Start a Riot
 1 Roku's Mastery
-1 Thriving Bluff
+1 Thriving Bluff [TLE]
 7 Mountain

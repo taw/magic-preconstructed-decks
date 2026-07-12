@@ -11,7 +11,7 @@
 1 Buzzard-Wasp Colony
 1 Fire Nation Sentinels [TLE:230]
 1 Azula Always Lies
-1 Feed the Swarm
+1 Feed the Swarm [TLE]
 1 Ozai's Cruelty
-1 Thriving Moor
+1 Thriving Moor [TLE]
 7 Swamp

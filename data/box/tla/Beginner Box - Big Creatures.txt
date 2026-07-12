@@ -13,5 +13,5 @@
 1 Mechanical Glider
 1 Hog-Monkey Rampage [TLE:255]
 1 Seismic Tutelage [TLE:254]
-1 Thriving Grove
+1 Thriving Grove [TLE]
 7 Forest

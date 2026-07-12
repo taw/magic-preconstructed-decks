@@ -13,5 +13,5 @@
 1 It'll Quench Ya!
 1 Lost in the Spirit World
 1 Water Whip [TLE:227]
-1 Thriving Isle
+1 Thriving Isle [TLE]
 7 Island

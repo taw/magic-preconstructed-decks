@@ -13,5 +13,5 @@
 1 Mechanical Glider
 1 Path to Redemption
 1 Airbending Lesson
-1 Thriving Heath
+1 Thriving Heath [TLE]
 7 Plains

@@ -13,5 +13,5 @@
 1 Bender's Waterskin
 1 Deny Entry [TLE:222]
 1 Waterbending Lesson
-1 Thriving Isle
+1 Thriving Isle [TLE]
 7 Island

@@ -13,5 +13,5 @@
 1 Explore
 1 Pillar Launch
 1 Earth Rumble
-1 Thriving Grove
+1 Thriving Grove [TLE]
 7 Forest
