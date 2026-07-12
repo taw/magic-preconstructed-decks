@@ -1,0 +1,12 @@
+// NAME: New Phyrexia Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2011-05-13
+// The New Phyrexia fat pack held 80 basic lands: 40 from New Phyrexia and 40 from Scars
+// of Mirrodin. This deck is just the 40 New Phyrexia basics (8 of each type); the
+// Scars half is provided by reusing the Scars of Mirrodin Fat Pack Land Pack.
+// Default-frame basics, so [NPH:*] round-robins the set's printings.
+8 Plains [NPH:*]
+8 Island [NPH:*]
+8 Swamp [NPH:*]
+8 Mountain [NPH:*]
+8 Forest [NPH:*]
