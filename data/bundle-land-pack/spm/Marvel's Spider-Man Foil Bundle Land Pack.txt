@@ -1,0 +1,17 @@
+// NAME: Marvel's Spider-Man Foil Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-marvels-spider-man
+// DATE: 2025-09-26
+// Minimum common denominator foil land pack: 15 traditional foil basic lands,
+// 5 full-art spiderweb lands (#189-193, one per type) plus 10 default-frame
+// basics (#194-198, two per type). The Bundle, Gift Bundle, and Web-Slingers
+// Kit each contain one of these. Paired with the non-foil version.
+2 Plains [SPM:194] [foil]
+1 Plains [SPM:189] [foil]
+2 Island [SPM:195] [foil]
+1 Island [SPM:190] [foil]
+2 Swamp [SPM:196] [foil]
+1 Swamp [SPM:191] [foil]
+2 Mountain [SPM:197] [foil]
+1 Mountain [SPM:192] [foil]
+2 Forest [SPM:198] [foil]
+1 Forest [SPM:193] [foil]
