@@ -1,0 +1,29 @@
+// NAME: Avatar: The Last Airbender Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-avatar-the-last-airbender
+// DATE: 2025-11-21
+// Bundle land pack: 15 traditional foil + 15 non-foil basic lands. Each half is
+// 5 full-art Appa lands (#287-291, one per type) plus 10 standard-frame basics
+// (#282-286, two per type). The Avatar's journey full-art lands (#292-296) are
+// booster-only and not included in the bundle, so these are listed explicitly
+// rather than with the [TLA:*] round-robin (which would resolve to the
+// standard-frame basics and drop the Appa lands).
+2 Plains [TLA:282]
+1 Plains [TLA:287]
+2 Island [TLA:283]
+1 Island [TLA:288]
+2 Swamp [TLA:284]
+1 Swamp [TLA:289]
+2 Mountain [TLA:285]
+1 Mountain [TLA:290]
+2 Forest [TLA:286]
+1 Forest [TLA:291]
+2 Plains [TLA:282] [foil]
+1 Plains [TLA:287] [foil]
+2 Island [TLA:283] [foil]
+1 Island [TLA:288] [foil]
+2 Swamp [TLA:284] [foil]
+1 Swamp [TLA:289] [foil]
+2 Mountain [TLA:285] [foil]
+1 Mountain [TLA:290] [foil]
+2 Forest [TLA:286] [foil]
+1 Forest [TLA:291] [foil]
