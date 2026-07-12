@@ -1,8 +1,8 @@
 // NAME: Beginner Box - Counters
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
 // DATE: 2025-11-14
-1 Gilacorn
-1 Elephant-Rat
+1 Gilacorn [TLE]
+1 Elephant-Rat [TLE]
 1 Long Feng, Grand Secretariat
 1 Dai Li Indoctrination
 1 Fire Nation Engineer
