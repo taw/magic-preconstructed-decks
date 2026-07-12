@@ -100,16 +100,26 @@
 1 Rakdos Locket
 1 Selesnya Locket [GRN]
 1 Simic Locket
-2 Azorius Guildgate
-2 Dimir Guildgate [GRN]
-2 Rakdos Guildgate
-2 Gruul Guildgate
-2 Selesnya Guildgate [GRN]
-2 Orzhov Guildgate
-2 Izzet Guildgate [GRN]
-2 Golgari Guildgate [GRN]
-2 Boros Guildgate [GRN]
-2 Simic Guildgate
+1 Azorius Guildgate [RNA:243]
+1 Azorius Guildgate [RNA:244]
+1 Dimir Guildgate [GRN:245]
+1 Dimir Guildgate [GRN:246]
+1 Rakdos Guildgate [RNA:255]
+1 Rakdos Guildgate [RNA:256]
+1 Gruul Guildgate [RNA:249]
+1 Gruul Guildgate [RNA:250]
+1 Selesnya Guildgate [GRN:255]
+1 Selesnya Guildgate [GRN:256]
+1 Orzhov Guildgate [RNA:252]
+1 Orzhov Guildgate [RNA:253]
+1 Izzet Guildgate [GRN:251]
+1 Izzet Guildgate [GRN:252]
+1 Golgari Guildgate [GRN:248]
+1 Golgari Guildgate [GRN:249]
+1 Boros Guildgate [GRN:243]
+1 Boros Guildgate [GRN:244]
+1 Simic Guildgate [RNA:257]
+1 Simic Guildgate [RNA:258]
 20 Plains [RNA:*]
 20 Island [RNA:*]
 20 Swamp [RNA:*]
