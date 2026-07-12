@@ -1,0 +1,117 @@
+// NAME: Deck Builder's Toolkit
+// SOURCE: https://mtg.wiki/wiki/Ravnica_Allegiance/Deck_Builder%27s_Toolkit
+// DATE: 2019-01-25
+1 Serra's Guardian [M19]
+1 Riddlemaster Sphinx [M19]
+1 Gravewaker [M19]
+1 Shivan Dragon [M19]
+1 Aggressive Mammoth [M19]
+1 Blade Instructor [GRN]
+1 Conclave Tribunal [GRN]
+1 Impassioned Orator
+1 Haazda Marshal [GRN]
+1 Healer's Hawk [GRN]
+1 Luminous Bonds [GRN]
+1 Ministrant of Obligation
+1 Spirit of the Spires
+1 Summary Judgment
+1 Sworn Companions [GRN]
+2 Take Heart [GRN]
+1 Arrester's Admonition
+1 Chemister's Insight [GRN]
+1 Faerie Duelist
+1 Leapfrog [GRN]
+1 Murmuring Mystic [GRN]
+1 Prying Eyes
+1 Pteramander
+1 Sinister Sabotage [GRN]
+1 Shimmer of Possibility
+1 Watcher in the Mist [GRN]
+2 Quench
+1 Barrier of Bones [GRN]
+1 Blade Juggler
+1 Carrion Imp
+1 Cry of the Carnarium
+1 Dead Revels
+1 Moodmark Painter [GRN]
+1 Orzhov Enforcer
+1 Price of Fame [GRN]
+1 Spinal Centipede [GRN]
+1 Whispering Snitch [GRN]
+2 Dead Weight [GRN]
+1 Burn Bright
+1 Clamor Shaman
+1 Electrostatic Field [GRN]
+1 Fire Urchin [GRN]
+1 Goblin Banneret [GRN]
+1 Lava Coil [GRN]
+1 Maximize Velocity [GRN]
+1 Rubblebelt Recluse
+1 Skewer the Critics
+3 Goblin Gathering
+1 Circuitous Route [GRN]
+1 District Guide [GRN]
+1 Golgari Raiders [GRN]
+1 Ironshell Beetle [GRN]
+1 Mammoth Spider
+1 Open the Gates
+1 Rampaging Rendhorn
+1 Siege Wurm [GRN]
+1 Territorial Boar
+1 Trollbred Guardian
+2 Prey Upon [GRN]
+1 Footlight Fiend
+1 Whisper Agent [GRN]
+1 Beacon Bolt [GRN]
+1 Boros Challenger [GRN]
+1 Conclave Cavalier [GRN]
+1 Crackling Drake [GRN]
+1 Dimir Spybug [GRN]
+1 Frilled Mystic
+1 Glowspore Shaman [GRN]
+1 Goblin Electromancer [GRN]
+1 Golgari Findbroker [GRN]
+1 Growth Spiral
+1 Hackrobat
+1 House Guildmage [GRN]
+1 Imperious Oligarch
+1 Lawmage's Binding
+1 Mortify
+1 Pitiless Pontiff
+1 Rakdos Firewheeler
+1 Rhizome Lurcher [GRN]
+1 Rosemane Centaur [GRN]
+1 Savage Smash
+1 Senate Guildmage
+1 Sharktocrab
+1 Skyknight Legionnaire [GRN]
+1 Sphinx of New Prahv
+1 Sunder Shaman
+1 Truefire Captain [GRN]
+1 Worldsoul Colossus [GRN]
+1 Zhur-Taa Goblin
+1 Azorius Locket
+1 Boros Locket [GRN]
+1 Dimir Locket [GRN]
+1 Golgari Locket [GRN]
+1 Gruul Locket
+1 Izzet Locket [GRN]
+1 Orzhov Locket
+1 Rakdos Locket
+1 Selesnya Locket [GRN]
+1 Simic Locket
+2 Azorius Guildgate
+2 Dimir Guildgate [GRN]
+2 Rakdos Guildgate
+2 Gruul Guildgate
+2 Selesnya Guildgate [GRN]
+2 Orzhov Guildgate
+2 Izzet Guildgate [GRN]
+2 Golgari Guildgate [GRN]
+2 Boros Guildgate [GRN]
+2 Simic Guildgate
+20 Plains [RNA:*]
+20 Island [RNA:*]
+20 Swamp [RNA:*]
+20 Mountain [RNA:*]
+20 Forest [RNA:*]
