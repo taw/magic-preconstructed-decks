@@ -1,0 +1,11 @@
+// NAME: Kaladesh Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/kaladesh
+// DATE: 2016-09-30
+// Bundle land pack: 80 non-foil basic lands from the set, 16 of each type
+// (the pre-2019 bundles/fat packs shipped 80 basics). Default-frame basics,
+// so [KLD:*] round-robins the set's printings.
+16 Plains [KLD:*]
+16 Island [KLD:*]
+16 Swamp [KLD:*]
+16 Mountain [KLD:*]
+16 Forest [KLD:*]
