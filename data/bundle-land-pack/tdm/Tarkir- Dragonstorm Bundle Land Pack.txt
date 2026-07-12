@@ -1,0 +1,37 @@
+// NAME: Tarkir: Dragonstorm Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-tarkir-dragonstorm
+// DATE: 2025-04-11
+// Bundle land pack: 15 traditional foil + 15 non-foil basic lands. Each half is
+// 5 full-art dragon's presence lands (#272-276, one per type) plus 10
+// default-frame basics (#277-286, both arts per type). The dragon's eye full-art
+// lands (#287-291) are Collector Booster-only and not included in the bundle.
+1 Plains [TDM:277]
+1 Plains [TDM:278]
+1 Plains [TDM:272]
+1 Island [TDM:279]
+1 Island [TDM:280]
+1 Island [TDM:273]
+1 Swamp [TDM:281]
+1 Swamp [TDM:282]
+1 Swamp [TDM:274]
+1 Mountain [TDM:283]
+1 Mountain [TDM:284]
+1 Mountain [TDM:275]
+1 Forest [TDM:285]
+1 Forest [TDM:286]
+1 Forest [TDM:276]
+1 Plains [TDM:277] [foil]
+1 Plains [TDM:278] [foil]
+1 Plains [TDM:272] [foil]
+1 Island [TDM:279] [foil]
+1 Island [TDM:280] [foil]
+1 Island [TDM:273] [foil]
+1 Swamp [TDM:281] [foil]
+1 Swamp [TDM:282] [foil]
+1 Swamp [TDM:274] [foil]
+1 Mountain [TDM:283] [foil]
+1 Mountain [TDM:284] [foil]
+1 Mountain [TDM:275] [foil]
+1 Forest [TDM:285] [foil]
+1 Forest [TDM:286] [foil]
+1 Forest [TDM:276] [foil]
