@@ -10,7 +10,7 @@
 1 Badgermole
 1 Bumi, Eclectic Earthbender [TLE:248]
 1 Rocky Rebuke
-1 Explore
+1 Explore [TLE]
 1 Pillar Launch
 1 Earth Rumble
 1 Thriving Grove [TLE]
