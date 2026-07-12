@@ -1,0 +1,11 @@
+// NAME: Avacyn Restored Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2012-05-04
+// Fat Pack land pack: 70 non-foil basic lands from the set, 14 of each type
+// (the Innistrad-block fat packs shipped 70 basics). Default-frame basics, so
+// [AVR:*] round-robins the set's printings.
+14 Plains [AVR:*]
+14 Island [AVR:*]
+14 Swamp [AVR:*]
+14 Mountain [AVR:*]
+14 Forest [AVR:*]
