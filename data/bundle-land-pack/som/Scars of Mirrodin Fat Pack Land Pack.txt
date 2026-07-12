@@ -1,0 +1,10 @@
+// NAME: Scars of Mirrodin Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2010-10-01
+// Fat Pack land pack: 40 non-foil basic lands from the set, 8 of each
+// type. Default-frame basics, so [SOM:*] round-robins the set's printings.
+8 Plains [SOM:*]
+8 Island [SOM:*]
+8 Swamp [SOM:*]
+8 Mountain [SOM:*]
+8 Forest [SOM:*]
