@@ -78,7 +78,8 @@ bundle-land-pack:
   name: "Bundle Land Pack"
   sections:
     # 75 = Guilds of Ravnica / Ravnica Allegiance bundle (70 non-foil + 5 foil)
-    Main Deck: [15, 20, 30, 32, 40, 70, 75, 80]
+    # 90 = Marvel Super Heroes Draft Night land pack (18 of each type)
+    Main Deck: [15, 20, 30, 32, 40, 70, 75, 80, 90]
 challenge:
   category: "deck"
   format: null
