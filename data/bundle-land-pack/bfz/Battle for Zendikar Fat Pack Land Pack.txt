@@ -1,0 +1,32 @@
+// NAME: Battle for Zendikar Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2015-10-02
+// Fat Pack land pack: 80 non-foil full-art basic lands, 16 of each type.
+// Battle for Zendikar's basics are its signature full-art lands (#250-274),
+// listed explicitly because [BFZ:*] resolves to the non-full-art printings
+// (#250a-274a), which is what the smaller Gift Box uses.
+4 Plains [BFZ:250]
+3 Plains [BFZ:251]
+3 Plains [BFZ:252]
+3 Plains [BFZ:253]
+3 Plains [BFZ:254]
+4 Island [BFZ:255]
+3 Island [BFZ:256]
+3 Island [BFZ:257]
+3 Island [BFZ:258]
+3 Island [BFZ:259]
+4 Swamp [BFZ:260]
+3 Swamp [BFZ:261]
+3 Swamp [BFZ:262]
+3 Swamp [BFZ:263]
+3 Swamp [BFZ:264]
+4 Mountain [BFZ:265]
+3 Mountain [BFZ:266]
+3 Mountain [BFZ:267]
+3 Mountain [BFZ:268]
+3 Mountain [BFZ:269]
+4 Forest [BFZ:270]
+3 Forest [BFZ:271]
+3 Forest [BFZ:272]
+3 Forest [BFZ:273]
+3 Forest [BFZ:274]
