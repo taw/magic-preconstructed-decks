@@ -77,7 +77,8 @@ bundle-land-pack:
   format: null
   name: "Bundle Land Pack"
   sections:
-    Main Deck: [30, 32, 40]
+    # 15 = split foil/non-foil kit packs (e.g. SPM Web-Slingers Kit foil pack)
+    Main Deck: [15, 30, 32, 40]
 challenge:
   category: "deck"
   format: null

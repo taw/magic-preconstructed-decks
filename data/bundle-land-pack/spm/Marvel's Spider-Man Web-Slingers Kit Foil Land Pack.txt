@@ -1,0 +1,11 @@
+// NAME: Marvel's Spider-Man Web-Slingers Kit Foil Land Pack
+// SOURCE: https://www.tcgplayer.com/product/663011/magic-marvels-spider-man-marvels-spider-man-web-slingers-kit
+// DATE: 2025-09-26
+// Costco-exclusive Web-Slingers Kit: 15 traditional foil default-frame basic
+// lands, 3 of each type. Bulk default basics, so uses the [SPM:*] round-robin
+// (which resolves to the default-frame printings, not the spiderweb full-arts).
+3 Plains [SPM:*] [foil]
+3 Island [SPM:*] [foil]
+3 Swamp [SPM:*] [foil]
+3 Mountain [SPM:*] [foil]
+3 Forest [SPM:*] [foil]
