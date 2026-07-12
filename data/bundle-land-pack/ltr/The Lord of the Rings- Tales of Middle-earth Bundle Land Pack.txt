@@ -1,0 +1,16 @@
+// NAME: The Lord of the Rings: Tales of Middle-earth Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/the-lord-of-the-rings-tales-of-middle-earth
+// DATE: 2023-06-23
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish. The bundle uses the regular default-frame basics
+// (the set's full-art lands are booster-only), so [LTR:*] round-robins those.
+4 Plains [LTR:*]
+4 Island [LTR:*]
+4 Swamp [LTR:*]
+4 Mountain [LTR:*]
+4 Forest [LTR:*]
+4 Plains [LTR:*] [foil]
+4 Island [LTR:*] [foil]
+4 Swamp [LTR:*] [foil]
+4 Mountain [LTR:*] [foil]
+4 Forest [LTR:*] [foil]

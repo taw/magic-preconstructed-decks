@@ -1,0 +1,16 @@
+// NAME: Wilds of Eldraine Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/wilds-of-eldraine
+// DATE: 2023-09-08
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish. The bundle uses the regular default-frame basics
+// (the set's full-art lands are booster-only), so [WOE:*] round-robins those.
+4 Plains [WOE:*]
+4 Island [WOE:*]
+4 Swamp [WOE:*]
+4 Mountain [WOE:*]
+4 Forest [WOE:*]
+4 Plains [WOE:*] [foil]
+4 Island [WOE:*] [foil]
+4 Swamp [WOE:*] [foil]
+4 Mountain [WOE:*] [foil]
+4 Forest [WOE:*] [foil]
