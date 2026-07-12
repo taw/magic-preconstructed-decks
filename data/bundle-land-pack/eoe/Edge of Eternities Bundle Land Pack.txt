@@ -1,0 +1,26 @@
+// NAME: Edge of Eternities Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/edge-of-eternities
+// DATE: 2025-08-01
+// Bundle land pack: 30 basic lands = 10 full-art + 20 default-frame.
+// Full-art printings listed explicitly; default-frame via [EOE:*] round-robin
+// (which resolves to the non-full-art printings).
+2 Plains [EOE:*]
+2 Plains [EOE:*] [foil]
+1 Plains [EOE:262]
+1 Plains [EOE:262] [foil]
+2 Island [EOE:*]
+2 Island [EOE:*] [foil]
+1 Island [EOE:263]
+1 Island [EOE:263] [foil]
+2 Swamp [EOE:*]
+2 Swamp [EOE:*] [foil]
+1 Swamp [EOE:264]
+1 Swamp [EOE:264] [foil]
+2 Mountain [EOE:*]
+2 Mountain [EOE:*] [foil]
+1 Mountain [EOE:265]
+1 Mountain [EOE:265] [foil]
+2 Forest [EOE:*]
+2 Forest [EOE:*] [foil]
+1 Forest [EOE:266]
+1 Forest [EOE:266] [foil]

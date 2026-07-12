@@ -1,0 +1,26 @@
+// NAME: Aetherdrift Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/aetherdrift
+// DATE: 2025-02-14
+// Bundle land pack: 40 basic lands = 10 full-art + 30 default-frame.
+// Full-art printings listed explicitly; default-frame via [DFT:*] round-robin
+// (which resolves to the non-full-art printings).
+3 Plains [DFT:*]
+3 Plains [DFT:*] [foil]
+1 Plains [DFT:272]
+1 Plains [DFT:272] [foil]
+3 Island [DFT:*]
+3 Island [DFT:*] [foil]
+1 Island [DFT:273]
+1 Island [DFT:273] [foil]
+3 Swamp [DFT:*]
+3 Swamp [DFT:*] [foil]
+1 Swamp [DFT:274]
+1 Swamp [DFT:274] [foil]
+3 Mountain [DFT:*]
+3 Mountain [DFT:*] [foil]
+1 Mountain [DFT:275]
+1 Mountain [DFT:275] [foil]
+3 Forest [DFT:*]
+3 Forest [DFT:*] [foil]
+1 Forest [DFT:276]
+1 Forest [DFT:276] [foil]
