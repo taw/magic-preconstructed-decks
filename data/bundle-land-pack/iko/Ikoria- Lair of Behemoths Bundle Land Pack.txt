@@ -1,0 +1,16 @@
+// NAME: Ikoria: Lair of Behemoths Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/ikoria-lair-of-behemoths
+// DATE: 2020-04-24
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish (per the sealed-content contents). Default-frame
+// basics, so [IKO:*] round-robins the set's printings.
+4 Plains [IKO:*]
+4 Island [IKO:*]
+4 Swamp [IKO:*]
+4 Mountain [IKO:*]
+4 Forest [IKO:*]
+4 Plains [IKO:*] [foil]
+4 Island [IKO:*] [foil]
+4 Swamp [IKO:*] [foil]
+4 Mountain [IKO:*] [foil]
+4 Forest [IKO:*] [foil]
