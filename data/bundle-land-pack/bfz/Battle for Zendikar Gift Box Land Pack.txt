@@ -1,0 +1,28 @@
+// NAME: Battle for Zendikar Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2015-11-13
+// Gift Box land pack: 20 non-foil basic lands, 4 of each type. Unlike the other
+// gift boxes, these are the set's full-art basic lands (#250-274), so they are
+// listed explicitly -- [BFZ:*] would resolve to the non-full-art printings
+// (#250a-274a). The pack is a random assortment; this is a representative
+// selection of 4 of the 5 full-art arts per type.
+1 Plains [BFZ:250]
+1 Plains [BFZ:251]
+1 Plains [BFZ:252]
+1 Plains [BFZ:253]
+1 Island [BFZ:255]
+1 Island [BFZ:256]
+1 Island [BFZ:257]
+1 Island [BFZ:258]
+1 Swamp [BFZ:260]
+1 Swamp [BFZ:261]
+1 Swamp [BFZ:262]
+1 Swamp [BFZ:263]
+1 Mountain [BFZ:265]
+1 Mountain [BFZ:266]
+1 Mountain [BFZ:267]
+1 Mountain [BFZ:268]
+1 Forest [BFZ:270]
+1 Forest [BFZ:271]
+1 Forest [BFZ:272]
+1 Forest [BFZ:273]

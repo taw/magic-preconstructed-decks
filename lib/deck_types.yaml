@@ -77,7 +77,8 @@ bundle-land-pack:
   format: null
   name: "Bundle Land Pack"
   sections:
-    Main Deck: [30, 32, 40]
+    # 20 = holiday/gift-box land pack (20 basic lands)
+    Main Deck: [20, 30, 32, 40]
 challenge:
   category: "deck"
   format: null
