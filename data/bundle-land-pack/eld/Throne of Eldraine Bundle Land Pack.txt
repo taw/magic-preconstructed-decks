@@ -1,0 +1,16 @@
+// NAME: Throne of Eldraine Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/throne-of-eldraine
+// DATE: 2019-10-04
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish (per the sealed-content contents). Default-frame
+// basics, so [ELD:*] round-robins the set's printings.
+4 Plains [ELD:*]
+4 Island [ELD:*]
+4 Swamp [ELD:*]
+4 Mountain [ELD:*]
+4 Forest [ELD:*]
+4 Plains [ELD:*] [foil]
+4 Island [ELD:*] [foil]
+4 Swamp [ELD:*] [foil]
+4 Mountain [ELD:*] [foil]
+4 Forest [ELD:*] [foil]

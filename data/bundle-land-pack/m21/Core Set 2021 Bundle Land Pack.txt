@@ -1,0 +1,16 @@
+// NAME: Core Set 2021 Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/core-set-2021
+// DATE: 2020-07-03
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish (per the sealed-content contents). Default-frame
+// basics, so [M21:*] round-robins the set's printings.
+4 Plains [M21:*]
+4 Island [M21:*]
+4 Swamp [M21:*]
+4 Mountain [M21:*]
+4 Forest [M21:*]
+4 Plains [M21:*] [foil]
+4 Island [M21:*] [foil]
+4 Swamp [M21:*] [foil]
+4 Mountain [M21:*] [foil]
+4 Forest [M21:*] [foil]
