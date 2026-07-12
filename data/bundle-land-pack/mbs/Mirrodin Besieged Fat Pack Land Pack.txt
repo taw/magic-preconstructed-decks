@@ -1,0 +1,16 @@
+// NAME: Mirrodin Besieged Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2011-02-04
+// Fat Pack land pack: 80 non-foil basic lands -- 40 from Scars of Mirrodin
+// and 40 from Mirrodin Besieged (8 of each type per set). Default-frame basics, so
+// [SOM:*] and [MBS:*] round-robin each set's printings.
+8 Plains [SOM:*]
+8 Plains [MBS:*]
+8 Island [SOM:*]
+8 Island [MBS:*]
+8 Swamp [SOM:*]
+8 Swamp [MBS:*]
+8 Mountain [SOM:*]
+8 Mountain [MBS:*]
+8 Forest [SOM:*]
+8 Forest [MBS:*]
