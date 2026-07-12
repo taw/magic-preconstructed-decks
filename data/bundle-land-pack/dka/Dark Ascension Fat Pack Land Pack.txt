@@ -1,0 +1,12 @@
+// NAME: Dark Ascension Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2012-02-03
+// Fat Pack land pack: 70 non-foil basic lands, 14 of each type. Dark Ascension
+// has no basic lands of its own, so its fat pack used Innistrad basics; like
+// Innistrad it swapped 10 lands for 10 checklist cards (80 -> 70). Default-frame,
+// so [ISD:*] round-robins the Innistrad printings.
+14 Plains [ISD:*]
+14 Island [ISD:*]
+14 Swamp [ISD:*]
+14 Mountain [ISD:*]
+14 Forest [ISD:*]
