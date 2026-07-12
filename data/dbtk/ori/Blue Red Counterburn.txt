@@ -1,0 +1,13 @@
+// NAME: Blue Red Counterburn
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Ravaging Blaze
+1 Goblinslide [KTK]
+1 Master the Way [KTK]
+1 Skywise Teachings [DTK]
+1 Fiery Impulse
+1 Send to Sleep
+1 Cancel [KTK]
+1 Cunning Strike [FRF]
+1 Elusive Spellfist [DTK]
+1 Twin Bolt [DTK]

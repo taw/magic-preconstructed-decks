@@ -1,0 +1,13 @@
+// NAME: Red and Colorless RampLandfall
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Bane of Bala Ged [BFZ]
+1 Hedron Archive [BFZ]
+1 Devour in Flames [OGW]
+1 Embodiment of Fury [OGW]
+1 Scour from Existence [BFZ]
+1 Makindi Sliderunner [BFZ]
+1 Valakut Predator [BFZ]
+1 Sparkmage's Gambit [OGW]
+1 Hedron Crawler [OGW]
+1 Seer's Lantern [OGW]

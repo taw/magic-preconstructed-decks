@@ -1,0 +1,13 @@
+// NAME: Blue and Black Control
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Windrider Patrol [BFZ]
+1 Blighted Cataract [BFZ]
+1 Pale Rider of Trostad
+1 Sinister Concoction
+1 Coralhelm Guide [BFZ]
+1 Negate [OGW]
+1 Corpse Churn [OGW]
+1 Furtive Homunculus
+1 Dead Weight
+1 Sanitarium Skeleton

@@ -1,0 +1,13 @@
+// NAME: Black and Red Attrition
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Rolling Thunder [BFZ]
+1 Blighted Fen [BFZ]
+1 Grasp of Darkness [OGW]
+1 Ghoulsteed
+1 Demon's Grasp [BFZ]
+1 Goblin War Paint [BFZ]
+1 Tar Snare [OGW]
+1 Cinder Hellion [OGW]
+1 Ember-Eye Wolf
+1 Rancid Rats

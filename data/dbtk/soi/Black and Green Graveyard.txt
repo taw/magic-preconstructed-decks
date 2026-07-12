@@ -1,0 +1,13 @@
+// NAME: Black and Green Graveyard
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Carrier Thrall [BFZ]
+1 Vampiric Rites [BFZ]
+1 Rot Shambler [BFZ]
+1 Seed Guardian [OGW]
+1 Bone Splinters [BFZ]
+1 Voracious Null [BFZ]
+1 Plummet [BFZ]
+1 Pulse of Murasa [OGW]
+1 Vines of the Recluse [OGW]
+1 Ghoulcaller's Accomplice

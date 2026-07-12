@@ -1,0 +1,13 @@
+// NAME: White Green Aggro
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Valeron Wardens
+1 Citadel Castellan
+1 Abzan Falconer [KTK]
+1 Incremental Growth [KTK]
+1 Enshrouding Mist
+1 Topan Freeblade
+1 Pharika's Disciple
+1 Rhox Maulers
+1 Dragonscale Boon [KTK]
+1 Sandblast [FRF]

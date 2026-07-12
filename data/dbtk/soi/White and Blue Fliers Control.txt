@@ -1,0 +1,13 @@
+// NAME: White and Blue Fliers Control
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Angel of Renewal [BFZ]
+1 Dampening Pulse [BFZ]
+1 Blighted Steppe [BFZ]
+1 Reflector Mage [OGW]
+1 Felidar Cub [BFZ]
+1 Gideon's Reproach [BFZ]
+1 Kor Sky Climber [OGW]
+1 Dispel [BFZ]
+1 Stormrider Spirit
+1 Tightening Coils [BFZ]

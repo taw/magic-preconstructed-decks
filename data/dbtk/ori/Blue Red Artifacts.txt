@@ -1,0 +1,13 @@
+// NAME: Blue Red Artifacts
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Thopter Engineer
+1 Chief of the Foundry
+1 Reclusive Artificer
+1 Briber's Purse [KTK]
+1 Guardian Automaton
+1 Aspiring Aeronaut
+1 Ghirapur Gearcrafter
+1 Singing Bell Strike [KTK]
+1 Bathe in Dragonfire [FRF]
+1 Spidersilk Net [DTK]
