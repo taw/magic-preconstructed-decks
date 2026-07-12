@@ -1,13 +1,15 @@
 // NAME: Ravnica Allegiance Bundle Land Pack
 // SOURCE: https://mtg.wiki/page/Ravnica_Allegiance
 // DATE: 2019-01-25
-4 Plains [RNA:260]
-4 Plains [RNA:260] [foil]
-4 Island [RNA:261]
-4 Island [RNA:261] [foil]
-4 Swamp [RNA:262]
-4 Swamp [RNA:262] [foil]
-4 Mountain [RNA:263]
-4 Mountain [RNA:263] [foil]
-4 Forest [RNA:264]
-4 Forest [RNA:264] [foil]
+// Bundle land pack: 75 basic lands, 5 of them traditional foil (70 non-foil +
+// 5 foil, i.e. 14 non-foil + 1 foil of each type). Single default art per type.
+14 Plains [RNA:260]
+1 Plains [RNA:260] [foil]
+14 Island [RNA:261]
+1 Island [RNA:261] [foil]
+14 Swamp [RNA:262]
+1 Swamp [RNA:262] [foil]
+14 Mountain [RNA:263]
+1 Mountain [RNA:263] [foil]
+14 Forest [RNA:264]
+1 Forest [RNA:264] [foil]
