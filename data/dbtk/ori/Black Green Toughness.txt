@@ -1,0 +1,13 @@
+// NAME: Black Green Toughness
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Kheru Bloodsucker [KTK]
+1 Sultai Flayer [KTK]
+1 Kin-Tree Invocation [KTK]
+1 Sight of the Scalelords [DTK]
+1 Hitchclaw Recluse
+1 Rotting Mastodon [KTK]
+1 Reach of Shadows [FRF]
+1 Grim Contest [FRF]
+1 Coat with Venom [DTK]
+1 Colossodon Yearling [DTK]

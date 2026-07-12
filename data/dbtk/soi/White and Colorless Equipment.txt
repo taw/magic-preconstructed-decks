@@ -1,0 +1,13 @@
+// NAME: White and Colorless Equipment
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Immolating Glare [OGW]
+1 Chitinous Cloak [OGW]
+1 Strider Harness [OGW]
+1 Open the Armory
+1 Kozilek's Channeler [BFZ]
+1 Kor Scythemaster [OGW]
+1 Bone Saw [OGW]
+1 Militant Inquisitor
+1 Stern Constable
+1 True-Faith Censer

@@ -1,0 +1,80 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Aegis Angel
+1 Mahamoti Djinn
+1 Nightmare
+1 Shivan Dragon
+1 Terra Stomper
+1 Serra Angel
+1 Silkwrap [DTK]
+1 Divine Verdict
+1 Eagle of the Watch
+1 Alabaster Kirin [KTK]
+1 Celestial Flare
+1 Erase [KTK]
+1 Feat of Resistance [KTK]
+1 Aven Skirmisher [FRF]
+1 Artful Maneuver [DTK]
+1 Pacifism [DTK]
+1 Frost Walker [FRF]
+1 Into the Void
+1 Weave Fate
+1 Disdainful Stroke [KTK]
+1 Claustrophobia
+1 Singing Bell Strike [KTK]
+1 Faerie Miscreant
+1 Aven Surveyor [FRF]
+1 Anticipate [DTK]
+1 Elusive Spellfist [DTK]
+1 Negate
+1 Sengir Vampire
+1 Ultimate Price [DTK]
+1 Mind Rot
+1 Flesh to Dust
+1 Reave Soul
+1 Deadbridge Shaman
+1 Debilitating Injury [KTK]
+1 Hooded Assassin [FRF]
+1 Typhoid Rats [FRF]
+1 Flatten [DTK]
+1 Hand of Silumgar [DTK]
+1 Arc Lightning [KTK]
+1 Wild Slash [FRF]
+1 Fiery Hellhound
+1 Act of Treason
+1 Dragon Fodder
+1 Prickleboar
+1 Trumpet Blast [KTK]
+1 Bathe in Dragonfire [FRF]
+1 Mardu Scout [FRF]
+1 Tormenting Voice [KTK]
+1 Twin Bolt [DTK]
+1 Prized Unicorn
+1 Heir of the Wilds [KTK]
+1 Elvish Visionary
+1 Nissa's Pilgrimage
+1 Titanic Growth
+1 Plummet
+1 Dragonscale Boon [KTK]
+1 Naturalize [KTK]
+1 Ainok Guide [FRF]
+1 Whisperer of the Wilds [FRF]
+1 Colossodon Yearling [DTK]
+1 Spidersilk Net [DTK]
+4 Evolving Wilds
+2 Rugged Highlands [KTK]
+2 Wind-Scarred Crag [KTK]
+2 Thornwood Falls [KTK]
+2 Scoured Barrens [KTK]
+2 Bloodfell Caves [KTK]
+2 Blossoming Sands [KTK]
+2 Dismal Backwater [KTK]
+2 Jungle Hollow [KTK]
+2 Swiftwater Cliffs [KTK]
+2 Tranquil Cove [KTK]
+20 Plains [ORI:*]
+20 Island [ORI:*]
+20 Swamp [ORI:*]
+20 Mountain [ORI:*]
+20 Forest [ORI:*]

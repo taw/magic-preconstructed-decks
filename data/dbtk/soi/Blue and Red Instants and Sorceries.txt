@@ -1,0 +1,13 @@
+// NAME: Blue and Red Instants and Sorceries
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Reckless Bushwhacker [OGW]
+1 Pore Over the Pages
+1 Rise from the Tides
+1 Geistblast
+1 Anticipate [BFZ]
+1 Cloud Manta [BFZ]
+1 Slip Through Space [OGW]
+1 Expedite [OGW]
+1 Pyre Hound
+1 Sanguinary Mage

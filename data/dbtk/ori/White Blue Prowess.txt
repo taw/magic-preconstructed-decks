@@ -1,0 +1,13 @@
+// NAME: White Blue Prowess
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Suspension Field [KTK]
+1 Mistfire Adept [FRF]
+1 Strongarm Monk [DTK]
+1 Void Squall [DTK]
+1 Ringwarden Owl
+1 Jeskai Student [KTK]
+1 Weave Fate
+1 Artful Maneuver [DTK]
+1 Student of Ojutai [DTK]
+1 Ojutai's Breath [DTK]

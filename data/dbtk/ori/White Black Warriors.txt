@@ -1,0 +1,13 @@
+// NAME: White Black Warriors
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Chief of the Edge [KTK]
+1 Chief of the Scale [KTK]
+1 Mardu Woe-Reaper [FRF]
+1 Blood-Chin Rager [DTK]
+1 Rush of Battle [KTK]
+1 Aven Skirmisher [FRF]
+1 Harsh Sustenance [FRF]
+1 Herald of Dromoka [DTK]
+1 Hand of Silumgar [DTK]
+1 Flatten [DTK]

@@ -1,0 +1,13 @@
+// NAME: White Black Auras
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Totem-Guide Hartebeest
+1 Blightcaster
+1 Blood-Cursed Knight
+1 Sage's Reverie [FRF]
+1 Infernal Scarring
+1 Fetid Imp
+1 Auramancer
+1 Debilitating Injury [KTK]
+1 Ancestral Vengeance [FRF]
+1 Pacifism [DTK]
