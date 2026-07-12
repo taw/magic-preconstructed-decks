@@ -1,0 +1,26 @@
+// NAME: Duskmourn: House of Horror Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/duskmourn-house-of-horror
+// DATE: 2024-09-27
+// Bundle land pack: 30 basic lands = 10 full-art + 20 default-frame.
+// Full-art printings listed explicitly; default-frame via [DSK:*] round-robin
+// (which resolves to the non-full-art printings).
+2 Plains [DSK:*]
+2 Plains [DSK:*] [foil]
+1 Plains [DSK:272]
+1 Plains [DSK:272] [foil]
+2 Island [DSK:*]
+2 Island [DSK:*] [foil]
+1 Island [DSK:273]
+1 Island [DSK:273] [foil]
+2 Swamp [DSK:*]
+2 Swamp [DSK:*] [foil]
+1 Swamp [DSK:274]
+1 Swamp [DSK:274] [foil]
+2 Mountain [DSK:*]
+2 Mountain [DSK:*] [foil]
+1 Mountain [DSK:275]
+1 Mountain [DSK:275] [foil]
+2 Forest [DSK:*]
+2 Forest [DSK:*] [foil]
+1 Forest [DSK:276]
+1 Forest [DSK:276] [foil]

@@ -1,0 +1,16 @@
+// NAME: Hour of Devastation Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/hour-of-devastation
+// DATE: 2017-07-14
+// Bundle land pack: 80 basic lands = 20 full-art + 60 default-frame.
+// Full-art printings listed explicitly; default-frame via [HOU:*] round-robin
+// (which resolves to the non-full-art printings).
+12 Plains [HOU:*]
+4 Plains [HOU:185]
+12 Island [HOU:*]
+4 Island [HOU:186]
+12 Swamp [HOU:*]
+4 Swamp [HOU:187]
+12 Mountain [HOU:*]
+4 Mountain [HOU:188]
+12 Forest [HOU:*]
+4 Forest [HOU:189]
