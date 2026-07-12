@@ -1,7 +1,7 @@
 // NAME: Beginner Box - Waterbending
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
 // DATE: 2025-11-14
-1 Flying Dolphin-Fish
+1 Flying Dolphin-Fish [TLE]
 1 Otter-Penguin
 1 Katara, Bending Prodigy
 1 Sokka, Lateral Strategist
