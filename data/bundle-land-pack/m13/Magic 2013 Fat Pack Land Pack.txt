@@ -1,0 +1,11 @@
+// NAME: Magic 2013 Fat Pack Land Pack
+// SOURCE: https://magic.wizards.com/en/products/magic-2013
+// DATE: 2012-07-13
+// Fat Pack land pack: 80 non-foil basic lands from the set, 16 of each type
+// (the pre-2019 fat packs shipped 80 basics). Default-frame basics, so
+// [M13:*] round-robins the set's printings.
+16 Plains [M13:*]
+16 Island [M13:*]
+16 Swamp [M13:*]
+16 Mountain [M13:*]
+16 Forest [M13:*]
