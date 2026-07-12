@@ -1,0 +1,10 @@
+// NAME: Innistrad Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2011-09-30
+// Fat Pack land pack: 80 non-foil basic lands from the set, 16 of each
+// type. Default-frame basics, so [ISD:*] round-robins the set's printings.
+16 Plains [ISD:*]
+16 Island [ISD:*]
+16 Swamp [ISD:*]
+16 Mountain [ISD:*]
+16 Forest [ISD:*]
