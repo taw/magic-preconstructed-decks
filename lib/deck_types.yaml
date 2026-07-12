@@ -77,7 +77,10 @@ bundle-land-pack:
   format: null
   name: "Bundle Land Pack"
   sections:
-    Main Deck: [30, 32, 40]
+    # 15 = a single-finish half pack (foil or non-foil) used as a reusable unit,
+    # e.g. SPM's foil / non-foil packs shared across the Bundle, Gift Bundle, and
+    # Web-Slingers Kit
+    Main Deck: [15, 30, 32, 40]
 challenge:
   category: "deck"
   format: null
