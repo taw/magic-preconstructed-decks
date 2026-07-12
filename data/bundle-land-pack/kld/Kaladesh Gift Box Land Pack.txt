@@ -1,0 +1,10 @@
+// NAME: Kaladesh Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2016-11-25
+// Gift Box land pack: 20 non-foil basic lands from the set, 4 of each type.
+// Default-frame basics, so [KLD:*] round-robins the set's printings.
+4 Plains [KLD:*]
+4 Island [KLD:*]
+4 Swamp [KLD:*]
+4 Mountain [KLD:*]
+4 Forest [KLD:*]
