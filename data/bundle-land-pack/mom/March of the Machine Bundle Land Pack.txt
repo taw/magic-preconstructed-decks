@@ -1,0 +1,16 @@
+// NAME: March of the Machine Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/march-of-the-machine
+// DATE: 2023-04-21
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish. The bundle uses the regular default-frame basics
+// (the set's full-art lands are booster-only), so [MOM:*] round-robins those.
+4 Plains [MOM:*]
+4 Island [MOM:*]
+4 Swamp [MOM:*]
+4 Mountain [MOM:*]
+4 Forest [MOM:*]
+4 Plains [MOM:*] [foil]
+4 Island [MOM:*] [foil]
+4 Swamp [MOM:*] [foil]
+4 Mountain [MOM:*] [foil]
+4 Forest [MOM:*] [foil]

@@ -1,0 +1,16 @@
+// NAME: Kamigawa: Neon Dynasty Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/kamigawa-neon-dynasty
+// DATE: 2022-02-18
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil,
+// 4 of each type per finish. The bundle uses the regular default-frame basics
+// (the set's full-art lands are booster-only), so [NEO:*] round-robins those.
+4 Plains [NEO:*]
+4 Island [NEO:*]
+4 Swamp [NEO:*]
+4 Mountain [NEO:*]
+4 Forest [NEO:*]
+4 Plains [NEO:*] [foil]
+4 Island [NEO:*] [foil]
+4 Swamp [NEO:*] [foil]
+4 Mountain [NEO:*] [foil]
+4 Forest [NEO:*] [foil]
