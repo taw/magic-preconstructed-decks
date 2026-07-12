@@ -1,0 +1,12 @@
+// NAME: Midrange Green
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Roaring Primadox
+1 Acidic Slime
+2 Borderland Ranger [AVR]
+1 Elvish Visionary
+1 Yeva's Forcemage
+1 Mwonvuli Beast Tracker
+1 Bond Beetle
+1 Timberland Guide [AVR]
+1 Briarpack Alpha [DKA]

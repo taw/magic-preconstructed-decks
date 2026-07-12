@@ -1,0 +1,13 @@
+// NAME: Tokens
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Vitu-Ghazi Guildmage [RTR]
+1 Call of the Conclave [RTR]
+1 Slime Molding [RTR]
+1 Trostani's Summoner [DGM]
+1 Coursers' Accord [RTR]
+1 Centaur's Herald [RTR]
+1 Trostani's Judgment [RTR]
+1 Druid's Deliverance [RTR]
+1 Eyes in the Skies [RTR]
+1 Seller of Songbirds [RTR]

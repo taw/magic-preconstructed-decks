@@ -1,0 +1,12 @@
+// NAME: Library Depletion
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Psychic Spiral [RTR]
+1 Codex Shredder [RTR]
+1 Millstone
+1 Coerced Confession [GTC]
+2 Tome Scour
+1 Doorkeeper [RTR]
+1 Psychic Strike [GTC]
+1 Paranoid Delusions [GTC]
+1 Pilfered Plans [DGM]

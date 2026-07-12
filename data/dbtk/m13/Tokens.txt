@@ -1,0 +1,12 @@
+// NAME: Tokens
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Intangible Virtue [ISD]
+1 Moan of the Unhallowed [ISD]
+1 Captain's Call
+1 Gather the Townsfolk [DKA]
+2 Vile Rebirth
+1 Lingering Souls [DKA]
+1 Goldnight Redeemer [AVR]
+1 Attended Knight
+1 Glorious Charge

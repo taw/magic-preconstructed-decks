@@ -1,0 +1,12 @@
+// NAME: Vampires
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Vampire Nighthawk
+1 Rakish Heir [ISD]
+1 Vampiric Fury [ISD]
+1 Stromkirk Captain [DKA]
+2 Crossway Vampire [ISD]
+1 Vampire Interloper [ISD]
+1 Falkenrath Noble [ISD]
+1 Bloodcrazed Neonate [ISD]
+1 Victim of Night [ISD]
