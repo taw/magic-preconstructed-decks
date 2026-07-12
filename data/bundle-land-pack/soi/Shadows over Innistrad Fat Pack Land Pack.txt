@@ -1,0 +1,11 @@
+// NAME: Shadows over Innistrad Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2016-04-08
+// Fat Pack land pack: 80 non-foil basic lands from the set, 16 of each type.
+// Default-frame basics, so [SOI:*] round-robins the set's printings. (Distinct
+// from this set's 20-card Holiday Gift Box land pack.)
+16 Plains [SOI:*]
+16 Island [SOI:*]
+16 Swamp [SOI:*]
+16 Mountain [SOI:*]
+16 Forest [SOI:*]

@@ -77,7 +77,8 @@ bundle-land-pack:
   format: null
   name: "Bundle Land Pack"
   sections:
-    Main Deck: [30, 32, 40]
+    # 80 = pre-2019 fat-pack / bundle land pack
+    Main Deck: [30, 32, 40, 80]
 challenge:
   category: "deck"
   format: null
