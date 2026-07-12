@@ -1,0 +1,15 @@
+// NAME: Commander Legends: Battle for Baldur's Gate Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/commander-legends-battle-for-baldurs-gate
+// DATE: 2022-06-10
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil, 4 of each
+// type per finish. Default-frame basics, so [CLB:*] round-robins the printings.
+4 Plains [CLB:*]
+4 Island [CLB:*]
+4 Swamp [CLB:*]
+4 Mountain [CLB:*]
+4 Forest [CLB:*]
+4 Plains [CLB:*] [foil]
+4 Island [CLB:*] [foil]
+4 Swamp [CLB:*] [foil]
+4 Mountain [CLB:*] [foil]
+4 Forest [CLB:*] [foil]
