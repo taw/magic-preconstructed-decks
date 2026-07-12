@@ -1,0 +1,15 @@
+// NAME: Teenage Mutant Ninja Turtles Pizza Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles
+// DATE: 2026-03-06
+// Pizza Bundle land pack: 30 full-art "pizza" basic lands (the Gaboleps art,
+// #253-257), 5 non-foil + 1 traditional foil of each type (25 non-foil + 5 foil).
+5 Plains [TMT:253]
+1 Plains [TMT:253] [foil]
+5 Island [TMT:254]
+1 Island [TMT:254] [foil]
+5 Swamp [TMT:255]
+1 Swamp [TMT:255] [foil]
+5 Mountain [TMT:256]
+1 Mountain [TMT:256] [foil]
+5 Forest [TMT:257]
+1 Forest [TMT:257] [foil]
