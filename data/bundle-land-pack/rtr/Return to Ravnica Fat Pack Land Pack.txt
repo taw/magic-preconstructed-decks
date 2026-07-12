@@ -1,0 +1,11 @@
+// NAME: Return to Ravnica Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2012-10-05
+// Fat Pack land pack: 80 non-foil basic lands from the set, 16 of each type.
+// Default-frame basics, so [RTR:*] round-robins the set's printings. (Distinct
+// from this set's 20-card Holiday Gift Box land pack.)
+16 Plains [RTR:*]
+16 Island [RTR:*]
+16 Swamp [RTR:*]
+16 Mountain [RTR:*]
+16 Forest [RTR:*]
