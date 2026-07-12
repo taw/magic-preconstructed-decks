@@ -1,11 +1,11 @@
 // NAME: Beginner Box - Attacking
 // SOURCE: https://magic.wizards.com/en/news/announcements/avatar-the-last-airbender-beginner-box-contents
 // DATE: 2025-11-14
-1 Purple Pentapus
+1 Purple Pentapus [TLE]
 1 Corrupt Court Official
 1 Merchant of Many Hats
 1 Pretending Poxbearers
-1 Fire Nation Ambushers
+1 Fire Nation Ambushers [TLE]
 1 Hei Bai, Spirit of Balance
 1 Lion Vulture [TLE:232]
 1 Beetle-Headed Merchants
