@@ -77,7 +77,8 @@ bundle-land-pack:
   format: null
   name: "Bundle Land Pack"
   sections:
-    Main Deck: [30, 32, 40]
+    # 75 = Guilds of Ravnica / Ravnica Allegiance bundle (70 non-foil + 5 foil)
+    Main Deck: [30, 32, 40, 75]
 challenge:
   category: "deck"
   format: null
