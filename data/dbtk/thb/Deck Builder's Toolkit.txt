@@ -1,0 +1,102 @@
+// NAME: Deck Builder's Toolkit
+// SOURCE: https://mtg.wiki/wiki/Theros_Beyond_Death/Deck_Builder%27s_Toolkit
+// DATE: 2020-01-24
+1 Victory's Envoy
+1 Serpent of Yawning Depths
+1 Demon of Loathing
+1 Terror of Mount Velus
+1 Treeshaker Chimera
+1 Ardenvale Paladin [ELD]
+1 Ardenvale Tactician [ELD]
+1 Banishing Light
+1 Daxos, Blessed by the Sun
+1 Daybreak Chimera
+1 Lonesome Unicorn [ELD]
+1 Mysterious Pathlighter [ELD]
+1 Reverent Hoplite
+1 Shepherd of the Flock [ELD]
+1 Silverflame Squire [ELD]
+1 Syr Alin, the Lion's Claw [ELD]
+1 Trapped in the Tower [ELD]
+2 Venerable Knight [ELD]
+1 Callaphe, Beloved of the Sea
+1 Charmed Sleep [ELD]
+2 Faerie Vandal [ELD]
+1 Glimpse of Freedom
+1 Hypnotic Sprite [ELD]
+1 Mantle of Tides [ELD]
+1 Opt [ELD]
+1 Sea God's Scorn
+1 So Tiny [ELD]
+1 Steelgaze Griffin [ELD]
+1 Thirst for Meaning
+2 Tome Raider [ELD]
+1 Unexplained Vision [ELD]
+1 Witching Well [ELD]
+2 Bake into a Pie [ELD]
+1 Barrow Witches [ELD]
+1 Blight-Breath Catoblepas
+1 Foulmire Knight [ELD]
+1 Funeral Rites
+1 Gray Merchant of Asphodel
+1 Locthwain Paladin [ELD]
+1 Memory Theft [ELD]
+1 Order of Midnight [ELD]
+1 Pharika's Spawn
+2 Reave Soul [ELD]
+1 Smitten Swordmaster [ELD]
+1 Tymaret, Chosen from Death
+1 Underworld Charger
+1 Anax, Hardened in the Forge
+2 Bloodhaze Wolverine [ELD]
+1 Burning-Yard Trainer [ELD]
+1 Claim the Firstborn [ELD]
+1 Fling [ELD]
+1 Merchant of the Vale [ELD]
+1 Ogre Errant [ELD]
+1 Raging Redcap [ELD]
+1 Rimrock Knight [ELD]
+1 Slaying Fire [ELD]
+2 Scorching Dragonfire [ELD]
+2 Thrill of Possibility
+1 Weaselback Redcap [ELD]
+2 Beanstalk Giant [ELD]
+2 Curious Pair [ELD]
+2 Flaxen Intruder [ELD]
+2 Garenbrig Carver [ELD]
+1 Nessian Wanderer
+2 Rosethorn Acolyte [ELD]
+1 Renata, Called to the Hunt
+1 Syr Faren, the Hengehammer [ELD]
+1 Tall as a Beanstalk [ELD]
+2 Tuinvale Treefolk [ELD]
+1 Acolyte of Affliction
+1 Devourer of Memory
+1 Grumgully, the Generous [ELD]
+2 Improbable Alliance [ELD]
+4 Inspiring Veteran [ELD]
+1 Maraleaf Pixie [ELD]
+1 Staggering Insight
+1 Steelclaw Lance [ELD]
+2 Wandermare [ELD]
+1 Wintermoor Commander [ELD]
+1 Bronze Sword
+1 Heraldic Banner [ELD]
+1 Jousting Dummy [ELD]
+2 Traveler's Amulet
+2 Bloodfell Caves [M20]
+2 Blossoming Sands [M20]
+2 Dismal Backwater [M20]
+2 Jungle Hollow [M20]
+2 Rugged Highlands [M20]
+2 Scoured Barrens [M20]
+2 Swiftwater Cliffs [M20]
+2 Thornwood Falls [M20]
+2 Tranquil Cove [M20]
+2 Unknown Shores
+2 Wind-Scarred Crag [M20]
+20 Plains [THB:*]
+20 Island [THB:*]
+20 Swamp [THB:*]
+20 Mountain [THB:*]
+20 Forest [THB:*]
