@@ -1,0 +1,10 @@
+// NAME: Return to Ravnica Holiday Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2012-11-16
+// Holiday Gift Box land pack: 20 non-foil basic lands from the set, 4 of each
+// type. Default-frame basics, so [RTR:*] round-robins the set's printings.
+4 Plains [RTR:*]
+4 Island [RTR:*]
+4 Swamp [RTR:*]
+4 Mountain [RTR:*]
+4 Forest [RTR:*]

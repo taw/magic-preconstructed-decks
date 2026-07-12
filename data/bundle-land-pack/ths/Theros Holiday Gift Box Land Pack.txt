@@ -1,0 +1,10 @@
+// NAME: Theros Holiday Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2013-11-15
+// Holiday Gift Box land pack: 20 non-foil basic lands from the set, 4 of each
+// type. Default-frame basics, so [THS:*] round-robins the set's printings.
+4 Plains [THS:*]
+4 Island [THS:*]
+4 Swamp [THS:*]
+4 Mountain [THS:*]
+4 Forest [THS:*]
