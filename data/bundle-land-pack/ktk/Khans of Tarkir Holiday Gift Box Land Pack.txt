@@ -1,0 +1,10 @@
+// NAME: Khans of Tarkir Holiday Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2014-11-14
+// Holiday Gift Box land pack: 20 non-foil basic lands from the set, 4 of each
+// type. Default-frame basics, so [KTK:*] round-robins the set's printings.
+4 Plains [KTK:*]
+4 Island [KTK:*]
+4 Swamp [KTK:*]
+4 Mountain [KTK:*]
+4 Forest [KTK:*]
