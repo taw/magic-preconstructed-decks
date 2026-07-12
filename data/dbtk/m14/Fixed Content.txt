@@ -1,0 +1,85 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Angelic Wall
+1 Assault Griffin [GTC]
+1 Avenging Arrow [RTR]
+1 Blessing
+1 Capashen Knight
+1 Dawnstrike Paladin
+1 Fortify
+1 Griffin Sentinel
+1 Hive Stirrings
+1 Master of Diversion
+2 Pacifism
+1 Seller of Songbirds [RTR]
+1 Serra Angel
+1 Sunspire Griffin [RTR]
+1 Suntail Hawk
+2 Archaeomancer
+1 Cancel
+1 Disperse
+1 Divination
+1 Doorkeeper [RTR]
+1 Frost Breath
+1 Messenger Drake
+1 Opportunity
+1 Paralyzing Grasp [RTR]
+1 Seacoast Drake
+1 Skyline Predator [RTR]
+1 Stealer of Secrets [RTR]
+1 Tome Scour
+1 Voidwielder [RTR]
+1 Wind Drake [DGM]
+1 Accursed Spirit
+1 Child of Night
+1 Corpse Hauler
+1 Corrupt
+1 Deathgaze Cockatrice
+1 Doom Blade
+1 Drainpipe Vermin [RTR]
+1 Duress
+1 Festering Newt
+2 Liturgy of Blood
+1 Mind Rot
+1 Minotaur Abomination
+1 Nightwing Shade
+1 Stab Wound [RTR]
+1 Wring Flesh
+1 Act of Treason
+1 Annihilating Fire [RTR]
+1 Blur Sliver
+1 Chandra's Outrage
+1 Dragon Hatchling
+1 Flames of the Firebrand
+1 Goblin Shortcutter
+1 Guttersnipe [RTR]
+1 Pitchburn Devils
+1 Regathan Firecat
+1 Riot Piker [DGM]
+1 Seismic Stomp
+2 Shock
+1 Tenement Crasher [RTR]
+1 Viashino Racketeer [RTR]
+1 Aerial Predation [RTR]
+1 Axebane Stag [RTR]
+1 Briarpack Alpha
+1 Brindle Boar
+1 Centaur's Herald [RTR]
+1 Deadly Recluse
+2 Elvish Mystic
+1 Giant Growth
+1 Howl of the Night Pack
+1 Hunt the Weak
+1 Kraul Warrior [DGM]
+1 Predatory Sliver
+1 Rumbling Baloth
+1 Sporemound
+1 Trollhide
+1 Sliver Construct
+4 Transguild Promenade [RTR]
+20 Plains [M14:*]
+20 Island [M14:*]
+20 Swamp [M14:*]
+20 Mountain [M14:*]
+20 Forest [M14:*]

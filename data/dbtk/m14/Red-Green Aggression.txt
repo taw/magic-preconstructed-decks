@@ -1,0 +1,13 @@
+// NAME: Red-Green Aggression
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Gruul War Chant [DGM]
+1 Zhur-Taa Swine [GTC]
+1 Advocate of the Beast
+1 Marauding Maulhorn
+1 Kraul Warrior [DGM]
+1 Mugging [GTC]
+1 Slaughterhorn [GTC]
+1 Ghor-Clan Rampager [GTC]
+1 Skarrg Guildmage [GTC]
+1 Kalonian Tusker

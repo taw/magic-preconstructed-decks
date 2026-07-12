@@ -1,0 +1,11 @@
+// NAME: Slivers
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Steelform Sliver
+2 Battle Sliver
+1 Manaweft Sliver
+2 Predatory Sliver
+1 Sentinel Sliver
+1 Striking Sliver
+1 Blur Sliver
+1 Groundshaker Sliver

@@ -1,0 +1,13 @@
+// NAME: Red-White Swarm
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Sunhome Guildmage [GTC]
+1 Truefire Paladin [GTC]
+1 Righteous Charge [GTC]
+1 Firefist Striker [GTC]
+1 Show of Valor
+1 Viashino Firstblade [DGM]
+1 Master of Diversion
+1 Riot Piker [DGM]
+1 Skyknight Legionnaire [GTC]
+1 Wojek Halberdiers [GTC]

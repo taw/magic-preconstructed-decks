@@ -1,0 +1,12 @@
+// NAME: Red Burn
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Flames of the Firebrand
+1 Thunderous Wrath [AVR]
+1 Skirsdag Cultist [ISD]
+1 Curse of the Pierced Heart [ISD]
+2 Goblin Arsonist
+1 Searing Spear
+1 Volcanic Strength
+1 Geistflame [ISD]
+1 Chandra's Fury

@@ -1,0 +1,12 @@
+// NAME: Angels
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Defy Death [AVR]
+1 Emancipation Angel [AVR]
+1 Seraph of Dawn [AVR]
+2 Scroll of Avacyn [AVR]
+1 Seraph Sanctuary [AVR]
+1 Serra Angel
+1 Archangel [AVR]
+1 Angelic Wall [AVR]
+1 Bladed Bracers [AVR]

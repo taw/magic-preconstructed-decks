@@ -1,0 +1,13 @@
+// NAME: Skies
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Lyev Skyknight [RTR]
+1 Warden of Evos Isle
+1 Air Servant
+1 Jelenn Sphinx [DGM]
+1 Sunspire Griffin [RTR]
+1 Frost Breath
+1 Tower Drake [RTR]
+1 Assault Griffin [GTC]
+1 Concordia Pegasus [RTR]
+1 Hands of Binding [GTC]

@@ -1,0 +1,12 @@
+// NAME: Library Depletion
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Jace's Phantasm
+1 Stern Mentor [AVR]
+2 Mind Sculpt
+1 Curse of the Bloody Tome [ISD]
+1 Dreadwaters [AVR]
+1 Fog Bank
+1 Cellar Door [ISD]
+1 Vedalken Entrancer
+1 Dream Twist [ISD]

@@ -1,0 +1,12 @@
+// NAME: Blue Black Evasion
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Bloodhunter Bat
+1 Curiosity [ISD]
+1 Faerie Invaders
+1 Gryff Vanguard [AVR]
+1 Harbor Bandit
+1 Invisible Stalker [ISD]
+2 Searchlight Geist [AVR]
+1 Talrand's Invocation
+1 Welkin Tern
