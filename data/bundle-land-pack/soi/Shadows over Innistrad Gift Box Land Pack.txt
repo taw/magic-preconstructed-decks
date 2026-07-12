@@ -1,0 +1,10 @@
+// NAME: Shadows over Innistrad Gift Box Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Gift_package
+// DATE: 2016-04-08
+// Gift Box land pack: 20 non-foil basic lands from the set, 4 of each type.
+// Default-frame basics, so [SOI:*] round-robins the set's printings.
+4 Plains [SOI:*]
+4 Island [SOI:*]
+4 Swamp [SOI:*]
+4 Mountain [SOI:*]
+4 Forest [SOI:*]
