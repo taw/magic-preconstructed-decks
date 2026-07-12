@@ -1,0 +1,12 @@
+// NAME: Mirrodin Besieged Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2011-02-04
+// The Mirrodin Besieged fat pack held 80 basic lands: 40 from Mirrodin Besieged and 40 from Scars
+// of Mirrodin. This deck is just the 40 Mirrodin Besieged basics (8 of each type); the
+// Scars half is provided by reusing the Scars of Mirrodin Fat Pack Land Pack.
+// Default-frame basics, so [MBS:*] round-robins the set's printings.
+8 Plains [MBS:*]
+8 Island [MBS:*]
+8 Swamp [MBS:*]
+8 Mountain [MBS:*]
+8 Forest [MBS:*]
