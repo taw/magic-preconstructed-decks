@@ -8621,6 +8621,7 @@ Ecologist's Terrarium
 Ecstatic Awakener
 Ecstatic Beauty
 Ecstatic Electromancer
+Ecstatic Piper
 Eddie Brock
 Eddymurk Crab
 Eddytrail Hawk
@@ -14385,6 +14386,7 @@ Hustle
 Hyalopterous Lemure
 Hydaelyn, the Mothercrystal
 Hydra Broodmaster
+Hydra Head
 Hydra Omnivore
 Hydra Trainer
 Hydra's Growth
@@ -17896,6 +17898,7 @@ Madame Web, Clairvoyant
 Madblind Mountain
 Madcap Experiment
 Madcap Skills
+Maddened Oread
 Maddening Cacophony
 Maddening Hex
 Maddening Imp
@@ -19040,11 +19043,13 @@ Minor Misstep
 Minotaur Abomination
 Minotaur Aggressor
 Minotaur Explorer
+Minotaur Goreseeker
 Minotaur Illusionist
 Minotaur Skullcleaver
 Minotaur Sureshot
 Minotaur Tactician
 Minotaur Warrior
+Minotaur Younghorn
 Minotaur de Force
 Minotaur, Roxxon CEO
 Minsc & Boo, Timeless Heroes
@@ -19320,6 +19325,7 @@ Mogg Squad
 Mogg Toady
 Mogg War Marshal
 Moggcatcher
+Mogis's Chosen
 Mogis's Favor
 Mogis's Marauder
 Mogis's Warhound
@@ -21947,12 +21953,14 @@ Phenomenon Investigators
 Pheres-Band Brawler
 Pheres-Band Centaurs
 Pheres-Band Raiders
+Pheres-Band Revelers
 Pheres-Band Thunderhoof
 Pheres-Band Tromper
 Pheres-Band Warchief
 Phial of Galadriel
 Phila, Unsealed
 Phlage, Titan of Fire's Fury
+Phoberos Reaver
 Phobian Phantasm
 Phoebe, Head of S.N.E.A.K.
 Phoenix Chick
@@ -23615,6 +23623,7 @@ Ravenous Amulet
 Ravenous Baboons
 Ravenous Baloth
 Ravenous Bloodseeker
+Ravenous Brute Head
 Ravenous Chupacabra
 Ravenous Daggertooth
 Ravenous Demon
@@ -23799,6 +23808,7 @@ Reckless Handling
 Reckless Imp
 Reckless Impulse
 Reckless Lackey
+Reckless Minotaur
 Reckless Ogre
 Reckless One
 Reckless Pangolin
@@ -24759,6 +24769,7 @@ Roku's Mastery
 Role Reversal
 Roller Coaster
 Rollick of Abandon
+Rollicking Throng
 Rolling Earthquake
 Rolling Hamsphere
 Rolling Spoil
@@ -25536,6 +25547,7 @@ Savage Swipe
 Savage Thallid
 Savage Twister
 Savage Ventmaw
+Savage Vigor Head
 Savageborn Hydra
 Savai Crystal
 Savai Sabertooth
@@ -26252,6 +26264,7 @@ Serenity
 Sergeant John Benton
 Sergeant-at-Arms
 Serpent Assassin
+Serpent Dancers
 Serpent Generator
 Serpent Skin
 Serpent Specialist
@@ -26778,6 +26791,7 @@ Shrieking Drake
 Shrieking Grotesque
 Shrieking Mogg
 Shrieking Specter
+Shrieking Titan Head
 Shriekmaw
 Shriekwood Devourer
 Shrike Force
@@ -27619,6 +27633,7 @@ Snapcaster Mage
 Snapdax, Apex of the Hunt
 Snapping Creeper
 Snapping Drake
+Snapping Fang Head
 Snapping Gnarlid
 Snapping Sailback
 Snapping Thragg
@@ -34525,6 +34540,7 @@ Wild Idea
 Wild Instincts
 Wild Jhovall
 Wild Leotau
+Wild Maenads
 Wild Magic Surge
 Wild Mammoth
 Wild Might
@@ -35090,6 +35106,7 @@ Xathrid Gorgon
 Xathrid Necromancer
 Xathrid Slyblade
 Xavier Sal, Infested Captain
+Xenagos Ascended
 Xenagos's Scorn
 Xenagos's Strike
 Xenagos, God of Revels

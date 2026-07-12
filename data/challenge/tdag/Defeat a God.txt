@@ -1,0 +1,18 @@
+// NAME: Defeat a God
+// SOURCE: https://mtg.wiki/page/Defeat_a_God
+// DATE: 2014-05-25
+1 Xenagos Ascended [TDAG:1]
+6 Rollicking Throng [TDAG:2]
+16 Ecstatic Piper [TDAG:3]
+2 Maddened Oread [TDAG:4]
+4 Pheres-Band Revelers [TDAG:5]
+2 Serpent Dancers [TDAG:6]
+2 Wild Maenads [TDAG:7]
+7 Impulsive Charge [TDAG:8]
+2 Impulsive Destruction [TDAG:9]
+4 Impulsive Return [TDAG:10]
+2 Rip to Pieces [TDAG:11]
+3 Xenagos's Scorn [TDAG:12]
+5 Xenagos's Strike [TDAG:13]
+2 Dance of Flame [TDAG:14]
+2 Dance of Panic [TDAG:15]

@@ -1,0 +1,18 @@
+// NAME: Battle the Horde
+// SOURCE: https://mtg.wiki/page/Battle_the_Horde
+// DATE: 2014-03-01
+10 Minotaur Goreseeker [TBTH:1]
+15 Minotaur Younghorn [TBTH:2]
+4 Mogis's Chosen [TBTH:3]
+10 Phoberos Reaver [TBTH:4]
+4 Reckless Minotaur [TBTH:5]
+2 Consuming Rage [TBTH:6]
+2 Descend on the Prey [TBTH:7]
+2 Intervention of Keranos [TBTH:8]
+2 Touch of the Horned God [TBTH:9]
+2 Unquenchable Fury (TBTH) [TBTH:10]
+1 Altar of Mogis [TBTH:11]
+1 Massacre Totem [TBTH:12]
+2 Plundered Statue [TBTH:13]
+2 Refreshing Elixir [TBTH:14]
+1 Vitality Salve [TBTH:15]

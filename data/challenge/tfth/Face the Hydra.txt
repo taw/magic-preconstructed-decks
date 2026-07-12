@@ -1,0 +1,18 @@
+// NAME: Face the Hydra
+// SOURCE: https://mtg.wiki/page/Face_the_Hydra
+// DATE: 2013-10-19
+11 Hydra Head [TFTH:1]
+4 Ravenous Brute Head [TFTH:2]
+1 Savage Vigor Head [TFTH:3]
+1 Shrieking Titan Head [TFTH:4]
+1 Snapping Fang Head [TFTH:5]
+5 Disorienting Glower [TFTH:6]
+5 Distract the Hydra [TFTH:7]
+4 Grown from the Stump [TFTH:8]
+4 Hydra's Impenetrable Hide [TFTH:9]
+3 Neck Tangle [TFTH:10]
+4 Noxious Hydra Breath [TFTH:11]
+2 Strike the Weak Spot [TFTH:12]
+5 Swallow the Hero Whole [TFTH:13]
+4 Torn Between Heads [TFTH:14]
+6 Unified Lunge [TFTH:15]
