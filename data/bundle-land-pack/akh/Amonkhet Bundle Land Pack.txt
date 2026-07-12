@@ -1,0 +1,16 @@
+// NAME: Amonkhet Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/amonkhet
+// DATE: 2017-04-28
+// Bundle land pack: 80 basic lands = 20 full-art + 60 default-frame.
+// Full-art printings listed explicitly; default-frame via [AKH:*] round-robin
+// (which resolves to the non-full-art printings).
+12 Plains [AKH:*]
+4 Plains [AKH:250]
+12 Island [AKH:*]
+4 Island [AKH:251]
+12 Swamp [AKH:*]
+4 Swamp [AKH:252]
+12 Mountain [AKH:*]
+4 Mountain [AKH:253]
+12 Forest [AKH:*]
+4 Forest [AKH:254]

@@ -1,0 +1,26 @@
+// NAME: Lorwyn Eclipsed Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/lorwyn-eclipsed
+// DATE: 2026-01-23
+// Bundle land pack: 30 basic lands = 10 full-art + 20 default-frame.
+// Full-art printings listed explicitly; default-frame via [ECL:*] round-robin
+// (which resolves to the non-full-art printings).
+2 Plains [ECL:*]
+2 Plains [ECL:*] [foil]
+1 Plains [ECL:274]
+1 Plains [ECL:274] [foil]
+2 Island [ECL:*]
+2 Island [ECL:*] [foil]
+1 Island [ECL:275]
+1 Island [ECL:275] [foil]
+2 Swamp [ECL:*]
+2 Swamp [ECL:*] [foil]
+1 Swamp [ECL:276]
+1 Swamp [ECL:276] [foil]
+2 Mountain [ECL:*]
+2 Mountain [ECL:*] [foil]
+1 Mountain [ECL:277]
+1 Mountain [ECL:277] [foil]
+2 Forest [ECL:*]
+2 Forest [ECL:*] [foil]
+1 Forest [ECL:278]
+1 Forest [ECL:278] [foil]

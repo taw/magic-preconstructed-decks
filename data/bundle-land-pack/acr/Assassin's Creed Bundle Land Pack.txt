@@ -1,0 +1,25 @@
+// NAME: Assassin's Creed Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/assassins-creed
+// DATE: 2024-07-05
+// Bundle land pack: 40 basic lands, all full-art. Listed explicitly
+// because [ACR:*] would resolve to the non-full-art printings.
+2 Plains [ACR:101]
+2 Plains [ACR:102]
+2 Plains [ACR:101] [foil]
+2 Plains [ACR:102] [foil]
+2 Island [ACR:103]
+2 Island [ACR:104]
+2 Island [ACR:103] [foil]
+2 Island [ACR:104] [foil]
+2 Swamp [ACR:105]
+2 Swamp [ACR:106]
+2 Swamp [ACR:105] [foil]
+2 Swamp [ACR:106] [foil]
+2 Mountain [ACR:107]
+2 Mountain [ACR:108]
+2 Mountain [ACR:107] [foil]
+2 Mountain [ACR:108] [foil]
+2 Forest [ACR:109]
+2 Forest [ACR:110]
+2 Forest [ACR:109] [foil]
+2 Forest [ACR:110] [foil]
