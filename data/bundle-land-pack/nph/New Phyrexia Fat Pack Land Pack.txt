@@ -1,0 +1,16 @@
+// NAME: New Phyrexia Fat Pack Land Pack
+// SOURCE: https://mtg.fandom.com/wiki/Fat_pack
+// DATE: 2011-05-13
+// Fat Pack land pack: 80 non-foil basic lands -- 40 from Scars of Mirrodin
+// and 40 from New Phyrexia (8 of each type per set). Default-frame basics, so
+// [SOM:*] and [NPH:*] round-robin each set's printings.
+8 Plains [SOM:*]
+8 Plains [NPH:*]
+8 Island [SOM:*]
+8 Island [NPH:*]
+8 Swamp [SOM:*]
+8 Swamp [NPH:*]
+8 Mountain [SOM:*]
+8 Mountain [NPH:*]
+8 Forest [SOM:*]
+8 Forest [NPH:*]
