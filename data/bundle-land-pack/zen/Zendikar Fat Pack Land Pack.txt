@@ -1,0 +1,25 @@
+// NAME: Zendikar Fat Pack Land Pack
+// SOURCE: https://magic.wizards.com/en/products/zendikar
+// DATE: 2009-10-02
+// Fat Pack land pack: 40 basic lands, all full-art. Listed explicitly
+// because [ZEN:*] would resolve to the non-full-art printings.
+2 Plains [ZEN:230]
+2 Plains [ZEN:231]
+2 Plains [ZEN:232]
+2 Plains [ZEN:233]
+2 Island [ZEN:234]
+2 Island [ZEN:235]
+2 Island [ZEN:236]
+2 Island [ZEN:237]
+2 Swamp [ZEN:238]
+2 Swamp [ZEN:239]
+2 Swamp [ZEN:240]
+2 Swamp [ZEN:241]
+2 Mountain [ZEN:242]
+2 Mountain [ZEN:243]
+2 Mountain [ZEN:244]
+2 Mountain [ZEN:245]
+2 Forest [ZEN:246]
+2 Forest [ZEN:247]
+2 Forest [ZEN:248]
+2 Forest [ZEN:249]
