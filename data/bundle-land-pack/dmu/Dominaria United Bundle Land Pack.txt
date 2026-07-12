@@ -1,0 +1,16 @@
+// NAME: Dominaria United Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/dominaria-united-product-overview-2022-08-18
+// DATE: 2022-09-09
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil, 4 of each
+// type per finish. Default-frame basics (the stained-glass full-art lands are
+// booster-only), so [DMU:*] round-robins the default printings.
+4 Plains [DMU:*]
+4 Island [DMU:*]
+4 Swamp [DMU:*]
+4 Mountain [DMU:*]
+4 Forest [DMU:*]
+4 Plains [DMU:*] [foil]
+4 Island [DMU:*] [foil]
+4 Swamp [DMU:*] [foil]
+4 Mountain [DMU:*] [foil]
+4 Forest [DMU:*] [foil]
