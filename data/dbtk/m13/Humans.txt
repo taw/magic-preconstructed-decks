@@ -1,0 +1,12 @@
+// NAME: Humans
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Fiend Hunter [ISD]
+1 Crusader of Odric
+1 Gather the Townsfolk [DKA]
+2 Bonds of Faith [ISD]
+1 Avacyn's Pilgrim [ISD]
+1 Commander's Authority [AVR]
+1 Hamlet Captain [ISD]
+1 Heavy Mattock [DKA]
+1 Timberland Guide [AVR]

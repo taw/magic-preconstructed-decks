@@ -1,0 +1,12 @@
+// NAME: Exalted
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Knight of Glory
+1 Angelic Benediction
+2 Guardians of Akrasa
+1 Aven Squire
+1 Duty-Bound Dead
+1 Knight of Infamy
+1 Duskmantle Prowler
+1 Servant of Nefarox
+1 Cobbled Wings [ISD]

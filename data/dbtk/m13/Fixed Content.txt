@@ -1,0 +1,85 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Crusader of Odric
+1 Oblivion Ring
+1 Attended Knight
+1 Cathedral Sanctifier [AVR]
+1 Chapel Geist [ISD]
+1 Cloudshift [AVR]
+1 Elgaud Inquisitor [DKA]
+1 Glorious Charge
+1 Griffin Protector
+1 Niblis of the Mist [DKA]
+2 Pacifism
+1 Safe Passage
+1 Seraph of Dawn [AVR]
+1 Urgent Exorcism [ISD]
+1 Voice of the Provinces [AVR]
+1 Niblis of the Breath [DKA]
+1 Talrand's Invocation
+1 Mist Raven [AVR]
+1 Gryff Vanguard [AVR]
+1 Archaeomancer
+1 Stormbound Geist [DKA]
+1 Deranged Assistant [ISD]
+2 Welkin Tern
+1 Scroll Thief
+1 Thought Scour [DKA]
+1 Essence Scatter
+1 Negate
+1 Divination
+1 Curse of the Bloody Tome [ISD]
+1 Encrust
+1 Abattoir Ghoul [ISD]
+1 Vampire Nighthawk
+1 Bloodhunter Bat
+1 Dead Weight [ISD]
+1 Driver of the Dead [AVR]
+1 Duress
+1 Ghoulcaller's Chant [ISD]
+1 Liliana's Shade
+1 Markov Patrician [ISD]
+2 Murder
+1 Ravenous Rats
+1 Sign in Blood
+1 Tormented Soul
+1 Vampire Interloper [ISD]
+1 Victim of Night [ISD]
+1 Falkenrath Exterminator [AVR]
+1 Gang of Devils [AVR]
+1 Bladetusk Boar
+1 Brimstone Volley [ISD]
+1 Demolish [AVR]
+1 Fire Elemental
+1 Forge Devil [DKA]
+1 Heirs of Stromkirk [AVR]
+1 Krenko's Command
+2 Pillar of Flame [AVR]
+1 Pitchburn Devils [ISD]
+1 Rummaging Goblin
+1 Searing Spear
+1 Torch Fiend
+1 Traitorous Blood [ISD]
+1 Hollowhenge Scavenger [ISD]
+1 Roaring Primadox
+1 Ambush Viper [ISD]
+2 Arbor Elf
+1 Avacyn's Pilgrim [ISD]
+1 Borderland Ranger [AVR]
+1 Elvish Visionary
+1 Farseek
+1 Geist Trappers [AVR]
+1 Natural End [AVR]
+1 Pathbreaker Wurm [AVR]
+1 Prey Upon
+1 Ranger's Path
+1 Titanic Growth
+1 Wildwood Geist [AVR]
+1 Ghoulcaller's Bell [ISD]
+4 Evolving Wilds
+20 Plains [M13:*]
+20 Island [M13:*]
+20 Swamp [M13:*]
+20 Mountain [M13:*]
+20 Forest [M13:*]

@@ -1,0 +1,12 @@
+// NAME: Black Control
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Corrupt
+1 Doom Blade
+1 Diabolic Tutor
+1 Sengir Vampire
+2 Quag Sickness
+1 Mind Rot
+1 Child of Night
+1 Perilous Shadow [RTR]
+1 Deathgaze Cockatrice

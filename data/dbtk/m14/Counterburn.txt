@@ -1,0 +1,12 @@
+// NAME: Counterburn
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Syncopate [RTR]
+1 Guttersnipe [RTR]
+1 Izzet Charm [RTR]
+1 Blast of Genius [DGM]
+2 Goblin Electromancer [RTR]
+1 Essence Backlash [RTR]
+1 Nivix Cyclops [DGM]
+1 Explosive Impact [RTR]
+1 Chandra's Outrage

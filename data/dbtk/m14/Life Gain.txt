@@ -1,0 +1,13 @@
+// NAME: Life Gain
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Voracious Wurm
+1 Angelic Accord
+1 Congregate
+1 Unflinching Courage [DGM]
+1 Centaur Healer [RTR]
+1 Soulmender
+1 Brindle Boar
+1 Dawnstrike Paladin
+1 Predator's Rapport [GTC]
+1 Divine Favor

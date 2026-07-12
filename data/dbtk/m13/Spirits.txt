@@ -1,0 +1,12 @@
+// NAME: Spirits
+// SOURCE: https://mtg.wiki/wiki/Magic_2013/Deck_Builder%27s_Toolkit
+// DATE: 2012-07-13
+1 Gallows Warden [ISD]
+1 Drogskol Captain [DKA]
+1 Geist Snatch [AVR]
+2 Voiceless Spirit [ISD]
+1 Ghostly Possession [ISD]
+1 Battleground Geist [ISD]
+1 Midnight Haunting [ISD]
+1 Feeling of Dread [ISD]
+1 Spectral Prison [AVR]

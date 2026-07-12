@@ -1,0 +1,13 @@
+// NAME: Sacrifice
+// SOURCE: https://mtg.wiki/wiki/Magic_2014/Deck_Builder%27s_Toolkit
+// DATE: 2013-07-19
+1 Gnawing Zombie
+1 Barrage of Expendables
+1 Tenacious Dead
+1 Goblin Rally [RTR]
+1 Act of Treason
+1 Blood Bairn
+1 Pitchburn Devils
+1 Festering Newt
+1 Drainpipe Vermin [RTR]
+1 Altar's Reap
