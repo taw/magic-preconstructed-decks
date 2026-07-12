@@ -1,0 +1,17 @@
+// NAME: The Brothers' War Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/products/the-brothers-war
+// DATE: 2022-11-18
+// Bundle land pack: 40 basic lands, 20 traditional foil + 20 non-foil, 4 of each
+// type per finish. Default-frame basics (the full-art mech lands are
+// booster-only), so [BRO:*] round-robins the default printings. The Bundle and
+// Gift Bundle contain the same lands.
+4 Plains [BRO:*]
+4 Island [BRO:*]
+4 Swamp [BRO:*]
+4 Mountain [BRO:*]
+4 Forest [BRO:*]
+4 Plains [BRO:*] [foil]
+4 Island [BRO:*] [foil]
+4 Swamp [BRO:*] [foil]
+4 Mountain [BRO:*] [foil]
+4 Forest [BRO:*] [foil]
