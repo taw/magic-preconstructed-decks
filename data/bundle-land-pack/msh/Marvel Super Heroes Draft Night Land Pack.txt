@@ -1,0 +1,11 @@
+// NAME: Marvel Super Heroes Draft Night Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes
+// DATE: 2025-09-26
+// Draft Night ships 90 non-foil basic lands for deck building, split evenly
+// across the five types. Uses [MSH:*] so each type resolves to the set's
+// default non-foil basic printing rather than the foil-only variants.
+18 Plains [MSH:*]
+18 Island [MSH:*]
+18 Swamp [MSH:*]
+18 Mountain [MSH:*]
+18 Forest [MSH:*]
