@@ -1,0 +1,13 @@
+// NAME: White and Green counters
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Expedition Envoy [BFZ]
+1 Stasis Snare [BFZ]
+1 Retreat to Kazandu [BFZ]
+1 Blighted Woodland [BFZ]
+1 Cliffside Lookout [BFZ]
+1 Tandem Tactics [BFZ]
+1 Oran-Rief Invoker [BFZ]
+1 Expedition Raptor [OGW]
+1 Natural State [OGW]
+1 Netcaster Spider [OGW]

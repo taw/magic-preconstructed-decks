@@ -1,0 +1,13 @@
+// NAME: Red Burn
+// SOURCE: https://mtg.wiki/wiki/Magic_Origins/Deck_Builder%27s_Toolkit
+// DATE: 2015-07-17
+1 Ravaging Blaze
+1 Arc Lightning [KTK]
+1 Monastery Swiftspear [KTK]
+1 Wild Slash [FRF]
+1 Lightning Javelin
+1 Mage-Ring Bully
+1 Valley Dasher [KTK]
+1 Mardu Scout [FRF]
+1 Sarkhan's Rage [DTK]
+1 Twin Bolt [DTK]

@@ -1,0 +1,13 @@
+// NAME: White and Black Life gain
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Serene Steward [BFZ]
+1 Malakir Familiar [BFZ]
+1 Zulaport Cutthroat [BFZ]
+1 Allied Reinforcements [OGW]
+1 Inspired Charge [BFZ]
+1 Stone Haven Medic [BFZ]
+1 Nirkana Assassin [BFZ]
+1 Vampire Envoy [OGW]
+1 Dauntless Cathar
+1 Grotesque Mutation

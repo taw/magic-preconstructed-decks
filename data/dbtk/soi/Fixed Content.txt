@@ -1,0 +1,80 @@
+// NAME: Fixed Content
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Aegis Angel [W16]
+1 Sphinx of Magosi [W16]
+1 Nightmare [W16]
+1 Shivan Dragon [W16]
+1 Soul of the Harvest [W16]
+1 Serra Angel [W16]
+1 Stern Constable
+1 Inspired Charge [BFZ]
+1 Unruly Mob
+1 Stasis Snare [BFZ]
+1 Cliffside Lookout [BFZ]
+1 Marked by Honor [W16]
+1 Angelic Gift [BFZ]
+1 Kitesail Scout [BFZ]
+1 Ghostly Sentinel [BFZ]
+1 Air Servant [W16]
+1 Pore Over the Pages
+1 Dispel [BFZ]
+1 Disperse [W16]
+1 Anticipate [BFZ]
+1 Negate [OGW]
+1 Sweep Away [OGW]
+1 Pieces of the Puzzle
+1 Niblis of Dusk
+1 Stitched Mangler
+1 Sengir Vampire [W16]
+1 Mind Rot [W16]
+1 Walking Corpse [W16]
+1 Bone Splinters [BFZ]
+1 Crow of Dark Tidings
+1 Macabre Waltz
+1 Vampire Envoy [OGW]
+1 Shamble Back
+1 Zulaport Cutthroat [BFZ]
+1 Dead Weight
+1 Cone of Flame [W16]
+1 Lightning Axe
+1 Brute Strength [OGW]
+1 Cinder Hellion [OGW]
+1 Expedite [OGW]
+1 Magmatic Chasm
+1 Ember-Eye Wolf
+1 Voldaren Duelist
+1 Sanguinary Mage
+1 Borderland Marauder [W16]
+1 Pack Guardian
+1 Incremental Growth [W16]
+1 Oran-Rief Invoker [BFZ]
+1 Plummet [BFZ]
+1 Quilled Wolf
+1 Lifespring Druid [BFZ]
+1 Oakenform [W16]
+1 Tajuru Pathwarden [OGW]
+1 Rabid Bite
+1 Loam Larva [OGW]
+1 Bone Saw [OGW]
+1 Hedron Crawler [OGW]
+1 Explosive Apparatus
+1 Chitinous Cloak [OGW]
+1 Evolving Wilds [BFZ]
+1 Crumbling Vestige [OGW]
+2 Cinder Barrens [OGW]
+2 Submerged Boneyard [OGW]
+2 Highland Lake
+2 Forsaken Sanctuary
+2 Foul Orchard
+2 Stone Quarry
+2 Meandering River [OGW]
+2 Woodland Stream
+2 Timber Gorge [OGW]
+2 Tranquil Expanse [OGW]
+4 Unknown Shores [OGW]
+20 Plains [SOI:*]
+20 Island [SOI:*]
+20 Swamp [SOI:*]
+20 Mountain [SOI:*]
+20 Forest [SOI:*]

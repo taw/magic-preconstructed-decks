@@ -1,0 +1,13 @@
+// NAME: Blue and Green Creature control
+// SOURCE: https://mtg.wiki/wiki/Shadows_over_Innistrad/Deck_Builder%27s_Toolkit
+// DATE: 2016-04-08
+1 Roiling Waters [OGW]
+1 Reckless Scholar
+1 Gloomwidow
+1 Pack Guardian
+1 Giant Mantis [BFZ]
+1 Lifespring Druid [BFZ]
+1 Ancient Crab [OGW]
+1 Sweep Away [OGW]
+1 Tajuru Pathwarden [OGW]
+1 Ghostly Wings
