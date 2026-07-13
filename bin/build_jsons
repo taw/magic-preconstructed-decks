@@ -86,10 +86,13 @@ class BuildJsons
     end
     @decks.sort_by!{|d| [d[:set_code], d[:name]]}
 
-    if save_path
+    if save_path == "-"
+      save_jsons(STDOUT)
+    elsif save_path
       open(save_path, "w"){|fh| save_jsons(fh)}
     else
-      # save_jsons(STDOUT)
+      # Just verify that it's valid JSON without saving
+      # This is useful mainly for CI
     end
   end
 end
