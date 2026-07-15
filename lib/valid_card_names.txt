@@ -814,6 +814,7 @@ Ammit Eternal
 Amnesia
 Amoeboid Changeling
 Amok
+Amok Time
 Amonkhet Raceway
 Amorphous Axe
 Amped Raptor
@@ -2525,6 +2526,7 @@ Bebop, Skull & Crossbones
 Bebop, Warthog Warrior
 Because I Have Willed It
 Beck
+Beckett Mariner, Impetuous Ensign
 Beckon Apparition
 Beckoning Will-o'-Wisp
 Become Anonymous
@@ -2635,6 +2637,7 @@ Benevolent Hydra
 Benevolent Offering
 Benevolent River Spirit
 Benevolent Unicorn
+Benjamin Sisko, Besieged
 Bennie Bracks, Zoologist
 Benthic Anomaly
 Benthic Behemoth
@@ -2738,6 +2741,7 @@ Binding Grasp
 Binding Mummy
 Binding Negotiation
 Binding the Old Gods
+Bio-Asset Allocator
 Bioengineered Future
 Bioessence Hydra
 Biogenic Ooze
@@ -3473,6 +3477,7 @@ Boreal Griffin
 Boreal Outrider
 Boreal Shelf
 Boreas Charger
+Borg Queen, Perfection Manifest
 Boris Devilboon
 Born to Drive
 Borne Upon a Wind
@@ -3573,6 +3578,7 @@ Brace for Impact
 Brackish Blunder
 Brackish Trudge
 Brackwater Elemental
+Brad Boimler, Eager Ensign
 Brago's Favor
 Brago's Representative
 Brago, King Eternal
@@ -4315,6 +4321,8 @@ Captain America, Unbowed
 Captain America, Wings of Freedom
 Captain Eberhart
 Captain Howler, Sea Scourge
+Captain James T. Kirk
+Captain Kathryn Janeway
 Captain Kirk, Boldly Going
 Captain Lannery Storm
 Captain Mar-Vell, Space-Born
@@ -5701,6 +5709,7 @@ Consecrated by Blood
 Conservator
 Conservatory
 Consider
+Consider the Prime Directive
 Consign
 Consign to Dream
 Consign to Dust
@@ -6326,6 +6335,7 @@ Crystal Vein
 Crystal, Inhuman Princess
 Crystalline Armor
 Crystalline Crawler
+Crystalline Entity
 Crystalline Giant
 Crystalline Nautilus
 Crystalline Resonance
@@ -7933,6 +7943,7 @@ Downwind Ambusher
 Dowsing Dagger
 Dowsing Device
 Dowsing Shaman
+Dr. Beverly Crusher
 Dr. Eggman
 Dr. Julius Jumblemorph
 Dr. Madison Li
@@ -13925,6 +13936,7 @@ Highland Game
 Highland Giant
 Highland Lake
 Highland Weald
+Highly Illogical
 Highspire Artisan
 Highspire Bell-Ringer
 Highspire Infusion
@@ -14178,6 +14190,7 @@ Horror of the Broken Lands
 Horror of the Dim
 Horses of the Bruinen
 Horseshoe Crab
+Hoshi Sato, Exolinguist
 Hospital Room
 Host of the Hereafter
 Hostage Taker
@@ -14738,6 +14751,7 @@ In Thrall to the Pit
 In Too Deep
 In the Darkness Bind Them
 In the Eye of Chaos
+In the Pale Moonlight
 In the Presence of Ages
 In the Trenches
 In the Web of War
@@ -16317,6 +16331,7 @@ Kird Ape
 Kird Chieftain
 Kiri-Onna
 Kirin-Touched Orochi
+Kirk, Enterprising Captain
 Kirol, Attentive First-Year
 Kirol, History Buff
 Kirri, Talented Sprout
@@ -16398,6 +16413,7 @@ Klement, Life Acolyte
 Klement, Nature Acolyte
 Klement, Novice Acolyte
 Klement, Tempest Acolyte
+Klingon Strike Force
 Klothys's Design
 Klothys, God of Destiny
 Knacksaw Clique
@@ -19726,6 +19742,7 @@ Munda's Vanguard
 Munda, Ambush Leader
 Mundungu
 Mungha Wurm
+Munitions Enthusiast
 Munitions Expert
 Muraganda Eldrazi
 Muraganda Petroglyphs
@@ -21113,6 +21130,7 @@ Open the Vaults
 Open the Way
 Opening Ceremony
 Opera Love Song
+Operations Officer
 Ophidian
 Ophidian Eye
 Ophiomancer
@@ -22081,6 +22099,7 @@ Pia Nalaar, Consul of Revival
 Pia and Kiran Nalaar
 Pia's Revolution
 Pianna, Nomad Captain
+Picard, Steadfast Captain
 Pick Up the Pace
 Pick Your Poison
 Pick Your Poison (CMB1)
@@ -25275,6 +25294,7 @@ Salt Road Packbeast
 Salt Road Patrol
 Salt Road Quartermasters
 Salt Road Skirmish
+Salt Vampire
 Saltblast
 Saltcrusted Steppe
 Saltfield Recluse
@@ -26332,6 +26352,7 @@ Seshiro the Anointed
 Seshiro the Anointed Avatar
 Seshiro's Living Legacy
 Set Adrift
+Set Phasers to . . .
 Setessan Battle Priest
 Setessan Champion
 Setessan Griffin
@@ -26352,6 +26373,7 @@ Settle the Wreckage
 Settlement Blacksmith
 Setzer, Wandering Gambler
 Seven Dwarves
+Seven of Nine
 Seven-Tail Mentor
 Seventh Stage of Magic Design
 Sever Soul
@@ -28447,6 +28469,7 @@ Splitting Headache
 Splitting Slime
 Splitting the Powerstone
 Splitting the Powerstone (Alchemy)
+Spock, Logical Choice
 Spoils of Adventure
 Spoils of Blood
 Spoils of Evil
@@ -30330,6 +30353,7 @@ Tenacious Dead
 Tenacious Hunter
 Tenacious Pup
 Tenacious Tomeseeker
+Tenacious Tosk
 Tenacious Underdog
 Tenacity
 Tend the Pests
@@ -30599,6 +30623,7 @@ The Cheese Stands Alone
 The Cheetah Planet
 The Cinematic Phoenix
 The Circle of Loyalty
+The City on the Edge of Forever
 The Clever Magician
 The Clone Saga
 The Cloning of Shredder
@@ -32049,6 +32074,7 @@ Treetop Snarespinner
 Treetop Village
 Treetop Warden
 Treizeci, Sun of Serra
+Trelane, Squire of Gothos
 Trelasarra, Moon Dancer
 Tremble
 Tremor
@@ -32420,6 +32446,7 @@ Tyvar, Jubilant Brawler
 Tyvar, the Pummeler
 Tzaangor Shaman
 U.S.Agent, John Walker
+U.S.S. Enterprise-D, Galaxy-Class
 UNIT Headquarters
 Uba Mask
 Ubul Sar Gatekeepers
