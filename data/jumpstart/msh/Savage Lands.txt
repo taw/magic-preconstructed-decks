@@ -16,7 +16,7 @@
 1 Thriving Grove [MSC]
 1 Savage Lands
 1 Forest [MSH:285]
-// split unclear from videos
+// unclear from videos what's the split is
 3 Forest [MSH:295]
 2 Forest [MSH:296]
 
