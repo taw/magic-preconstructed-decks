@@ -13,7 +13,9 @@
 1 HULK SMASH!
 1 Hire a Crew
 1 Fogwell's Gym
-1 Thriving Bluff
-7 Mountain
+1 Thriving Bluff [MSC]
+1 Mountain [MSH]
+3 Mountain [MSH:293]
+3 Mountain [MSH:294]
 
 Sideboard

@@ -13,8 +13,11 @@
 1 Daily Bugle Newspaper
 1 Wisecrack
 1 Marvelous Melee
-1 Thriving Bluff
+1 Thriving Bluff [MSC]
 1 Fogwell's Gym
-6 Mountain
+1 Mountain [MSH:284]
+// split unclear from the video
+3 Mountain [MSH:293]
+2 Mountain [MSH:294]
 
 Sideboard

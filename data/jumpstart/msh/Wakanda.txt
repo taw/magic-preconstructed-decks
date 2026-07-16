@@ -13,7 +13,9 @@
 1 Panther Pounce
 1 Heroic Teamwork
 1 Secure Detention
-1 Thriving Heath
-7 Plains
+1 Thriving Heath [MSC]
+1 Plains [MSH:278]
+3 Plains [MSH:287]
+3 Plains [MSH:288]
 
 Sideboard

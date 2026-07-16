@@ -13,7 +13,9 @@
 1 Lightning Strike
 1 Origin of Thor
 1 Mjölnir's Might
-1 Thriving Bluff
-7 Mountain
+1 Thriving Bluff [MSC]
+1 Mountain [MSH]
+3 Mountain [MSH:293]
+3 Mountain [MSH:294]
 
 Sideboard

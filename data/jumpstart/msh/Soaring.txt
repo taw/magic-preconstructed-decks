@@ -13,7 +13,9 @@
 1 Falcon's Wing Harness
 1 I Am Iron Man
 1 Dismissive Denial
-1 Thriving Isle
-7 Island
+1 Thriving Isle [MSC]
+1 Island [MSH:279]
+3 Island [MSH:289]
+3 Island [MSH:290]
 
 Sideboard

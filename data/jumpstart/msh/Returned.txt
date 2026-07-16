@@ -13,7 +13,9 @@
 1 Grim Reaper's Scythe
 1 Too Evil to Stay Dead
 1 Infernal Rebirth
-1 Thriving Moor
-7 Swamp
+1 Thriving Moor [MSC]
+1 Swamp [MSH]
+3 Swamp [MSH:291]
+3 Swamp [MSH:292]
 
 Sideboard

@@ -13,7 +13,9 @@
 1 Sky Cycle
 1 The Thanos-Copter
 1 Truck Toss
-1 Thriving Bluff
-7 Mountain
+1 Thriving Bluff [MSC]
+1 Mountain [MSH]
+3 Mountain [MSH:293]
+3 Mountain [MSH:294]
 
 Sideboard

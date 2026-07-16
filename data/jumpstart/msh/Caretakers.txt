@@ -13,7 +13,9 @@
 1 Super Villain Lockup
 1 Infinity Formula
 1 Fall to Earth
-1 Thriving Heath
-7 Plains
+1 Thriving Heath [MSC]
+1 Plains [MSH]
+3 Plains [MSH:287]
+3 Plains [MSH:288]
 
 Sideboard

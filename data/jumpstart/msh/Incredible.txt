@@ -13,7 +13,9 @@
 1 Origin of the Hulk
 1 Go Nuts!
 1 Super Strength
-1 Thriving Grove
-7 Forest
+1 Thriving Grove [MSC]
+1 Forest [MSH:285]
+3 Forest [MSH:295]
+3 Forest [MSH:296]
 
 Sideboard

@@ -13,7 +13,9 @@
 1 Quantum Reduction
 1 Depower
 1 Robotics Mastery
-1 Thriving Isle
-7 Island
+1 Thriving Isle [MSC]
+1 Island [MSH]
+3 Island [MSH:289]
+3 Island [MSH:290]
 
 Sideboard

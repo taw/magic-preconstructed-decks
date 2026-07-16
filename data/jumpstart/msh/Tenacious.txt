@@ -13,7 +13,7 @@
 1 Call Damage Control
 1 Accelerated Evolution
 1 Punishing Punch
-1 Thriving Grove
+1 Thriving Grove [MSC]
 1 Terramorphic Expanse
 6 Forest
 

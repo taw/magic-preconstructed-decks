@@ -13,7 +13,9 @@
 1 Costume Closet
 1 Murdock's Crusade
 1 Web Up
-1 Thriving Heath
-7 Plains
+1 Thriving Heath [MSC]
+1 Plains [MSH]
+3 Plains [MSH:287]
+3 Plains [MSH:288]
 
 Sideboard

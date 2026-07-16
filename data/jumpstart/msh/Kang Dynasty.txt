@@ -13,7 +13,9 @@
 1 Timeline Inquiry
 1 Multiversal Recruitment
 1 Time Warp
-1 Thriving Isle
-7 Island
+1 Thriving Isle [MSC]
+1 Island [MSH:279]
+3 Island [MSH:289]
+3 Island [MSH:290]
 
 Sideboard

@@ -13,7 +13,9 @@
 1 Eerie Gravestone
 1 Cruel Alliance
 1 Void Helix
-1 Thriving Moor
-7 Swamp
+1 Thriving Moor [MSC]
+1 Swamp [MSH:282]
+3 Swamp [MSH:291]
+3 Swamp [MSH:292]
 
 Sideboard

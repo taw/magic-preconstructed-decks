@@ -13,7 +13,9 @@
 1 Hex Magic
 1 Crossover Collaboration
 1 Marvelous Melee
-1 Thriving Bluff
-7 Mountain
+1 Thriving Bluff [MSC]
+1 Mountain [MSH]
+3 Mountain [MSH:293]
+3 Mountain [MSH:294]
 
 Sideboard

@@ -13,7 +13,9 @@
 1 Restorative Technique
 1 Punishing Punch
 1 Colossal Collision
-1 Thriving Grove
-7 Forest
+1 Thriving Grove [MSC]
+1 Forest [MSH]
+3 Forest [MSH:295]
+3 Forest [MSH:296]
 
 Sideboard
