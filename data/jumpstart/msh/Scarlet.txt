@@ -14,7 +14,7 @@
 1 Hex Magic
 1 Wanda's Vision
 1 Thriving Bluff [MSC]
-1 Mountain [MSH]
+1 Mountain [MSH:284]
 3 Mountain [MSH:293]
 3 Mountain [MSH:294]
 

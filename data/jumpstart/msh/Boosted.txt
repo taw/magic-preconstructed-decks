@@ -14,7 +14,7 @@
 1 HULK SMASH!
 1 Inspired Fire
 1 Thriving Bluff [MSC]
-1 Mountain [MSH]
+1 Mountain [MSH:283]
 3 Mountain [MSH:293]
 3 Mountain [MSH:294]
 
