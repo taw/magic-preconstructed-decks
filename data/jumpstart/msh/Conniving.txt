@@ -16,8 +16,7 @@
 1 Thriving Isle [MSC]
 1 Villainous Hideout
 1 Island [MSH:279]
-// unclear from videos what's the split is
-3 Island [MSH:289]
-2 Island [MSH:290]
+2 Island [MSH:289]
+3 Island [MSH:290]
 
 Sideboard
