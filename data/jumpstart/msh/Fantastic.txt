@@ -17,9 +17,9 @@
 1 Thriving Grove [MSC]
 1 Pym Technologies
 1 Forest [MSH:286]
-1 Plains
-1 Island
-1 Mountain
+1 Plains [MSH:278]
+1 Island [MSH:280]
+1 Mountain [MSH:284]
 1 Terramorphic Expanse
 
 Sideboard
