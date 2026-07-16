@@ -14,7 +14,7 @@
 1 Heroes for Hire
 1 Marvelous Melee
 1 Thriving Bluff [MSC]
-1 Mountain [MSH]
+1 Mountain [MSH:284]
 3 Mountain [MSH:293]
 3 Mountain [MSH:294]
 

@@ -14,7 +14,7 @@
 1 Hour of Defeat
 1 Swordsman's Steel
 1 Thriving Moor [MSC]
-1 Swamp [MSH]
+1 Swamp [MSH:281]
 3 Swamp [MSH:291]
 3 Swamp [MSH:292]
 

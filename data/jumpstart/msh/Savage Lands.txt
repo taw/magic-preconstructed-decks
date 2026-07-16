@@ -15,6 +15,9 @@
 1 Terrific Team-Up
 1 Thriving Grove [MSC]
 1 Savage Lands
-6 Forest
+1 Forest [MSH:285]
+// split unclear from videos
+3 Forest [MSH:295]
+2 Forest [MSH:296]
 
 Sideboard

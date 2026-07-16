@@ -14,7 +14,7 @@
 1 Hire a Crew
 1 Fogwell's Gym
 1 Thriving Bluff [MSC]
-1 Mountain [MSH]
+1 Mountain [MSH:283]
 3 Mountain [MSH:293]
 3 Mountain [MSH:294]
 
