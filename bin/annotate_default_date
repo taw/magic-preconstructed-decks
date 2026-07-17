@@ -26,7 +26,7 @@ ARGV.each do |path|
   data = Pathname(path).read
   next if data =~ %r{//\s*DATE}
 
-  set_code = Pathname(path).parent.basename.to_s.downcase
+  set_code = Pathname(path).parent.basename.to_s.sub(/_\z/, "").downcase
   date = set_release_date(set_code)
   tag = "// DATE: #{date}\n"
 

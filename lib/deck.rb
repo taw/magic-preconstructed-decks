@@ -12,7 +12,8 @@ class Deck
     @release_date = nil if @release_date == "-"
     @name = meta_lines.map{|x| x[%r[^\s*//\s*NAME:\s*(.*)], 1] }.compact.first
     @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
-    @display = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact.join("\n")
+    display_lines = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact
+    @display = display_lines.empty? ? nil : display_lines.join("\n")
     @languages = meta_lines.map{|x| x[%r[^\s*//\s*LANGUAGES?:\s*(.*)], 1] }.compact.first
 
     section_name = "Main Deck"

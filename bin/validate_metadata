@@ -23,7 +23,7 @@ class ValidateMetadata
         if line =~ %r[\A// NAME: (.*)]
           warn "#{relative_path}: Multiple titles in file" if title_from_file
           title_from_file = $1
-        elsif line =~ %r[\A// SOURCE: .*]
+        elsif line =~ %r[\A// SOURCE: (.*)]
           source << $1
         end
       end
