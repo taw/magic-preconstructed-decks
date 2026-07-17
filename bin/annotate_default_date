@@ -19,11 +19,12 @@ end
 
 unless ARGV.size >= 1
   STDERR.puts "Usage: #{$0} file1.txt [file2.txt ...]"
+  exit 1
 end
 
 ARGV.each do |path|
   data = Pathname(path).read
-  next if data =~ /\/\\s*DATE/
+  next if data =~ %r{//\s*DATE}
 
   set_code = Pathname(path).parent.basename.to_s.downcase
   date = set_release_date(set_code)

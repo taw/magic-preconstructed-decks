@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-require "pry"
 require "pathname"
 
 class ResolveCard
@@ -23,7 +22,7 @@ class ResolveCard
   def deck_path
     unless @deck_path
       paths = Pathname.glob("data/*/#{@set}/#{@deck_name}.txt")
-      raise "Can't find deck #{set} / #{deck_name}" unless paths.size == 1
+      raise "Can't find deck #{@set} / #{@deck_name}" unless paths.size == 1
       @deck_path = paths.first
     end
     @deck_path

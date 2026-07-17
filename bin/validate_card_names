@@ -32,7 +32,6 @@ class ValidateCardNames
       unless path.to_s.split("/")[-3] == "demo"
         duplicate_entries = section_cards.map{|c| c.except(:count)}.tally.select{|k,v| v > 1}
         duplicate_entries.each do |entry, count|
-          binding.pry
           warn "#{path}: #{section_name}: contains #{entry.inspect} multiple times"
         end
       end

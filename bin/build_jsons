@@ -50,7 +50,7 @@ class BuildJsons
       type.validate(deck)
       add_deck(name, deck, set_code, set_name, type)
     else
-      warn "Unknown deck type #{deck_type} with contents #{deck.contents_sizes}, skipping"
+      warn "Unknown deck type #{deck_type} with contents #{deck.section_sizes}, skipping"
     end
   end
 
