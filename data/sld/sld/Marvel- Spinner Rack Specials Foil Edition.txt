@@ -1,0 +1,8 @@
+// NAME: Marvel: Spinner Rack Specials Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253484
+// DATE: 2026-07-21
+1 [SLD:2622] Hammerhead, Maggia Boss [foil]
+1 [SLD:2623] Undead Hand Ninja [foil]
+1 [SLD:2624] Hex Magic [foil]
+1 [SLD:2625] Tippy-Toe, Terrific Partner [foil]
+1 [SLD:2626] Baxter Building [foil]
