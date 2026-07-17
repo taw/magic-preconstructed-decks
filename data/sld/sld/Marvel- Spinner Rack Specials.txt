@@ -1,0 +1,8 @@
+// NAME: Marvel: Spinner Rack Specials
+// SOURCE: https://secretlair.wizards.com/us/product/1253485
+// DATE: 2026-07-21
+1 [SLD:2622] Hammerhead, Maggia Boss
+1 [SLD:2623] Undead Hand Ninja
+1 [SLD:2624] Hex Magic
+1 [SLD:2625] Tippy-Toe, Terrific Partner
+1 [SLD:2626] Baxter Building
