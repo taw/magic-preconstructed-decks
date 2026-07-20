@@ -10,8 +10,16 @@ require_relative "../lib/deck_types"
 require_relative "../lib/sets"
 
 class BuildJsons
+  attr_reader :has_errors
+
   def initialize
     @decks = []
+    @has_errors = false
+  end
+
+  def warn(*)
+    @has_errors = true
+    super
   end
 
   def data_root
@@ -47,7 +55,7 @@ class BuildJsons
     end
     type = DeckType[deck_type]
     if type
-      type.validate(deck)
+      @has_errors = true unless type.validate(deck)
       add_deck(name, deck, set_code, set_name, type)
     else
       warn "Unknown deck type #{deck_type} with contents #{deck.section_sizes}, skipping"
@@ -66,6 +74,7 @@ class BuildJsons
 
     return if name_from_file == deck_name
 
+    @has_errors = true
     pwd = Pathname.pwd
     new_path = path.dirname + (deck_name.gsub(/(?<! ): /, '- ') + ".txt")
     # pretty stupid regexps to make shell deal with weird characters but keep it semi-readable
@@ -89,7 +98,7 @@ class BuildJsons
     if save_path == "-"
       save_jsons(STDOUT)
     elsif save_path
-      open(save_path, "w"){|fh| save_jsons(fh)}
+      File.open(save_path, "w"){|fh| save_jsons(fh)}
     else
       # Just verify that it's valid JSON without saving
       # This is useful mainly for CI
@@ -97,4 +106,6 @@ class BuildJsons
   end
 end
 
-BuildJsons.new.build(ARGV[0])
+builder = BuildJsons.new
+builder.build(ARGV[0])
+exit 1 if builder.has_errors

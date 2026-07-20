@@ -22,7 +22,10 @@ class MakeFileNamesMatchMetadata
         end
       end
 
-      target_path = path.dirname + "#{title.tr("/", "-")}.txt"
+      # The only difference is that we use "- " to represent ": "
+      # to avoid illegal Windows character that needs to appear in a lot of deck names
+      file_name = title.gsub(/(?<! ): /, '- ').tr("/", "-")
+      target_path = path.dirname + "#{file_name}.txt"
 
       if path != target_path
         # Silliness to deal with case insensitive filesystems

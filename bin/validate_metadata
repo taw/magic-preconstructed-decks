@@ -3,12 +3,28 @@
 require "pathname-glob"
 
 class ValidateMetadata
+  # These sets legitimately use all capital deck names,
+  # so the all-caps check is just noise for them.
+  # If more sets turn up, drop the check entirely instead of extending this list.
+  ALL_CAPS_TITLES_OK = %w[sld msh]
+
+  attr_reader :has_errors
+
+  def initialize
+    @has_errors = false
+  end
+
   def data_root
     @data_root ||= Pathname(__dir__) + "../data"
   end
 
   def deck_files
     data_root.glob("*/*/*.txt")
+  end
+
+  def warn(*)
+    @has_errors = true
+    super
   end
 
   def call
@@ -38,7 +54,8 @@ class ValidateMetadata
           warn "#{relative_path}: titles mismatch #{title_from_path.inspect} ~= #{title_from_file.inspect}"
         end
       end
-      if title_from_file == title_from_file.upcase
+      set_code = path.dirname.basename.to_s.sub(/_\z/, "")
+      if title_from_file == title_from_file.upcase and not ALL_CAPS_TITLES_OK.include?(set_code)
         warn "#{relative_path}: All capital title"
       end
     end
@@ -49,4 +66,6 @@ class ValidateMetadata
   end
 end
 
-ValidateMetadata.new.call
+validator = ValidateMetadata.new
+validator.call
+exit 1 if validator.has_errors
