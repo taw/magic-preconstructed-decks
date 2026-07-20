@@ -6,15 +6,15 @@ class Deck
     @sections = Hash.new{|ht,k| ht[k] = []}
 
     lines = Pathname(path).readlines.map(&:chomp).grep(/\S/)
-    main_lines = lines.grep_v(%r[^\s*/])
-    meta_lines = lines.grep(%r[^\s*/])
-    @release_date = meta_lines.map{|x| x[%r[^\s*//\s*DATE:\s*(.*)], 1] }.compact.first
+    main_lines = lines.grep_v(%r[^[ \t]*/])
+    meta_lines = lines.grep(%r[^[ \t]*/])
+    @release_date = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*DATE:[ \t]*(.*)], 1] }.compact.first
     @release_date = nil if @release_date == "-"
-    @name = meta_lines.map{|x| x[%r[^\s*//\s*NAME:\s*(.*)], 1] }.compact.first
-    @source = meta_lines.map{|x| x[%r[^\s*//\s*SOURCE:\s*(.*)], 1] }.compact.first
-    display_lines = meta_lines.map{|x| x[%r[^\s*//\s*DISPLAY:\s*(.*)], 1] }.compact
+    @name = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*NAME:[ \t]*(.*)], 1] }.compact.first
+    @source = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*SOURCE:[ \t]*(.*)], 1] }.compact.first
+    display_lines = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*DISPLAY:[ \t]*(.*)], 1] }.compact
     @display = display_lines.empty? ? nil : display_lines.join("\n")
-    @languages = meta_lines.map{|x| x[%r[^\s*//\s*LANGUAGES?:\s*(.*)], 1] }.compact.first
+    @languages = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*LANGUAGES?:[ \t]*(.*)], 1] }.compact.first
 
     section_name = "Main Deck"
 
@@ -27,7 +27,7 @@ class Deck
       end
 
       target = section_name
-      if line.sub!(/\ACOMMANDER:\s+/, "")
+      if line.sub!(/\ACOMMANDER:[ \t]+/, "")
         target = "Commander"
       end
 
@@ -35,7 +35,7 @@ class Deck
       if card_name == nil
         raise("Failed card definition for #{line}")
       end
-      card_name = card_name.sub(/\s*\*+\z/, "")
+      card_name = card_name.sub(/[ \t]*\*+\z/, "")
       foil = nil
       set = nil
       number = nil

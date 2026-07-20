@@ -30,7 +30,7 @@ class ResolveCard
 
   def resolve_line(line)
     return line if @was_updated
-    return line unless line =~ /\A(\d+\s+#{Regexp.escape(@card_name)})#{@optional_printing_code}$/
+    return line unless line =~ /\A(\d+[ \t]+#{Regexp.escape(@card_name)})#{@optional_printing_code}$/
     @was_updated = true
     "#{$1} #{@printing}"
   end

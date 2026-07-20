@@ -16,7 +16,7 @@ class MakeFileNamesMatchMetadata
     deck_files.each do |path|
       title = nil
       path.readlines.each do |line|
-        if line =~ %r[\A// NAME: (.*)]
+        if line =~ %r[\A//[ \t]*NAME: (.*)]
           warn "#{path}: Multiple titles in file" if title
           title = $1
         end

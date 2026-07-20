@@ -36,10 +36,10 @@ class ValidateMetadata
       source = []
       comment_lines = path.readlines.map(&:chomp).grep(%r[\A//])
       comment_lines.each do |line|
-        if line =~ %r[\A// NAME: (.*)]
+        if line =~ %r[\A//[ \t]*NAME: (.*)]
           warn "#{relative_path}: Multiple titles in file" if title_from_file
           title_from_file = $1
-        elsif line =~ %r[\A// SOURCE: (.*)]
+        elsif line =~ %r[\A//[ \t]*SOURCE: (.*)]
           source << $1
         end
       end
@@ -55,7 +55,10 @@ class ValidateMetadata
         end
       end
       set_code = path.dirname.basename.to_s.sub(/_\z/, "")
-      if title_from_file == title_from_file.upcase and not ALL_CAPS_TITLES_OK.include?(set_code)
+      # Titles with no cased letters at all (digits, punctuation, or scripts
+      # without case like CJK) trivially equal their upcase, so require an
+      # actual capital letter to be present
+      if title_from_file =~ /\p{Lu}/ and title_from_file == title_from_file.upcase and not ALL_CAPS_TITLES_OK.include?(set_code)
         warn "#{relative_path}: All capital title"
       end
     end

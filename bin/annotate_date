@@ -12,7 +12,7 @@ tag = "// DATE: #{date}\n"
 
 ARGV.each do |path|
   data = Pathname(path).read
-  next if data =~ %r{//\s*DATE}
+  next if data =~ %r{^//[ \t]*DATE}
   data = data.lines
   header = []
   header << data.shift while data[0] and data[0].start_with?("//")
