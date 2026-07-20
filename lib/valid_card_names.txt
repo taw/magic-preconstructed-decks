@@ -513,7 +513,9 @@ Aisha of Sparks and Smoke
 Aisling Leprechaun
 Ajani Fells the Godsire
 Ajani Goldmane
+Ajani Resolute
 Ajani Steadfast
+Ajani Unrelenting
 Ajani Unyielding
 Ajani Vengeant
 Ajani's Aid
@@ -2101,6 +2103,7 @@ Baeloth Barrityl, Entertainer
 Baffling Defenses
 Baffling End
 Bag Check
+Bag End Banquet
 Bag End Porter
 Bag of Devouring
 Bag of Holding
@@ -2279,7 +2282,9 @@ Barbflare Gremlin
 Barbtooth Wurm
 Barce, Friend Finder
 Bard Class
+Bard the Bowman
 Bard's Bow
+Bard, King of Dale
 Bargain
 Bargaining Table
 Barge In
@@ -2699,6 +2704,7 @@ Biblioplex Tomekeeper
 Bicycle Elemental
 Bicycle Rack
 Bident of Thassa
+Bifur, Melodic Rider
 Bifurcate
 Big Apple, 3 a.m.
 Big Bertha
@@ -2713,8 +2719,10 @@ Big Winner
 Bigfin Bouncer
 Bigger on the Inside
 Bighorner Rancher
+Bilbo's Burglaring
 Bilbo's Ring
 Bilbo, Birthday Celebrant
+Bilbo, Fellow Conspirator
 Bilbo, Luckwearer
 Bilbo, Retired Burglar
 Bilbo, Thief in the Night
@@ -3345,6 +3353,7 @@ Bold Plagiarist
 Boldwyr Aggressor
 Boldwyr Heavyweights
 Boldwyr Intimidator
+Bolg of the North
 Bolrac-Clan Basher
 Bolrac-Clan Crusher
 Bolshack Dragon
@@ -3995,6 +4004,7 @@ Burn from Within
 Burn the Accursed
 Burn the Impure
 Burn the Phyresis
+Burn, Burn, Tree and Fern
 Burner Rocket
 Burning Anger
 Burning Cinder Fury of Crimson Chaos Fire
@@ -6085,6 +6095,7 @@ Crashing Wave
 Crater Elemental
 Crater Hellion
 Crater's Claws
+Craterclaw Colossus
 Craterhoof Behemoth
 Craterize
 Craterous Stomp
@@ -6703,6 +6714,7 @@ Darkslick Drake
 Darkslick Shores
 Darkstar Augur
 Darkstar Banisher
+Darksteel Angel
 Darksteel Axe
 Darksteel Brute
 Darksteel Citadel
@@ -7345,6 +7357,7 @@ Desolation
 Desolation Angel
 Desolation Giant
 Desolation Twin
+Desolation of Smaug
 Despair
 Despark
 Desperate Bloodseeker
@@ -8005,6 +8018,7 @@ Dragon Whisperer
 Dragon Wings
 Dragon's Approach
 Dragon's Claw
+Dragon's Desire
 Dragon's Disciple
 Dragon's Eye Savants
 Dragon's Eye Sentry
@@ -8015,6 +8029,7 @@ Dragon's Presence
 Dragon's Prey
 Dragon's Rage Channeler
 Dragon's Rage Channeler (Alchemy)
+Dragon-Cursed Halls
 Dragon-Kami's Egg
 Dragon-Scarred Bear
 Dragon-Style Twins
@@ -8856,6 +8871,7 @@ Eloren Wilds
 Elrond of the White Council
 Elrond, Lord of Rivendell
 Elrond, Master of Healing
+Elrond, Moon-Reader
 Elsewhere Flask
 Elsha of the Infinite
 Elsha, Threefold Master
@@ -9170,6 +9186,7 @@ Enigmatic Incarnation
 Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
+Enlightened Confidant
 Enlightened Maniac
 Enlightened Tutor
 Enlisted Wurm
@@ -10570,6 +10587,7 @@ Flames of the Firebrand
 Flames of the Raze-Boar
 Flamescroll Celebrant
 Flameshadow Conjuring
+Flameshape
 Flameshot
 Flameskull
 Flamespeaker Adept
@@ -11312,6 +11330,7 @@ Fyndhorn Elder
 Fyndhorn Elves
 Fyndhorn Pollen
 Fynn, the Fangbearer
+Fíli and Kíli, Joyous
 G'raha Tia
 G'raha Tia, Scion Reborn
 GO TO JAIL
@@ -11421,6 +11440,8 @@ Gandalf the Grey
 Gandalf the White
 Gandalf's Sanction
 Gandalf, Friend of the Shire
+Gandalf, Goblins' Bane
+Gandalf, Party Guest
 Gandalf, Westward Voyager
 Gandalf, White Rider
 Gang Up
@@ -11472,10 +11493,12 @@ Garruk's Uprising
 Garruk's Warsteed
 Garruk, Apex Predator
 Garruk, Caller of Beasts
+Garruk, Curse Breaker
 Garruk, Cursed Huntsman
 Garruk, Primal Hunter
 Garruk, Savage Herald
 Garruk, Unleashed
+Garruk, Veiled Butcher
 Garruk, Wrath of the Wilds
 Garruk, the Veil-Cursed
 Garrulous Sycophant
@@ -12511,6 +12534,7 @@ Goliath, Mass Manipulator
 Gollum's Bite
 Gollum, Obsessed Stalker
 Gollum, Patient Plotter
+Gollum, Riddle Master
 Gollum, Scheming Guide
 Golos, Tireless Pilgrim
 Goma Fada Vanguard
@@ -15715,7 +15739,7 @@ Joust Through
 Jousting Dummy
 Jousting Lance
 Joven
-Joven and Chandler
+Joven and Chandler (Not The MBC One)
 Joven's Ferrets
 Joven's Tools
 Jovial Evil
@@ -17327,6 +17351,8 @@ Lilah, Undefeated Slickshot
 Liliana Vess
 Liliana of the Dark Realms
 Liliana of the Veil
+Liliana the Faultless
+Liliana the Repentant
 Liliana's Caress
 Liliana's Contract
 Liliana's Defeat
@@ -17562,6 +17588,7 @@ Long River's Pull
 Long Road Home
 Long-Finned Skywhale
 Long-Forgotten Gohei
+Long-Lost Lances
 Long-Range Sensor
 Long-Term Phyresis Study
 Long-Term Plans
@@ -20130,6 +20157,7 @@ Nebula Dragon
 Neck Breaker
 Neck Snap
 Neck Tangle
+Necklace of Girion
 Necra Disciple
 Necra Sanctuary
 Necratog
@@ -21026,6 +21054,7 @@ Ominous Roost
 Ominous Seas
 Ominous Sphinx
 Ominous Traveler
+Omit Variables
 Omnath, Locus of All
 Omnath, Locus of Creation
 Omnath, Locus of Mana
@@ -21256,6 +21285,7 @@ Organ Harvest
 Organ Hoarder
 Organic Extinction
 Orgg
+Ori, Plate Stacker
 Origin Spellbomb
 Origin of Black Widow
 Origin of Captain America
@@ -21592,6 +21622,7 @@ Paradise Plume
 Paradox Engine
 Paradox Gardens
 Paradox Haze
+Paradox Shaper
 Paradox Surveyor
 Paradox Zone
 Paradoxical Outcome
@@ -21768,6 +21799,7 @@ Peema Outrider
 Peema Trailblazer
 Peer Past the Veil
 Peer Pressure
+Peer Review
 Peer Through Depths
 Peer into the Abyss
 Peerless Recycling
@@ -22861,6 +22893,7 @@ Prowling Geistcatcher
 Prowling Nightstalker
 Prowling Pangolin
 Prowling Serpopard
+Prudent Fateseer
 Prying Blade
 Prying Eyes
 Prying Questions
@@ -26074,6 +26107,7 @@ See the Truth
 See the Unwritten
 Seed Guardian
 Seed Spark
+Seed Suture
 Seed of Hope
 Seed the Land
 Seedborn Muse
@@ -27011,6 +27045,7 @@ Silumgar's Scorn
 Silumgar, the Drifting Death
 Silundi Isle
 Silundi Vision
+Silvan Reveler
 Silvanus's Invoker
 Silvar, Devourer of the Free
 Silver Bolt
@@ -27591,6 +27626,7 @@ Smash to Dust
 Smash to Smithereens
 Smashing Spree
 Smashing Success
+Smaug the Impenetrable
 Smaug the Magnificent
 Smell Fear
 Smellerbee, Rebel Fighter
@@ -27942,6 +27978,7 @@ Soul Strings
 Soul Summons
 Soul Swallower
 Soul Swindler
+Soul Tether
 Soul Tithe
 Soul Transfer
 Soul Warden
@@ -28890,12 +28927,14 @@ Stiltstrider
 Stiltzkin, Moogle Merchant
 Stimulus Package
 Stimulus Package (Alchemy)
+Sting, Bilbo's Sword
 Sting, the Glinting Dagger
 Sting-Slinger
 Stingblade Assassin
 Stingcaster Mage
 Stingerback Terror
 Stingerfling Spider
+Stingerquill Voxmancer
 Stinging Barrier
 Stinging Cave Crawler
 Stinging Hivemaster
@@ -29528,6 +29567,7 @@ Supernatural Rescue
 Supernatural Stamina
 Supersize
 Suplex
+Supper for Spiders
 Supplant Form
 Supply
 Supply Caravan
@@ -30622,6 +30662,7 @@ The Charitable Drafter
 The Chase Is On
 The Cheese Stands Alone
 The Cheetah Planet
+The Chief Warg
 The Cinematic Phoenix
 The Circle of Loyalty
 The City on the Edge of Forever
@@ -30681,6 +30722,7 @@ The Dross Pits
 The Drum, Mining Facility
 The Duke of Midrange
 The Duke, Rebel Sentry
+The Eagles Are Coming!
 The Earth Crystal
 The Earth King
 The Egotistical Velociraptor
@@ -30834,6 +30876,7 @@ The Legend of Roku
 The Legend of Yangchen
 The Lion-Turtle
 The Locust God
+The Lonely Mountain
 The Long Reach of Night
 The Lord Master of Hell
 The Lord of Pain
@@ -30925,6 +30968,7 @@ The Protector
 The Provider
 The Prydwen, Steel Flagship
 The Pyramid of Mars
+The Queen of Dale
 The Rack
 The Rani
 The Raven Man
@@ -31007,6 +31051,7 @@ The Ten Rings
 The Tenth Doctor
 The Terror of Serpent's Pass
 The Thanos-Copter
+The Theorist, Jace Beleren
 The Thing
 The Thing, Ben Grimm
 The Third Doctor
@@ -31172,6 +31217,8 @@ Thor Odinson
 Thor, Asgard's Avenger
 Thor, God of Thunder
 Thor, Guardian of Midgard
+Thorin Oakenshield
+Thorin, King of Durin's Folk
 Thorin, Mountain-king
 Thorn Elemental
 Thorn Lieutenant
@@ -31290,6 +31337,7 @@ Thran Turbine
 Thran Vigil
 Thran War Machine
 Thran Weaponry
+Thranduil, the Elvenking
 Thrash
 Thrash of Raptors
 Thrasher Brute
@@ -31594,6 +31642,7 @@ Tinker
 Tinker's Tote
 Tinybones Joins Up
 Tinybones, Bauble Burglar
+Tinybones, Pocket Nuisance
 Tinybones, Trinket Thief
 Tinybones, the Pickpocket
 Tip the Scales
@@ -31616,6 +31665,7 @@ Titan's Grave
 Titan's Presence
 Titan's Revenge
 Titan's Strength
+Titanbones, Towering Heart
 Titania
 Titania's Boon
 Titania's Chosen
@@ -31671,6 +31721,7 @@ Toils of Night and Day
 Tok-Tok, Volcano Born
 Tokka & Rahzar, Terrible Twos
 Tokka & Rahzar, Unsupervised
+Tolabow, Loch Rascal
 Tolaria
 Tolaria West
 Tolarian Academy
@@ -33425,6 +33476,7 @@ Vicious Offering
 Vicious Rivalry
 Vicious Rumors
 Vicious Shadows
+Vicious Verse
 Viconia, Disciple of Arcana
 Viconia, Disciple of Blood
 Viconia, Disciple of Rebirth
@@ -33458,6 +33510,7 @@ Vigilant Sentry
 Vigilante Justice
 Vigor
 Vigor Mortis
+Vigorbloom Vanguard
 Vigorous Charge
 Vigorous Farming
 Vigorspore Wurm
@@ -34957,6 +35010,7 @@ Woodlurker Mimic
 Woodripper
 Woodvine Elemental
 Woodweaver's Puzzleknot
+Woodwork Prodigy
 Woodwraith Corrupter
 Woodwraith Strangler
 Woolly Loxodon
