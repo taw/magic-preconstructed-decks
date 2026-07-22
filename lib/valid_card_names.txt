@@ -1,5 +1,6 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
+"Clown Boat"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
@@ -2029,6 +2030,7 @@ Azcanta, the Sunken Ruin
 Azimaet Drake
 Aziza, Mage Tower Captain
 Azlask, the Swelling Scourge
+Azog, Moria's Ruin
 Azor's Elocutors
 Azor's Gateway
 Azor, the Lawbringer
@@ -2653,6 +2655,7 @@ Benthic Explorers
 Benthic Giant
 Benthic Infiltrator
 Benthicore
+Beorn the Fierce
 Bequeathal
 Bereaved Survivor
 Bereavement
@@ -8533,6 +8536,7 @@ Eager Glyphmage
 Eager Trufflesnout
 Eagle Vision
 Eagle of Deliverance
+Eagle of the Great Shelf
 Eagle of the Watch
 Eagles of the North
 Earl of Squirrel
@@ -8904,6 +8908,7 @@ Elven Farsight
 Elven Fortress
 Elven Lyre
 Elven Palisade
+Elven Raft-Steerer
 Elven Riders
 Elven Rite
 Elven Warhounds
@@ -15289,6 +15294,7 @@ Iron Fist, Hero for Hire
 Iron Fist, Living Weapon
 Iron Giant
 Iron Golem
+Iron Hills Blacksmith
 Iron Lad, Diverging Destiny
 Iron Lad, Young Avenger
 Iron Lance
@@ -16916,6 +16922,7 @@ Last Chance
 Last Gasp
 Last Kiss
 Last Laugh
+Last Light of Durin's Day
 Last March of the Ents
 Last Night Together
 Last One Standing
@@ -21245,6 +21252,7 @@ Orcish Squatters
 Orcish Squatters Avatar
 Orcish Vandal
 Orcish Veteran
+Orcrist, Goblin-cleaver
 Orcus, Prince of Undeath
 Ordeal of Erebos
 Ordeal of Heliod
@@ -21683,6 +21691,7 @@ Parker Luck
 Parnesse, the Subtle Brush
 Paroxysm
 Part Water
+Part in Friendship
 Part the Veil
 Part the Waterveil
 Parting Gust
@@ -24714,6 +24723,7 @@ Road
 Road Rage
 Road of Return
 Roadkill Rodney
+Roads Go Ever, Ever On
 Roadside Assistance
 Roadside Blowout
 Roadside Reliquary
@@ -29015,6 +29025,7 @@ Stone Quarry
 Stone Rain
 Stone Retrieval Unit
 Stone Spirit
+Stone by Sunlight
 Stone of Erech
 Stone-Cold Basilisk
 Stone-Seeder Hierophant
@@ -30808,6 +30819,7 @@ The Grand Tour
 The Great Aerie
 The Great Aurora
 The Great Forest
+The Great Goblin
 The Great Henge
 The Great Juggernaut
 The Great Mound
@@ -30880,6 +30892,7 @@ The Lonely Mountain
 The Long Reach of Night
 The Lord Master of Hell
 The Lord of Pain
+The Lord of the Eagles
 The Lost and the Damned
 The Lunar Whale
 The Lux Foundation Library
@@ -30896,6 +30909,7 @@ The Masamune
 The Massive Zatcatl
 The Master of Cuisine
 The Master of Keys
+The Master of Lake-town
 The Master, Formed Anew
 The Master, Gallifrey's End
 The Master, Mesmerist
@@ -30917,6 +30931,7 @@ The Mind Stone
 The Mindskinner
 The Miniaturizer
 The Mirari Conjecture
+The Misty Mountains Cold
 The Misty Stepper
 The Modern Age
 The Moment
@@ -30924,6 +30939,7 @@ The Monumental Facade
 The Moonbase
 The Most Dangerous Gamer
 The Motherlode, Excavator
+The Mountain-king's Return
 The Mouth of Sauron
 The Mox Painter
 The Multifaceted Phyrexian
