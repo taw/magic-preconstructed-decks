@@ -1,6 +1,5 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
-"Clown Boat"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
@@ -2583,6 +2582,7 @@ Believe
 Believe in the Cleave
 Belisarius Cawl
 Bell Borca, Spectral Sergeant
+Belladonna Took
 Belle of the Brawl
 Belligerent Brontodon
 Belligerent Guest
@@ -2656,6 +2656,7 @@ Benthic Giant
 Benthic Infiltrator
 Benthicore
 Beorn the Fierce
+Beorn's Hospitality
 Bequeathal
 Bereaved Survivor
 Bereavement
@@ -2723,6 +2724,7 @@ Bigfin Bouncer
 Bigger on the Inside
 Bighorner Rancher
 Bilbo's Burglaring
+Bilbo's Gambit
 Bilbo's Ring
 Bilbo, Birthday Celebrant
 Bilbo, Fellow Conspirator
@@ -3536,6 +3538,7 @@ Botanical Brawler
 Botanical Plaza
 Botanical Sanctum
 Bother
+Bothersome Noisemaker
 Bothersome Quasit
 Bottle Gnomes
 Bottle Golems
@@ -4972,6 +4975,7 @@ Chicken Egg
 Chicken Troupe
 Chicken à la King
 Chief Engineer
+Chief Warg's Company
 Chief of the Edge
 Chief of the Foundry
 Chief of the Scale
@@ -7339,6 +7343,7 @@ Desert Nomads
 Desert Sandstorm
 Desert Twister
 Desert Warfare
+Desert Were-Worm
 Desert of the Fervent
 Desert of the Glorified
 Desert of the Indomitable
@@ -7951,6 +7956,8 @@ Dovin, Grand Arbiter
 Dovin, Hand of Control
 Down
 Down for Repairs
+Down in the Valley
+Down, Down to Goblin-town
 Downdraft
 Downhill Charge
 Downpour
@@ -8488,6 +8495,7 @@ Dwarven Hold
 Dwarven Landslide
 Dwarven Lieutenant
 Dwarven Lightsmith
+Dwarven Mauler
 Dwarven Mine
 Dwarven Miner
 Dwarven Nomad
@@ -11447,6 +11455,7 @@ Gandalf's Sanction
 Gandalf, Friend of the Shire
 Gandalf, Goblins' Bane
 Gandalf, Party Guest
+Gandalf, Spark Starter
 Gandalf, Westward Voyager
 Gandalf, White Rider
 Gang Up
@@ -11549,6 +11558,7 @@ Gatherer of Graces
 Gathering Place
 Gathering Stone
 Gathering Throng
+Gathering of Darkness
 Gatstaf Arsonists
 Gatstaf Howler
 Gatstaf Ravagers
@@ -12208,6 +12218,7 @@ Gnarlid Pack
 Gnarlroot Pallbearer
 Gnarlroot Trapper
 Gnarlwood Dryad
+Gnashing of Teeth
 Gnat Alley Creeper
 Gnat Miser
 Gnathosaur
@@ -12536,6 +12547,7 @@ Goliath Sphinx
 Goliath Spider
 Goliath Truck
 Goliath, Mass Manipulator
+Gollum the Abandoned
 Gollum's Bite
 Gollum, Obsessed Stalker
 Gollum, Patient Plotter
@@ -12767,6 +12779,7 @@ Great Divide Guide
 Great Fang Chroniclers
 Great Forest Druid
 Great Furnace
+Great Gilded Boat
 Great Hall of Starnheim
 Great Hall of the Biblioplex
 Great Hall of the Citadel
@@ -18521,6 +18534,7 @@ Master of the Wild Hunt
 Master of the Wild Hunt Avatar
 Master the Way
 Master's Call
+Master's Councillors
 Master's Guidance
 Master's Guide-Mural
 Master's Manufactory
@@ -19299,6 +19313,7 @@ Mistvein Borderpost
 Mistwalker
 Mistway Spy
 Misty Knight, Hero for Hire
+Misty Mountains Raider
 Misty Palms Oasis
 Misty Rainforest
 Misty Salon
@@ -20438,6 +20453,7 @@ Nightguard Patrol
 Nighthawk Scavenger
 Nighthawk, Dark Defender
 Nighthaze
+Nighthowl Pursuer
 Nighthowler
 Nightkin Ambusher
 Nightmare
@@ -23680,6 +23696,7 @@ Raven's Run
 Raven's Run Dragoon
 Ravener
 Ravenform
+Ravenhill Flock
 Ravenloft Adventurer
 Ravenous Amulet
 Ravenous Baboons
@@ -28057,6 +28074,7 @@ Soulsworn Jury
 Soulsworn Spirit
 Soultether Golem
 Sound the Call
+Sound the Trumpets
 Soundwave, Sonic Spy
 Soundwave, Superior Captain
 Sourbread Auntie
@@ -31010,6 +31028,7 @@ The Rollercrusher Ride
 The Royal Scions
 The Ruinous Powers
 The Ruinous Wrecking Crew
+The Sackville-Bagginses
 The Sad Creaturez
 The Salubrious Philosopher
 The Savant
@@ -31354,6 +31373,7 @@ Thran Turbine
 Thran Vigil
 Thran War Machine
 Thran Weaponry
+Thranduil's Decree
 Thranduil, the Elvenking
 Thrash
 Thrash of Raptors
@@ -31428,6 +31448,7 @@ Throne of the Grim Captain
 Throne of the High City
 Throttle
 Through the Breach
+Through the Forest Gate
 Throw a Line
 Throw from the Saddle
 Throwing Knife
