@@ -12,6 +12,7 @@ blocks:
           commands:
             - checkout
             - sem-version ruby 3.3.12
-            - bundle install --path vendor/bundle
+            - bundle config set --local path vendor/bundle
+            - bundle install
             - bundle exec bin/build_jsons decks.json
             - bundle exec bin/validate_card_names
