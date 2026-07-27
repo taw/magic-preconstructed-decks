@@ -2285,6 +2285,7 @@ Barce, Friend Finder
 Bard Class
 Bard the Bowman
 Bard's Bow
+Bard's Company
 Bard, King of Dale
 Bargain
 Bargaining Table
@@ -11407,6 +11408,7 @@ Galestrike
 Galewind Moose
 Galian Beast
 Galina's Knight
+Galion, Elvenking's Butler
 Gallant Cavalry
 Gallant Citizen
 Gallant Fowlknight
