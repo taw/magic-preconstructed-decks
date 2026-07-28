@@ -1,0 +1,10 @@
+// NAME: Their Magic is Limitless Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1251787
+// DATE: 2026-07-22
+1 [SLD:2678] Dark Ritual [foil]
+1 [SLD:2679] Cultivate [foil]
+1 [SLD:2680] Finale of Devastation [foil]
+1 [SLD:2681] Lathril, Blade of the Elves [foil]
+1 [SLD:2682] Coat of Arms [foil]
+1 [SLD:2683] Sol Ring [foil]
+1 [SLD:2684] Path of Ancestry [foil]
