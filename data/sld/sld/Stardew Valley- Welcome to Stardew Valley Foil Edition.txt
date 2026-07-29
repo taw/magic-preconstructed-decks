@@ -1,0 +1,11 @@
+// NAME: Stardew Valley: Welcome to Stardew Valley Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253585
+// DATE: 2026-08-03
+1 [SLD:2801] Stardew Valley [foil]
+1 [SLD:2802] Wedding Ring [foil]
+1 [SLD:2803] Dawn's Truce [foil]
+1 [SLD:2804] Swords to Plowshares [foil]
+1 [SLD:2805] Rites of Flourishing [foil]
+1 [SLD:2806] Kynaios and Tiro of Meletis [foil]
+1 [SLD:2807] Sol Ring [foil]
+1 [SLD:2808] Food [foil] [token]

@@ -1,0 +1,10 @@
+// NAME: Stardew Valley: A Flicker in the Deep Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253581
+// DATE: 2026-08-03
+1 [SLD:2814] Atsushi, the Blazing Sky [foil]
+1 [SLD:2815] Mitotic Slime [foil]
+1 [SLD:2816] Arcane Signet [foil]
+1 [SLD:2817] Sword of Forge and Frontier [foil]
+1 [SLD:2818] Treasure Vault [foil]
+1 [SLD:2819] Ooze [foil] [token]
+1 [SLD:2820] Treasure [foil] [token]
