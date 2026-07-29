@@ -1,0 +1,10 @@
+// NAME: Stardew Valley: A Flicker in the Deep
+// SOURCE: https://secretlair.wizards.com/us/product/1253582
+// DATE: 2026-08-03
+1 [SLD:2814] Atsushi, the Blazing Sky
+1 [SLD:2815] Mitotic Slime
+1 [SLD:2816] Arcane Signet
+1 [SLD:2817] Sword of Forge and Frontier
+1 [SLD:2818] Treasure Vault
+1 [SLD:2819] Ooze [token]
+1 [SLD:2820] Treasure [token]

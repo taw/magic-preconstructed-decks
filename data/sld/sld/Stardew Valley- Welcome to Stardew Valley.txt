@@ -1,0 +1,11 @@
+// NAME: Stardew Valley: Welcome to Stardew Valley
+// SOURCE: https://secretlair.wizards.com/us/product/1253586
+// DATE: 2026-08-03
+1 [SLD:2801] Stardew Valley
+1 [SLD:2802] Wedding Ring
+1 [SLD:2803] Dawn's Truce
+1 [SLD:2804] Swords to Plowshares
+1 [SLD:2805] Rites of Flourishing
+1 [SLD:2806] Kynaios and Tiro of Meletis
+1 [SLD:2807] Sol Ring
+1 [SLD:2808] Food [token]

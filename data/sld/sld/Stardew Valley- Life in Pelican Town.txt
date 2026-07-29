@@ -1,0 +1,8 @@
+// NAME: Stardew Valley: Life in Pelican Town
+// SOURCE: https://secretlair.wizards.com/us/product/1253584
+// DATE: 2026-08-03
+1 [SLD:2809] Crop Rotation
+1 [SLD:2810] Fountainport
+1 [SLD:2811] Homeward Path
+1 [SLD:2812] Command Tower
+1 [SLD:2813] Yavimaya, Cradle of Growth
