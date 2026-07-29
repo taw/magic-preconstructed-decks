@@ -1,0 +1,8 @@
+// NAME: Wild in Bloom
+// SOURCE: https://mtg.wiki/page/Secret_Lair_Drop_Series:_Wild_in_Bloom
+// DATE: 2026-07-13
+1 [SLD:2658] Nissa, Resurgent Animist [foil]
+1 [SLD:2659] Ramunap Excavator [foil]
+1 [SLD:2660] Six [foil]
+1 [SLD:2661] Tireless Provisioner [foil]
+1 [SLD:2662] Titania, Protector of Argoth [foil]
