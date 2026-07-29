@@ -1,0 +1,8 @@
+// NAME: Stardew Valley: Life in Pelican Town Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253583
+// DATE: 2026-08-03
+1 [SLD:2809] Crop Rotation [foil]
+1 [SLD:2810] Fountainport [foil]
+1 [SLD:2811] Homeward Path [foil]
+1 [SLD:2812] Command Tower [foil]
+1 [SLD:2813] Yavimaya, Cradle of Growth [foil]
