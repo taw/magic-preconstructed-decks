@@ -713,6 +713,7 @@ Alms Beast
 Alms Collector
 Alms of the Vein
 Aloe Alchemist
+Along the Crooked Way
 Alora, Cheerful Assassin
 Alora, Cheerful Mastermind
 Alora, Cheerful Scout
@@ -2161,6 +2162,7 @@ Baleful Mastery
 Baleful Stare
 Baleful Strix
 Balemurk Leech
+Balin, Loremaster
 Ball Lightning
 Ballad of the Black Flag
 Ballista Charger
@@ -2286,6 +2288,7 @@ Bard Class
 Bard the Bowman
 Bard's Bow
 Bard's Company
+Bard, Heir of Girion
 Bard, King of Dale
 Bargain
 Bargaining Table
@@ -2572,6 +2575,7 @@ Behold the Power of Destruction
 Behold the Sinister Six!
 Behold the Unspeakable
 Beifong's Bounty Hunters
+Bejeweled Warg
 Belbe's Armor
 Belbe's Percher
 Belbe's Portal
@@ -2658,6 +2662,7 @@ Benthic Infiltrator
 Benthicore
 Beorn the Fierce
 Beorn's Hospitality
+Beorn, Reluctant Host
 Bequeathal
 Bereaved Survivor
 Bereavement
@@ -2724,6 +2729,7 @@ Big Winner
 Bigfin Bouncer
 Bigger on the Inside
 Bighorner Rancher
+Bilbo Baggins, Burglar
 Bilbo's Burglaring
 Bilbo's Gambit
 Bilbo's Ring
@@ -2732,6 +2738,7 @@ Bilbo, Fellow Conspirator
 Bilbo, Luckwearer
 Bilbo, Retired Burglar
 Bilbo, Thief in the Night
+Bilbo, Unexpected Adventurer
 Bile Blight
 Bile Urchin
 Bile-Vial Boggart
@@ -3360,6 +3367,7 @@ Boldwyr Aggressor
 Boldwyr Heavyweights
 Boldwyr Intimidator
 Bolg of the North
+Bolg, Erebor's Reckoning
 Bolrac-Clan Basher
 Bolrac-Clan Crusher
 Bolshack Dragon
@@ -4294,6 +4302,7 @@ Canopy Surge
 Canopy Tactician
 Canopy Tactician (Alchemy)
 Canopy Vista
+Cantankerous Keepers
 Cantivore
 Cantor of the Refrain
 Canyon Crab
@@ -4980,6 +4989,7 @@ Chief Warg's Company
 Chief of the Edge
 Chief of the Foundry
 Chief of the Scale
+Chief of the Wilds
 Chieftain en-Dal
 Child of Alara
 Child of Gaea
@@ -5227,6 +5237,7 @@ Clan Defiance
 Clan Guildmage
 Clandestine Chameleon
 Clandestine Meddler
+Clap! Snap!
 Clara Oswald
 Clarion Cathars
 Clarion Conqueror
@@ -5701,6 +5712,7 @@ Confront the Assault
 Confront the Past
 Confront the Unknown
 Confusion in the Ranks
+Confusticate and Bebother
 Congregate
 Congregation Gryff
 Congregation at Dawn
@@ -6246,6 +6258,7 @@ Crucible of Fire
 Crucible of Worlds
 Crucible of the Spirit Dragon
 Crude Abattoir
+Crude Bent Blade
 Crude Rampart
 Cruel Administrator
 Cruel Alliance
@@ -6626,6 +6639,7 @@ Dance, Pathetic Marionette
 Dancer's Chakrams
 Dancing Scimitar
 Dancing Sword
+Dancing from Dark to Dawn
 Dandân
 Dangerous
 Dangerous Wager
@@ -7365,6 +7379,7 @@ Desolate Mire
 Desolation
 Desolation Angel
 Desolation Giant
+Desolation Prowler
 Desolation Twin
 Desolation of Smaug
 Despair
@@ -7912,6 +7927,7 @@ Doppelgang
 Dora Milaje Elite
 Doran, Besieged by Time
 Doran, the Siege Tower
+Dori, Bearer of Friends
 Dormant Gomazoa
 Dormant Grove
 Dormant Sliver
@@ -8455,6 +8471,7 @@ Duskrider Falcon
 Duskrider Peregrine
 Duskshell Crawler
 Duskwalker
+Duskwatch Hunter
 Duskwatch Recruiter
 Duskwielder
 Duskworker
@@ -8477,6 +8494,7 @@ Dutiful Servants
 Dutiful Thrull
 Duty Beyond Death
 Duty-Bound Dead
+Dwalin, Weaponmaster
 Dwarfhold Champion
 Dwarfhold Champion (Alchemy)
 Dwarven Armorer
@@ -8496,6 +8514,7 @@ Dwarven Hold
 Dwarven Landslide
 Dwarven Lieutenant
 Dwarven Lightsmith
+Dwarven Mattock
 Dwarven Mauler
 Dwarven Mine
 Dwarven Miner
@@ -8531,6 +8550,9 @@ Dynamic Soar
 Dynamite Diver
 Dynavolt Tower
 Dystopia
+Dáin Ironfoot
+Dáin of the Ancient Halls
+Dáin's Company
 Déjà Vu
 Dúnedain Blade
 Dúnedain Rangers
@@ -8547,6 +8569,7 @@ Eagle Vision
 Eagle of Deliverance
 Eagle of the Great Shelf
 Eagle of the Watch
+Eagle's Rescue
 Eagles of the North
 Earl of Squirrel
 Early Frost
@@ -8599,6 +8622,7 @@ East-Mark Cavalier
 Easterling Vanguard
 Eastern Paladin
 Eastfarthing Farmer
+Easy Pickings
 Easy Prey
 Eat to Extinction
 Eaten Alive
@@ -8917,10 +8941,12 @@ Elven Farsight
 Elven Fortress
 Elven Lyre
 Elven Palisade
+Elven Passage
 Elven Raft-Steerer
 Elven Riders
 Elven Rite
 Elven Warhounds
+Elvenking's Halls
 Elves of Deep Shadow
 Elvish Aberration
 Elvish Archdruid
@@ -10043,6 +10069,7 @@ Fated Intervention
 Fated Retribution
 Fated Return
 Fateful Absence
+Fateful Discovery
 Fateful End
 Fateful Handoff
 Fateful Showdown
@@ -10114,6 +10141,7 @@ Fearless Pup
 Fearless Skald
 Fearless Swashbuckler
 Fearsome Awakening
+Fearsome Goblin Pair
 Fearsome Temper
 Fearsome Werewolf
 Fearsome Whelp
@@ -11188,6 +11216,7 @@ From the Ashes
 From the Catacombs
 From the Rubble
 Frondland Felidar
+Front Porch Sentries
 Frontier Bivouac
 Frontier Explorer
 Frontier Guide
@@ -11345,6 +11374,7 @@ Fyndhorn Elves
 Fyndhorn Pollen
 Fynn, the Fangbearer
 Fíli and Kíli, Joyous
+Fíli the Pathfinder
 G'raha Tia
 G'raha Tia, Scion Reborn
 GO TO JAIL
@@ -11457,7 +11487,9 @@ Gandalf's Sanction
 Gandalf, Friend of the Shire
 Gandalf, Goblins' Bane
 Gandalf, Party Guest
+Gandalf, Shadow's Foe
 Gandalf, Spark Starter
+Gandalf, Wandering Wizard
 Gandalf, Westward Voyager
 Gandalf, White Rider
 Gang Up
@@ -11716,6 +11748,7 @@ Get Your Head in the Game
 Get a Leg Up
 Get a Life
 Get the Point
+Getaway Barrel
 Getaway Car
 Getaway Glamer
 Geth's Grimoire
@@ -11926,6 +11959,7 @@ Gifted Aetherborn
 Gifts Given
 Gifts Ungiven
 Gigadrowse
+Gigantic Big Bear
 Gigantiform
 Gigantoad
 Gigantomancer
@@ -12030,6 +12064,7 @@ Gladewalker Ritualist
 Gladiolus Amicitia
 Glaive of the Guildpact
 Glamdring
+Glamdring, Foe-hammer
 Glamer Gifter
 Glamer Spinners
 Glamerdye
@@ -12060,11 +12095,13 @@ Glassworks
 Glaze Fiend
 Gleam of Authority
 Gleam of Battle
+Gleam of Death
 Gleam of Resistance
 Gleaming Barrier
 Gleaming Bastion
 Gleaming Geardrake
 Gleaming Overseer
+Gleaming Splendor
 Gleancrawler
 Gleeful Arsonist
 Gleeful Demolition
@@ -12205,6 +12242,7 @@ Glyph of Destruction
 Glyph of Doom
 Glyph of Life
 Glyph of Reincarnation
+Glóin the Mighty
 Glóin, Dwarf Emissary
 Gnarlback Rhino
 Gnarlbark Elm
@@ -12373,6 +12411,7 @@ Goblin Patrol
 Goblin Picker
 Goblin Piker
 Goblin Piledriver
+Goblin Plate Mail
 Goblin Polka Band
 Goblin Psychopath
 Goblin Pyromancer
@@ -12441,6 +12480,7 @@ Goblin Warrens
 Goblin Welder
 Goblin Wizard
 Goblin Wizardry
+Goblin-town
 Goblins of the Flarg
 Goblinslide
 Gobsmacked
@@ -12555,6 +12595,7 @@ Gollum, Obsessed Stalker
 Gollum, Patient Plotter
 Gollum, Riddle Master
 Gollum, Scheming Guide
+Gollum, Silent Slinker
 Golos, Tireless Pilgrim
 Goma Fada Vanguard
 Goma Fada Vanguard (Alchemy)
@@ -12562,6 +12603,7 @@ Gomazoa
 Gomif, Fast Racer
 Gond Gate
 Gone
+Gone Fishing
 Gone Missing
 Gongaga, Reactor Town
 Gonti's Aether Heart
@@ -12782,6 +12824,7 @@ Great Fang Chroniclers
 Great Forest Druid
 Great Furnace
 Great Gilded Boat
+Great Goblin, Foul-Hearted
 Great Hall of Starnheim
 Great Hall of the Biblioplex
 Great Hall of the Citadel
@@ -12791,6 +12834,7 @@ Great Oak Guardian
 Great Sable Stag
 Great Teacher's Decree
 Great Train Heist
+Great Ugly-Looking Goblin
 Great Unclean One
 Great Wall
 Great Whale
@@ -13585,6 +13629,7 @@ Head Banger
 Head Games
 Head of the Class
 Head of the Homestead
+Head of the Hunt
 Head to Head
 Headhunter
 Headless Horseman
@@ -14057,6 +14102,7 @@ Hoarding Broodlord
 Hoarding Dragon
 Hoarding Ogre
 Hoarding Recluse
+Hobbit Hole
 Hobbit's Sting
 Hobble
 Hobblefiend
@@ -15050,6 +15096,7 @@ Inscription of Insight
 Inscription of Ruin
 Insectile Aberration
 Insectoid Exterminator
+Inside Information
 Inside Out
 Inside Source
 Insidious Bookworms
@@ -15309,6 +15356,7 @@ Iron Fist, Hero for Hire
 Iron Fist, Living Weapon
 Iron Giant
 Iron Golem
+Iron Hills
 Iron Hills Blacksmith
 Iron Lad, Diverging Destiny
 Iron Lad, Young Avenger
@@ -16243,6 +16291,7 @@ Ketria Triome
 Kevin, Questing Dragon
 Key to the Archive
 Key to the City
+Key to the Side-Door
 Keymaster Rogue
 Keys to the House
 Kezzerdrix
@@ -16806,6 +16855,7 @@ Kyscu Drake
 Kytheon's Irregulars
 Kytheon's Tactics
 Kytheon, Hero of Akros
+Kíli the Resourceful
 Lab Rats
 Laboratory Brute
 Laboratory Drudge
@@ -16859,6 +16909,8 @@ Lair of the Hydra
 Lairwatch Giant
 Lake Silencio
 Lake of the Dead
+Lake-town
+Lake-town Mariners
 Lakeside Shack
 Lam, Storm Crane Elder
 Lambholt Butcher
@@ -16916,6 +16968,7 @@ Laquatus's Disdain
 Lara Croft, Tomb Raider
 Larceny
 Larder Zombie
+Large Bear
 Largepox
 Larger Than Life
 Larval Scoutlander
@@ -17462,6 +17515,7 @@ Littjara
 Littjara Glade-Warden
 Littjara Kinseekers
 Littjara Mirrorlake
+Little Bear
 Little Girl
 Liturgy of Blood
 Liu Bei, Lord of Shu
@@ -18617,6 +18671,7 @@ Mazzy, Truesword Paladin
 Maître Tree
 Me, the Immortal
 Meadowboon
+Meager Meal
 Meandered Towershell
 Meandering River
 Meandering Towershell
@@ -19148,9 +19203,12 @@ Miren, the Moaning Well
 Miriam, Herd Whisperer
 Mirko Vosk, Mind Drinker
 Mirko, Obsessive Theorist
+Mirkwood
 Mirkwood Bats
 Mirkwood Channeler
 Mirkwood Elk
+Mirkwood Nurturer
+Mirkwood Pathmaker
 Mirkwood Spider
 Mirkwood Trapper
 Mirozel
@@ -19678,6 +19736,7 @@ Mossfire Valley
 Mosstodon
 Mosswood Dreadknight
 Mosswort Bridge
+Most Decrepit Old Bird
 Most Valuable Slayer
 Most Wanted
 Most Wanted (Alchemy)
@@ -20112,6 +20171,7 @@ Nashi, Moon's Legacy
 Nashi, Searcher in the Dark
 Nassari, Dean of Expression
 Nasty End
+Nasty Little Rabbit
 Nath of the Gilt-Leaf
 Nath's Buffoon
 Nath's Elite
@@ -20652,6 +20712,7 @@ Nomads' Assembly
 Non-Human Cannonball
 Noose Constrictor
 Noosegraf Mob
+Nori, Teller of Tales
 Norika Yamazaki, the Poet
 Norin and Feldon
 Norin the Wary
@@ -21018,6 +21079,7 @@ Okoye, Dora Milaje Leader
 Okoye, Mighty and Adored
 Ol' Buzzbark
 Olag, Ludevic's Hubris
+Old Fat Spider
 Old Flitterfang
 Old Fogey
 Old Ghastbark
@@ -21295,6 +21357,7 @@ Order of the Stars
 Order of the White Shield
 Ordered Migration
 Orderly Plaza
+Ordinary Bear
 Ordinary Pony
 Ordruun Commando
 Ordruun Mentor
@@ -21312,6 +21375,7 @@ Organ Harvest
 Organ Hoarder
 Organic Extinction
 Orgg
+Ori, Keeper of Songs
 Ori, Plate Stacker
 Origin Spellbomb
 Origin of Black Widow
@@ -21760,6 +21824,7 @@ Pathmaker Initiate
 Pathrazer of Ulamog
 Paths of Tuinvale
 Pathway Arrows
+Patient Instructor
 Patient Naturalist
 Patient Rebuilding
 Patient Turtle
@@ -22412,6 +22477,7 @@ Plumes of Peace
 Plumeveil
 Plummet
 Plunder
+Plunder the Trollshaws
 Plundered Statue
 Plunderer's Prize
 Plundering Barbarian
@@ -23308,6 +23374,7 @@ Rack and Ruin
 Racketeer Boss
 Rackling
 Rad Rascal
+Radagast of Rhosgobel
 Radagast the Brown
 Radagast, Wizard of Wilds
 Raddic, Tal Zealot
@@ -23367,6 +23434,7 @@ Rage Nimbus
 Rage Reflection
 Rage Thrower
 Rage Weaver
+Rage into the Valley
 Rage of Purphoros
 Rage of Winter
 Rage-Scarred Berserker
@@ -24437,6 +24505,7 @@ Rhonas the Indomitable
 Rhonas's Last Stand
 Rhonas's Monument
 Rhonas's Stalwart
+Rhovanion Rampager
 Rhox
 Rhox Bodyguard
 Rhox Brute
@@ -24849,6 +24918,7 @@ Roiling Waters
 Roilmage's Trick
 Roku's Mastery
 Role Reversal
+Roll-Roll-Roll-Roll
 Roller Coaster
 Rollick of Abandon
 Rollicking Throng
@@ -27075,6 +27145,7 @@ Silumgar's Scorn
 Silumgar, the Drifting Death
 Silundi Isle
 Silundi Vision
+Silvan Rally
 Silvan Reveler
 Silvanus's Invoker
 Silvar, Devourer of the Free
@@ -27658,6 +27729,7 @@ Smashing Spree
 Smashing Success
 Smaug the Impenetrable
 Smaug the Magnificent
+Smaug, Wicked Worm
 Smell Fear
 Smellerbee, Rebel Fighter
 Smelt
@@ -28160,6 +28232,7 @@ Spawning Pod
 Spawning Pool
 Spawnsire of Ulamog
 Spawnwrithe
+Speak Secrets
 Speakeasy Server
 Speakeasy Server (Alchemy)
 Speaker of the Heavens
@@ -29049,6 +29122,7 @@ Stone Spirit
 Stone by Sunlight
 Stone of Erech
 Stone-Cold Basilisk
+Stone-Giant of High Pass
 Stone-Seeder Hierophant
 Stone-Throwing Devils
 Stone-Tongue Basilisk
@@ -30007,6 +30081,7 @@ Take Possession
 Take Up Arms
 Take Up the Shield
 Take Vengeance
+Take a Glance
 Take a Trip to...
 Take for a Ride
 Take into Custody
@@ -30663,6 +30738,7 @@ The Big Top
 The Binding of the Titans
 The Bird Champion
 The Birth of Meletis
+The Black Arrow
 The Black Breath
 The Black Gate
 The Blackstaff of Waterdeep
@@ -30976,6 +31052,7 @@ The Neutrinos
 The Night of the Doctor
 The Ninth Doctor
 The Nipton Lottery
+The Notary Hobbits
 The Octopus Official
 The Odd Acorn Gang
 The Omenkeel
@@ -31256,6 +31333,7 @@ Thor, Asgard's Avenger
 Thor, God of Thunder
 Thor, Guardian of Midgard
 Thorin Oakenshield
+Thorin, Company's Leader
 Thorin, King of Durin's Folk
 Thorin, Mountain-king
 Thorn Elemental
@@ -31375,7 +31453,10 @@ Thran Turbine
 Thran Vigil
 Thran War Machine
 Thran Weaponry
+Thranduil the Strategist
+Thranduil's Company
 Thranduil's Decree
+Thranduil, Sindarin Liege
 Thranduil, the Elvenking
 Thrash
 Thrash of Raptors
@@ -31465,6 +31546,7 @@ Thrummingbird
 Thrun, Breaker of Silence
 Thrun, the Last Troll
 Thryx, the Sudden Storm
+Thrór's Map
 Thud
 Thud-for-Duds
 Thumbscrews
@@ -31601,6 +31683,7 @@ Tiger-Tribe Hunter
 Tigereye Cameo
 Tightening Coils
 Tigra, Feline Fury
+Till and Tend
 Tiller Engine
 Tiller of Flesh
 Tilling Treefolk
@@ -32275,6 +32358,7 @@ Trivia Contest (e)
 Trivia Contest (f)
 Trokin High Guard
 Troll Ascetic
+Troll Negotiations
 Troll of Khazad-dûm
 Troll-Horn Cameo
 Trollbred Guardian
@@ -32674,6 +32758,7 @@ Uncomfortable Chill
 Uncontrollable Anger
 Uncontrolled Infestation
 Unconventional Tactics
+Uncover the Moon-Letters
 Uncovered Clues
 Unctus's Retrofitter
 Unctus, Grand Metatect
@@ -34475,6 +34560,7 @@ Well of Knowledge
 Well of Life
 Well of Lost Dreams
 Well-Laid Plans
+Well-Worn Spatula
 Wellgabber Apothecary
 Wellspring
 Wellwisher
@@ -34688,6 +34774,7 @@ Wild-Magic Sorcerer
 Wildblood Pack
 Wildborn Preserver
 Wildcall
+Wilderland Scrounger
 Wilderness Elemental
 Wilderness Hypnotist
 Wilderness Reclamation
@@ -34969,6 +35056,7 @@ Wizard's Lightning
 Wizard's Retort
 Wizard's Rockets
 Wizard's Spellbook
+Wizard's Staff
 Wizards of Thay
 Wizards of the _____
 Wizards' School
@@ -35045,6 +35133,7 @@ Woodland Patrol
 Woodland Sleuth
 Woodland Stream
 Woodland Wanderer
+Woodland Weavemaster
 Woodlot Crawler
 Woodlurker Mimic
 Woodripper
