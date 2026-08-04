@@ -1568,6 +1568,7 @@ Arwen's Gift
 Arwen, Mortal Queen
 Arwen, Weaver of Hope
 Aryel, Knight of Windgrace
+Arzakon
 As Foretold
 As Luck Would Have It
 Asari Captain
@@ -1589,6 +1590,7 @@ Ash Zealot
 Ash, Party Crasher
 Asha's Favor
 Ashad, the Lone Cyberman
+Ashaya's Enduring Bond
 Ashaya, Soul of the Wild
 Ashcloud Phoenix
 Ashcoat Bear
@@ -1859,6 +1861,7 @@ Auton Soldier
 Autonomous Assembler
 Autumn Willow
 Autumn Willow and Baron Sengir
+Autumn Willow, Harmony
 Autumn's Veil
 Autumn-Tail, Kitsune Sage
 Autumnal Gloom
@@ -2152,6 +2155,7 @@ Balduvian Shaman
 Balduvian Trading Post
 Balduvian War-Makers
 Balduvian Warlord
+Balefang the Unslayable
 Balefire Dragon
 Balefire Liege
 Baleful Ammit
@@ -3244,6 +3248,7 @@ Blooming Marsh
 Blooming Stinger
 Bloomvine Regent
 Bloomwielder Dryads
+Blor the Impervious
 Blorbian Buddy
 Blossom Dryad
 Blossom Prancer
@@ -3546,6 +3551,7 @@ Bosh, Iron Golem
 Bosh, Iron Golem Avatar
 Bosk Banneret
 Bosom Buddy
+Boss Uramon, Shadow's Reach
 Boss's Chauffeur
 Bot Bashing Time
 Botanical Brawler
@@ -4992,6 +4998,7 @@ Chicken Egg
 Chicken Troupe
 Chicken à la King
 Chief Engineer
+Chief Magistrate of Mercadia
 Chief Warg's Company
 Chief of the Edge
 Chief of the Foundry
@@ -5031,6 +5038,7 @@ Chimney Goyf
 Chimney Imp
 Chimney Rabble
 Chipper Chopper
+Chira, All In
 Chisei, Heart of Oceans
 Chishiro, the Shattered Blade
 Chiss-Goria, Forge Tyrant
@@ -6818,6 +6826,7 @@ Davriel, Rogue Shadowmage
 Davriel, Soul Broker
 Davros, Dalek Creator
 Davvol's Birthdaymobile
+Davvol, Evincar of Rath
 Dawn
 Dawn Charm
 Dawn Elemental
@@ -8064,6 +8073,7 @@ Dragon's Presence
 Dragon's Prey
 Dragon's Rage Channeler
 Dragon's Rage Channeler (Alchemy)
+Dragon's Smile
 Dragon-Cursed Halls
 Dragon-Kami's Egg
 Dragon-Scarred Bear
@@ -8552,6 +8562,7 @@ Dwindle
 Dwynen's Elite
 Dwynen, Gilt-Leaf Daen
 Dyadrine, Synthesis Amalgam
+Dyfed, the Guiding Hand
 Dying Wail
 Dying Wish
 Dying to Serve
@@ -8763,6 +8774,7 @@ Eirdu, Carrier of Dawn
 Eivor, Battle-Ready
 Eivor, Wolf-Kissed
 Eject
+Ekthi, Contaminator Priest
 Ekundu Cyclops
 Ekundu Griffin
 El-Hajjâj
@@ -8777,6 +8789,7 @@ Eland Umbra
 Elanor Gardner
 Elas il-Kor, Sadistic Pilgrim
 Elbrus, the Binding Blade
+Elda, Conjurer of Spectacle
 Elder Arthur Maxson
 Elder Auntie
 Elder Brain
@@ -10279,6 +10292,7 @@ Ferocious Zheng
 Ferocity
 Ferocity of the Wilds
 Feroz's Ban
+Feroz, Ulgrotha's Warden
 Ferrafor, Young Yew
 Ferris Wheel
 Ferropede
@@ -10766,6 +10780,7 @@ Flip the Switch
 Flitterstep Eidolon
 Flitterwing Nuisance
 Flitting Guerrilla
+Flitwing, Lyev Detective
 Floating Shield
 Floating-Dream Zubera
 Flock Impostor
@@ -12109,6 +12124,7 @@ Glasspool Mimic
 Glasspool Shore
 Glasswing Grace
 Glassworks
+Glava, Five-Advents Mage
 Glaze Fiend
 Gleam of Authority
 Gleam of Battle
@@ -12698,6 +12714,7 @@ Grafted Identity
 Grafted Skullcap
 Grafted Wargear
 Graham O'Brien
+Grakk the Pacifist
 Grakmaw, Skyclave Ravager
 Gran Pulse Ochu
 Gran-Gran
@@ -12713,6 +12730,7 @@ Grand Master of Flowers
 Grand Melee
 Grand Ossuary
 Grand Warlord Radha
+Grandmother Goby
 Grandmother Ravi Sengir
 Grandmother Sengir
 Granger Guildmage
@@ -12900,6 +12918,7 @@ Greenhilt Trainee
 Greenhouse
 Greenseeker
 Greenside Watcher
+Greensleeves
 Greensleeves, Maro-Sorcerer
 Greenwarden of Murasa
 Greenweaver Druid
@@ -13025,6 +13044,7 @@ Grizzled Leotau
 Grizzled Outcasts
 Grizzled Outrider
 Grizzled Wolverine
+Grizzlegom, Hurloon Hero
 Grizzly Bears
 Grizzly Fate
 Grizzly Ghoul
@@ -13225,6 +13245,7 @@ Gustcloak Runner
 Gustcloak Savior
 Gustcloak Sentinel
 Gustcloak Skirmisher
+Gustha Ebbasdotter
 Gustha's Scepter
 Gustrider Exuberant
 Gut Shot
@@ -14179,6 +14200,7 @@ Homarid Explorer
 Homarid Shaman
 Homarid Spawning Bed
 Homarid Warrior
+Homer, the Hermit
 Homesickness
 Homestead Courage
 Homeward Path
@@ -15464,6 +15486,7 @@ Isperia the Inscrutable
 Isperia's Skywatch
 Isperia, Supreme Judge
 Isshin, Two Heavens as One
+Istvan, Butcher of Eln
 Isu the Abominable
 It Came from Planet Glurg
 It Doesn't Add Up
@@ -15474,6 +15497,7 @@ It That Rides as One
 It of the Horrid Swarm
 It'll Quench Ya!
 It's Clobberin' Time!
+Itazura, Lingering Wick
 Item Crate
 Item Shopkeep
 Iterative Analysis
@@ -15525,6 +15549,7 @@ Izzet Steam Maze
 J. Jonah Jameson
 Jabari's Banner
 Jabari's Influence
+Jabs, Mistress of Mockery
 Jace Beleren
 Jace Reawakened
 Jace's Archivist
@@ -15618,6 +15643,7 @@ Jamuraan Lion
 Jan Jansen, Chaos Crafter
 Jandor's Ring
 Jandor's Saddlebags
+Jandor, Fortuned Traveler
 Jangling Automaton
 Janjeet Sentry
 Jar of Eyeballs
@@ -16845,6 +16871,7 @@ Kurgadon
 Kurkesh, Onakke Ancient
 Kuro's Taken
 Kuro, Pitlord
+Kuroki, Thief of Talents
 Kusari-Gama
 Kutzil's Flanker
 Kutzil, Malamet Exemplar
@@ -17993,6 +18020,7 @@ Lyev Skyknight
 Lyla, Holographic Assistant
 Lymph Sliver
 Lyna
+Lyna, Veil of Vengeance
 Lynde, Cheerful Tormentor
 Lynx
 Lyra Dawnbringer
@@ -18582,6 +18610,7 @@ Massacre Girl
 Massacre Girl, Known Killer
 Massacre Totem
 Massacre Wurm
+Massimo, the Magician
 Massive Might
 Massive Raid
 Master Apothecary
@@ -18641,6 +18670,7 @@ Math is for Blockers (Plane)
 Mathas, Fiend Seeker
 Mathemagics
 Mathise, Surge Channeler
+Matoc, Lavamancer
 Matopi Golem
 Matoya, Archon Elder
 Matsu-Tribe Birdstalker
@@ -18653,6 +18683,7 @@ Matzalantli, the Great Door
 Mauhúr, Uruk-hai Captain
 Maul Splicer
 Maul of the Skyclaves
+Maular, the Next Evolution
 Maulfist Doorbuster
 Maulfist Revolutionary
 Maulfist Squad
@@ -18707,6 +18738,7 @@ Meanders Guide
 Measure of Wickedness
 Meat Locker
 Meathook Massacre II
+Meatsqueak, Hoard Lord
 Mech Hangar
 Mechan Assembler
 Mechan Navigator
@@ -19341,6 +19373,7 @@ Misinformation
 Misleading Motes
 Misleading Signpost
 Miss Demeanor
+Miss Highwater
 Misshapen Fiend
 Mission Briefing
 Misstep
@@ -20378,6 +20411,7 @@ Nephalia Drownyard
 Nephalia Moondrakes
 Nephalia Seakite
 Nephalia Smuggler
+Nephilim Epochal
 Nerd Rage
 Nerf War
 Neriv, Crackling Vanguard
@@ -20679,6 +20713,7 @@ Niv-Mizzet, Parun
 Niv-Mizzet, Supreme
 Niv-Mizzet, Visionary
 Niv-Mizzet, the Firemind
+Nivea, Beloved Battlemage
 Niveous Wisps
 Nivix Barrier
 Nivix Cyclops
@@ -21108,6 +21143,7 @@ Oko, the Trickster
 Okoye, Dora Milaje Leader
 Okoye, Mighty and Adored
 Ol' Buzzbark
+Olag and Miau, New Friends
 Olag, Ludevic's Hubris
 Old Fat Spider
 Old Fat Spider Can't See Me
@@ -21129,6 +21165,7 @@ Old-Growth Dryads
 Old-Growth Educator
 Old-Growth Grove
 Old-Growth Troll
+Olinda the Oblivious
 Oliphaunt
 Olivia Voldaren
 Olivia's Attendants
@@ -24638,6 +24675,7 @@ Righteous Valkyrie
 Righteous War
 Righteousness
 Rigo, Streetwise Mentor
+Rikala, Homarid King
 Rikku, Resourceful Guardian
 Riku and Riku
 Riku of Many Paths
@@ -25429,6 +25467,7 @@ Saheeli, Radiant Creator
 Saheeli, Sublime Artificer
 Saheeli, the Gifted
 Saheeli, the Sun's Brilliance
+Sahir, Visitor in Darkness
 Sai of the Shinobi
 Sai, Master Thopterist
 Saiba Cryptomancer
@@ -25685,6 +25724,7 @@ Saruman, the White Hand
 Saryth, the Viper's Fang
 Sasaya's Essence
 Sasaya, Orochi Ascendant
+Sash and Waistcoat, Unmen
 Saskia the Unyielding
 Sassy Gremlin Blood
 Satoru Umezawa
@@ -26336,6 +26376,7 @@ Selective Obliteration
 Selective Snare
 Selenia
 Selenia, Dark Angel
+Selenia, the Cursed Heart
 Selesnya Charm
 Selesnya Cluestone
 Selesnya Eulogist
@@ -26369,6 +26410,7 @@ Selhoff Occultist
 Selkie Hedge-Mage
 Sell-Sword Brute
 Seller of Songbirds
+Seluma, Light of Aysen
 Selvala's Charge
 Selvala's Enforcer
 Selvala's Stampede
@@ -27082,6 +27124,7 @@ Siegehorn Ceratops
 Siegfried, Famed Swordsman
 Sierra, Nuka's Biggest Fan
 Sif's Spearmaster
+Sifa Grent
 Sift
 Sift Through Sands
 Sifter Wurm
@@ -30892,6 +30935,7 @@ The Eternal Wanderer
 The Eternity Elevator
 The Ever-Changing 'Dane
 The Everflowing Well
+The Everforger
 The Explorer
 The Fabulous Frog-Man
 The Face of Boe
@@ -31036,6 +31080,7 @@ The Lord of the Eagles
 The Lost and the Damned
 The Lunar Whale
 The Lux Foundation Library
+The Madcap Jester
 The Maelstrom
 The Magic Bandit
 The Magic Mirror
@@ -31082,6 +31127,7 @@ The Motherlode, Excavator
 The Mountain-king's Return
 The Mouth of Sauron
 The Mox Painter
+The Muckslinger Gang
 The Multifaceted Phyrexian
 The Multiplayer Nitpickers
 The Mycosynth Gardens
@@ -31232,6 +31278,7 @@ The Unbeatable Squirrel Girl
 The Underworld Cookbook
 The Underworld Fantasy Queen
 The Unknown Wizard
+The Unluckiest Planeswalker
 The Unspeakable
 The Ur-Dragon
 The Valeyard
@@ -31260,6 +31307,7 @@ The Watcher in the Water
 The Water Crystal
 The Water Maro
 The Weatherseed Treaty
+The Weaver King
 The Wedding of River Song
 The Weekly Princess
 The Western Cloud
@@ -31360,6 +31408,7 @@ This World Belongs to Me
 Thistledown Duo
 Thistledown Liege
 Thistledown Players
+Thomil, the Destroyer
 Thopter Architect
 Thopter Arrest
 Thopter Assembly
@@ -32313,6 +32362,7 @@ Trespasser's Curse
 Trespassing Souleater
 Tresserhorn Sinks
 Tresserhorn Skyknight
+Tresserhorn's Lord, Returned
 Trestle Troll
 Treva's Attendant
 Treva's Charm
@@ -33174,6 +33224,7 @@ Utter End
 Utter Insignificance
 Utvara Hellkite
 Utvara Scalper
+Uugguu, the Omniplasm
 Uurg, Spawn of Turg
 Uurg, Spawn of Turg (Alchemy)
 Uvilda, Dean of Perfection
@@ -33217,6 +33268,7 @@ Valiant Rescuer
 Valiant Veteran
 Valki, God of Lies
 Valkmira, Protector's Shield
+Valko Indorian
 Valko Indorian, Researcher
 Valkyrie Aerial Unit
 Valkyrie Harbinger
@@ -33488,6 +33540,7 @@ Venser's Journal
 Venser's Sliver
 Venser, Corpse Puppet
 Venser, Shaper Savant
+Venser, Visionary Traveler
 Venser, the Sojourner
 Vent Sentinel
 Ventifact Bottle
@@ -34744,6 +34797,7 @@ Whitewater Naiads
 Who
 Who's That Praetor?
 Whoosh!
+Whtz, the Bibliophile
 Why
 Wibbly-wobbly, Timey-wimey
 Wiccan, Rising Magician
@@ -35260,6 +35314,7 @@ Wort, the Raidmother
 Worthy Cause
 Worthy Cost
 Worthy Knight
+Worzel, the Protector
 Wose Pathfinder
 Would You Have Done the Same?
 Wound Reflection
@@ -35546,6 +35601,7 @@ Yuki-Onna
 Yukora, the Prisoner
 Yule Ooze
 Yuma, Proud Protector
+Yume, Chronicler of Valor
 Yuna's Decision
 Yuna's Whistle
 Yuna, Grand Summoner
@@ -35561,6 +35617,7 @@ Zada's Commando
 Zada, Hedron Grinder
 Zaffai and the Tempests
 Zaffai, Thunder Conductor
+Zagorka, Mother of Sanctum
 Zagoth Crystal
 Zagoth Mamba
 Zagoth Triome
