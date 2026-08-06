@@ -1,0 +1,21 @@
+// NAME: Red Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
+// DATE: 2026-08-14
+16 Mountain [HOB:192]
+2 Wayfarer's Bauble [HOC:211]
+2 Battle-Scarred Goblin [HOC:192]
+1 Improvised Club [HOC:197]
+2 Smaug, the Great Calamity
+2 Olog-hai Crusher [HOC:200]
+1 Gandalf, Spark Starter
+2 Ragged Short Spear
+2 Smite the Deathless [HOC:202]
+2 Goblin Fireleaper [HOC:195]
+1 Oliphaunt [HOC:199]
+1 Rogue's Passage [HOC:212]
+1 Goblin Cratermaker [HOC:194]
+1 Inferno Titan [HOC:198]
+1 Guttersnipe [HOC:196]
+1 Orcish Siegemaster [HOC:201]
+1 Snowslope Hunter
+1 Fire of Orthanc [HOC:193]

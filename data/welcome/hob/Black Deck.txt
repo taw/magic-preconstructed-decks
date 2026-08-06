@@ -1,0 +1,25 @@
+// NAME: Black Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
+// DATE: 2026-08-14
+2 Front Porch Sentries
+1 Great Fierce Bee
+1 Stir Up Trouble
+1 Haunt of the Dead Marshes [HOC:186]
+1 Desolation Prowler
+1 Ravening Warg
+2 Gollum, Silent Slinker
+2 Bilbo's Deadly Slice
+1 Dreaded Bat-Cloud
+1 Rogue's Passage [HOC:212]
+1 Crude Bent Blade
+1 Languish [HOC:187]
+1 Shadow of the Enemy [HOC:190]
+1 Gollum the Abandoned
+1 Gnashing of Teeth
+1 Troll of Khazad-dûm [HOC:191]
+1 Merciless Executioner [HOC:188]
+1 Bitter Downfall [HOC:185]
+1 Reverent Howl
+1 Night's Whisper [HOC:189]
+1 Stony-Voiced Goblins
+16 Swamp [HOB:191]
