@@ -1,0 +1,23 @@
+// NAME: White Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
+// DATE: 2026-08-14
+1 Bofur, Reliable Guardian
+16 Plains [HOB:189]
+2 Dwarven Provisioner
+1 Velvetwing Butterflies
+2 Magnificent End
+1 Mentor of the Meek [HOC:170]
+1 Fiend Hunter [HOC:167]
+2 Errand-Rider of Gondor [HOC:165]
+1 Landroval, Horizon Witness [HOC:169]
+1 Rogue's Passage [HOC:212]
+2 Soldier of the Grey Host [HOC:171]
+1 Eagles of the North [HOC:164]
+1 Dúnedain Blade [HOC:163]
+1 Fog on the Barrow-Downs [HOC:168]
+1 Eagle of the Great Shelf
+1 Banishing Light [HOC:161]
+1 Dawn of a New Age [HOC:162]
+1 Vow to Erebor
+2 Westfold Rider [HOC:172]
+1 Esquire of the King [HOC:166]

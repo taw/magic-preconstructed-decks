@@ -1,0 +1,24 @@
+// NAME: Blue Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
+// DATE: 2026-08-14
+2 Bilbo Baggins, Burglar
+16 Island [HOB:190]
+1 Pelargir Survivor [HOC:182]
+2 Lakeshore Apothecary
+1 Confusticate and Bebother
+1 Ravenhill Flock
+1 Lórien Revealed [HOC:179]
+1 Thranduil's Decree
+1 Knights of Dol Amroth [HOC:178]
+1 Grey Havens Navigator [HOC:175]
+1 Rogue's Passage [HOC:212]
+2 Ithilien Kingfisher [HOC:177]
+1 Hithlain Knots [HOC:176]
+1 Captain of Umbar [HOC:173]
+1 Minas Tirith Garrison [HOC:180]
+1 Colossal Whale [HOC:174]
+1 Willow-Wind [HOC:184]
+1 Bilbo, Luckwearer
+2 Uneasy Partings
+1 Nimrodel Watcher [HOC:181]
+1 Stern Scolding [HOC:183]
