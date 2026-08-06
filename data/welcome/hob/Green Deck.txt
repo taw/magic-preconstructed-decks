@@ -1,0 +1,23 @@
+// NAME: Green Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
+// DATE: 2026-08-14
+16 Forest [HOB:193]
+2 Guardian of the Halls
+2 Quarrel
+2 Galadhrim Guide [HOC:207]
+1 Galion, Elvenking's Butler
+1 Elvish Visionary [HOC:206]
+1 Warg Tactics
+1 Beorn's Hospitality
+1 Rogue's Passage [HOC:212]
+1 Mirkwood Elk [HOC:210]
+1 Celeborn the Wise [HOC:203]
+1 Gift of Strands [HOC:208]
+1 Elvish Archdruid [HOC:204]
+1 Lothlórien Lookout [HOC:209]
+1 Woodland Weavemaster
+1 Mirkwood Pathmaker
+1 Beorn, Reluctant Host
+2 Wood Elves
+2 Elvish Mystic [HOC:205]
+1 Attercop
