@@ -16,6 +16,10 @@ class Deck
     @display = display_lines.empty? ? nil : display_lines.join("\n")
     @languages = meta_lines.map{|x| x[%r[^[ \t]*//[ \t]*LANGUAGES?:[ \t]*(.*)], 1] }.compact.first
 
+    unless @name
+      raise "#{path}: no deck name, add a `// NAME: ...` line"
+    end
+
     section_name = "Main Deck"
 
     main_lines.each do |line|
@@ -27,13 +31,19 @@ class Deck
       end
 
       target = section_name
-      if line.sub!(/\ACOMMANDER:[ \t]+/, "")
+      # Work on a copy, so error messages can report the line as written in the file
+      card_line = line.dup
+      if card_line.sub!(/\ACOMMANDER:[ \t]+/, "")
         target = "Commander"
       end
 
-      count, card_name = line.split(" ", 2)
+      count, card_name = card_line.split(" ", 2)
       if card_name == nil
-        raise("Failed card definition for #{line}")
+        raise("#{path}: no card name in line #{line.inspect}")
+      end
+      # Zero is rejected as well - merge_duplicates would silently drop such cards
+      unless count =~ /\A[1-9]\d*\z/
+        raise("#{path}: invalid card count #{count.inspect} in line #{line.inspect}")
       end
       card_name = card_name.sub(/[ \t]*\*+\z/, "")
       foil = nil
@@ -64,7 +74,7 @@ class Deck
       card_name.strip!
 
       if card_name.empty?
-        raise("Cannot parse line: #{line}")
+        raise("#{path}: cannot parse line #{line.inspect}")
       end
 
       add_card(target,
