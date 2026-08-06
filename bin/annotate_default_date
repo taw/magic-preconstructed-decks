@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Use this is deck date is same as release date
+# Use this if deck date is same as release date
 # and you have all the repositories checked out
 
 require "pathname"
