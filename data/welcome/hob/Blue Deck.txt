@@ -18,7 +18,7 @@
 1 Minas Tirith Garrison [HOC:180]
 1 Colossal Whale [HOC:174]
 1 Willow-Wind [HOC:184]
-1 Bilbo, Luckwearer
+1 Bilbo, Luckwearer [HOB:32a]
 2 Uneasy Partings
 1 Nimrodel Watcher [HOC:181]
 1 Stern Scolding [HOC:183]

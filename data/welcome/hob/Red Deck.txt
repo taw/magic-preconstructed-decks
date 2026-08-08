@@ -7,7 +7,7 @@
 1 Improvised Club [HOC:197]
 2 Smaug, the Great Calamity
 2 Olog-hai Crusher [HOC:200]
-1 Gandalf, Spark Starter
+1 Gandalf, Spark Starter [HOB:97]
 2 Ragged Short Spear
 2 Smite the Deathless [HOC:202]
 2 Goblin Fireleaper [HOC:195]

@@ -1,7 +1,7 @@
 // NAME: White Deck
 // SOURCE: https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks
 // DATE: 2026-08-14
-1 Bofur, Reliable Guardian
+1 Bofur, Reliable Guardian [HOB:6a]
 16 Plains [HOB:189]
 2 Dwarven Provisioner
 1 Velvetwing Butterflies

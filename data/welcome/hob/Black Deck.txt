@@ -9,7 +9,7 @@
 1 Ravening Warg
 2 Gollum, Silent Slinker
 2 Bilbo's Deadly Slice
-1 Dreaded Bat-Cloud
+1 Dreaded Bat-Cloud [HOB:66]
 1 Rogue's Passage [HOC:212]
 1 Crude Bent Blade
 1 Languish [HOC:187]
