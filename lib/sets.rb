@@ -170,7 +170,6 @@ MagicSets = {
   "fra" => "Reality Fracture",
   "frc" => "Reality Fracture Commander",
   "frf" => "Fate Reforged",
-  "fspl" => "FIN Magic Spotlight",
   "fut" => "Future Sight",
   "g00" => "Judge Gift Cards 2000",
   "g01" => "Judge Gift Cards 2001",
