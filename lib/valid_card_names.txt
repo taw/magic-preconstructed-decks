@@ -5108,6 +5108,7 @@ Chorus of the Conclave
 Chorus of the Tides
 Chosen by Heliod
 Chosen of Markov
+Christine Chapel, Combat Medic
 Chromanticore
 Chromatic Armor
 Chromatic Lantern
@@ -11729,6 +11730,7 @@ Genasi Enforcers
 Genasi Rabble-Rouser
 Gene Pollinator
 Genemorph Imago
+General Chang, Cold Warrior
 General Ferrous Rokiric
 General Jarkeld
 General Kreat, the Boltbringer
@@ -21359,6 +21361,7 @@ Opalescence
 Opaline Bracers
 Opaline Sliver
 Opaline Unicorn
+Open Communications
 Open Fire
 Open into Wonder
 Open the Armory
