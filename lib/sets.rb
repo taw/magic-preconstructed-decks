@@ -658,6 +658,7 @@ MagicSets = {
   "slp" => "Secret Lair Promo",
   "slu" => "Secret Lair: Ultimate Edition",
   "slx" => "Universes Within",
+  "slz" => "The Zeta Set",
   "snc" => "Streets of New Capenna",
   "soa" => "Secrets of Strixhaven Mystical Archive",
   "soc" => "Secrets of Strixhaven Commander",
