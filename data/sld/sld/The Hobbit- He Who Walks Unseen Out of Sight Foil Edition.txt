@@ -1,0 +1,8 @@
+// NAME: The Hobbit: He Who Walks Unseen Out of Sight Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254155
+// DATE: 2026-08-18
+1 [SLD] Arcane Heist
+1 [SLD] Contentious Plan
+1 [SLD] Curiosity
+1 [SLD] Solve the Equation
+1 [SLD] Windfall

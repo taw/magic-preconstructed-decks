@@ -1,0 +1,8 @@
+// NAME: The Hobbit: Desolation
+// SOURCE: https://secretlair.wizards.com/us/product/1254163
+// DATE: 2026-08-18
+1 [SLD] Defile
+1 [SLD] Diabolic Intent
+1 [SLD] Dread Return
+1 [SLD] Mirkwood Bats
+1 [SLD] Read the Bones
