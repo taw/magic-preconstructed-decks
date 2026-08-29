@@ -1,0 +1,8 @@
+// NAME: The Hobbit: Smaug's Spoils Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254160
+// DATE: 2026-08-18
+1 [SLD] Fellwar Stone [foil]
+1 [SLD] Lightning Greaves [foil]
+1 [SLD] Liquimetal Torque [foil]
+1 [SLD] Sol Ring [foil]
+1 [SLD] Thought Vessel [foil]

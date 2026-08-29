@@ -1,0 +1,8 @@
+// NAME: The Hobbit: Desolation Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254162
+// DATE: 2026-08-18
+1 [SLD] Defile [foil]
+1 [SLD] Diabolic Intent [foil]
+1 [SLD] Dread Return [foil]
+1 [SLD] Mirkwood Bats [foil]
+1 [SLD] Read the Bones [foil]
