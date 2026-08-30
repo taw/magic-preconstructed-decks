@@ -1,0 +1,10 @@
+// NAME: The Hobbit: Second Breakfast and Beyond Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254156
+// DATE: 2026-08-18
+1 [SLD:2545] Food [foil] [token]
+1 [SLD:2546] Food [foil] [token]
+1 [SLD:2547] Food [foil] [token]
+1 [SLD:2548] Food [foil] [token]
+1 [SLD:2549] Food [foil] [token]
+1 [SLD:2550] Food [foil] [token]
+1 [SLD:2551] Food [foil] [token]

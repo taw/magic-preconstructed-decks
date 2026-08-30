@@ -1,0 +1,10 @@
+// NAME: The Hobbit: Second Breakfast and Beyond
+// SOURCE: https://secretlair.wizards.com/us/product/1254157
+// DATE: 2026-08-18
+1 [SLD:2545] Food [token]
+1 [SLD:2546] Food [token]
+1 [SLD:2547] Food [token]
+1 [SLD:2548] Food [token]
+1 [SLD:2549] Food [token]
+1 [SLD:2550] Food [token]
+1 [SLD:2551] Food [token]
