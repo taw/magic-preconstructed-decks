@@ -1,0 +1,8 @@
+// NAME: The Hobbit: Over the Edge of the Wild
+// SOURCE: https://secretlair.wizards.com/us/product/1254159
+// DATE: 2026-08-18
+1 [SLD:2552] Cloudshift
+1 [SLD:2553] Tocasia's Welcome
+1 [SLD:2554] Stony Silence
+1 [SLD:2555] Imp's Mischief
+1 [SLD:2556] Seize the Spoils
