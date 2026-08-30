@@ -1,0 +1,8 @@
+// NAME: The Hobbit: Smaug's Spoils
+// SOURCE: https://secretlair.wizards.com/us/product/1254161
+// DATE: 2026-08-18
+1 [SLD:2557] Fellwar Stone
+1 [SLD:2558] Lightning Greaves
+1 [SLD:2559] Liquimetal Torque
+1 [SLD:2560] Sol Ring
+1 [SLD:2561] Thought Vessel
