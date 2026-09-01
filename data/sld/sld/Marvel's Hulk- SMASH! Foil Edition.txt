@@ -1,0 +1,8 @@
+// NAME: Marvel's Hulk: SMASH! Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252790
+// DATE: 2026-09-01
+1 [SLD:2595] Anger [foil]
+1 [SLD:2596] Gratuitous Violence [foil]
+1 [SLD:2597] Rishkar's Expertise [foil]
+1 [SLD:2598] Search for Tomorrow [foil]
+1 [SLD:2599] Unnatural Growth [foil]
