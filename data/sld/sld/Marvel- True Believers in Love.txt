@@ -1,0 +1,9 @@
+// NAME: Marvel: True Believers in Love
+// SOURCE: https://secretlair.wizards.com/us/product/1252789
+// DATE: 2026-09-01
+1 [SLD:2611] Happily Ever After
+1 [SLD:2612] True Love's Kiss
+1 [SLD:2613] Run Away Together
+1 [SLD:2614] Savor the Moment
+1 [SLD:2615] Grave Pact
+1 [SLD:2616] Thrill of Possibility

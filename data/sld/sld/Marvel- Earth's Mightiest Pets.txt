@@ -1,0 +1,9 @@
+// NAME: Marvel: Earth's Mightiest Pets
+// SOURCE: https://secretlair.wizards.com/us/product/1252787
+// DATE: 2026-09-01
+1 [SLD:2577] Ephemerate
+1 [SLD:2578] Shark Typhoon
+1 [SLD:2579] Lightning Bolt
+1 [SLD:2580] Searing Blaze
+1 [SLD:2581] Commune with Dinosaurs
+1 [SLD:2582] Titanic Ultimatum
