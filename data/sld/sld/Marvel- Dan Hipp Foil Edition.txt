@@ -1,0 +1,8 @@
+// NAME: Marvel: Dan Hipp Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252792
+// DATE: 2026-09-01
+1 [SLD:2617] Mystical Dispute [foil]
+1 [SLD:2618] An Offer You Can't Refuse [foil]
+1 [SLD:2619] Training Grounds [foil]
+1 [SLD:2620] Endrek Sahr, Master Breeder [foil]
+1 [SLD:2621] Bristly Bill, Spine Sower [foil]

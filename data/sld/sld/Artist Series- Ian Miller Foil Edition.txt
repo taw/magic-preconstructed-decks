@@ -1,0 +1,7 @@
+// NAME: Artist Series: Ian Miller Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254375
+// DATE: 2026-09-01
+1 [SLD:2759] Shivan Dragon [foil]
+1 [SLD:2760] Animar, Soul of Elements [foil]
+1 [SLD:2761] Korvold, Fae-Cursed King [foil]
+1 [SLD:2762] Tsabo Tavoc [foil]
