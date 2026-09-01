@@ -1,0 +1,9 @@
+// NAME: Marvel: Earth's Mightiest Pets Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1252786
+// DATE: 2026-09-01
+1 [SLD:2577] Ephemerate [foil]
+1 [SLD:2578] Shark Typhoon [foil]
+1 [SLD:2579] Lightning Bolt [foil]
+1 [SLD:2580] Searing Blaze [foil]
+1 [SLD:2581] Commune with Dinosaurs [foil]
+1 [SLD:2582] Titanic Ultimatum [foil]

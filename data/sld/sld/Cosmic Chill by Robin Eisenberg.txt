@@ -1,0 +1,8 @@
+// NAME: Cosmic Chill by Robin Eisenberg
+// SOURCE: https://secretlair.wizards.com/us/product/1254378
+// DATE: 2026-09-01
+1 [SLD:2867] Orvar, the All-Form
+1 [SLD:2868] Sage of Hours
+1 [SLD:2869] See Double
+1 [SLD:2870] Slip Through Space
+1 [SLD:2871] Sway of the Stars

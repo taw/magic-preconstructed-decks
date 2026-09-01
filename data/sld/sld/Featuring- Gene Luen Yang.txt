@@ -1,0 +1,8 @@
+// NAME: Featuring: Gene Luen Yang
+// SOURCE: https://secretlair.wizards.com/us/product/1254380
+// DATE: 2026-09-01
+1 [SLD:2401] Kibo, Uktabi Prince
+1 [SLD:2402] Ilharg, the Raze-Boar
+1 [SLD:2403] Kazuul, Tyrant of the Cliffs
+1 [SLD:2404] Dosan the Falling Leaf
+1 [SLD:2405] Quest for Renewal
