@@ -1,0 +1,8 @@
+// NAME: Lofi Girl: Beats to Cast To Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254381
+// DATE: 2026-09-01
+1 [SLD:2821] Felidar Guardian [foil]
+1 [SLD:2822] Starfield of Nyx [foil]
+1 [SLD:2823] Careful Study [foil]
+1 [SLD:2824] Merchant Scroll [foil]
+1 [SLD:2825] Paradise Mantle [foil]
