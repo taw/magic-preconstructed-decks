@@ -4513,6 +4513,7 @@ Casey Jones, Back Alley Brute
 Casey Jones, Jury-Rig Justiciar
 Casey Jones, Vigilante
 Cass, Hand of Vengeance
+Cast Away Doubt
 Cast Down
 Cast Off
 Cast Out
@@ -11750,6 +11751,7 @@ Generous Gift
 Generous Patron
 Generous Plunderer
 Generous Pup
+Generous Revival
 Generous Soul
 Generous Stray
 Generous Visitor
