@@ -4934,6 +4934,7 @@ Charge Across the Araba
 Charge Through
 Charge of the Forever-Beast
 Charge of the Mites
+Charge the Sanctum
 Charged Conjuration
 Charging Badger
 Charging Bandits
@@ -5665,6 +5666,7 @@ Company Commander
 Comparative Analysis
 Compass Gnome
 Compassionate Healer
+Compel Brutality
 Compelled Duel
 Compelling Argument
 Compelling Deterrence
