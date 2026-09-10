@@ -145,6 +145,7 @@ Abzan Kin-Guard
 Abzan Monument
 Abzan Runemark
 Abzan Skycaptain
+Academic Ascent
 Academic Dispute
 Academic Probation
 Academy Drake
@@ -316,6 +317,7 @@ Aerial Surveyor
 Aerial Toastmaster
 Aerial Volley
 Aerialephant
+Aerid Konstrari
 Aerie Auxiliary
 Aerie Bowmasters
 Aerie Mystics
@@ -1241,6 +1243,7 @@ Arcade Gannon
 Arcades Sabboth
 Arcades, the Strategist
 Arcane Adaptation
+Arcane Amphisbaena
 Arcane Archery
 Arcane Artisan
 Arcane Bombardment
@@ -1900,6 +1903,7 @@ Avatar Kyoshi, Earthbender
 Avatar Roku
 Avatar Roku, Firebender
 Avatar Yangchen
+Avatar of Burgeoning Echoes
 Avatar of Discord
 Avatar of Fury
 Avatar of Growth
@@ -4277,6 +4281,7 @@ Campaign of Vengeance
 Campfire
 Campsite Cuisine
 Campus Composer
+Campus Crier
 Campus Guide
 Campus Renovation
 Can't Quite Recall
@@ -5272,6 +5277,7 @@ Clarion Cathars
 Clarion Conqueror
 Clarion Spirit
 Clarion Ultimatum
+Clash of Elements
 Clash of Realities
 Clash of Titans
 Clash of Wills
@@ -6032,6 +6038,7 @@ Counterintelligence
 Counterlash
 Countermand
 Counterpoint
+Countersculpt
 Counterspell
 Countersquall
 Countervailing Winds
@@ -7341,6 +7348,7 @@ Deny Reality
 Deny the Divine
 Deny the Witch
 Denying Wind
+Denzilore Fatehold
 Depala, Pilot Exemplar
 Depart the Realm
 Departed Deckhand
@@ -7834,6 +7842,7 @@ Divine Visitation
 Diviner Spirit
 Diviner of Fates
 Diviner of Mist
+Diviner of Victory
 Diviner's Lockbox
 Diviner's Portent
 Diviner's Wand
@@ -11835,6 +11844,8 @@ Geyserfield Stalker
 Ghalma the Shaper
 Ghalma's Warden
 Ghalta and Mavren
+Ghalta the Immovable
+Ghalta the Unstoppable
 Ghalta, Primal Hunger
 Ghalta, Stampede Tyrant
 Ghastbark Twins
@@ -14028,6 +14039,7 @@ Hexgold Hoverwings
 Hexgold Slash
 Hexgold Sledge
 Hexgold Slith
+Hexhaven Invigorator
 Hexing Squelcher
 Hexmark Destroyer
 Hexplate Golem
@@ -14911,6 +14923,7 @@ Imprisoned in the Moon
 Improbable Alliance
 Impromptu Raid
 Improvisation Capstone
+Improvised Act
 Improvised Armor
 Improvised Arsenal
 Improvised Club
@@ -15119,6 +15132,7 @@ Ingenious Smith
 Ingenious Thief
 Ingenuity Engine
 Ingot Chewer
+Ingris Stingerquill
 Inheritance
 Inherited Envelope
 Inherited Fiend
@@ -15216,6 +15230,7 @@ Inspired Inventor
 Inspired Skypainter
 Inspired Sphinx
 Inspired Sprite
+Inspired Tethermage
 Inspired Tinkering
 Inspired Ultimatum
 Inspiring Bard
@@ -15606,6 +15621,7 @@ Jace's Archivist
 Jace's Defeat
 Jace's Erasure
 Jace's Ingenuity
+Jace's Machinations
 Jace's Mindseeker
 Jace's Phantasm
 Jace's Projection
@@ -15818,6 +15834,8 @@ Jhoira, Weatherlight Captain
 Jhovall Queen
 Jhovall Rider
 Jiang Yanggu
+Jiang Yanggu, Alone
+Jiang Yanggu, Never Alone
 Jiang Yanggu, Wildcrafter
 Jibbirik Omnivore
 Jidoor, Aristocratic Capital
@@ -16157,6 +16175,8 @@ Karn's Bastion
 Karn's Sylex
 Karn's Temporal Sundering
 Karn's Touch
+Karn, Argent Defender
+Karn, Gilded Guardian
 Karn, Legacy Reforged
 Karn, Living Legacy
 Karn, Living Legacy (Alchemy)
@@ -16303,6 +16323,7 @@ Keeper of the Lens
 Keeper of the Light
 Keeper of the Mind
 Keeper of the Nine Gales
+Keeper of the Quiet Hour
 Keeper of the Sacred Word
 Keeper of the Secret Lair
 Keepers of the Faith
@@ -16930,6 +16951,7 @@ Kutzil's Flanker
 Kutzil, Malamet Exemplar
 Kwain, Itinerant Meddler
 Kwende, Pride of Femeref
+Kwia Vigorbloom
 Kydele, Chosen of Kruphix
 Kykar, Wind's Fury
 Kykar, Zephyr Awakener
@@ -17938,6 +17960,7 @@ Loyal Pegasus
 Loyal Retainers
 Loyal Sentry
 Loyal Subordinate
+Loyal Tutor
 Loyal Unicorn
 Loyal Warhound
 Lozhan, Dragons' Legacy
@@ -18885,6 +18908,7 @@ Memory Plunder
 Memory Sluice
 Memory Test
 Memory Theft
+Memory Trap
 Memory Vampire
 Memory Vessel
 Memory Worm
@@ -20781,6 +20805,7 @@ Nivix Guildmage
 Nivix, Aerie of the Firemind
 Nivmagus Elemental
 Nix
+No Admittance
 No Escape
 No Mercy
 No More
@@ -22672,6 +22697,7 @@ Polymorphist's Jest
 Polymorphous Rush
 Polyraptor
 Pompeii
+Pompous Battlemage
 Pompous Gadabout
 Pond Prophet
 Ponder
@@ -23097,6 +23123,7 @@ Protective Sphere
 Protector of Gondor
 Protector of the Crown
 Protector of the Wastes
+Protege's Awakening
 Proteus Machine
 Proteus Staff
 Protocol Knight
@@ -24418,6 +24445,7 @@ Repulsive Mutation
 Repulsor Blast
 Repulsor Bots
 Repulsor Rays
+Repurposed Enforcer
 Repurposing Bay
 Reputable Merchant
 Requiem Angel
@@ -24511,6 +24539,7 @@ Restore
 Restore Balance
 Restore Relic
 Restore the Peace
+Restore with Empathy
 Restrain
 Restricted Office
 Resupply
@@ -24564,6 +24593,7 @@ Return to Battle
 Return to Dust
 Return to Nature
 Return to the Earth
+Return to the Light Realms
 Return to the Ranks
 Return to the Sewers
 Returned Centaur
@@ -24633,6 +24663,7 @@ Rewards of Diversity
 Reweave
 Rewind
 Rewrite History
+Rewrite Regrets
 Rex, Cyber-Hound
 Reya Dawnbringer
 Reyav, Master Smith
@@ -28101,6 +28132,7 @@ Soltari Monk
 Soltari Priest
 Soltari Trooper
 Soltari Visionary
+Solve for Disappointment
 Solve the Equation
 Somber Hoverguard
 Somberwald Alpha
@@ -28111,6 +28143,7 @@ Somberwald Spider
 Somberwald Stag
 Somberwald Vigilante
 Some Disassembly Required
+Something Worth Saving
 Somnomancer
 Somnophore
 Sonar Strike
@@ -30314,6 +30347,7 @@ Talruum Champion
 Talruum Minotaur
 Talruum Piper
 Talus Paladin
+Tam's Resistance
 Tam, Mindful First-Year
 Tam, Observant Sequencer
 Tamanoa
@@ -31431,6 +31465,8 @@ Then, Dreadmaws Ate Everyone
 Thendar, the Overminer
 Theopholos, Order Acolyte
 Theoretical Duplication
+Theorist's Proxy
+Theorist's Sanctum
 There
 There Is No Refuge
 There and Back Again
@@ -32840,6 +32876,7 @@ Ulamog, the Defiler
 Ulamog, the Infinite Gyre
 Ulasht, the Hate Seed
 Ulcerate
+Uldaros Theorix
 Ulder Ravengard, Marshal
 Ulgrotha Charm
 Ulna Alley Shopkeep
@@ -33182,6 +33219,7 @@ Unwilling Ingredient
 Unwilling Recruit
 Unwilling Vessel
 Unwind
+Unwind History
 Unwinding Clock
 Unworthy Dead
 Unyaro
@@ -34625,6 +34663,8 @@ Wax-Wane Witness
 Waxen Shapethief
 Waxing Moon
 Waxmane Baku
+Way of the Cryomancer
+Way of the Pyromancer
 Way of the Thief
 Wayfarer's Bauble
 Wayfaring Giant
