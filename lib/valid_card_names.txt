@@ -3980,6 +3980,7 @@ Bucket List
 Bucknard's Everfull Purse
 Bucky Barnes, Eager Ally
 Bucolic Ranch
+Budding Insurgent
 Budoka Gardener
 Budoka Pupil
 Bugenhagen, Wise Elder
@@ -6692,6 +6693,8 @@ Dangerous Wager
 Danitha Capashen, Paragon
 Danitha, Benalia's Hope
 Danitha, New Benalia's Light
+Danitha, Spear of Agony
+Danitha, Sword of Hope
 Danny Pink
 Danse Macabre
 Dapper Shieldmate
@@ -8632,6 +8635,7 @@ Eagle of the Great Shelf
 Eagle of the Watch
 Eagle's Rescue
 Eagles of the North
+Eardrum Rattler
 Earl of Squirrel
 Early Frost
 Early Harvest
@@ -12968,6 +12972,7 @@ Greenbelt Rampager
 Greener Pastures
 Greenhilt Trainee
 Greenhouse
+Greenhouse Propagator
 Greenseeker
 Greenside Watcher
 Greensleeves
@@ -21727,6 +21732,7 @@ Overwhelming Splendor
 Overwhelming Stampede
 Overwhelming Surge
 Overwhelming Victory
+Overwrite the Multiverse
 Overzealous Muscle
 Ovika, Enigma Goliath
 Ovinize
@@ -23058,6 +23064,8 @@ Proficient Pyrodancer
 Profit
 Profound Journey
 Proft's Eidetic Memory
+Proft, Consulting Detective
+Proft, Sinister Mastermind
 Progenitor Exarch
 Progenitor Mimic
 Progenitor's Icon
@@ -23085,6 +23093,7 @@ Propeller Pioneer
 Proper Burial
 Proper Laboratory Attire
 Prophecy
+Prophesied End
 Prophet of Distortion
 Prophet of Kruphix
 Prophet of the Peak
@@ -30811,6 +30820,7 @@ Testament of Faith
 Tester of the Tangential
 Tethered Griffin
 Tethered Skirge
+Tethermage's Advantage
 Tethmos High Priest
 Tetravus
 Tetsuko Umezawa, Fugitive
@@ -34554,6 +34564,7 @@ Warren Weirding
 Warren-Scourge Elf
 Warrior Angel
 Warrior en-Kor
+Warrior's Blades
 Warrior's Charge
 Warrior's Honor
 Warrior's Oath
@@ -35188,6 +35199,8 @@ Winter's Rest
 Winter, Cursed Rider
 Winter, Cynical Opportunist
 Winter, Misanthropic Guide
+Winter, Team Player
+Winter, Tormented Loner
 Winterflame
 Wintermoon Mesa
 Wintermoor Commander
