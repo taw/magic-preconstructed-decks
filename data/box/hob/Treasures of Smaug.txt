@@ -1,0 +1,10 @@
+// NAME: Treasures of Smaug
+// SOURCE: https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit
+// DATE: 2026-08-14
+// DISPLAY: The Hobbit Scene Box - Treasures of Smaug - 6 traditional foil borderless scene cards
+1 Long-Lost Lances [HOC:7] [foil]
+1 Dragon-Cursed Halls [HOC:8] [foil]
+1 Smaug the Impenetrable [HOC:9] [foil]
+1 Bilbo's Burglaring [HOC:10] [foil]
+1 Dragon's Desire [HOC:11] [foil]
+1 Necklace of Girion [HOC:12] [foil]
