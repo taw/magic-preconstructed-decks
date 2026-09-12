@@ -5,7 +5,7 @@
 1 Boomerang, Blade Flinger [MSC:534]
 1 Ninja of the Hand [MSH:108]
 1 Baron Strucker, HYDRA Overlord [MSH:88]
-1 Tombstone, Career Criminal [MSC:160]
+1 Tombstone, Career Criminal [MSC:577]
 1 Crossbones, Malicious Mercenary [MSH:91]
 1 Glamorous Grapplers [MSC:536]
 1 Roxxon Brutes [MSH:113]
