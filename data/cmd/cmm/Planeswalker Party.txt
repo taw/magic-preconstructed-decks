@@ -89,3 +89,6 @@ COMMANDER: 1 Commodore Guff [foil]
 2 Mountain [CMM:795]
 4 Plains [CMM:785]
 3 Plains [CMM:787]
+
+Display Commander
+1 Commodore Guff [CMM:781] [foil] [etched]
