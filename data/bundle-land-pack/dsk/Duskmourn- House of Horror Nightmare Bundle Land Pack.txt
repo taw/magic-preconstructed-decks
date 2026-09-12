@@ -1,0 +1,8 @@
+// NAME: Duskmourn: House of Horror Nightmare Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-duskmourn
+// DATE: 2024-10-18
+4 Plains [DSK:272] [foil]
+4 Island [DSK:273] [foil]
+4 Swamp [DSK:274] [foil]
+4 Mountain [DSK:275] [foil]
+4 Forest [DSK:276] [foil]
