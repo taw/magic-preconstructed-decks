@@ -1,0 +1,17 @@
+// NAME: Aetherdrift Finish Line Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-aetherdrift
+// SOURCE: https://www.target.com/p/-/A-94411719
+// DATE: 2025-02-14
+// 15 traditional foil basics and the five first-place foil Driver's Seat lands.
+// Default-frame art allocation uses the existing Bundle round-robin convention;
+// exact collation of the traditional foil lands is not verified.
+3 Plains [DFT:*] [foil]
+1 Plains [DFT:507] [foil]
+3 Island [DFT:*] [foil]
+1 Island [DFT:508] [foil]
+3 Swamp [DFT:*] [foil]
+1 Swamp [DFT:509] [foil]
+3 Mountain [DFT:*] [foil]
+1 Mountain [DFT:510] [foil]
+3 Forest [DFT:*] [foil]
+1 Forest [DFT:511] [foil]
