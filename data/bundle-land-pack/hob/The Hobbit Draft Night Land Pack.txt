@@ -1,0 +1,8 @@
+// NAME: The Hobbit Draft Night Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-the-hobbit
+// DATE: 2026-08-14
+18 Plains [HOB:189]
+18 Island [HOB:190]
+18 Swamp [HOB:191]
+18 Mountain [HOB:192]
+18 Forest [HOB:193]
