@@ -1,0 +1,13 @@
+// NAME: Phyrexia: All Will Be One Compleat Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-phyrexia-all-will-be-one
+// DATE: 2023-03-03
+4 Plains [ONE:262] [foil]
+4 Island [ONE:263] [foil]
+4 Swamp [ONE:264] [foil]
+4 Mountain [ONE:265] [foil]
+4 Forest [ONE:266] [foil]
+4 Plains [ONE:267] [foil]
+4 Island [ONE:268] [foil]
+4 Swamp [ONE:269] [foil]
+4 Mountain [ONE:270] [foil]
+4 Forest [ONE:271] [foil]
