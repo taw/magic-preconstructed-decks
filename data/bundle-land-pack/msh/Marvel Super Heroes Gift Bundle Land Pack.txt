@@ -1,35 +1,35 @@
-// NAME: Marvel Super Heroes Bundle Land Pack
+// NAME: Marvel Super Heroes Gift Bundle Land Pack
 // SOURCE: https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes
-// DATE: 2026-06-26
+// DATE: 2026-07-17
 // 15 traditional foil and 15 non-foil basic lands, including one of each
-// full-art city chaos basic land in each finish.
-1 Plains [MSH:277]
+// full-art city calm basic land in each finish.
+1 Plains [MSH:278]
 1 Plains [MSH:287]
 1 Plains [MSH:288]
-1 Plains [MSH:277] [foil]
+1 Plains [MSH:278] [foil]
 1 Plains [MSH:287] [foil]
 1 Plains [MSH:288] [foil]
-1 Island [MSH:279]
+1 Island [MSH:280]
 1 Island [MSH:289]
 1 Island [MSH:290]
-1 Island [MSH:279] [foil]
+1 Island [MSH:280] [foil]
 1 Island [MSH:289] [foil]
 1 Island [MSH:290] [foil]
-1 Swamp [MSH:281]
+1 Swamp [MSH:282]
 1 Swamp [MSH:291]
 1 Swamp [MSH:292]
-1 Swamp [MSH:281] [foil]
+1 Swamp [MSH:282] [foil]
 1 Swamp [MSH:291] [foil]
 1 Swamp [MSH:292] [foil]
-1 Mountain [MSH:283]
+1 Mountain [MSH:284]
 1 Mountain [MSH:293]
 1 Mountain [MSH:294]
-1 Mountain [MSH:283] [foil]
+1 Mountain [MSH:284] [foil]
 1 Mountain [MSH:293] [foil]
 1 Mountain [MSH:294] [foil]
-1 Forest [MSH:285]
+1 Forest [MSH:286]
 1 Forest [MSH:295]
 1 Forest [MSH:296]
-1 Forest [MSH:285] [foil]
+1 Forest [MSH:286] [foil]
 1 Forest [MSH:295] [foil]
 1 Forest [MSH:296] [foil]
