@@ -95,3 +95,6 @@ COMMANDER: 1 Sliver Gravemother [foil]
 2 Swamp [CMM:793]
 2 Mountain [CMM:796]
 3 Forest [CMM:799]
+
+Display Commander
+1 Sliver Gravemother [CMM:782] [foil] [etched]
