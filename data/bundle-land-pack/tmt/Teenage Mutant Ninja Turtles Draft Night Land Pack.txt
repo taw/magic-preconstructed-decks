@@ -1,0 +1,9 @@
+// NAME: Teenage Mutant Ninja Turtles Draft Night Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles
+// DATE: 2026-03-06
+// Draft Night land pack: 90 non-foil basic lands, 18 of each type.
+18 Plains [TMT:315]
+18 Island [TMT:316]
+18 Swamp [TMT:317]
+18 Mountain [TMT:318]
+18 Forest [TMT:319]
