@@ -88,3 +88,6 @@ COMMANDER: 1 Zhulodok, Void Gorger [foil]
 1 Urza's Tower
 8 Wastes [CMM:1055]
 7 Wastes [CMM:1056]
+
+Display Commander
+1 Zhulodok, Void Gorger [CMM:779] [foil] [etched]

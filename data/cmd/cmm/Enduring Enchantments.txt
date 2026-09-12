@@ -88,3 +88,6 @@ COMMANDER: 1 Anikthea, Hand of Erebos [foil]
 2 Swamp [CMM:792]
 4 Forest [CMM:797]
 4 Forest [CMM:798]
+
+Display Commander
+1 Anikthea, Hand of Erebos [CMM:780] [foil] [etched]
