@@ -1,0 +1,10 @@
+// NAME: Crack the Plates
+// SOURCE: https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit
+// DATE: 2026-08-14
+// DISPLAY: The Hobbit Scene Box - Crack the Plates - 6 traditional foil borderless scene cards
+1 Fíli and Kíli, Joyous [HOC:1] [foil]
+1 Gandalf, Party Guest [HOC:2] [foil]
+1 Thorin, King of Durin's Folk [HOC:3] [foil]
+1 Bilbo, Fellow Conspirator [HOC:4] [foil]
+1 Bag End Banquet [HOC:5] [foil]
+1 Ori, Plate Stacker [HOC:6] [foil]
