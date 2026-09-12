@@ -1,0 +1,14 @@
+// NAME: The Lost Caverns of Ixalan Gift Bundle Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-the-lost-caverns-of-ixalan
+// DATE: 2023-12-08
+4 Plains [LCI:287]
+4 Island [LCI:288]
+4 Swamp [LCI:289]
+4 Mountain [LCI:290]
+4 Forest [LCI:291]
+// Traditional foil lands use the regular default-frame basic land pool.
+4 Plains [LCI:*] [foil]
+4 Island [LCI:*] [foil]
+4 Swamp [LCI:*] [foil]
+4 Mountain [LCI:*] [foil]
+4 Forest [LCI:*] [foil]
