@@ -1,6 +1,6 @@
-// NAME: The Hobbit Bundle Land Pack
+// NAME: The Hobbit Gift Bundle Land Pack
 // SOURCE: https://magic.wizards.com/en/news/feature/collecting-the-hobbit
-// DATE: 2026-08-14
+// DATE: 2026-09-04
 2 Plains [HOB:189]
 1 Plains [HOB:194]
 2 Plains [HOB:189] [foil]
@@ -21,7 +21,7 @@
 1 Forest [HOB:198]
 2 Forest [HOB:193] [foil]
 1 Forest [HOB:198] [foil]
-1 Plains [HOB:313] [foil]
-1 Plains [HOB:314] [foil]
-1 Plains [HOB:315] [foil]
-1 Plains [HOB:316] [foil]
+1 Plains [HOB:317] [foil]
+1 Plains [HOB:318] [foil]
+1 Plains [HOB:319] [foil]
+1 Plains [HOB:320] [foil]
