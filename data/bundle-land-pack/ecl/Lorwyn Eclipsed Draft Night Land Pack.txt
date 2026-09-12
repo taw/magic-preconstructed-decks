@@ -1,0 +1,10 @@
+// NAME: Lorwyn Eclipsed Draft Night Land Pack
+// SOURCE: https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed
+// DATE: 2026-01-23
+// Draft Night land pack: 90 non-foil basic lands, 18 of each type.
+// Use the default-frame basic land printings, following the Draft Night convention.
+18 Plains [ECL:*]
+18 Island [ECL:*]
+18 Swamp [ECL:*]
+18 Mountain [ECL:*]
+18 Forest [ECL:*]
