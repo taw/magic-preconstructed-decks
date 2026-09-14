@@ -413,6 +413,7 @@ Afterlife Insurance
 Afterlife from the Loam
 Aftermath Analyst
 Aftershock
+Afterthought Sentry
 Agadeem Occultist
 Agadeem's Awakening
 Agadeem, the Undercrypt
@@ -3738,6 +3739,7 @@ Break Open
 Break Out
 Break Through the Line
 Break Ties
+Break Under Pressure
 Break of Day
 Break the Ice
 Break the Spell
@@ -4842,6 +4844,7 @@ Chandra Nalaar
 Chandra's Defeat
 Chandra's Dragonmech
 Chandra's Embercat
+Chandra's Emberling
 Chandra's Firemaw
 Chandra's Flame Wave
 Chandra's Fury
@@ -11541,6 +11544,8 @@ Gallant Strike
 Gallantry
 Gallery of Legends
 Gallia of the Endless Dance
+Gallia, Tragic Host
+Gallia, the Merrymaker
 Gallifrey Council Chamber
 Gallifrey Falls
 Gallifrey Stands
@@ -26936,6 +26941,7 @@ Shatterskull Recruit
 Shatterskull Smashing
 Shatterskull, the Hammer Pass
 Shatterstorm
+Shatterwing Pegasus
 Shauku's Minion
 Shauku, Endbringer
 Shaun & Rebecca, Agents
@@ -27336,6 +27342,7 @@ Silas Renn, Seeker Adept
 Silburlind Snapper
 Silence
 Silence the Believers
+Silence the Echo
 Silent Arbiter
 Silent Artisan
 Silent Assassin
@@ -28611,6 +28618,7 @@ Sphinx Sovereign
 Sphinx Summoner
 Sphinx of Clear Skies
 Sphinx of Enlightenment
+Sphinx of False Conclusions
 Sphinx of Foresight
 Sphinx of Forgotten Lore
 Sphinx of Jwar Isle
@@ -29965,6 +29973,7 @@ Surgeon General Commander
 Surgespanner
 Surgical Extraction
 Surgical Metamorph
+Surgical Precision
 Surgical Skullbomb
 Surgical Suite
 Surging Aether
@@ -29992,6 +30001,7 @@ Surtland Flinger
 Surtland Frostpyre
 Surtr, Fiery Jötun
 Surveillance Monitor
+Surveillance Phantasm
 Surveillance Room
 Surveilling Sprite
 Survey Mechan
@@ -31091,6 +31101,7 @@ The Duke, Rebel Sentry
 The Eagles Are Coming!
 The Earth Crystal
 The Earth King
+The Echoverse Fulcrum
 The Egotistical Velociraptor
 The Eighth Doctor
 The Elder Dragon War
@@ -34303,6 +34314,7 @@ Vraska the Unseen
 Vraska's Conquistador
 Vraska's Contempt
 Vraska's Fall
+Vraska's Final Mercy
 Vraska's Finisher
 Vraska's Scorn
 Vraska's Stoneglare
@@ -35528,6 +35540,7 @@ Wrath of Leknif
 Wrath of Marit Lage
 Wrath of Oko
 Wrath of Sod
+Wrath of the Bloodmane
 Wrath of the Skies
 Wrathful Jailbreaker
 Wrathful Raptors
