@@ -1,5 +1,6 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
+"I've been pulling the strings the whole time!"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
@@ -2703,6 +2704,7 @@ Bess, Soul Nourisher
 Bessie, the Doctor's Roadster
 Bestial Bloodline
 Bestial Fury
+Bestial Incursion
 Bestial Menace
 Bestow Greatness
 Betor, Ancestor's Voice
@@ -2767,7 +2769,7 @@ Billiard Room
 Billowing Shriekmass
 Bin Chicken
 Bind
-Bind (CMB1)
+Bind (Playtest)
 Bind Spirit
 Bind the Monster
 Bind to Life
@@ -4451,6 +4453,7 @@ Carnival Elephant Meteor
 Carnival Hellsteed
 Carnival of Souls
 Carnivorous Canopy
+Carnivorous Cultivator
 Carnivorous Death-Parrot
 Carnivorous Moss-Beast
 Carnivorous Plant
@@ -6307,6 +6310,7 @@ Crude Rampart
 Cruel Administrator
 Cruel Alliance
 Cruel Bargain
+Cruel Calculations
 Cruel Celebrant
 Cruel Cut
 Cruel Deceiver
@@ -8758,9 +8762,11 @@ Eden, Seat of the Sanctum
 Edgar Markov
 Edgar Markov's Coffin
 Edgar's Awakening
+Edgar, Ancient Bloodlord
 Edgar, Charmed Groom
 Edgar, King of Figaro
 Edgar, Master Machinist
+Edgar, Moonlit Sovereign
 Edge Rover
 Edge of Autumn
 Edge of Malacol
@@ -9127,6 +9133,7 @@ Emerge from the Cocoon
 Emergence Zone
 Emergency Eject
 Emergency Medical Hologram
+Emergency Phytomedic
 Emergency Powers
 Emergency Weld
 Emergent Growth
@@ -9189,6 +9196,7 @@ Emrakul's Hatcher
 Emrakul's Influence
 Emrakul's Messenger
 Emrakul, the Aeons Torn
+Emrakul, the Exigent Doom
 Emrakul, the Promised End
 Emrakul, the World Anew
 Emry, Lurker of the Loch
@@ -9315,6 +9323,7 @@ Enraged Killbot
 Enraged Revolutionary
 Enraging Licid
 Enroll in the Coalition
+Enroot
 Enshrined Memories
 Enshrouding Mist
 Enslave
@@ -9897,6 +9906,7 @@ Fabled Path of Searo Point
 Fabricate
 Fabrication Foundry
 Fabrication Module
+Face Yourself
 Face of Divinity
 Face of Fear
 Face to Face
@@ -10115,7 +10125,7 @@ Farsight Ritual
 Fascination
 Fascist Art Director
 Fast
-Fast (UNK)
+Fast (Playtest)
 Fast Forward
 Fastbond
 Fasting
@@ -10148,6 +10158,8 @@ Fateful End
 Fateful Handoff
 Fateful Showdown
 Fateful Tempest
+Fatehold Charm
+Fatehold Chronologist
 Fates' Reversal
 Fates' Reversal (Alchemy)
 Fatespinner
@@ -10176,6 +10188,8 @@ Favorable Winds
 Favored Enemy
 Favored Hoplite
 Favored of Iroas
+Fblthp, Impossibly Lost
+Fblthp, Knows the Way
 Fblthp, Lost on the Range
 Fblthp, the Lost
 Fblthp: Completely, Utterly, Totally Lost
@@ -10513,7 +10527,7 @@ Fioran Reformist
 Firbolg Flutist
 Firdoch Core
 Fire
-Fire (CMB1)
+Fire (Playtest)
 Fire Ambush
 Fire Ants
 Fire Bowman
@@ -11395,7 +11409,7 @@ Fungusaur
 Funnel-Web Recluse
 Furgul, Quag Nurturer
 Furious
-Furious (UNK)
+Furious (Playtest)
 Furious Assault
 Furious Bellow
 Furious Forebear
@@ -11709,6 +11723,7 @@ Geier Reach Sanitarium
 Geist Snatch
 Geist Trappers
 Geist of Regret
+Geist of Saint Thalia
 Geist of Saint Traft
 Geist of the Archives
 Geist of the Lonely Vigil
@@ -12005,12 +12020,14 @@ Gibbering Kami
 Gideon Blackblade
 Gideon Jura
 Gideon of the Trials
+Gideon the Oathless
 Gideon's Avenger
 Gideon's Battle Cry
 Gideon's Company
 Gideon's Defeat
 Gideon's Intervention
 Gideon's Lawkeeper
+Gideon's Memorial
 Gideon's Phalanx
 Gideon's Reproach
 Gideon's Resolve
@@ -13449,6 +13466,7 @@ Hallowed Priest
 Hallowed Respite
 Hallowed Spiritkeeper
 Halls of Mist
+Hallway Heckler
 Halo Forager
 Halo Fountain
 Halo Hopper
@@ -13799,6 +13817,7 @@ Heartseeker
 Heartstabber Mosquito
 Heartstone
 Heartwarming Redemption
+Heartwood Crafter
 Heartwood Dryad
 Heartwood Giant
 Heartwood Shard
@@ -14524,6 +14543,7 @@ Hundroog
 Hunger of the Howlpack
 Hunger of the Nim
 Hungering Hydra
+Hungering Puppetbeast
 Hungering Yeti
 Hungry Flames
 Hungry Ghoul
@@ -15108,6 +15128,7 @@ Infiltration Lens
 Infiltrator il-Kor
 Infiltrator's Magemark
 Infinite Authority
+Infinite Coursework
 Infinite Guideline Station
 Infinite Hourglass
 Infinite Obliteration
@@ -16537,6 +16558,8 @@ Kinscaer Harpoonist
 Kinscaer Sentry
 Kinzu of the Bleak Coven
 Kiora Bests the Sea God
+Kiora of Fire and Ashes
+Kiora of Salt and Sand
 Kiora's Dambreaker
 Kiora's Dismissal
 Kiora's Follower
@@ -16762,6 +16785,7 @@ Konda's Hatamoto
 Konda, Lord of Eiganjo
 Kongming's Contraptions
 Kongming, "Sleeping Dragon"
+Konstrari Charm
 Kookus
 Kopala, Warden of Waves
 Kor Aeronaut
@@ -17412,7 +17436,7 @@ Liability
 Liar's Pendulum
 Liara of the Flaming Fist
 Liberate
-Liberate (CMB1)
+Liberate (Playtest)
 Liberated Dwarf
 Liberated Livestock
 Liberating Combustion
@@ -18107,6 +18131,8 @@ Lyna, Veil of Vengeance
 Lynde, Cheerful Tormentor
 Lynx
 Lyra Dawnbringer
+Lyra, Archangel of Dawn
+Lyra, Tolarian Archangel
 Lys Alana Bowmaster
 Lys Alana Dignitary
 Lys Alana Huntmaster
@@ -18126,7 +18152,9 @@ Ma Chao, Western Warrior
 Maalfeld Twins
 Maarika, Brutal Gladiator
 Mabel's Mettle
+Mabel, Bitter Recluse
 Mabel, Heir to Cragflame
+Mabel, Valley Hero
 MacCready, Lamplight Mayor
 Macabre Mockery
 Macabre Reconstruction
@@ -18713,6 +18741,7 @@ Master Transmuter
 Master Trinketeer
 Master Warcraft
 Master of Arms
+Master of Barbs
 Master of Ceremonies
 Master of Cruelties
 Master of Dark Rites
@@ -20959,6 +20988,7 @@ Null Elemental Blast
 Null Group Biological Assets
 Null Profusion
 Null Rod
+Null Summoner
 Nulldrifter
 Nullhide Ferox
 Nullify
@@ -22054,7 +22084,9 @@ Peema Outrider
 Peema Trailblazer
 Peer Past the Veil
 Peer Pressure
-Peer Review
+Peer Review (Prepared a)
+Peer Review (Prepared b)
+Peer Review (Prepared c)
 Peer Through Depths
 Peer into the Abyss
 Peerless Recycling
@@ -22393,7 +22425,7 @@ Picard, Leading by Example
 Picard, Steadfast Captain
 Pick Up the Pace
 Pick Your Poison
-Pick Your Poison (CMB1)
+Pick Your Poison (Playtest)
 Pick the Brain
 Pick-a-Beeble
 Picklock Prankster
@@ -23036,6 +23068,7 @@ Processing Plant
 Processor Assault
 Proclamation of Rebirth
 Procrastinate
+Proctor of Potential
 Proctor's Gaze
 Prodigal Pyromancer
 Prodigal Sorcerer
@@ -23806,6 +23839,7 @@ Rampant Rejuvenator
 Rampant, Growth
 Rampart Architect
 Rampart Crawler
+Rampart Hunter
 Rampart Smasher
 Ramroller
 Ramses Overdark
@@ -24192,7 +24226,7 @@ Red Elemental Blast
 Red Ghost, Intangible Genius
 Red Guardian, Super-Soldier
 Red Herring
-Red Herring (CMB1)
+Red Herring (Playtest)
 Red Hulk
 Red Mage's Rapier
 Red Mana Battery
@@ -25407,6 +25441,8 @@ Runo Stromkirk
 Rupture
 Rupture Spire
 Rural Recruit
+Ruric Thar, Biomagus
+Ruric Thar, Magecrusher
 Ruric Thar, the Unbowed
 Rush of Adrenaline
 Rush of Battle
@@ -25914,7 +25950,7 @@ Savra, Queen of the Golgari
 Savvy Hunter
 Savvy Trader
 Saw
-Saw (CMB1)
+Saw (Playtest)
 Saw It Coming
 Saw in Half
 Sawback Manticore
@@ -26397,7 +26433,8 @@ See the Truth
 See the Unwritten
 Seed Guardian
 Seed Spark
-Seed Suture
+Seed Suture (Prepared a)
+Seed Suture (Prepared b)
 Seed of Hope
 Seed the Land
 Seedborn Muse
@@ -26532,6 +26569,7 @@ Selvala, Explorer Returned
 Selvala, Heart of the Wilds
 Semblance Anvil
 Semblance Scanner
+Semester Foreseer
 Semester's End
 Sen Triplets
 Senate Courier
@@ -27933,7 +27971,7 @@ Smaug, the Great Calamity
 Smell Fear
 Smellerbee, Rebel Fighter
 Smelt
-Smelt (CMB1)
+Smelt (Playtest)
 Smelt-Ward Gatekeepers
 Smelt-Ward Ignus
 Smelt-Ward Minotaur
@@ -28091,6 +28129,7 @@ Solar Blaze
 Solar Tide
 Solar Transformer
 Solarion
+Solarium Sentry
 Sold Out
 Soldevi Adnate
 Soldevi Digger
@@ -28284,7 +28323,8 @@ Soul Strings
 Soul Summons
 Soul Swallower
 Soul Swindler
-Soul Tether
+Soul Tether (Prepared a)
+Soul Tether (Prepared b)
 Soul Tithe
 Soul Transfer
 Soul Warden
@@ -29078,7 +29118,7 @@ Starscream, Seeker Leader
 Starseer Mentor
 Starstorm
 Start
-Start (CMB1)
+Start (Playtest)
 Start Your Engines
 Start from Scratch
 Start the TARDIS
@@ -29244,6 +29284,7 @@ Stingblade Assassin
 Stingcaster Mage
 Stingerback Terror
 Stingerfling Spider
+Stingerquill Charm
 Stingerquill Voxmancer
 Stinging Barrier
 Stinging Cave Crawler
@@ -30824,6 +30865,7 @@ Tethermage's Advantage
 Tethmos High Priest
 Tetravus
 Tetsuko Umezawa, Fugitive
+Tetsuko Umezawa, Pursuer
 Tetsuo Umezawa
 Tetsuo, Imperial Champion
 Tetzimoc, Primal Death
@@ -30875,6 +30917,7 @@ Thalia's Lancers
 Thalia's Lieutenant
 Thalia, Guardian of Thraben
 Thalia, Heretic Cathar
+Thalia, the Survivor
 Thalisse, Reverent Medium
 Thallid
 Thallid Devourer
@@ -31477,6 +31520,7 @@ Theopholos, Order Acolyte
 Theoretical Duplication
 Theorist's Proxy
 Theorist's Sanctum
+Theorix Charm
 There
 There Is No Refuge
 There and Back Again
@@ -33836,7 +33880,9 @@ Vicious Offering
 Vicious Rivalry
 Vicious Rumors
 Vicious Shadows
-Vicious Verse
+Vicious Verse (Prepared a)
+Vicious Verse (Prepared b)
+Vicious Verse (Prepared c)
 Viconia, Disciple of Arcana
 Viconia, Disciple of Blood
 Viconia, Disciple of Rebirth
@@ -33870,6 +33916,7 @@ Vigilant Sentry
 Vigilante Justice
 Vigor
 Vigor Mortis
+Vigorbloom Charm
 Vigorbloom Vanguard
 Vigorous Charge
 Vigorous Farming
@@ -33913,6 +33960,7 @@ Vindicate
 Vindictive Flamestoker
 Vindictive Lich
 Vindictive Mob
+Vindictive Triumph
 Vindictive Vampire
 Vindictive Warden
 Vine Dryad
@@ -33933,6 +33981,7 @@ Vinesoul Spider
 Vineweft
 Vintara Elephant
 Vintara Snapper
+Violent Echoes
 Violent Eruption
 Violent Impact
 Violent Outburst
@@ -34262,7 +34311,9 @@ Vraska, Golgari Queen
 Vraska, Regal Gorgon
 Vraska, Relic Seeker
 Vraska, Scheming Gorgon
+Vraska, Soul of Stone
 Vraska, Swarm's Eminence
+Vraska, the Cutting Glare
 Vraska, the Silencer
 Vren, the Relentless
 Vrestin, Menoptra Leader
@@ -34675,8 +34726,12 @@ Waxen Shapethief
 Waxing Moon
 Waxmane Baku
 Way of the Cryomancer
+Way of the Deathbringer
+Way of the Healer
+Way of the Necromancer
 Way of the Pyromancer
 Way of the Thief
+Way of the Wildspeaker
 Wayfarer's Bauble
 Wayfaring Giant
 Wayfaring Temple
@@ -34863,6 +34918,7 @@ Whipflare
 Whipgrass Entangler
 Whipkeeper
 Whiplash Trap
+Whiplash Wordsmith
 Whiplash, Vengeful Engineer
 Whippoorwill
 Whipstitched Zombie
@@ -35486,6 +35542,7 @@ Wrecking Ball
 Wrecking Ball Arm
 Wrecking Beast
 Wrecking Crew
+Wrecking Gecko
 Wrecking Ogre
 Wren's Run Hydra
 Wren's Run Packmaster
@@ -35598,6 +35655,7 @@ Yannik, Scavenging Sentinel
 Yare
 Yargle and Multani
 Yargle, Glutton of Urborg
+Yargle, Goliath of Otaria
 Yarok's Fenlurker
 Yarok's Wavecrasher
 Yarok, the Desecrated
@@ -35750,6 +35808,8 @@ Yuna's Decision
 Yuna's Whistle
 Yuna, Grand Summoner
 Yuna, Hope of Spira
+Yuriko, Blade of the Mighty
+Yuriko, Hope from the Shadows
 Yuriko, the Tiger's Shadow
 Yurlok of Scorch Thrash
 Yusri, Fortune's Flame
