@@ -1,0 +1,8 @@
+// NAME: Masters of the Universe: Nyah-ha-ha! Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254732
+// DATE: 2026-09-29
+1 [SLD:2773] Tinybones, the Pickpocket [foil]
+1 [SLD:2774] Tasha's Hideous Laughter [foil]
+1 [SLD:2775] Bottomless Pit [foil]
+1 [SLD:2776] Necrogen Mists [foil]
+1 [SLD:2777] Breach the Multiverse [foil]
