@@ -1,0 +1,8 @@
+// NAME: Masters of the Universe: Nyah-ha-ha!
+// SOURCE: https://secretlair.wizards.com/us/product/1254733
+// DATE: 2026-09-29
+1 [SLD:2773] Tinybones, the Pickpocket
+1 [SLD:2774] Tasha's Hideous Laughter
+1 [SLD:2775] Bottomless Pit
+1 [SLD:2776] Necrogen Mists
+1 [SLD:2777] Breach the Multiverse

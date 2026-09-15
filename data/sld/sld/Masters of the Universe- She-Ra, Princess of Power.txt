@@ -1,0 +1,9 @@
+// NAME: Masters of the Universe: She-Ra, Princess of Power
+// SOURCE: https://secretlair.wizards.com/us/product/1254735
+// DATE: 2026-09-29
+1 [SLD] Kutzil, Malament Exemplar
+1 [SLD:2778] Sisay, Weatherlight Captain
+1 [SLD:2779] Silence
+1 [SLD:2780] Emiel the Blessed
+1 [SLD:2781] Hajar, Loyal Bodyguard
+1 [SLD:2783] Sol Ring

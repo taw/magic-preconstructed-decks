@@ -1,0 +1,8 @@
+// NAME: Masters of the Universe: By the Power of Grayskull! Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254730
+// DATE: 2026-09-29
+1 [SLD:2768] Winota, Joiner of Forces [foil]
+1 [SLD:2769] Crackle with Power [foil]
+1 [SLD:2770] Delina, Wild Mage [foil]
+1 [SLD:2771] Bruenor Battlehammer [foil]
+1 [SLD:2772] Konda's Banner [foil]
