@@ -1,0 +1,9 @@
+// NAME: Masters of the Universe: Allies and Enemies of Eternia Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1254736
+// DATE: 2026-09-29
+1 [SLD:2784] Sakashima the Impostor [foil]
+1 [SLD:2785] Kona, Rescue Beastie [foil]
+1 [SLD:2786] Ertai Resurrected [foil]
+1 [SLD:2787] Derevi, Empyrial Tactician [foil]
+1 [SLD:2788] Samut, Voice of Dissent [foil]
+1 [SLD:2789] Tetsuo, Imperial Champion [foil]
