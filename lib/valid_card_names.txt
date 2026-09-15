@@ -186,7 +186,6 @@ Ace Flockbringer
 Ace's Baseball Bat
 Ace, Fearless Rebel
 Acererak the Archlich
-Acererak the Archlich (Alchemy)
 Achilles Davenport
 Acid Rain
 Acid Web Spider
@@ -562,7 +561,6 @@ Akki Lavarunner
 Akki Raider
 Akki Rockspeaker
 Akki Ronin
-Akki Ronin (Alchemy)
 Akki Scrapchomper
 Akki Underling
 Akki Underminer
@@ -748,7 +746,6 @@ Alpine Watchdog
 Alquist Proft, Master Sleuth
 Alrund's Epiphany
 Alrund, God of the Cosmos
-Alrund, God of the Cosmos (Alchemy)
 Alseid of Life's Bounty
 Altac Bloodseeker
 Altanak, the Thrice-Called
@@ -888,7 +885,6 @@ Ancestral Communion
 Ancestral Craving
 Ancestral Hot Dog Minotaur
 Ancestral Katana
-Ancestral Katana (Alchemy)
 Ancestral Knowledge
 Ancestral Mask
 Ancestral Memories
@@ -1391,7 +1387,6 @@ Ardbert, Warrior of Darkness
 Arden Angel
 Ardenn, Intrepid Archaeologist
 Ardent Dustspeaker
-Ardent Dustspeaker (Alchemy)
 Ardent Electromancer
 Ardent Elementalist
 Ardent Militia
@@ -1503,7 +1498,6 @@ Armory Guard
 Armory Mice
 Armory Paladin
 Armory Veteran
-Armory Veteran (Alchemy)
 Armory of Iroas
 Arms Dealer
 Arms Depot
@@ -1579,7 +1573,6 @@ Arzakon
 As Foretold
 As Luck Would Have It
 Asari Captain
-Asari Captain (Alchemy)
 Ascend from Avernus
 Ascendant Acolyte
 Ascendant Dustspeaker
@@ -2171,7 +2164,6 @@ Balefire Dragon
 Balefire Liege
 Baleful Ammit
 Baleful Beholder
-Baleful Beholder (Alchemy)
 Baleful Eidolon
 Baleful Force
 Baleful Mastery
@@ -2376,7 +2368,6 @@ Basalt Monolith
 Basalt Ravager
 Basandra, Battle Seraph
 Base Camp
-Base Camp (Alchemy)
 Baseball Bat
 Bash to Bits
 Bashful Beastie
@@ -2413,7 +2404,6 @@ Bat'leth
 Bat-
 Bathe in Dragonfire
 Bathe in Gold
-Bathe in Gold (Alchemy)
 Bathe in Light
 Baton of Courage
 Baton of Morale
@@ -2777,7 +2767,6 @@ Bind to Life
 Bind to Secrecy
 Binding Agony
 Binding Geist
-Binding Geist (Alchemy)
 Binding Grasp
 Binding Mummy
 Binding Negotiation
@@ -2986,7 +2975,6 @@ Blessed Alliance
 Blessed Breath
 Blessed Defiance
 Blessed Hippogriff
-Blessed Hippogriff (Alchemy)
 Blessed Light
 Blessed Orator
 Blessed Reincarnation
@@ -3100,7 +3088,6 @@ Blood
 Blood Age General
 Blood Age Muster
 Blood Artist
-Blood Artist (Alchemy)
 Blood Aspirant
 Blood Bairn
 Blood Baron of Vizkopa
@@ -3775,12 +3762,10 @@ Breena, the Demagogue
 Breezekeeper
 Brenard, Ginger Sculptor
 Bretagard Stronghold
-Bretagard Stronghold (Alchemy)
 Breya's Apprentice
 Breya, Etherium Shaper
 Bria, Riptide Rogue
 Briar Hydra
-Briar Hydra (Alchemy)
 Briar Patch
 Briar Shield
 Briarberry Cohort
@@ -3836,7 +3821,6 @@ Brimstone Volley
 Brindle Boar
 Brindle Shoat
 Brine Comber
-Brine Comber (Alchemy)
 Brine Elemental
 Brine Giant
 Brine Hag
@@ -3845,7 +3829,6 @@ Brine Shaman
 Brinebarrow Intruder
 Brineborn Cutthroat
 Brinebound Gift
-Brinebound Gift (Alchemy)
 Brinelin, the Moon Kraken
 Bring Back
 Bring Down
@@ -3948,7 +3931,6 @@ Browse
 Bruce Banner
 Brudiclad, Telchor Engineer
 Bruenor Battlehammer
-Bruenor Battlehammer (Alchemy)
 Bruna, Light of Alabaster
 Bruna, the Fading Light
 Bruse Tarl, Boorish Herder
@@ -4117,7 +4099,6 @@ Butcher's Glee
 Butterbur, Bree Innkeeper
 Buxton, Decorated Host
 Buy Your Silence
-Buy Your Silence (Alchemy)
 Buzz Bots
 Buzz Buggy
 Buzzard-Wasp Colony
@@ -4157,7 +4138,6 @@ Cabal Torturer
 Cabal Trainee
 Cabaretti Ascendancy
 Cabaretti Charm
-Cabaretti Charm (Alchemy)
 Cabaretti Confluence
 Cabaretti Courtyard
 Cabaretti Initiate
@@ -4329,7 +4309,6 @@ Canopy Spider
 Canopy Stalker
 Canopy Surge
 Canopy Tactician
-Canopy Tactician (Alchemy)
 Canopy Vista
 Cantankerous Captain
 Cantankerous Keepers
@@ -4352,7 +4331,6 @@ Capashen Standard
 Capashen Templar
 Capashen Unicorn
 Capenna Express
-Capenna Express (Alchemy)
 Capital City
 Capital Guard
 Capital Punishment
@@ -4446,7 +4424,6 @@ Carnage Wurm
 Carnage, Crimson Chaos
 Carnassid
 Carnelian Orb of Dragonkind
-Carnelian Orb of Dragonkind (Alchemy)
 Carnifex Demon
 Carnival
 Carnival Barker
@@ -4517,7 +4494,6 @@ Case of the Stashed Skeleton
 Case of the Trampled Garden
 Case of the Uneaten Feast
 Case the Joint
-Case the Joint (Alchemy)
 Casey & Raph, Hotheads
 Casey Jones, Asphalt Hooligan
 Casey Jones, Back Alley Brute
@@ -4594,7 +4570,6 @@ Cathedral of Serra
 Cathedral of War
 Cathodion
 Catlike Curiosity
-Catlike Curiosity (Alchemy)
 Catti-brie of Mithral Hall
 Caught Red-Handed
 Caught in a Parallel Universe
@@ -4602,7 +4577,6 @@ Caught in the Brights
 Caught in the Crossfire
 Cauldron Dance
 Cauldron Familiar
-Cauldron Familiar (Alchemy)
 Cauldron Haze
 Cauldron of Essence
 Cauldron of Souls
@@ -4658,7 +4632,6 @@ Celebr-8000
 Celebrate the Harvest
 Celebrate the Mountain-king
 Celebrity Fencer
-Celebrity Fencer (Alchemy)
 Celes, Rune Knight
 Celestial Ancient
 Celestial Archon
@@ -4678,7 +4651,6 @@ Celestial Messenger
 Celestial Prism
 Celestial Purge
 Celestial Regulator
-Celestial Regulator (Alchemy)
 Celestial Reunion
 Celestial Sword
 Celestial Unicorn
@@ -5207,12 +5179,10 @@ Circle of Protection: Shadow
 Circle of Protection: White
 Circle of Solace
 Circle of the Land Druid
-Circle of the Land Druid (Alchemy)
 Circle of the Moon Druid
 Circling Vultures
 Circu, Dimir Lobotomist
 Circuit Mender
-Circuit Mender (Alchemy)
 Circuitous Route
 Circuits Act
 Circular Logic
@@ -5252,7 +5222,6 @@ Civic Saber
 Civic Stalwart
 Civic Wayfinder
 Civil Servant
-Civil Servant (Alchemy)
 Civilized Scholar
 Clachan Festival
 Clackbridge Troll
@@ -5398,7 +5367,6 @@ Clockwork Steed
 Clockwork Swarm
 Clockwork Vorrac
 Cloister Gargoyle
-Cloister Gargoyle (Alchemy)
 Cloistered Telepath
 Cloistered Youth
 Clone
@@ -5494,7 +5462,6 @@ Coax from the Blind Eternities
 Cobalt Golem
 Cobblebrute
 Cobbled Lancer
-Cobbled Lancer (Alchemy)
 Cobbled Wings
 Cobra Trap
 Cockatrice
@@ -5944,7 +5911,6 @@ Coretapper
 Cori Mountain Monastery
 Cori Mountain Stalwart
 Cori-Steel Cutter
-Cori-Steel Cutter (Alchemy)
 Cormela, Glamour Thief
 Cornered Crook
 Cornered Market
@@ -6019,9 +5985,7 @@ Cosmium Kiln
 Cosmogoyf
 Cosmogrand Zenith
 Cosmos Charger
-Cosmos Charger (Alchemy)
 Cosmos Elixir
-Cosmos Elixir (Alchemy)
 Cosmotronic Wave
 Cost of Brilliance
 Costly Plunder
@@ -6884,7 +6848,6 @@ Dawn-Blessed Pennant
 Dawnbreak Reclaimer
 Dawnbringer Charioteers
 Dawnbringer Cleric
-Dawnbringer Cleric (Alchemy)
 Dawnfeather Eagle
 Dawnfluke
 Dawnglade Regent
@@ -6995,7 +6958,6 @@ Deafening Silence
 Deal Broker
 Deal Damage
 Deal Gone Bad
-Deal Gone Bad (Alchemy)
 Dearly Departed
 Death
 Death Baron
@@ -7039,7 +7001,6 @@ Death-Greeter's Champion
 Death-Hood Cobra
 Death-Mask Duplicant
 Death-Priest of Myrkul
-Death-Priest of Myrkul (Alchemy)
 Death-Rattle Oni
 Deathbellow Raider
 Deathbellow War Cry
@@ -7287,7 +7248,6 @@ Dementia Bat
 Dementia Sliver
 Demigod of Revenge
 Demilich
-Demilich (Alchemy)
 Demogorgon's Clutches
 Demolish
 Demolisher Spawn
@@ -7304,7 +7264,6 @@ Demon of Loathing
 Demon of Wailing Agonies
 Demon's Disciple
 Demon's Due
-Demon's Due (Alchemy)
 Demon's Grasp
 Demon's Herald
 Demon's Horn
@@ -7363,7 +7322,6 @@ Depala, Pilot Exemplar
 Depart the Realm
 Departed Deckhand
 Departed Soulkeeper
-Departed Soulkeeper (Alchemy)
 Dependable Quinjet
 Deploy
 Deploy the Gatewatch
@@ -7516,7 +7474,6 @@ Devoted Crop-Mate
 Devoted Druid
 Devoted Duelist
 Devoted Grafkeeper
-Devoted Grafkeeper (Alchemy)
 Devoted Hero
 Devoted Jeskai
 Devoted Mardu
@@ -7794,7 +7751,6 @@ Dissipate
 Dissipation Field
 Dissolve
 Dissonant Wave
-Dissonant Wave (Alchemy)
 Distant Melody
 Distant Memories
 Distemper of the Blood
@@ -7910,7 +7866,6 @@ Dogsnail Engine
 Dokai, Weaver of Life
 Dokuchi Shadow-Walker
 Dokuchi Silencer
-Dokuchi Silencer (Alchemy)
 Dollhouse of Horrors
 Dollmaker's Shop
 Dolmen Gate
@@ -7998,9 +7953,7 @@ Dormant Grove
 Dormant Sliver
 Dormant Volcano
 Dorothea's Retribution
-Dorothea's Retribution (Alchemy)
 Dorothea, Vengeful Victim
-Dorothea, Vengeful Victim (Alchemy)
 Dosan the Falling Leaf
 Dosan's Oldest Chant
 Dose of Dawnglow
@@ -8120,7 +8073,6 @@ Dragon's Hoard
 Dragon's Presence
 Dragon's Prey
 Dragon's Rage Channeler
-Dragon's Rage Channeler (Alchemy)
 Dragon's Smile
 Dragon-Cursed Halls
 Dragon-Kami's Egg
@@ -8132,7 +8084,6 @@ Dragonblood Twins
 Dragonborn Champion
 Dragonborn Immolator
 Dragonborn Looter
-Dragonborn Looter (Alchemy)
 Dragonbroods' Relic
 Dragonclaw Strike
 Dragonfire Blade
@@ -8294,7 +8245,6 @@ Dreams of Steel and Oil
 Dreams of the Dead
 Dreamscape Artist
 Dreamshackle Geist
-Dreamshackle Geist (Alchemy)
 Dreamshaper Shaman
 Dreamspoiler Witches
 Dreamstalker Manticore
@@ -8411,7 +8361,6 @@ Drudge Sentinel
 Drudge Skeletons
 Drudge Spell
 Druid Class
-Druid Class (Alchemy)
 Druid Lyrist
 Druid of Horns
 Druid of Purification
@@ -8424,7 +8373,6 @@ Druid's Call
 Druid's Deliverance
 Druid's Familiar
 Druidic Ritual
-Druidic Ritual (Alchemy)
 Druidic Satchel
 Druids' Repository
 Drumbellower
@@ -8458,7 +8406,6 @@ Duel Tactics
 Duel for Dominance
 Duelcraft Trainer
 Dueling Coach
-Dueling Coach (Alchemy)
 Dueling Grounds
 Dueling Rapier
 Duelist of Deep Faith
@@ -8491,7 +8438,6 @@ Dunes of the Dead
 Dungeon Crawler
 Dungeon Delver
 Dungeon Descent
-Dungeon Descent (Alchemy)
 Dungeon Geists
 Dungeon Map
 Dungeon Master
@@ -8563,7 +8509,6 @@ Duty Beyond Death
 Duty-Bound Dead
 Dwalin, Weaponmaster
 Dwarfhold Champion
-Dwarfhold Champion (Alchemy)
 Dwarven Armorer
 Dwarven Armory
 Dwarven Berserker
@@ -8680,7 +8625,6 @@ Earthlink
 Earthlore
 Earthquake
 Earthquake Dragon
-Earthquake Dragon (Alchemy)
 Earthrumbler
 Earthshaker
 Earthshaker Dreadmaw
@@ -8814,7 +8758,6 @@ Eidolon of the Great Revel
 Eiganjo Castle
 Eiganjo Dynastorian
 Eiganjo Exemplar
-Eiganjo Exemplar (Alchemy)
 Eiganjo Free-Riders
 Eiganjo Uprising
 Eiganjo, Seat of the Empire
@@ -8857,10 +8800,8 @@ Elder Spawn
 Elder of Laurels
 Elderfang Disciple
 Elderfang Ritualist
-Elderfang Ritualist (Alchemy)
 Elderfang Venom
 Elderleaf Mentor
-Elderleaf Mentor (Alchemy)
 Elderscale Wurm
 Elderwood Scion
 Eldest Dragon Highlander
@@ -8976,7 +8917,6 @@ Ellie, Vengeful Hunter
 Ellivere of the Wild Court
 Ellyn Harbreeze, Busybody
 Ellywick Tumblestrum
-Ellywick Tumblestrum (Alchemy)
 Elmar, Ulvenwald Informant
 Elminster
 Elminster's Simulacrum
@@ -9011,7 +8951,6 @@ Elusive Spellfist
 Elusive Tormentor
 Elven Ambush
 Elven Bow
-Elven Bow (Alchemy)
 Elven Cache
 Elven Chorus
 Elven Farsight
@@ -9127,7 +9066,6 @@ Emcee
 Emerald Charm
 Emerald Collector
 Emerald Dragon
-Emerald Dragon (Alchemy)
 Emerald Dragonfly
 Emerald Medallion
 Emerald Oryx
@@ -9698,7 +9636,6 @@ Excavating Anurid
 Excavation
 Excavation Elephant
 Excavation Explosion
-Excavation Explosion (Alchemy)
 Excavation Mole
 Excavation Technique
 Excavator
@@ -9723,7 +9660,6 @@ Exemplar of Strength
 Exert Influence
 Exhaustion
 Exhibition Magician
-Exhibition Magician (Alchemy)
 Exhibition Tidecaller
 Exhilarating Elocution
 Exhume
@@ -9884,7 +9820,6 @@ Eyes Everywhere
 Eyes in the Skies
 Eyes of Gitaxias
 Eyes of the Beholder
-Eyes of the Beholder (Alchemy)
 Eyes of the Watcher
 Eyes of the Wisent
 Eyetwitch
@@ -9985,7 +9920,6 @@ Faithless Salvaging
 Fake Your Own Death
 Falco Spara, Pactweaver
 Falcon Abomination
-Falcon Abomination (Alchemy)
 Falcon and Redwing
 Falcon's Wing Harness
 Falcon, Joaquin Torres
@@ -10012,7 +9946,6 @@ Fall of the First Civilization
 Fall of the Gavel
 Fall of the Hammer
 Fall of the Impostor
-Fall of the Impostor (Alchemy)
 Fall of the Thran
 Fall of the Titans
 Fall to Earth
@@ -10164,7 +10097,6 @@ Fateful Tempest
 Fatehold Charm
 Fatehold Chronologist
 Fates' Reversal
-Fates' Reversal (Alchemy)
 Fatespinner
 Fatestitcher
 Fathom Feeder
@@ -10519,7 +10451,6 @@ Finally! Left-Handed Magic Cards
 Finch Formation
 Find
 Find the Path
-Find the Path (Alchemy)
 Finders, Keepers
 Finest Hour
 Finish
@@ -11070,7 +11001,6 @@ Forfend
 Forge Anew
 Forge Armor
 Forge Boss
-Forge Boss (Alchemy)
 Forge Devil
 Forge of Heroes
 Forgeborn Oreads
@@ -11458,7 +11388,6 @@ Future Flight
 Future Sight
 Futurist Forge
 Futurist Operative
-Futurist Operative (Alchemy)
 Futurist Sentinel
 Futurist Spellthief
 Fylamarid
@@ -11559,7 +11488,6 @@ Galvanic Arc
 Galvanic Blast
 Galvanic Bombardment
 Galvanic Discharge
-Galvanic Discharge (Alchemy)
 Galvanic Giant
 Galvanic Iteration
 Galvanic Juggernaut
@@ -11815,9 +11743,7 @@ Geode Golem
 Geode Grotto
 Geode Rager
 Geological Appraiser
-Geological Appraiser (Alchemy)
 Geology Enthusiast
-Geology Enthusiast (Alchemy)
 Geomancer's Gambit
 Geometer's Arthropod
 Geometric Nexus
@@ -12180,7 +12106,6 @@ Glamerdye
 Glamermite
 Glamorous Grapplers
 Glamorous Outlaw
-Glamorous Outlaw (Alchemy)
 Glarb, Calamity's Augur
 Glare of Heresy
 Glare of Subdual
@@ -12291,7 +12216,6 @@ Glittering Massif
 Glittering Stockpile
 Glittering Wish
 Glittermonger
-Glittermonger (Alchemy)
 Global Ruin
 Gloom
 Gloom Pangolin
@@ -12363,7 +12287,6 @@ Gnarled Professor
 Gnarled Sage
 Gnarled Scarhide
 Gnarlid Colony
-Gnarlid Colony (Alchemy)
 Gnarlid Pack
 Gnarlroot Pallbearer
 Gnarlroot Trapper
@@ -12617,7 +12540,6 @@ Godsire
 Godtoucher
 Godtracker of Jund
 Goggles of Night
-Goggles of Night (Alchemy)
 Gogo, Master of Mimicry
 Gogo, Mysterious Mime
 Goham Djinn
@@ -12709,7 +12631,6 @@ Gollum, Scheming Guide
 Gollum, Silent Slinker
 Golos, Tireless Pilgrim
 Goma Fada Vanguard
-Goma Fada Vanguard (Alchemy)
 Gomazoa
 Gomif, Fast Racer
 Gond Gate
@@ -12901,7 +12822,6 @@ Graveyard Dig
 Graveyard Glutton
 Graveyard Marshal
 Graveyard Shift
-Graveyard Shift (Alchemy)
 Graveyard Shovel
 Graveyard Trespasser
 Gravitational Shift
@@ -13268,7 +13188,6 @@ Guest List
 Guff Rewrites History
 Guidance Failure
 Guide of Souls
-Guide of Souls (Alchemy)
 Guided Passage
 Guided Strike
 Guidelight Matrix
@@ -13294,7 +13213,6 @@ Guildpact Informant
 Guildpact Paragon
 Guildscorn Ward
 Guildsworn Prowler
-Guildsworn Prowler (Alchemy)
 Guile
 Guiltfeeder
 Guilty Conscience
@@ -13343,10 +13261,8 @@ Gutmorn, Pactbound Servant
 Gutsplitter Gang
 Gutter Grime
 Gutter Shortcut
-Gutter Shortcut (Alchemy)
 Gutter Skulk
 Gutter Skulker
-Gutter Skulker (Alchemy)
 Gutterbones
 Guttersnipe
 Guttural Response
@@ -13411,7 +13327,6 @@ Haggle
 Hagi Mob
 Hagra Broodpit
 Hagra Constrictor
-Hagra Constrictor (Alchemy)
 Hagra Crocodile
 Hagra Diabolist
 Hagra Mauling
@@ -13424,7 +13339,6 @@ Hajar, Loyal Bodyguard
 Hakbal of the Surging Soul
 Hakim, Loreweaver
 Hakka, Whispering Raven
-Hakka, Whispering Raven (Alchemy)
 Hakoda, Selfless Commander
 Haktos the Unscarred
 Halam Djinn
@@ -13456,7 +13370,6 @@ Hall of Mirrors
 Hall of Oracles
 Hall of Storm Giants
 Hall of Tagsin
-Hall of Tagsin (Alchemy)
 Hall of Triumph
 Hall of the Bandit Lord
 Hallar, the Firefletcher
@@ -13557,9 +13470,7 @@ Happy Yargle Day!
 Harabaz Druid
 Haradrim Spearmaster
 Harald Unites the Elves
-Harald Unites the Elves (Alchemy)
 Harald, King of Skemfar
-Harald, King of Skemfar (Alchemy)
 Harbin, Vanguard Aviator
 Harbinger of Night
 Harbinger of Spring
@@ -13726,7 +13637,6 @@ Hawkeye, Young Avenger
 Haystack
 Haytham Kenway
 Haywire Mite
-Haywire Mite (Alchemy)
 Hazard of the Dunes
 Hazardous Blast
 Hazardous Conditions
@@ -13799,7 +13709,6 @@ Heart-Shaped Herb
 Heartbeat of Spring
 Heartfire
 Heartfire Hero
-Heartfire Hero (Alchemy)
 Heartfire Immolator
 Heartflame Duelist
 Heartflame Slash
@@ -14140,7 +14049,6 @@ High Troller
 High and Dry Black Market
 High-Flying Ace
 High-Rise Sawjack
-High-Rise Sawjack (Alchemy)
 High-Society Hunter
 High-Speed Hoverbike
 Highborn Ghoul
@@ -14236,7 +14144,6 @@ Hobbit's Sting
 Hobble
 Hobblefiend
 Hobbling Zombie
-Hobbling Zombie (Alchemy)
 Hobgoblin Bandit Lord
 Hobgoblin Captain
 Hobgoblin Dragoon
@@ -14915,7 +14822,6 @@ Imperial Recovery Unit
 Imperial Recruiter
 Imperial Seal
 Imperial Subduer
-Imperial Subduer (Alchemy)
 Imperiosaur
 Imperious Inkmage
 Imperious Mindbreaker
@@ -15019,7 +14925,6 @@ Increasing Vengeance
 Incremental Blight
 Incremental Growth
 Incriminate
-Incriminate (Alchemy)
 Incriminating Impetus
 Incubation
 Incubation Druid
@@ -15475,7 +15380,6 @@ Iridescent Angel
 Iridescent Blademaster
 Iridescent Drake
 Iridescent Hornbeetle
-Iridescent Hornbeetle (Alchemy)
 Iridescent Tiger
 Iridescent Vinelasher
 Iridian Maelstrom
@@ -15685,7 +15589,6 @@ Jackdaw
 Jackdaw Savior
 Jacked Rabbit
 Jackhammer
-Jackhammer (Alchemy)
 Jackknight
 Jacob Frye
 Jacob Hauken, Inspector
@@ -15701,7 +15604,6 @@ Jade Leech
 Jade Mage
 Jade Monolith
 Jade Orb of Dragonkind
-Jade Orb of Dragonkind (Alchemy)
 Jade Seedstones
 Jade Statue
 Jade-Cast Sentinel
@@ -16181,9 +16083,7 @@ Karfell Kennel-Master
 Kargan Dragonlord
 Kargan Dragonrider
 Kargan Intimidator
-Kargan Intimidator (Alchemy)
 Kargan Warleader
-Kargan Warleader (Alchemy)
 Kari Zev's Expertise
 Kari Zev, Crew of Two
 Kari Zev, Skyship Raider
@@ -16210,7 +16110,6 @@ Karn, Argent Defender
 Karn, Gilded Guardian
 Karn, Legacy Reforged
 Karn, Living Legacy
-Karn, Living Legacy (Alchemy)
 Karn, Scion of Urza
 Karn, Silver Golem
 Karn, the Great Creator
@@ -16408,7 +16307,6 @@ Kemba, Kha Regent
 Kemuri-Onna
 Kenessos, Priest of Thassa
 Kenku Artificer
-Kenku Artificer (Alchemy)
 Kenrith's Transformation
 Kenrith, the Returned King
 Kentaro, the Smiling Cat
@@ -16730,7 +16628,6 @@ Knights of Thorn
 Knights of the Black Rose
 Knights' Charge
 Knockout Blow
-Knockout Blow (Alchemy)
 Knockout Maneuver
 Knollspine Dragon
 Knollspine Invocation
@@ -16784,7 +16681,6 @@ Koma, World-Eater
 Komainu Battle Armor
 Komodo Rhino
 Kona, Rescue Beastie
-Kona, Rescue Beastie (Alchemy)
 Konda's Banner
 Konda's Hatamoto
 Konda, Lord of Eiganjo
@@ -16947,7 +16843,6 @@ Kruphix's Insight
 Kruphix, God of Horizons
 Kry Shield
 Krydle of Baldur's Gate
-Krydle of Baldur's Gate (Alchemy)
 Kudo, King Among Bears
 Kudzu
 Kuja, Genome Sorcerer
@@ -17108,22 +17003,18 @@ Landscaper Colos
 Landslide
 Languish
 Lantern Bearer
-Lantern Bearer (Alchemy)
 Lantern Flare
 Lantern Kami
 Lantern Scout
 Lantern Spirit
 Lantern of Insight
 Lantern of Revealing
-Lantern of Revealing (Alchemy)
 Lantern of Undersight
 Lantern of the Lost
 Lantern-Lit Graveyard
 Lanterns' Lift
-Lanterns' Lift (Alchemy)
 Lapis Lazuli Talisman
 Lapis Orb of Dragonkind
-Lapis Orb of Dragonkind (Alchemy)
 Lapse of Certainty
 Laquatus's Champion
 Laquatus's Creativity
@@ -17427,7 +17318,6 @@ Leyline of Lightning
 Leyline of Mutation
 Leyline of Punishment
 Leyline of Resonance
-Leyline of Resonance (Alchemy)
 Leyline of Sanctity
 Leyline of Singularity
 Leyline of Transformation
@@ -17470,7 +17360,6 @@ Liege of the Hollows
 Liege of the Pit
 Liege of the Tangle
 Lier, Disciple of the Drowned
-Lier, Disciple of the Drowned (Alchemy)
 Liesa, Forgotten Archangel
 Liesa, Shroud of Dusk
 Lieutenant Kirtar
@@ -17732,10 +17621,8 @@ Llanowar Elves
 Llanowar Empath
 Llanowar Envoy
 Llanowar Greenwidow
-Llanowar Greenwidow (Alchemy)
 Llanowar Knight
 Llanowar Loamspeaker
-Llanowar Loamspeaker (Alchemy)
 Llanowar Mentor
 Llanowar Reborn
 Llanowar Scout
@@ -18202,7 +18089,6 @@ Maelstrom Artisan
 Maelstrom Colossus
 Maelstrom Djinn
 Maelstrom Muse
-Maelstrom Muse (Alchemy)
 Maelstrom Nexus
 Maelstrom Pulse
 Maelstrom Wanderer
@@ -18503,7 +18389,6 @@ Manriki-Gusari
 Manta Ray
 Manta Riders
 Manticore
-Manticore (Alchemy)
 Manticore Eternal
 Manticore of the Gauntlet
 Mantis Engine
@@ -18707,7 +18592,6 @@ Mask of the Mimic
 Mask of the Schemer
 Masked Admirers
 Masked Bandits
-Masked Bandits (Alchemy)
 Masked Blackguard
 Masked Gorgon
 Masked Meower
@@ -18757,7 +18641,6 @@ Master of Pearls
 Master of Predicaments
 Master of Waves
 Master of Winds
-Master of Winds (Alchemy)
 Master of the Feast
 Master of the Hunt
 Master of the Pearl Trident
@@ -18973,7 +18856,6 @@ Mental Vapors
 Mentor of Evos Isle
 Mentor of the Meek
 Mentor's Guidance
-Mentor's Guidance (Alchemy)
 Mephidross Slime
 Mephidross Vampire
 Mephit's Enthusiasm
@@ -19043,7 +18925,6 @@ Merfolk Windrobber
 Merfolk of the Depths
 Merfolk of the Pearl Trident
 Meria's Outrider
-Meria's Outrider (Alchemy)
 Meria, Scholar of Antiquity
 Meriadoc Brandybuck
 Merieke Ri Berit
@@ -19119,7 +19000,6 @@ Meticulous Artisan
 Meticulous Excavation
 Metrognome
 Metropolis Angel
-Metropolis Angel (Alchemy)
 Metropolis Reformer
 Metropolis Sprite
 Metzali, Tower of Triumph
@@ -19144,7 +19024,6 @@ Midlife Upgrade
 Midnight Angel Armor
 Midnight Arsonist
 Midnight Assassin
-Midnight Assassin (Alchemy)
 Midnight Banshee
 Midnight Charm
 Midnight Clock
@@ -19182,7 +19061,6 @@ Might of the Old Ways
 Mightform Harmonizer
 Mightstone
 Mightstone's Animation
-Mightstone's Animation (Alchemy)
 Mighty Emergence
 Mighty Leap
 Mighty Mutanimals
@@ -19356,7 +19234,6 @@ Minotaur Younghorn
 Minotaur de Force
 Minotaur, Roxxon CEO
 Minsc & Boo, Timeless Heroes
-Minsc & Boo, Timeless Heroes (Alchemy)
 Minsc, Beloved Ranger
 Minthara of the Absolute
 Minthara, Merciless Soul
@@ -19451,7 +19328,6 @@ Miscalculation
 Miscast
 Mischief and Mayhem
 Mischievous Catgeist
-Mischievous Catgeist (Alchemy)
 Mischievous Chimera
 Mischievous Lookout
 Mischievous Mystic
@@ -19487,7 +19363,6 @@ Mishra, Artificer Prodigy
 Mishra, Claimed by Gix
 Mishra, Eminent One
 Mishra, Excavation Prodigy
-Mishra, Excavation Prodigy (Alchemy)
 Mishra, Lost to Phyrexia
 Mishra, Tamer of Mak Fawa
 Misinformation
@@ -19785,7 +19660,6 @@ Moon Sprite
 Moon-Blessed Cleric
 Moon-Boy, Dino Rider
 Moon-Circuit Hacker
-Moon-Circuit Hacker (Alchemy)
 Moon-Eating Dog
 Moon-Vigil Adherents
 Moonblade Shinobi
@@ -19910,7 +19784,6 @@ Moss Kami
 Moss Monster
 Moss Viper
 Moss-Pit Skeleton
-Moss-Pit Skeleton (Alchemy)
 Mossbeard Ancient
 Mossborn Hydra
 Mossbridge Troll
@@ -19924,7 +19797,6 @@ Mosswort Bridge
 Most Decrepit Old Bird
 Most Valuable Slayer
 Most Wanted
-Most Wanted (Alchemy)
 Moth Herb Elixir
 Mothdust Changeling
 Mother Bear
@@ -19986,7 +19858,6 @@ Mr. Foxglove
 Mr. House, President and CEO
 Mr. Monopoly, On the Go
 Mr. Orfeo, the Boulder
-Mr. Orfeo, the Boulder (Alchemy)
 Mr. Wiggles, Helpful Butterfly
 Ms. Bumbleflower
 Ms. Marvel, Elastic Ally
@@ -20260,9 +20131,7 @@ Nadier's Nightblade
 Nadier, Agent of the Duskenel
 Nadir Kraken
 Nadu, Winged Wisdom
-Nadu, Winged Wisdom (Alchemy)
 Nael, Avizoa Aeronaut
-Nael, Avizoa Aeronaut (Alchemy)
 Nafs Asp
 Naga Eternal
 Naga Fleshcrafter
@@ -20281,7 +20150,6 @@ Nahiri's Warcrafting
 Nahiri's Wrath
 Nahiri, Forged in Fury
 Nahiri, Heir of the Ancients
-Nahiri, Heir of the Ancients (Alchemy)
 Nahiri, Storm of Stone
 Nahiri, the Harbinger
 Nahiri, the Lithomancer
@@ -20332,7 +20200,6 @@ Narcolepsy
 Narcomoeba
 Nardole, Resourceful Cyborg
 Narfi, Betrayer King
-Narfi, Betrayer King (Alchemy)
 Narnam Cobra
 Narnam Renegade
 Narod, the Beige Flower
@@ -20352,7 +20219,6 @@ Narwhal
 Nascent Metamorph
 Nashi, Illusion Gadgeteer
 Nashi, Moon Sage's Scion
-Nashi, Moon Sage's Scion (Alchemy)
 Nashi, Moon's Legacy
 Nashi, Searcher in the Dark
 Nassari, Dean of Expression
@@ -20401,7 +20267,6 @@ Nausea
 Nautiloid Ship
 Nav Squad Commandos
 Navigation Orb
-Navigation Orb (Alchemy)
 Navigator's Compass
 Navigator's Ruin
 Naya
@@ -20642,7 +20507,6 @@ Nezumi Graverobber
 Nezumi Informant
 Nezumi Linkbreaker
 Nezumi Prowler
-Nezumi Prowler (Alchemy)
 Nezumi Road Captain
 Nezumi Ronin
 Nezumi Shadow-Watcher
@@ -21166,10 +21030,8 @@ Occupation of Kulrath
 Occupation of Llanowar
 Oceanus Dragon
 Ocelot Pride
-Ocelot Pride (Alchemy)
 Ochran Assassin
 Ochre Jelly
-Ochre Jelly (Alchemy)
 Octavia, Living Thesis
 Octo Opus
 Octomancer
@@ -21331,7 +21193,6 @@ Ominous Cemetery
 Ominous Harvest
 Ominous Lockbox
 Ominous Parcel
-Ominous Parcel (Alchemy)
 Ominous Roost
 Ominous Seas
 Ominous Sphinx
@@ -21479,7 +21340,6 @@ Orah, Skyclave Hierophant
 Oran-Rief Hydra
 Oran-Rief Invoker
 Oran-Rief Ooze
-Oran-Rief Ooze (Alchemy)
 Oran-Rief Recluse
 Oran-Rief Survivalist
 Oran-Rief, the Vastwood
@@ -21505,7 +21365,6 @@ Orchard Warden
 Orcish Artillery
 Orcish Bloodpainter
 Orcish Bowmasters
-Orcish Bowmasters (Alchemy)
 Orcish Cannonade
 Orcish Cannoneers
 Orcish Captain
@@ -21918,7 +21777,6 @@ Paragon of Eternal Wilds
 Paragon of Fierce Defiance
 Paragon of Gathering Mists
 Paragon of Modernity
-Paragon of Modernity (Alchemy)
 Paragon of New Dawns
 Paragon of Open Graves
 Paragon of the Amesha
@@ -22031,7 +21889,6 @@ Patriar's Seal
 Patriarch's Bidding
 Patriarch's Desire
 Patrician Geist
-Patrician Geist (Alchemy)
 Patrician's Scorn
 Patriot, Shield Wielder
 Patriot, Young Avenger
@@ -22097,7 +21954,6 @@ Peer into the Abyss
 Peerless Recycling
 Peerless Ropemaster
 Peerless Samurai
-Peerless Samurai (Alchemy)
 Pegasus Charger
 Pegasus Courser
 Pegasus Guardian
@@ -22264,7 +22120,6 @@ Phantatog
 Phantom Beast
 Phantom Blade
 Phantom Carriage
-Phantom Carriage (Alchemy)
 Phantom Centaur
 Phantom Flock
 Phantom General
@@ -22325,7 +22180,6 @@ Photon, Mighty Marvel
 Phthisis
 Phylactery Lich
 Phylath, World Sculptor
-Phylath, World Sculptor (Alchemy)
 Phyresis
 Phyresis Outbreak
 Phyresis Roach
@@ -22637,7 +22491,6 @@ Plasma Elemental
 Plasma Jockey
 Plasmancer
 Plate Armor
-Plate Armor (Alchemy)
 Plate Spinning
 Plateau
 Plated Crusher
@@ -22860,7 +22713,6 @@ Preacher
 Preacher of the Schism
 Precinct Captain
 Precipitous Drop
-Precipitous Drop (Alchemy)
 Precise Strike
 Precision Bolt
 Precognition
@@ -23150,7 +23002,6 @@ Prosperous Innkeeper
 Prosperous Partnership
 Prosperous Pirates
 Prosperous Thief
-Prosperous Thief (Alchemy)
 Prossh, Skyraider of Kher
 Prosthetic Injector
 Protean Hulk
@@ -23205,7 +23056,6 @@ Prying Eyes
 Prying Questions
 Psemilla, Meletian Poet
 Pseudodragon Familiar
-Pseudodragon Familiar (Alchemy)
 Psionic Blast
 Psionic Entity
 Psionic Gift
@@ -23213,7 +23063,6 @@ Psionic Pulse
 Psionic Ritual
 Psionic Sliver
 Psionic Snoop
-Psionic Snoop (Alchemy)
 Psychatog
 Psychic Allergy
 Psychic Barrier
@@ -23257,7 +23106,6 @@ Pterodon Knight
 Pteron Ghost
 PuPu UFO
 Public Enemy
-Public Enemy (Alchemy)
 Public Execution
 Public Thoroughfare
 Puca's Covenant
@@ -23380,7 +23228,6 @@ Pyre Zombie
 Pyre of Heroes
 Pyre of the World Tree
 Pyre-Sledge Arsonist
-Pyre-Sledge Arsonist (Alchemy)
 Pyreheart Wolf
 Pyreswipe Hawk
 Pyretic Charge
@@ -23496,7 +23343,6 @@ Question Elemental?
 Questionable Cuisine
 Queue of Beetles
 Queza, Augur of Agonies
-Queza, Augur of Agonies (Alchemy)
 Quick Draw
 Quick Fixer
 Quick Sliver
@@ -23592,9 +23438,7 @@ Radagast the Brown
 Radagast, Wizard of Wilds
 Raddic, Tal Zealot
 Radha's Firebrand
-Radha's Firebrand (Alchemy)
 Radha, Coalition Warlord
-Radha, Coalition Warlord (Alchemy)
 Radha, Heart of Keld
 Radha, Heir to Keld
 Radiant Destiny
@@ -23719,7 +23563,6 @@ Raise the Past
 Raised by Giants
 Raised by Wolves
 Raiyuu, Storm's Edge
-Raiyuu, Storm's Edge (Alchemy)
 Raka Disciple
 Raka Sanctuary
 Rakalite
@@ -23758,7 +23601,6 @@ Raking Claws
 Rakish Crew
 Rakish Heir
 Rakish Revelers
-Rakish Revelers (Alchemy)
 Rakish Scoundrel
 Rakka Mar
 Raksha Golden Cub
@@ -24079,7 +23921,6 @@ Read the Runes
 Read the Tides
 Ready
 Ready to Rumble
-Ready to Rumble (Alchemy)
 Reality
 Reality Acid
 Reality Anchor
@@ -24628,7 +24469,6 @@ Retto, Family Racer
 Return
 Return Triumphant
 Return Upon the Tide
-Return Upon the Tide (Alchemy)
 Return from Extinction
 Return from the Wilds
 Return of the Mole Man
@@ -24656,7 +24496,6 @@ Reveillark
 Reveille Squad
 Reveka, Wizard Savant
 Revel Ruiner
-Revel Ruiner (Alchemy)
 Revel in Riches
 Revel in Silence
 Revel of the Fallen God
@@ -25024,7 +24863,6 @@ Riveteers Charm
 Riveteers Confluence
 Riveteers Decoy
 Riveteers Initiate
-Riveteers Initiate (Alchemy)
 Riveteers Overlook
 Riveteers Provocateur
 Riveteers Requisitioner
@@ -25101,7 +24939,6 @@ Rockshard Elemental
 Rockslide Ambush
 Rockslide Elemental
 Rockslide Sorcerer
-Rockslide Sorcerer (Alchemy)
 Rocksteady, Crash Courser
 Rocksteady, Mutant Marauder
 Rocky Rebuke
@@ -25291,7 +25128,6 @@ Rowan's Stalwarts
 Rowan's Talent
 Rowan, Fearless Sparkmage
 Rowan, Scholar of Sparks
-Rowan, Scholar of Sparks (Alchemy)
 Rowan, Scion of War
 Rowdy Crew
 Rowdy Research
@@ -25366,7 +25202,6 @@ Rule of Law
 Rule with an Even Hand
 Rules Lawyer
 Rulik Mons, Warren Chief
-Rulik Mons, Warren Chief (Alchemy)
 Rumble Arena
 Rumbleweed
 Rumbling Aftershocks
@@ -25615,7 +25450,6 @@ Saheeli's Directive
 Saheeli's Lattice
 Saheeli's Silverwing
 Saheeli, Filigree Master
-Saheeli, Filigree Master (Alchemy)
 Saheeli, Radiant Creator
 Saheeli, Sublime Artificer
 Saheeli, the Gifted
@@ -25735,7 +25569,6 @@ Sanctum of Tranquil Light
 Sanctum of Ugin
 Sanctum of the Sun
 Sand Augury
-Sand Augury (Alchemy)
 Sand Golem
 Sand Scout
 Sand Silos
@@ -25881,7 +25714,6 @@ Sash and Waistcoat, Unmen
 Saskia the Unyielding
 Sassy Gremlin Blood
 Satoru Umezawa
-Satoru Umezawa (Alchemy)
 Satoru, the Infiltrator
 Satsuki, the Living Lore
 Satya, Aetherflux Genius
@@ -26172,7 +26004,6 @@ Scout for Survivors
 Scout the Borders
 Scout the City
 Scout the Wilderness
-Scout the Wilderness (Alchemy)
 Scout's Warning
 Scouting Hawk
 Scouting Trek
@@ -26423,7 +26254,6 @@ Security Blockade
 Security Bypass
 Security Detail
 Security Rhox
-Security Rhox (Alchemy)
 Sedge Scorpion
 Sedge Sliver
 Sedge Troll
@@ -26623,7 +26453,6 @@ Sephiroth, One-Winged Angel
 Sephiroth, Planet's Heir
 Septic Rats
 Sepulcher Ghoul
-Sepulcher Ghoul (Alchemy)
 Sepulchral Primordial
 Sequence Engine
 Sequestered Stash
@@ -26753,7 +26582,6 @@ Severed Strands
 Sevinne's Reclamation
 Sevinne, the Chronoclasm
 Sewer Crocodile
-Sewer Crocodile (Alchemy)
 Sewer Nemesis
 Sewer Plague
 Sewer Rats
@@ -26926,7 +26754,6 @@ Shattered Landscape
 Shattered Perception
 Shattered Sanctum
 Shattered Seraph
-Shattered Seraph (Alchemy)
 Shattered Wings
 Shattered Yard
 Shattergang Brothers
@@ -26999,7 +26826,6 @@ Shepherd of the Lost
 Shepherding Spirits
 Sheriff of Safe Passage
 Shessra, Death's Whisper
-Shessra, Death's Whisper (Alchemy)
 Shi'ar Soldier
 Shichifukujin Dragon
 Shidako, Broodmistress
@@ -27086,7 +26912,6 @@ Shipwreck Moray
 Shipwreck Patrol
 Shipwreck Sentry
 Shipwreck Sifters
-Shipwreck Sifters (Alchemy)
 Shipwreck Singer
 Shire Scarecrow
 Shire Shirriff
@@ -27301,7 +27126,6 @@ Sigarda, Heron's Grace
 Sigarda, Host of Herons
 Sigardian Evangel
 Sigardian Paladin
-Sigardian Paladin (Alchemy)
 Sigardian Priest
 Sigardian Savior
 Sigardian Zealot
@@ -27315,7 +27139,6 @@ Sigil Captain
 Sigil Tracer
 Sigil of Distinction
 Sigil of Myrkul
-Sigil of Myrkul (Alchemy)
 Sigil of Sleep
 Sigil of Valor
 Sigil of the Empty Throne
@@ -27407,7 +27230,6 @@ Silver Surfer, Cosmic Voyager
 Silver Surfer, Galactus's Herald
 Silver Wyvern
 Silver-Fur Master
-Silver-Fur Master (Alchemy)
 Silver-Inlaid Dagger
 Silverback Ape
 Silverback Elder
@@ -27553,7 +27375,6 @@ Sizzle
 Sizzling Barrage
 Sizzling Changeling
 Sizzling Soloist
-Sizzling Soloist (Alchemy)
 Skaab Goliath
 Skaab Ruinator
 Skaab Wrangler
@@ -27591,9 +27412,7 @@ Skeleton Shard
 Skeleton Ship
 Skeletonize
 Skemfar Avenger
-Skemfar Avenger (Alchemy)
 Skemfar Elderhall
-Skemfar Elderhall (Alchemy)
 Skemfar Shadowsage
 Skewer Slinger
 Skewer the Critics
@@ -27665,7 +27484,6 @@ Skull Raid
 Skull Rend
 Skull Saucer
 Skull Skaab
-Skull Skaab (Alchemy)
 Skull Storm
 Skull of Orm
 Skull of Ramos
@@ -27724,7 +27542,6 @@ Skyclave Relic
 Skyclave Sentinel
 Skyclave Shade
 Skyclave Shadowcat
-Skyclave Shadowcat (Alchemy)
 Skyclave Squid
 Skyclaw Thrash
 Skycloud Egg
@@ -28100,7 +27917,6 @@ Soaring Show-Off
 Soaring Stoneglider
 Soaring Thought-Thief
 Social Climber
-Social Climber (Alchemy)
 Social Snub
 Socketed Sprocketer
 Sodden Verdure
@@ -28253,7 +28069,6 @@ Soratami Savant
 Soratami Seer
 Soraya the Falconer
 Sorcerer Class
-Sorcerer Class (Alchemy)
 Sorcerer of the Fang
 Sorcerer's Broom
 Sorcerer's Strongbox
@@ -28272,7 +28087,6 @@ Sorin's Thirst
 Sorin's Vengeance
 Sorin, Grim Nemesis
 Sorin, Imperious Bloodlord
-Sorin, Imperious Bloodlord (Alchemy)
 Sorin, Lord of Innistrad
 Sorin, Ravenous Neonate
 Sorin, Solemn Visitor
@@ -28346,7 +28160,6 @@ Soul of Ravnica
 Soul of Shandalar
 Soul of Theros
 Soul of Windgrace
-Soul of Windgrace (Alchemy)
 Soul of Zendikar
 Soul of the Harvest
 Soul of the Rapids
@@ -28430,7 +28243,6 @@ Space-Time Anomaly
 Spaceshift
 Spaghetti Junction
 Spara's Adjudicators
-Spara's Adjudicators (Alchemy)
 Spara's Bodyguard
 Spara's Headquarters
 Spare Changeling
@@ -28485,7 +28297,6 @@ Spawnsire of Ulamog
 Spawnwrithe
 Speak Secrets
 Speakeasy Server
-Speakeasy Server (Alchemy)
 Speaker of the Heavens
 Spear Spewer
 Spear of Heliod
@@ -28516,7 +28327,6 @@ Spectral Adversary
 Spectral Arcanist
 Spectral Bears
 Spectral Binding
-Spectral Binding (Alchemy)
 Spectral Cloak
 Spectral Deluge
 Spectral Denial
@@ -28555,7 +28365,6 @@ Spell Pierce
 Spell Queller
 Spell Rupture
 Spell Satchel
-Spell Satchel (Alchemy)
 Spell Shrivel
 Spell Snare
 Spell Snip
@@ -28856,13 +28665,11 @@ Split Screen
 Split Up
 Split the Party
 Split the Spoils
-Split the Spoils (Alchemy)
 Split-Tail Miko
 Splitskin Doll
 Splitting Headache
 Splitting Slime
 Splitting the Powerstone
-Splitting the Powerstone (Alchemy)
 Spock, Logical Choice
 Spoils of Adventure
 Spoils of Blood
@@ -28930,7 +28737,6 @@ Sprout
 Sprout Swarm
 Sproutback Trudge
 Sprouting Goblin
-Sprouting Goblin (Alchemy)
 Sprouting Phytohydra
 Sprouting Renewal
 Sprouting Thrinax
@@ -29172,7 +28978,6 @@ Steadfast Paladin
 Steadfast Sentinel
 Steadfast Sentry
 Steadfast Unicorn
-Steadfast Unicorn (Alchemy)
 Steadfastness
 Steady Aim
 Steady Progress
@@ -29284,7 +29089,6 @@ Stilt-Man, Towering Terror
 Stiltstrider
 Stiltzkin, Moogle Merchant
 Stimulus Package
-Stimulus Package (Alchemy)
 Sting, Bilbo's Sword
 Sting, the Glinting Dagger
 Sting-Slinger
@@ -29320,7 +29124,6 @@ Stirring Wildwood
 Stitch Together
 Stitch in Time
 Stitched Assistant
-Stitched Assistant (Alchemy)
 Stitched Drake
 Stitched Mangler
 Stitcher Geralf
@@ -29813,7 +29616,6 @@ Sun-Spider, Nimble Webber
 Sunastian Falconer
 Sunbaked Canyon
 Sunbathing Rootwalla
-Sunbathing Rootwalla (Alchemy)
 Sunbeam Spellbomb
 Sunbillow Verge
 Sunbird Effigy
@@ -30207,7 +30009,6 @@ Symbol Status
 Symbol of Unsummoning
 Symmetry Matrix
 Symmetry Sage
-Symmetry Sage (Alchemy)
 Synapse Necromage
 Synapse Sliver
 Synchronized Charge
@@ -30221,7 +30022,6 @@ Syndicate Enforcer
 Syndicate Guildmage
 Syndicate Heavy
 Syndicate Infiltrator
-Syndicate Infiltrator (Alchemy)
 Syndicate Liquidators
 Syndicate Messenger
 Syndicate Recruiter
@@ -30428,7 +30228,6 @@ Tamiyo, the Moon Sage
 Tan Jolom, the Worldwalker
 Tana, the Bloodsower
 Tanazir Quandrix
-Tanazir Quandrix (Alchemy)
 Tandem Lookout
 Tandem Tactics
 Tandem Takedown
@@ -30523,7 +30322,6 @@ Tattermunge Witch
 Tattoo Ward
 Tatyova, Benthic Druid
 Tatyova, Steward of Tides
-Tatyova, Steward of Tides (Alchemy)
 Taught by Bruce Tarl
 Taught by Narset
 Taught by Serra
@@ -30632,7 +30430,6 @@ Teferi, Master of Time
 Teferi, Temporal Archmage
 Teferi, Temporal Pilgrim
 Teferi, Time Raveler
-Teferi, Time Raveler (Alchemy)
 Teferi, Timebender
 Teferi, Timeless Voyager
 Teferi, Who Slows the Sunset
@@ -30790,7 +30587,6 @@ Tenth District Veteran
 Tenuous Truce
 Tenured Concocter
 Tenured Inkcaster
-Tenured Inkcaster (Alchemy)
 Tenured Oilcaster
 Tenza, Godo's Maul
 Teo, Spirited Glider
@@ -31329,7 +31125,6 @@ The Octopus Official
 The Odd Acorn Gang
 The Omenkeel
 The One Ring
-The One Ring (Alchemy)
 The Ooze
 The Ozolith
 The Pandorica
@@ -31633,7 +31428,6 @@ Thornglint Bridge
 Thornhide Wolves
 Thornling
 Thornmantle Striker
-Thornmantle Striker (Alchemy)
 Thornplate Intimidator
 Thornscape Apprentice
 Thornscape Battlemage
@@ -31696,7 +31490,6 @@ Thousand Moons Infantry
 Thousand Moons Smithy
 Thousand Winds
 Thousand-Faced Shadow
-Thousand-Faced Shadow (Alchemy)
 Thousand-Year Elixir
 Thousand-Year Storm
 Thousand-legged Kami
@@ -31721,11 +31514,9 @@ Thran Foundry
 Thran Golem
 Thran Lens
 Thran Portal
-Thran Portal (Alchemy)
 Thran Power Suit
 Thran Quarry
 Thran Spider
-Thran Spider (Alchemy)
 Thran Temporal Gateway
 Thran Tome
 Thran Turbine
@@ -32170,7 +31961,6 @@ Tome Blast
 Tome Raider
 Tome Scour
 Tome Shredder
-Tome Shredder (Alchemy)
 Tome of Gadwick
 Tome of Legends
 Tome of the Guildpact
@@ -32626,7 +32416,6 @@ Triumph of Gerrard
 Triumph of Saint Katherine
 Triumph of the Hordes
 Triumphant Adventurer
-Triumphant Adventurer (Alchemy)
 Triumphant Chomp
 Triumphant Getaway
 Triumphant Reckoning
@@ -32877,7 +32666,6 @@ Typhoid Mary, Fractured
 Typhoid Rats
 Typhoon
 Tyr's Blessing
-Tyr's Blessing (Alchemy)
 Tyranid Harridan
 Tyranid Invasion
 Tyranid Prime
@@ -32897,7 +32685,6 @@ Tyrranax
 Tyrranax Atrocity
 Tyrranax Rex
 Tyvar Kell
-Tyvar Kell (Alchemy)
 Tyvar the Bellicose
 Tyvar's Stand
 Tyvar, Jubilant Brawler
@@ -32985,7 +32772,6 @@ Ulvenwald Primordials
 Ulvenwald Tracker
 Umara Entangler
 Umara Mystic
-Umara Mystic (Alchemy)
 Umara Raptor
 Umara Skyfalls
 Umara Wizard
@@ -33361,7 +33147,6 @@ Urza's Blueprints
 Urza's Cave
 Urza's Chalice
 Urza's Command
-Urza's Command (Alchemy)
 Urza's Construction Drone
 Urza's Contact Lenses
 Urza's Dark Cannonball
@@ -33391,7 +33176,6 @@ Urza, Lord High Artificer
 Urza, Lord Protector
 Urza, Planeswalker
 Urza, Powerstone Prodigy
-Urza, Powerstone Prodigy (Alchemy)
 Urza, Prince of Kroog
 Usher of the Fallen
 Usher to Safety
@@ -33414,7 +33198,6 @@ Utvara Hellkite
 Utvara Scalper
 Uugguu, the Omniplasm
 Uurg, Spawn of Turg
-Uurg, Spawn of Turg (Alchemy)
 Uvilda, Dean of Perfection
 Uyo, Silent Prophet
 V'Ger, the Intruder
@@ -33507,7 +33290,6 @@ Vampire Opportunist
 Vampire Outcasts
 Vampire Revenant
 Vampire Scrivener
-Vampire Scrivener (Alchemy)
 Vampire Slayer
 Vampire Socialite
 Vampire Soulcaller
@@ -33636,7 +33418,6 @@ Vedalken Plotter
 Vedalken Shackles
 Vedalken Squirrel-Whacker
 Vega, the Watcher
-Vega, the Watcher (Alchemy)
 Vegetation Abomination
 Veil of Assimilation
 Veil of Birds
@@ -34067,7 +33848,6 @@ Visions of Dread
 Visions of Duplicity
 Visions of Glory
 Visions of Phyrexia
-Visions of Phyrexia (Alchemy)
 Visions of Ruin
 Visions of Villainy
 Visitor from Planet Q
@@ -34091,7 +33871,6 @@ Vitu-Ghazi Inspector
 Vitu-Ghazi, the City-Tree
 Viv Vision, Teen Synthezoid
 Vivi Ornitier
-Vivi Ornitier (Alchemy)
 Vivi's Persistence
 Vivid Crag
 Vivid Creek
@@ -34595,7 +34374,6 @@ Warlord's Axe
 Warlord's Elite
 Warlord's Fury
 Warm Welcome
-Warm Welcome (Alchemy)
 Warmaker Gunship
 Warmind Infantry
 Warmonger
@@ -35128,7 +34906,6 @@ Will of the Naga
 Will of the Sultai
 Will of the Temur
 Will, Scholar of Frost
-Will, Scholar of Frost (Alchemy)
 Will, Scion of Peace
 Will-Forged Golem
 Will-o'-the-Wisp
@@ -35249,7 +35026,6 @@ Winnower Patrol
 Winnowing
 Winnowing Forces
 Winota, Joiner of Forces
-Winota, Joiner of Forces (Alchemy)
 Winter Blast
 Winter Eladrin
 Winter Moon
@@ -35362,7 +35138,6 @@ Witness the Future
 Witty Demon
 Witty Roastmaster
 Wizard Class
-Wizard Class (Alchemy)
 Wizard Mentor
 Wizard Replica
 Wizard from Beyond
@@ -35754,7 +35529,6 @@ You Are Unworthy of Mercy
 You Cannot Hide from Me
 You Cannot Pass!
 You Come to a River
-You Come to a River (Alchemy)
 You Come to the Gnoll Camp
 You Compleat Me
 You Exist Only to Amuse
@@ -35780,12 +35554,10 @@ You've Been Caught Stealing
 You, Iterative Playtester
 You, Magic Playtester
 Young Blue Dragon
-Young Blue Dragon (Alchemy)
 Young Deathclaws
 Young Necromancer
 Young Pyromancer
 Young Red Dragon
-Young Red Dragon (Alchemy)
 Young Wei Recruits
 Young Wolf
 Your Fate Is Thrice Sealed
@@ -35849,7 +35621,6 @@ Zanarkand, Ancient Metropolis
 Zanikev Locust
 Zap
 Zar Ojanen, Scion of Efrava
-Zar Ojanen, Scion of Efrava (Alchemy)
 Zara, Renegade Recruiter
 Zarda, the Power Princess
 Zareth San, the Trickster
