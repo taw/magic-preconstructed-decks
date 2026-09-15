@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require "set"
+require "did_you_mean"
 require "pathname"
 require "pathname-glob"
 require_relative "../lib/deck"
@@ -21,6 +22,22 @@ class ValidateCardNames
     data_root.glob("*/*/*.txt")
   end
 
+  def spell_checker
+    @spell_checker ||= DidYouMean::SpellChecker.new(dictionary: @valid_card_names.to_a)
+  end
+
+  # Unknown cards are usually just typos, so try to suggest what was meant
+  def unknown_card_message(card_name)
+    suggestions = spell_checker.correct(card_name)
+      .sort_by{|c| DidYouMean::Levenshtein.distance(c, card_name)}
+      .first(3)
+    if suggestions.empty?
+      "Unknown card: #{card_name.inspect}"
+    else
+      "Unknown card: #{card_name.inspect}, did you mean #{suggestions.map(&:inspect).join(" or ")}?"
+    end
+  end
+
   def warn(*)
     @has_errors = true
     super
@@ -38,7 +55,7 @@ class ValidateCardNames
 
       card_names = section_cards.reject{|c| c[:token]}.map{|c| c[:name]}.flat_map{|cn| cn.split(" // ") }.to_set - @valid_card_names
       card_names.each do |card_name|
-        warn "#{path}: #{section_name}: Unknown card: #{card_name.inspect}"
+        warn "#{path}: #{section_name}: #{unknown_card_message(card_name)}"
       end
     end
   end
