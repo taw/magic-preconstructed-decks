@@ -1,6 +1,5 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
-"How to Go X-0 at Prerelease"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
@@ -524,6 +523,7 @@ Ajani Unrelenting
 Ajani Unyielding
 Ajani Vengeant
 Ajani's Aid
+Ajani's Anguish
 Ajani's Chosen
 Ajani's Comrade
 Ajani's Influence
@@ -1235,6 +1235,7 @@ Arc Reactor
 Arc Runner
 Arc Spitter
 Arc Trail
+Arc of Fortune
 Arc-Slogger
 Arcade Cabinet
 Arcade Gannon
@@ -6095,6 +6096,7 @@ Cradle of Vitality
 Cradle of the Accursed
 Cradle to Grave
 Craft with Pride
+Craftwork Crusher
 Crafty Cutpurse
 Crafty Octopus
 Crafty Pathmage
@@ -6502,6 +6504,7 @@ Curse of the Pierced Heart
 Curse of the Restless Dead
 Curse of the Swine
 Curse of the Werefox
+Curse-Marred Demon
 Cursebound Witch
 Cursebreak
 Cursecatcher
@@ -6747,6 +6750,7 @@ Darkblast
 Darkbore Pathway
 Darkest Hour
 Darkheart Sliver
+Darklight Phoenix
 Darkling Stalker
 Darklit Gargoyle
 Darkmoss Bridge
@@ -8020,6 +8024,7 @@ Draconic Intervention
 Draconic Lore
 Draconic Muralists
 Draconic Roar
+Draconic Visitor
 Dracoplasm
 Dracosaur Auxiliary
 Drafna's Restoration
@@ -9312,6 +9317,7 @@ Entropic Cloud
 Entropic Decay
 Entropic Eidolon
 Entropic Specter
+Entrust the Spark
 Entry Denied
 Envelop
 Environmental Sciences
@@ -9447,6 +9453,7 @@ Esquire of the King
 Essence Anchor
 Essence Backlash
 Essence Bottle
+Essence Burn
 Essence Capture
 Essence Channeler
 Essence Depleter
@@ -10763,6 +10770,7 @@ Flick a Coin
 Flicker
 Flicker of Fate
 Flickerform
+Flickering Hound
 Flickering Spirit
 Flickering Ward
 Flickerwisp
@@ -10813,6 +10821,7 @@ Flourish
 Flourishing Bloom-Kin
 Flourishing Defenses
 Flourishing Fox
+Flourishing Grapple
 Flourishing Hunter
 Flourishing Strike
 Flow State
@@ -11272,6 +11281,7 @@ Frost Raptor
 Frost Titan
 Frost Trickster
 Frost Walker
+Frostbite Pyromental
 Frostboil Snarl
 Frostbridge Guard
 Frostburn Weird
@@ -11313,6 +11323,7 @@ Full Throttle
 Fully Grown
 Fully-Grown Treefolk
 Fulminator Mage
+Fulminous Forte
 Fumarole
 Fumble
 Fume Spitter
@@ -12985,6 +12996,7 @@ Grim Reaper's Scythe
 Grim Reaper's Sprint
 Grim Reaper, Lethal Legionnaire
 Grim Reminder
+Grim Repriser
 Grim Return
 Grim Roustabout
 Grim Servant
@@ -16431,6 +16443,7 @@ Kindred Charge
 Kindred Denial
 Kindred Discovery
 Kindred Dominance
+Kindred Judgment
 Kindred Summons
 Kindslaver
 Kinetic Augur
@@ -16727,8 +16740,10 @@ Kosei, Penitent Warlord
 Koskun Falls
 Koskun Keep
 Koth of the Hammer
+Koth of the Homestead
 Koth's Courier
 Koth, Fire of Resistance
+Koth, the Geomancer
 Kothophed, Soul Hoarder
 Kotis, Sibsig Champion
 Kotis, the Fangkeeper
@@ -19129,6 +19144,7 @@ Mind Grind
 Mind Harness
 Mind Knives
 Mind Maggots
+Mind Meanderer
 Mind Over Matter
 Mind Peel
 Mind Rake
@@ -19571,6 +19587,7 @@ Molten Ravager
 Molten Rebuke
 Molten Sentry
 Molten Slagheap
+Molten Tide
 Molten Tributary
 Molten Vortex
 Molten-Core Maestro
@@ -21212,6 +21229,7 @@ Omni-Changeling
 Omni-Cheese Pizza
 Omnibian
 Omniclown Colossus
+Omnipresence
 Omnipresent Impostor
 Omniscience
 Omnispell Adept
@@ -22720,6 +22738,7 @@ Preacher
 Preacher of the Schism
 Precinct Captain
 Precipitous Drop
+Precise Redaction
 Precise Strike
 Precision Bolt
 Precognition
@@ -23160,6 +23179,7 @@ Punishment
 Punk Frogs
 Puny Snack
 Puppet Conjurer
+Puppet Crafting
 Puppet Master
 Puppet Master, String Puller
 Puppet Raiser
@@ -23230,6 +23250,7 @@ Pyramid of the Pantheon
 Pyramids
 Pyre Charger
 Pyre Hound
+Pyre Rhymer
 Pyre Spawn
 Pyre Zombie
 Pyre of Heroes
@@ -24151,6 +24172,7 @@ Refurbished Familiar
 Refuse
 Refuse to Yield
 Refute
+Refute Destiny
 Regal Behemoth
 Regal Bloodlord
 Regal Bunnicorn
@@ -24765,6 +24787,7 @@ Rise of Eagles
 Rise of Extus
 Rise of the Ants
 Rise of the Dark Realms
+Rise of the Deathbringer
 Rise of the Dread Marn
 Rise of the Eldrazi
 Rise of the Hobgoblins
@@ -24978,6 +25001,7 @@ Roil Elemental
 Roil Eruption
 Roil Spout
 Roil's Retribution
+Roiling Canopy
 Roiling Dragonstorm
 Roiling Horror
 Roiling Regrowth
@@ -26211,6 +26235,7 @@ Seasonal Sequels
 Seasoned Buttoneer
 Seasoned Cathar
 Seasoned Consultant
+Seasoned Cryomancer
 Seasoned Dungeoneer
 Seasoned Hallowblade
 Seasoned Marshal
@@ -27300,6 +27325,7 @@ Simoon
 Simple
 Simplify
 Simulacrum
+Simulacrum Shaper
 Simulacrum Synthesizer
 Sin Collector
 Sin Prodder
@@ -29766,6 +29792,7 @@ Suq'Ata Firewalker
 Suq'Ata Lancer
 Sure Strike
 Sure-Footed Infiltrator
+Sureshot Sower
 Surestrike Trident
 Surge Conductor
 Surge Engine
@@ -30613,6 +30640,7 @@ Terisian Mindbreaker
 Terisiare's Devastation
 Termagant Swarm
 Terminal Agony
+Terminal Criticism
 Terminal Moraine
 Terminal Velocity
 Terminate
@@ -30693,7 +30721,9 @@ Tevesh Szat, Doom of Fools
 Textbook Tabulator
 Teyo's Lightshield
 Teyo, Aegis Adept
+Teyo, Diamondblade Mage
 Teyo, Geometric Tactician
+Teyo, Lightshield Expert
 Teyo, the Shieldmage
 Teysa Karlov
 Teysa of the Ghost Council
@@ -32641,6 +32671,7 @@ Twist Reality
 Twisted Abomination
 Twisted Embrace
 Twisted Experiment
+Twisted Fates
 Twisted Fealty
 Twisted Image
 Twisted Justice
@@ -33357,6 +33388,7 @@ Vaporous Djinn
 Varchild's Crusader
 Varchild's War-Riders
 Varchild, Betrayer of Kjeldor
+Variable Chaser
 Variable Solutions
 Varina, Lich Queen
 Varis, Silverymoon Ranger
@@ -35528,7 +35560,9 @@ Yore-Tiller Nephilim
 Yorion, Sky Nomad
 Yorvo, Lord of Garenbrig
 Yosei, the Morning Star
+Yoshimaru, Beloved Companion
 Yoshimaru, Ever Faithful
+Yoshimaru, Scrappy Stray
 Yotia Declares War
 Yotian Courier
 Yotian Dissident
