@@ -1,6 +1,6 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
-"I've been pulling the strings the whole time!"
+"How to Go X-0 at Prerelease"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
@@ -6722,6 +6722,7 @@ Dark Inquiry
 Dark Intimations
 Dark Knight's Greatsword
 Dark Leo & Shredder
+Dark Matter Manipulator
 Dark Maze
 Dark Nourishment
 Dark Offering
@@ -13460,6 +13461,8 @@ Hanweir, the Writhing Township
 Hapato's Might
 Hapatra's Mark
 Hapatra, Vizier of Poisons
+Hapatra, the Desert Fang
+Hapatra, the Desert Frost
 Haphazard Bombardment
 Hapless Researcher
 Happily Ever After
@@ -14665,6 +14668,7 @@ Icy Reception
 Ideas Unbound
 Identify the Culprit
 Identity Crisis
+Identity Echo
 Identity Thief
 Idle Thoughts
 Idol of Endurance
@@ -19945,6 +19949,7 @@ Murmuration
 Murmuring Bosk
 Murmuring Mystic
 Murmuring Phantasm
+Murmuring Volume
 Murmurs from Beyond
 Muscle Burst
 Muscle Sliver
@@ -22279,6 +22284,8 @@ Pia Nalaar, Chief Mechanic
 Pia Nalaar, Consul of Revival
 Pia and Kiran Nalaar
 Pia's Revolution
+Pia, Aether Ascetic
+Pia, Determined Rebuilder
 Pianna, Nomad Captain
 Picard, Leading by Example
 Picard, Steadfast Captain
@@ -26053,6 +26060,7 @@ Screeching Scorchbeast
 Screeching Silcaw
 Screeching Skaab
 Screeching Sliver
+Screeching Soulbreaker
 Scrib Nibblers
 Scribe of the Mindful
 Scriv, the Obligator
@@ -29106,6 +29114,7 @@ Stinging Lionfish
 Stinging Scorpion
 Stinging Shot
 Stinging Study
+Stinging Vitriol
 Stingmoggie
 Stingscourger
 Stinkdrinker Bandit
@@ -30588,6 +30597,7 @@ Tenuous Truce
 Tenured Concocter
 Tenured Inkcaster
 Tenured Oilcaster
+Tenured Tethermage
 Tenza, Godo's Maul
 Teo, Spirited Glider
 Tephraderm
@@ -34518,9 +34528,11 @@ Waxmane Baku
 Way of the Cryomancer
 Way of the Deathbringer
 Way of the Healer
+Way of the Mentor
 Way of the Necromancer
 Way of the Pyromancer
 Way of the Thief
+Way of the Warlord
 Way of the Wildspeaker
 Wayfarer's Bauble
 Wayfaring Giant
