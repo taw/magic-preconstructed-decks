@@ -39,4 +39,4 @@
 10 Forest [DDP:*]
 
 Sideboard
-1 Plant [DDP:80] [token]
+5 Plant [DDP:80] [token]
