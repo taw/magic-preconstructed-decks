@@ -31,4 +31,4 @@
 11 Island [DDO:*]
 
 Sideboard
-1 Kraken [DDO:67] [token]
+2 Kraken [DDO:67] [token]
