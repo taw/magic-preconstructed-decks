@@ -1,0 +1,10 @@
+// NAME: Mind vs. Might Tokens
+// SOURCE: https://www.magiclibrarities.net/1004-rarities-duel-decks-tokens-english-cards-mind-vs-might-2017.html
+// DATE: 2017-03-31
+1 Drake [DDS:T1] [token]
+2 Elemental [DDS:T2] [token]
+2 Goblin [DDS:T3] [token]
+1 Beast [DDS:T4] [token]
+2 Elephant [DDS:T5] [token]
+1 Elf Warrior [DDS:T6] [token]
+1 Wurm [DDS:T7] [token]
