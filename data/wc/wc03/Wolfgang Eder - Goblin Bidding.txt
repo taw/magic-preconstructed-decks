@@ -30,3 +30,8 @@ Sideboard
 1 Smother [WC03:we170sb]
 4 Starstorm
 4 Sulfuric Vortex
+
+1 2003 World Championships Ad [WC03:0] [token]
+12 Blank Card [WC03:00] [token]
+1 Wolfgang Eder Bio [WC03:we0a] [token]
+1 Wolfgang Eder Decklist [WC03:we0b] [token]

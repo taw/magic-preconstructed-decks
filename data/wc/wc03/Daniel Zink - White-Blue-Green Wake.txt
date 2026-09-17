@@ -38,3 +38,8 @@ Sideboard
 1 Renewed Faith [WC03:dz50sb]
 1 Vengeful Dreams [WC03:dz21sb]
 1 Wing Shards
+
+1 2003 World Championships Ad [WC03:0] [token]
+12 Blank Card [WC03:00] [token]
+1 Daniel Zink Bio [WC03:dz0a] [token]
+1 Daniel Zink Decklist [WC03:dz0b] [token]
