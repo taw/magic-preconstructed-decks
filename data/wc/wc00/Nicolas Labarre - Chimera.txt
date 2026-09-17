@@ -37,3 +37,8 @@ Sideboard
 1 Phyrexian Processor [WC00:nl306sb]
 1 Seal of Cleansing [WC00:nl18sb]
 1 Worship
+
+1 2000 World Championships Ad [WC00:0] [token]
+12 Blank Card [WC00:00] [token]
+1 Nicolas Labarre Bio [WC00:nl0a] [token]
+1 Nicolas Labarre Decklist [WC00:nl0b] [token]

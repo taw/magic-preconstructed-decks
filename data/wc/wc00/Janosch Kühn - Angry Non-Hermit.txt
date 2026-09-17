@@ -28,3 +28,8 @@ Sideboard
 2 Rack and Ruin
 1 Splinter
 3 Uktabi Orangutan
+
+1 2000 World Championships Ad [WC00:0] [token]
+12 Blank Card [WC00:00] [token]
+1 Janosch Kühn Bio (2000) [WC00:jk0a] [token]
+1 Janosch Kühn Decklist (2000) [WC00:jk0b] [token]
