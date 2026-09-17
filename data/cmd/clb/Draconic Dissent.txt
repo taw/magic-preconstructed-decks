@@ -79,3 +79,6 @@ COMMANDER: 1 Firkraag, Cunning Instigator [CLB:648] [foil]
 1 Loot Dispute
 1 Spectacular Showdown
 1 Angler Turtle
+
+Display Commander
+1 Firkraag, Cunning Instigator [CLB:933] [foil] [etched]
