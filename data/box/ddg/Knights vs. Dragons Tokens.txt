@@ -1,4 +1,4 @@
 // NAME: Knights vs. Dragons Tokens
 // SOURCE: https://www.magiclibrarities.net/863-rarities-duel-decks-tokens-english-cards--knights-vs-dragons-2011.html
 // DATE: 2011-04-01
-2 Goblin [DDG:T1] [token]
+2 Goblin [TDDG:1] [token]

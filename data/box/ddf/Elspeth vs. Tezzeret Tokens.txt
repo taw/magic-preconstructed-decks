@@ -1,4 +1,4 @@
 // NAME: Elspeth vs. Tezzeret Tokens
 // SOURCE: https://www.magiclibrarities.net/530-rarities-duel-decks-tokens-english-cards-elspeth-vs-tezzeret-2010.html
 // DATE: 2010-09-03
-3 Soldier [DDF:T1] [token]
+3 Soldier [TDDF:1] [token]
