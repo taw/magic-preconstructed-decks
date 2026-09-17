@@ -42,3 +42,8 @@ Sideboard
 1 Sickening Dreams
 1 Soul Feast
 1 Stitch Together [WC03:pk72sb]
+
+1 2003 World Championships Ad [WC03:0] [token]
+12 Blank Card [WC03:00] [token]
+1 Peer Kröger Bio [WC03:pk0a] [token]
+1 Peer Kröger Decklist [WC03:pk0b] [token]
