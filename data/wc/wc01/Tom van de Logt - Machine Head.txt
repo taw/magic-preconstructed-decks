@@ -33,3 +33,8 @@ Sideboard
 3 Phyrexian Arena
 1 Flametongue Kavu [WC01:tvdl60sb]
 1 Crypt Angel [WC01:tvdl97sb]
+
+1 2001 World Championships Ad [WC01:0] [token]
+12 Blank Card [WC01:00] [token]
+1 Tom van de Logt Bio (2001) [WC01:tvdl0a] [token]
+1 Tom van de Logt Decklist (2001) [WC01:tvdl0b] [token]
