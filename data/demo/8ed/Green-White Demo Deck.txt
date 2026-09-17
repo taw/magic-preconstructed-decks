@@ -1,0 +1,12 @@
+// NAME: Green-White Demo Deck
+// SOURCE: https://www.magiclibrarities.net/540-rarities-eighth-edition-box-set-cards-english-cards-index.html
+// DATE: 2003-07-28
+2 Trained Armodon
+2 Glory Seeker
+1 Grizzly Bears
+1 Eager Cadet
+1 Forest [8ED:347]
+1 Plains [8ED:331]
+1 Forest [8ED:350]
+1 Forest [8ED:348]
+1 Plains [8ED:332]
