@@ -35,4 +35,4 @@
 
 Sideboard
 1 Elemental [DDR:74] [token]
-1 Plant [DDR:75] [token]
+4 Plant [DDR:75] [token]
