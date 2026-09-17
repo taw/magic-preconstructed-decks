@@ -1,0 +1,6 @@
+// NAME: Merfolk vs. Goblins Tokens
+// SOURCE: https://www.magiclibrarities.net/1099-rarities-duel-decks-tokens-english-cards-merfolk-vs-goblins-2017.html
+// DATE: 2017-11-10
+4 Elemental [DDT:T1] [token]
+1 Wall [DDT:T2] [token]
+5 Goblin [DDT:T3] [token]
