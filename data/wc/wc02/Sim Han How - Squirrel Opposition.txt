@@ -36,3 +36,8 @@ Sideboard
 2 Ray of Revelation [WC02:shh20sb]
 4 Roar of the Wurm [WC02:shh266sb]
 2 Simoon [WC02:shh272sb]
+
+1 2002 World Championships Ad [WC02:0] [token]
+12 Blank Card [WC02:00] [token]
+1 Sim Han How Bio [WC02:shh0a] [token]
+1 Sim Han How Decklist [WC02:shh0b] [token]
