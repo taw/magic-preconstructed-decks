@@ -34,3 +34,8 @@ Sideboard
 2 Stupefying Touch
 1 Unsummon [WC03:dh112sb]
 1 Wonder [WC03:dh54sb]
+
+1 2003 World Championships Ad [WC03:0] [token]
+12 Blank Card [WC03:00] [token]
+1 Dave Humpherys Bio [WC03:dh0a] [token]
+1 Dave Humpherys Decklist [WC03:dh0b] [token]
