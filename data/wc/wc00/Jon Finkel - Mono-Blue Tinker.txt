@@ -24,3 +24,8 @@ Sideboard
 4 Miscalculation
 1 Mishra's Helix [WC00:jf302sb]
 2 Rising Waters
+
+1 2000 World Championships Ad [WC00:0] [token]
+12 Blank Card [WC00:00] [token]
+1 Jon Finkel Bio [WC00:jf0a] [token]
+1 Jon Finkel Decklist [WC00:jf0b] [token]
