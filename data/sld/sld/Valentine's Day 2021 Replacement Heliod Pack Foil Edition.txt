@@ -1,0 +1,5 @@
+// NAME: Valentine's Day 2021 Replacement Heliod Pack Foil Edition
+// SOURCE: https://magic.wizards.com/en/news/announcements/announcing-secret-lairs-smitten-superdrop-2021-02-10
+// DATE: 2021-05-27
+1 [SLD:214] Heliod, Sun-Crowned [foil]
+5 [SLD:219] Goblin [foil] [token]
