@@ -1,0 +1,6 @@
+// NAME: Elves vs. Goblins Tokens
+// SOURCE: https://www.magiclibrarities.net/265-rarities-duel-decks-tokens-english-cards-elves-vs-goblins-2007.html
+// DATE: 2007-11-16
+1 Elemental [DD1:T1] [token]
+1 Elf Warrior [DD1:T2] [token]
+1 Goblin [DD1:T3] [token]
