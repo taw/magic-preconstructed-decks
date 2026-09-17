@@ -29,3 +29,6 @@
 1 Goblin Burrows
 1 Forgotten Cave
 3 Tarfire
+
+Sideboard
+6 Goblin [TEVG:3] [token]

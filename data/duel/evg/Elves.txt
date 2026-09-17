@@ -29,3 +29,7 @@
 19 Forest [EVG:*]
 2 Tranquil Thicket
 1 Wirewood Lodge
+
+Sideboard
+1 Elemental [TEVG:1] [token]
+8 Elf Warrior [TEVG:2] [token]

@@ -31,3 +31,7 @@
 2 Unholy Strength
 2 Barren Moor
 24 Swamp [DVD:*]
+
+Sideboard
+1 Demon [TDVD:6] [token]
+3 Thrull [TDVD:7] [token]

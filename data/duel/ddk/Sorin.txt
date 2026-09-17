@@ -39,3 +39,6 @@
 4 Swamp [DDK:36]
 4 Swamp [DDK:37]
 2 Tainted Field
+
+Sideboard
+2 Spirit [TDDK:1] [token]

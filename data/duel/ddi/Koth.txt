@@ -32,3 +32,6 @@
 1 Vulshok Morningstar
 2 Wayfarer's Bauble
 25 Mountain [DDI:*]
+
+Sideboard
+1 Koth of the Hammer Emblem [TDDI:2] [token]

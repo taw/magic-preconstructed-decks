@@ -40,3 +40,6 @@
 7 Plains [DDI:*]
 2 Sejiri Refuge
 1 Soaring Seacliff
+
+Sideboard
+1 Venser, the Sojourner Emblem [TDDI:1] [token]

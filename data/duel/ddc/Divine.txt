@@ -27,3 +27,6 @@
 1 Serra's Embrace
 24 Plains [DDC:*]
 2 Secluded Steppe
+
+Sideboard
+1 Spirit [TDDC:1] [token]
