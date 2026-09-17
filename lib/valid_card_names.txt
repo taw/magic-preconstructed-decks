@@ -1125,6 +1125,7 @@ Apex Altisaur
 Apex Devastator
 Apex Hawks
 Apex Observatory
+Apex Witchstalker
 Apex of Power
 Aphelia, Viper Whisperer
 Aphemia, the Cacophony
@@ -1337,6 +1338,7 @@ Architect of Restoration
 Architect of the Untamed
 Architects of Will
 Archival Whorl
+Archive Arbiter
 Archive Dragon
 Archive Haunt
 Archive Trap
@@ -1512,6 +1514,8 @@ Arna Kennerüd, Skycaptain
 Arni Brokenbrow
 Arni Metalbrow
 Arni Slays the Troll
+Arni, Humble Scribe
+Arni, Renowned Champion
 Arnim Zola, Bio-Fanatic
 Arnjlot's Ascent
 Arno Dorian
@@ -1877,6 +1881,7 @@ Avacyn's Judgment
 Avacyn's Memorial
 Avacyn's Pilgrim
 Avacyn, Angel of Hope
+Avacyn, Angel of Horror
 Avacyn, Guardian Angel
 Avacyn, the Purifier
 Avacynian Missionaries
@@ -1983,6 +1988,7 @@ Awaken the Bear
 Awaken the Blood Avatar
 Awaken the Erstwhile
 Awaken the Honored Dead
+Awaken the Inferno
 Awaken the Maelstrom
 Awaken the Sky Tyrant
 Awaken the Sleeper
@@ -2975,6 +2981,7 @@ Blended Twistling
 Blessed Alliance
 Blessed Breath
 Blessed Defiance
+Blessed Ghoul
 Blessed Hippogriff
 Blessed Light
 Blessed Orator
@@ -6330,6 +6337,7 @@ Cryoclasm
 Cryogen Relic
 Cryogenic Stasis
 Cryoshatter
+Cryotheory Adept
 Crypsis
 Crypt Angel
 Crypt Champion
@@ -6593,6 +6601,7 @@ D'Avenant Trapper
 D00-DL, Caricaturist
 DOT-7 Repair Squad
 Dack Fayden
+Dack Fayden, Helping Hand
 Dack's Duplicate
 Daemogoth Titan
 Daemogoth Woe-Eater
@@ -7099,6 +7108,7 @@ Decree of Justice
 Decree of Pain
 Decree of Savagery
 Decree of Silence
+Dedicated Commons
 Dedicated Dollmaker
 Dedicated Martyr
 Deduce
@@ -7819,6 +7829,7 @@ Diviner's Portent
 Diviner's Wand
 Diving Griffin
 Divining Dive
+Divining Duelist
 Divining Witch
 Divinity of Pride
 Division Table
@@ -9765,6 +9776,7 @@ Exquisite Huntmaster
 Exsanguinate
 Exsanguinate (Prepared)
 Exsanguinator Cavalry
+Extended Absence
 Exterminate!
 Exterminator Magmarch
 Exterminatus
@@ -9807,6 +9819,7 @@ Eye Spy
 Eye for an Eye
 Eye of Doom
 Eye of Duskmantle
+Eye of Jace
 Eye of Malcator
 Eye of Nidhogg
 Eye of Nowhere
@@ -10102,9 +10115,11 @@ Fateful End
 Fateful Handoff
 Fateful Showdown
 Fateful Tempest
+Fatehold Annex
 Fatehold Charm
 Fatehold Chronologist
 Fates' Reversal
+Fateshaper Aspirant
 Fatespinner
 Fatestitcher
 Fathom Feeder
@@ -11050,6 +11065,7 @@ Form of the Squirrel
 Form of the Stax Player
 Formation
 Formation Breaker
+Formidable Commons
 Formidable Speaker
 Formless Genesis
 Formless Nurturing
@@ -12051,6 +12067,7 @@ Gimli, Counter of Kills
 Gimli, Mournful Avenger
 Gimme Five
 Gin'tak Charge
+Ginger, Queen of Sweets
 Gingerbehemoth
 Gingerbread Cabin
 Gingerbread Hunter
@@ -13745,6 +13762,7 @@ Hearts on Fire
 Heartseeker
 Heartstabber Mosquito
 Heartstone
+Heartstring Puller
 Heartwarming Redemption
 Heartwood Crafter
 Heartwood Dryad
@@ -13992,6 +14010,8 @@ Hexgold Hoverwings
 Hexgold Slash
 Hexgold Sledge
 Hexgold Slith
+Hexhaven Battalion
+Hexhaven Dueling Arena
 Hexhaven Invigorator
 Hexing Squelcher
 Hexmark Destroyer
@@ -14500,6 +14520,7 @@ Hunted by The Family
 Hunter Sliver
 Hunter of Eyeblights
 Hunter's Ambush
+Hunter's Axe
 Hunter's Blowgun
 Hunter's Bow
 Hunter's Edge
@@ -15127,6 +15148,7 @@ Innocent Traveler
 Innocuous Insect
 Innocuous Rat
 Innocuous Researcher
+Innovative Commons
 Innovative Metatect
 Inordinate Rage
 Inquisition
@@ -15587,6 +15609,7 @@ Jace, Cunning Castaway
 Jace, Ingenious Mind-Mage
 Jace, Memory Adept
 Jace, Mirror Mage
+Jace, Multiverse Architect
 Jace, Telepath Unbound
 Jace, Unraveler of Secrets
 Jace, Vryn's Prodigy
@@ -15780,6 +15803,7 @@ Jhoira's Timebug
 Jhoira's Toolbox
 Jhoira, Ageless Innovator
 Jhoira, Weatherlight Captain
+Jhoira, Weatherlight Corsair
 Jhovall Queen
 Jhovall Rider
 Jiang Yanggu
@@ -16703,7 +16727,9 @@ Konda's Hatamoto
 Konda, Lord of Eiganjo
 Kongming's Contraptions
 Kongming, "Sleeping Dragon"
+Konstrari Annex
 Konstrari Charm
+Konstrari Improviser
 Kookus
 Kopala, Warden of Waves
 Kor Aeronaut
@@ -17610,6 +17636,7 @@ Living Inferno
 Living Lands
 Living Laser
 Living Lectern
+Living Library
 Living Lies of Loki
 Living Lightning
 Living Lightning, Charged Up
@@ -17763,7 +17790,9 @@ Loose Lips
 Loose in the Park
 Loot Dispute
 Loot, Exuberant Explorer
+Loot, the Anomaly
 Loot, the Key to Everything
+Loot, the Nexus
 Loot, the Pathfinder
 Looter il-Kor
 Loporrit Scout
@@ -18775,6 +18804,7 @@ Meddle
 Meddling Kids
 Meddling Mage
 Meddling Youths
+Medic's Kitesail
 Medicine Bag
 Medicine Runner
 Meditate
@@ -18824,6 +18854,7 @@ Meltstrider Eulogist
 Meltstrider's Gear
 Meltstrider's Resolve
 Memnarch
+Memnarch, the Warden
 Memnarchitect
 Memnite
 Memorial Team Leader
@@ -19016,6 +19047,7 @@ Meteorite
 Methods of the Mighty
 Meticulous Archive
 Meticulous Artisan
+Meticulous Commons
 Meticulous Excavation
 Metrognome
 Metropolis Angel
@@ -19193,6 +19225,7 @@ Mindmoil
 Mindreaver
 Minds Aglow
 Mindscour Dragon
+Mindseeker Oculus
 Mindshrieker
 Mindslaver
 Mindslaver Toolkit
@@ -20704,6 +20737,7 @@ Nissa's Triumph
 Nissa's Zendikon
 Nissa, Ascended Animist
 Nissa, Genesis Mage
+Nissa, Leyline Tamer
 Nissa, Nature's Artisan
 Nissa, Resurgent Animist
 Nissa, Sage Animist
@@ -20717,6 +20751,7 @@ Nissa, Worldwaker
 Nita, Forum Conciliator
 Niv-Mizzet Reborn
 Niv-Mizzet, Dracogenius
+Niv-Mizzet, Ghost Counsel
 Niv-Mizzet, Guildpact
 Niv-Mizzet, Parun
 Niv-Mizzet, Supreme
@@ -20987,6 +21022,7 @@ Ob Nixilis's Cruelty
 Ob Nixilis, Captive Kingpin
 Ob Nixilis, Unshackled
 Ob Nixilis, the Adversary
+Ob Nixilis, the Ascended
 Ob Nixilis, the Fallen
 Ob Nixilis, the Hate-Twisted
 Obeka, Brute Chronologist
@@ -21219,12 +21255,15 @@ Ominous Roost
 Ominous Seas
 Ominous Sphinx
 Ominous Traveler
-Omit Variables
+Omit Variables (Prepared a)
+Omit Variables (Prepared b)
+Omit Variables (Prepared c)
 Omnath, Locus of All
 Omnath, Locus of Creation
 Omnath, Locus of Mana
 Omnath, Locus of Rage
 Omnath, Locus of the Roil
+Omnath, Locus of the Void
 Omni-Changeling
 Omni-Cheese Pizza
 Omnibian
@@ -22468,6 +22507,7 @@ Plagued Rusalka
 Plaguemaw Beast
 Plain Walker
 Plains
+Plan for All Outcomes
 Plan the Heist
 Planar Ally
 Planar Atlas
@@ -22765,6 +22805,7 @@ Predatory Sludge
 Predatory Urge
 Predatory Wurm
 Predict
+Predictive Preparations
 Preeminent Captain
 Preemptive Strike
 Preening Champion
@@ -23745,6 +23786,7 @@ Rangers' Aetherhive
 Rangers' Refueler
 Ranging Raptors
 Rank Officer
+Rank Rat
 Rank and File
 Rankle and Torbran
 Rankle's Prank
@@ -24091,6 +24133,7 @@ Recumbent Bliss
 Recuperate
 Recurring Insight
 Recurring Nightmare
+Recursive Recruitment
 Recycla-bird
 Recycle
 Red Cliffs Armada
@@ -25045,6 +25088,7 @@ Rooftop Saboteurs
 Rooftop Storm
 Rook Turret
 Rookie Mistake
+Room of Refuge
 Roon of the Hidden Realm
 Roost Seek
 Roost of Drakes
@@ -25584,6 +25628,7 @@ Sanctuary Warden
 Sanctum Custodian
 Sanctum Gargoyle
 Sanctum Guardian
+Sanctum Lurker
 Sanctum Plowbeast
 Sanctum Prelate
 Sanctum Seeker
@@ -27452,6 +27497,7 @@ Skewer Slinger
 Skewer the Critics
 Skill Borrower
 Skilled Animator
+Skilled Battlecarver
 Skillful Lunge
 Skimming Strike
 Skin Invasion
@@ -28180,6 +28226,7 @@ Soul Swallower
 Soul Swindler
 Soul Tether (Prepared a)
 Soul Tether (Prepared b)
+Soul Tether (Prepared c)
 Soul Tithe
 Soul Transfer
 Soul Warden
@@ -29130,6 +29177,7 @@ Stingblade Assassin
 Stingcaster Mage
 Stingerback Terror
 Stingerfling Spider
+Stingerquill Annex
 Stingerquill Charm
 Stingerquill Voxmancer
 Stinging Barrier
@@ -30260,6 +30308,7 @@ Tamiyo, Compleated Sage
 Tamiyo, Field Researcher
 Tamiyo, Inquisitive Student
 Tamiyo, Seasoned Scholar
+Tamiyo, Upriser Crowned
 Tamiyo, the Moon Sage
 Tan Jolom, the Worldwalker
 Tana, the Bloodsower
@@ -30452,6 +30501,7 @@ Teferi's Protection
 Teferi's Protege
 Teferi's Puzzle Box
 Teferi's Realm
+Teferi's Reproach
 Teferi's Response
 Teferi's Sentinel
 Teferi's Talent
@@ -30703,6 +30753,7 @@ Test of Talents
 Testament Bearer
 Testament of Faith
 Tester of the Tangential
+Tether Technician
 Tethered Griffin
 Tethered Skirge
 Tethermage's Advantage
@@ -31299,6 +31350,7 @@ The Unknown Wizard
 The Unluckiest Planeswalker
 The Unspeakable
 The Ur-Dragon
+The Ur-Sphinx
 The Valeyard
 The Value Knight
 The Vanquisher
@@ -31364,9 +31416,12 @@ Then, Dreadmaws Ate Everyone
 Thendar, the Overminer
 Theopholos, Order Acolyte
 Theoretical Duplication
+Theoretical Necromancer
 Theorist's Proxy
 Theorist's Sanctum
+Theorix Annex
 Theorix Charm
+Theorix Metamage
 There
 There Is No Refuge
 There and Back Again
@@ -32251,6 +32306,7 @@ Transcendent Envoy
 Transcendent Master
 Transcendent Message
 Transdimensional Bovine
+Transformative Commons
 Transforming Flourish
 Transgress the Mind
 Transguild Courier
@@ -32303,6 +32359,8 @@ Traverse Valley
 Traverse the Outlands
 Traverse the Ulvenwald
 Trawler Drake
+Traxos, Academy Guardian
+Traxos, Scourge Eternal
 Traxos, Scourge of Kroog
 Trazyn the Infinite
 Treacherous Blessing
@@ -32580,11 +32638,14 @@ Tunneling Geopede
 Tura Kennerüd, Skyknight
 Turbo-Thwacking Auto-Hammer
 Turbocharged Escape
+Turbulent Crater
 Turbulent Dreams
 Turbulent Fen
 Turbulent Moor
+Turbulent Shore
 Turbulent Springs
 Turbulent Steppe
+Turbulent Wetlands
 Turbulent Wilderness
 Turf War
 Turf Wound
@@ -32659,6 +32720,7 @@ Twinflame Travelers
 Twinflame Tyrant
 Twining Twins
 Twinmaw Stormbrood
+Twinned Vision
 Twinning Glass
 Twinning Staff
 Twins of Discord
@@ -32946,6 +33008,7 @@ Underworld Rage-Hound
 Underworld Sentinel
 Undiscovered Paradise
 Undo
+Undulating Witness
 Undying Beast
 Undying Evil
 Undying Flames
@@ -32973,6 +33036,7 @@ Unexplained Vision
 Unfathomable Truths
 Unfinished Business
 Unflinching Courage
+Unflinching Hortimancer
 Unforge
 Unforgiving Aim
 Unforgiving One
@@ -33551,6 +33615,7 @@ Venser's Diffusion
 Venser's Journal
 Venser's Sliver
 Venser, Corpse Puppet
+Venser, Fervent Forger
 Venser, Shaper Savant
 Venser, Visionary Traveler
 Venser, the Sojourner
@@ -33750,6 +33815,7 @@ Vigilant Sentry
 Vigilante Justice
 Vigor
 Vigor Mortis
+Vigorbloom Annex
 Vigorbloom Charm
 Vigorbloom Vanguard
 Vigorous Charge
@@ -33805,6 +33871,7 @@ Vine Snare
 Vine Trellis
 Vinebred Brawler
 Vineglimmer Snarl
+Vinelasher Adept
 Vinelasher Kudzu
 Vinereap Mentor
 Vines of Vastwood
@@ -33989,6 +34056,7 @@ Voices from the Void
 Void
 Void Attendant
 Void Beckoner
+Void Extrapolator
 Void Grafter
 Void Helix
 Void Maw
@@ -34561,7 +34629,9 @@ Way of the Cryomancer
 Way of the Deathbringer
 Way of the Healer
 Way of the Mentor
+Way of the Mind Sculptor
 Way of the Necromancer
+Way of the Paradox
 Way of the Pyromancer
 Way of the Thief
 Way of the Warlord
