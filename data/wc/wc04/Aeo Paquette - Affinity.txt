@@ -23,3 +23,8 @@ Sideboard
 4 Seething Song [WC04:ap104sb]
 3 Serum Visions [WC04:ap36sb]
 4 Annul [WC04:ap29sb]
+
+1 2004 World Championships Ad [WC04:0] [token]
+12 Blank Card [WC04:00] [token]
+1 Aeo Paquette Bio [WC04:ap0a] [token]
+1 Aeo Paquette Decklist [WC04:ap0b] [token]

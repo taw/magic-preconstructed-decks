@@ -28,3 +28,8 @@ Sideboard
 3 Scrabbling Claws [WC04:jn237sb]
 3 Circle of Protection: Red
 3 Plow Under [WC04:jn272sb]
+
+1 2004 World Championships Ad [WC04:0] [token]
+12 Blank Card [WC04:00] [token]
+1 Julien Nuijten Bio [WC04:jn0a] [token]
+1 Julien Nuijten Decklist [WC04:jn0b] [token]
