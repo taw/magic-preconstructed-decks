@@ -37,3 +37,8 @@ Sideboard
 3 Blood Oath
 3 Boil
 2 Tangle
+
+1 2001 World Championships Ad [WC01:0] [token]
+12 Blank Card [WC01:00] [token]
+1 Jan Tomcani Bio [WC01:jt0a] [token]
+1 Jan Tomcani Decklist [WC01:jt0b] [token]

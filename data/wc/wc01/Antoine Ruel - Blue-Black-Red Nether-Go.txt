@@ -37,3 +37,8 @@ Sideboard
 2 Pyroclasm [WC01:ar209sb]
 1 Teferi's Response [WC01:ar78sb]
 3 Tsabo's Assassin
+
+1 2001 World Championships Ad [WC01:0] [token]
+12 Blank Card [WC01:00] [token]
+1 Antoine Ruel Bio [WC01:ar0a] [token]
+1 Antoine Ruel Decklist [WC01:ar0b] [token]

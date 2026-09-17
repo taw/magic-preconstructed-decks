@@ -34,3 +34,8 @@ Sideboard
 1 Rushing River
 2 Teferi's Response [WC01:ab78sb]
 2 Wash Out
+
+1 2001 World Championships Ad [WC01:0] [token]
+12 Blank Card [WC01:00] [token]
+1 Alex Borteh Bio [WC01:ab0a] [token]
+1 Alex Borteh Decklist [WC01:ab0b] [token]
