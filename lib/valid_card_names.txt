@@ -1877,6 +1877,7 @@ Avacyn's Judgment
 Avacyn's Memorial
 Avacyn's Pilgrim
 Avacyn, Angel of Hope
+Avacyn, Angel of Horror
 Avacyn, Guardian Angel
 Avacyn, the Purifier
 Avacynian Missionaries
@@ -6593,6 +6594,7 @@ D'Avenant Trapper
 D00-DL, Caricaturist
 DOT-7 Repair Squad
 Dack Fayden
+Dack Fayden, Helping Hand
 Dack's Duplicate
 Daemogoth Titan
 Daemogoth Woe-Eater
@@ -12051,6 +12053,7 @@ Gimli, Counter of Kills
 Gimli, Mournful Avenger
 Gimme Five
 Gin'tak Charge
+Ginger, Queen of Sweets
 Gingerbehemoth
 Gingerbread Cabin
 Gingerbread Hunter
@@ -15587,6 +15590,7 @@ Jace, Cunning Castaway
 Jace, Ingenious Mind-Mage
 Jace, Memory Adept
 Jace, Mirror Mage
+Jace, Multiverse Architect
 Jace, Telepath Unbound
 Jace, Unraveler of Secrets
 Jace, Vryn's Prodigy
@@ -15780,6 +15784,7 @@ Jhoira's Timebug
 Jhoira's Toolbox
 Jhoira, Ageless Innovator
 Jhoira, Weatherlight Captain
+Jhoira, Weatherlight Corsair
 Jhovall Queen
 Jhovall Rider
 Jiang Yanggu
@@ -18824,6 +18829,7 @@ Meltstrider Eulogist
 Meltstrider's Gear
 Meltstrider's Resolve
 Memnarch
+Memnarch, the Warden
 Memnarchitect
 Memnite
 Memorial Team Leader
@@ -20704,6 +20710,7 @@ Nissa's Triumph
 Nissa's Zendikon
 Nissa, Ascended Animist
 Nissa, Genesis Mage
+Nissa, Leyline Tamer
 Nissa, Nature's Artisan
 Nissa, Resurgent Animist
 Nissa, Sage Animist
@@ -20717,6 +20724,7 @@ Nissa, Worldwaker
 Nita, Forum Conciliator
 Niv-Mizzet Reborn
 Niv-Mizzet, Dracogenius
+Niv-Mizzet, Ghost Counsel
 Niv-Mizzet, Guildpact
 Niv-Mizzet, Parun
 Niv-Mizzet, Supreme
@@ -20987,6 +20995,7 @@ Ob Nixilis's Cruelty
 Ob Nixilis, Captive Kingpin
 Ob Nixilis, Unshackled
 Ob Nixilis, the Adversary
+Ob Nixilis, the Ascended
 Ob Nixilis, the Fallen
 Ob Nixilis, the Hate-Twisted
 Obeka, Brute Chronologist
@@ -21225,6 +21234,7 @@ Omnath, Locus of Creation
 Omnath, Locus of Mana
 Omnath, Locus of Rage
 Omnath, Locus of the Roil
+Omnath, Locus of the Void
 Omni-Changeling
 Omni-Cheese Pizza
 Omnibian
@@ -22468,6 +22478,7 @@ Plagued Rusalka
 Plaguemaw Beast
 Plain Walker
 Plains
+Plan for All Outcomes
 Plan the Heist
 Planar Ally
 Planar Atlas
@@ -30260,6 +30271,7 @@ Tamiyo, Compleated Sage
 Tamiyo, Field Researcher
 Tamiyo, Inquisitive Student
 Tamiyo, Seasoned Scholar
+Tamiyo, Upriser Crowned
 Tamiyo, the Moon Sage
 Tan Jolom, the Worldwalker
 Tana, the Bloodsower
@@ -30452,6 +30464,7 @@ Teferi's Protection
 Teferi's Protege
 Teferi's Puzzle Box
 Teferi's Realm
+Teferi's Reproach
 Teferi's Response
 Teferi's Sentinel
 Teferi's Talent
@@ -31299,6 +31312,7 @@ The Unknown Wizard
 The Unluckiest Planeswalker
 The Unspeakable
 The Ur-Dragon
+The Ur-Sphinx
 The Valeyard
 The Value Knight
 The Vanquisher
@@ -32580,11 +32594,14 @@ Tunneling Geopede
 Tura Kennerüd, Skyknight
 Turbo-Thwacking Auto-Hammer
 Turbocharged Escape
+Turbulent Crater
 Turbulent Dreams
 Turbulent Fen
 Turbulent Moor
+Turbulent Shore
 Turbulent Springs
 Turbulent Steppe
+Turbulent Wetlands
 Turbulent Wilderness
 Turf War
 Turf Wound
@@ -33551,6 +33568,7 @@ Venser's Diffusion
 Venser's Journal
 Venser's Sliver
 Venser, Corpse Puppet
+Venser, Fervent Forger
 Venser, Shaper Savant
 Venser, Visionary Traveler
 Venser, the Sojourner
