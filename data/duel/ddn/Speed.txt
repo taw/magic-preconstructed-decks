@@ -42,4 +42,4 @@
 2 Nomad Outpost
 
 Sideboard
-1 Goblin [DDN:82] [token]
+2 Goblin [DDN:82] [token]
