@@ -1,0 +1,10 @@
+// NAME: Tenth Edition Starter Game Land Pack
+// SOURCE: https://www.rpg.net/reviews/archive/13/13334.phtml
+// DATE: 2007-07-13
+// Twenty nonfoil basics, four of each type. [10E:*] uses the existing
+// default-frame art convention; exact physical art collation is unverified.
+4 Plains [10E:*]
+4 Island [10E:*]
+4 Swamp [10E:*]
+4 Mountain [10E:*]
+4 Forest [10E:*]
