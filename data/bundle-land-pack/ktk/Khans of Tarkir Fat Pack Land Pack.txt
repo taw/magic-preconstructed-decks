@@ -1,0 +1,10 @@
+// NAME: Khans of Tarkir Fat Pack Land Pack
+// SOURCE: https://mtg-realm.blogspot.com/2014/09/khans-of-tarkir-fat-pack.html
+// DATE: 2014-09-26
+// 80 nonfoil default-frame basics, 16 per type. [KTK:*] round-robins
+// regular set printings; exact physical art collation is not established.
+16 Plains [KTK:*]
+16 Island [KTK:*]
+16 Swamp [KTK:*]
+16 Mountain [KTK:*]
+16 Forest [KTK:*]
