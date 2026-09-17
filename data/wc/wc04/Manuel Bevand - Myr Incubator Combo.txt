@@ -26,3 +26,8 @@ Sideboard
 4 Furnace Dragon [WC04:mb62sb]
 4 Seething Song [WC04:mb104sb]
 3 Pyroclasm
+
+1 2004 World Championships Ad [WC04:0] [token]
+12 Blank Card [WC04:00] [token]
+1 Manuel Bevand Bio [WC04:mb0a] [token]
+1 Manuel Bevand Decklist [WC04:mb0b] [token]
