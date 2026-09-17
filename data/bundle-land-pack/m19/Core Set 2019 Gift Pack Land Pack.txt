@@ -1,0 +1,8 @@
+// NAME: Core Set 2019 Gift Pack Land Pack
+// SOURCE: https://magic.wizards.com/en/news/announcements/introducing-magic-game-night-and-updated-gift-pack-2018-08-27
+// DATE: 2018-11-16
+1 Plains [M19:261] [foil]
+1 Island [M19:268] [foil]
+1 Swamp [M19:269] [foil]
+1 Mountain [M19:276] [foil]
+1 Forest [M19:277] [foil]
