@@ -1,4 +1,4 @@
 // NAME: Sorin vs. Tibalt Tokens
 // SOURCE: https://www.magiclibrarities.net/946-rarities-duel-decks-tokens-english-cards-sorin-vs-tibalt-2013.html
 // DATE: 2013-03-15
-2 Spirit [DDK:T1] [token]
+2 Spirit [TDDK:1] [token]
