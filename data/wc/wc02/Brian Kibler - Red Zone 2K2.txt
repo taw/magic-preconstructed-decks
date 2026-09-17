@@ -40,3 +40,8 @@ Sideboard
 1 Sylvan Safekeeper
 1 Thornscape Battlemage
 1 Thunderscape Battlemage
+
+1 2002 World Championships Ad [WC02:0] [token]
+12 Blank Card [WC02:00] [token]
+1 Brian Kibler Bio [WC02:bk0a] [token]
+1 Brian Kibler Decklist [WC02:bk0b] [token]
