@@ -42,4 +42,4 @@
 
 Sideboard
 1 Angel [DDQ:77] [token]
-1 Human [DDQ:78] [token]
+5 Human [DDQ:78] [token]

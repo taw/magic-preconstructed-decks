@@ -38,4 +38,4 @@
 
 Sideboard
 1 Spirit [DDQ:79] [token]
-1 Zombie [DDQ:80] [token]
+3 Zombie [DDQ:80] [token]
