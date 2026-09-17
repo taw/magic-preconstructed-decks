@@ -1,6 +1,6 @@
 // NAME: Final Adventure
 // SOURCE: https://magic.wizards.com/en/articles/archive/feature/challenger-decks-2020-02-15
-// DATE: 2020-04-03
+// DATE: 2020-03-27
 1 Vraska, Golgari Queen
 2 Blacklance Paragon
 2 Knight of the Ebon Legion
