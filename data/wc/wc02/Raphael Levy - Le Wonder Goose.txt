@@ -38,3 +38,8 @@ Sideboard
 2 Ray of Revelation [WC02:rl20sb]
 2 Repulse [WC02:rl70sb]
 1 Rushing River [WC02:rl30sb]
+
+1 2002 World Championships Ad [WC02:0] [token]
+12 Blank Card [WC02:00] [token]
+1 Raphael Levy Bio [WC02:rl0a] [token]
+1 Raphael Levy Decklist [WC02:rl0b] [token]

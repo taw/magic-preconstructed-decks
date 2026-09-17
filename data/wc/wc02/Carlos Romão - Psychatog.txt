@@ -41,3 +41,8 @@ Sideboard
 1 Recoil
 1 Slay
 1 Teferi's Response
+
+1 2002 World Championships Ad [WC02:0] [token]
+12 Blank Card [WC02:00] [token]
+1 Carlos Romão Bio [WC02:cr0a] [token]
+1 Carlos Romão Decklist [WC02:cr0b] [token]
