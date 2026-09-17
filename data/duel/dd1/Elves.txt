@@ -29,3 +29,7 @@
 19 Forest [DD1:*]
 2 Tranquil Thicket
 1 Wirewood Lodge
+
+Sideboard
+1 Elemental [TDD1:T1] [token]
+1 Elf Warrior [TDD1:T2] [token]

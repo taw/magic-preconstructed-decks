@@ -31,3 +31,7 @@
 2 Unholy Strength
 2 Barren Moor
 24 Swamp [DDC:*]
+
+Sideboard
+1 Demon [TDDC:2] [token]
+1 Thrull [TDDC:3] [token]

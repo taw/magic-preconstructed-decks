@@ -33,3 +33,6 @@
 5 Mountain [DDT:62]
 5 Mountain [DDT:63]
 2 Tarfire
+
+Sideboard
+5 Goblin [TDDT:3] [token]

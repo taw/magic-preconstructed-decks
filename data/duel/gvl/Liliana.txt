@@ -30,3 +30,6 @@
 1 Genju of the Fens
 2 Polluted Mire
 23 Swamp [GVL:*]
+
+Sideboard
+4 Bat [TGVL:11] [token]

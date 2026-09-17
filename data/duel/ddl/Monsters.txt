@@ -37,3 +37,6 @@
 2 Mountain [DDL:76]
 2 Mountain [DDL:77]
 1 Skarrg, the Rage Pits
+
+Sideboard
+1 Beast [TDDL:2] [token]

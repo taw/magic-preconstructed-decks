@@ -29,3 +29,6 @@
 1 Forgotten Cave
 1 Goblin Burrows
 3 Tarfire
+
+Sideboard
+1 Goblin [TDD1:T3] [token]

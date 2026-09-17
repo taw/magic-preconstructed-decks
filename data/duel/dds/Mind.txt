@@ -32,3 +32,8 @@
 4 Mountain [DDS:31]
 3 Mountain [DDS:32]
 3 Mountain [DDS:33]
+
+Sideboard
+1 Drake [TDDS:1] [token]
+2 Elemental [TDDS:2] [token]
+2 Goblin [TDDS:3] [token]
