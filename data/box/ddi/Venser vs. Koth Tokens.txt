@@ -1,0 +1,5 @@
+// NAME: Venser vs. Koth Tokens
+// SOURCE: https://www.magiclibrarities.net/945-rarities-duel-decks-tokens-english-cards-venser-vs-koth-2012.html
+// DATE: 2012-03-30
+1 Venser, the Sojourner Emblem [DDI:T1] [token]
+1 Koth of the Hammer Emblem [DDI:T2] [token]
