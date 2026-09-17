@@ -30,3 +30,8 @@ Sideboard
 1 Seal of Cleansing [WC00:tvdl18sb]
 2 Submerge
 2 Wrath of God [WC00:tvdl54sb]
+
+1 2000 World Championships Ad [WC00:0] [token]
+12 Blank Card [WC00:00] [token]
+1 Tom van de Logt Bio (2000) [WC00:tvdl0a] [token]
+1 Tom van de Logt Decklist (2000) [WC00:tvdl0b] [token]
