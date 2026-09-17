@@ -1,0 +1,4 @@
+// NAME: Izzet vs. Golgari Tokens
+// SOURCE: https://www.magiclibrarities.net/947-rarities-duel-decks-tokens-english-cards-izzet-vs-golgari-2012.html
+// DATE: 2012-09-07
+2 Saproling [DDJ:T1] [token]
