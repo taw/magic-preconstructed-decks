@@ -1,4 +1,0 @@
-// NAME: Jace vs. Vraska Tokens
-// SOURCE: https://www.magiclibrarities.net/949-rarities-duel-decks-tokens-english-cards-jace-vs-vraska-2014.html
-// DATE: 2014-03-14
-3 Assassin [TDDM:1] [token]

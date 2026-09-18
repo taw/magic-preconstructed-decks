@@ -1,5 +1,0 @@
-// NAME: Heroes vs. Monsters Tokens
-// SOURCE: https://www.magiclibrarities.net/948-rarities-duel-decks-tokens-english-cards--heroes-vs-monsters-2013.html
-// DATE: 2013-09-06
-1 Griffin [TDDL:1] [token]
-1 Beast [TDDL:2] [token]

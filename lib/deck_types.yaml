@@ -60,15 +60,13 @@ arena-starter:
   sections:
     Main Deck: 60
     Sideboard: [0, 9]
-# This is currently dumping category for everything that doesn't fit anywhere else
-# However - it should be used for standalone boxes only, that you can get as a separate product
+# Everything that doesn't fit anywhere else, and is available as a standalone product
 box:
   category: "box"
   format: null
   name: "Box Set"
   # Any size
-# Dumping category for everything that doesn't fit anywhere else and is also not available standalone
-# Like tokens included in duel decks (which also can't just be a token section, as the box contained multiple decks)
+# Everything that doesn't fit anywhere else, and is available only as an addon for another product
 addon:
   category: "addon"
   format: null

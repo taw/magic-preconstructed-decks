@@ -1,6 +1,0 @@
-// NAME: Phyrexia vs. the Coalition Tokens
-// SOURCE: https://www.magiclibrarities.net/269-rarities-duel-decks-tokens-english-cards-phyrexia-vs-the-coalition-2010.html
-// DATE: 2010-03-19
-1 Hornet [TDDE:1] [token]
-1 Minion [TDDE:2] [token]
-1 Saproling [TDDE:3] [token]

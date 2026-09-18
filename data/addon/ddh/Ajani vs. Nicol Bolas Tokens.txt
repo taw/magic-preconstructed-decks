@@ -1,5 +1,0 @@
-// NAME: Ajani vs. Nicol Bolas Tokens
-// SOURCE: https://www.magiclibrarities.net/944-rarities-duel-decks-tokens-english-cards-ajani-vs-nicol-bolas-2011.html
-// DATE: 2011-09-02
-1 Griffin [TDDH:1] [token]
-1 Saproling [TDDH:2] [token]

@@ -1,7 +1,0 @@
-// NAME: Elves vs. Inventors Tokens
-// SOURCE: https://www.magiclibrarities.net/1157-rarities-duel-decks-tokens-english-cards-elves-vs-inventors-2018.html
-// DATE: 2018-04-06
-1 Elf Warrior [TDDU:1] [token]
-4 Myr [TDDU:2] [token]
-3 Thopter [TDDU:3] [token]
-2 Thopter [TDDU:4] [token]

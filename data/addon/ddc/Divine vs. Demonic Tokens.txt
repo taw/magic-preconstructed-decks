@@ -1,6 +1,0 @@
-// NAME: Divine vs. Demonic Tokens
-// SOURCE: https://www.magiclibrarities.net/267-rarities-duel-decks-tokens-english-cards-divine-vs-demonic-2009.html
-// DATE: 2009-04-10
-1 Spirit [TDDC:1] [token]
-1 Demon [TDDC:2] [token]
-1 Thrull [TDDC:3] [token]
