@@ -34,3 +34,7 @@ Sideboard
 3 Rapid Decay [WC99:js67sb]
 1 Sphere of Resistance
 1 Stromgald Cabal
+
+1 1999 World Championships Ad [WC99:0] [token]
+1 Jakub Šlemr Bio (1999) [WC99:js0a] [token]
+1 Jakub Šlemr Decklist (1999) [WC99:js0b] [token]

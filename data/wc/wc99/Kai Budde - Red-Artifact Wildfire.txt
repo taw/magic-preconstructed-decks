@@ -27,3 +27,7 @@ Sideboard
 2 Rack and Ruin
 2 Shattering Pulse [WC99:kb102sb]
 4 Spellshock
+
+1 1999 World Championships Ad [WC99:0] [token]
+1 Kai Budde Bio [WC99:kb0a] [token]
+1 Kai Budde Decklist [WC99:kb0b] [token]
