@@ -25,3 +25,7 @@ Sideboard
 3 Thran Foundry [WC99:ml140sb]
 2 Uktabi Orangutan [WC99:ml260sb]
 2 Weatherseed Treefolk
+
+1 1999 World Championships Ad [WC99:0] [token]
+1 Matt Linde Bio [WC99:ml0a] [token]
+1 Matt Linde Decklist [WC99:ml0b] [token]

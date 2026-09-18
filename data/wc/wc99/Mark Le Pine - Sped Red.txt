@@ -26,3 +26,7 @@ Sideboard
 4 Scald
 2 Shattering Pulse [WC99:mlp102sb]
 4 Thran Foundry [WC99:mlp140sb]
+
+1 1999 World Championships Ad [WC99:0] [token]
+1 Mark Le Pine Bio [WC99:mlp0a] [token]
+1 Mark Le Pine Decklist [WC99:mlp0b] [token]
