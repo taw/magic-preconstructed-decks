@@ -41,3 +41,6 @@
 1 Strip Mine
 1 Smoldering Crater
 1 Polluted Mire
+
+Sideboard
+5 Goblin [TUGL:92] [token]
