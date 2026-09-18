@@ -44,3 +44,5 @@ Sideboard
 2 Essence Filter
 
 13 Blank Card [PTC:0] [token]
+1 Preston Poulter Bio Card [PTC] [token]
+1 Preston Poulter Deck List Card [PTC] [token]

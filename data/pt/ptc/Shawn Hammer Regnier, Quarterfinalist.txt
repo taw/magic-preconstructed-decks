@@ -41,3 +41,5 @@ Sideboard
 2 Steal Artifact [PTC:shr105sb]
 
 13 Blank Card [PTC:0] [token]
+1 Shawn Hammer Regnier Bio Card [PTC] [token]
+1 Shawn Hammer Regnier Deck List Card [PTC] [token]
