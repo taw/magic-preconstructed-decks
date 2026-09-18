@@ -35,3 +35,5 @@ Sideboard
 3 Red Elemental Blast
 2 Shatter [PTC:gb219sb]
 2 Tranquility
+
+13 Blank Card [PTC:0] [token]

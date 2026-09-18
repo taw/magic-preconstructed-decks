@@ -43,3 +43,5 @@ Sideboard
 1 Order of Leitbur [PTC:bl16csb]
 1 Wrath of God [PTC:bl58sb]
 2 Whirling Dervish
+
+13 Blank Card [PTC:0] [token]

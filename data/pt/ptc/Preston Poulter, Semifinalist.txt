@@ -42,3 +42,5 @@ Sideboard
 2 Reverse Damage [PTC:pp45sb]
 1 Autumn Willow [PTC:pp83sb]
 2 Essence Filter
+
+13 Blank Card [PTC:0] [token]
