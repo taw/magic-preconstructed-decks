@@ -25,3 +25,8 @@ Sideboard
 4 Hydroblast
 4 Sea Sprite
 4 Wasteland [WC98:rb330sb]
+
+1 1998 World Championships Ad [WC98:0] [token]
+1 Randy Buehler Bio [WC98:rb0a] [token]
+1 Randy Buehler Decklist [WC98:rb0b] [token]
+12 Blank Card [WC98:00] [token]

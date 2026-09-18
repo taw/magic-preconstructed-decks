@@ -41,3 +41,8 @@ Sideboard
 2 Phyrexian Furnace
 2 Pyroblast [WC98:bs213sb]
 1 Staunch Defenders
+
+1 1998 World Championships Ad [WC98:0] [token]
+1 Brian Selden Bio [WC98:bs0a] [token]
+1 Brian Selden Decklist [WC98:bs0b] [token]
+12 Blank Card [WC98:00] [token]

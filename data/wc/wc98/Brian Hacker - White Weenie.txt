@@ -26,3 +26,8 @@ Sideboard
 3 Cursed Scroll [WC98:bh281sb]
 1 Disenchant [WC98:bh16sb]
 3 Spirit Link
+
+1 1998 World Championships Ad [WC98:0] [token]
+1 Brian Hacker Bio [WC98:bh0a] [token]
+1 Brian Hacker Decklist [WC98:bh0b] [token]
+12 Blank Card [WC98:00] [token]
