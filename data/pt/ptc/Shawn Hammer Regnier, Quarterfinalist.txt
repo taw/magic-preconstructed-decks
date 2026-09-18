@@ -39,3 +39,5 @@ Sideboard
 1 Memory Lapse [PTC:shr32bsb]
 1 Sea Sprite [PTC:shr38sb]
 2 Steal Artifact [PTC:shr105sb]
+
+13 Blank Card [PTC:0] [token]

@@ -49,3 +49,5 @@ Sideboard
 1 An-Zerrin Ruins
 1 Dwarven Catapult
 1 Autumn Willow [PTC:et83sb]
+
+13 Blank Card [PTC:0] [token]

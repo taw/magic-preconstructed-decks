@@ -40,3 +40,5 @@ Sideboard
 1 Ashes to Ashes
 1 Stromgald Cabal
 1 Torture
+
+13 Blank Card [PTC:0] [token]
