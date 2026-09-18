@@ -89,3 +89,6 @@ COMMANDER: 1 Otrimi, the Ever-Playful [foil]
 
 Display Commander
 1 Otrimi, the Ever-Playful [oc20] [foil]
+
+// Tokens
+// 10 Beast // Hydra [tiko:10|tc20:12] [token]
