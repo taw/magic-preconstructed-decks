@@ -42,3 +42,5 @@ Sideboard
 2 Shatter [PTC:mj219sb]
 
 13 Blank Card [PTC:0] [token]
+1 Mark Justice Bio Card [PTC] [token]
+1 Mark Justice Deck List Card [PTC] [token]
