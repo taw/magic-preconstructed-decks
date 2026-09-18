@@ -42,3 +42,6 @@
 1 Drifting Meadow
 1 Pendelhaven
 1 Slippery Karst
+
+Sideboard
+5 Pegasus [TUGL:89] [token]
