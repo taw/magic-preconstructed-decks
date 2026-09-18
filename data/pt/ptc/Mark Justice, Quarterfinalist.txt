@@ -40,3 +40,5 @@ Sideboard
 2 Eron the Relentless
 3 Pyroblast
 2 Shatter [PTC:mj219sb]
+
+13 Blank Card [PTC:0] [token]

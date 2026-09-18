@@ -43,3 +43,5 @@ Sideboard
 2 Hydroblast
 2 Sea Sprite [PTC:ml38sb]
 2 Steal Artifact [PTC:ml105sb]
+
+11 Blank Card [PTC:0] [token]
