@@ -48,6 +48,8 @@ class Deck
       card_name = card_name.sub(/[ \t]*\*+\z/, "")
       foil = nil
       set = nil
+      back_set = nil
+      back_number = nil
       number = nil
       token = nil
       etched = nil
@@ -64,7 +66,12 @@ class Deck
         token = true
       end
 
-      if card_name.sub!(/\[(.*?):(.*?)\]/, "")
+      if card_name.sub!(/\[(.*?):(.*?)\|(.*?):(.*?)\]/, "")
+        set = $1
+        number = $2
+        back_set = $3
+        back_number = $4
+      elsif card_name.sub!(/\[(.*?):(.*?)\]/, "")
         set = $1
         number = $2
       elsif card_name.sub!(/\[([^:]+?)\]/, "")
@@ -82,6 +89,8 @@ class Deck
         count: count.to_i,
         set: set,
         number: number,
+        back_set: back_set,
+        back_number: back_number,
         foil: foil,
         token: token,
         etched: etched,

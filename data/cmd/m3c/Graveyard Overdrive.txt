@@ -98,3 +98,14 @@ COMMANDER: 1 Disa the Restless [foil] [M3C:1]
 
 Display Commander
 1 Disa the Restless [M3C:144] [foil] [etched]
+
+Sideboard
+1 Servo // Eldrazi [tbrc:13|tbrc:2] [token]
+1 Servo // Powerstone [tbrc:13|tbro:7] [token]
+1 Mishra's Warform // Inkling [tbrc:9|tbrc:7] [token]
+1 Copy // Inkling [tbrc:1|tbrc:7] [token]
+2 Copy // Powerstone [tbrc:1|tbro:7] [token]
+1 Scrap // Phyrexian Myr [tbrc:12|tbrc:5] [token]
+1 Scrap // Powerstone [tbrc:12|tbro:7] [token]
+1 Goat // Construct [tbrc:3|tbrc:8] [token] 
+1 Construct // Phyrexian Myr [tbrc:8|tbrc:5] [token]
