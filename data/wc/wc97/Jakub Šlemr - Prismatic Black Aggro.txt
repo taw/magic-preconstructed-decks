@@ -32,3 +32,7 @@ Sideboard
 1 Honorable Passage
 2 Hydroblast [WC97:js94sb]
 3 Pyroblast [WC97:js262sb]
+
+1 1997 World Championships Ad [WC97:0] [token]
+1 Jakub Šlemr Bio [WC97:js0a] [token]
+1 Jakub Šlemr Decklist [WC97:js0b] [token]
