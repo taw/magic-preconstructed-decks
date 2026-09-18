@@ -27,3 +27,8 @@ Sideboard
 1 Firestorm [WC98:br101sb]
 4 Pyroblast [WC98:br213sb]
 2 Shattering Pulse
+
+1 1998 World Championships Ad [WC98:0] [token]
+1 Ben Rubin Bio [WC98:br0a] [token]
+1 Ben Rubin Decklist [WC98:br0b] [token]
+12 Blank Card [WC98:00] [token]
