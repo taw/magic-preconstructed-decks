@@ -36,3 +36,6 @@
 1 Kabira Crossroads
 22 Plains [DDF:*]
 1 Rustic Clachan
+
+Sideboard
+3 Soldier [TDDF:1] [token]

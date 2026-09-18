@@ -27,3 +27,6 @@
 1 Serra's Embrace
 24 Plains [DVD:*]
 2 Secluded Steppe
+
+Sideboard
+3 Spirit [TDVD:5] [token]

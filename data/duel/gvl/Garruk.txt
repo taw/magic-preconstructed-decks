@@ -29,3 +29,8 @@
 21 Forest [GVL:*]
 2 Slippery Karst
 1 Treetop Village
+
+Sideboard
+3 Beast [TGVL:8] [token]
+2 Beast [TGVL:9] [token]
+1 Elephant [TGVL:10] [token]

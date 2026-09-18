@@ -31,3 +31,9 @@
 4 Mountain [DDS:61]
 3 Mountain [DDS:62]
 10 Forest [DDS:*]
+
+Sideboard
+1 Beast [TDDS:4] [token]
+2 Elephant [TDDS:5] [token]
+1 Elf Warrior [TDDS:6] [token]
+1 Wurm [TDDS:7] [token]

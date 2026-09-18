@@ -32,3 +32,7 @@
 5 Island [DDT:29]
 5 Island [DDT:30]
 5 Island [DDT:31]
+
+Sideboard
+4 Elemental [TDDT:1] [token]
+1 Wall [TDDT:2] [token]

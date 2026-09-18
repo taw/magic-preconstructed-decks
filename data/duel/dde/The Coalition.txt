@@ -37,3 +37,6 @@
 1 Shivan Oasis
 1 Swamp [DDE:33]
 3 Terramorphic Expanse
+
+Sideboard
+1 Saproling [TDDE:3] [token]

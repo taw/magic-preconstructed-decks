@@ -41,3 +41,6 @@
 1 Svogthos, the Restless Tomb
 10 Swamp [DDJ:*]
 1 Tranquil Thicket
+
+Sideboard
+2 Saproling [TDDJ:1] [token]

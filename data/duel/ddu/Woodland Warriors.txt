@@ -32,3 +32,6 @@
 2 Dwynen's Elite
 2 Nature's Way
 2 Nissa's Judgment
+
+Sideboard
+1 Elf Warrior [TDDU:1] [token]

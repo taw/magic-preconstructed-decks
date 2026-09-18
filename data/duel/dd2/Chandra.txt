@@ -27,3 +27,6 @@
 2 Seal of Fire
 1 Keldon Megaliths
 24 Mountain [DD2:*]
+
+Sideboard
+3 Elemental Shaman [TDD2:1] [token]

@@ -40,3 +40,6 @@
 2 Mountain [DDL:38]
 2 New Benalia
 9 Plains [DDL:*]
+
+Sideboard
+1 Griffin [TDDL:1] [token]

@@ -41,3 +41,8 @@
 1 Inventor's Goggles
 1 Phyrexia's Core
 1 Artificer's Epiphany
+
+Sideboard
+4 Myr [TDDU:2] [token]
+3 Thopter [TDDU:3] [token]
+2 Thopter [TDDU:4] [token]

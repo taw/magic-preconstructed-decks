@@ -33,3 +33,7 @@
 1 Worn Powerstone
 1 Phyrexian Arena
 25 Swamp [DDE:*]
+
+Sideboard
+1 Hornet [TDDE:1] [token]
+1 Minion [TDDE:2] [token]

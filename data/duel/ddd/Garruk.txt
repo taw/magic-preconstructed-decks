@@ -29,3 +29,8 @@
 21 Forest [DDD:*]
 2 Slippery Karst
 1 Treetop Village
+
+Sideboard
+1 Beast [TDDD:T1] [token]
+1 Beast [TDDD:T2] [token]
+1 Elephant [TDDD:T3] [token]
