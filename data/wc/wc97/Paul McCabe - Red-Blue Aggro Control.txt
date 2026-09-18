@@ -36,3 +36,8 @@ Sideboard
 2 Pyroblast [WC97:pm262sb]
 3 Pillage [WC97:pm76sb]
 1 Pyrokinesis [WC97:pm78sb]
+
+1 1997 World Championships Ad [WC97:0] [token]
+1 Paul McCabe Bio [WC97:pm0a] [token]
+1 Paul McCabe Decklist [WC97:pm0b] [token]
+12 Blank Card [WC97:00] [token]

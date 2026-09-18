@@ -28,3 +28,8 @@ Sideboard
 4 Emerald Charm
 3 City of Solitude
 1 Bounty of the Hunt [WC97:sg85sb]
+
+1 1997 World Championships Ad [WC97:0] [token]
+1 Svend Geertsen Bio [WC97:sg0a] [token]
+1 Svend Geertsen Decklist [WC97:sg0b] [token]
+12 Blank Card [WC97:00] [token]

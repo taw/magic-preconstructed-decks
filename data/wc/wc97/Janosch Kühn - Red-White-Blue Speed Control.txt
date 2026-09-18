@@ -38,3 +38,8 @@ Sideboard
 1 Kjeldoran Outpost
 2 Political Trickery
 3 Pyroblast [WC97:jk262sb]
+
+1 1997 World Championships Ad [WC97:0] [token]
+1 Janosch Kühn Bio (1997) [WC97:jk0a] [token]
+1 Janosch Kühn Decklist 1997 [WC97:jk0b] [token]
+12 Blank Card [WC97:00] [token]
