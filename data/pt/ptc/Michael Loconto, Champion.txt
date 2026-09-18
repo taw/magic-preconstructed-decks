@@ -45,3 +45,5 @@ Sideboard
 2 Steal Artifact [PTC:ml105sb]
 
 11 Blank Card [PTC:0] [token]
+1 Michael Loconto Bio Card [PTC] [token]
+1 Michael Loconto Deck List Card [PTC] [token]

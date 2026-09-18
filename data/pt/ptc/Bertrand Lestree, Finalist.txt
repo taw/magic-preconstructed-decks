@@ -45,3 +45,5 @@ Sideboard
 2 Whirling Dervish
 
 13 Blank Card [PTC:0] [token]
+1 Bertrand Lestree Bio Card [PTC] [token]
+1 Bertrand Lestree Deck List Card [PTC] [token]

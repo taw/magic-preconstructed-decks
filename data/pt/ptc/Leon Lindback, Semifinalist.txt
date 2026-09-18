@@ -42,3 +42,5 @@ Sideboard
 1 Torture
 
 13 Blank Card [PTC:0] [token]
+1 Leon Lindback Bio Card [PTC] [token]
+1 Leon Lindback Deck List Card [PTC] [token]

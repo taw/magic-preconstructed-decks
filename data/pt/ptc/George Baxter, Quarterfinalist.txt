@@ -37,3 +37,5 @@ Sideboard
 2 Tranquility
 
 13 Blank Card [PTC:0] [token]
+1 George Baxter Bio Card [PTC] [token]
+1 George Baxter Deck List Card [PTC] [token]
