@@ -368,7 +368,13 @@ demo:
   format: "casual"
   name: "Demo Deck"
   sections:
-    Main Deck: [11, 12]
+    Main Deck: 12
+demo-std:
+  category: "deck"
+  format: "casual standard"
+  name: "Demo Deck"
+  sections:
+    Main Deck: 11
 theme-40-std:
   category: "deck"
   format: "standard"
