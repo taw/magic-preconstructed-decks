@@ -1554,6 +1554,7 @@ Artificer's Epiphany
 Artificer's Hex
 Artificer's Intuition
 Artificial Evolution
+Artifist Acumen
 Artillerize
 Artillery Blast
 Artillery Enthusiast
@@ -3251,6 +3252,7 @@ Bloodwater Entity
 Bloody Betrayal
 Bloom Hulk
 Bloom Tender
+Bloombrute
 Blooming Blast
 Blooming Cactusfolk
 Blooming Marsh
@@ -3261,6 +3263,7 @@ Blor the Impervious
 Blorbian Buddy
 Blossom Dryad
 Blossom Prancer
+Blossom-Blessed Angel
 Blossom-Clad Werewolf
 Blossombind
 Blossoming Bogbeast
@@ -5478,6 +5481,7 @@ Code of Constraint
 Codecracker Hound
 Codespell Cleric
 Codex Shredder
+Codie, Ravenous Codex
 Codie, Vociferous Codex
 Codsworth, Handy Helper
 Coerced Confession
@@ -5613,6 +5617,7 @@ Command Tower
 Command of Unsummoning
 Command the Chaff
 Command the Dreadhorde
+Command the Stage
 Command the Storm
 Commandeer
 Commander Eesha
@@ -7421,6 +7426,7 @@ Desperate Bloodseeker
 Desperate Castaways
 Desperate Charge
 Desperate Farmer
+Desperate Futurescribe
 Desperate Gambit
 Desperate Lunge
 Desperate Measures
@@ -9799,6 +9805,7 @@ Extraction Specialist
 Extractor Demon
 Extraordinary Journey
 Extraplanar Lens
+Extrapolate the Impossible
 Extravagant Replication
 Extravagant Spirit
 Extremely Slow Zombie
@@ -10310,6 +10317,7 @@ Ferocious Tigorilla
 Ferocious Werefox
 Ferocious Zheng
 Ferocity
+Ferocity of the Hunt
 Ferocity of the Wilds
 Feroz's Ban
 Feroz, Ulgrotha's Warden
@@ -11561,6 +11569,7 @@ Garbage Elemental (e)
 Garbage Elemental (f)
 Garbage Fire
 Garden of Freyalise
+Gardenize
 Gardens of Tranquil Repose
 Garenbrig Carver
 Garenbrig Growth
@@ -11785,6 +11794,7 @@ Geralf's Messenger
 Geralf's Mindcrusher
 Geralf, Visionary Stitcher
 Geralf, the Fleshwright
+Germinate Recruits
 Germinating Wurm
 Germination Practicum
 Gerrard
@@ -12735,6 +12745,7 @@ Graf Mole
 Graf Rats
 Graf Reaver
 Grafdigger's Cage
+Graft Surgeon
 Grafted Butcher
 Grafted Exoskeleton
 Grafted Growth
@@ -13226,6 +13237,7 @@ Guidelight Pathmaker
 Guidelight Synergist
 Guidestone Compass
 Guiding Bolt
+Guiding Hydra
 Guiding Spirit
 Guiding Voice
 Guild Artisan
@@ -13394,6 +13406,7 @@ Haliya, Ascendant Cadet
 Haliya, Guided by Light
 Hall
 Hall Monitor
+Hall of Echoes
 Hall of Gemstone
 Hall of Heliod's Generosity
 Hall of Mirrors
@@ -15610,6 +15623,7 @@ Jace, Ingenious Mind-Mage
 Jace, Memory Adept
 Jace, Mirror Mage
 Jace, Multiverse Architect
+Jace, Reality Sculptor
 Jace, Telepath Unbound
 Jace, Unraveler of Secrets
 Jace, Vryn's Prodigy
@@ -17393,6 +17407,7 @@ Lich's Caress
 Lich's Duel Mastery
 Lich's Mastery
 Lich's Mirror
+Lich's Relic
 Lich's Tomb
 Lich-Knights' Conquest
 Lichenthrope
@@ -18621,7 +18636,9 @@ Marvelous Melee
 Marvin, Murderous Mimic
 Marvo, Deep Operative
 Marwyn's Kindred
+Marwyn, the Clearcutter
 Marwyn, the Nurturer
+Marwyn, the Preserver
 Mary Jane Watson
 Mary O'Kill
 Mary Read and Anne Bonny
@@ -18658,6 +18675,7 @@ Mass of Mysteries
 Massacre
 Massacre Girl
 Massacre Girl, Known Killer
+Massacre Girl, Most Wanted
 Massacre Totem
 Massacre Wurm
 Massimo, the Magician
@@ -19955,6 +19973,7 @@ Multi-Headed
 Multiclass Baldric
 Multiform Wonder
 Multiple Choice
+Multiply by Zero
 Multiversal High Council
 Multiversal Incursion
 Multiversal Passage
@@ -22899,6 +22918,7 @@ Primal Vigor
 Primal Visitation
 Primal Wellspring
 Primal Whisperer
+Primal Witchstalker
 Primalcrux
 Primaris Chaplain
 Primaris Eliminator
@@ -24417,6 +24437,7 @@ Reroute
 Reroute Systems
 Rescind
 Rescue
+Rescue Girl, First Responder
 Rescue Leopard
 Rescue Retriever
 Rescue Skiff
@@ -25524,7 +25545,9 @@ Saheeli's Artistry
 Saheeli's Directive
 Saheeli's Lattice
 Saheeli's Silverwing
+Saheeli, Consul of Oversight
 Saheeli, Filigree Master
+Saheeli, Jewel of Avishkar
 Saheeli, Radiant Creator
 Saheeli, Sublime Artificer
 Saheeli, the Gifted
@@ -25604,7 +25627,9 @@ Samurai Enforcers
 Samurai of the Pale Curtain
 Samurai's Katana
 Samut's Sprint
+Samut, Hazoret's Champion
 Samut, Tyrant Smasher
+Samut, Tyrant of Naktamun
 Samut, Vizier of Naktamun
 Samut, Voice of Dissent
 Samut, the Driving Force
@@ -26348,6 +26373,7 @@ Seed Guardian
 Seed Spark
 Seed Suture (Prepared a)
 Seed Suture (Prepared b)
+Seed Suture (Prepared c)
 Seed of Hope
 Seed the Land
 Seedborn Muse
@@ -28522,6 +28548,7 @@ Sphinx of the Guildpact
 Sphinx of the Revelation
 Sphinx of the Second Sun
 Sphinx of the Steel Wind
+Sphinx's Approach
 Sphinx's Decree
 Sphinx's Disciple
 Sphinx's Herald
@@ -30294,6 +30321,7 @@ Talus Paladin
 Tam's Resistance
 Tam, Mindful First-Year
 Tam, Observant Sequencer
+Tam, the Possibility
 Tamanoa
 Tameshi, Reality Architect
 Tamiyo Meets the Story Circle
@@ -32062,6 +32090,8 @@ Tome of the Guildpact
 Tome of the Infinite
 Tomebound Lich
 Tomik, Distinguished Advokist
+Tomik, Izzet Sparkmage
+Tomik, Orzhov Lawmage
 Tomik, Wielder of Law
 Tomorrow, Azami's Familiar
 Tomoya the Revealer
@@ -33636,6 +33666,7 @@ Verdant Embrace
 Verdant Field
 Verdant Force
 Verdant Haven
+Verdant Kraken
 Verdant Mastery
 Verdant Outrider
 Verdant Rebirth
@@ -35676,6 +35707,7 @@ Young Pyromancer
 Young Red Dragon
 Young Wei Recruits
 Young Wolf
+Your Fate Ends Here
 Your Fate Is Thrice Sealed
 Your Favorite Character
 Your Favorite Missing Character
