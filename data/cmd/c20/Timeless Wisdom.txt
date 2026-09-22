@@ -92,3 +92,12 @@ COMMANDER: 1 Gavi, Nest Warden [foil]
 
 Display Commander
 1 Gavi, Nest Warden [oc20] [foil]
+
+// Tokens
+// 1 Human Soldier // Drake [tiko:5|tc20:8] [token]
+// 1 Drake // Insect [tc20:8|tc20:18] [token]
+// 1 Kraken // Elemental [tiko:6|tc20:10] [token]
+// 1 Angel // Elemental [tc20:1|tc20:10] [token]
+// 1 Spirit // Treasure [tc20:6|tc20:19] [token]
+// 4 Bird // Dinosaur Cat [tc20:2|tc20:16] [token]
+// 1 Elemental // Soldier [tc20:3|tc20:5] [token]
