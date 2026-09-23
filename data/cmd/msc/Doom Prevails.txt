@@ -92,3 +92,9 @@ COMMANDER: 1 Doctor Doom, King of Latveria [MSC:6] [foil]
 3 Swamp [MSH:292]
 3 Mountain [MSH:293]
 2 Mountain [MSH:294]
+
+// Tokens
+// 3 Villain // Robot Villain [tmsh:9|tmsh:20] [token]
+// 3 Villain // Shapeshifter [tmsh:9|tmsc:2] [token]
+// 2 Ape Villain // Copy [tmsc:10|tmsc:1] [token]
+// 2 Rogue // Treasure [tmsc:9|tmsh:22] [token]

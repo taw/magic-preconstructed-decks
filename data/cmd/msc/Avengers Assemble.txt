@@ -91,3 +91,6 @@ COMMANDER: 1 Captain America, Team Leader [MSC:5] [foil]
 2 Island [MSH:290]
 3 Mountain [MSH:293]
 2 Mountain [MSH:294]
+
+// Tokens
+// 10 Treasure // Bird [tmsh:22|tmsc:5] [token]
