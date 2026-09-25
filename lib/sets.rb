@@ -434,6 +434,7 @@ MagicSets = {
   "pf24" => "MagicFest 2024",
   "pf25" => "MagicFest 2025",
   "pf26" => "MagicFest 2026",
+  "pf27" => "MagicFest 2027",
   "pfdn" => "Foundations Promos",
   "pfin" => "Final Fantasy Promos",
   "pfrf" => "Fate Reforged Promos",
