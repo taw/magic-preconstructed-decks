@@ -1,7 +1,7 @@
 // NAME: Phyrexian Praetors: Compleat Edition
 // SOURCE: https://secretlair.wizards.com/us/product/648184
 // DATE: 2021-10-29
-// DISPLAY: This drop has a 7% chance to include a blueprint artifact [SLD:603-606], and a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of the normal bonus card.
+// DISPLAY: This drop has an estimated 7% total chance to include a blueprint artifact [SLD:603-607], and a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of the normal bonus card.
 1 [SLD:209] Elesh Norn, Grand Cenobite
 1 [SLD:210] Jin-Gitaxias, Core Augur
 1 [SLD:211] Sheoldred, Whispering One

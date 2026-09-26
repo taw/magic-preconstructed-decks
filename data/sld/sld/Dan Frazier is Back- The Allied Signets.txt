@@ -1,7 +1,7 @@
 // NAME: Dan Frazier is Back: The Allied Signets
 // SOURCE: https://secretlair.wizards.com/us/product/647961
 // DATE: 2021-10-29
-// DISPLAY: All drops in the All Natural, Totally Refreshing superdrop have a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of their normal bonus card.
+// DISPLAY: Also includes nonfoil [SLD:589] Arcane Signet, or a traditional-foil Blueprint [SLD:603-607] (estimated 7% total).
 1 [SLD:286] Azorius Signet
 1 [SLD:287] Dimir Signet
 1 [SLD:288] Gruul Signet

@@ -1,7 +1,7 @@
 // NAME: Dan Frazier is Back: The Enemy Signets Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/647913
 // DATE: 2021-10-29
-// DISPLAY: All drops in the All Natural, Totally Refreshing superdrop have a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of their normal bonus card.
+// DISPLAY: Also includes etched [SLD:589] Arcane Signet, or a traditional-foil Blueprint [SLD:603-607] (estimated 7% total).
 1 [SLD:291] Boros Signet [foil] [etched]
 1 [SLD:292] Golgari Signet [foil] [etched]
 1 [SLD:293] Izzet Signet [foil] [etched]

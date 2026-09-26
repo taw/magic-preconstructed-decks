@@ -1,7 +1,7 @@
 // NAME: Culture Shocks: Naya
 // SOURCE: https://secretlair.wizards.com/us/product/634216
 // DATE: 2021-08-25
-// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:520] Ajani, [SLD:521] Domri, [SLD:535] Samut, or [SLD:530] Huatli. All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
+// DISPLAY: Also includes one foil stained-glass planeswalker: [SLD:520] Ajani, [SLD:521] Domri, [SLD:530] Huatli, [SLD:533] Nahiri, or [SLD:535] Samut. All drops from the Dr. Lair's Secretorium Superdrop have a roughly 7% chance to have a Blueprint artifact card instead of their normal bonus card: [SLD:603-607].
 1 [SLD:126] Stomping Ground
 1 [SLD:127] Temple Garden
 1 [SLD:131] Sacred Foundry
