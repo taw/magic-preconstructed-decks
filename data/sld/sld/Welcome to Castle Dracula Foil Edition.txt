@@ -1,7 +1,7 @@
 // NAME: Welcome to Castle Dracula Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/696654
 // DATE: 2022-05-06
-// DISPLAY: Has a roughly 5% to include either a foil Blueprint artifact [SLD:603-607] or foil [SLD:595] Persistent Petitioners instead of the normal bonus card.
+// DISPLAY: Also includes foil [SLD:550] Island or foil [SLD:560] [SLD:562] Swamp, with estimated replacement chances of 7% total for foil Blueprints [SLD:603-607] and 2% for foil [SLD:598] Persistent Petitioners.
 1 [SLD:206] Exquisite Blood [foil]
 1 [SLD:207] Night's Whisper [foil]
 1 [SLD:208] Phyrexian Tower [foil]

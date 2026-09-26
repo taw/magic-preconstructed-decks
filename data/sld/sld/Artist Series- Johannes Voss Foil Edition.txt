@@ -1,7 +1,7 @@
 // NAME: Artist Series: Johannes Voss Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/679512
 // DATE: 2021-12-13
-// DISPLAY: Has a roughly 7% chance to have a Blueprint artifact card instead of the normal bonus card: [SLD:603-607].
+// DISPLAY: Also includes foil [SLD:588] Sphere of Safety, with estimated replacement chances of 7% total for foil Blueprints [SLD:603-607] and 2% for foil [SLD:597] Persistent Petitioners.
 1 [SLD:278] Sanctum Prelate [foil]
 1 [SLD:279] Carpet of Flowers [foil]
 1 [SLD:280] Sphere of Safety [foil]

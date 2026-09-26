@@ -1,7 +1,7 @@
 // NAME: Artist Series: Mark Poole Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/647927
 // DATE: 2021-10-29
-// DISPLAY: This drop has a 7% chance to include a blueprint artifact [SLD:603-606], and a very rare chance to include a serialized, mirrored [SLD:VS] Viscera Seer instead of the normal bonus card.
+// DISPLAY: This drop has an estimated 7% total chance to include a blueprint artifact [SLD:603-607] instead of the normal bonus card.
 1 [SLD:173] Balance [foil]
 1 [SLD:174] Brainstorm [foil]
 1 [SLD:175] Counterspell [foil]
