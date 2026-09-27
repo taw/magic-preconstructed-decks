@@ -69,7 +69,8 @@ COMMANDER: 1 Ghalta, Primal Hunger [FDC:8] [foil]
 1 Swiftfoot Boots [FDC:291]
 1 Rogue's Passage [FDC:310]
 1 Tranquil Thicket [FDC:316]
-32 Forest [FDN:280]
+16 Forest [FDN:280]
+16 Forest [FDN:281]
 
 Sideboard
 4 Beast // Spider [token]

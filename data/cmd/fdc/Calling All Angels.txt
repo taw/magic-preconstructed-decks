@@ -69,7 +69,8 @@ COMMANDER: 1 Giada, Font of Hope [FDC:4] [foil]
 1 Secluded Steppe [FDC:312]
 1 Seraph Sanctuary [FDC:313]
 1 Temple of the False God [FDC:315]
-32 Plains [FDN:272]
+16 Plains [FDN:272]
+16 Plains [FDN:273]
 
 Sideboard
 4 Angel // Clue [token]
