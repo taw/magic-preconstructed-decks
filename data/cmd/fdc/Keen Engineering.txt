@@ -67,7 +67,8 @@ COMMANDER: 1 Sai, Master Thopterist [FDC:5] [foil]
 1 Foundry of the Consuls [FDC:302]
 1 Lonely Sandbar [FDC:305]
 1 Remote Isle [FDC:309]
-34 Island [FDN:274]
+17 Island [FDN:274]
+17 Island [FDN:275]
 
 Sideboard
 8 Thopter // Myr [token]
