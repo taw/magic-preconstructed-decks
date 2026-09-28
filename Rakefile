@@ -27,3 +27,8 @@ desc "Validate metadata"
 task "validate:metadata" do
   sh "./bin/validate_metadata"
 end
+
+desc "Run specs"
+task "spec" do
+  sh "bundle exec rspec"
+end

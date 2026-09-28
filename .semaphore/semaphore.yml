@@ -14,5 +14,6 @@ blocks:
             - sem-version ruby 4.0.7
             - bundle config set --local path vendor/bundle
             - bundle install
+            - bundle exec rspec
             - bundle exec bin/build_jsons decks.json
             - bundle exec bin/validate_card_names
