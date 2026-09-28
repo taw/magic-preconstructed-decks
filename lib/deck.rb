@@ -25,7 +25,7 @@ class Deck
     main_lines.each do |line|
       case line.strip
       # All known sections
-      when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck", "Scheme Deck"
+      when "Main Deck", "Sideboard", "Display Commander", "Commander", "Planar Deck", "Scheme Deck", "Tokens"
         section_name = line.strip
         next
       end
@@ -64,17 +64,37 @@ class Deck
         token = true
       end
 
-      if card_name.sub!(/\[(.*?):(.*?)\]/, "")
-        set = $1
-        number = $2
-      elsif card_name.sub!(/\[([^:]+?)\]/, "")
-        set = $1
+      # Remaining annotations are printings, either [set] or [set:number]
+      printings = []
+      card_name.gsub!(/[ \t]*\[(.*?)\]/) do
+        printings << $1.split(":", 2)
+        ""
       end
 
       card_name.strip!
 
       if card_name.empty?
         raise("#{path}: cannot parse line #{line.inspect}")
+      end
+
+      case printings.size
+      when 0
+      when 1
+        set, number = printings[0]
+      when 2
+        # Double-sided tokens can have any two faces, possibly from different sets,
+        # so each face gets its own printing, joined like the card name
+        unless token
+          raise("#{path}: two printings are only allowed for tokens in line #{line.inspect}")
+        end
+        unless card_name.split(" // ").size == 2
+          raise("#{path}: two printings require a two-faced name in line #{line.inspect}")
+        end
+        set = printings.map(&:first).join(" // ")
+        numbers = printings.map{|_, n| n}
+        number = numbers.map(&:to_s).join(" // ") if numbers.any?
+      else
+        raise("#{path}: too many printings in line #{line.inspect}")
       end
 
       add_card(target,

@@ -82,10 +82,10 @@ COMMANDER: 1 T'Challa, the Black Panther [MSC:7] [foil]
 6 Forest [MSH:295]
 6 Forest [MSH:296]
 
-// Tokens
-// 3 Angel // Vibranium [tmsc:4|tmsc:15] [token]
-// 1 The Monarch // Vibranium [tmsc:16|tmsc:15] [token]
-// 2 Soldier // Goat [tmsh:4|tmsc:6] [token]
-// 2 Soldier // Copy [tmsh:4|tmsc:1] [token]
-// 1 Elephant // Rhino [tmsc:12|tmsc:13] [token]
-// 1 Beast // Rhino [tmsc:11|tmsc:13] [token]
+Tokens
+3 Angel [tmsc:4] // Vibranium [tmsc:15] [token]
+1 The Monarch [tmsc:16] // Vibranium [tmsc:15] [token]
+2 Soldier [tmsh:4] // Goat [tmsc:6] [token]
+2 Soldier [tmsh:4] // Copy [tmsc:1] [token]
+1 Elephant [tmsc:12] // Rhino [tmsc:13] [token]
+1 Beast [tmsc:11] // Rhino [tmsc:13] [token]

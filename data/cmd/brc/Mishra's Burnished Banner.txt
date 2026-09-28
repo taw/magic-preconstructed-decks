@@ -95,13 +95,13 @@ COMMANDER: 1 Mishra, Eminent One [BRC:1] [foil]
 Display Commander
 1 Mishra, Eminent One [BRC:39] [foil] [etched]
 
-// Tokens
-// 1 Servo // Eldrazi [tbrc:13|tbrc:2] [token]
-// 1 Servo // Powerstone [tbrc:13|tbro:7] [token]
-// 1 Mishra's Warform // Inkling [tbrc:9|tbrc:7] [token]
-// 1 Copy // Inkling [tbrc:1|tbrc:7] [token]
-// 2 Copy // Powerstone [tbrc:1|tbro:7] [token]
-// 1 Scrap // Phyrexian Myr [tbrc:12|tbrc:5] [token]
-// 1 Scrap // Powerstone [tbrc:12|tbro:7] [token]
-// 1 Construct // Goat [tbrc:8|tbrc:3] [token] 
-// 1 Construct // Phyrexian Myr [tbrc:8|tbrc:5] [token]
+Tokens
+1 Servo [tbrc:13] // Eldrazi [tbrc:2] [token]
+1 Servo [tbrc:13] // Powerstone [tbro:7] [token]
+1 Mishra's Warform [tbrc:9] // Inkling [tbrc:7] [token]
+1 Copy [tbrc:1] // Inkling [tbrc:7] [token]
+2 Copy [tbrc:1] // Powerstone [tbro:7] [token]
+1 Scrap [tbrc:12] // Phyrexian Myr [tbrc:5] [token]
+1 Scrap [tbrc:12] // Powerstone [tbro:7] [token]
+1 Construct [tbrc:8] // Goat [tbrc:3] [token]
+1 Construct [tbrc:8] // Phyrexian Myr [tbrc:5] [token]

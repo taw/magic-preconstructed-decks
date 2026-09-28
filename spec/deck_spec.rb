@@ -126,6 +126,41 @@ RSpec.describe Deck do
     it "rejects lines that are only annotations" do
       expect { cards("1 [m20:277]\n") }.to raise_error(/cannot parse line "1 \[m20:277\]"/)
     end
+
+    describe "double-sided tokens" do
+      it "joins two printings like the card name" do
+        expect(cards("2 Human Soldier [tiko:3] // Zombie [tc20:9] [token]\n")).to eq([
+          {name: "Human Soldier // Zombie", count: 2, set: "tiko // tc20", number: "3 // 9", token: true},
+        ])
+      end
+
+      it "does not care where the printings are" do
+        expect(cards("5 Human // Treasure [token] [tc20:4] [tc20:19] [foil]\n")).to eq([
+          {name: "Human // Treasure", count: 5, set: "tc20 // tc20", number: "4 // 19", foil: true, token: true},
+        ])
+      end
+
+      it "accepts printings without numbers" do
+        expect(cards("1 Inkling [tstx] // Treasure [tsnc] [token]\n")).to eq([
+          {name: "Inkling // Treasure", count: 1, set: "tstx // tsnc", token: true},
+        ])
+        expect(cards("1 Inkling [tstx:4] // Treasure [tsnc] [token]\n")).to eq([
+          {name: "Inkling // Treasure", count: 1, set: "tstx // tsnc", number: "4 // ", token: true},
+        ])
+      end
+
+      it "rejects two printings for non-tokens" do
+        expect { cards("1 Fire [m20:1] // Ice [m20:2]\n") }.to raise_error(/two printings are only allowed for tokens/)
+      end
+
+      it "rejects two printings without a two-faced name" do
+        expect { cards("1 Human [tc20:4] [tc20:19] [token]\n") }.to raise_error(/two printings require a two-faced name/)
+      end
+
+      it "rejects three or more printings" do
+        expect { cards("1 Human [tc20:4] // Treasure [tc20:19] [tc20:20] [token]\n") }.to raise_error(/too many printings/)
+      end
+    end
   end
 
   describe "sections" do
@@ -149,6 +184,8 @@ RSpec.describe Deck do
         1 Akoum
         Scheme Deck
         1 A Display of My Dark Power
+        Tokens
+        1 Soldier [token]
       DECK
       expect(deck.sections).to eq(
         "Commander" => [{name: "Atraxa, Praetors' Voice", count: 1}],
@@ -157,6 +194,7 @@ RSpec.describe Deck do
         "Display Commander" => [{name: "Kenrith, the Returned King", count: 1}],
         "Planar Deck" => [{name: "Akoum", count: 1}],
         "Scheme Deck" => [{name: "A Display of My Dark Power", count: 1}],
+        "Tokens" => [{name: "Soldier", count: 1, token: true}],
       )
     end
 
