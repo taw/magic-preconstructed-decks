@@ -93,9 +93,13 @@ COMMANDER: 1 Yennett, Cryptic Sovereign [SLD:2121] [foil]
 4 Island [SLD:2117] [foil]
 4 Swamp [SLD:2118] [foil]
 
+// FIXME:
+// I don't know which Treasure token is the correct one, but I don't want to add support
+// for double sided tokens without card numbers just for this.
+// Update this once we have more information.
 Tokens
 2 Slug [tvow:6] // Copy [tblc:1] [token]
-2 Inkling [tstx:4] // Treasure [tsnc] [token]
+2 Inkling [tstx:4] // Treasure [tsnc:13] [token]
 1 Tentacle [tmkc:9] // Illusion [tm3c:6] [token]
 1 Tentacle [tmkc:9] // Frog Lizard [tlcc:13] [token]
 1 Tentacle [tmkc:9] // Copy [tblc:1] [token]
