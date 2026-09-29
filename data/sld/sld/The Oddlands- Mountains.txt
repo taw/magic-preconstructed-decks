@@ -1,0 +1,8 @@
+// NAME: The Oddlands: Mountains
+// SOURCE: https://secretlair.wizards.com/us/product/1246210
+// DATE: 2026-09-29
+1 [SLD:2116] Plains
+1 [SLD:2117] Island
+1 [SLD:2118] Swamp
+1 [SLD:2119] Mountain
+1 [SLD:2120] Forest
