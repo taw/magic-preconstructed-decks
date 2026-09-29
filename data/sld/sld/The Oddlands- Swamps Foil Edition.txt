@@ -1,0 +1,8 @@
+// NAME: The Oddlands: Swamps Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1246213
+// DATE: 2026-09-29
+1 [SLD:2116] Plains [foil]
+1 [SLD:2117] Island [foil]
+1 [SLD:2118] Swamp [foil]
+1 [SLD:2119] Mountain [foil]
+1 [SLD:2120] Forest [foil]
