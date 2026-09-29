@@ -92,3 +92,15 @@ COMMANDER: 1 Trostani, Selesnya's Voice [SLD:2429] [foil]
 
 Display Commander
 1 Trostani, Selesnya's Voice [SLD:2443] [foil]
+
+Tokens
+1 Phyrexian Minion [SLD:2446] // Angel [PLST:TLCI-2] [token]
+1 Phyrexian Minion [SLD:2446] // Pegasus [PLST:TKHC-3] [token]
+1 Citizen [PLST:TSNC-12] // Angel [PLST:TMH3-3] [token]
+1 Citizen [PLST:TSNC-12] // Dinosaur [PLST:TMOM-7] [token]
+1 Eldrazi [PLST:TM3C-1] // Elf Warrior [PLST:T2XM-21] [token]
+1 Vampire [PLST:TMOM-3] // Horse [PLST:THOU-10] [token]
+1 Vampire [PLST:TMOM-3] // Elemental [PLST:TRTR-12] [token]
+1 Treasure [PLST:TBLB-29] // Spider [PLST:TNCC-29] [token]
+1 Fanatic of Rhonas [PLST:TMH3-15] // Elemental [PLST:T2XM-20] [token]
+1 Pest [PLST:TBLC-34] // Angel [PLST:TMH3-3] [token]
