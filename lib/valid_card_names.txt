@@ -3312,6 +3312,7 @@ Boareskyr Tollkeeper
 Boartusk Liege
 Bob the Claymore
 Bob, Reluctant HYDRA Agent
+Bobby, Another Dwarf
 Body Count
 Body Double
 Body Dropper
@@ -4127,6 +4128,7 @@ Byway Barterer
 Byway Courier
 Bösium Strip
 C.A.M.P.
+CGI Fight Sequence
 Cabal Archon
 Cabal Coffers
 Cabal Conditioning
@@ -9111,6 +9113,7 @@ Emeria Shepherd
 Emeria's Call
 Emeria, Shattered Skyclave
 Emeria, the Sky Ruin
+Emerin, Shivan Angel
 Emeritus of Abundance
 Emeritus of Conflict
 Emeritus of Ideation
@@ -14637,6 +14640,7 @@ I Call on the Ancient Magics
 I Delight in Your Convulsions
 I Know All, I See All
 I Will Savor Your Agony
+I'm Going On An Adventure!
 I'm Rubber, You're Glue
 I'm a Doctor, Not a . . .
 Ian Chesterton
@@ -20135,6 +20139,7 @@ Mysterio's Phantasm
 Mysterio, Master of Illusion
 Mysterious Confluence
 Mysterious Egg
+Mysterious Hero
 Mysterious Limousine
 Mysterious Pathlighter
 Mysterious Stranger
@@ -20769,6 +20774,7 @@ Nissa, Worldsoul Speaker
 Nissa, Worldwaker
 Nita, Forum Conciliator
 Niv-Mizzet Reborn
+Niv-Mizzet's Diary
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, Ghost Counsel
 Niv-Mizzet, Guildpact
@@ -24996,6 +25002,7 @@ Rob the Hoard
 Robaran Mercenaries
 Robber Fly
 Robber of the Rich
+Robby, Another Dwarf
 Robe of Mirrors
 Robe of Stars
 Robe of the Archmagi
@@ -28771,6 +28778,7 @@ Splintering Wind
 Split Decision
 Split Screen
 Split Up
+Split into Three Parts
 Split the Party
 Split the Spoils
 Split-Tail Miko
@@ -30385,6 +30393,7 @@ Tar Pit Warrior
 Tar Pitcher
 Tar Snare
 Taranika, Akroan Veteran
+Tarelily, Lovestruck Archer
 Tarfire
 Targ Nar, Demon-Fang Gnoll
 Target Minotaur
@@ -31067,6 +31076,7 @@ The Fish Brewer
 The Five Doctors
 The Five Stages of Grief
 The Flame of Keld
+The Flavormancer
 The Flesh Is Weak
 The Flood of Mars
 The Flux
@@ -31081,6 +31091,7 @@ The Fugitive Doctor
 The Gaffer
 The Game-Changing Host
 The General
+The Generational Historian
 The Ghoul, Gunslinger
 The Girl in the Fireplace
 The Gitrog Monster
@@ -31169,6 +31180,7 @@ The Legend of Kyoshi
 The Legend of Roku
 The Legend of Yangchen
 The Lion-Turtle
+The Local Guides
 The Locust God
 The Lonely Mountain
 The Long Reach of Night
@@ -31203,6 +31215,7 @@ The Matrix of Time
 The Meathook Massacre
 The Mechanist, Aerial Artisan
 The Meep
+The Meld Hound
 The Mending of Dominaria
 The Mightstone and Weakstone
 The Mighty Thor, Jane Foster
@@ -31342,6 +31355,7 @@ The Superlatorium (d)
 The Superlatorium (e)
 The Superlatorium (f)
 The Surgical Bay
+The Swamp Kitten
 The Swarmlord
 The Swarmweaver
 The Tabernacle at Pendrell Vale
@@ -34825,6 +34839,7 @@ Wheel of Fate
 Wheel of Fortune
 Wheel of Fortune (Prepared)
 Wheel of Misfortune
+Wheel of Not Ideal
 Wheel of Potential
 Wheel of Sun and Moon
 Wheel of Torture
