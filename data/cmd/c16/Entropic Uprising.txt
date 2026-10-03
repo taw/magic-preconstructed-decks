@@ -88,3 +88,9 @@ COMMANDER: 1 Yidris, Maelstrom Wielder [foil]
 
 Display Commander
 1 Yidris, Maelstrom Wielder [oc16] [foil]
+
+// SOURCE: https://mtg.wiki/page/Commander_2016/Entropic_Uprising
+Sideboard
+2 Zombie [tc16:11] // Elf Warrior [tc16:15] [token]
+3 Zombie [tc16:11] // Goblin [tc16:12] [token]
+5 Zombie [tc16:11] // Worm [tc16:18] [token]
