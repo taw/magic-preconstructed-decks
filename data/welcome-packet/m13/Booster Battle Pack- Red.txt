@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Red
+// SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
+// DATE: 2012-07-13
+1 Bladetusk Boar [M13]
+1 Trumpet Blast [M13]
+1 Volcanic Strength [M13]
+1 Krenko's Command [M13]
+1 Arms Dealer [M13]
+5 Mountain [M13:*]

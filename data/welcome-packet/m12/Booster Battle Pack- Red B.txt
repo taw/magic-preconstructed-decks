@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Red B
+// SOURCE: https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/
+// DATE: 2011-07-15
+1 Blood Ogre [M12]
+1 Goblin Fireslinger [M12]
+1 Lava Axe [M12]
+1 Shock [M12]
+1 Stormblood Berserker [M12]
+5 Mountain [M12:*]
