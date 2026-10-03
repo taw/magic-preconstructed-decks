@@ -1,0 +1,16 @@
+// NAME: Ravnica Allegiance Mythic Edition
+// SOURCE: https://mtg.wiki/wiki/Ravnica_Allegiance/Mythic_Edition
+// DATE: 2019-05-03
+1 Karn, Scion of Urza [MED:RA1] [foil]
+1 Tamiyo, the Moon Sage [MED:RA2] [foil]
+1 Sorin Markov [MED:RA3] [foil]
+1 Jaya Ballard [MED:RA4] [foil]
+1 Ajani, Mentor of Heroes [MED:RA5] [foil]
+1 Dack Fayden [MED:RA6] [foil]
+1 Domri, Chaos Bringer [MED:RA7] [foil]
+1 Kaya, Orzhov Usurper [MED:RA8] [foil]
+1 Construct [TMED:R1] [token]
+1 Dack Fayden Emblem [TMED:R2] [token]
+1 Domri, Chaos Bringer Emblem [TMED:R3] [token]
+1 Jaya Ballard Emblem [TMED:R4] [token]
+1 Tamiyo, the Moon Sage Emblem [TMED:R5] [token]
