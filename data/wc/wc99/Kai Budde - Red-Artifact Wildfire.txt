@@ -1,5 +1,6 @@
 // NAME: Kai Budde - Red-Artifact Wildfire
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1999
+// Blank-card variants: https://www.magiclibrarities.net/576-rarities-world-championships-decks-support-cards-english-cards-1999.html
 // DATE: 1999-08-04
 4 Covetous Dragon
 1 Karn, Silver Golem
@@ -31,3 +32,5 @@ Sideboard
 1 1999 World Championships Ad [WC99:0] [token]
 1 Kai Budde Bio [WC99:kb0a] [token]
 1 Kai Budde Decklist [WC99:kb0b] [token]
+11 Blank Card [WC99:00a] [token]
+1 Blank Card [WC99:00b] [token]
