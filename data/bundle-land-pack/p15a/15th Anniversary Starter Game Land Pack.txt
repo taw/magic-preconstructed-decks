@@ -1,0 +1,22 @@
+// NAME: 15th Anniversary Starter Game Land Pack
+// SOURCE: https://www.mtgsalvation.com/forums/magic-fundamentals/the-rumor-mill/226220-ala-basic-lands-revealed?page=2
+// DATE: -
+// Ten Alara preview lands identified in the original opening photographs.
+// The other ten cards are Tenth Edition basics. Two of each type and
+// [10E:*] follow the starter land-pack convention; their physical type/art
+// allocation is not verified. Sources disagree on June 20 versus June 25, 2008.
+1 Plains [ALA:231]
+1 Plains [ALA:232]
+1 Island [ALA:235]
+1 Island [ALA:236]
+1 Swamp [ALA:239]
+1 Swamp [ALA:240]
+1 Mountain [ALA:243]
+1 Mountain [ALA:244]
+1 Forest [ALA:247]
+1 Forest [ALA:248]
+2 Plains [10E:*]
+2 Island [10E:*]
+2 Swamp [10E:*]
+2 Mountain [10E:*]
+2 Forest [10E:*]
