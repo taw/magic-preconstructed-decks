@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Green
+// SOURCE: https://www.ertailements.com/2012/08/magic-2013-booster-battle-pack-review/
+// DATE: 2012-07-13
+1 Deadly Recluse [M13]
+1 Ranger's Path [M13]
+1 Spiked Baloth [M13]
+1 Bountiful Harvest [M13]
+1 Duskdale Wurm [M13]
+5 Forest [M13:*]

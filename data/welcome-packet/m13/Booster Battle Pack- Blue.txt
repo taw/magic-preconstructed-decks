@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Blue
+// SOURCE: https://www.ertailements.com/2012/08/magic-2013-booster-battle-pack-review/
+// DATE: 2012-07-13
+1 Welkin Tern [M13]
+1 Archaeomancer [M13]
+1 Hydrosurge [M13]
+1 Merfolk of the Pearl Trident [M13]
+1 Talrand's Invocation [M13]
+5 Island [M13:*]
