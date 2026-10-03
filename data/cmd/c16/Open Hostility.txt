@@ -92,3 +92,7 @@ COMMANDER: 1 Saskia the Unyielding [foil]
 
 Display Commander
 1 Saskia the Unyielding [oc16] [foil]
+
+// SOURCE: https://mtg.wiki/page/Commander_2016/Open_Hostility
+Sideboard
+10 Saproling [tc16:16] // Saproling [tc16:17] [token]

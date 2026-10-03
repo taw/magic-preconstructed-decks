@@ -87,3 +87,21 @@
 1 Velis Vel [opca]
 1 Windriddle Palaces [opca]
 1 The Zephyr Maze [opca]
+
+// SOURCE: https://mtg.wiki/page/Planechase_Anthology
+// Shared box tokens, including those created by the planar cards.
+Sideboard
+1 Eldrazi [tpca:1] // Eldrazi Spawn [tpca:2] [token]
+1 Eldrazi [tpca:1] // Eldrazi Spawn [tpca:3] [token]
+1 Eldrazi [tpca:1] // Eldrazi Spawn [tpca:4] [token]
+3 Angel [tpca:5] // Saproling [tpca:19] [token]
+6 Goat [tpca:6] // Insect [tpca:15] [token]
+2 Germ [tpca:7] // Goblin [tpca:11] [token]
+1 Spider [tpca:8] // Saproling [tpca:19] [token]
+4 Zombie [tpca:9] // Hellion [tpca:12] [token]
+3 Dragon [tpca:10] // Saproling [tpca:19] [token]
+2 Goblin [tpca:11] // Boar [tpca:14] [token]
+6 Goblin [tpca:11] // Saproling [tpca:19] [token]
+1 Beast [tpca:13] // Saproling [tpca:19] [token]
+2 Ooze [tpca:16] // Ooze [tpca:17] [token]
+2 Ooze [tpca:16] // Plant [tpca:18] [token]

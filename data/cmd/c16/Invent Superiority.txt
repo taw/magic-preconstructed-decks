@@ -90,3 +90,11 @@ COMMANDER: 1 Breya, Etherium Shaper [foil]
 
 Display Commander
 1 Breya, Etherium Shaper [oc16] [foil]
+
+// SOURCE: https://mtg.wiki/page/Commander_2016/Invent_Superiority
+Sideboard
+1 Thopter [tc16:9] // Horror [tc16:19] [token]
+4 Bird [tc16:2] // Myr [tc16:20] [token]
+2 Thopter [tc16:9] // Goat [tc16:4] [token]
+2 Thopter [tc16:9] // Germ [tc16:10] [token]
+1 Thopter [tc16:9] // Daretti, Scrap Savant Emblem [tc16:21] [token]
