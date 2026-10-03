@@ -1,0 +1,18 @@
+// NAME: Booster Battle Pack: Rakdos
+// SOURCE: https://www.youtube.com/watch?v=DKQh8yr2STI&t=320s
+// DATE: 2012-10-05
+// Basic-land artwork allocation uses the existing Gatecrash Battle Pack convention.
+1 Grim Roustabout
+1 Splatter Thug
+1 Traitorous Instinct
+1 Explosive Impact
+1 Thrill-Kill Assassin
+1 Deviant Glee
+1 Bellows Lizard
+1 Auger Spree
+1 Rakdos Ringleader
+1 Rakdos Shred-Freak
+1 Catacomb Slug
+1 Rakdos Guildgate
+5 Swamp [RTR:*]
+5 Mountain [RTR:*]

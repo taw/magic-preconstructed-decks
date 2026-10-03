@@ -1,0 +1,18 @@
+// NAME: Booster Battle Pack: Selesnya
+// SOURCE: https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/330873-m13-rtr-booster-battle-pack-card-list-please
+// DATE: 2012-10-05
+// Basic-land artwork allocation uses the existing Gatecrash Battle Pack convention.
+1 Heroes' Reunion
+1 Phantom General
+1 Coursers' Accord
+1 Sundering Growth
+1 Seller of Songbirds
+1 Knightly Valor
+1 Trostani's Judgment
+1 Centaur's Herald
+1 Axebane Stag
+1 Druid's Deliverance
+1 Chorus of Might
+1 Selesnya Guildgate
+5 Plains [RTR:*]
+5 Forest [RTR:*]
