@@ -437,6 +437,12 @@ welcome:
   name: "Welcome Deck"
   sections:
     Main Deck: [30, 40]
+welcome-packet:
+  category: "deck"
+  format: null
+  name: "Booster Battle Pack Packet"
+  sections:
+    Main Deck: 10
 welcome-std:
   category: "deck"
   format: "casual standard"
