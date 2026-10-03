@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Green B
+// SOURCE: https://www.ertailements.com/2011/08/magic-2012-booster-battle-pack-review/
+// DATE: 2011-07-15
+1 Giant Spider [M12]
+1 Greater Basilisk [M12]
+1 Sacred Wolf [M12]
+1 Trollhide [M12]
+1 Lure [M12]
+5 Forest [M12:*]

@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: White A
+// SOURCE: https://www.ertailements.com/2011/08/magic-2012-booster-battle-pack-review/
+// DATE: 2011-07-15
+1 Armored Warhorse [M12]
+1 Divine Favor [M12]
+1 Pride Guardian [M12]
+1 Siege Mastodon [M12]
+1 Serra Angel [M12]
+5 Plains [M12:*]

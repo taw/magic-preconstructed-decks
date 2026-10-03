@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: White B
+// SOURCE: https://www.ertailements.com/2011/08/magic-2012-booster-battle-pack-review/
+// DATE: 2011-07-15
+1 Angel's Mercy [M12]
+1 Griffin Rider [M12]
+1 Griffin Sentinel [M12]
+1 Peregrine Griffin [M12]
+1 Roc Egg [M12]
+5 Plains [M12:*]

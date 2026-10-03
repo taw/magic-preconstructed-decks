@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Blue A
+// SOURCE: https://www.ertailements.com/2011/08/magic-2012-booster-battle-pack-review/
+// DATE: 2011-07-15
+1 Aether Adept [M12]
+1 Amphin Cutthroat [M12]
+1 Coral Merfolk [M12]
+1 Jace's Erasure [M12]
+1 Belltower Sphinx [M12]
+5 Island [M12:*]
