@@ -1,0 +1,10 @@
+// NAME: Booster Battle Pack: White B
+// SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
+// DATE: 2012-07-13
+// Packet scan: battle-pack-4-enclosed.jpg; basic-land artwork uses the existing wildcard convention.
+1 Warclamp Mastiff [M13]
+1 Divine Favor [M13]
+1 Guardians of Akrasa [M13]
+1 Aven Squire [M13]
+1 Serra Angel [M13]
+5 Plains [M13:*]
