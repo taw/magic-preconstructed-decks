@@ -1,0 +1,18 @@
+// NAME: Booster Battle Pack: Azorius
+// SOURCE: https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/330873-m13-rtr-booster-battle-pack-card-list-please
+// DATE: 2012-10-05
+// Basic-land artwork allocation uses the existing Gatecrash Battle Pack convention.
+1 New Prahv Guildmage
+1 Soulsworn Spirit
+1 Vassal Soul
+1 Search Warrant
+1 Armory Guard
+1 Azorius Arrester
+1 Ethereal Armor
+1 Swift Justice
+1 Cancel
+1 Chronic Flooding
+1 Isperia's Skywatch
+1 Azorius Guildgate
+5 Plains [RTR:*]
+5 Island [RTR:*]
