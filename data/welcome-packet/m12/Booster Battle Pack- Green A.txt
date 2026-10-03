@@ -1,0 +1,9 @@
+// NAME: Booster Battle Pack: Green A
+// SOURCE: https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/
+// DATE: 2011-07-15
+1 Garruk's Companion [M12]
+1 Gladecover Scout [M12]
+1 Plummet [M12]
+1 Stampeding Rhino [M12]
+1 Overrun [M12]
+5 Forest [M12:*]
