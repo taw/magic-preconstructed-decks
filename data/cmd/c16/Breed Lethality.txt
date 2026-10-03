@@ -87,3 +87,10 @@ COMMANDER: 1 Atraxa, Praetors' Voice [foil]
 
 Display Commander
 1 Atraxa, Praetors' Voice [oc16] [foil]
+
+// SOURCE: https://mtg.wiki/page/Commander_2016/Breed_Lethality
+Sideboard
+1 Germ [tc16:10] // Spirit [tc16:6] [token]
+3 Bird [tc16:2] // Saproling [tc16:16] [token]
+1 Bird [tc16:2] // Spirit [tc16:6] [token]
+5 Saproling [tc16:16] // Spirit [tc16:6] [token]

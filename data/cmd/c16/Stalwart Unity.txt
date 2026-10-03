@@ -88,3 +88,12 @@ COMMANDER: 1 Kynaios and Tiro of Meletis [foil]
 
 Display Commander
 1 Kynaios and Tiro of Meletis [oc16] [foil]
+
+// SOURCE: https://mtg.wiki/page/Commander_2016/Stalwart_Unity
+// The packaged white Spirits replace the Birds needed by Migratory Route.
+Sideboard
+2 Soldier [tc16:5] // Elemental [tc16:3] [token]
+2 Soldier [tc16:5] // Squid [tc16:8] [token]
+4 Spirit [tc16:1] // Spirit [tc16:6] [token]
+1 Bird [tc16:7] // Ogre [tc16:13] [token]
+1 Beast [tc16:14] // Ogre [tc16:13] [token]
