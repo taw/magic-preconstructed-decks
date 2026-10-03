@@ -1,0 +1,14 @@
+// NAME: War of the Spark Mythic Edition
+// SOURCE: https://mtg.wiki/wiki/War_of_the_Spark/Mythic_Edition
+// DATE: 2019-05-03
+1 Ugin, the Spirit Dragon [MED:WS1] [foil]
+1 Gideon Blackblade [MED:WS2] [foil]
+1 Jace, the Mind Sculptor [MED:WS3] [foil]
+1 Tezzeret the Seeker [MED:WS4] [foil]
+1 Garruk, Apex Predator [MED:WS5] [foil]
+1 Nicol Bolas, Dragon-God [MED:WS6] [foil]
+1 Nahiri, the Harbinger [MED:WS7] [foil]
+1 Sarkhan Unbroken [MED:WS8] [foil]
+1 Beast [TMED:W1] [token]
+1 Dragon [TMED:W2] [token]
+1 Garruk, Apex Predator Emblem [TMED:W3] [token]
