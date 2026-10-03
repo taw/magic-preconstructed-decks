@@ -1,0 +1,19 @@
+// NAME: Guilds of Ravnica Mythic Edition
+// SOURCE: https://mtg.wiki/wiki/Guilds_of_Ravnica/Mythic_Edition
+// DATE: 2018-11-02
+1 Elspeth, Knight-Errant [MED:GR1] [foil]
+1 Liliana, the Last Hope [MED:GR2] [foil]
+1 Daretti, Ingenious Iconoclast [MED:GR3] [foil]
+1 Nicol Bolas, Planeswalker [MED:GR4] [foil]
+1 Ral, Izzet Viceroy [MED:GR5] [foil]
+1 Teferi, Hero of Dominaria [MED:GR6] [foil]
+1 Tezzeret, Agent of Bolas [MED:GR7] [foil]
+1 Vraska, Golgari Queen [MED:GR8] [foil]
+1 Angel [TGRN:T1] [token]
+1 Soldier [TGRN:T2] [token]
+1 Bird Illusion [TGRN:T3] [token]
+1 Goblin [TGRN:T4] [token]
+1 Insect [TGRN:T5] [token]
+1 Elf Knight [TGRN:T6] [token]
+1 Ral, Izzet Viceroy Emblem [TGRN:T7] [token]
+1 Vraska, Golgari Queen Emblem [TGRN:T8] [token]
