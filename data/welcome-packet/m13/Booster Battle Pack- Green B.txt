@@ -1,7 +1,7 @@
 // NAME: Booster Battle Pack: Green B
 // SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
 // DATE: 2012-07-13
-// Packet scan: inner-pack-2-2.jpg and inner-pack-2-3-1.jpg; basic-land artwork uses the existing wildcard convention.
+// Pack scan: inner-pack-2-2.jpg and inner-pack-2-3-1.jpg; basic-land artwork uses the existing wildcard convention.
 1 Fog [M13]
 1 Bond Beetle [M13]
 1 Vastwood Gorger [M13]
