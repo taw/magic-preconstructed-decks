@@ -1,7 +1,7 @@
 // NAME: Booster Battle Pack: Blue B
 // SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
 // DATE: 2012-07-13
-// Packet scan: battle-pack-4-enclosed.jpg; basic-land artwork uses the existing wildcard convention.
+// Pack scan: battle-pack-4-enclosed.jpg; basic-land artwork uses the existing wildcard convention.
 1 Unsummon [M13]
 1 Downpour [M13]
 1 Vedalken Entrancer [M13]
