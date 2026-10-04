@@ -1,7 +1,7 @@
 // NAME: Booster Battle Pack: Black B
 // SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
 // DATE: 2012-07-13
-// Packet scan: inner-pack-2-2.jpg and inner-pack-2-3-2.jpg; basic-land artwork uses the existing wildcard convention.
+// Pack scan: inner-pack-2-2.jpg and inner-pack-2-3-2.jpg; basic-land artwork uses the existing wildcard convention.
 1 Tormented Soul [M13]
 1 Dark Favor [M13]
 1 Crippling Blight [M13]

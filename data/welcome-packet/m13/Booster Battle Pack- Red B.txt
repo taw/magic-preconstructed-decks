@@ -1,7 +1,7 @@
 // NAME: Booster Battle Pack: Red B
 // SOURCE: https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html
 // DATE: 2012-07-13
-// Packet scan: inner-pack-1-2.jpg; basic-land artwork uses the existing wildcard convention.
+// Pack scan: inner-pack-1-2.jpg; basic-land artwork uses the existing wildcard convention.
 1 Kindled Fury [M13]
 1 Wall of Fire [M13]
 1 Canyon Minotaur [M13]
