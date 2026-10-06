@@ -73,8 +73,8 @@ COMMANDER: 1 Lathliss, Dragon Queen [FDC:7] [foil]
 16 Mountain [FDN:279]
 
 Sideboard
-5 Treasure // Dragon (5/5) [token]
-2 Treasure // Dragon (6/6) [token]
-1 Treasure // Dragon (4/4) [token]
-1 Dragon (6/6) // Dragon (5/5) [token]
-1 Treasure // The Monarch (helper) [token]
+5 Treasure [TFDC:16] // Dragon [TFDC:8] [token]
+2 Treasure [TFDC:16] // Dragon [TFDC:9] [token]
+1 Treasure [TFDC:16] // Dragon [TFDC:7] [token]
+1 Dragon [TFDC:9] // Dragon [TFDC:8] [token]
+1 Treasure [TFDC:16] // The Monarch [TFDC:17] [token]
