@@ -73,7 +73,7 @@ COMMANDER: 1 Ghalta, Primal Hunger [FDC:8] [foil]
 16 Forest [FDN:281]
 
 Sideboard
-4 Beast // Spider [token]
-3 Phyrexian Beast // Spider [token]
-2 Phyrexian Beast // Beast [token]
-1 Phyrexian Beast // Phyrexian Germ [token]
+4 Beast [TFDC:10] // Spider [TFDC:12] [token]
+3 Phyrexian Beast [TFDC:11] // Spider [TFDC:12] [token]
+2 Phyrexian Beast [TFDC:11] // Beast [TFDC:10] [token]
+1 Phyrexian Beast [TFDC:11] // Phyrexian Germ [TFDC:4] [token]

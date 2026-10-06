@@ -72,5 +72,5 @@ COMMANDER: 1 Ghoulcaller Gisa [FDC:6] [foil]
 16 Swamp [FDN:277]
 
 Sideboard
-8 Zombie // Zombie Knight [token]
-2 Zombie // The Monarch (helper) [token]
+8 Zombie [TFDC:5] // Zombie Knight [TFDC:6] [token]
+2 Zombie [TFDC:5] // The Monarch [TFDC:17] [token]
