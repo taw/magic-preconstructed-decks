@@ -1,0 +1,12 @@
+// NAME: The Helvault Promo Box
+// SOURCE: https://www.magiclibrarities.net/830-rarities-helvault-oversized-promos-english-cards-index.html
+// DATE: 2012-04-28
+// COMMENTS: Partial oversized inventory for an ordinary nonfoil Helvault: 54 oversized cards total, but only one of each identity is mapped until the remaining 49 copies can be allocated. The 108 physical double-sided tokens are fully mapped. Premium Helvaults are not represented by this list.
+1 Avacyn, Angel of Hope [PHEL:6]
+1 Griselbrand [PHEL:106]
+1 Bruna, Light of Alabaster [PHEL:208]
+1 Gisela, Blade of Goldnight [PHEL:209]
+1 Sigarda, Host of Herons [PHEL:210]
+
+Sideboard
+108 Angel [PHEL:1★a] // Demon [PHEL:1★b] [token]
