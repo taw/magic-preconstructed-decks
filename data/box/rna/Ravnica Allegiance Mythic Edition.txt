@@ -1,6 +1,7 @@
 // NAME: Ravnica Allegiance Mythic Edition
+// SOURCE: https://magic.wizards.com/en/news/announcements/ravnica-allegiance-mythic-edition-2019-01-10
 // SOURCE: https://mtg.wiki/wiki/Ravnica_Allegiance/Mythic_Edition
-// DATE: 2019-05-03
+// DATE: 2019-01-24
 1 Karn, Scion of Urza [MED:RA1] [foil]
 1 Tamiyo, the Moon Sage [MED:RA2] [foil]
 1 Sorin Markov [MED:RA3] [foil]
@@ -9,8 +10,11 @@
 1 Dack Fayden [MED:RA6] [foil]
 1 Domri, Chaos Bringer [MED:RA7] [foil]
 1 Kaya, Orzhov Usurper [MED:RA8] [foil]
-1 Construct [TMED:R1] [token]
+
+Sideboard
+2 Construct [TMED:R1] [token]
 1 Dack Fayden Emblem [TMED:R2] [token]
 1 Domri, Chaos Bringer Emblem [TMED:R3] [token]
 1 Jaya Ballard Emblem [TMED:R4] [token]
 1 Tamiyo, the Moon Sage Emblem [TMED:R5] [token]
+2 Beast [TRNA:8] [token]
