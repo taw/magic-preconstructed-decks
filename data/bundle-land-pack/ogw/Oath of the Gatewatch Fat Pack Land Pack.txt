@@ -1,10 +1,13 @@
 // NAME: Oath of the Gatewatch Fat Pack Land Pack
-// SOURCE: https://mtg.fandom.com/wiki/Oath_of_the_Gatewatch
+// SOURCE: https://www.youtube.com/watch?v=JpL2OmzxHXk&t=214s
 // DATE: 2016-01-22
 // Fat Pack land pack: 80 non-foil full-art basic lands. Oath of the Gatewatch
 // has no colored basics of its own, so the 66 colored lands are Battle for
 // Zendikar's full-art basics (#250-274); the 14 full-art Wastes are OGW's own
 // (#183/184). Listed explicitly since these are full-art printings.
+// COMMENTS: MTGGoldfish lays out seven copies of each Wastes art at 3:34.
+// The colored-land quantities below remain an unverified allocation of the
+// remaining 66 cards, not an observed per-art inventory.
 3 Plains [BFZ:250]
 3 Plains [BFZ:251]
 3 Plains [BFZ:252]
