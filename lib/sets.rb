@@ -437,6 +437,7 @@ MagicSets = {
   "pf27" => "MagicFest 2027",
   "pfdn" => "Foundations Promos",
   "pfin" => "Final Fantasy Promos",
+  "pfra" => "Reality Fracture Promos",
   "pfrf" => "Fate Reforged Promos",
   "pfut" => "Future Sight Promos",
   "pgpt" => "Guildpact Promos",
