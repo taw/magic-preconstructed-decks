@@ -1851,6 +1851,7 @@ Aurora Shifter
 Aurora of Emrakul
 Auroral Procession
 Auspicious Ancestor
+Auspicious Aquarium
 Auspicious Arrival
 Auspicious Starrix
 Austere Command
