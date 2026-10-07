@@ -73,8 +73,8 @@ COMMANDER: 1 Giada, Font of Hope [FDC:4] [foil]
 16 Plains [FDN:273]
 
 Sideboard
-4 Angel // Clue [token]
-3 Clue // Spirit [token]
-1 Angel // Angel (3/3) [token]
-1 Angel // Spirit [token]
-1 Angel // The Monarch (helper) [token]
+4 Angel [TFDC:2] // Clue [TFDC:13] [token]
+3 Clue [TFDC:13] // Spirit [TFDC:3] [token]
+1 Angel [TFDC:2] // Angel [TFDC:1] [token]
+1 Angel [TFDC:2] // Spirit [TFDC:3] [token]
+1 Angel [TFDC:2] // The Monarch [TFDC:17] [token]

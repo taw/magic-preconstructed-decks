@@ -71,6 +71,6 @@ COMMANDER: 1 Sai, Master Thopterist [FDC:5] [foil]
 17 Island [FDN:275]
 
 Sideboard
-8 Thopter // Myr [token]
-1 Thopter // Phyrexian Germ [token]
-1 Thopter // The Monarch (helper) [token]
+8 Thopter [TFDC:15] // Myr [TFDC:14] [token]
+1 Thopter [TFDC:15] // Phyrexian Germ [TFDC:4] [token]
+1 Thopter [TFDC:15] // The Monarch [TFDC:17] [token]
