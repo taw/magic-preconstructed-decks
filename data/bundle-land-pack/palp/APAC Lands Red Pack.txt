@@ -1,0 +1,9 @@
+// NAME: APAC Lands Red Pack
+// SOURCE: https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html
+// DATE: -
+// COMMENTS: Released 1998-09; exact day not documented.
+1 Forest [PALP:1]
+1 Island [PALP:2]
+1 Mountain [PALP:3]
+1 Plains [PALP:4]
+1 Swamp [PALP:5]

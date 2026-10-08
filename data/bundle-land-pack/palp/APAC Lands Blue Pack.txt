@@ -1,0 +1,9 @@
+// NAME: APAC Lands Blue Pack
+// SOURCE: https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html
+// DATE: -
+// COMMENTS: Released 1998-10; exact day not documented.
+1 Forest [PALP:6]
+1 Island [PALP:7]
+1 Mountain [PALP:8]
+1 Plains [PALP:9]
+1 Swamp [PALP:10]
