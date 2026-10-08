@@ -1,0 +1,9 @@
+// NAME: APAC Lands Clear Pack
+// SOURCE: https://www.magiclibrarities.net/44-rarities-apac-lands-english-cards-index.html
+// DATE: 1998-11-01
+// COMMENTS: Release month 1998-11 is documented; the first day is an estimate because the exact day is unknown.
+1 Forest [PALP:11]
+1 Island [PALP:12]
+1 Mountain [PALP:13]
+1 Plains [PALP:14]
+1 Swamp [PALP:15]
