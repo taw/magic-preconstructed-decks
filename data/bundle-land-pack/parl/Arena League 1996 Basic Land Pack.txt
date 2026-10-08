@@ -1,0 +1,9 @@
+// NAME: Arena League 1996 Basic Land Pack
+// SOURCE: https://www.magiclibrarities.net/1-rarities-arena-league-promos-english-english-cards-1996.html
+// DATE: 1996-08-02
+// COMMENTS: Factory-sealed ten-card pack, two of each Tony Roberts basic land.
+2 Plains [PARL:1]
+2 Island [PARL:2]
+2 Swamp [PARL:3]
+2 Mountain [PARL:4]
+2 Forest [PARL:5]
