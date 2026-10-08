@@ -1,0 +1,8 @@
+// NAME: Euro Lands Blue Pack
+// SOURCE: https://www.magiclibrarities.net/46-rarities-euro-lands-english-cards-index.html
+// DATE: 2000-02-05
+1 Forest [PELP:1]
+1 Island [PELP:2]
+1 Mountain [PELP:3]
+1 Plains [PELP:4]
+1 Swamp [PELP:5]
