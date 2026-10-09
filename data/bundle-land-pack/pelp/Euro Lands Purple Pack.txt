@@ -1,0 +1,8 @@
+// NAME: Euro Lands Purple Pack
+// SOURCE: https://www.magiclibrarities.net/46-rarities-euro-lands-english-cards-index.html
+// DATE: 2000-09-25
+1 Forest [PELP:11]
+1 Island [PELP:12]
+1 Mountain [PELP:13]
+1 Plains [PELP:14]
+1 Swamp [PELP:15]
