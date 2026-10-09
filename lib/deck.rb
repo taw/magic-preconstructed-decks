@@ -51,6 +51,7 @@ class Deck
       number = nil
       token = nil
       etched = nil
+      fullart = nil
 
       if card_name.sub!(/\[foil\]/i, "")
         foil = true
@@ -62,6 +63,10 @@ class Deck
 
       if card_name.sub!(/\[token\]/i, "")
         token = true
+      end
+
+      if card_name.sub!(/\[fullart\]/i, "")
+        fullart = true
       end
 
       # Remaining annotations are printings, either [set] or [set:number]
@@ -105,6 +110,7 @@ class Deck
         foil: foil,
         token: token,
         etched: etched,
+        fullart: fullart,
       )
     end
   end
