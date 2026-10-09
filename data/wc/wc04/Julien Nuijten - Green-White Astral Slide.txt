@@ -1,6 +1,8 @@
 // NAME: Julien Nuijten - Green-White Astral Slide
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2004
-// DATE: 2004-09-01
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 2004-11-26
+// COMMENTS: Retail release date follows Magic Librarities; adopted as the best available estimate, not the tournament date.
 4 Viridian Shaman
 4 Eternal Witness
 4 Eternal Dragon [WC04:jn12]

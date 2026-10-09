@@ -1,6 +1,8 @@
 // NAME: Brian Hacker - White Weenie
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1998
-// DATE: 1998-08-12
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 1998-09-01
+// COMMENTS: Retail release estimated as 1998-09-01 from the collector-listed month; exact day unknown. The source also marks the month for reverification.
 3 Nomads en-Kor
 3 Paladin en-Vec
 4 Soltari Monk

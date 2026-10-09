@@ -1,7 +1,9 @@
 // NAME: Matt Linde - Mono-Green Stompy
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1999
 // Blank-card variants: https://www.magiclibrarities.net/576-rarities-world-championships-decks-support-cards-english-cards-1999.html
-// DATE: 1999-08-04
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 1999-09-27
+// COMMENTS: Retail release date follows Magic Librarities; adopted as the best available estimate, not the tournament date.
 4 Albino Troll
 4 Elvish Lyrist
 4 Llanowar Elves

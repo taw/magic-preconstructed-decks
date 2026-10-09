@@ -1,6 +1,8 @@
 // NAME: Wolfgang Eder - Goblin Bidding
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2003
-// DATE: 2003-08-06
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 2003-10-27
+// COMMENTS: Retail release date follows Magic Librarities; adopted as the best available estimate, not the tournament date.
 3 Gempalm Incinerator
 1 Goblin Grappler
 4 Goblin Piledriver
