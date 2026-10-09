@@ -1,6 +1,8 @@
 // NAME: Carlos Romão - Psychatog
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/2002
-// DATE: 2002-08-14
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 2002-11-05
+// COMMENTS: Retail release date follows Magic Librarities; adopted as the best available estimate, not the tournament date.
 4 Nightscape Familiar
 4 Psychatog
 3 Circular Logic [WC02:cr33]
