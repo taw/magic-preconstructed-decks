@@ -1,4 +1,12 @@
 RSpec.describe Deck do
+  it "preserves full-art wildcard selection separately from regular lands" do
+    deck = parse_deck("// NAME: X\n2 Plains [BFZ:*] [fullart]\n1 Plains [BFZ:*]\n")
+    expect(deck.sections["Main Deck"]).to eq([
+      {name: "Plains", count: 2, set: "BFZ", number: "*", fullart: true},
+      {name: "Plains", count: 1, set: "BFZ", number: "*"},
+    ])
+  end
+
   describe "metadata" do
     it "parses all metadata lines" do
       deck = parse_deck(<<~DECK)
