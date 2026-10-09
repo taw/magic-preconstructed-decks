@@ -1,6 +1,8 @@
 // NAME: Ben Rubin - Sligh
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1998
-// DATE: 1998-08-12
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 1998-09-01
+// COMMENTS: Retail release estimated as 1998-09-01 from the collector-listed month; exact day unknown. The source also marks the month for reverification.
 4 Ball Lightning
 2 Goblin Vandal
 4 Ironclaw Orcs

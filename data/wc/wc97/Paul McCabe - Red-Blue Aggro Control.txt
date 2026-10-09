@@ -1,6 +1,8 @@
 // NAME: Paul McCabe - Red-Blue Aggro Control
 // SOURCE: https://mtg.wiki/wiki/World_Championship_Decks/1997
-// DATE: 1997-08-13
+// SOURCE: https://www.magiclibrarities.net/1166-rarities-world-championships-decks-cards-english-cards-index.html
+// DATE: 1997-09-01
+// COMMENTS: Retail release estimated as 1997-09-01 from the collector-listed month; exact day unknown.
 4 Cloud Elemental
 4 Man-o'-War [WC97:pm37b]
 4 Ophidian
