@@ -6759,12 +6759,14 @@ Dark Suspicions
 Dark Temper
 Dark Triumph
 Dark Tutelage
+Dark Tutor
 Dark Wings Bring Your Downfall
 Dark Withering
 Dark-Dweller Oracle
 Darkblade Agent
 Darkblast
 Darkbore Pathway
+Darkchild, Demon Uncaged
 Darkest Hour
 Darkheart Sliver
 Darklight Phoenix
@@ -11580,6 +11582,7 @@ Garenbrig Growth
 Garenbrig Paladin
 Garenbrig Squire
 Gargadon
+Gargantos, the Endbringer
 Gargantuan Gorilla
 Gargantuan Leech
 Gargantuan Slabhorn
@@ -13846,6 +13849,8 @@ Heirloom Epic
 Heirloom Mirror
 Heirs of Stromkirk
 Hekma Sentinels
+Hela's Arcanum
+Hela, Mistress of Darkness
 Helbrute
 Helga, Skittish Seer
 Helica Glider
@@ -18206,6 +18211,7 @@ MagicConsecrated Sphinx
 Magical Hack
 Magical Hacker
 Magicked Card
+Magik, Illyana Rasputin
 Magister Sphinx
 Magister of Worth
 Magistrate's Scepter
@@ -22056,6 +22062,7 @@ Pelia, Immortal Innovator
 Pelt Collector
 Pemmin's Aura
 Penance
+Penance Stare
 Pendant of Prosperity
 Pendelhaven
 Pendelhaven Elder
@@ -24852,6 +24859,7 @@ Rise
 Rise Again
 Rise and Shine
 Rise from the Grave
+Rise from the Nether
 Rise from the Tides
 Rise from the Wreck
 Rise of Eagles
@@ -25608,6 +25616,7 @@ Salvage Scout
 Salvage Scuttler
 Salvage Slasher
 Salvage Titan
+Salvaged Imitations
 Salvaged Manaworker
 Salvager of Ruin
 Salvager of Secrets
@@ -30627,6 +30636,7 @@ Temple of Cyclical Time
 Temple of Deceit
 Temple of Enlightenment
 Temple of Epiphany
+Temple of Khonshu
 Temple of Malady
 Temple of Malice
 Temple of Mystery
@@ -30999,6 +31009,7 @@ The Curve Keeper
 The Cyber-Controller
 The Dalek Emperor
 The Dark Barony
+The Darkhold
 The Darkness Crystal
 The Dawning Archaic
 The Day of the Doctor
