@@ -1,5 +1,5 @@
 // NAME: Time Spiral Timeshifted Foil Redemption
-// SOURCE: default database query
+// SOURCE: default database query; found boxes on sale https://spankyscardshop.com/products/tsp-time-spiral-time-shifted-mol-regular-complete-set-factory-sealed-mtg-magic-the-gathering
 // DATE: 2006-11-05
 1 Akroma, Angel of Wrath [TSB:1] [foil]
 1 Arena [TSB:117] [foil]
