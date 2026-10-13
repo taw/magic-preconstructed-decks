@@ -1,7 +1,7 @@
 // NAME: Artist Series: Véronique Meignaud
 // SOURCE: https://secretlair.wizards.com/us/product/1253730
 // DATE: 2026-12-14
-1 [SLD] Bloodsoaked Champion
-1 [SLD] Voldaren Pariah
-1 [SLD] Ashnod's Altar
-1 [SLD] Cabal Stronghold
+1 [SLD:1440] Bloodsoaked Champion
+1 [SLD:1441] Voldaren Pariah
+1 [SLD:1442] Ashnod's Altar
+1 [SLD:1443] Cabal Stronghold
