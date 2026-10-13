@@ -1,0 +1,9 @@
+// NAME: Marvel: Zombies
+// SOURCE: https://secretlair.wizards.com/us/product/1253720
+// DATE: 2026-12-14
+1 [SLD:2589] Unstoppable Slasher
+1 [SLD:2590] Zombie Apocalypse
+1 [SLD:2591] Vogar, Necropolis Tyrant
+1 [SLD:2592] God-Eternal Bontu
+1 [SLD:2593] Wilhelt, the Rotcleaver
+1 [SLD:2594] Varina, Lich Queen

@@ -1,0 +1,10 @@
+// NAME: KPop Demon Hunters: How It's Done
+// SOURCE: https://secretlair.wizards.com/us/product/1253722
+// DATE: 2026-12-14
+1 [SLD:2826] Dawn's Truce
+1 [SLD:2827] Unbreakable Formation
+1 [SLD:2828] Freed from the Real
+1 [SLD:2829] Swan Song
+1 [SLD:2830] Demonic Counsel
+1 [SLD:2831] Tempt with Immortality
+1 [SLD:2832] Underworld Breach

@@ -1,0 +1,10 @@
+// NAME: Jim Henson's Labyrinth: Through the Labyrinth
+// SOURCE: https://secretlair.wizards.com/us/product/1253728
+// DATE: 2026-12-14
+1 [SLD:2845] Timely Ward
+1 [SLD:2846] Chronomantic Escape
+1 [SLD:2847] Delayed Blast Fireball
+1 [SLD:2848] Tempt with Discovery
+1 [SLD:2849] Leveler
+1 [SLD:2850] Thran Temporal Gateway
+1 [SLD:2851] Rogue's Passage

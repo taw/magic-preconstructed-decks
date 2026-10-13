@@ -1,0 +1,9 @@
+// NAME: Jim Henson's Labyrinth: Fear Me, Love Me
+// SOURCE: https://secretlair.wizards.com/us/product/1253724
+// DATE: 2026-12-14
+1 [SLD:2833] Muxus, Goblin Grandee
+1 [SLD:2834] Boggart Shenanigans
+1 [SLD:2835] Dance with Calamity
+1 [SLD:2836] Goblin Rabblemaster
+1 [SLD:2837] Claim the Firstborn
+1 [SLD:2838] Trinisphere

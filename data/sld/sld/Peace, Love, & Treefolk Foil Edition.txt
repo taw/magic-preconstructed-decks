@@ -1,0 +1,8 @@
+// NAME: Peace, Love, & Treefolk Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253731
+// DATE: 2026-12-14
+1 [SLD:2763] Dauntless Dourbark [foil]
+1 [SLD:2764] Leaf-Crowned Elder [foil]
+1 [SLD:2765] Timber Protector [foil]
+1 [SLD:2766] Treefolk Harbinger [foil]
+1 [SLD:2767] Doran, the Siege Tower [foil]

@@ -1,0 +1,9 @@
+// NAME: Jim Henson's Labyrinth: Should You Need Us Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253725
+// DATE: 2026-12-14
+1 [SLD:2839] Jodah, the Unifier [foil]
+1 [SLD:2840a] Lu Xun, Scholar General [foil]
+1 [SLD:2841] Kami of the Crescent Moon [foil]
+1 [SLD:2842] Kogla, the Titan Ape [foil]
+1 [SLD:2843] Shigeki, Jukai Visionary [foil]
+1 [SLD:2844] Wort, Boggart Auntie [foil]
