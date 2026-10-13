@@ -1,7 +1,7 @@
 // NAME: Artist Series: Véronique Meignaud Foil Edition
 // SOURCE: https://secretlair.wizards.com/us/product/1253729
 // DATE: 2026-12-14
-1 [SLD] Bloodsoaked Champion [foil]
-1 [SLD] Voldaren Pariah [foil]
-1 [SLD] Ashnod's Altar [foil]
-1 [SLD] Cabal Stronghold [foil]
+1 [SLD:1440] Bloodsoaked Champion [foil]
+1 [SLD:1441] Voldaren Pariah [foil]
+1 [SLD:1442] Ashnod's Altar [foil]
+1 [SLD:1443] Cabal Stronghold [foil]
