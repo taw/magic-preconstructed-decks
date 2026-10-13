@@ -1,0 +1,9 @@
+// NAME: Jim Henson's Labyrinth: Fear Me, Love Me Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253723
+// DATE: 2026-12-14
+1 [SLD:2833] Muxus, Goblin Grandee [foil]
+1 [SLD:2834] Boggart Shenanigans [foil]
+1 [SLD:2835] Dance with Calamity [foil]
+1 [SLD:2836] Goblin Rabblemaster [foil]
+1 [SLD:2837] Claim the Firstborn [foil]
+1 [SLD:2838] Trinisphere [foil]

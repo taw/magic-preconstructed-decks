@@ -1,0 +1,9 @@
+// NAME: Marvel: Zombies Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1253719
+// DATE: 2026-12-14
+1 [SLD:2589] Unstoppable Slasher [foil]
+1 [SLD:2590] Zombie Apocalypse [foil]
+1 [SLD:2591] Vogar, Necropolis Tyrant [foil]
+1 [SLD:2592] God-Eternal Bontu [foil]
+1 [SLD:2593] Wilhelt, the Rotcleaver [foil]
+1 [SLD:2594] Varina, Lich Queen [foil]

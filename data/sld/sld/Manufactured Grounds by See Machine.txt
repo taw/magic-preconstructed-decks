@@ -1,0 +1,8 @@
+// NAME: Manufactured Grounds by See Machine
+// SOURCE: https://secretlair.wizards.com/us/product/1253734
+// DATE: 2026-12-14
+1 [SLD:2883] Ancient Den
+1 [SLD:2884] Seat of the Synod
+1 [SLD:2885] Vault of Whispers
+1 [SLD:2886] Great Furnace
+1 [SLD:2887] Tree of Tales
