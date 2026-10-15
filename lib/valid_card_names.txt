@@ -1721,6 +1721,7 @@ Astrologian's Planisphere
 Astroquarium
 Aswan Jaguar
 Asylum Visitor
+Asymmetry Sage
 At Knifepoint
 At Least It's a Dry Heat
 At the Door
@@ -1984,6 +1985,7 @@ Avid Reclaimer
 Avishkar Raceway
 Avizoa
 Avoid Fate
+Avoided Stairwurm
 Awaken the Ages
 Awaken the Ancient
 Awaken the Bear
@@ -2234,6 +2236,7 @@ Baneclaw Marauder
 Banefire
 Baneful Omen
 Banehound
+Banescale Serpent
 Baneslayer Angel
 Baneslayer Aspirant
 Banewasp Affliction
@@ -2652,6 +2655,7 @@ Benalish Partisan
 Benalish Sleeper
 Benalish Trapper
 Benalish Veteran
+Bend Mortal Limits
 Bend or Break
 Bender's Waterskin
 Beneath the Sands
@@ -3376,6 +3380,7 @@ Boiling Rock Prison
 Boiling Rock Rioter
 Boiling Seas
 Boing!
+Boisterous Clique
 Bojuka Bog
 Bojuka Brigand
 Bola Slinger
@@ -4872,6 +4877,7 @@ Change of Fortune
 Change of Heart
 Change of Plans
 Change the Equation
+Change the Narrative
 Changeling Berserker
 Changeling Hero
 Changeling Outcast
@@ -6339,6 +6345,7 @@ Crushing Vines
 Crustacean Commando
 Crux of Fate
 Crux of Mirrodin
+Crux of the Theory
 Cry of Contrition
 Cry of the Carnarium
 Cryoclasm
@@ -7534,6 +7541,7 @@ Dewdrop Cure
 Dewdrop Spy
 Dhund Operative
 Diabolic Edict
+Diabolic Formula
 Diabolic Intent
 Diabolic Machine
 Diabolic Revelation
@@ -7608,6 +7616,7 @@ Dimir Strandcatcher
 Din of the Fireherd
 Dina's Guidance
 Dina, Essence Brewer
+Dina, Flesh Sower
 Dina, Soul Steeper
 Dingus Egg
 Dingus Staff
@@ -8704,6 +8713,7 @@ Echo, Perceptive Prodigy
 Echocasting Symposium
 Echoes of Eternity
 Echoes of the Kin Tree
+Echogoyfs
 Echoing Assault
 Echoing Boon
 Echoing Calm
@@ -9314,6 +9324,7 @@ Entangling Vines
 Enter the Avatar State
 Enter the Dungeon
 Enter the Enigma
+Enter the Eternities
 Enter the God-Eternals
 Enter the Infinite
 Enter the Unknown
@@ -9508,6 +9519,7 @@ Estrid, the Masked
 Estwald Shieldbasher
 Etali's Favor
 Etali, Primal Conqueror
+Etali, Primal Garden
 Etali, Primal Sickness
 Etali, Primal Storm
 Etched Champion
@@ -10849,6 +10861,7 @@ Flotsam
 Flourish
 Flourishing Bloom-Kin
 Flourishing Defenses
+Flourishing Forces
 Flourishing Fox
 Flourishing Grapple
 Flourishing Hunter
@@ -15622,6 +15635,7 @@ Jace's Mindseeker
 Jace's Phantasm
 Jace's Projection
 Jace's Ruse
+Jace's Saga
 Jace's Sanctum
 Jace's Scrutiny
 Jace's Sentinel
@@ -16459,6 +16473,7 @@ Killer's Mask
 Killian's Confidence
 Killian, Decisive Mentor
 Killian, Ink Duelist
+Killian, Spotlight Chaser
 Killing Glare
 Killing Wave
 Killmonger, Ruthless Usurper
@@ -20576,6 +20591,7 @@ New Prahv Guildmage
 New Way Forward
 News Helicopter
 Nexos
+Next Iteration
 Next of Kin
 Nexus Mentality
 Nexus Wardens
@@ -20980,6 +20996,7 @@ Nylea's Emissary
 Nylea's Forerunner
 Nylea's Huntmaster
 Nylea's Intervention
+Nylea's Oracle
 Nylea's Presence
 Nylea, God of the Hunt
 Nylea, Keen-Eyed
@@ -21212,6 +21229,7 @@ Okina, Temple to the Grandfathers
 Okk
 Oko's Accomplices
 Oko's Hospitality
+Oko, Lord of the Fae
 Oko, Lorwyn Liege
 Oko, Shadowmoor Scion
 Oko, Thief of Crowns
@@ -21863,6 +21881,7 @@ Paradise Plume
 Paradox Engine
 Paradox Gardens
 Paradox Haze
+Paradox Kraken
 Paradox Shaper
 Paradox Surveyor
 Paradox Zone
@@ -22744,6 +22763,7 @@ Possibility Technician
 Postmortem Lunge
 Postmortem Professor
 Potatoes
+Potential Horizon
 Pothole Mole
 Potion of Healing
 Potioner's Trove
@@ -23088,6 +23108,7 @@ Prophesied End
 Prophet of Distortion
 Prophet of Kruphix
 Prophet of the Peak
+Prophet of the Planeswalker
 Prophet of the Scarab
 Prophetic Bolt
 Prophetic Flamespeaker
@@ -23498,6 +23519,7 @@ Quina, Qu Gourmet
 Quinjet Technician
 Quintessential Katana
 Quintorius Kand
+Quintorius, Fate Splitter
 Quintorius, Field Historian
 Quintorius, History Chaser
 Quintorius, Loremaster
@@ -24354,6 +24376,7 @@ Remembrance
 Reminisce
 Remnant Elemental
 Remnant of the Rising Star
+Remnants of Beleren
 Remodel
 Remorseful Cleric
 Remorseless Punishment
@@ -25145,6 +25168,7 @@ Rootbreaker Wurm
 Rootcast Apprenticeship
 Rootcoil Creeper
 Rootgrapple
+Rootha, Ardent Artisan
 Rootha, Mastering the Moment
 Rootha, Mercurial Artist
 Rooting Kavu
@@ -26297,6 +26321,7 @@ Searing Flesh
 Searing Light
 Searing Meditation
 Searing Rays
+Searing Soloist
 Searing Spear
 Searing Spear Askari
 Searing Touch
@@ -26504,6 +26529,7 @@ Selfcraft Mechan
 Selfie Preservation
 Selfless Cathar
 Selfless Exorcist
+Selfless Germinator
 Selfless Glyphweaver
 Selfless Police Captain
 Selfless Safewright
@@ -27411,6 +27437,7 @@ Simic Slaw
 Simic, Value Engine
 Simoon
 Simple
+Simple Subtraction
 Simplify
 Simulacrum
 Simulacrum Shaper
@@ -28388,6 +28415,7 @@ Sparkcaster
 Sparkhunter Masticore
 Sparkmage Apprentice
 Sparkmage's Gambit
+Sparks Ablaze
 Sparkshaper Visionary
 Sparksmith
 Sparkspitter
@@ -30945,6 +30973,7 @@ The Black Arrow
 The Black Breath
 The Black Gate
 The Blackstaff of Waterdeep
+The Bloodbile Swarm
 The Bloodsky Massacre
 The Blue Spirit
 The Book of Exalted Deeds
@@ -33390,6 +33419,7 @@ Valgavoth's Lair
 Valgavoth's Onslaught
 Valgavoth, Harrower of Souls
 Valgavoth, Terror Eater
+Valgavoth, the Lifeline
 Valiant Batrider
 Valiant Changeling
 Valiant Emberkin
@@ -35082,6 +35112,7 @@ Will, Scion of Peace
 Will-Forged Golem
 Will-o'-the-Wisp
 Willbender
+Willbound Quill
 Willbreaker
 Willie Lumpkin, Postman
 Willing
@@ -35879,6 +35910,7 @@ Zidane, Tantalus Thief
 Zilortha, Apex of Ikoria
 Zilortha, Strength Incarnate
 Zimone and Dina
+Zimone the Calculating
 Zimone's Experiment
 Zimone's Homework
 Zimone's Hypothesis
