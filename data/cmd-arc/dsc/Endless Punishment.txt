@@ -88,6 +88,10 @@ COMMANDER: 1 Valgavoth, Harrower of Souls [foil] [DSC:6]
 8 Swamp [DSK:*]
 8 Mountain [DSK:*]
 
+Tokens
+1 Human Soldier [tdsc:3] // Scarecrow [tdsc:23] [token]
+9 Devil [tdsc:7] // Scarecrow [tdsc:23] [token]
+
 Scheme Deck
 1 When Will You Learn?
 1 My Crushing Masterstroke

@@ -90,6 +90,16 @@ COMMANDER: 1 Winter, Cynical Opportunist [foil] [DSC:7]
 7 Swamp [DSK:*]
 7 Forest [DSK:*]
 
+Tokens
+1 Insect [tdsc:11] // Shapeshifter [tdsc:1] [token]
+1 Insect [tdsc:11] // Ooze [tdsc:14] [token]
+1 Insect [tdsc:12] // Spider [tdsc:16] [token]
+1 Treefolk [tdsc:17] // Spider [tdsc:16] [token]
+1 Insect [tdsc:22] // Shapeshifter [tdsc:1] [token]
+1 Ooze [tdsc:13] // Insect [tdsc:12] [token]
+2 Elemental [tdsc:9] // Bird [tdsc:5] [token]
+2 Demon [tdsc:6] // Bird [tdsc:5] [token]
+
 Scheme Deck
 1 Choose Your Champion
 1 Plots That Span Centuries
