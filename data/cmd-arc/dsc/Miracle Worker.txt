@@ -91,6 +91,15 @@ COMMANDER: 1 Aminatou, Veil Piercer [foil] [DSC:1]
 4 Island [DSK:*]
 5 Swamp [DSK:*]
 
+Tokens
+2 Angel [tdsc:2] // Treasure [tdsk:15] [token]
+1 Angel [tdsc:2] // Glimmer [tdsk:4] [token]
+1 Horror [tdsk:10] // Glimmer [tdsk:4] [token]
+2 Shark [tdsc:4] // Copy [tdsk:1] [token]
+1 Horror [tdsk:10] // Copy [tdsk:1] [token]
+2 Inkling [tdsc:21] // Scarecrow [tdsc:23] [token]
+1 Glimmer [tdsk:4] // Scarecrow [tdsc:23] [token]
+
 Scheme Deck
 1 Choose Your Demise
 1 Behold the Power of Destruction
