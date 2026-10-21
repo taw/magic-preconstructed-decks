@@ -91,3 +91,16 @@ COMMANDER: 1 Hearthhull, the Worldseed [EOC:1] [foil]
 1 Mountain [EOE:274]
 4 Forest [EOE:275]
 4 Forest [EOE:276]
+
+Tokens
+1 Beast [teoc:6] // Lander [teoe:8] [token]
+1 Beast [teoc:6] // Pest [teoc:9] [token]
+1 Beast [teoc:6] // Elemental [teoc:7] [token]
+1 Beast [teoc:6] // Elemental [teoc:8] [token]
+1 Insect [teoc:4] // Elemental [teoc:8] [token]
+1 Insect [teoc:4] // Elemental [teoc:7] [token]
+1 Insect [teoc:4] // Beast [teoc:5] [token]
+1 Insect [teoc:4] // Golem [teoc:13] [token]
+1 Copy [teoc:1] // Clue [teoc:10] [token]
+1 Copy [teoc:1] // Pest [teoc:9] [token]
+
