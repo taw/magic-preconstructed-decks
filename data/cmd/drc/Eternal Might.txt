@@ -90,3 +90,13 @@ COMMANDER: 1 Temmet, Naktamun's Will [DRC:4] [foil]
 5 Plains [DFT:277]
 4 Island [DFT:280]
 5 Swamp [DFT:283]
+
+Tokens
+1 Zombie [tdrc:3] // Angel of Sanctions [tdrc:1] [token]
+1 Zombie [tdrc:3] // Champion of Wits [tdrc:5] [token]
+1 Zombie [tdrc:3] // Timeless Dragon [tdrc:6] [token]
+1 Zombie [tdrc:3] // Vizier of Many Faces [tdrc:2] [token]
+1 Zombie [tdrc:3] // Shapeshifter [tdrc:4] [token]
+1 Zombie Army [tdrc:8] // Shapeshifter [tdrc:4] [token]
+2 Zombie [tdft:3] // Zombie Warrior [tdrc:9] [token]
+2 Zombie [tdft:3] // Zombie [tdrc:7] [token]
