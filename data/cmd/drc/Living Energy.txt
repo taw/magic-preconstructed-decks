@@ -88,3 +88,12 @@ COMMANDER: 1 Saheeli, Radiant Creator [DRC:3] [foil]
 5 Island [DFT:280]
 5 Mountain [DFT:286]
 6 Forest [DFT:289]
+
+Tokens
+1 Energy Reserve [tdrc:17] // Energy Reserve [tdrc:17] [token]
+1 Thopter [tdft:9] // Golem [tdrc:15] [token]
+1 Thopter [tdft:10] // Golem [tdrc:14] [token]
+1 Nalaar Aetherjet [tdrc:16] // Golem [tdrc:13] [token]
+1 Nalaar Aetherjet [tdrc:16] // Treasure [tdft:11] [token]
+2 Servo [tdft:8] // Beast [tdrc:10] [token]
+2 Construct [tdrc:12] // Beast [tdrc:11] [token]
