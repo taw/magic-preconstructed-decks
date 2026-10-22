@@ -6645,6 +6645,7 @@ Daggerfang Duo
 Daggermaw Megalodon
 Daggersail Aeronaut
 Daghatar the Adamant
+Dahar Master
 Dai Li Agents
 Dai Li Censor
 Dai Li Indoctrination
@@ -19442,6 +19443,7 @@ Mirror Sheen
 Mirror Shield
 Mirror Strike
 Mirror Universe
+Mirror Universe Intrusion
 Mirror Wall
 Mirror of Fate
 Mirror of Galadriel
@@ -23332,6 +23334,7 @@ Puppet's Verdict
 Puppeteer
 Puppeteer Clique
 Pure
+Pure Energy
 Pure Intentions
 Pure Reflection
 Purelace
@@ -30586,6 +30589,7 @@ Tazeem Roilmage
 Tazri, Beacon of Unity
 Tazri, Stalwart Survivor
 Tchotchke Elemental
+Tea, Earl Grey, Hot
 Teach by Example
 Teacher's Pest
 Teacher's Pet
@@ -33193,6 +33197,7 @@ Unexpectedly Absent
 Unexplained Absence
 Unexplained Disappearance
 Unexplained Vision
+Unexplored Territory
 Unfathomable Truths
 Unfinished Business
 Unflinching Courage
@@ -33879,6 +33884,7 @@ Vexing Arcanix
 Vexing Bauble
 Vexing Beetle
 Vexing Devil
+Vexing Drone
 Vexing Gull
 Vexing Puzzlebox
 Vexing Radgull
@@ -34657,6 +34663,7 @@ Warmth
 Warning
 Warning Tremor
 Warp Artifact
+Warp Core
 Warp World
 Warpath
 Warpath Ghoul

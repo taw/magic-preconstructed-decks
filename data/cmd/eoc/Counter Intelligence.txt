@@ -100,8 +100,8 @@ COMMANDER: 1 Inspirit, Flagship Vessel [EOC:2] [foil]
 1 Mountain [EOE:274]
 
 Tokens
-4 Punchcard [teoe:12] // Punchcard [teoe:12] [token]
-2 Incubator [teoc:15] // Phyrexian [teoc:15] [token]
+4 Punchcard [teoe:12a] // Punchcard [teoe:12b] [token]
+2 Incubator [teoc:15a] // Phyrexian [teoc:15b] [token]
 1 Golem [teoc:12] // Bird [teoc:3] [token]
 1 Golem [teoc:12] // Golem [teoc:14] [token]
 1 Gnome [teoc:11] // Thopter [teoc:16] [token]
