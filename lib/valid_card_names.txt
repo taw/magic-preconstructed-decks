@@ -1,3 +1,4 @@
+"ALL YOUR BASE ARE BELONG TO US"
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
 "Lifetime" Pass Holder
@@ -674,6 +675,7 @@ Alisaie Leveilleur
 Alistair, the Brigadier
 Alive
 All Aboard
+All Good Things...
 All Hallow's Eve
 All Is Dust
 All Shall Smolder in My Wake
@@ -1094,6 +1096,7 @@ Ant-Man, Elusive Avenger
 Ant-Man, Reformed Rogue
 Ant-Man, Scott Lang
 Antagonism
+Antagonist Incorporator
 Antagonize
 Antarctic Research Base
 Anthem of Champions
@@ -2958,6 +2961,7 @@ Blaster, Morale Booster
 Blastfire Bolt
 Blasting Station
 Blastoderm
+Blastoneuron
 Blatant Thievery
 Blaze
 Blaze Commando
@@ -4760,6 +4764,7 @@ Cerulean Wyvern
 Cessation
 Ceta Disciple
 Ceta Sanctuary
+Cetacean Ops
 Cetavolver
 Ceti Eel
 Cha'DIch Investigator
@@ -5782,6 +5787,7 @@ Conqueror's Flail
 Conqueror's Foothold
 Conqueror's Galleon
 Conqueror's Pledge
+Conquest Mission
 Conscripted Infantry
 Consecrate
 Consecrate Land
@@ -6627,6 +6633,7 @@ Círdan the Shipwright
 D'Avenant Archer
 D'Avenant Healer
 D'Avenant Trapper
+D'Ghor Bloodletter
 D'Vana Tendi, Optimistic Ensign
 D-7 Battle Cruiser
 D00-DL, Caricaturist
@@ -7019,6 +7026,7 @@ Death Cultist
 Death Denied
 Death Frenzy
 Death Grasp
+Death Is Irrelevant
 Death Kiss
 Death Match
 Death Mutation
@@ -8064,6 +8072,7 @@ Dr. Eggman
 Dr. Joseph M'Benga
 Dr. Julius Jumblemorph
 Dr. Madison Li
+Dr. McCoy, Surly Surgeon
 Drach'Nyen
 Draco
 Dracogenesis
@@ -8951,6 +8960,7 @@ Elfsworn Giant
 Elgaud Inquisitor
 Elgaud Shieldmate
 Eligeth, Crossroads Augur
+Elim Garak, Simple Tailor
 Eliminate
 Eliminate the Competition
 Eliminate the Impossible
@@ -9275,6 +9285,7 @@ Enduring Victory
 Enduring Vitality
 Enemy of Enlightenment
 Enemy of the Guildpact
+Energize
 Energizer
 Energy Arc
 Energy Bolt
@@ -9695,6 +9706,7 @@ Exalted Dragon
 Exalted Flamer of Tzeentch
 Exalted Sunborn
 Exava, Rakdos Blood Witch
+Excalbian Gamemaster
 Excalibur II
 Excalibur, Sword of Eden
 Excava, the Risen Past
@@ -11831,6 +11843,7 @@ Geomancer's Gambit
 Geometer's Arthropod
 Geometric Nexus
 Geometric Weird
+Georgiou, Terran Emperor
 Geosurge
 Geothermal Bog
 Geothermal Crevice
@@ -14280,6 +14293,7 @@ Hollowhenge Spirit
 Hollowhenge Wrangler
 Hollowmurk Siege
 Hollowsage
+Hologram Stalker
 Holographic Double
 Holy Armor
 Holy Avenger
@@ -15326,6 +15340,7 @@ Interplanar Brushwagg
 Interplanar Tunnel
 Interpret the Signs
 Interrogation Robot
+Interstellar Effigy
 Intervene
 Intervention
 Intervention Pact
@@ -19222,6 +19237,7 @@ Mila, Crafty Companion
 Mild-Mannered Librarian
 Miles "Tails" Prower
 Miles Morales
+Miles O'Brien, Transporter Ops
 Militant Angel
 Militant Inquisitor
 Militant Monk
@@ -21171,6 +21187,7 @@ Obsidian Charmaw
 Obsidian Fireheart
 Obsidian Giant
 Obsidian Obelisk
+Obsidian Order Operative
 Obstinate Baloth
 Obstinate Familiar
 Obstinate Gargoyle
@@ -22239,6 +22256,7 @@ Pestilent Wolf
 Pests of Honor
 Pet Avengers
 Pet Project
+Pet Sehlat
 Petalmane Baku
 Petals of Insight
 Peter Parker
@@ -29445,6 +29463,7 @@ Stonybrook Schoolmaster
 Stop Cold
 Stop That
 Storage Matrix
+Storied Veteran
 Storm Caller
 Storm Cauldron
 Storm Crow
@@ -30060,6 +30079,7 @@ Sutina, Speaker of the Tajuru
 Suture Priest
 Suture Spirit
 Sutured Ghoul
+Suurok-Class Science Vessel
 Svega, the Unconventional
 Svella, Ice Shaper
 Svogthos, the Restless Tomb
@@ -30745,6 +30765,7 @@ Temporal Adept
 Temporal Aperture
 Temporal Cascade
 Temporal Cleansing
+Temporal Conqueror
 Temporal Distortion
 Temporal Eddy
 Temporal Extortion
@@ -30889,6 +30910,8 @@ Tersa Lightshatter
 Tervigon
 Tesak, Judith's Hellhound
 Teshar, Ancestor's Apostle
+Test of Conviction
+Test of Courage
 Test of Endurance
 Test of Faith
 Test of Talents
@@ -31256,6 +31279,7 @@ The Incredible Hulk
 The Indomitable
 The Infamous Cruelclaw
 The Initiative
+The Inner Light
 The Inspector Inspector
 The Invincible Iron Man
 The Irencrag
@@ -31582,6 +31606,7 @@ Theorix Metamage
 There
 There Is No Refuge
 There and Back Again
+There's Coffee in that Nebula
 Thermal Blast
 Thermal Flux
 Thermal Glider
@@ -33054,6 +33079,7 @@ Umbris, Fear Manifest
 Umezawa's Charm
 Umezawa's Jitte
 Umori, the Collector
+Una Chin-Riley, Number One
 Unable to Scream
 Unagi's Spray
 Unassuming Gelatinous Serpent
