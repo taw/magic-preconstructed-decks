@@ -1,9 +1,10 @@
-"ALL YOUR BASE ARE BELONG TO US"
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
+"Coastal Ren Faire"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
+"Tinkerer (Not the Urza's Saga-er one)"
 +2 Mace
 17-Year Cicadas
 1996 World Champion
@@ -5639,6 +5640,7 @@ Command From the Shadows
 Command Mine
 Command Performance
 Command Power Plant
+Command Subadjunct
 Command Tower
 Command of Unsummoning
 Command the Chaff
@@ -6852,6 +6854,7 @@ Daru Warchief
 Darwin, Adaptive Mutant
 Dash Hopes
 Dashing Bloodsucker
+Data, New Life
 Dathon and Picard at El-Adrel
 Daughter of Autumn
 Daughter of the Deep
@@ -9341,6 +9344,7 @@ Enroll in the Coalition
 Enroot
 Enshrined Memories
 Enshrouding Mist
+Ensign Pavel Chekov
 Enslave
 Enslaved Dwarf
 Enslaved Horror
@@ -15754,6 +15758,7 @@ Jaheira, Ruthless Harper
 Jaheira, Stirring Harper
 Jailbreak
 Jailbreak Scheme
+Jake Sisko, War Correspondent
 Jalira's Show
 Jalira, Master Polymorphist
 Jalum Grifter
@@ -16601,6 +16606,7 @@ Kiora, Sovereign of the Deep
 Kiora, the Crashing Wave
 Kiora, the Rising Tide
 Kiora, the Tide's Fury
+Kira Nerys, Firebrand
 Kira, Great Glass-Spinner
 Kird Ape
 Kird Chieftain
@@ -23025,6 +23031,7 @@ Primalcrux
 Primaris Chaplain
 Primaris Eliminator
 Primary Research
+Primary Unimatrix Adjunct
 Prime Minister's Cabinet Room
 Prime Speaker Vannifar
 Prime Speaker Zegana
@@ -24031,6 +24038,7 @@ Ravenous Baloth
 Ravenous Bloodseeker
 Ravenous Brute Head
 Ravenous Chupacabra
+Ravenous Cosmozoan
 Ravenous Daggertooth
 Ravenous Demon
 Ravenous Giant
@@ -25537,6 +25545,7 @@ Rustspore Ram
 Rustvale Bridge
 Rustvine Cultivator
 Rustwing Falcon
+Rutherford, Upgraded Ensign
 Ruthless Cullblade
 Ruthless Deathfang
 Ruthless Disposal
@@ -26193,6 +26202,7 @@ Scornful Egotist
 Scorpion Sentinel
 Scorpion's Sting
 Scorpion, Seething Striker
+Scotty, Miracle Worker
 Scour
 Scour All Possibilities
 Scour for Scrap
@@ -30914,6 +30924,7 @@ Test of Conviction
 Test of Courage
 Test of Endurance
 Test of Faith
+Test of Loyalty
 Test of Talents
 Testament Bearer
 Testament of Faith
@@ -31718,6 +31729,7 @@ Thornweald Archer
 Thornwind Faeries
 Thornwood Falls
 Thorough Investigation
+Those Old Scientists
 Those Who Serve
 Thought Collapse
 Thought Courier
@@ -32951,6 +32963,7 @@ Tymaret, Chosen from Death
 Tymaret, the Murder King
 Tymna the Weaver
 Tymora's Invoker
+Type-2 Phaser
 Typhoid Mary, Fractured
 Typhoid Rats
 Typhoon
@@ -35802,6 +35815,7 @@ Yawgmoth, Thran Physician
 Yawning Fissure
 Ydwen Efreet
 Yeah Nah
+Year of Hell
 Year-End Review
 Yedora, Grave Gardener
 Yellow Scarves Cavalry
