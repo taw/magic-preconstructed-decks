@@ -284,6 +284,7 @@ Adventurers' Guildhouse
 Adventuring Gear
 Adventurous Eater
 Adventurous Impulse
+Adversary by Algorithm
 Adverse Conditions
 Advice from the Fae
 Advocate of the Beast
@@ -9805,6 +9806,7 @@ Exploding Barrel
 Exploding Borders
 Exploration
 Exploration Broodship
+Exploratory Mission
 Explore
 Explore the Underdark
 Explore the Vastlands
@@ -14967,6 +14969,7 @@ Imposing Grandeur
 Imposing Sovereign
 Imposing Vantasaur
 Imposing Visage
+Impossible Choice
 Impossible Inferno
 Impossible Man
 Imposter Mech
@@ -29718,6 +29721,7 @@ Sturmgeist
 Stymied Hopes
 Su-Chi
 Su-Chi Cave Guard
+Subcommander T'Pol
 Subcontract
 Subdue
 Subgoyf
