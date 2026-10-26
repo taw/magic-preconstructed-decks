@@ -3695,6 +3695,7 @@ Branch of Vitu-Ghazi
 Branchblight Stalker
 Branching Bolt
 Branching Evolution
+Branching Timeline
 Branchloft Pathway
 Branchsnap Lorian
 Brand
@@ -9448,6 +9449,7 @@ Erestor of the Council
 Erg Raiders
 Erhnam Djinn
 Erhnam Djinn Avatar
+Erica Ortegas, Plucky Pilot
 Eriette of the Charmed Apple
 Eriette's Lullaby
 Eriette's Tempting Apple
@@ -11849,6 +11851,7 @@ Geomancer's Gambit
 Geometer's Arthropod
 Geometric Nexus
 Geometric Weird
+Geordi La Forge, Innovator
 Georgiou, Terran Emperor
 Geosurge
 Geothermal Bog
@@ -15164,6 +15167,7 @@ Infiltrator il-Kor
 Infiltrator's Magemark
 Infinite Authority
 Infinite Coursework
+Infinite Diversity
 Infinite Guideline Station
 Infinite Hourglass
 Infinite Obliteration
@@ -15746,6 +15750,7 @@ Jadelight Ranger
 Jadelight Spelunker
 Jadzi, Oracle of Arcavios
 Jadzi, Steward of Fate
+Jadzia Dax, Living Legacy
 Jagged Barrens
 Jagged Lightning
 Jagged Poppet
@@ -18166,6 +18171,7 @@ Luxknight Breacher
 Luxurious Libation
 Luxurious Locomotive
 Luxury Suite
+Lwaxana Troi, Charming Guest
 Lychguard
 Lydari Druid
 Lydari Elephant
@@ -30929,6 +30935,7 @@ Test of Courage
 Test of Endurance
 Test of Faith
 Test of Loyalty
+Test of Priorities
 Test of Talents
 Testament Bearer
 Testament of Faith
