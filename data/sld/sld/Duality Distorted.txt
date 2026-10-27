@@ -1,0 +1,7 @@
+// NAME: Duality Distorted
+// SOURCE: https://secretlair.wizards.com/us/product/1255734
+// DATE: 2026-11-18
+1 [SLD:2705] Thoughtseize
+1 [SLD:2706] Desperate Ritual
+1 [SLD:2707] Pyroblast
+1 [SLD:2708] Tribute to the World Tree
