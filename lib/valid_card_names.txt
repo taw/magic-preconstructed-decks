@@ -782,6 +782,7 @@ Amazing Alliance
 Amazing Spider-Girl
 Amazing Spider-Man
 Ambassador Blorpityblorpboop
+Ambassador K'Ehleyr
 Ambassador Laquatus
 Ambassador Oak
 Ambassador of Evendo
@@ -939,6 +940,7 @@ And They Shall Know No Fear
 Andoria
 Andradite Leech
 Andrios, Roaming Explorer
+Andromedan Automatons
 Andúril, Flame of the West
 Andúril, Narsil Reforged
 Anep, Vizier of Hazoret
@@ -2093,6 +2095,7 @@ Azure Fleet Admiral
 Azure Mage
 Azusa's Many Journeys
 Azusa, Lost but Seeking
+B'Elanna Torres, Scrapper
 B-I-N-G-O
 B.F.M. (Big Furry Monster)
 B.F.M. (Big Furry Monster, Right Side)
@@ -2734,6 +2737,7 @@ Betroth the Beast
 Betrothed of Fire
 Better Offer
 Better Than One
+Beverly Crusher, Ship's Doctor
 Bewilder
 Bewildering Blizzard
 Bewitching Leechcraft
@@ -4394,6 +4398,7 @@ Captain Benjamin Sisko
 Captain Eberhart
 Captain Howler, Sea Scourge
 Captain James T. Kirk
+Captain Janeway, Endgame
 Captain Jean-Luc Picard
 Captain Jonathan Archer
 Captain Kathryn Janeway
@@ -5041,6 +5046,7 @@ Chicken Troupe
 Chicken à la King
 Chief Engineer
 Chief Magistrate of Mercadia
+Chief Miles O'Brien
 Chief Warg's Company
 Chief of the Edge
 Chief of the Foundry
@@ -5304,6 +5310,7 @@ Clash of Titans
 Clash of Wills
 Clash of the Eikons
 Class-4 Tactical Cube
+Class-F Shuttlecraft
 Clattering Augur
 Clattering Skeletons
 Claustrophobia
@@ -5477,6 +5484,7 @@ Clowning Around
 Clutch of Currents
 Clutch of Undeath
 Clutch of the Undercity
+Cmdr. Troi, Outgoing Empath
 Co-Option Adjutant
 Coal Golem
 Coal Hill School
@@ -5667,6 +5675,7 @@ Commander Mustard
 Commander Raffi Musiker
 Commander Sofia Daguerre
 Commander Spock
+Commander William Riker
 Commander's Authority
 Commander's Insight
 Commander's Insignia
@@ -6867,8 +6876,10 @@ Daru Warchief
 Darwin, Adaptive Mutant
 Dash Hopes
 Dashing Bloodsucker
+Data, Exploring Humanity
 Data, New Life
 Dathon and Picard at El-Adrel
+Dathon, His Heart Open
 Daughter of Autumn
 Daughter of the Deep
 Daunting Defender
@@ -6972,6 +6983,7 @@ Dazzling Ramparts
 Dazzling Reflection
 Dazzling Sphinx
 Dazzling Theater
+De-evolve
 Dead
 Dead Before Sunrise
 Dead Drop
@@ -8091,6 +8103,7 @@ Dr. Joseph M'Benga
 Dr. Julius Jumblemorph
 Dr. Madison Li
 Dr. McCoy, Surly Surgeon
+Dr. Pulaski, Cynical Clinician
 Drach'Nyen
 Draco
 Dracogenesis
@@ -9360,6 +9373,7 @@ Enroll in the Coalition
 Enroot
 Enshrined Memories
 Enshrouding Mist
+Ensign Harry Kim, Operations
 Ensign Pavel Chekov
 Enslave
 Enslaved Dwarf
@@ -9384,6 +9398,7 @@ Enter the God-Eternals
 Enter the Infinite
 Enter the Unknown
 Entering
+Enterprise NX-01
 Enterprising Scallywag
 Enthralling Hold
 Enthralling Victor
@@ -9932,6 +9947,7 @@ Ezekiel Sims, Spider-Totem
 Ezio Auditore da Firenze
 Ezio, Blade of Vengeance
 Ezio, Brash Novice
+Ezri Dax, Newly Joined
 Ezrim, Agency Chief
 Ezuri's Archers
 Ezuri's Brigade
@@ -11522,6 +11538,7 @@ G'raha Tia
 G'raha Tia, Scion Reborn
 GO TO JAIL
 Gabriel Angelfire
+Gabriel Lorca, Mirror Menace
 Gaddock Teeg
 Gadget Technician
 Gadrak, the Crown-Scourge
@@ -11839,6 +11856,7 @@ Generous Stray
 Generous Visitor
 Genesis
 Genesis Chamber
+Genesis Effect
 Genesis Hydra
 Genesis Storm
 Genesis Ultimatum
@@ -14321,6 +14339,8 @@ Hollowhenge Spirit
 Hollowhenge Wrangler
 Hollowmurk Siege
 Hollowsage
+Holo-Engineer
+Hologram Janeway
 Hologram Stalker
 Holographic Double
 Holy Armor
@@ -16049,6 +16069,7 @@ Jukai Messenger
 Jukai Naturalist
 Jukai Preserver
 Jukai Trainee
+Julian Bashir, Frontier Doctor
 Jumbo Cactuar
 Jumbo Imp
 Jump
@@ -16477,6 +16498,7 @@ Keral Keep Disciples
 Keranos, God of Storms
 Kerblam! Warehouse
 Keruga, the Macrosage
+Kes, Evolving Telepath
 Keskit, the Flesh Sculptor
 Kess, Dissident Mage
 Kessig
@@ -20955,6 +20977,7 @@ Nocturnal Hunger
 Nocturnal Raid
 Nocturno of Myra's Marvels
 Noetic Scales
+Nog, Ambitious Cadet
 Noggin Whack
 Noggle Bandit
 Noggle Bridgebreaker
@@ -21435,6 +21458,7 @@ On Serra's Wings
 On Thin Ice
 On Wings of Gold
 On the Job
+On the Shoulders of Giants
 On the Trail
 Onakke Catacomb
 Onakke Javelineer
@@ -24397,6 +24421,7 @@ Refuse
 Refuse to Yield
 Refute
 Refute Destiny
+Reg Barclay, Fidgety Fantasist
 Regal Behemoth
 Regal Bloodlord
 Regal Bunnicorn
@@ -25129,6 +25154,7 @@ Riveting Rigger
 Rix Maadi Guildmage
 Rix Maadi Reveler
 Rix Maadi, Dungeon Palace
+Ro Laren, Double Agent
 Road
 Road Rage
 Road of Return
@@ -25251,6 +25277,7 @@ Rolling Spoil
 Rolling Stones
 Rolling Temblor
 Rolling Thunder
+Rom and Leeta, Unlikely Pair
 Romana II
 Romantic Rendezvous
 Romulan Bird-of-Prey
@@ -26632,6 +26659,7 @@ Sejiri Shelter
 Sejiri Steppe
 Sek'Kuar, Deathkeeper
 Sekki, Seasons' Guide
+Sela, Tal Shiar Paradox
 Select for Inspection
 Selective Adaptation
 Selective Memory
@@ -29198,6 +29226,7 @@ Starfighter Pilot
 Starfleet Academy
 Starfleet Communicator
 Starfleet Crew
+Starfleet Spanner Jockey
 Starforged Sword
 Stargaze
 Stark Industries
@@ -29848,6 +29877,7 @@ Sultai Runemark
 Sultai Scavenger
 Sultai Skullkeeper
 Sultai Soothsayer
+Sulu, Space Swashbuckler
 Sumala Rumblers
 Sumala Sentry
 Sumala Woodshaper
@@ -30142,6 +30172,7 @@ Suture Priest
 Suture Spirit
 Sutured Ghoul
 Suurok-Class Science Vessel
+Suus Mahna Practitioner
 Svega, the Unconventional
 Svella, Ice Shaper
 Svogthos, the Restless Tomb
@@ -30582,6 +30613,7 @@ Taranika, Akroan Veteran
 Tarelily, Lovestruck Archer
 Tarfire
 Targ Nar, Demon-Fang Gnoll
+Targ Wrangler
 Target Minotaur
 Targeting Rocket
 Tariel, Reckoner of Souls
@@ -30599,6 +30631,7 @@ Tarox Bladewing
 Tarpan
 Tarrian's Journal
 Tarrian's Soulcleaver
+Tasha Yar, Out of Time
 Tasha's Hideous Laughter
 Tasha, Unholy Archmage
 Tasha, the Witch Queen
@@ -30842,6 +30875,7 @@ Temporal Manipulation
 Temporal Mastery
 Temporal Spring
 Temporal Trespass
+Temporal Tribulation
 Temporary Insanity
 Temporary Lockdown
 Temporary Truce
@@ -31415,6 +31449,7 @@ The Master, Multiplied
 The Master, Transcendent
 The Masters of Evil
 The Matrix of Time
+The Measure of a Man
 The Meathook Massacre
 The Mechanist, Aerial Artisan
 The Meep
@@ -32283,6 +32318,7 @@ Tolsimir, Friend to Wolves
 Tolsimir, Midnight's Light
 Toluz, Clever Conductor
 Tom Bombadil
+Tom Paris, Risk-Taker
 Tom, Bert, and William
 Tomakul Honor Guard
 Tomakul Phoenix
@@ -32944,6 +32980,7 @@ Tusked Colossodon
 Tuskeri Firewalker
 Tuskguard Captain
 Tuvasa the Sunlit
+Tuvok, Chief Tactical Officer
 Tuya Bearclaw
 Tweeze
 Twenty Lessons
@@ -33052,10 +33089,16 @@ Tyvar, Jubilant Brawler
 Tyvar, the Pummeler
 Tzaangor Shaman
 U.S.Agent, John Walker
+U.S.S. Defiant, Tough Little Ship
 U.S.S. Discovery, at Black Alert
 U.S.S. Enterprise-A, Free Spirit
+U.S.S. Enterprise-C, Time-Tossed
 U.S.S. Enterprise-D, Galaxy-Class
+U.S.S. Enterprise-E, Sovereign
+U.S.S. Excelsior, Cutting Edge
+U.S.S. Prometheus, Prototype
 U.S.S. Reliant, From Hell's Heart
+U.S.S. Stargazer, Here and There
 UNIT Headquarters
 Uba Mask
 Ubul Sar Gatekeepers
@@ -33325,6 +33368,7 @@ Unholy Strength
 Unicycle
 Unicycling Automaton
 Unidentified Hovership
+Unification
 Unified Front
 Unified Lunge
 Unified Strike
@@ -34036,6 +34080,7 @@ Vibrant Cityscape
 Vibrant Idea
 Vibrant Outburst
 Vibrating Sphere
+Vic Fontaine, One Night Only
 Vicious Battlerager
 Vicious Betrayal
 Vicious Clown
@@ -35639,6 +35684,7 @@ Worf, Chief Tactical Officer
 Worf, Defiant Commander
 Worf, Honor-Bound Warrior
 Worf, Intelligence Contractor
+Worf, Son of Mogh
 Work a Double
 Workhorse
 Working Stiff
