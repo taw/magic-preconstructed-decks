@@ -1,10 +1,8 @@
 "Ach! Hans, Run!"
 "Brims" Barone, Midway Mobster
-"Coastal Ren Faire"
 "Lifetime" Pass Holder
 "Name Sticker" Goblin
 "Rumors of My Death . . ."
-"Tinkerer (Not the Urza's Saga-er one)"
 +2 Mace
 17-Year Cicadas
 1996 World Champion
@@ -806,6 +804,7 @@ Ambitious Farmhand
 Ambling Stormshell
 Ambrosia Whiteheart
 Ambulatory Edifice
+Ambulatory Reactor
 Ambuscade
 Ambuscade Shaman
 Ambush
@@ -1106,6 +1105,7 @@ Anthem of Rakdos
 Anthousa, Setessan Hero
 Anthropede
 Anthroplasm
+Anthropological Mission
 Anti-Magic Aura
 Anti-Venom, Horrifying Healer
 Anticausal Vestige
@@ -1513,6 +1513,7 @@ Arms Depot
 Arms Race
 Arms Scavenger
 Arms of Hadar
+Armus, Skin of Evil
 Army Ants
 Army of Allah
 Army of the Damned
@@ -1701,11 +1702,14 @@ Assemble the Team
 Assembled Alphas
 Assembled Ensemble
 Assembly Hall
+Assembly Specialist
 Assembly-Worker
 Assert Authority
 Assert Perfection
 Assimilate Essence
+Assimilate the Wounded
 Assimilation Aegis
+Assimilation Assessor
 Assquatch
 Assure
 Astarion's Thirst
@@ -2464,6 +2468,7 @@ Battle for Bretagard
 Battle of Frost and Fire
 Battle of Hoover Dam
 Battle of Wits
+Battle of Wolf 359
 Battle-Mad Ronin
 Battle-Rage Blessing
 Battle-Rattle Shaman
@@ -3539,7 +3544,9 @@ Boreal Outrider
 Boreal Shelf
 Boreas Charger
 Borg Cube
+Borg Incursion
 Borg Queen, Perfection Manifest
+Borg Scout Sphere
 Boris Devilboon
 Born to Drive
 Borne Upon a Wind
@@ -5296,6 +5303,7 @@ Clash of Realities
 Clash of Titans
 Clash of Wills
 Clash of the Eikons
+Class-4 Tactical Cube
 Clattering Augur
 Clattering Skeletons
 Claustrophobia
@@ -5469,6 +5477,7 @@ Clowning Around
 Clutch of Currents
 Clutch of Undeath
 Clutch of the Undercity
+Co-Option Adjutant
 Coal Golem
 Coal Hill School
 Coal Stoker
@@ -5566,6 +5575,7 @@ Collective Drone
 Collective Effort
 Collective Inferno
 Collective Nightmare
+Collective Override
 Collective Resistance
 Collective Restraint
 Collective Unconscious
@@ -5654,6 +5664,7 @@ Commander Eesha
 Commander Greven il-Vec
 Commander Liara Portyr
 Commander Mustard
+Commander Raffi Musiker
 Commander Sofia Daguerre
 Commander Spock
 Commander's Authority
@@ -7020,6 +7031,7 @@ Deafening Silence
 Deal Broker
 Deal Damage
 Deal Gone Bad
+Deanna Troi, Psychic Counsel
 Dearly Departed
 Death
 Death Baron
@@ -7292,6 +7304,7 @@ Delirium
 Delirium Skeins
 Deliver
 Deliver Unto Evil
+Deliver from Chaos
 Delivery Moogle
 Delney, Streetwise Lookout
 Delphia, Undecided
@@ -9153,6 +9166,7 @@ Emergency Eject
 Emergency Medical Hologram
 Emergency Phytomedic
 Emergency Powers
+Emergency Regeneration
 Emergency Weld
 Emergent Growth
 Emergent Haunting
@@ -9863,6 +9877,7 @@ Extract Power
 Extract a Confession
 Extract from Darkness
 Extract the Truth
+Extraction Integrant
 Extraction Specialist
 Extractor Demon
 Extraordinary Journey
@@ -10524,6 +10539,7 @@ Final Death
 Final Flare
 Final Flourish
 Final Fortune
+Final Frontier
 Final Iteration
 Final Judgment
 Final Parting
@@ -12086,6 +12102,7 @@ Gift of Growth
 Gift of Immortality
 Gift of Orzhova
 Gift of Paradise
+Gift of Perfection
 Gift of Strands
 Gift of Strength
 Gift of Tusks
@@ -12836,6 +12853,7 @@ Grand Entryway
 Grand Marshal Macie
 Grand Master of Flowers
 Grand Melee
+Grand Nagus Zek
 Grand Ossuary
 Grand Warlord Radha
 Grandmother Goby
@@ -13404,6 +13422,7 @@ Gyrus, Waker of Corpses
 Gysahl Greens
 H.E.R.B.I.E. Scout Unit
 H.E.R.B.I.E., Lovable Robot
+H.M.S. Bounty, Unlikely Timeship
 HELIOS One
 HONK!
 HULK SMASH!
@@ -14531,6 +14550,7 @@ Huatli, the Sun's Heart
 Hubris
 Huddle Up
 Huge Truck
+Hugh, First of Many
 Hugs, Grisly Guardian
 Hulk's Thunderclap
 Hulk, Always Angry
@@ -15880,6 +15900,7 @@ Jetmir, Nexus of Revels
 Jetpack Death Seltzer
 Jetpack Janitor
 Jetsam
+Jett Reno, Problem Solver
 Jetting Glasskite
 Jewel Mine Overseer
 Jewel Thief
@@ -16072,6 +16093,7 @@ Junkyo Bell
 Juntu Stakes
 Junún Efreet
 Jurassic Park
+Jurati, Cordial Queen
 Juri, Master of the Revue
 Jurin, Leading the Charge
 Jushi Apprentice
@@ -16124,6 +16146,7 @@ Kagemaro, First to Suffer
 Kagha, Shadow Archdruid
 Kaheera, the Orphanguard
 Kaho, Minamo Historian
+Kai Winn, Faithless Leader
 Kaijin of the Vanishing Touch
 Kaima, the Fractured Calm
 Kain, Traitorous Dragoon
@@ -16490,6 +16513,7 @@ Khalni Gem
 Khalni Heart Expedition
 Khalni Hydra
 Khalni Territory
+Khan, Despot by Design
 Khan, Vengeful Heart
 Kharasha Foothills
 Kharis & The Beholder
@@ -16861,6 +16885,7 @@ Kor Spiritdancer
 Korlash, Heir to Blackblade
 Korlessa, Scale Singer
 Kormus Bell
+Korok, Liberated Rage
 Korozda Gorgon
 Korozda Guildmage
 Korozda Monitor
@@ -18391,6 +18416,7 @@ Majestic Metamorphosis
 Majestic Myriarch
 Major Teroh
 Make Disappear
+Make It So
 Make Mischief
 Make Obsolete
 Make Your Mark
@@ -18847,6 +18873,7 @@ Matsu-Tribe Sniper
 Matt Murdock, Justice Seeker
 Matter Reshaper
 Matterbending Mage
+Maturation Chamber
 Matzalantli, the Great Door
 Mauhúr, Uruk-hai Captain
 Maul Splicer
@@ -21440,6 +21467,7 @@ One with the Kami
 One with the Machine
 One with the Multiverse
 One with the Stars
+One, Borg Evolved
 One-Clown Band
 One-Eyed Scarecrow
 Oneirophage
@@ -21509,6 +21537,7 @@ Oppressive Will
 Opt
 Optical Optimizer
 Optimistic Scavenger
+Optimization Annex
 Optimus Prime, Autobot Leader
 Optimus Prime, Hero
 Optimus Prime, Inspiring Leader
@@ -21770,6 +21799,7 @@ Overcome
 Overcooked
 Overeager Apprentice
 Overencumbered
+Overflow Submatrix
 Overflowing Basin
 Overflowing Insight
 Overgrown Arch
@@ -21868,6 +21898,7 @@ Pact of the Titan
 Pactdoll Terror
 Padeem, Consul of Innovation
 Page, Loose Leaf
+Pah-Wraith
 Pain
 Pain 101
 Pain Distributor
@@ -22674,6 +22705,7 @@ Planeswalker's Scorn
 Planeswalkerificate
 Planetarium of Wan Shi Tong
 Planetary Annihilation
+Planetary Bombardment
 Planetary Patrol
 Planewide Celebration
 Planewide Disaster
@@ -23535,6 +23567,7 @@ Queen's Agent
 Queen's Bay Paladin
 Queen's Bay Soldier
 Queen's Commission
+Queen's Diamond
 Quench
 Quenchable Fire
 Quest Compleated Beast
@@ -24254,6 +24287,7 @@ Reclaim the Wastes
 Reclaiming Vines
 Reclamation
 Reclamation Sage
+Reclamation Specialist
 Reclusive Artificer
 Reclusive Taxidermist
 Reclusive Wight
@@ -24263,6 +24297,7 @@ Recommission
 Recon Craft Theta
 Reconnaissance
 Reconnaissance Mission
+Reconnaissance Partition
 Reconstruct History
 Reconstructed Thopter
 Reconstruction
@@ -25431,6 +25466,7 @@ Rukh Egg
 Rule of Law
 Rule with an Even Hand
 Rules Lawyer
+Rules of Acquisition
 Rulik Mons, Warren Chief
 Rumble Arena
 Rumbleweed
@@ -26815,6 +26851,7 @@ Settlement Blacksmith
 Setzer, Wandering Gambler
 Seven Dwarves
 Seven of Nine
+Seven of Nine, Tertiary Adjunct
 Seven of Nine, Unassimilated
 Seven-Tail Mentor
 Seventh Stage of Magic Design
@@ -27199,6 +27236,7 @@ Shoot Down
 Shoot the Sheriff
 Shopkeeper's Bane
 Shore Keeper
+Shore Leave Planet
 Shore Lurker
 Shore Snapper
 Shore Up
@@ -28524,6 +28562,7 @@ Sparring Golem
 Sparring Mummy
 Sparring Regimen
 Spartan Veteran
+Spatial Anomaly
 Spatial Binding
 Spatial Contortion
 Spatial Merging
@@ -29590,6 +29629,7 @@ Strangling Soot
 Strangling Spores
 Strata Scythe
 Stratadon
+Stratagem Emulator
 Strategic Betrayal
 Strategic Intervention
 Strategic Planning
@@ -29739,6 +29779,7 @@ Sublime Epiphany
 Sublime Exhalation
 Submerge
 Submerged Boneyard
+Subspace Anomaly
 Subterfuge
 Subterranean Cavern
 Subterranean Hangar
@@ -29994,6 +30035,7 @@ Supersize
 Suplex
 Supper for Spiders
 Supplant Form
+Supplementation Node
 Supply
 Supply Caravan
 Supply Drop
@@ -30256,6 +30298,7 @@ Sylvan Smite
 Sylvan Tutor
 Sylvan Yeti
 Sylvia Brightspear
+Sylvia Tilly, Joy of Discovery
 Sylvok Battle-Chair
 Sylvok Explorer
 Sylvok Lifestaff
@@ -30728,6 +30771,7 @@ Telethopter
 Telim'Tor
 Telim'Tor's Darts
 Telim'Tor's Edict
+Tell Me What You See
 Tellah, Great Sage
 Teller of Tales
 Telling Time
@@ -31074,6 +31118,7 @@ The Beast, Deathless Prince
 The Beleaguered Boxer
 The Belligerent
 The Belligerent and Useless Island
+The Best of Both Worlds
 The Biblioplex
 The Big Idea
 The Big Top
@@ -31101,6 +31146,7 @@ The Cabbage Merchant
 The Caffeinated Runner
 The Caldaia
 The Capitoline Triad
+The Caretaker
 The Cauldron of Eternity
 The Cave of Skulls
 The Cave of Two Lovers
@@ -32530,6 +32576,7 @@ Transmutation Font
 Transmute Artifact
 Transplant Theorist
 Transpose
+Transwarp Hub
 Trap Digger
 Trap Essence
 Trap Runner
@@ -32974,6 +33021,7 @@ Tymaret, Chosen from Death
 Tymaret, the Murder King
 Tymna the Weaver
 Tymora's Invoker
+Type-03 Borg Vessel
 Type-2 Phaser
 Typhoid Mary, Fractured
 Typhoid Rats
@@ -34464,6 +34512,7 @@ Vulturous Aven
 Vulturous Zombie
 Vuzzle Spaceship
 Vv'viza, Orbital Overseer
+Võx, Child of the Collective
 W'Kabi, Shield of the Nation
 Wagon Wrecker
 Wail of War
@@ -35234,6 +35283,7 @@ Wilfred Mott
 Wilhelt, the Rotcleaver
 Will Kenrith
 Will Riker, Assuming Command
+Will Riker, First in the Field
 Will of the Abzan
 Will of the All-Hunter
 Will of the Jeskai
@@ -35985,6 +36035,7 @@ Zealous Persecution
 Zealous Strike
 Zebra Unicorn
 Zedruu the Greathearted
+Zefram Cochrane, Warp Pioneer
 Zegana, Utopian Speaker
 Zektar Shrine Expedition
 Zell Dincht
