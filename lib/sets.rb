@@ -616,6 +616,7 @@ MagicSets = {
   "pw24" => "Wizards Play Network 2024",
   "pw25" => "Wizards Play Network 2025",
   "pw26" => "Wizards Play Network 2026",
+  "pw27" => "Wizards Play Network 2027",
   "pwar" => "War of the Spark Promos",
   "pwcs" => "Planeswalker Championship Promos",
   "pwoe" => "Wilds of Eldraine Promos",
