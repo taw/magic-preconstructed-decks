@@ -150,6 +150,7 @@ Academic Dispute
 Academic Probation
 Academy Drake
 Academy Elite
+Academy Instructor
 Academy Journeymage
 Academy Loremaster
 Academy Manufactor
@@ -653,6 +654,7 @@ Alesha, Who Laughs at Fate
 Alesha, Who Smiles at Death
 Alex Wilder, Runaway
 Alexander Clamilton
+Alexander, Ship's Fool
 Alexi's Cloak
 Alexi, Zephyr Mage
 Alexios, Deimos of Kosmos
@@ -1731,6 +1733,7 @@ Astrid Peth
 Astrolabe
 Astrologian's Planisphere
 Astroquarium
+Astute Terraformer
 Aswan Jaguar
 Asylum Visitor
 Asymmetry Sage
@@ -3173,6 +3176,7 @@ Blood on the Snow
 Blood-Chin Fanatic
 Blood-Chin Rager
 Blood-Cursed Knight
+Blood-Sport Champion
 Blood-Toll Harpy
 Bloodbat Summoner
 Bloodboil Sorcerer
@@ -3330,6 +3334,7 @@ Boar Umbra
 Boar-q-pine
 Board the Weatherlight
 Boarded Window
+Boarding Action
 Boarding Party
 Boareskyr Tollkeeper
 Boartusk Liege
@@ -4852,6 +4857,7 @@ Chance
 Chance Encounter
 Chance for Glory
 Chance-Met Elves
+Chancellor Gorkon
 Chancellor of Tales
 Chancellor of the Annex
 Chancellor of the Dross
@@ -5034,6 +5040,7 @@ Cheerful Osteomancer
 Cheering Crowd
 Cheering Fanatic
 Chef's Kiss
+Chekov and McCoy
 Chelonian Tackle
 Chemister's Insight
 Chemister's Trick
@@ -5391,6 +5398,7 @@ Clive's Hideaway
 Clive, Ifrit's Dominant
 Cloak and Dagger
 Cloak and Dagger, Entwined
+Cloak and Phaser
 Cloak of Confusion
 Cloak of Feathers
 Cloak of Invisibility
@@ -6462,6 +6470,7 @@ Crystallized Serah
 Cuboid Colony
 Cubwarden
 Cudgel Troll
+Culber and Stamets, Star-Crossed
 Culling Dais
 Culling Drone
 Culling Mark
@@ -6592,6 +6601,7 @@ Cursed Windbreaker
 Cursed Wombat
 Curtain of Light
 Curtains' Call
+Curzon Dax, Bound by Blood
 Custodi Lich
 Custodi Peacekeeper
 Custodi Soulbinders
@@ -6878,6 +6888,7 @@ Dash Hopes
 Dashing Bloodsucker
 Data, Exploring Humanity
 Data, New Life
+Data, Professor of Humanities
 Dathon and Picard at El-Adrel
 Dathon, His Heart Open
 Daughter of Autumn
@@ -6909,6 +6920,7 @@ Dauthi Slayer
 Dauthi Trapper
 Dauthi Voidwalker
 Dauthi Warlord
+David and Carol Marcus, Creators
 Davriel's Shadowfugue
 Davriel's Withering
 Davriel, Rogue Shadowmage
@@ -8101,6 +8113,7 @@ Dr. Beverly Crusher
 Dr. Eggman
 Dr. Joseph M'Benga
 Dr. Julius Jumblemorph
+Dr. Leonard "Bones" McCoy
 Dr. Madison Li
 Dr. McCoy, Surly Surgeon
 Dr. Pulaski, Cynical Clinician
@@ -9261,6 +9274,7 @@ Enchantress's Presence
 Encircling Fissure
 Enclave Cryptologist
 Enclave Elite
+Encounter the Unknown
 Encouraging Aviator
 Encroach
 Encroaching Dragonstorm
@@ -10314,6 +10328,7 @@ Fecundity
 Federation Field Medic
 Federation Outpost
 Federation Probe
+Federation Resupply
 Feebleness
 Feed
 Feed the Bog
@@ -10407,6 +10422,7 @@ Feral Throwback
 Ferenginar
 Ferocification
 Ferocious Charge
+Ferocious Colonist
 Ferocious Pup
 Ferocious Tigorilla
 Ferocious Werefox
@@ -11432,6 +11448,7 @@ Fuel the Flames
 Fugitive Codebreaker
 Fugitive Droid
 Fugitive Druid
+Fugitive Listener
 Fugitive Wizard
 Fugitive of the Judoon
 Fugue
@@ -11562,6 +11579,7 @@ Gaea's Skyfolk
 Gaea's Touch
 Gaea's Will
 Gaelicat
+Gagh Slinger
 Gahiji, Honored One
 Gainsay
 Gaius van Baelsar
@@ -11629,6 +11647,7 @@ Galvanic Key
 Galvanic Relay
 Galvanize
 Galvanizing Sawship
+Galvanizing Tenor
 Galvanoth
 Gamble
 Game Knights Live
@@ -11856,6 +11875,7 @@ Generous Stray
 Generous Visitor
 Genesis
 Genesis Chamber
+Genesis Device
 Genesis Effect
 Genesis Hydra
 Genesis Storm
@@ -12391,6 +12411,7 @@ Glory
 Glory Bearers
 Glory Seeker
 Glory of Warfare
+Glory to the Empire!
 Glory-Bound Initiate
 Glorybringer
 Gloryheath Lynx
@@ -12430,6 +12451,7 @@ Gnarled Sage
 Gnarled Scarhide
 Gnarlid Colony
 Gnarlid Pack
+Gnarling Targ
 Gnarlroot Pallbearer
 Gnarlroot Trapper
 Gnarlwood Dryad
@@ -13104,6 +13126,7 @@ Griffin Rider
 Griffin Sentinel
 Griffnaut Tracker
 Grifter's Blade
+Grilka, Widowed Warrior
 Grim Affliction
 Grim Backwoods
 Grim Bauble
@@ -13430,6 +13453,7 @@ Gwendlyn Di Corci
 Gwenna, Eyes of Gaea
 Gwenom, Remorseless
 Gwyllion Hedge-Mage
+Gwyndala, the Progeny
 Gylwain, Casting Director
 Gyome, Master Chef
 Gyox, Brutal Carnivora
@@ -14756,6 +14780,7 @@ I Will Savor Your Agony
 I'm Going On An Adventure!
 I'm Rubber, You're Glue
 I'm a Doctor, Not a . . .
+I.K.S. Negh'Var, Imperial Flagship
 Ian Chesterton
 Ian Malcolm, Chaotician
 Ian the Reckless
@@ -14980,6 +15005,7 @@ Imperial Ceratops
 Imperial Cosmographer
 Imperial Edict
 Imperial Hellkite
+Imperial Hullbreachers
 Imperial Lancer
 Imperial Mask
 Imperial Moth
@@ -15106,6 +15132,7 @@ Indatha Crystal
 Indatha Triome
 Indebted Samurai
 Indebted Spirit
+Indelicate Healer
 Indentured Djinn
 Indentured Oaf
 Independent Troops
@@ -15653,6 +15680,7 @@ Isolated Watchtower
 Isolation Cell
 Isolation Zone
 Isolation at Orthanc
+Isolinear Processor
 Isperia the Inscrutable
 Isperia's Skywatch
 Isperia, Supreme Judge
@@ -15857,6 +15885,7 @@ Jaya, Venerated Firemage
 Jayemdae Tome
 Jazal Goldmane
 Jean-Luc Picard, Luminary
+Jean-Luc, Mon Capitaine
 Jecht, Reluctant Guardian
 Jedit Ojanen
 Jedit Ojanen of Efrava
@@ -16139,7 +16168,9 @@ Jwari Shapeshifter
 Jyoti, Moag Ancient
 Jötun Grunt
 Jötun Owl Keeper
+K'Vort-Class Raider
 K'rrik, Son of Yawgmoth
+K't'inga-Class Battle Cruiser
 K'un-Lun Warrior
 K-9, Mark I
 Ka-Zar of the Savage Land
@@ -16240,6 +16271,7 @@ Kamiz, Obscura Oculus
 Kang Dynasty
 Kang Prime
 Kang the Conqueror
+Kang, Suspicious Captain
 Kang, Temporal Tyrant
 Kangee's Lieutenant
 Kangee, Aerie Keeper
@@ -16668,6 +16700,7 @@ Kiri-Onna
 Kirin-Touched Orochi
 Kirk, Commanding Officer
 Kirk, Enterprising Captain
+Kirk, Man of Action
 Kirol, Attentive First-Year
 Kirol, History Buff
 Kirri, Talented Sprout
@@ -16904,6 +16937,7 @@ Kor Scythemaster
 Kor Sky Climber
 Kor Skyfisher
 Kor Spiritdancer
+Kor, Cause of Vengeance
 Korlash, Heir to Blackblade
 Korlessa, Scale Singer
 Kormus Bell
@@ -17069,6 +17103,7 @@ Kura, the Boundless Sky
 Kurbis, Harvest Celebrant
 Kurgadon
 Kurkesh, Onakke Ancient
+Kurn, Son of Mogh
 Kuro's Taken
 Kuro, Pitlord
 Kuroki, Thief of Talents
@@ -17108,6 +17143,7 @@ Kytheon, Hero of Akros
 Kíli the Resourceful
 L'Rell, Fierce Visionary
 La Forge, Perceptive Engineer
+La Forge, Thoughtful as Ever
 La'An Noonien-Singh, Security
 Lab Rats
 Laboratory Brute
@@ -18248,6 +18284,7 @@ M'Odo, the Gnarled Oracle
 M.O.D.O.K.
 M.O.D.O.K., Evil Intellect
 MACH-1, Swooping Scoundrel
+MACO Strike Team
 MJ, Rising Star
 Ma Chao, Western Warrior
 Maalfeld Twins
@@ -18763,6 +18800,7 @@ Martial Coup
 Martial Glory
 Martial Impetus
 Martial Law
+Martok, Hero of the Empire
 Martyr for the Cause
 Martyr of Ashes
 Martyr of Bones
@@ -19097,6 +19135,7 @@ Merchant of Truth
 Merchant of Venom
 Merchant of the Vale
 Merchant's Dockhand
+Merciful Mandate
 Merciless Enforcers
 Merciless Eternal
 Merciless Eviction
@@ -21213,6 +21252,7 @@ Obelisk of Jund
 Obelisk of Naya
 Obelisk of Undoing
 Obelisk of Urd
+Oberth-Class Starship
 Oblation
 Obliterate
 Obliterating Bolt
@@ -21888,6 +21928,7 @@ Owlbear Shepherd
 Owlin Historian
 Owlin Shieldmage
 Owlin Spiralmancer
+Own the Day
 Ox Drover
 Ox of Agonas
 Oxidda Daredevil
@@ -22153,6 +22194,7 @@ Patron of the Orochi
 Patron of the Valiant
 Patron of the Vein
 Patron of the Wild
+Pattern Buffer Preservation
 Pattern Matcher
 Pattern of Rebirth
 Paupers' Cage
@@ -22429,6 +22471,7 @@ Photon Blast Barrage
 Photon, Lady of Light
 Photon, Living Light
 Photon, Mighty Marvel
+Photosynthetic Physician
 Phthisis
 Phylactery Lich
 Phylath, World Sculptor
@@ -23534,6 +23577,7 @@ Pyrrhic Strike
 Python
 Pyxis of Pandemonium
 Q, Stacking the Deck
+Q, Your Illustrious Host
 Qal Sisma Behemoth
 Qala, Ajani's Pridemate
 Qarsi Deceiver
@@ -23546,6 +23590,7 @@ Qasali Slingers
 Qilin's Blessing
 Qiqirn Merchant
 Qo'noS
+Qo'noS Quartermaster
 Quag Feast
 Quag Sickness
 Quag Vampires
@@ -24931,6 +24976,7 @@ Riftsweeper
 Riftwing Cloudskate
 Rig for War
 Rigging Runner
+Right of Vengeance
 Righteous Aura
 Righteous Authority
 Righteous Avengers
@@ -25073,6 +25119,7 @@ Risky Move
 Risky Research
 Risky Shortcut
 Risona, Asari Commander
+Rite of Ascension
 Rite of Belzenlok
 Rite of Consumption
 Rite of Flame
@@ -25967,8 +26014,10 @@ Sarah's Wings
 Sarcatog
 Sarcomancy
 Sarcomite Myr
+Sarcophagus, Ship of the Dead
 Sardian Avenger
 Sardian Cliffstomper
+Sarek, Federation Ambassador
 Sarevok the Usurper
 Sarevok's Tome
 Sarevok, Deadly Usurper
@@ -25999,6 +26048,7 @@ Sarkhan, Wanderer to Shiv
 Sarkhan, the Dragonspeaker
 Sarpadian Empires, Vol. VII
 Sarpadian Simulacrum
+Saru, Unthreatened
 Sarulf's Packmate
 Sarulf, Realm Eater
 Saruli Caretaker
@@ -26274,6 +26324,7 @@ Scornful Egotist
 Scorpion Sentinel
 Scorpion's Sting
 Scorpion, Seething Striker
+Scotty, Chief Engineer
 Scotty, Miracle Worker
 Scour
 Scour All Possibilities
@@ -27638,6 +27689,7 @@ Sinkhole
 Sinkhole Surveyor
 Sinking Feeling
 Sinner's Judgment
+Sins of the Father
 Sins of the Past
 Sinstriker's Will
 Sinuous Benthisaur
@@ -28990,6 +29042,7 @@ Splitting Slime
 Splitting the Powerstone
 Spock, Always Your Friend
 Spock, Logical Choice
+Spock, Voice of Reason
 Spoils of Adventure
 Spoils of Blood
 Spoils of Evil
@@ -29877,6 +29930,7 @@ Sultai Runemark
 Sultai Scavenger
 Sultai Skullkeeper
 Sultai Soothsayer
+Sulu, Heroic Helmsman
 Sulu, Space Swashbuckler
 Sumala Rumblers
 Sumala Sentry
@@ -30496,6 +30550,7 @@ Takenuma Bleeder
 Takenuma, Abandoned Mire
 Takesies
 Takklemaggot
+Tal Shiar Analyst
 Talara's Bane
 Talara's Battalion
 Talarian Hook Spider
@@ -31142,6 +31197,7 @@ The Balrog, Flame of Udûn
 The Bath Song
 The Battle of Bywater
 The Battle of Dragon Brothers
+The Beacon of Kahless
 The Beamtown Bullies
 The Bean
 The Bear Force Pilot
@@ -31242,6 +31298,7 @@ The Destined Black Mage
 The Destined Thief
 The Destined Warrior
 The Destined White Mage
+The Destruction of Praxis
 The Dilu Horse
 The Dining Car
 The Disciple of Nissa
@@ -31486,6 +31543,7 @@ The Mysterious Sphere
 The Mystery Raceway
 The Mystical Archive
 The Necrobloom
+The Needs of the Many
 The Neutrinos
 The Night of the Doctor
 The Ninth Doctor
@@ -31515,6 +31573,7 @@ The Princess Takes Flight
 The Prismatic Bridge
 The Prismatic Piper
 The Pro Tour
+The Promise of Kahless
 The Protector
 The Provider
 The Prydwen, Steel Flagship
@@ -32815,6 +32874,7 @@ Trivia Contest (c)
 Trivia Contest (d)
 Trivia Contest (e)
 Trivia Contest (f)
+Troi, Winging It
 Trokin High Guard
 Troll Ascetic
 Troll Negotiations
@@ -33116,6 +33176,7 @@ Ugin, the Ineffable
 Ugin, the Spirit Dragon
 Uglúk of the White Hand
 Uh, Squen & Cragg Made a Card
+Uhura, Xenolinguist
 Ukkima, Stalking Shadow
 Uktabi Drake
 Uktabi Efreet
@@ -33875,6 +33936,7 @@ Venerated Rotpriest
 Venerated Stormsinger
 Venerated Teacher
 Vengeance
+Vengeance Mission
 Vengeant Earth
 Vengeant Vampire
 Vengeful Ancestor
@@ -34464,6 +34526,7 @@ Vona de Iedo, the Antifex
 Vona's Hunger
 Vona, Butcher of Magan
 Voodoo Doll
+Voq, Torchbearer
 Voracious Bibliophile
 Voracious Brood
 Voracious Cobra
@@ -34808,6 +34871,7 @@ Warning
 Warning Tremor
 Warp Artifact
 Warp Core
+Warp Speed
 Warp World
 Warpath
 Warpath Ghoul
@@ -35685,6 +35749,7 @@ Worf, Defiant Commander
 Worf, Honor-Bound Warrior
 Worf, Intelligence Contractor
 Worf, Son of Mogh
+Worf, Still Not Merry
 Work a Double
 Workhorse
 Working Stiff
