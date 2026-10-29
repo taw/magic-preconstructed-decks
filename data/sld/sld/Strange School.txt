@@ -1,6 +1,8 @@
-// NAME: 怪異学校 — Strange School
+// NAME: Strange School
 // SOURCE: https://secretlair.wizards.com/us/product/1255732
 // DATE: 2026-11-18
+// On the WotC website name is unusually listed in two languages (怪異学校 — Strange School),
+// but we only keep the English name. Both languages say the same thing.
 1 [SLD:2709] Attrition
 1 [SLD:2710] Bitter Ordeal
 1 [SLD:2711] Ophiomancer
