@@ -1,4 +1,4 @@
-// NAME: Mahō Gakuin Seishun Hakusho — 魔法学院青春白書
+// NAME: Mahō Gakuin Seishun Hakusho
 // SOURCE: https://secretlair.wizards.com/us/product/1250411
 // DATE: 2026-05-12
 1 [SLD:2478] Rule of Law
