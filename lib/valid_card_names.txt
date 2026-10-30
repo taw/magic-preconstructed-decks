@@ -773,6 +773,7 @@ Altered Ego
 Aluren
 Always Watching
 Amalia Benavides Aguirre
+Amanda Grayson, Logic's Link
 Amarant Coral
 Amaranthine Wall
 Amareth, the Lustrous
@@ -1564,6 +1565,7 @@ Artificer's Dragon
 Artificer's Epiphany
 Artificer's Hex
 Artificer's Intuition
+Artificial Anomaly
 Artificial Evolution
 Artifist Acumen
 Artillerize
@@ -2168,6 +2170,7 @@ Balamb T-Rexaur
 Balan, Wandering Knight
 Balance
 Balance of Power
+Balance of Terror
 Balancing Act
 Baldin, Century Herdmaster
 Baldur's Gate
@@ -3747,6 +3750,7 @@ Brawler's Plate
 Brawn
 Brawn, Amadeus Cho
 Brazen Blademaster
+Brazen Bluff
 Brazen Boarding
 Brazen Borrower
 Brazen Buccaneers
@@ -5052,8 +5056,10 @@ Chicken Egg
 Chicken Troupe
 Chicken à la King
 Chief Engineer
+Chief Kyle, Transporter Tech
 Chief Magistrate of Mercadia
 Chief Miles O'Brien
+Chief Montgomery Scott
 Chief Warg's Company
 Chief of the Edge
 Chief of the Foundry
@@ -5614,6 +5620,7 @@ Colos Yearling
 Colossadactyl
 Colossal Badger
 Colossal Chorus
+Colossal Clone Master
 Colossal Collision
 Colossal Dreadmask
 Colossal Dreadmaw
@@ -7988,6 +7995,7 @@ Dominating Vampire
 Dominator Drone
 Domineer
 Domineering Will
+Dominion Infiltration
 Dominion Saboteur
 Dominion Supervisor
 Dominus of Fealty
@@ -10867,6 +10875,7 @@ Fledgling Imp
 Fledgling Mawcor
 Fledgling Osprey
 Fleecemane Lion
+Fleet Captain Christopher Pike
 Fleet Swallower
 Fleet-Footed Monk
 Fleetfeather Cockatrice
@@ -12087,6 +12096,7 @@ Giant Secrets
 Giant Shark
 Giant Slug
 Giant Solifuge
+Giant Space Amoeba
 Giant Spectacle
 Giant Spider
 Giant Strength
@@ -15848,6 +15858,7 @@ Jandor's Ring
 Jandor's Saddlebags
 Jandor, Fortuned Traveler
 Jangling Automaton
+Janice Rand, Essential Aide
 Janjeet Sentry
 Jar of Eyeballs
 Jarad's Orders
@@ -15893,6 +15904,7 @@ Jedit Ojanen, Mercenary
 Jedit's Dragoons
 Jeering Homunculus
 Jeering Instigator
+Jefferies Tube
 Jegantha, the Wellspring
 Jelenn Sphinx
 Jeleva, Nephalia's Scourge
@@ -17598,7 +17610,9 @@ Lier, Disciple of the Drowned
 Liesa, Forgotten Archangel
 Liesa, Shroud of Dusk
 Lieutenant Commander Data
+Lieutenant Hikaru Sulu
 Lieutenant Kirtar
+Lieutenant Nyota Uhura
 Lieutenants of the Guard
 Life
 Life Burst
@@ -18128,6 +18142,7 @@ Loyal Tutor
 Loyal Unicorn
 Loyal Warhound
 Lozhan, Dragons' Legacy
+Lt. Arex, Ever-Adapting
 Lt. Cmdr. Geordi La Forge
 Lu Bu, Master-at-Arms
 Lu Meng, Wu General
@@ -18281,6 +18296,7 @@ Lyzolda, the Blood Witch Avatar
 Lórien Revealed
 M'Baku, Jabari Chieftain
 M'Odo, the Gnarled Oracle
+M'Ress, Crew Coordinator
 M.O.D.O.K.
 M.O.D.O.K., Evil Intellect
 MACH-1, Swooping Scoundrel
@@ -18983,6 +18999,7 @@ Mazemind Tome
 Mazirek, Kraul Death Priest
 Mazzy, Truesword Paladin
 Maître Tree
+McCoy, Not a Bricklayer
 Me, the Immortal
 Meadowboon
 Meager Meal
@@ -20778,6 +20795,7 @@ Nezumi Road Captain
 Nezumi Ronin
 Nezumi Shadow-Watcher
 Nezumi Shortfang
+Ni'Var Science Academy
 Niall Silvain
 Niambi, Beloved Protector
 Niambi, Esteemed Speaker
@@ -22199,6 +22217,7 @@ Pattern Matcher
 Pattern of Rebirth
 Paupers' Cage
 Pause for Reflection
+Pavel Chekov, First Posting
 Pavel Maliki
 Pawn of Ulamog
 Pawpatch Formation
@@ -22770,6 +22789,7 @@ Planeswalker's Mirth
 Planeswalker's Mischief
 Planeswalker's Scorn
 Planeswalkerificate
+Planet Killer
 Planetarium of Wan Shi Tong
 Planetary Annihilation
 Planetary Bombardment
@@ -24386,6 +24406,7 @@ Recurring Nightmare
 Recursive Recruitment
 Recycla-bird
 Recycle
+Red Alert!
 Red Cliffs Armada
 Red Death, Shipwrecker
 Red Dragon
@@ -25312,6 +25333,7 @@ Roiling Terrain
 Roiling Vortex
 Roiling Waters
 Roilmage's Trick
+Rok-Tahk, Budding Scientist
 Roku's Mastery
 Role Reversal
 Roll-Roll-Roll-Roll
@@ -25692,6 +25714,7 @@ S.H.I.E.L.D. Helicarrier
 S.H.I.E.L.D. Spy Kit
 S.N.E.A.K. Dispatcher
 S.N.O.T.
+S.S. Botany Bay
 SOLDIER Military Program
 SP//dr, Piloted by Peni
 Saavik, Stoic Student
@@ -25853,6 +25876,7 @@ Salvaging Station
 Salvation Colossus
 Salvation Engine
 Salvation Swan
+Sam Kirk, Xenoanthropologist
 Sam's Desperate Rescue
 Sam, Loyal Attendant
 Sami's Curiosity
@@ -27412,6 +27436,7 @@ Shuri, the Black Panther
 Shuriken
 Shuttle Ace
 Shuttle Crew
+Shuttlecraft Galileo
 Shy Town
 Shyft
 Siani, Eye of the Storm
@@ -28672,6 +28697,7 @@ Spear of the General
 Spearbreaker Behemoth
 Spearpoint Oread
 Special Move
+Species 8472
 Species Gorger
 Species Specialist
 Specimen Collector
@@ -29180,6 +29206,7 @@ Stab
 Stab Wound
 Stabbing Pain
 Stabilizer
+Stable Wormhole
 Stabwhisker the Odious
 Stack of Paperwork
 Stadium Headliner
@@ -30457,6 +30484,7 @@ Séance Board
 T'Chaka, Venerable King
 T'Challa, the Black Panther
 T'Pol, Vulcan Representative
+T'Pring, Never Parted
 T-45 Power Armor
 T.A.P.P.E.R.
 TARDIS
@@ -31413,6 +31441,7 @@ The Great Work
 The Grey Havens
 The Grim Captain
 The Grim Captain's Locker
+The Guardian of Forever
 The Gunky Runner
 The Harvester
 The Haunt of Hightower
@@ -32670,6 +32699,7 @@ Transmutation
 Transmutation Font
 Transmute Artifact
 Transplant Theorist
+Transporter Malfunction
 Transpose
 Transwarp Hub
 Trap Digger
@@ -32810,6 +32840,7 @@ Tribal Flames
 Tribal Forcemage
 Tribal Golem
 Tribal Unity
+Tribble Cluster
 Tribune of Rot
 Tributary Instructor
 Tributary Vaulter
@@ -33149,6 +33180,7 @@ Tyvar, Jubilant Brawler
 Tyvar, the Pummeler
 Tzaangor Shaman
 U.S.Agent, John Walker
+U.S.S. Defiant, Mirror Migrant
 U.S.S. Defiant, Tough Little Ship
 U.S.S. Discovery, at Black Alert
 U.S.S. Enterprise-A, Free Spirit
@@ -33156,9 +33188,11 @@ U.S.S. Enterprise-C, Time-Tossed
 U.S.S. Enterprise-D, Galaxy-Class
 U.S.S. Enterprise-E, Sovereign
 U.S.S. Excelsior, Cutting Edge
+U.S.S. Farragut, Bold Explorer
 U.S.S. Prometheus, Prototype
 U.S.S. Reliant, From Hell's Heart
 U.S.S. Stargazer, Here and There
+U.S.S. Voyager, Lone Wanderer
 UNIT Headquarters
 Uba Mask
 Ubul Sar Gatekeepers
@@ -34599,6 +34633,7 @@ Vronos, Masked Inquisitor
 Vryn Wingmare
 Vug Lizard
 Vulcan
+Vulcan Mind-Meld
 Vulpikeet
 Vulpine Goliath
 Vulpine Harvester
@@ -35152,6 +35187,7 @@ Werewolf Pack Leader
 Werewolf Ransacker
 Werewolf of Ancient Hunger
 Wernog, Rider's Chaplain
+Wesley Crusher, Starfleet Cadet
 West Coast Expansion
 West Wind Avatar
 Western Paladin
