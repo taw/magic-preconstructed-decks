@@ -5587,6 +5587,7 @@ Coliseum Behemoth
 Collapsing Borders
 Collar the Culprit
 Collateral Damage
+Collation Trimatrix
 Collected Company
 Collected Conjuring
 Collectigull
@@ -5644,6 +5645,7 @@ Colossus of Sardia
 Colossus of the Blood Age
 Colossus, Steel Stalwart
 Coma Veil
+Combadge
 Combat Calligrapher
 Combat Celebrant
 Combat Courier
@@ -7995,6 +7997,7 @@ Dominating Vampire
 Dominator Drone
 Domineer
 Domineering Will
+Dominion Assault Force
 Dominion Infiltration
 Dominion Saboteur
 Dominion Supervisor
@@ -9197,6 +9200,7 @@ Emerge Unscathed
 Emerge from the Cocoon
 Emergence Zone
 Emergency Eject
+Emergency Holographic Crew
 Emergency Medical Hologram
 Emergency Phytomedic
 Emergency Powers
@@ -11746,6 +11750,7 @@ Gary Clone
 Garza Zol, Plague Queen
 Garza's Assassin
 Gas Guzzler
+Gaseous Anomaly
 Gaseous Form
 Gastal Blockbuster
 Gastal Raider
@@ -12016,6 +12021,7 @@ Ghost Tactician
 Ghost Town
 Ghost Vacuum
 Ghost Warden
+Ghost of Illyria
 Ghost of Ramirez DePietro
 Ghost, Spectral Saboteur
 Ghost-Lit Drifter
@@ -13399,6 +13405,7 @@ Guiltfeeder
 Guilty Conscience
 Guinan, Ancient Advisor
 Guise of Fire
+Gul Dukat, Colonial Prefect
 Gulf Squid
 Gulping Scraptrap
 Guma
@@ -19067,6 +19074,7 @@ Melira's Keepers
 Melira's Snacks
 Melira, Sylvok Outcast
 Melira, the Living Cure
+Melkotian Adjudicator
 Meloku the Clouded Mirror
 Melt Terrain
 Melt Through
@@ -20645,6 +20653,7 @@ Needlethorn Drake
 Needletooth Pack
 Needletooth Raptor
 Needleverge Pathway
+Neelix, Moral Support
 Neera, Wild Mage
 Neerdiv, Devious Diver
 Nef-Crop Entangler
@@ -23596,6 +23605,7 @@ Pyrrhic Revival
 Pyrrhic Strike
 Python
 Pyxis of Pandemonium
+Q Continuum
 Q, Stacking the Deck
 Q, Your Illustrious Host
 Qal Sisma Behemoth
@@ -26159,6 +26169,7 @@ Savor
 Savor the Moment
 Savra, Queen of the Golgari
 Savvy Hunter
+Savvy Profiteer
 Savvy Trader
 Saw
 Saw (Playtest)
@@ -27450,6 +27461,7 @@ Sibsig's Artisan
 Sibylline Soothsayer
 Sicarian Infiltrator
 Sick and Tired
+Sickbay
 Sickbay Orderly
 Sicken
 Sickening Dreams
@@ -29306,6 +29318,7 @@ Starfighter Pilot
 Starfleet Academy
 Starfleet Communicator
 Starfleet Crew
+Starfleet Security
 Starfleet Spanner Jockey
 Starforged Sword
 Stargaze
@@ -29750,6 +29763,7 @@ Stratus Walk
 Straw Golem
 Straw Soldiers
 Strax, Sontaran Nurse
+Stray from History
 Streaking Oilgorger
 Stream Hopper
 Stream of Acid
@@ -30579,6 +30593,7 @@ Takenuma, Abandoned Mire
 Takesies
 Takklemaggot
 Tal Shiar Analyst
+Tal Shiar Operative
 Talara's Bane
 Talara's Battalion
 Talarian Hook Spider
@@ -30942,6 +30957,7 @@ Temple of the Dead
 Temple of the Dragon Queen
 Temple of the False God
 Temporal Adept
+Temporal Anomaly
 Temporal Aperture
 Temporal Cascade
 Temporal Cleansing
@@ -30990,6 +31006,7 @@ Temur Tawnyback
 Temur War Shaman
 Ten Wizards Mountain
 Tenacious Dead
+Tenacious Drone
 Tenacious Hunter
 Tenacious Pup
 Tenacious Tomeseeker
@@ -31095,6 +31112,7 @@ Test of Conviction
 Test of Courage
 Test of Endurance
 Test of Faith
+Test of Identity
 Test of Loyalty
 Test of Priorities
 Test of Talents
@@ -31571,6 +31589,7 @@ The Myriad Pools
 The Mysterious Sphere
 The Mystery Raceway
 The Mystical Archive
+The Naked Time
 The Necrobloom
 The Needs of the Many
 The Neutrinos
@@ -33180,6 +33199,7 @@ Tyvar, Jubilant Brawler
 Tyvar, the Pummeler
 Tzaangor Shaman
 U.S.Agent, John Walker
+U.S.S. Cerritos, Following Up
 U.S.S. Defiant, Mirror Migrant
 U.S.S. Defiant, Tough Little Ship
 U.S.S. Discovery, at Black Alert
