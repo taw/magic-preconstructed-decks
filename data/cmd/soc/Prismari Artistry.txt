@@ -1,5 +1,6 @@
 // NAME: Prismari Artistry
 // SOURCE: https://magic.wizards.com/en/news/announcements/secrets-of-strixhaven-commander-decklists
+// SOURCE: https://www.cardkingdom.com/mtg/secrets-of-strixhaven-commander-decks/secrets-of-strixhaven-commander-deck-prismari-artistry
 // DATE: 2026-04-24
 COMMANDER: 1 Rootha, Mastering the Moment [foil]
 1 Muddle, the Ever-Changing [foil]
@@ -86,7 +87,5 @@ COMMANDER: 1 Rootha, Mastering the Moment [foil]
 1 Reliquary Tower
 1 Study Hall
 1 Temple of the False God
-4 Island [SOS:274]
-4 Island [SOS:275]
-4 Mountain [SOS:278]
-3 Mountain [SOS:279]
+8 Island [SOS:274]
+7 Mountain [SOS:279]

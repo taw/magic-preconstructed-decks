@@ -1,5 +1,6 @@
 // NAME: Quandrix Unlimited
 // SOURCE: https://magic.wizards.com/en/news/announcements/secrets-of-strixhaven-commander-decklists
+// SOURCE: https://www.cardkingdom.com/mtg/secrets-of-strixhaven-commander-decks/secrets-of-strixhaven-commander-deck-quandrix-unlimited
 // DATE: 2026-04-24
 COMMANDER: 1 Zimone, Infinite Analyst [foil]
 1 Primo, the Unbounded [foil]
@@ -88,7 +89,5 @@ COMMANDER: 1 Zimone, Infinite Analyst [foil]
 1 Study Hall
 1 Tangled Islet
 1 Temple of the False God
-4 Island [SOS:274]
-3 Island [SOS:275]
-3 Forest [SOS:280]
-3 Forest [SOS:281]
+7 Island [SOS:275]
+6 Forest [SOS:281]
