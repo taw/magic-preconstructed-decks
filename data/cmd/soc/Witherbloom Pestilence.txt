@@ -1,5 +1,6 @@
 // NAME: Witherbloom Pestilence
 // SOURCE: https://magic.wizards.com/en/news/announcements/secrets-of-strixhaven-commander-decklists
+// SOURCE: https://www.cardkingdom.com/mtg/secrets-of-strixhaven-commander-decks/secrets-of-strixhaven-commander-deck-witherbloom-pestilence
 // DATE: 2026-04-24
 COMMANDER: 1 Dina, Essence Brewer [foil]
 1 Gorma, the Gullet [foil]
@@ -85,7 +86,5 @@ COMMANDER: 1 Dina, Essence Brewer [foil]
 1 Path of Ancestry
 1 Study Hall
 1 Witherbloom Campus
-4 Swamp [SOS:276]
-4 Swamp [SOS:277]
-4 Forest [SOS:280]
-4 Forest [SOS:281]
+8 Swamp [SOS:276]
+8 Forest [SOS:280]

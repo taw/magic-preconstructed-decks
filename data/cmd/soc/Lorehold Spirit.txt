@@ -1,5 +1,6 @@
 // NAME: Lorehold Spirit
 // SOURCE: https://magic.wizards.com/en/news/announcements/secrets-of-strixhaven-commander-decklists
+// SOURCE: https://www.cardkingdom.com/mtg/secrets-of-strixhaven-commander-decks/secrets-of-strixhaven-commander-deck-lorehold-spirit
 // DATE: 2026-04-24
 COMMANDER: 1 Quintorius, History Chaser [foil]
 1 Excava, the Risen Past [foil]
@@ -84,7 +85,5 @@ COMMANDER: 1 Quintorius, History Chaser [foil]
 1 Mistveil Plains
 1 Sacred Peaks
 1 Study Hall
-6 Plains [SOS:272]
-5 Plains [SOS:273]
-3 Mountain [SOS:278]
-3 Mountain [SOS:279]
+11 Plains [SOS:272]
+6 Mountain [SOS:278]
