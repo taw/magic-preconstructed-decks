@@ -1,0 +1,8 @@
+// NAME: Strange School Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1255731
+// DATE: 2026-11-18
+1 [SLD:2709] Attrition [foil]
+1 [SLD:2710] Bitter Ordeal [foil]
+1 [SLD:2711] Ophiomancer [foil]
+1 [SLD:2712] Sign in Blood [foil]
+1 [SLD:2713] Soul Spike [foil]
