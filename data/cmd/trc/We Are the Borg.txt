@@ -5,7 +5,7 @@
 // COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 The Borg Queen [TRC:1] [foil]
-1 Locutus of Borg [TRC:97] [foil]
+1 Locutus of Borg [TRC:97]
 1 Borg Incursion [TRC:12]
 1 Emergency Regeneration [TRC:14]
 1 Join the Collective [TRC:20]

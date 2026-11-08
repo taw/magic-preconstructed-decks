@@ -5,7 +5,7 @@
 // COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 Worf, Defiant Commander [TRC:4] [foil]
-1 Kor, Cause of Vengeance [TRC:96] [foil]
+1 Kor, Cause of Vengeance [TRC:96]
 1 Ambassador K'Ehleyr [TRC:9]
 1 Imperial Hullbreachers [TRC:18]
 1 Indelicate Healer [TRC:19]

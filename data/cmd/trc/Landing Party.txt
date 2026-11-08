@@ -5,7 +5,7 @@
 // COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 Commander Spock [TRC:2] [foil]
-1 Captain Kirk, Boldly Going [TRC:85] [foil]
+1 Captain Kirk, Boldly Going [TRC:85]
 1 Balance of Terror [TRC:10]
 1 Merciful Mandate [TRC:25]
 1 M'Ress, Crew Coordinator [TRC:26]

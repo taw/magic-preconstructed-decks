@@ -5,7 +5,7 @@
 // COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 Jean-Luc Picard, Luminary [TRC:3] [foil]
-1 Captain Janeway, Endgame [TRC:84] [foil]
+1 Captain Janeway, Endgame [TRC:84]
 1 Ambassador K'Ehleyr [TRC:9]
 1 Beverly Crusher, Ship's Doctor [TRC:11]
 1 Dr. Pulaski, Cynical Clinician [TRC:13]
