@@ -2,7 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists
 // DATE: 2026-11-13
 // COMMENTS: Card numbers from Scryfall's preliminary TRC/TRK data (checked 2026-11-04).
-// COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
+// COMMENTS: Basic land numbers read from the card images on the official decklist page (Bastien Grivet basics, TRK 317/319/321/323/325).
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 The Borg Queen [TRC:1] [foil]
 1 Locutus of Borg [TRC:97]
@@ -92,6 +92,6 @@ COMMANDER: 1 The Borg Queen [TRC:1] [foil]
 1 Path of Ancestry [TRC:545]
 1 Rogue's Passage [TRC:552]
 1 Terramorphic Expanse [TRC:571]
-4 Plains [TRK:*]
-4 Island [TRK:*]
-4 Swamp [TRK:*]
+4 Plains [TRK:317]
+4 Island [TRK:319]
+4 Swamp [TRK:321]

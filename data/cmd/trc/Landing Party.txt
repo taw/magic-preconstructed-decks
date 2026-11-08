@@ -2,7 +2,7 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists
 // DATE: 2026-11-13
 // COMMENTS: Card numbers from Scryfall's preliminary TRC/TRK data (checked 2026-11-04).
-// COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
+// COMMENTS: Basic land numbers read from the card images on the official decklist page (Bastien Grivet basics, TRK 317/319/321/323/325).
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 Commander Spock [TRC:2] [foil]
 1 Captain Kirk, Boldly Going [TRC:85]
@@ -96,6 +96,6 @@ COMMANDER: 1 Commander Spock [TRC:2] [foil]
 1 Temple of the False God [TRC:570]
 1 Terramorphic Expanse [TRC:571]
 1 Tranquil Landscape [TRC:573]
-4 Forest [TRK:*]
-2 Plains [TRK:*]
-2 Island [TRK:*]
+4 Forest [TRK:325]
+2 Plains [TRK:317]
+2 Island [TRK:319]
