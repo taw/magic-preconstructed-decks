@@ -2,10 +2,10 @@
 // SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists
 // DATE: 2026-11-13
 // COMMENTS: Card numbers from Scryfall's preliminary TRC/TRK data (checked 2026-11-04).
-// COMMENTS: Basic land printings per deck are unknown (TRK has several variants), hence [TRK:*].
+// COMMENTS: Basic land numbers read from the card images on the official decklist page (Bastien Grivet basics, TRK 317/319/321/323/325).
 // COMMENTS: Tokens are not listed in the official decklist; add them once the contents are documented.
 COMMANDER: 1 Jean-Luc Picard, Luminary [TRC:3] [foil]
-1 Captain Janeway, Endgame [TRC:84] [foil]
+1 Captain Janeway, Endgame [TRC:84]
 1 Ambassador K'Ehleyr [TRC:9]
 1 Beverly Crusher, Ship's Doctor [TRC:11]
 1 Dr. Pulaski, Cynical Clinician [TRC:13]
@@ -91,6 +91,6 @@ COMMANDER: 1 Jean-Luc Picard, Luminary [TRC:3] [foil]
 1 Perilous Landscape [TRC:546]
 1 Reliquary Tower [TRC:551]
 1 Terramorphic Expanse [TRC:571]
-5 Island [TRK:*]
-4 Plains [TRK:*]
-4 Mountain [TRK:*]
+5 Island [TRK:319]
+4 Plains [TRK:317]
+4 Mountain [TRK:323]
