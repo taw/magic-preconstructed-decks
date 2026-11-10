@@ -1,0 +1,8 @@
+// NAME: Star Trek: Assimilation
+// SOURCE: https://secretlair.wizards.com/us/product/1255841
+// DATE: 2026-12-16
+1 [SLD:2729] Suture Priest
+1 [SLD:2730] Hive Mind
+1 [SLD:2731] Gix, Yawgmoth Praetor
+1 [SLD:2732] K'rrik, Son of Yawgmoth
+1 [SLD:2733] Elas il-Kor, Sadistic Pilgrim
