@@ -1,0 +1,8 @@
+// NAME: Star Trek: New Worlds
+// SOURCE: https://secretlair.wizards.com/us/product/1255843
+// DATE: 2026-12-16
+2 [SLD:2754] Plains
+2 [SLD:2755] Island
+2 [SLD:2756] Swamp
+2 [SLD:2757] Mountain
+2 [SLD:2758] Forest
