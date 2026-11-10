@@ -1,0 +1,8 @@
+// NAME: Star Trek: tlhIngan maH! Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1255846
+// DATE: 2026-12-16
+1 [SLD:2734a] Demand Answers [foil]
+1 [SLD:2735a] Relentless Assault [foil]
+1 [SLD:2736a] Seething Song [foil]
+1 [SLD:2737a] War's Toll [foil]
+1 [SLD:2738a] Warstorm Surge [foil]

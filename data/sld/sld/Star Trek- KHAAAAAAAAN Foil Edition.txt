@@ -1,0 +1,9 @@
+// NAME: Star Trek: KHAAAAAAAAN Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1255848
+// DATE: 2026-12-16
+1 [SLD:2748] Wrath of the Skies [foil]
+1 [SLD:2749] Commandeer [foil]
+1 [SLD:2750] Illusionist's Gambit [foil]
+1 [SLD:2751] Buried Alive [foil]
+1 [SLD:2752] Genesis Wave [foil]
+1 [SLD:2753] Fracture [foil]
