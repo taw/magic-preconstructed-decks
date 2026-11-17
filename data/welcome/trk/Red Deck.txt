@@ -1,0 +1,24 @@
+// NAME: Red Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks
+// DATE: 2026-11-13
+2 Defense Force Aggressor [TRC:161]
+2 Planetary Patrol
+2 Cantankerous Captain
+1 Direct Hit [TRC:162]
+1 Captain's Tutelage
+1 Khaaaaaaaaaaaannn!
+1 Reckless Impulse
+1 Kirk, Enterprising Captain [TRC:198]
+1 La'An Noonien-Singh, Security
+1 Perils of the Past
+2 Warship Flight Crew [TRC:168]
+1 Silicate Surveyor
+1 Horta
+1 Kruge, Genesis Seeker [TRC:165]
+1 Klingon Strike Force [TRC:199]
+1 Gin'tak Charge [TRC:163]
+1 Run Amok [TRC:582]
+1 Mek'leth Berserker [TRC:166]
+1 Munitions Enthusiast
+1 Plasma Cascade
+16 Mountain [TRK:310]

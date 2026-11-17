@@ -1,0 +1,22 @@
+// NAME: Green Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks
+// DATE: 2026-11-13
+1 Moopsy
+2 Talarian Hook Spider [TRC:175]
+2 Xindi Surveyors
+2 Common Goal
+1 Support Mission
+2 Gorn Captain [TRC:172]
+1 Tenacious Tosk [TRC:201]
+1 Gumato [TRC:173]
+1 Dathon and Picard at El-Adrel
+1 First Contact
+1 Benjamin Sisko, Besieged [TRC:200]
+1 Dominion Supervisor
+1 Cold-Blooded Crew
+1 Mugato
+1 Syndicate Liquidators
+2 I'm a Doctor, Not a . . .
+1 Saurian Explorer
+1 Xenobotanist
+17 Forest [TRK:311]
