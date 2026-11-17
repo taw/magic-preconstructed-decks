@@ -1,0 +1,34 @@
+// NAME: Marvel's History of Heroes
+// SOURCE: https://magic.wizards.com/en/news/announcements/secret-lair-countdown-kit-marvels-history-of-heroes
+// DATE: 2026-11-02
+// DISPLAY: Each card has a chance to appear in traditional foil, and a fractional chance to appear in surge foil. The surge foil cards have a different collector number and are not listed here.
+1 [SLC:54] Molten Duplication
+1 [SLC:55] Fierce Guardianship
+1 [SLC:56] Unbreakable Formation
+1 [SLC:57] Timber Protector
+1 [SLC:58] Biorhythm
+1 [SLC:59] Tainted Pact
+1 [SLC:60] With Great Power . . .
+1 [SLC:61] Vigor
+1 [SLC:62] Mjölnir, Storm Hammer
+1 [SLC:63] Doctor Strange, Master of Magic
+1 [SLC:64] Champion's Helm
+1 [SLC:65] Force of Virtue
+1 [SLC:66] Heroic Intervention
+1 [SLC:67] Fighter Class
+1 [SLC:68] Court of Bounty
+1 [SLC:69] Devastation
+1 [SLC:70] Unholy Heat
+1 [SLC:71] Villainous Wrath
+1 [SLC:72] Damning Verdict
+1 [SLC:73] Primal Might
+1 [SLC:74] Damn
+1 [SLC:75] Genesis Wave
+1 [SLC:76] Fiery Confluence
+1 [SLC:77] Rogue's Gloves
+1 [SLC:78] Beta Ray Bill
+1 [SLC:79] Snuff Out
+1 [SLC:80] Titanic Ultimatum
+1 [SLC:81] Opposition Agent
+1 [SLC:82] Collective Effort
+1 [SLC:83] Lightning Bolt
