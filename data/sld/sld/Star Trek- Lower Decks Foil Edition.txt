@@ -1,0 +1,8 @@
+// NAME: Star Trek: Lower Decks Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1255850
+// DATE: 2026-12-16
+1 [SLD:2739] Inti, Seneschal of the Sun [foil]
+1 [SLD:2740] Kambal, Profiteering Mayor [foil]
+1 [SLD:2741] Silas Renn, Seeker Adept [foil]
+1 [SLD:2742] Thrasios, Triton Hero [foil]
+1 [SLD:2743] Weatherlight [foil]
