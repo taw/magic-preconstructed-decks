@@ -1,0 +1,26 @@
+// NAME: White Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks
+// DATE: 2026-11-13
+1 Emergency Medical Hologram
+2 Starfleet Crew [TRC:139]
+1 Malfunctioning Holodeck
+1 Worf, Chief Tactical Officer [TRC:141]
+1 Operations Officer [TRC:192]
+1 DOT-7 Repair Squad
+1 Tactical Officer
+1 Shuttle Ace
+1 Picard, Steadfast Captain [TRC:193]
+1 Evasive Maneuvers [TRC:132]
+1 Free Borg Revolutionaries
+1 Command Decision
+1 Shuttle Crew [TRC:137]
+1 Will Riker, Assuming Command [TRC:140]
+1 Picard, Leading by Example
+1 Saavik, Stoic Student
+1 Set Phasers to . . .
+1 70,000 Light-Years from Home
+1 Federation Field Medic
+1 Shields Up!
+1 Sickbay Orderly [TRC:138]
+1 Head of Security [TRC:133]
+17 Plains [TRK:307]
