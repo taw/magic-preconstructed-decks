@@ -1,0 +1,8 @@
+// NAME: Star Trek: Lower Decks
+// SOURCE: https://secretlair.wizards.com/us/product/1255851
+// DATE: 2026-12-16
+1 [SLD:2739] Inti, Seneschal of the Sun
+1 [SLD:2740] Kambal, Profiteering Mayor
+1 [SLD:2741] Silas Renn, Seeker Adept
+1 [SLD:2742] Thrasios, Triton Hero
+1 [SLD:2743] Weatherlight
