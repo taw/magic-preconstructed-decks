@@ -1,0 +1,21 @@
+// NAME: Blue Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks
+// DATE: 2026-11-13
+1 Federation Probe
+2 Cloistered Telepath
+1 Disruptor Pistol [TRC:177]
+2 Exocomp [TRC:145]
+2 Kolinahr Priest [TRC:146]
+2 Marooned
+1 Spock, Logical Choice [TRC:194]
+2 Guidance Failure
+1 Humpback Whales
+1 Dominion Saboteur
+1 V'Ger, the Intruder
+2 La Forge, Perceptive Engineer [TRC:147]
+1 Trelane, Squire of Gothos [TRC:195]
+1 Pelia, Immortal Innovator [TRC:148]
+1 T'Pol, Vulcan Representative [TRC:151]
+1 Cryogenic Stasis [TRC:142]
+1 Refute [TRC:579]
+17 Island [TRK:308]

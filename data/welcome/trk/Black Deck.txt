@@ -1,0 +1,24 @@
+// NAME: Black Deck
+// SOURCE: https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks
+// DATE: 2026-11-13
+2 Relentless Drednok
+1 Battle-Scarred Survivalist
+2 Automated Warfare System
+2 Assault Drone
+1 He's Dead, Jim
+1 Organic Avulsion Unit
+1 A Good Day to Die
+1 Hive Mind Coprocessor
+1 Cybernetic Specialist
+1 Borg Queen, Perfection Manifest [TRC:197]
+1 Last Gasp [TRC:580]
+1 Rogue Artificial Intelligence
+1 Collective Drone
+1 Bat'leth
+1 Cha'DIch Investigator
+1 Bio-Asset Allocator [TRC:196]
+1 Badgey, Malicious Glitch [TRC:152]
+1 Resistance Is Futile
+1 Eject the Warp Core
+1 Ceti Eel [TRC:153]
+17 Swamp [TRK:309]
