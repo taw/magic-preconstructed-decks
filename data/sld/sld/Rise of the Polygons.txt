@@ -1,0 +1,7 @@
+// NAME: Rise of the Polygons
+// SOURCE: https://secretlair.wizards.com/us/product/1256026
+// DATE: 2026-11-13
+1 [SLD:2902] Balefire Dragon
+1 [SLD:2903] Big Score
+1 [SLD:2904] Young Pyromancer
+1 [SLD:2905] Sword of Truth and Justice

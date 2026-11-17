@@ -1,0 +1,7 @@
+// NAME: Rise of the Polygons Foil Edition
+// SOURCE: https://secretlair.wizards.com/us/product/1256025
+// DATE: 2026-11-13
+1 [SLD:2902] Balefire Dragon [foil]
+1 [SLD:2903] Big Score [foil]
+1 [SLD:2904] Young Pyromancer [foil]
+1 [SLD:2905] Sword of Truth and Justice [foil]
