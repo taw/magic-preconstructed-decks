@@ -128,6 +128,7 @@ Abyssal Gorestalker
 Abyssal Harvester
 Abyssal Horror
 Abyssal Hunter
+Abyssal Lotus
 Abyssal Nightstalker
 Abyssal Nocturnus
 Abyssal Persecutor
@@ -4305,6 +4306,7 @@ Callous Sell-Sword
 Callow Jushi
 Calming Licid
 Calming Verse
+Calmwater Mentor
 Caltrops
 Camaraderie
 Camato Scout
@@ -12827,6 +12829,7 @@ Goobbue Gardener
 Good Knight
 Good-Fortune Unicorn
 Gor Muldrak, Amphinologist
+Goramou the Coral-Taken
 Gorbag of Minas Morgul
 Gore Swine
 Gore Vassal
@@ -25057,6 +25060,7 @@ Ring of Ma'rûf
 Ring of Renewal
 Ring of Three Wishes
 Ring of Thune
+Ring of Unity
 Ring of Valkas
 Ring of Xathrid
 Ring of the Lucii
@@ -25856,6 +25860,7 @@ Sakura-Tribe Scout
 Sakura-Tribe Springcaller
 Sala, Deck Boss
 Salacinder and Soot, Rascals
+Salinae, the Ocean Mother
 Salivating Gremlins
 Sally Pride, Lioness Leader
 Sally Sparrow
@@ -27274,6 +27279,7 @@ Shimmer of Possibility
 Shimmercreep
 Shimmerdrift Vale
 Shimmering Barrier
+Shimmering Citadel
 Shimmering Efreet
 Shimmering Glasskite
 Shimmering Grotto
@@ -30826,6 +30832,7 @@ Tears of Rage
 Tears of Valakut
 Technodrome
 Technomancer
+Tecton, Malignant Ruin
 Tectonic Break
 Tectonic Edge
 Tectonic Fiend
