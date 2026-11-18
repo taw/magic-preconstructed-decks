@@ -648,12 +648,14 @@ Alchor's Tomb
 Aleatory
 Alela, Artful Provocateur
 Alela, Cunning Conqueror
+Alena, Frontline Rush
 Alena, Kessig Trapper
 Alert Heedbonder
 Alert Shu Infantry
 Alesha's Legacy
 Alesha's Vanguard
 Alesha, Who Laughs at Fate
+Alesha, Who Makes History
 Alesha, Who Smiles at Death
 Alex Wilder, Runaway
 Alexander Clamilton
@@ -1637,6 +1639,7 @@ Ashiok's Forerunner
 Ashiok's Reaper
 Ashiok's Skulker
 Ashiok, Dream Render
+Ashiok, Genderfear
 Ashiok, Nightmare Muse
 Ashiok, Nightmare Weaver
 Ashiok, Sculptor of Fears
@@ -4911,6 +4914,7 @@ Chandra, Heart of Fire
 Chandra, Hope's Beacon
 Chandra, Legacy of Fire
 Chandra, Novice Pyromancer
+Chandra, Pride of Avishkar
 Chandra, Pyrogenius
 Chandra, Pyromaster
 Chandra, Roaring Flame
@@ -6299,6 +6303,7 @@ Crippling Fatigue
 Crippling Fear
 Crisis of Conscience
 Critical Hit
+Critter, Behind the Camera
 Croakid Amphibonaut
 Croaking Counterpart
 Croaking Curse
@@ -6624,6 +6629,7 @@ Custodian of the Trove
 Custody Battle
 Customs Depot
 Cut
+Cut (Prepared)
 Cut Down
 Cut In
 Cut Propulsion
@@ -10401,6 +10407,7 @@ Fellwar Stone
 Felonious Rage
 Felothar the Steadfast
 Felothar, Dawn of the Abzan
+Felothar, Rights and Wrongs 13
 Femeref Archers
 Femeref Enchantress
 Femeref Healer
@@ -12183,6 +12190,7 @@ Gigantosaurus
 Gigapede
 Gigastorm Titan
 Giggling Skitterspike
+Gigi Wellplayed
 Gila Courser
 Gilacorn
 Gilanra, Caller of Wirewood
@@ -13540,6 +13548,7 @@ Haktos the Unscarred
 Halam Djinn
 Halana and Alena and Gisa and Geralf
 Halana and Alena, Partners
+Halana, Covering Fire
 Halana, Kessig Ranger
 Halberdier
 Halcyon Glaze
@@ -13592,6 +13601,7 @@ Halsin, Emerald Archdruid
 Halt Order
 Halvar, God of Battle
 Halving Season
+Ham Sandwich
 Hama Pashar, Ruin Seeker
 Hama, the Bloodbender
 Hamato Guardian Stance
@@ -14609,6 +14619,7 @@ Huatli's Raptor
 Huatli's Snubhorn
 Huatli's Spurring
 Huatli, Dinosaur Knight
+Huatli, Inventor's Inspiration
 Huatli, Poet of Unity
 Huatli, Radiant Champion
 Huatli, Warrior Poet
@@ -16679,11 +16690,13 @@ King Cheetah
 King Crab
 King Darien XLVIII
 King Harald's Revenge
+King Kynaios of Meletis
 King Macar, the Gold-Cursed
 King Narfi's Betrayal
 King Solomon's Frogs
 King Suleiman
 King T'Challa
+King Tiro of Meletis
 King of the Oathbreakers
 King of the Pride
 King's Assassin
@@ -20153,6 +20166,7 @@ Mr. Orfeo, the Boulder
 Mr. Spock, Science Officer
 Mr. Wiggles, Helpful Butterfly
 Ms. Bumbleflower
+Ms. Bumbleflower, No Longer Kind
 Ms. Marvel, Elastic Ally
 Ms. Marvel, Kamala Khan
 Mtenda Griffin
@@ -20911,6 +20925,7 @@ Nikko-Onna
 Niko Aris
 Niko Defies Destiny
 Niko, Light of Hope
+Niko, Spark of Victory
 Nikya of the Old Ways
 Nils, Discipline Enforcer
 Nim Abomination
@@ -20983,6 +20998,7 @@ Nissa, Ascended Animist
 Nissa, Genesis Mage
 Nissa, Leyline Tamer
 Nissa, Nature's Artisan
+Nissa, Pride of Zendikar
 Nissa, Resurgent Animist
 Nissa, Sage Animist
 Nissa, Steward of Elements
@@ -23369,6 +23385,7 @@ Prototype Portal
 Prototype X-8
 Proud Mentor
 Proud Pack-Rhino
+Proud Parent
 Proud Wildbonder
 Proven Combatant
 Providence
@@ -23776,6 +23793,7 @@ Rabid Gnaw
 Rabid Rats
 Rabid Wolverines
 Rabid Wombat
+Raccoon
 Raccoon Rallier
 Racecourse Fury
 Racers' Ring
@@ -23976,6 +23994,7 @@ Ral, Crackling Wit
 Ral, Izzet Viceroy
 Ral, Leyline Prodigy
 Ral, Monsoon Mage
+Ral, Smitten with Order
 Ral, Storm Conduit
 Rally
 Rally Maneuver
@@ -24436,6 +24455,7 @@ Red Mana Battery
 Red Priest of Yawgmoth
 Red Room Recruit
 Red Scarab
+Red Smothering Tithe
 Red Sun's Twilight
 Red Sun's Zenith
 Red Tiger Mechan
@@ -25287,6 +25307,7 @@ Roc Hatchling
 Roc Hunter
 Roc of Kher Ridges
 Rocco, Cabaretti Caterer
+Rocco, Snack Supplier
 Rocco, Street Chef
 Rock Badger
 Rock Basilisk
@@ -25832,6 +25853,7 @@ Saheeli's Silverwing
 Saheeli, Consul of Oversight
 Saheeli, Filigree Master
 Saheeli, Jewel of Avishkar
+Saheeli, Poet's Muse
 Saheeli, Radiant Creator
 Saheeli, Sublime Artificer
 Saheeli, the Gifted
@@ -26713,6 +26735,7 @@ Seething Skitter-Priest
 Seething Song
 Seething Song (Prepared)
 Sefris of the Hidden Ways
+Segante, Doing Crimes
 Segmented Krotiq
 Segmented Wurm
 Segovian Angel
@@ -27432,6 +27455,7 @@ Shrinking Plane
 Shrivel
 Shriveling Rot
 Shroofus Sproutsire
+Shroomsday, Feast Spoiler
 Shrouded Lore
 Shrouded Serpent
 Shrouded Shepherd
@@ -29826,6 +29850,7 @@ Striped Riverwinder
 Strix Lookout
 Strix Serenade
 Strixhaven
+Strixhaven Film Student
 Strixhaven Skycoach
 Strixhaven Stadium
 Stroke of Genius
@@ -31230,6 +31255,7 @@ The Aesir Escape Valhalla
 The Aether Flues
 The Aetherspark
 The Akroan War
+The Alien Spellslayer
 The Alright Henge
 The Ancient Dingus
 The Ancient One
@@ -31269,6 +31295,7 @@ The Big Idea
 The Big Top
 The Binding of the Titans
 The Bird Champion
+The Bird Pool
 The Birth of Meletis
 The Black Arrow
 The Black Breath
@@ -31302,6 +31329,7 @@ The Chain Veil
 The Champion
 The Chaos Keeper
 The Charitable Drafter
+The Charitable Kids
 The Chase Is On
 The Cheese Stands Alone
 The Cheetah Planet
@@ -31328,6 +31356,7 @@ The Cosplayzer
 The Council of Four
 The Countdown Is at One
 The Countering Runner
+The Countess of Counterspells
 The Covert Blue Mage
 The Crab Queen
 The Crafter
@@ -31437,6 +31466,7 @@ The Frightful Four
 The Fugitive Doctor
 The Gaffer
 The Game-Changing Host
+The Gaming Explainer
 The General
 The Generational Historian
 The Ghoul, Gunslinger
@@ -31514,7 +31544,9 @@ The Keeper of Kaldra
 The Keeper of the Yellow Hat
 The Kenriths' Royal Funeral
 The Key to the Vault
+The King of Grixis
 The Kingpin of Crime
+The Kinnan Hirer
 The Knight of Commentary
 The Knight of Land Drops
 The Knight of Weeks
@@ -31537,6 +31569,7 @@ The Long Reach of Night
 The Lord Master of Hell
 The Lord of Pain
 The Lord of the Eagles
+The Lorwyn Lizard
 The Lost and the Damned
 The Lunar Whale
 The Lux Foundation Library
@@ -31596,6 +31629,7 @@ The Mycosynth Gardens
 The Mycotyrant
 The Myriad Pools
 The Mysterious Sphere
+The Mystery Booster
 The Mystery Raceway
 The Mystical Archive
 The Naked Time
@@ -31605,6 +31639,7 @@ The Neutrinos
 The Night of the Doctor
 The Ninth Doctor
 The Nipton Lottery
+The No Mana Bard
 The Notary Hobbits
 The Octopus Official
 The Odd Acorn Gang
@@ -31636,7 +31671,9 @@ The Provider
 The Prydwen, Steel Flagship
 The Pyramid of Mars
 The Queen of Dale
+The Queen of Wolves
 The Rack
+The Radioactive Gravymaker
 The Rani
 The Raven Man
 The Raven's Warning
@@ -31648,6 +31685,7 @@ The Red Terror
 The Regalia
 The Restoration of Eiganjo
 The Revelations of Ezio
+The Rhystic Friends
 The Rhystic Storyteller
 The Ring
 The Ring Goes South
@@ -31655,15 +31693,18 @@ The Ring Tempts You
 The Ringhart Crest
 The Rise of Sozin
 The River Warlock
+The Roaming Guild Pack
 The Roaring Toeclaws
 The Rollercrusher Ride
 The Royal Scions
 The Ruinous Powers
 The Ruinous Wrecking Crew
+The Sabertooth Wizard
 The Sackville-Bagginses
 The Sad Creaturez
 The Salubrious Philosopher
 The Savant
+The Sayer of Don't
 The Scarab God
 The Scarlet Witch
 The Scholar of Seas
@@ -31701,6 +31742,7 @@ The Squadron Sinister
 The Stasis Coffin
 The Stone Brain
 The Strixhaven-Lorwyn Rover
+The Stylish Spellslayer
 The Super Hero Civil War
 The Superlatorium (a)
 The Superlatorium (b)
@@ -31714,6 +31756,7 @@ The Swarmlord
 The Swarmweaver
 The Sword of Kahless
 The Tabernacle at Pendrell Vale
+The Tale of Jimothy
 The Tale of Tamiyo
 The Tarrasque
 The Temporal Anchor
@@ -31750,6 +31793,7 @@ The Unluckiest Planeswalker
 The Unspeakable
 The Ur-Dragon
 The Ur-Sphinx
+The Urza Finder
 The Valeyard
 The Value Knight
 The Vanquisher
@@ -31791,6 +31835,7 @@ The Wise Mothman
 The Wise Sable
 The Witch's Vanity
 The Wizardly Barge
+The Wonderous Architect
 The Wondrous Wasp
 The World Spell
 The World Tree
@@ -32099,6 +32144,7 @@ Throne of the High City
 Throttle
 Through the Breach
 Through the Forest Gate
+Throw Shade
 Throw a Line
 Throw from the Saddle
 Throwing Knife
@@ -32464,6 +32510,7 @@ Tome of Legends
 Tome of the Guildpact
 Tome of the Infinite
 Tomebound Lich
+Tomik, Devoted to Chaos
 Tomik, Distinguished Advokist
 Tomik, Izzet Sparkmage
 Tomik, Orzhov Lawmage
@@ -35968,6 +36015,7 @@ Xander's Lounge
 Xander's Pact
 Xander's Wake
 Xantcha
+Xantcha, Contains Multitudes
 Xantcha, Sleeper Agent
 Xanthic Statue
 Xantid Swarm
@@ -36001,6 +36049,7 @@ Xyru Specter
 Y'shtola Rhul
 Y'shtola, Night's Blessed
 Yahenni's Expertise
+Yahenni, Slayer
 Yahenni, Undying Partisan
 Yamabushi's Flame
 Yamabushi's Storm
@@ -36157,6 +36206,7 @@ Yuffie, Materia Hunter
 Yuki-Onna
 Yukora, the Prisoner
 Yule Ooze
+Yuma, Plant Parent
 Yuma, Proud Protector
 Yume, Chronicler of Valor
 Yuna's Decision
@@ -36285,6 +36335,7 @@ Zimone, Infinite Analyst
 Zimone, Mystery Unraveler
 Zimone, Paradox Sculptor
 Zimone, Quandrix Prodigy
+Zinnia, Born for the Stage
 Zinnia, Valley's Voice
 Zirda, the Dawnwaker
 Zirilan of the Claw
