@@ -2355,6 +2355,7 @@ Baron Bertram Graywater
 Baron Helmut Zemo
 Baron Sengir
 Baron Strucker, HYDRA Overlord
+Baron Vladimir Harkonnen
 Baron Von Count
 Baron, Airship Kingdom
 Barony Vampire
@@ -4933,6 +4934,7 @@ Changeling Sentinel
 Changeling Titan
 Changeling Wayfinder
 Changing Loyalty
+Chani, Blade of Sietch Tabr
 Channel
 Channel (Prepared)
 Channel Harm
@@ -19818,6 +19820,7 @@ Mogis's Favor
 Mogis's Marauder
 Mogis's Warhound
 Mogis, God of Slaughter
+Mohiam, Imperial Truthsayer
 Moira Brown, Guide Author
 Moira and Teshar
 Moira, Urborg Haunt
@@ -20176,6 +20179,7 @@ Mu Yanling
 Mu Yanling, Celestial Wind
 Mu Yanling, Sky Dancer
 Mu Yanling, Wind Rider
+Muad'Dib, Prophet Foretold
 Muck Drubb
 Muck Rats
 Mudbrawler Cohort
@@ -22010,6 +22014,7 @@ Pact of the Serpent
 Pact of the Titan
 Pactdoll Terror
 Padeem, Consul of Innovation
+Padishah Emperor Shaddam IV
 Page, Loose Leaf
 Pah-Wraith
 Pain
@@ -22245,6 +22250,7 @@ Patron of the Wild
 Pattern Buffer Preservation
 Pattern Matcher
 Pattern of Rebirth
+Paul Atreides, Ducal Heir
 Paupers' Cage
 Pause for Reflection
 Pavel Chekov, First Posting
@@ -23217,6 +23223,7 @@ Primordial Sage
 Primordial Wurm
 Prince Imrahil the Fair
 Prince of Thralls
+Princess Irulan Corrino
 Princess Lucrezia
 Princess Luna
 Princess Snowfall
@@ -24898,6 +24905,7 @@ Revered Dead
 Revered Elder
 Revered Unicorn
 Reverence
+Reverend Mother Jessica
 Reverent Hoplite
 Reverent Howl
 Reverent Hunter
@@ -27085,6 +27093,7 @@ Shagrat, Loot Bearer
 Shah of Naar Isle
 Shahrazad
 Shahrazad and Sindbad
+Shai-Hulud
 Shaile, Dean of Radiance
 Shake the Foundations
 Shakedown Heavy
