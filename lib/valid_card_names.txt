@@ -10409,7 +10409,7 @@ Fellwar Stone
 Felonious Rage
 Felothar the Steadfast
 Felothar, Dawn of the Abzan
-Felothar, Rights and Wrongs 13
+Felothar, Rights and Wrongs
 Femeref Archers
 Femeref Enchantress
 Femeref Healer
@@ -31844,7 +31844,7 @@ The Wise Mothman
 The Wise Sable
 The Witch's Vanity
 The Wizardly Barge
-The Wonderous Architect
+The Wondrous Architect
 The Wondrous Wasp
 The World Spell
 The World Tree
