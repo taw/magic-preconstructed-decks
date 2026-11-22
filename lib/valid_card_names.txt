@@ -652,6 +652,7 @@ Alena, Frontline Rush
 Alena, Kessig Trapper
 Alert Heedbonder
 Alert Shu Infantry
+Alesha's Arena
 Alesha's Legacy
 Alesha's Vanguard
 Alesha, Who Laughs at Fate
@@ -1580,7 +1581,6 @@ Artisan of Forms
 Artisan of Kozilek
 Artisan's Sorrow
 Artist Alley
-Artist Alley (Plane)
 Artist's Talent
 Artistic Process
 Artistic Refusal
@@ -2154,6 +2154,7 @@ Bag of Devouring
 Bag of Holding
 Bag of Stroopwafels
 Bag of Tricks
+Bagel Valley
 Bagel and Schmear
 Bahamut, Warden of Light
 Bail Out
@@ -4400,6 +4401,7 @@ Capricious Sorcerer
 Capricopian
 Capsize
 Capsizing Wave
+Captain (Rank)
 Captain America's Motorcycle
 Captain America's Shield
 Captain America, First Avenger
@@ -4586,6 +4588,7 @@ Castle Sengir
 Castle Vantress
 Casualties of War
 Cat Burglar
+Cat Café
 Cat Collector
 Cat Oven
 Cat Warriors
@@ -5066,8 +5069,10 @@ Chicken Egg
 Chicken Troupe
 Chicken à la King
 Chief Engineer
+Chief Engineer (Rank)
 Chief Kyle, Transporter Tech
 Chief Magistrate of Mercadia
+Chief Medical Officer (Rank)
 Chief Miles O'Brien
 Chief Montgomery Scott
 Chief Warg's Company
@@ -5327,6 +5332,7 @@ Clarion Cathars
 Clarion Conqueror
 Clarion Spirit
 Clarion Ultimatum
+Clash Me Outside
 Clash of Elements
 Clash of Realities
 Clash of Titans
@@ -5583,6 +5589,7 @@ Coiling Woodworm
 Coils of the Medusa
 Coin of Fate
 Coin of Mastery
+Cola Bottling Plant
 Cold Case Cracker
 Cold Snap
 Cold Storage
@@ -6283,6 +6290,7 @@ Crew Captain
 Crib Swap
 Crime
 Crime Novelist
+Crime Scene
 Crimestopper Sprite
 Criminal Enterprise
 Criminal Past
@@ -7372,6 +7380,7 @@ Dementia Bat
 Dementia Sliver
 Demigod of Revenge
 Demilich
+Demo Tables
 Demogorgon's Clutches
 Demolish
 Demolisher Spawn
@@ -9130,6 +9139,7 @@ Elvish House Party
 Elvish Hunter
 Elvish Hydromancer
 Elvish Impersonation Contest
+Elvish Impersonation Contest (Phenomenon)
 Elvish Impersonators
 Elvish Lookout
 Elvish Lyrist
@@ -9877,6 +9887,7 @@ Exploration
 Exploration Broodship
 Exploratory Mission
 Explore
+Explore the Local Scene
 Explore the Underdark
 Explore the Vastlands
 Explorer's Cache
@@ -10738,6 +10749,7 @@ First Contact
 First Day of Class
 First Family
 First Little Pig
+First Officer (Rank)
 First Pick
 First Responder
 First Response
@@ -10816,6 +10828,7 @@ Flamekin Harbinger
 Flamekin Herald
 Flamekin Spitfire
 Flamekin Village
+Flamekin Village Square
 Flamerush Rider
 Flames of Moradin
 Flames of the Blood Hand
@@ -10892,6 +10905,7 @@ Fledgling Imp
 Fledgling Mawcor
 Fledgling Osprey
 Fleecemane Lion
+Fleem-for-All
 Fleet Captain Christopher Pike
 Fleet Swallower
 Fleet-Footed Monk
@@ -11121,6 +11135,7 @@ Forbidden Crypt
 Forbidden Friendship
 Forbidden Lore
 Forbidden Orchard
+Forbidden Peach Orchard
 Forbidden Ritual
 Forbidding Spirit
 Forbidding Watchtower
@@ -11306,6 +11321,7 @@ Fracture
 Fractured Identity
 Fractured Loyalty
 Fractured Powerstone
+Fractured Realities
 Fractured Realm
 Fractured Sanity
 Fracturing Gust
@@ -11933,6 +11949,7 @@ Geometer's Arthropod
 Geometric Nexus
 Geometric Weird
 Geordi La Forge, Innovator
+Georgia Technical Institute
 Georgiou, Terran Emperor
 Geosurge
 Geothermal Bog
@@ -12764,6 +12781,7 @@ Golden-Scale Aeronaut
 Golden-Tail Disciple
 Golden-Tail Trainer
 Goldenglow Moth
+Goldengrave
 Goldenhide Ox
 Goldfury Strider
 Goldhound
@@ -12896,6 +12914,7 @@ Graceful Cat
 Graceful Reprieve
 Graceful Restoration
 Graceful Takedown
+Grachtengordel
 Graduation Day
 Graf Harvest
 Graf Mole
@@ -13022,6 +13041,7 @@ Graveyard Marshal
 Graveyard Shift
 Graveyard Shovel
 Graveyard Trespasser
+Gravitational Capture
 Gravitational Shift
 Gravitic Herald
 Gravitic Punch
@@ -13874,6 +13894,7 @@ He's Dead, Jim
 Head Banger
 Head Games
 Head of Security
+Head of Security (Rank)
 Head of the Class
 Head of the Homestead
 Head of the Hunt
@@ -14926,6 +14947,7 @@ Iguana Parrot
 Ihsan's Shade
 Iizuka the Ruthless
 Ikiral Outrider
+Ikori-All-You-Can-Eat
 Ikra Shidiqi, the Usurper
 Il Mheg Pixie
 Ilharg, the Raze-Boar
@@ -15787,6 +15809,8 @@ Jabs, Mistress of Mockery
 Jace Beleren
 Jace Reawakened
 Jace's Archivist
+Jace's Bloomburrow
+Jace's Capenna
 Jace's Defeat
 Jace's Erasure
 Jace's Ingenuity
@@ -15799,7 +15823,9 @@ Jace's Saga
 Jace's Sanctum
 Jace's Scrutiny
 Jace's Sentinel
+Jace's Thuuuuunder Junction
 Jace's Triumph
+Jace's Zendikar
 Jace, Arcane Strategist
 Jace, Architect of Thought
 Jace, Cunning Castaway
@@ -15871,6 +15897,7 @@ Jailbreak
 Jailbreak Scheme
 Jake Sisko, War Correspondent
 Jalira's Show
+Jalira's Showroom
 Jalira, Master Polymorphist
 Jalum Grifter
 Jalum Tome
@@ -17932,6 +17959,7 @@ Loathsome Chimera
 Loathsome Curator
 Loathsome Troll
 Lobber Crew
+LobbyCon
 Lobe Lobber
 Lobelia Sackville-Baggins
 Lobelia, Defender of Bag End
@@ -18075,6 +18103,7 @@ Lorescale Coatl
 Loreseeker's Stone
 Lorthos, Tentacled Terror
 Lorthos, the Tidemaker
+Lorwyn Arena
 Los Diablos Missile Base
 Lose Calm
 Lose Focus
@@ -20213,6 +20242,7 @@ Multiclass Baldric
 Multiform Wonder
 Multiple Choice
 Multiply by Zero
+Multiversal Field Trip
 Multiversal High Council
 Multiversal Incursion
 Multiversal Passage
@@ -20377,6 +20407,7 @@ Mysterious Egg
 Mysterious Hero
 Mysterious Limousine
 Mysterious Pathlighter
+Mysterious Planet
 Mysterious Stranger
 Mysterious Tome
 Mystery Key
@@ -20542,6 +20573,7 @@ Nath of the Gilt-Leaf
 Nath's Buffoon
 Nath's Elite
 Nathan Drake, Treasure Hunter
+National Museum
 Natural Affinity
 Natural Balance
 Natural Connection
@@ -20581,6 +20613,7 @@ Nausea
 Nautiloid Ship
 Nav Squad Commandos
 Navigation Orb
+Navigator (Rank)
 Navigator's Compass
 Navigator's Ruin
 Naya
@@ -20707,6 +20740,7 @@ Nemesis of Mortals
 Nemesis of Reason
 Neo Exdeath, Dimension's End
 Neoform
+Neon Graveyard
 Neonate's Rush
 Nephalia
 Nephalia Academy
@@ -20793,6 +20827,7 @@ Nevinyrral, Urborg Tyrant
 New Argive
 New Benalia
 New Blood
+New Coopenna
 New Frontiers
 New Generation's Technique
 New Horizons
@@ -21503,6 +21538,7 @@ Omarthis, Ghostfire Initiate
 Omashu City
 Omega Myr
 Omega, Heartless Evolution
+Omega-Level Threat
 Omen
 Omen Hawker
 Omen Machine
@@ -21948,6 +21984,7 @@ Overseer of the Damned
 Oversimplify
 Oversold Cemetery
 Oversoul of Dusk
+Overstuffed Bicycle Rack
 Overt Operative
 Overtaker
 Overture
@@ -22516,6 +22553,7 @@ Phoenix Chick
 Phoenix Down
 Phoenix Fleet Airship
 Phoenix Heart
+Phoenix Nest
 Phoenix of Ash
 Phoenix of Iteration
 Phoenix, Warden of Fire
@@ -22765,6 +22803,7 @@ Pixie Guide
 Pixie Illusionist
 Pixie Queen
 Pizza Face, Gastromancer
+Pizza Parlor
 Placid Rottentail
 Plagiarize
 Plagon, Lord of the Beach
@@ -25604,6 +25643,7 @@ Ruins of Oran-Rief
 Ruins of Trokair
 Rukarumel, Biologist
 Rukh Egg
+Rule 104.3a
 Rule of Law
 Rule with an Even Hand
 Rules Lawyer
@@ -25944,6 +25984,7 @@ Samurai Enforcers
 Samurai of the Pale Curtain
 Samurai's Katana
 Samut's Sprint
+Samut's Training Grounds
 Samut, Hazoret's Champion
 Samut, Tyrant Smasher
 Samut, Tyrant of Naktamun
@@ -25999,6 +26040,7 @@ Sandbar Serpent
 Sandbender Scavengers
 Sandbenders' Storm
 Sandblast
+Sandbox Black Market
 Sandcloud Harbinger
 Sandcrafter Mage
 Sandman's Quicksand
@@ -26660,6 +26702,7 @@ Secret Base
 Secret Door
 Secret Identity
 Secret Invasion
+Secret Lair
 Secret Passage
 Secret Plans
 Secret Rendezvous
@@ -26955,6 +26998,7 @@ Serra's Embrace
 Serra's Emissary
 Serra's Guardian
 Serra's Hymn
+Serra's Jace's Realm
 Serra's Liturgy
 Serra's Sanctum
 Serrated Arrows
@@ -27415,6 +27459,7 @@ Show and Tell
 Show of Confidence
 Show of Valor
 Showdown of the Skalds
+Showdown of the Supers
 Shower of Arrows
 Shower of Coals
 Shower of Sparks
@@ -29860,6 +29905,7 @@ Strix Lookout
 Strix Serenade
 Strixhaven
 Strixhaven Film Student
+Strixhaven Rivalry
 Strixhaven Skycoach
 Strixhaven Stadium
 Stroke of Genius
@@ -31100,6 +31146,7 @@ Terminal Velocity
 Terminate
 Termination Facilitator
 Terminus
+Terminus, End of the Line
 Teroh's Faithful
 Teroh's Vanguard
 Terra Eternal
@@ -31275,6 +31322,7 @@ The Archenemy's Charm
 The Archimandrite
 The Argent Etchings
 The Arkenstone
+The Art of Magic
 The Art of Tea
 The Ash Lizard
 The Asker of More Mana
@@ -31300,6 +31348,7 @@ The Belligerent
 The Belligerent and Useless Island
 The Best of Both Worlds
 The Biblioplex
+The Big Aquarium
 The Big Idea
 The Big Top
 The Binding of the Titans
@@ -31610,6 +31659,7 @@ The Mechanist, Aerial Artisan
 The Meep
 The Meld Hound
 The Mending of Dominaria
+The Merch Booth
 The Mightstone and Weakstone
 The Mighty Thor, Jane Foster
 The Mighty Will Fall
@@ -32153,6 +32203,7 @@ Throne of the High City
 Throttle
 Through the Breach
 Through the Forest Gate
+Through the Wormhole
 Throw Shade
 Throw a Line
 Throw from the Saddle
@@ -33332,6 +33383,7 @@ Ultimate Magic: Meteor
 Ultimate Nullification
 Ultimate Price
 Ultimate Spider-Man
+Ultimate Team-Up
 Ultimecia, Omnipotent
 Ultimecia, Temporal Threat
 Ultimecia, Time Sorceress
@@ -33713,6 +33765,7 @@ Urborg, Tomb of Yawgmoth
 Urdnan, Dromoka Warrior
 Ureni of the Unwritten
 Ureni's Counsel
+Ureni's Lair
 Ureni's Rebuff
 Ureni, the Song Unending
 Urge to Feed
@@ -34742,6 +34795,7 @@ Vuzzle Spaceship
 Vv'viza, Orbital Overseer
 Võx, Child of the Collective
 W'Kabi, Shield of the Nation
+Waffle Hovel
 Wagon Wrecker
 Wail of War
 Wail of the Forgotten
@@ -36158,6 +36212,7 @@ You Cannot Pass!
 You Come to a River
 You Come to the Gnoll Camp
 You Compleat Me
+You Encounter a Beholder!
 You Exist Only to Amuse
 You Find Some Prisoners
 You Find a Cursed Idol
@@ -36199,6 +36254,7 @@ Your Own Face Mocks You
 Your Plans Mean Nothing
 Your Puny Minds Cannot Fathom
 Your Temple Is Under Attack
+Your Turn at the Merch Booth
 Your Will Is Not Your Own
 Your Wish Is My Command
 Youthful Knight
